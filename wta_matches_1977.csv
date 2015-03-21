@@ -1,0 +1,993 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,winner_rank,winner_rank_points,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,loser_rank,loser_rank_points,score,best_of,round
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,001,200221,1,,Dianne Balestrat,U,,AUS,,,,200328,,,Patricia Bostrom,U,,USA,,,,6-0 3-0 RET,3,R32
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,002,200213,,,Jan Oneill,U,,AUS,,,,200233,,,Christine Dorey,U,,AUS,,,,6-4 4-6 6-4,3,R32
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,003,200755,,,Daniela Marzano,U,,ITA,,,,200254,,,Michele Gurdal,U,,BEL,,,,3-6 6-4 6-1,3,R32
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,004,200306,,,Jan Wilton,U,,AUS,,,,200160,,,Judy Dalton,U,,AUS,,,,6-3 4-6 6-1,3,R32
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,005,200273,,,Nerida Gregory,U,,AUS,,,,200333,4,,Betsy Nagelsen,R,,USA,,,,2-6 7-5 6-3,3,R32
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,006,200168,,,Karen Krantzcke,R,,AUS,,,,200335,,,Judy Chaloner,U,,NZL,,,,6-3 6-2,3,R32
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,007,200234,,,Pam Whytcross,U,,AUS,,,,200143,,,Kathleen Harter,U,,USA,,,,5-7 6-4 6-4,3,R32
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,008,200326,,,Naoko Sato,U,,JPN,,,,200308,,,Kym Ruddell,U,,AUS,,,,6-4 6-4,3,R32
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,009,200329,,Q,Mary Sawyer,U,,AUS,,,,200282,,,Jenny Dimond,U,,AUS,,,,6-3 7-5,3,R32
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,010,200756,,,Bunny Bruning,U,,USA,,,,200141,,,Wendy Gilchrist,L,,AUS,,,,7-6 6-7 6-2,3,R32
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,011,200460,,,Regina Marsikova,U,,CZE,,,,200158,,Q,Carol Zeeman,U,,AUS,,,,6-1 6-3,3,R32
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,012,200184,3,,Helen Cawley,U,,AUS,,,,200757,,Q,Pamela Bailey,U,,AUS,,,,3-6 6-1 6-1,3,R32
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,013,200758,,,Rayni Fox,U,,USA,,,,200332,,Q,Amanda Tobin Dingwall,R,,AUS,,,,6-2 6-2,3,R32
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,014,200759,,,Katja Ebbinghaus,U,,FRG,,,,200316,,,Heidi Eisterlehner,R,,GER,,,,6-1 6-2,3,R32
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,015,200171,,,Janet Young,U,,AUS,,,,200256,,,Chris Oneil,R,,AUS,,,,6-7 6-4 6-3,3,R32
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,016,200176,2,,Kerry Reid,R,,AUS,,,,200129,,,Lesley Bowrey,R,,AUS,,,,6-3 6-2,3,R32
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,017,200221,1,,Dianne Balestrat,U,,AUS,,,,200213,,,Jan Oneill,U,,AUS,,,,6-1 6-2,3,R16
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,018,200306,,,Jan Wilton,U,,AUS,,,,200755,,,Daniela Marzano,U,,ITA,,,,6-2 6-3,3,R16
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,019,200168,,,Karen Krantzcke,R,,AUS,,,,200273,,,Nerida Gregory,U,,AUS,,,,6-4 6-1,3,R16
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,020,200326,,,Naoko Sato,U,,JPN,,,,200234,,,Pam Whytcross,U,,AUS,,,,7-5 6-3,3,R16
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,021,200329,,Q,Mary Sawyer,U,,AUS,,,,200756,,,Bunny Bruning,U,,USA,,,,6-3 4-6 6-3,3,R16
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,022,200184,3,,Helen Cawley,U,,AUS,,,,200460,,,Regina Marsikova,U,,CZE,,,,6-3 6-3,3,R16
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,023,200759,,,Katja Ebbinghaus,U,,FRG,,,,200758,,,Rayni Fox,U,,USA,,,,6-2 6-7 6-1,3,R16
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,024,200176,2,,Kerry Reid,R,,AUS,,,,200171,,,Janet Young,U,,AUS,,,,6-1 6-2,3,R16
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,025,200221,1,,Dianne Balestrat,U,,AUS,,,,200306,,,Jan Wilton,U,,AUS,,,,6-3 4-6 6-1,3,QF
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,026,200168,,,Karen Krantzcke,R,,AUS,,,,200326,,,Naoko Sato,U,,JPN,,,,6-3 4-6 6-0,3,QF
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,027,200184,3,,Helen Cawley,U,,AUS,,,,200329,,Q,Mary Sawyer,U,,AUS,,,,6-1 6-4,3,QF
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,028,200176,2,,Kerry Reid,R,,AUS,,,,200759,,,Katja Ebbinghaus,U,,FRG,,,,6-0 6-4,3,QF
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,029,200221,1,,Dianne Balestrat,U,,AUS,,,,200168,,,Karen Krantzcke,R,,AUS,,,,7-6 6-4,3,SF
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,030,200176,2,,Kerry Reid,R,,AUS,,,,200184,3,,Helen Cawley,U,,AUS,,,,6-2 1-6 6-3,3,SF
+1977-W-SL-AUS-01A-1977,Australian Open,Grass,32,G,19770103,031,200176,2,,Kerry Reid,R,,AUS,,,,200221,1,,Dianne Balestrat,U,,AUS,,,,7-5 6-2,3,F
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,001,200150,1,,Evonne Cawley,R,,AUS,,,,200291,,,Diane Evers,U,,AUS,,,,6-1 6-3,3,R32
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,002,200326,,,Naoko Sato,U,,JPN,,,,200329,,,Mary Sawyer,U,,AUS,,,,6-3 6-4,3,R32
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,003,200299,,,Kaye Hallam,U,,AUS,,,,200760,,,Pauline Elliott,U,,NZL,,,,5-7 6-4 7-5,3,R32
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,004,200160,,Q,Judy Dalton,U,,AUS,,,,200264,6,,Helena Anliot,U,,SWE,,,,7-6 6-2,3,R32
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,005,200176,3,,Kerry Reid,R,,AUS,,,,200336,,Q,Keryn Pratt,U,,AUS,,,,6-4 6-2,3,R32
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,006,200325,,,Leanne Harrison Austin,U,,AUS,,,,200322,,LL,Karen Gulley,U,,AUS,,,,4-6 6-0 6-3,3,R32
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,007,200306,,,Jan Wilton,U,,AUS,,,,200305,,,Carol Draper,U,,AUS,,,,6-2 6-2,3,R32
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,008,200143,7,,Kathleen Harter,U,,USA,,,,200330,,,Sue Saliba,U,,AUS,,,,6-1 7-5,3,R32
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,009,200184,5,,Helen Cawley,U,,AUS,,,,200141,,,Wendy Gilchrist,L,,AUS,,,,6-1 6-3,3,R32
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,010,200338,,,Elizabeth Little,U,,AUS,,,,200308,,,Kym Ruddell,U,,AUS,,,,6-2 6-3,3,R32
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,011,200332,,,Amanda Tobin Dingwall,R,,AUS,,,,200761,,,Michelle Pekovitch,U,,AUS,,,,6-4 6-3,3,R32
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,012,200226,4,,Mona Guerrant,U,,USA,,,,200343,,Q,Susan Leo,U,,AUS,,,,6-2 6-1,3,R32
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,013,200758,8,,Rayni Fox,U,,USA,,,,200233,,,Christine Dorey,U,,AUS,,,,6-2 6-1,3,R32
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,014,200328,,,Patricia Bostrom,U,,USA,,,,200234,,,Pam Whytcross,U,,AUS,,,,6-3 4-6 9-7,3,R32
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,015,200273,,,Nerida Gregory,U,,AUS,,,,200762,,Q,Sharon Pinchbeck,U,,AUS,,,,7-5 6-1,3,R32
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,016,200266,2,,Sue Barker,R,,GBR,,,,200763,,,Cathy Drury,U,,GBR,,,,6-3 6-2,3,R32
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,017,200150,1,,Evonne Cawley,R,,AUS,,,,200326,,,Naoko Sato,U,,JPN,,,,6-4 6-0,3,R16
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,018,200160,,Q,Judy Dalton,U,,AUS,,,,200299,,,Kaye Hallam,U,,AUS,,,,6-0 6-3,3,R16
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,019,200176,3,,Kerry Reid,R,,AUS,,,,200325,,,Leanne Harrison Austin,U,,AUS,,,,6-0 6-0,3,R16
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,020,200143,7,,Kathleen Harter,U,,USA,,,,200306,,,Jan Wilton,U,,AUS,,,,6-2 6-3,3,R16
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,021,200184,5,,Helen Cawley,U,,AUS,,,,200338,,,Elizabeth Little,U,,AUS,,,,6-0 6-1,3,R16
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,022,200226,4,,Mona Guerrant,U,,USA,,,,200332,,,Amanda Tobin Dingwall,R,,AUS,,,,7-6 6-2,3,R16
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,023,200758,8,,Rayni Fox,U,,USA,,,,200328,,,Patricia Bostrom,U,,USA,,,,7-5 6-7 7-5,3,R16
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,024,200266,2,,Sue Barker,R,,GBR,,,,200273,,,Nerida Gregory,U,,AUS,,,,7-5 6-3,3,R16
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,025,200150,1,,Evonne Cawley,R,,AUS,,,,200160,,Q,Judy Dalton,U,,AUS,,,,6-3 6-1,3,QF
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,026,200176,3,,Kerry Reid,R,,AUS,,,,200143,7,,Kathleen Harter,U,,USA,,,,6-1 7-5,3,QF
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,027,200184,5,,Helen Cawley,U,,AUS,,,,200226,4,,Mona Guerrant,U,,USA,,,,3-6 6-1 6-4,3,QF
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,028,200266,2,,Sue Barker,R,,GBR,,,,200758,8,,Rayni Fox,U,,USA,,,,6-3 6-0,3,QF
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,029,200150,1,,Evonne Cawley,R,,AUS,,,,200176,3,,Kerry Reid,R,,AUS,,,,6-1 6-3,3,SF
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,030,200184,5,,Helen Cawley,U,,AUS,,,,200266,2,,Sue Barker,R,,GBR,,,,7-5 6-4,3,SF
+1977-W-SL-AUS-02A-1977,Australian Open,Grass,32,G,19771219,031,200150,1,,Evonne Cawley,R,,AUS,,,,200184,5,,Helen Cawley,U,,AUS,,,,6-3 6-0,3,F
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,001,200371,1,,Mima Jausovec,U,,SLO,,,,200334,,,Sabina Simmonds,R,,ITA,,,,6-3 6-3,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,002,200813,,,Ingrid Bentzer,R,,SWE,,,,200326,,,Naoko Sato,U,,JPN,,,,6-7 6-4 6-3,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,003,200949,,Q,Silvana Urroz,U,,CHI,,,,200243,,,Glynis Coles,U,,GBR,,,,4-6 7-6 6-2,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,004,200234,,,Pam Whytcross,U,,AUS,,,,200353,,,Lele Forood,U,,USA,,,,6-1 6-0,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,005,200829,8,,Nancy Richey,R,,USA,,,,200318,,,Michelle Tyler,U,,GBR,,,,6-0 6-3,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,006,200787,,,Fiorella Bonicelli,U,,URU,,,,200358,,,Marcie Harper,U,,USA,,,,6-4 6-3,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,007,200926,,Q,Donna Ganz,U,,USA,,,,200369,,,Candy Reynolds,U,,USA,,,,7-6 5-7 6-4,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,008,200283,,,Pam Teeguarden,U,,USA,,,,200365,,,Tanya Harford,U,,RSA,,,,7-5 7-6,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,009,200460,4,,Regina Marsikova,U,,CZE,,,,200950,,,Marise Kruger,U,,RSA,,,,7-5 6-4,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,010,200803,,,Raquel Giscafre,U,,ARG,,,,200223,,,Sharon Walsh Pete,R,,USA,,,,6-2 6-3,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,011,200410,,,Yvonne Vermaak,R,,RSA,,,,200951,,,Mary Struthers,U,,USA,,,,6-2 6-3,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,012,200361,,,Marie Pinterova,U,,HUN,,,,200758,,,Rayni Fox,U,,USA,,,,6-4 6-2,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,013,200320,5,,Renata Tomanova,U,,GER,,,,200296,,,Belinda Thompson,U,,GBR,,,,6-3 6-4,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,014,200907,,Q,Carmen Perea Alcala,U,,ESP,,,,200880,,Q,Kimiyo Yagahara,U,,JPN,,,,6-4 6-4,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,015,200948,,,Brigette Cuypers,U,,RSA,,,,200946,,Q,Sylvie Rual,U,,FRA,,,,5-7 7-6 6-0,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,016,200312,,,Frederique Thibault,U,,FRA,,,,200146,,,Cynthia Doerner,U,,AUS,,,,7-6 7-6,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,017,200288,,,Sue Mappin,R,,GBR,,,,200952,,,Mary Hamm,U,,USA,,,,6-4 6-4,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,018,200759,,,Katja Ebbinghaus,U,,FRG,,,,200945,,,Marita Redondo,R,,USA,,,,6-1 6-1,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,019,200911,,,Linky Boshoff,U,,RSA,,,,200281,,,Jackie Fayter,U,,GBR,,,,7-5 6-1,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,020,200953,,Q,Viviana Segal,U,,ARG,,,,200185,6,,Lesley Hunt,U,,AUS,,,,6-0 6-0,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,021,200255,,,Lesley Charles,U,,GBR,,,,200954,,Q,Claudia Casabianca,U,,ARG,,,,6-1 4-6 10-8,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,022,200935,,,Florenta Mihai,U,,ROU,,,,200909,,,Florence Guedy,U,,FRA,,,,6-3 6-3,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,023,200955,,,Mary Carillo,L,,USA,,,,200335,,,Judy Chaloner,U,,NZL,,,,6-4 6-3,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,024,200317,3,,Helga Masthoff,U,,FRG,,,,200254,,,Michele Gurdal,U,,BEL,,,,6-2 6-4,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,025,200298,,,Laura Du Pont,U,,USA,,,,200238,,,Nathalie Fuchs,U,,FRA,,,,6-1 2-6 6-2,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,026,200936,,,Iris Riedel Kuhn,U,,FRG,,,,200940,,,Ilana Kloss,U,,RSA,,,,6-4 6-0,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,027,200316,,,Heidi Eisterlehner,R,,GER,,,,200756,,,Bunny Bruning,U,,USA,,,,7-6 7-6,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,028,200263,7,,Janet Wright,U,,USA,,,,200314,,,Brigitte Simon Glinel,U,,FRA,,,,6-3 6-4,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,029,200184,,,Helen Cawley,U,,AUS,,,,200256,,LL,Chris Oneil,R,,AUS,,,,6-3 6-1,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,030,200302,,,Linda Mottram,U,,GBR,,,,200956,,,Carrie Meyer,R,,USA,,,,6-3 6-2,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,031,200363,,Q,Hana Strachonova,U,,SUI,,,,200143,,,Kathleen Harter,U,,USA,,,,6-3 6-3,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,032,200938,2,,Kathy May Teacher Paben,U,,USA,,,,200291,,,Diane Evers,U,,AUS,,,,6-4 6-4,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,033,200371,1,,Mima Jausovec,U,,SLO,,,,200813,,,Ingrid Bentzer,R,,SWE,,,,6-2 6-1,3,R32
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,034,200234,,,Pam Whytcross,U,,AUS,,,,200949,,Q,Silvana Urroz,U,,CHI,,,,6-1 6-2,3,R32
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,035,200829,8,,Nancy Richey,R,,USA,,,,200787,,,Fiorella Bonicelli,U,,URU,,,,6-4 5-7 6-1,3,R32
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,036,200283,,,Pam Teeguarden,U,,USA,,,,200926,,Q,Donna Ganz,U,,USA,,,,6-4 4-6 7-5,3,R32
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,037,200460,4,,Regina Marsikova,U,,CZE,,,,200803,,,Raquel Giscafre,U,,ARG,,,,6-4 6-2,3,R32
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,038,200410,,,Yvonne Vermaak,R,,RSA,,,,200361,,,Marie Pinterova,U,,HUN,,,,6-4 6-2,3,R32
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,039,200320,5,,Renata Tomanova,U,,GER,,,,200907,,Q,Carmen Perea Alcala,U,,ESP,,,,6-1 7-5,3,R32
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,040,200948,,,Brigette Cuypers,U,,RSA,,,,200312,,,Frederique Thibault,U,,FRA,,,,6-4 6-4,3,R32
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,041,200288,,,Sue Mappin,R,,GBR,,,,200759,,,Katja Ebbinghaus,U,,FRG,,,,6-3 6-4,3,R32
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,042,200911,,,Linky Boshoff,U,,RSA,,,,200953,,Q,Viviana Segal,U,,ARG,,,,4-6 6-3 6-3,3,R32
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,043,200935,,,Florenta Mihai,U,,ROU,,,,200255,,,Lesley Charles,U,,GBR,,,,4-6 6-3 6-3,3,R32
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,044,200317,3,,Helga Masthoff,U,,FRG,,,,200955,,,Mary Carillo,L,,USA,,,,1-6 6-1 6-3,3,R32
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,045,200298,,,Laura Du Pont,U,,USA,,,,200936,,,Iris Riedel Kuhn,U,,FRG,,,,6-1 6-2,3,R32
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,046,200263,7,,Janet Wright,U,,USA,,,,200316,,,Heidi Eisterlehner,R,,GER,,,,6-3 6-4,3,R32
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,047,200184,,,Helen Cawley,U,,AUS,,,,200302,,,Linda Mottram,U,,GBR,,,,6-0 6-2,3,R32
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,048,200938,2,,Kathy May Teacher Paben,U,,USA,,,,200363,,Q,Hana Strachonova,U,,SUI,,,,7-6 6-2,3,R32
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,049,200371,1,,Mima Jausovec,U,,SLO,,,,200234,,,Pam Whytcross,U,,AUS,,,,6-2 6-0,3,R16
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,050,200283,,,Pam Teeguarden,U,,USA,,,,200829,8,,Nancy Richey,R,,USA,,,,7-5 4-6 6-3,3,R16
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,051,200460,4,,Regina Marsikova,U,,CZE,,,,200410,,,Yvonne Vermaak,R,,RSA,,,,6-2 6-4,3,R16
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,052,200320,5,,Renata Tomanova,U,,GER,,,,200948,,,Brigette Cuypers,U,,RSA,,,,6-3 6-4,3,R16
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,053,200911,,,Linky Boshoff,U,,RSA,,,,200288,,,Sue Mappin,R,,GBR,,,,5-7 7-5 6-2,3,R16
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,054,200935,,,Florenta Mihai,U,,ROU,,,,200317,3,,Helga Masthoff,U,,FRG,,,,3-6 6-3 8-6,3,R16
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,055,200263,7,,Janet Wright,U,,USA,,,,200298,,,Laura Du Pont,U,,USA,,,,6-3 7-5,3,R16
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,056,200938,2,,Kathy May Teacher Paben,U,,USA,,,,200184,,,Helen Cawley,U,,AUS,,,,6-2 6-2,3,R16
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,057,200371,1,,Mima Jausovec,U,,SLO,,,,200283,,,Pam Teeguarden,U,,USA,,,,7-5 6-4,3,QF
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,058,200460,4,,Regina Marsikova,U,,CZE,,,,200320,5,,Renata Tomanova,U,,GER,,,,7-6 6-7 6-3,3,QF
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,059,200935,,,Florenta Mihai,U,,ROU,,,,200911,,,Linky Boshoff,U,,RSA,,,,6-3 4-6 7-5,3,QF
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,060,200263,7,,Janet Wright,U,,USA,,,,200938,2,,Kathy May Teacher Paben,U,,USA,,,,6-4 5-7 6-2,3,QF
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,061,200371,1,,Mima Jausovec,U,,SLO,,,,200460,4,,Regina Marsikova,U,,CZE,,,,6-1 3-6 6-3,3,SF
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,062,200935,,,Florenta Mihai,U,,ROU,,,,200263,7,,Janet Wright,U,,USA,,,,7-6 6-3,3,SF
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,063,200371,1,,Mima Jausovec,U,,SLO,,,,200935,,,Florenta Mihai,U,,ROU,,,,6-2 6-7 6-1,3,F
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,001,200259,1,,Chris Evert,R,,USA,,,,200957,,,Ruta Gerulaitis,U,,USA,,,,6-0 6-3,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,002,200929,,,Elly Appel,U,,NED,,,,200952,,,Mary Hamm,U,,USA,,,,6-4 3-6 6-2,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,003,200296,,,Belinda Thompson,U,,GBR,,,,201155,,,Erin Dignam,U,,USA,,,,2-6 7-5 6-1,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,004,200352,,,Greer Stevens,U,,RSA,,,,200951,,,Mary Struthers,U,,USA,,,,6-1 6-0,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,005,200378,,,Anne Smith,R,,USA,,,,200285,,,Mimi Wikstedt,U,,SWE,,,,4-6 6-2 6-0,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,006,200263,,,Janet Wright,U,,USA,,,,200803,,,Raquel Giscafre,U,,ARG,,,,6-4 6-2,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,007,200209,,,Wendy Turnbull,U,,AUS,,,,200316,,,Heidi Eisterlehner,R,,GER,,,,6-2 6-1,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,008,200950,,,Marise Kruger,U,,RSA,,,,200318,,,Michelle Tyler,U,,GBR,,,,6-4 2-6 6-2,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,009,200237,3,,Virginia Wade,R,,GBR,,,,200392,,,Jo Durie,R,,GBR,,,,6-2 6-2,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,010,200281,,,Jackie Fayter,U,,GBR,,,,200315,,,Nina Bohm,U,,SWE,,,,2-6 6-3 6-2,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,011,200928,,,Paulina Peled,U,,ISR,,,,200361,,,Marie Pinterova,U,,HUN,,,,6-1 6-1,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,012,200905,,,Mariana Simionescu,R,,ROU,,,,201156,,,Stephanie Tolleson,U,,USA,,,,6-2 6-3,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,013,200159,6,,Rosie Casals,R,,USA,,,,200365,,,Tanya Harford,U,,RSA,,,,6-3 6-1,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,014,200991,,,Joanne Russell,U,,USA,,,,200288,,,Sue Mappin,R,,GBR,,,,8-6 6-2,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,015,200194,11,,Francoise Durr,R,,FRA,,,,200353,,,Lele Forood,U,,USA,,,,6-0 8-6,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,016,200911,,,Linky Boshoff,U,,RSA,,,,200234,,,Pam Whytcross,U,,AUS,,,,6-4 6-4,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,017,200146,,,Cynthia Doerner,U,,AUS,,,,200756,,,Bunny Bruning,U,,USA,,,,6-3 6-1,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,018,200938,12,,Kathy May Teacher Paben,U,,USA,,,,200302,,,Linda Mottram,U,,GBR,,,,6-3 6-1,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,019,200930,,,Julie Anthony,U,,USA,,,,200326,,,Naoko Sato,U,,JPN,,,,6-1 6-3,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,020,200176,8,,Kerry Reid,R,,AUS,,,,200955,,,Mary Carillo,L,,USA,,,,2-6 6-4 7-5,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,021,200393,,,Lea Antonoplis,U,,USA,,,,200328,,,Patricia Bostrom,U,,USA,,,,6-3 6-4,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,022,201158,,,Karen Susman,U,,USA,,,,200330,,,Sue Saliba,U,,AUS,,,,6-1 7-5,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,023,200275,,,Ann Kiyomura Hayashi,R,,USA,,,,200956,,,Carrie Meyer,R,,USA,,,,6-1 7-5,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,024,200317,,,Helga Masthoff,U,,FRG,,,,200787,,,Fiorella Bonicelli,U,,URU,,,,2-6 7-5 7-5,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,025,200184,,,Helen Cawley,U,,AUS,,,,200223,,,Sharon Walsh Pete,R,,USA,,,,6-4 6-2,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,026,200943,,,Jane Stratton,U,,USA,,,,200220,,,Patti Hogan,U,,USA,,,,4-6 9-7 6-1,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,027,200948,,,Brigette Cuypers,U,,RSA,,,,200460,,,Regina Marsikova,U,,CZE,,,,6-0 6-4,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,028,200356,7,,Betty Stove,U,,NED,,,,200334,,,Sabina Simmonds,R,,ITA,,,,6-3 6-1,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,029,200254,,,Michele Gurdal,U,,BEL,,,,200298,,,Laura Du Pont,U,,USA,,,,6-2 6-4,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,030,200463,,,Terry Holladay,U,,USA,,,,200265,,,Lindsey Beaven,U,,GBR,,,,6-3 6-3,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,031,200255,,,Lesley Charles,U,,GBR,,,,200314,,,Brigitte Simon Glinel,U,,FRA,,,,6-4 1-6 6-3,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,032,200293,2,,Martina Navratilova,L,173,USA,,,,200243,,,Glynis Coles,U,,GBR,,,,6-3 6-0,3,R128
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,033,200259,1,,Chris Evert,R,,USA,,,,200211,,,Winnie Wooldridge,U,,GBR,,,,6-0 6-2,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,034,200397,,,Tracy Austin,R,,USA,,,,200929,,,Elly Appel,U,,NED,,,,6-3 6-3,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,035,200759,,,Katja Ebbinghaus,U,,FRG,,,,200296,,,Belinda Thompson,U,,GBR,,,,6-2 6-0,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,036,200352,,,Greer Stevens,U,,RSA,,,,201152,,,Aleida Spex,U,,USA,,,,4-6 6-0 6-2,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,037,200190,5,,Billie Jean King,R,,USA,,,,200378,,,Anne Smith,R,,USA,,,,6-8 6-0 6-3,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,038,200848,,,Maria Bueno,R,,BRA,,,,200263,,,Janet Wright,U,,USA,,,,1-6 8-6 8-6,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,039,200371,10,,Mima Jausovec,U,,SLO,,,,200209,,,Wendy Turnbull,U,,AUS,,,,6-4 6-3,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,040,200950,,,Marise Kruger,U,,RSA,,,,200909,,,Florence Guedy,U,,FRA,,,,6-3 6-2,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,041,200237,3,,Virginia Wade,R,,GBR,,,,200333,,,Betsy Nagelsen,R,,USA,,,,6-2 6-1,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,042,200410,,,Yvonne Vermaak,R,,RSA,,,,200281,,,Jackie Fayter,U,,GBR,,,,6-3 6-1,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,043,200758,,,Rayni Fox,U,,USA,,,,200928,,,Paulina Peled,U,,ISR,,,,6-4 4-6 6-4,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,044,200905,,,Mariana Simionescu,R,,ROU,,,,200369,,,Candy Reynolds,U,,USA,,,,6-4 7-5,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,045,200159,6,,Rosie Casals,R,,USA,,,,200862,,,Valerie Ziegenfuss,U,,USA,,,,6-3 6-3,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,046,200991,,,Joanne Russell,U,,USA,,,,201157,,,Susan Hagey,U,,BEL,,,,6-3 7-5,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,047,200194,11,,Francoise Durr,R,,FRA,,,,200337,,,Virginia Ruzici,R,,ROU,,,,6-3 7-5,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,048,200911,,,Linky Boshoff,U,,RSA,,,,200185,,,Lesley Hunt,U,,AUS,,,,6-3 6-2,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,049,200146,,,Cynthia Doerner,U,,AUS,,,,200143,,,Kathleen Harter,U,,USA,,,,6-3 6-2,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,050,200938,12,,Kathy May Teacher Paben,U,,USA,,,,200902,,,Corinne Molesworth,U,,GBR,,,,6-2 6-4,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,051,200930,,,Julie Anthony,U,,USA,,,,200936,,,Iris Riedel Kuhn,U,,FRG,,,,6-2 6-1,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,052,200176,8,,Kerry Reid,R,,AUS,,,,200152,,,Gail Benedetti,R,,FRA,,,,6-1 6-1,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,053,200393,,,Lea Antonoplis,U,,USA,,,,200233,,,Christine Dorey,U,,AUS,,,,7-5 6-1,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,054,200958,,,Helle Viragh,U,,DEN,,,,201158,,,Karen Susman,U,,USA,,,,6-3 6-2,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,055,200275,,,Ann Kiyomura Hayashi,R,,USA,,,,200940,,,Ilana Kloss,U,,RSA,,,,6-3 6-4,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,056,200266,4,,Sue Barker,R,,GBR,,,,200317,,,Helga Masthoff,U,,FRG,,,,6-1 6-3,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,057,200184,,,Helen Cawley,U,,AUS,,,,200383,,,Anne Hobbs,U,,GBR,,,,6-4 6-3,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,058,200943,,,Jane Stratton,U,,USA,,,,200256,,,Chris Oneil,R,,AUS,,,,7-9 9-8 6-3,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,059,200320,,,Renata Tomanova,U,,GER,,,,200948,,,Brigette Cuypers,U,,RSA,,,,6-4 2-6 6-3,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,060,200356,7,,Betty Stove,U,,NED,,,,200283,,,Pam Teeguarden,U,,USA,,,,3-6 6-3 6-2,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,061,200939,,,Alison Mcmillan,U,,RSA,,,,200254,,,Michele Gurdal,U,,BEL,,,,1-6 8-6 6-3,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,062,200463,,,Terry Holladay,U,,USA,,,,200904,,,Kristien Shaw,U,,USA,,,,7-5 6-4,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,063,200255,,,Lesley Charles,U,,GBR,,,,200935,,,Florenta Mihai,U,,ROU,,,,6-2 6-4,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,064,200293,2,,Martina Navratilova,L,173,USA,,,,200813,,,Ingrid Bentzer,R,,SWE,,,,6-0 6-3,3,R64
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,065,200259,1,,Chris Evert,R,,USA,,,,200397,,,Tracy Austin,R,,USA,,,,6-1 6-1,3,R32
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,066,200352,,,Greer Stevens,U,,RSA,,,,200759,,,Katja Ebbinghaus,U,,FRG,,,,6-1 6-3,3,R32
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,067,200190,5,,Billie Jean King,R,,USA,,,,200848,,,Maria Bueno,R,,BRA,,,,6-2 7-5,3,R32
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,068,200950,,,Marise Kruger,U,,RSA,,,,200371,10,,Mima Jausovec,U,,SLO,,,,6-4 6-4,3,R32
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,069,200237,3,,Virginia Wade,R,,GBR,,,,200410,,,Yvonne Vermaak,R,,RSA,,,,6-1 6-2,3,R32
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,070,200905,,,Mariana Simionescu,R,,ROU,,,,200758,,,Rayni Fox,U,,USA,,,,7-5 6-2,3,R32
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,071,200159,6,,Rosie Casals,R,,USA,,,,200991,,,Joanne Russell,U,,USA,,,,6-1 6-1,3,R32
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,072,200911,,,Linky Boshoff,U,,RSA,,,,200194,11,,Francoise Durr,R,,FRA,,,,6-3 9-7,3,R32
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,073,200938,12,,Kathy May Teacher Paben,U,,USA,,,,200146,,,Cynthia Doerner,U,,AUS,,,,6-0 6-2,3,R32
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,074,200176,8,,Kerry Reid,R,,AUS,,,,200930,,,Julie Anthony,U,,USA,,,,6-3 9-7,3,R32
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,075,200393,,,Lea Antonoplis,U,,USA,,,,200958,,,Helle Viragh,U,,DEN,,,,6-4 6-1,3,R32
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,076,200266,4,,Sue Barker,R,,GBR,,,,200275,,,Ann Kiyomura Hayashi,R,,USA,,,,6-2 6-1,3,R32
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,077,200184,,,Helen Cawley,U,,AUS,,,,200943,,,Jane Stratton,U,,USA,,,,9-7 6-3,3,R32
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,078,200356,7,,Betty Stove,U,,NED,,,,200320,,,Renata Tomanova,U,,GER,,,,6-1 6-2,3,R32
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,079,200463,,,Terry Holladay,U,,USA,,,,200939,,,Alison Mcmillan,U,,RSA,,,,6-4 6-0,3,R32
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,080,200293,2,,Martina Navratilova,L,173,USA,,,,200255,,,Lesley Charles,U,,GBR,,,,6-2 6-2,3,R32
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,081,200259,1,,Chris Evert,R,,USA,,,,200352,,,Greer Stevens,U,,RSA,,,,8-6 6-4,3,R16
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,082,200190,5,,Billie Jean King,R,,USA,,,,200950,,,Marise Kruger,U,,RSA,,,,4-6 6-0 6-1,3,R16
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,083,200237,3,,Virginia Wade,R,,GBR,,,,200905,,,Mariana Simionescu,R,,ROU,,,,9-7 6-3,3,R16
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,084,200159,6,,Rosie Casals,R,,USA,,,,200911,,,Linky Boshoff,U,,RSA,,,,8-6 6-3,3,R16
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,085,200176,8,,Kerry Reid,R,,AUS,,,,200938,12,,Kathy May Teacher Paben,U,,USA,,,,6-2 6-1,3,R16
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,086,200266,4,,Sue Barker,R,,GBR,,,,200393,,,Lea Antonoplis,U,,USA,,,,6-0 6-4,3,R16
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,087,200356,7,,Betty Stove,U,,NED,,,,200184,,,Helen Cawley,U,,AUS,,,,6-4 6-2,3,R16
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,088,200293,2,,Martina Navratilova,L,173,USA,,,,200463,,,Terry Holladay,U,,USA,,,,6-4 6-4,3,R16
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,089,200259,1,,Chris Evert,R,,USA,,,,200190,5,,Billie Jean King,R,,USA,,,,6-1 6-2,3,QF
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,090,200237,3,,Virginia Wade,R,,GBR,,,,200159,6,,Rosie Casals,R,,USA,,,,7-5 6-2,3,QF
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,091,200266,4,,Sue Barker,R,,GBR,,,,200176,8,,Kerry Reid,R,,AUS,,,,6-3 6-4,3,QF
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,092,200356,7,,Betty Stove,U,,NED,,,,200293,2,,Martina Navratilova,L,173,USA,,,,9-8 3-6 6-1,3,QF
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,093,200237,3,,Virginia Wade,R,,GBR,,,,200259,1,,Chris Evert,R,,USA,,,,6-2 4-6 6-1,3,SF
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,094,200356,7,,Betty Stove,U,,NED,,,,200266,4,,Sue Barker,R,,GBR,,,,6-4 2-6 6-4,3,SF
+1977-W-SL-GBR-01A-1977,Wimbledon,Grass,96,G,19770620,095,200237,3,,Virginia Wade,R,,GBR,,,,200356,7,,Betty Stove,U,,NED,,,,4-6 6-3 6-1,3,F
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,001,200259,1,,Chris Evert,R,,USA,,,,200223,,,Sharon Walsh Pete,R,,USA,,,,6-1 6-0,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,002,200234,,,Pam Whytcross,U,,AUS,,,,200315,,,Nina Bohm,U,,SWE,,,,2-6 6-0 7-6,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,003,200264,,,Helena Anliot,U,,SWE,,,,200756,,,Bunny Bruning,U,,USA,,,,7-5 6-2,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,004,200184,,,Helen Cawley,U,,AUS,,,,200955,,,Mary Carillo,L,,USA,,,,6-2 6-3,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,005,200829,,,Nancy Richey,R,,USA,,,,200951,,,Mary Struthers,U,,USA,,,,7-6 6-0,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,006,200378,,,Anne Smith,R,,USA,,,,200358,,,Marcie Harper,U,,USA,,,,7-5 6-4,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,007,200364,,,Barbara Hallquist,U,,USA,,,,200255,,,Lesley Charles,U,,GBR,,,,6-4 6-4,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,008,200176,9,,Kerry Reid,R,,AUS,,,,200943,,,Jane Stratton,U,,USA,,,,6-2 6-3,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,009,200967,,,Zenda Liess,U,,USA,,,,200957,,,Ruta Gerulaitis,U,,USA,,,,6-3 0-6 6-4,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,010,200266,4,,Sue Barker,R,,GBR,,,,200759,,,Katja Ebbinghaus,U,,FRG,,,,6-4 5-7 6-3,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,011,200397,,,Tracy Austin,R,,USA,,,,200316,,,Heidi Eisterlehner,R,,GER,,,,3-6 6-3 6-1,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,012,200337,,,Virginia Ruzici,R,,ROU,,,,200254,,,Michele Gurdal,U,,BEL,,,,2-6 6-3 6-2,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,013,200369,,,Candy Reynolds,U,,USA,,,,200927,,,Linda Thomas,U,,USA,,,,6-4 6-2,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,014,200356,5,,Betty Stove,U,,NED,,,,200393,,,Lea Antonoplis,U,,USA,,,,6-3 3-6 6-2,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,015,200353,,,Lele Forood,U,,USA,,,,200958,,,Helle Viragh,U,,DEN,,,,3-6 6-4 7-6,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,016,200935,,,Florenta Mihai,U,,ROU,,,,200904,11,,Kristien Shaw,U,,USA,,,,6-3 6-2,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,017,200265,,,Lindsey Beaven,U,,GBR,,,,200275,,,Ann Kiyomura Hayashi,R,,USA,,,,6-4 6-2,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,018,200352,,,Greer Stevens,U,,RSA,,,,200400,,,Kate Latham,U,,USA,,,,6-3 6-4,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,019,200209,12,,Wendy Turnbull,U,,AUS,,,,200334,,,Sabina Simmonds,R,,ITA,,,,6-2 6-1,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,020,200948,,,Brigette Cuypers,U,,RSA,,,,200963,,Q,Caroline Stoll,U,,USA,,,,7-5 6-7 6-2,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,021,200159,6,,Rosie Casals,R,,USA,,,,200333,,,Betsy Nagelsen,R,,USA,,,,2-6 6-4 6-3,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,022,200991,,,Joanne Russell,U,,USA,,,,200152,,,Gail Benedetti,R,,FRA,,,,7-5 6-4,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,023,200226,,,Mona Guerrant,U,,USA,,,,200410,,,Yvonne Vermaak,R,,RSA,,,,7-6 2-6 6-1,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,024,200758,,,Rayni Fox,U,,USA,,,,200285,,,Mimi Wikstedt,U,,SWE,,,,6-4 6-3,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,025,200237,3,,Virginia Wade,R,,GBR,,,,201256,,,Renee Richards,U,,USA,,,,6-1 6-4,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,026,200263,,,Janet Wright,U,,USA,,,,201257,,,Carol Baily,U,,USA,,,,6-1 6-0,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,027,200371,10,,Mima Jausovec,U,,SLO,,,,200194,,,Francoise Durr,R,,FRA,,,,6-3 6-1,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,028,200318,,,Michelle Tyler,U,,GBR,,,,200938,,,Kathy May Teacher Paben,U,,USA,,,,6-4 2-0 RET,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,029,200221,8,,Dianne Balestrat,U,,AUS,,,,200911,,,Linky Boshoff,U,,RSA,,,,6-1 6-4,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,030,200243,,,Glynis Coles,U,,GBR,,,,201258,,,Chris Penn,U,,USA,,,,1-6 6-2 7-5,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,031,200286,,Q,Peggy Michel,U,,USA,,,,200862,,,Valerie Ziegenfuss,U,,USA,,,,6-4 6-3,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,032,200291,,,Diane Evers,U,,AUS,,,,200288,,,Sue Mappin,R,,GBR,,,,6-4 6-2,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,033,200293,2,,Martina Navratilova,L,173,USA,,,,200952,,,Mary Hamm,U,,USA,,,,6-0 6-1,3,R128
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,034,200259,1,,Chris Evert,R,,USA,,,,200234,,,Pam Whytcross,U,,AUS,,,,6-0 6-0,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,035,200264,,,Helena Anliot,U,,SWE,,,,200460,,,Regina Marsikova,U,,CZE,,,,2-6 6-4 6-1,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,036,200185,,,Lesley Hunt,U,,AUS,,,,200184,,,Helen Cawley,U,,AUS,,,,7-5 3-6 6-3,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,037,200829,,,Nancy Richey,R,,USA,,,,200959,,Q,Mareen Louie Harper,R,,USA,,,,7-6 6-2,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,038,200190,7,,Billie Jean King,R,,USA,,,,200378,,,Anne Smith,R,,USA,,,,6-3 3-6 7-5,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,039,201159,,Q,Sheila Mcinerney,U,,USA,,,,200364,,,Barbara Hallquist,U,,USA,,,,7-5 6-0,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,040,200176,9,,Kerry Reid,R,,AUS,,,,200932,,,Jeanne Evert,U,,USA,,,,6-0 6-2,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,041,200967,,,Zenda Liess,U,,USA,,,,200330,,LL,Sue Saliba,U,,AUS,,,,6-3 6-3,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,042,200266,4,,Sue Barker,R,,GBR,,,,200936,,,Iris Riedel Kuhn,U,,FRG,,,,6-4 4-6 6-1,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,043,200397,,,Tracy Austin,R,,USA,,,,200926,,,Donna Ganz,U,,USA,,,,6-1 6-2,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,044,200337,,,Virginia Ruzici,R,,ROU,,,,200848,,,Maria Bueno,R,,BRA,,,,6-2 6-3,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,045,200328,,,Patricia Bostrom,U,,USA,,,,200369,,,Candy Reynolds,U,,USA,,,,6-2 6-1,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,046,200356,5,,Betty Stove,U,,NED,,,,200940,,,Ilana Kloss,U,,RSA,,,,6-4 6-1,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,047,200298,,,Laura Du Pont,U,,USA,,,,200353,,,Lele Forood,U,,USA,,,,6-4 6-4,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,048,200935,,,Florenta Mihai,U,,ROU,,,,200976,,,Stacy Margolin,U,,USA,,,,2-6 6-1 6-1,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,049,200942,,,Kathy Kuykendall,U,,USA,,,,200265,,,Lindsey Beaven,U,,GBR,,,,6-0 6-4,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,050,200344,,Q,Barbara Jordan,R,,USA,,,,200352,,,Greer Stevens,U,,RSA,,,,6-4 6-4,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,051,200209,12,,Wendy Turnbull,U,,AUS,,,,200146,,,Cynthia Doerner,U,,AUS,,,,6-0 6-2,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,052,200948,,,Brigette Cuypers,U,,RSA,,,,200760,,Q,Pauline Elliott,U,,NZL,,,,6-2 6-3,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,053,200159,6,,Rosie Casals,R,,USA,,,,200283,,,Pam Teeguarden,U,,USA,,,,6-3 7-6,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,054,200991,,,Joanne Russell,U,,USA,,,,200463,,,Terry Holladay,U,,USA,,,,6-2 3-6 6-1,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,055,200226,,,Mona Guerrant,U,,USA,,,,200879,,,Wendy Overton,U,,USA,,,,6-0 4-6 7-5,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,056,200787,,,Fiorella Bonicelli,U,,URU,,,,200758,,,Rayni Fox,U,,USA,,,,6-3 6-4,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,057,200237,3,,Virginia Wade,R,,GBR,,,,201255,,Q,Margaret Riley,U,,USA,,,,6-4 6-0,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,058,200263,,,Janet Wright,U,,USA,,,,200320,,,Renata Tomanova,U,,GER,,,,6-4 7-6,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,059,200371,10,,Mima Jausovec,U,,SLO,,,,200813,,,Ingrid Bentzer,R,,SWE,,,,6-1 6-1,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,060,200318,,,Michelle Tyler,U,,GBR,,,,200960,,Q,Robin Harris,U,,USA,,,,6-2 6-4,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,061,200221,8,,Dianne Balestrat,U,,AUS,,,,200930,,,Julie Anthony,U,,USA,,,,6-3 6-2,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,062,200143,,,Kathleen Harter,U,,USA,,,,200243,,,Glynis Coles,U,,GBR,,,,5-7 6-4 7-5,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,063,200950,,,Marise Kruger,U,,RSA,,,,200286,,Q,Peggy Michel,U,,USA,,,,6-2 6-2,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,064,200365,,,Tanya Harford,U,,RSA,,,,200291,,,Diane Evers,U,,AUS,,,,6-4 6-2,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,065,200293,2,,Martina Navratilova,L,173,USA,,,,200956,,,Carrie Meyer,R,,USA,,,,6-4 6-1,3,R64
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,066,200259,1,,Chris Evert,R,,USA,,,,200264,,,Helena Anliot,U,,SWE,,,,6-2 6-2,3,R32
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,067,200829,,,Nancy Richey,R,,USA,,,,200185,,,Lesley Hunt,U,,AUS,,,,6-1 7-6,3,R32
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,068,200190,7,,Billie Jean King,R,,USA,,,,201159,,Q,Sheila Mcinerney,U,,USA,,,,6-1 2-6 6-1,3,R32
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,069,200176,9,,Kerry Reid,R,,AUS,,,,200967,,,Zenda Liess,U,,USA,,,,7-6 6-1,3,R32
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,070,200397,,,Tracy Austin,R,,USA,,,,200266,4,,Sue Barker,R,,GBR,,,,6-1 6-4,3,R32
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,071,200337,,,Virginia Ruzici,R,,ROU,,,,200328,,,Patricia Bostrom,U,,USA,,,,6-2 6-1,3,R32
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,072,200356,5,,Betty Stove,U,,NED,,,,200298,,,Laura Du Pont,U,,USA,,,,7-5 6-4,3,R32
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,073,200942,,,Kathy Kuykendall,U,,USA,,,,200935,,,Florenta Mihai,U,,ROU,,,,6-3 6-1,3,R32
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,074,200209,12,,Wendy Turnbull,U,,AUS,,,,200344,,Q,Barbara Jordan,R,,USA,,,,6-4 6-3,3,R32
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,075,200159,6,,Rosie Casals,R,,USA,,,,200948,,,Brigette Cuypers,U,,RSA,,,,6-2 1-6 6-2,3,R32
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,076,200226,,,Mona Guerrant,U,,USA,,,,200991,,,Joanne Russell,U,,USA,,,,5-7 6-3 6-1,3,R32
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,077,200237,3,,Virginia Wade,R,,GBR,,,,200787,,,Fiorella Bonicelli,U,,URU,,,,4-6 6-1 6-2,3,R32
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,078,200371,10,,Mima Jausovec,U,,SLO,,,,200263,,,Janet Wright,U,,USA,,,,6-1 6-2,3,R32
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,079,200221,8,,Dianne Balestrat,U,,AUS,,,,200318,,,Michelle Tyler,U,,GBR,,,,6-2 6-3,3,R32
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,080,200950,,,Marise Kruger,U,,RSA,,,,200143,,,Kathleen Harter,U,,USA,,,,6-0 6-0,3,R32
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,081,200293,2,,Martina Navratilova,L,173,USA,,,,200365,,,Tanya Harford,U,,RSA,,,,6-0 6-2,3,R32
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,082,200259,1,,Chris Evert,R,,USA,,,,200829,,,Nancy Richey,R,,USA,,,,6-3 6-0,3,R16
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,083,200190,7,,Billie Jean King,R,,USA,,,,200176,9,,Kerry Reid,R,,AUS,,,,6-1 3-6 7-6,3,R16
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,084,200397,,,Tracy Austin,R,,USA,,,,200337,,,Virginia Ruzici,R,,ROU,,,,6-3 7-5,3,R16
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,085,200356,5,,Betty Stove,U,,NED,,,,200942,,,Kathy Kuykendall,U,,USA,,,,6-3 6-0,3,R16
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,086,200209,12,,Wendy Turnbull,U,,AUS,,,,200159,6,,Rosie Casals,R,,USA,,,,4-6 6-0 6-0,3,R16
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,087,200237,3,,Virginia Wade,R,,GBR,,,,200226,,,Mona Guerrant,U,,USA,,,,7-5 6-4,3,R16
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,088,200371,10,,Mima Jausovec,U,,SLO,,,,200221,8,,Dianne Balestrat,U,,AUS,,,,6-3 6-2,3,R16
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,089,200293,2,,Martina Navratilova,L,173,USA,,,,200950,,,Marise Kruger,U,,RSA,,,,6-2 6-1,3,R16
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,090,200259,1,,Chris Evert,R,,USA,,,,200190,7,,Billie Jean King,R,,USA,,,,6-2 6-0,3,QF
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,091,200356,5,,Betty Stove,U,,NED,,,,200397,,,Tracy Austin,R,,USA,,,,6-2 6-2,3,QF
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,092,200209,12,,Wendy Turnbull,U,,AUS,,,,200237,3,,Virginia Wade,R,,GBR,,,,6-2 6-1,3,QF
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,093,200293,2,,Martina Navratilova,L,173,USA,,,,200371,10,,Mima Jausovec,U,,SLO,,,,6-4 6-1,3,QF
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,094,200259,1,,Chris Evert,R,,USA,,,,200356,5,,Betty Stove,U,,NED,,,,6-3 7-5,3,SF
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,095,200209,12,,Wendy Turnbull,U,,AUS,,,,200293,2,,Martina Navratilova,L,173,USA,,,,2-6 7-5 6-4,3,SF
+1977-W-SL-USA-01A-1977,US Open,Clay,97,G,19770831,096,200259,1,,Chris Evert,R,,USA,,,,200209,12,,Wendy Turnbull,U,,AUS,,,,7-6 6-2,3,F
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,001,200259,1,,Chris Evert,R,,USA,,,,200948,,,Brigette Cuypers,U,,RSA,,,,6-1 6-1,3,R32
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,002,200942,,,Kathy Kuykendall,U,,USA,,,,200904,,,Kristien Shaw,U,,USA,,,,6-2 6-1,3,R32
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,003,200159,5,,Rosie Casals,R,,USA,,,,200184,,,Helen Cawley,U,,AUS,,,,7-6 6-4,3,R32
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,004,200275,,Q,Ann Kiyomura Hayashi,R,,USA,,,,200226,,,Mona Guerrant,U,,USA,,,,6-2 4-6 7-5,3,R32
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,005,200237,3,,Virginia Wade,R,,GBR,,,,200298,,,Laura Du Pont,U,,USA,,,,6-2 6-0,3,R32
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,006,200263,,,Janet Wright,U,,USA,,,,200932,,,Jeanne Evert,U,,USA,,,,6-4 6-1,3,R32
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,007,200176,7,,Kerry Reid,R,,AUS,,,,200333,,Q,Betsy Nagelsen,R,,USA,,,,6-0 3-6 7-6,3,R32
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,008,200337,,,Virginia Ruzici,R,,ROU,,,,200930,,,Julie Anthony,U,,USA,,,,6-2 6-2,3,R32
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,009,200952,,,Mary Hamm,U,,USA,,,,200146,,,Cynthia Doerner,U,,AUS,,,,6-3 7-5,3,R32
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,010,200221,6,,Dianne Balestrat,U,,AUS,,,,201256,,,Renee Richards,U,,USA,,,,6-1 6-3,3,R32
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,011,200950,,,Marise Kruger,U,,RSA,,,,200848,,,Maria Bueno,R,,BRA,,,,6-0 6-3,3,R32
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,012,200356,4,,Betty Stove,U,,NED,,,,200991,,,Joanne Russell,U,,USA,,,,7-6 5-7 7-6,3,R32
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,013,200194,,,Francoise Durr,R,,FRA,,,,200283,,,Pam Teeguarden,U,,USA,,,,6-4 6-4,3,R32
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,014,200190,8,,Billie Jean King,R,,USA,,,,200967,,Q,Zenda Liess,U,,USA,,,,7-5 6-4,3,R32
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,015,200209,,,Wendy Turnbull,U,,AUS,,,,200957,,Q,Ruta Gerulaitis,U,,USA,,,,6-1 6-2,3,R32
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,016,200293,2,,Martina Navratilova,L,173,USA,,,,200936,,,Iris Riedel Kuhn,U,,FRG,,,,6-0 6-1,3,R32
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,017,200259,1,,Chris Evert,R,,USA,,,,200942,,,Kathy Kuykendall,U,,USA,,,,6-1 6-1,3,R16
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,018,200275,,Q,Ann Kiyomura Hayashi,R,,USA,,,,200159,5,,Rosie Casals,R,,USA,,,,6-2 6-1,3,R16
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,019,200237,3,,Virginia Wade,R,,GBR,,,,200263,,,Janet Wright,U,,USA,,,,6-3 6-4,3,R16
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,020,200176,7,,Kerry Reid,R,,AUS,,,,200337,,,Virginia Ruzici,R,,ROU,,,,6-3 6-3,3,R16
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,021,200221,6,,Dianne Balestrat,U,,AUS,,,,200952,,,Mary Hamm,U,,USA,,,,6-1 6-1,3,R16
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,022,200356,4,,Betty Stove,U,,NED,,,,200950,,,Marise Kruger,U,,RSA,,,,6-2 6-4,3,R16
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,023,200190,8,,Billie Jean King,R,,USA,,,,200194,,,Francoise Durr,R,,FRA,,,,6-2 6-4,3,R16
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,024,200293,2,,Martina Navratilova,L,173,USA,,,,200209,,,Wendy Turnbull,U,,AUS,,,,6-2 6-2,3,R16
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,025,200259,1,,Chris Evert,R,,USA,,,,200275,,Q,Ann Kiyomura Hayashi,R,,USA,,,,6-2 6-2,3,QF
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,026,200237,3,,Virginia Wade,R,,GBR,,,,200176,7,,Kerry Reid,R,,AUS,,,,6-4 6-3,3,QF
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,027,200221,6,,Dianne Balestrat,U,,AUS,,,,200356,4,,Betty Stove,U,,NED,,,,6-2 6-3,3,QF
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,028,200190,8,,Billie Jean King,R,,USA,,,,200293,2,,Martina Navratilova,L,173,USA,,,,6-4 6-1,3,QF
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,029,200259,1,,Chris Evert,R,,USA,,,,200237,3,,Virginia Wade,R,,GBR,,,,6-0 7-5,3,SF
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,030,200221,6,,Dianne Balestrat,U,,AUS,,,,200190,8,,Billie Jean King,R,,USA,,,,6-4 2-6 6-2,3,SF
+1977-W-WT-USA-13A-1977,Atlanta,Carpet,32,W,19771003,031,200259,1,,Chris Evert,R,,USA,,,,200221,6,,Dianne Balestrat,U,,AUS,,,,6-3 6-2,3,F
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,001,200952,,,Mary Hamm,U,,USA,,,,200940,,,Ilana Kloss,U,,RSA,,,,6-4 6-1,3,R64
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,002,200930,,,Julie Anthony,U,,USA,,,,200756,,,Bunny Bruning,U,,USA,,,,6-4 6-3,3,R64
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,003,200259,1,,Chris Evert,R,,USA,,,,200400,,,Kate Latham,U,,USA,,,,6-1 6-2,3,R32
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,004,200302,,,Linda Mottram,U,,GBR,,,,200146,,,Cynthia Doerner,U,,AUS,,,,W/O,3,R32
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,005,200904,6,,Kristien Shaw,U,,USA,,,,200935,,,Florenta Mihai,U,,ROU,,,,6-7 6-3 6-2,3,R32
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,006,200298,,,Laura Du Pont,U,,USA,,,,200333,,,Betsy Nagelsen,R,,USA,,,,6-2 3-6 6-3,3,R32
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,007,200948,,,Brigette Cuypers,U,,RSA,,,,200228,4,,Olga Morozova,U,,URS,,,,7-6 6-1,3,R32
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,008,200952,,,Mary Hamm,U,,USA,,,,200942,,,Kathy Kuykendall,U,,USA,,,,6-3 6-0,3,R32
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,009,200356,7,,Betty Stove,U,,NED,,,,200460,,,Regina Marsikova,U,,CZE,,,,6-3 6-3,3,R32
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,010,200263,,,Janet Wright,U,,USA,,,,200879,,,Wendy Overton,U,,USA,,,,6-3 6-4,3,R32
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,011,200930,,,Julie Anthony,U,,USA,,,,200967,,,Zenda Liess,U,,USA,,,,7-6 6-1,3,R32
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,012,200991,,,Joanne Russell,U,,USA,,,,200956,8,,Carrie Meyer,R,,USA,,,,6-2 6-0,3,R32
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,013,200194,,,Francoise Durr,R,,FRA,,,,200955,,,Mary Carillo,L,,USA,,,,4-6 6-2 7-5,3,R32
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,014,200297,3,,Natasha Chmyreva,U,,URS,,,,200813,,,Ingrid Bentzer,R,,SWE,,,,W/O,3,R32
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,015,200337,,,Virginia Ruzici,R,,ROU,,,,200176,,,Kerry Reid,R,,AUS,,,,1-6 6-2 6-3,3,R32
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,016,200159,5,,Rosie Casals,R,,USA,,,,200352,,,Greer Stevens,U,,RSA,,,,6-5 RET,3,R32
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,017,200320,,,Renata Tomanova,U,,GER,,,,200943,,,Jane Stratton,U,,USA,,,,6-1 6-1,3,R32
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,018,200144,2,,Margaret Court,R,,AUS,,,,200911,,,Linky Boshoff,U,,RSA,,,,3-6 6-1 7-5,3,R32
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,019,200259,1,,Chris Evert,R,,USA,,,,200302,,,Linda Mottram,U,,GBR,,,,6-4 6-1,3,R16
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,020,200904,6,,Kristien Shaw,U,,USA,,,,200298,,,Laura Du Pont,U,,USA,,,,6-4 4-6 6-4,3,R16
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,021,200948,,,Brigette Cuypers,U,,RSA,,,,200952,,,Mary Hamm,U,,USA,,,,6-2 6-3,3,R16
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,022,200356,7,,Betty Stove,U,,NED,,,,200263,,,Janet Wright,U,,USA,,,,5-7 7-5 6-2,3,R16
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,023,200930,,,Julie Anthony,U,,USA,,,,200991,,,Joanne Russell,U,,USA,,,,7-5 6-2,3,R16
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,024,200297,3,,Natasha Chmyreva,U,,URS,,,,200194,,,Francoise Durr,R,,FRA,,,,5-7 7-6 7-5,3,R16
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,025,200159,5,,Rosie Casals,R,,USA,,,,200337,,,Virginia Ruzici,R,,ROU,,,,6-7 6-3 6-4,3,R16
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,026,200144,2,,Margaret Court,R,,AUS,,,,200320,,,Renata Tomanova,U,,GER,,,,6-3 6-2,3,R16
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,027,200259,1,,Chris Evert,R,,USA,,,,200904,6,,Kristien Shaw,U,,USA,,,,6-0 6-1,3,QF
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,028,200356,7,,Betty Stove,U,,NED,,,,200948,,,Brigette Cuypers,U,,RSA,,,,6-1 6-3,3,QF
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,029,200297,3,,Natasha Chmyreva,U,,URS,,,,200930,,,Julie Anthony,U,,USA,,,,7-5 7-5,3,QF
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,030,200144,2,,Margaret Court,R,,AUS,,,,200159,5,,Rosie Casals,R,,USA,,,,5-7 6-3 7-6,3,QF
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,031,200259,1,,Chris Evert,R,,USA,,,,200356,7,,Betty Stove,U,,NED,,,,6-2 6-1,3,SF
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,032,200144,2,,Margaret Court,R,,AUS,,,,200297,3,,Natasha Chmyreva,U,,URS,,,,7-6 6-1,3,SF
+1977-W-WT-USA-06A-1977,Chicago,Carpet,34,W,19770207,033,200259,1,,Chris Evert,R,,USA,,,,200144,2,,Margaret Court,R,,AUS,,,,6-1 6-3,3,F
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,001,201156,,,Stephanie Tolleson,U,,USA,,,,200967,,,Zenda Liess,U,,USA,,,,&nbsp;,3,R64
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,002,200911,,,Linky Boshoff,U,,RSA,,,,201761,,,Annette Smith,U,,AUS,,,,6-2 6-4,3,R64
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,003,200938,,,Kathy May Teacher Paben,U,,USA,,,,200293,1,,Martina Navratilova,L,173,USA,,,,6-3 6-4,3,R32
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,004,200352,,,Greer Stevens,U,,RSA,,,,200176,,,Kerry Reid,R,,AUS,,,,6-4 2-6 7-6,3,R32
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,005,200221,5,,Dianne Balestrat,U,,AUS,,,,200194,,,Francoise Durr,R,,FRA,,,,6-3 3-6 6-4,3,R32
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,006,200143,,,Kathleen Harter,U,,USA,,,,200879,,,Wendy Overton,U,,USA,,,,6-1 6-2,3,R32
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,007,200223,,,Sharon Walsh Pete,R,,USA,,,,201156,,,Stephanie Tolleson,U,,USA,,,,6-2 6-2,3,R32
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,008,200463,,,Terry Holladay,U,,USA,,,,201158,,,Karen Susman,U,,USA,,,,6-3 2-6 6-2,3,R32
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,009,200320,,,Renata Tomanova,U,,GER,,,,200371,7,,Mima Jausovec,U,,SLO,,,,6-4 3-6 7-6,3,R32
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,010,200226,,,Mona Guerrant,U,,USA,,,,200942,,,Kathy Kuykendall,U,,USA,,,,6-1 6-1,3,R32
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,011,200948,,,Brigette Cuypers,U,,RSA,,,,200265,,,Lindsey Beaven,U,,GBR,,,,6-4 3-6 6-2,3,R32
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,012,200904,8,,Kristien Shaw,U,,USA,,,,200146,,,Cynthia Doerner,U,,AUS,,,,6-2 6-1,3,R32
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,013,200318,,,Michelle Tyler,U,,GBR,,,,201157,,,Susan Hagey,U,,BEL,,,,6-4 6-3,3,R32
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,014,200237,3,,Virginia Wade,R,,GBR,,,,200955,,,Mary Carillo,L,,USA,,,,6-2 6-1,3,R32
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,015,200337,,,Virginia Ruzici,R,,ROU,,,,200410,,,Yvonne Vermaak,R,,RSA,,,,6-0 4-6 6-3,3,R32
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,016,200356,6,,Betty Stove,U,,NED,,,,200967,,,Zenda Liess,U,,USA,,,,6-1 6-0,3,R32
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,017,200911,,,Linky Boshoff,U,,RSA,,,,200905,,,Mariana Simionescu,R,,ROU,,,,7-5 6-1,3,R32
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,018,200266,2,,Sue Barker,R,,GBR,,,,200353,,,Lele Forood,U,,USA,,,,6-2 6-3,3,R32
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,019,200352,,,Greer Stevens,U,,RSA,,,,200938,,,Kathy May Teacher Paben,U,,USA,,,,4-6 6-2 6-4,3,R16
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,020,200143,,,Kathleen Harter,U,,USA,,,,200221,5,,Dianne Balestrat,U,,AUS,,,,3-6 7-6 6-4,3,R16
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,021,200463,,,Terry Holladay,U,,USA,,,,200223,,,Sharon Walsh Pete,R,,USA,,,,7-5 6-3,3,R16
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,022,200320,,,Renata Tomanova,U,,GER,,,,200226,,,Mona Guerrant,U,,USA,,,,3-6 6-1 6-3,3,R16
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,023,200904,8,,Kristien Shaw,U,,USA,,,,200948,,,Brigette Cuypers,U,,RSA,,,,4-6 6-3 6-3,3,R16
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,024,200237,3,,Virginia Wade,R,,GBR,,,,200318,,,Michelle Tyler,U,,GBR,,,,6-1 6-2,3,R16
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,025,200356,6,,Betty Stove,U,,NED,,,,200337,,,Virginia Ruzici,R,,ROU,,,,4-6 6-3 6-3,3,R16
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,026,200266,2,,Sue Barker,R,,GBR,,,,200911,,,Linky Boshoff,U,,RSA,,,,5-7 6-0 6-3,3,R16
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,027,200352,,,Greer Stevens,U,,RSA,,,,200143,,,Kathleen Harter,U,,USA,,,,7-5 6-3,3,QF
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,028,200463,,,Terry Holladay,U,,USA,,,,200320,,,Renata Tomanova,U,,GER,,,,1-6 6-2 6-2,3,QF
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,029,200237,3,,Virginia Wade,R,,GBR,,,,200904,8,,Kristien Shaw,U,,USA,,,,6-2 7-5,3,QF
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,030,200266,2,,Sue Barker,R,,GBR,,,,200356,6,,Betty Stove,U,,NED,,,,6-1 2-6 6-4,3,QF
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,031,200463,,,Terry Holladay,U,,USA,,,,200352,,,Greer Stevens,U,,RSA,,,,6-1 6-3,3,SF
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,032,200266,2,,Sue Barker,R,,GBR,,,,200237,3,,Virginia Wade,R,,GBR,,,,6-4 6-3,3,SF
+1977-W-WT-USA-11A-1977,Dallas,Carpet,34,W,19770507,033,200266,2,,Sue Barker,R,,GBR,,,,200463,,,Terry Holladay,U,,USA,,,,6-1 7-6,3,F
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,001,200410,,,Yvonne Vermaak,R,,RSA,,,,201955,,,Wendy Burkhart,U,,USA,,,,7-5 6-2,3,R64
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,002,200333,,,Betsy Nagelsen,R,,USA,,,,200265,,,Lindsey Beaven,U,,GBR,,,,6-4 4-6 6-3,3,R64
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,003,200293,1,,Martina Navratilova,L,173,USA,,,,200991,,,Joanne Russell,U,,USA,,,,7-6 6-3,3,R32
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,004,200879,,,Wendy Overton,U,,USA,,,,200862,,,Valerie Ziegenfuss,U,,USA,,,,6-2 6-1,3,R32
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,005,200356,6,,Betty Stove,U,,NED,,,,200302,,,Linda Mottram,U,,GBR,,,,4-6 6-0 6-3,3,R32
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,006,200410,,,Yvonne Vermaak,R,,RSA,,,,200358,,,Marcie Harper,U,,USA,,,,7-5 7-6,3,R32
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,007,200237,4,,Virginia Wade,R,,GBR,,,,200956,,,Carrie Meyer,R,,USA,,,,6-3 6-4,3,R32
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,008,200320,,,Renata Tomanova,U,,GER,,,,200951,,,Mary Struthers,U,,USA,,,,6-2 6-3,3,R32
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,009,200146,,,Cynthia Doerner,U,,AUS,,,,200159,5,,Rosie Casals,R,,USA,,,,W/O,3,R32
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,010,200337,,,Virginia Ruzici,R,,ROU,,,,200263,,,Janet Wright,U,,USA,,,,1-6 6-4 6-4,3,R32
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,011,200194,,,Francoise Durr,R,,FRA,,,,200283,,,Pam Teeguarden,U,,USA,,,,6-2 6-3,3,R32
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,012,200904,8,,Kristien Shaw,U,,USA,,,,200143,,,Kathleen Harter,U,,USA,,,,7-5 6-3,3,R32
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,013,200352,,,Greer Stevens,U,,RSA,,,,200209,,,Wendy Turnbull,U,,AUS,,,,7-6 7-6,3,R32
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,014,200144,3,,Margaret Court,R,,AUS,,,,200463,,,Terry Holladay,U,,USA,,,,6-3 6-4,3,R32
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,015,200333,,,Betsy Nagelsen,R,,USA,,,,200955,,,Mary Carillo,L,,USA,,,,7-6 6-3,3,R32
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,016,200223,,,Sharon Walsh Pete,R,,USA,,,,200371,7,,Mima Jausovec,U,,SLO,,,,7-5 6-2,3,R32
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,017,200948,,,Brigette Cuypers,U,,RSA,,,,200298,,,Laura Du Pont,U,,USA,,,,6-2 2-6 6-2,3,R32
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,018,200266,2,,Sue Barker,R,,GBR,,,,200176,,,Kerry Reid,R,,AUS,,,,6-2 7-6,3,R32
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,019,200293,1,,Martina Navratilova,L,173,USA,,,,200879,,,Wendy Overton,U,,USA,,,,6-3 6-2,3,R16
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,020,200410,,,Yvonne Vermaak,R,,RSA,,,,200356,6,,Betty Stove,U,,NED,,,,6-7 6-4 6-2,3,R16
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,021,200237,4,,Virginia Wade,R,,GBR,,,,200320,,,Renata Tomanova,U,,GER,,,,7-5 7-6,3,R16
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,022,200337,,,Virginia Ruzici,R,,ROU,,,,200146,,,Cynthia Doerner,U,,AUS,,,,6-1 6-4,3,R16
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,023,200194,,,Francoise Durr,R,,FRA,,,,200904,8,,Kristien Shaw,U,,USA,,,,6-2 6-3,3,R16
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,024,200144,3,,Margaret Court,R,,AUS,,,,200352,,,Greer Stevens,U,,RSA,,,,5-7 7-6 6-3,3,R16
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,025,200223,,,Sharon Walsh Pete,R,,USA,,,,200333,,,Betsy Nagelsen,R,,USA,,,,6-2 7-6,3,R16
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,026,200266,2,,Sue Barker,R,,GBR,,,,200948,,,Brigette Cuypers,U,,RSA,,,,7-6 6-2,3,R16
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,027,200293,1,,Martina Navratilova,L,173,USA,,,,200410,,,Yvonne Vermaak,R,,RSA,,,,6-1 6-1,3,QF
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,028,200237,4,,Virginia Wade,R,,GBR,,,,200337,,,Virginia Ruzici,R,,ROU,,,,6-2 6-1,3,QF
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,029,200194,,,Francoise Durr,R,,FRA,,,,200144,3,,Margaret Court,R,,AUS,,,,W/O,3,QF
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,030,200266,2,,Sue Barker,R,,GBR,,,,200223,,,Sharon Walsh Pete,R,,USA,,,,6-2 6-3,3,QF
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,031,200293,1,,Martina Navratilova,L,173,USA,,,,200237,4,,Virginia Wade,R,,GBR,,,,7-5 6-3,3,SF
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,032,200266,2,,Sue Barker,R,,GBR,,,,200194,,,Francoise Durr,R,,FRA,,,,6-3 6-0,3,SF
+1977-W-WT-USA-08A-1977,Detroit,Carpet,34,W,19770222,033,200293,1,,Martina Navratilova,L,173,USA,,,,200266,2,,Sue Barker,R,,GBR,,,,6-4 6-4,3,F
+1977-W-WT-USA-10A-1977,South Carolina,Clay,30,W,19770329,001,200259,1,,Chris Evert,R,,USA,,,,200756,,,Bunny Bruning,U,,USA,,,,6-0 6-3,3,R32
+1977-W-WT-USA-10A-1977,South Carolina,Clay,30,W,19770329,002,200209,,,Wendy Turnbull,U,,AUS,,,,200263,,,Janet Wright,U,,USA,,,,7-5 6-0,3,R32
+1977-W-WT-USA-10A-1977,South Carolina,Clay,30,W,19770329,003,200938,,,Kathy May Teacher Paben,U,,USA,,,,200194,7,,Francoise Durr,R,,FRA,,,,6-4 6-2,3,R32
+1977-W-WT-USA-10A-1977,South Carolina,Clay,30,W,19770329,004,200333,,,Betsy Nagelsen,R,,USA,,,,200930,,,Julie Anthony,U,,USA,,,,4-6 6-2 6-1,3,R32
+1977-W-WT-USA-10A-1977,South Carolina,Clay,30,W,19770329,005,200159,3,,Rosie Casals,R,,USA,,,,200143,,,Kathleen Harter,U,,USA,,,,6-2 6-3,3,R32
+1977-W-WT-USA-10A-1977,South Carolina,Clay,30,W,19770329,006,200951,,,Mary Struthers,U,,USA,,,,200353,,,Lele Forood,U,,USA,,,,4-6 7-5 3-3 RET,3,R32
+1977-W-WT-USA-10A-1977,South Carolina,Clay,30,W,19770329,007,200397,,,Tracy Austin,R,,USA,,,,200400,,,Kate Latham,U,,USA,,,,4-6 6-3 6-1,3,R32
+1977-W-WT-USA-10A-1977,South Carolina,Clay,30,W,19770329,008,200221,5,,Dianne Balestrat,U,,AUS,,,,200862,,,Valerie Ziegenfuss,U,,USA,,,,6-3 4-6 7-5,3,R32
+1977-W-WT-USA-10A-1977,South Carolina,Clay,30,W,19770329,009,200176,,,Kerry Reid,R,,AUS,,,,200226,,,Mona Guerrant,U,,USA,,,,6-2 6-1,3,R32
+1977-W-WT-USA-10A-1977,South Carolina,Clay,30,W,19770329,010,200356,4,,Betty Stove,U,,NED,,,,200813,,,Ingrid Bentzer,R,,SWE,,,,6-2 6-7 6-2,3,R32
+1977-W-WT-USA-10A-1977,South Carolina,Clay,30,W,19770329,011,200337,,,Virginia Ruzici,R,,ROU,,,,200265,,,Lindsey Beaven,U,,GBR,,,,4-6 6-3 6-1,3,R32
+1977-W-WT-USA-10A-1977,South Carolina,Clay,30,W,19770329,012,200190,8,,Billie Jean King,R,,USA,,,,200829,,,Nancy Richey,R,,USA,,,,0-6 7-6 6-2,3,R32
+1977-W-WT-USA-10A-1977,South Carolina,Clay,30,W,19770329,013,200320,,,Renata Tomanova,U,,GER,,,,200358,,,Marcie Harper,U,,USA,,,,7-5 7-6,3,R32
+1977-W-WT-USA-10A-1977,South Carolina,Clay,30,W,19770329,014,200237,2,,Virginia Wade,R,,GBR,,,,200283,,,Pam Teeguarden,U,,USA,,,,6-2 6-3,3,R32
+1977-W-WT-USA-10A-1977,South Carolina,Clay,30,W,19770329,015,200259,1,,Chris Evert,R,,USA,,,,200209,,,Wendy Turnbull,U,,AUS,,,,6-1 6-0,3,R16
+1977-W-WT-USA-10A-1977,South Carolina,Clay,30,W,19770329,016,200938,,,Kathy May Teacher Paben,U,,USA,,,,200333,,,Betsy Nagelsen,R,,USA,,,,7-5 6-3,3,R16
+1977-W-WT-USA-10A-1977,South Carolina,Clay,30,W,19770329,017,200159,3,,Rosie Casals,R,,USA,,,,200298,,,Laura Du Pont,U,,USA,,,,6-2 5-7 7-5,3,R16
+1977-W-WT-USA-10A-1977,South Carolina,Clay,30,W,19770329,018,200371,6,,Mima Jausovec,U,,SLO,,,,200951,,,Mary Struthers,U,,USA,,,,3-6 6-3 6-1,3,R16
+1977-W-WT-USA-10A-1977,South Carolina,Clay,30,W,19770329,019,200397,,,Tracy Austin,R,,USA,,,,200221,5,,Dianne Balestrat,U,,AUS,,,,7-5 6-4,3,R16
+1977-W-WT-USA-10A-1977,South Carolina,Clay,30,W,19770329,020,200176,,,Kerry Reid,R,,AUS,,,,200356,4,,Betty Stove,U,,NED,,,,6-3 6-1,3,R16
+1977-W-WT-USA-10A-1977,South Carolina,Clay,30,W,19770329,021,200190,8,,Billie Jean King,R,,USA,,,,200337,,,Virginia Ruzici,R,,ROU,,,,6-1 7-5,3,R16
+1977-W-WT-USA-10A-1977,South Carolina,Clay,30,W,19770329,022,200320,,,Renata Tomanova,U,,GER,,,,200237,2,,Virginia Wade,R,,GBR,,,,6-1 6-4,3,R16
+1977-W-WT-USA-10A-1977,South Carolina,Clay,30,W,19770329,023,200259,1,,Chris Evert,R,,USA,,,,200938,,,Kathy May Teacher Paben,U,,USA,,,,6-1 6-0,3,QF
+1977-W-WT-USA-10A-1977,South Carolina,Clay,30,W,19770329,024,200371,6,,Mima Jausovec,U,,SLO,,,,200159,3,,Rosie Casals,R,,USA,,,,6-3 6-4,3,QF
+1977-W-WT-USA-10A-1977,South Carolina,Clay,30,W,19770329,025,200176,,,Kerry Reid,R,,AUS,,,,200397,,,Tracy Austin,R,,USA,,,,6-3 7-5,3,QF
+1977-W-WT-USA-10A-1977,South Carolina,Clay,30,W,19770329,026,200190,8,,Billie Jean King,R,,USA,,,,200320,,,Renata Tomanova,U,,GER,,,,6-3 7-5,3,QF
+1977-W-WT-USA-10A-1977,South Carolina,Clay,30,W,19770329,027,200259,1,,Chris Evert,R,,USA,,,,200371,6,,Mima Jausovec,U,,SLO,,,,6-3 6-3,3,SF
+1977-W-WT-USA-10A-1977,South Carolina,Clay,30,W,19770329,028,200190,8,,Billie Jean King,R,,USA,,,,200176,,,Kerry Reid,R,,AUS,,,,6-3 7-6,3,SF
+1977-W-WT-USA-10A-1977,South Carolina,Clay,30,W,19770329,029,200259,1,,Chris Evert,R,,USA,,,,200190,8,,Billie Jean King,R,,USA,,,,6-0 6-1,3,F
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,001,200951,,,Mary Struthers,U,,USA,,,,200879,,,Wendy Overton,U,,USA,,,,6-1 6-2,3,R64
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,002,200948,,,Brigette Cuypers,U,,RSA,,,,201995,,,Jennifer Balent,U,,USA,,,,6-4 6-3,3,R64
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,003,200259,1,,Chris Evert,R,,USA,,,,200930,,,Julie Anthony,U,,USA,,,,6-1 6-0,3,R32
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,004,200862,,,Valerie Ziegenfuss,U,,USA,,,,200463,,,Terry Holladay,U,,USA,,,,7-6 6-4,3,R32
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,005,200356,5,,Betty Stove,U,,NED,,,,200951,,,Mary Struthers,U,,USA,,,,6-2 6-0,3,R32
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,006,200942,,,Kathy Kuykendall,U,,USA,,,,200460,,,Regina Marsikova,U,,CZE,,,,6-2 1-6 7-6,3,R32
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,007,200293,3,,Martina Navratilova,L,173,USA,,,,200275,,,Ann Kiyomura Hayashi,R,,USA,,,,7-5 6-1,3,R32
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,008,200358,,,Marcie Harper,U,,USA,,,,200956,,,Carrie Meyer,R,,USA,,,,2-6 6-4 6-4,3,R32
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,009,200266,6,,Sue Barker,R,,GBR,,,,200948,,,Brigette Cuypers,U,,RSA,,,,6-4 6-7 6-3,3,R32
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,010,200320,,,Renata Tomanova,U,,GER,,,,200940,,,Ilana Kloss,U,,RSA,,,,6-2 6-2,3,R32
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,011,200209,,,Wendy Turnbull,U,,AUS,,,,200324,,,Beth Norton,U,,USA,,,,6-2 6-2,3,R32
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,012,200144,7,,Margaret Court,R,,AUS,,,,200337,,,Virginia Ruzici,R,,ROU,,,,2-6 6-1 7-5,3,R32
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,013,200991,,,Joanne Russell,U,,USA,,,,200950,,,Marise Kruger,U,,RSA,,,,6-4 4-6 7-6,3,R32
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,014,200904,,,Kristien Shaw,U,,USA,,,,200159,4,,Rosie Casals,R,,USA,,,,7-6 6-2,3,R32
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,015,200352,,,Greer Stevens,U,,RSA,,,,200263,,,Janet Wright,U,,USA,,,,6-1 6-4,3,R32
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,016,200371,8,,Mima Jausovec,U,,SLO,,,,200146,,,Cynthia Doerner,U,,AUS,,,,1-6 6-4 6-2,3,R32
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,017,200938,,,Kathy May Teacher Paben,U,,USA,,,,200194,,,Francoise Durr,R,,FRA,,,,7-6 7-6,3,R32
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,018,200237,2,,Virginia Wade,R,,GBR,,,,200967,,,Zenda Liess,U,,USA,,,,6-3 6-0,3,R32
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,019,200259,1,,Chris Evert,R,,USA,,,,200862,,,Valerie Ziegenfuss,U,,USA,,,,6-1 6-1,3,R16
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,020,200356,5,,Betty Stove,U,,NED,,,,200942,,,Kathy Kuykendall,U,,USA,,,,6-3 6-1,3,R16
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,021,200293,3,,Martina Navratilova,L,173,USA,,,,200358,,,Marcie Harper,U,,USA,,,,6-2 6-2,3,R16
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,022,200266,6,,Sue Barker,R,,GBR,,,,200320,,,Renata Tomanova,U,,GER,,,,7-6 6-4,3,R16
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,023,200144,7,,Margaret Court,R,,AUS,,,,200209,,,Wendy Turnbull,U,,AUS,,,,6-3 2-6 6-4,3,R16
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,024,200991,,,Joanne Russell,U,,USA,,,,200904,,,Kristien Shaw,U,,USA,,,,6-2 3-6 6-2,3,R16
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,025,200371,8,,Mima Jausovec,U,,SLO,,,,200352,,,Greer Stevens,U,,RSA,,,,6-4 3-6 7-6,3,R16
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,026,200237,2,,Virginia Wade,R,,GBR,,,,200938,,,Kathy May Teacher Paben,U,,USA,,,,W/O,3,R16
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,027,200259,1,,Chris Evert,R,,USA,,,,200356,5,,Betty Stove,U,,NED,,,,6-4 7-6,3,QF
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,028,200266,6,,Sue Barker,R,,GBR,,,,200293,3,,Martina Navratilova,L,173,USA,,,,7-6 6-4,3,QF
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,029,200144,7,,Margaret Court,R,,AUS,,,,200991,,,Joanne Russell,U,,USA,,,,6-3 6-4,3,QF
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,030,200237,2,,Virginia Wade,R,,GBR,,,,200371,8,,Mima Jausovec,U,,SLO,,,,6-7 6-4 6-4,3,QF
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,031,200259,1,,Chris Evert,R,,USA,,,,200266,6,,Sue Barker,R,,GBR,,,,6-2 6-4,3,SF
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,032,200144,7,,Margaret Court,R,,AUS,,,,200237,2,,Virginia Wade,R,,GBR,,,,6-4 7-6,3,SF
+1977-W-WT-USA-02A-1977,Hollywood,Carpet,34,W,19770110,033,200259,1,,Chris Evert,R,,USA,,,,200144,7,,Margaret Court,R,,AUS,,,,6-3 6-4,3,F
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,001,200293,1,,Martina Navratilova,L,173,USA,,,,200337,,,Virginia Ruzici,R,,ROU,,,,6-4 6-2,3,R32
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,002,200358,,,Marcie Harper,U,,USA,,,,200929,,,Elly Appel,U,,NED,,,,6-4 3-6 6-4,3,R32
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,003,200144,8,,Margaret Court,R,,AUS,,,,200967,,,Zenda Liess,U,,USA,,,,6-0 6-1,3,R32
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,004,200209,,,Wendy Turnbull,U,,AUS,,,,200320,,,Renata Tomanova,U,,GER,,,,6-3 7-5,3,R32
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,005,200159,3,,Rosie Casals,R,,USA,,,,200829,,,Nancy Richey,R,,USA,,,,4-6 7-5 6-2,3,R32
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,006,200904,,,Kristien Shaw,U,,USA,,,,200263,,,Janet Wright,U,,USA,,,,6-0 7-6,3,R32
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,007,200176,5,,Kerry Reid,R,,AUS,,,,200940,,,Ilana Kloss,U,,RSA,,,,7-5 6-4,3,R32
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,008,200371,,,Mima Jausovec,U,,SLO,,,,200976,,,Stacy Margolin,U,,USA,,,,7-6 6-1,3,R32
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,009,200302,,,Linda Mottram,U,,GBR,,,,200397,,,Tracy Austin,R,,USA,,,,6-4 6-1,3,R32
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,010,200266,7,,Sue Barker,R,,GBR,,,,200930,,,Julie Anthony,U,,USA,,,,6-3 6-2,3,R32
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,011,200352,,,Greer Stevens,U,,RSA,,,,200991,,,Joanne Russell,U,,USA,,,,6-0 7-5,3,R32
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,012,200356,4,,Betty Stove,U,,NED,,,,200463,,,Terry Holladay,U,,USA,,,,6-1 6-2,3,R32
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,013,200956,,,Carrie Meyer,R,,USA,,,,200942,,,Kathy Kuykendall,U,,USA,,,,W/O,3,R32
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,014,200460,,,Regina Marsikova,U,,CZE,,,,200228,,,Olga Morozova,U,,URS,,,,6-3 6-1,3,R32
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,015,200950,,,Marise Kruger,U,,RSA,,,,200297,,,Natasha Chmyreva,U,,URS,,,,W/O,3,R32
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,016,200221,2,,Dianne Balestrat,U,,AUS,,,,200275,,,Ann Kiyomura Hayashi,R,,USA,,,,7-6 6-3,3,R32
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,017,200293,1,,Martina Navratilova,L,173,USA,,,,200358,,,Marcie Harper,U,,USA,,,,6-4 7-6,3,R16
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,018,200209,,,Wendy Turnbull,U,,AUS,,,,200144,8,,Margaret Court,R,,AUS,,,,6-4 7-6,3,R16
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,019,200904,,,Kristien Shaw,U,,USA,,,,200159,3,,Rosie Casals,R,,USA,,,,7-6 6-4,3,R16
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,020,200371,,,Mima Jausovec,U,,SLO,,,,200176,5,,Kerry Reid,R,,AUS,,,,6-3 6-2,3,R16
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,021,200266,7,,Sue Barker,R,,GBR,,,,200302,,,Linda Mottram,U,,GBR,,,,6-7 6-3 6-4,3,R16
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,022,200352,,,Greer Stevens,U,,RSA,,,,200356,4,,Betty Stove,U,,NED,,,,6-3 5-7 6-2,3,R16
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,023,200956,,,Carrie Meyer,R,,USA,,,,200460,,,Regina Marsikova,U,,CZE,,,,6-4 6-3,3,R16
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,024,200221,2,,Dianne Balestrat,U,,AUS,,,,200950,,,Marise Kruger,U,,RSA,,,,6-2 6-1,3,R16
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,025,200293,1,,Martina Navratilova,L,173,USA,,,,200209,,,Wendy Turnbull,U,,AUS,,,,7-5 3-6 6-0,3,QF
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,026,200371,,,Mima Jausovec,U,,SLO,,,,200904,,,Kristien Shaw,U,,USA,,,,6-4 6-1,3,QF
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,027,200266,7,,Sue Barker,R,,GBR,,,,200352,,,Greer Stevens,U,,RSA,,,,6-4 7-5,3,QF
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,028,200221,2,,Dianne Balestrat,U,,AUS,,,,200956,,,Carrie Meyer,R,,USA,,,,6-2 6-0,3,QF
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,029,200293,1,,Martina Navratilova,L,173,USA,,,,200371,,,Mima Jausovec,U,,SLO,,,,6-2 6-1,3,SF
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,030,200266,7,,Sue Barker,R,,GBR,,,,200221,2,,Dianne Balestrat,U,,AUS,,,,2-6 6-0 6-2,3,SF
+1977-W-WT-USA-03A-1977,Houston,Carpet,32,W,19770117,031,200293,1,,Martina Navratilova,L,173,USA,,,,200266,7,,Sue Barker,R,,GBR,,,,7-6 7-5,3,F
+1977-W-WT-JPN-02A-1977,Kobe and Tokyo,Hard,8,W,19771122,001,200293,,,Martina Navratilova,L,173,USA,,,,200879,,,Wendy Overton,U,,USA,,,,6-4 6-1,3,QF
+1977-W-WT-JPN-02A-1977,Kobe and Tokyo,Hard,8,W,19771122,002,200194,,,Francoise Durr,R,,FRA,,,,200904,,,Kristien Shaw,U,,USA,,,,7-6 6-1,3,QF
+1977-W-WT-JPN-02A-1977,Kobe and Tokyo,Hard,8,W,19771122,003,200159,,,Rosie Casals,R,,USA,,,,200463,,,Terry Holladay,U,,USA,,,,6-1 6-1,3,QF
+1977-W-WT-JPN-02A-1977,Kobe and Tokyo,Hard,8,W,19771122,004,200190,,,Billie Jean King,R,,USA,,,,200285,,,Mimi Wikstedt,U,,SWE,,,,7-5 6-3,3,QF
+1977-W-WT-JPN-02A-1977,Kobe and Tokyo,Hard,8,W,19771122,005,200293,,,Martina Navratilova,L,173,USA,,,,200194,,,Francoise Durr,R,,FRA,,,,6-3 6-3,3,SF
+1977-W-WT-JPN-02A-1977,Kobe and Tokyo,Hard,8,W,19771122,006,200190,,,Billie Jean King,R,,USA,,,,200159,,,Rosie Casals,R,,USA,,,,5-7 6-2 6-2,3,SF
+1977-W-WT-JPN-02A-1977,Kobe and Tokyo,Hard,8,W,19771122,007,200190,,,Billie Jean King,R,,USA,,,,200293,,,Martina Navratilova,L,173,USA,,,,7-5 5-7 6-1,3,F
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,001,200259,1,,Chris Evert,R,,USA,,,,200263,,,Janet Wright,U,,USA,,,,6-1 6-3,3,R32
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,002,200930,,,Julie Anthony,U,,USA,,,,200337,,,Virginia Ruzici,R,,ROU,,,,6-2 6-0,3,R32
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,003,200221,6,,Dianne Balestrat,U,,AUS,,,,200302,,,Linda Mottram,U,,GBR,,,,1-6 6-2 6-4,3,R32
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,004,200176,,,Kerry Reid,R,,AUS,,,,200948,,,Brigette Cuypers,U,,RSA,,,,6-4 6-7 7-5,3,R32
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,005,200237,3,,Virginia Wade,R,,GBR,,,,200223,,,Sharon Walsh Pete,R,,USA,,,,6-0 6-2,3,R32
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,006,200400,,Q,Kate Latham,U,,USA,,,,200460,,,Regina Marsikova,U,,CZE,,,,6-2 6-1,3,R32
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,007,200159,5,,Rosie Casals,R,,USA,,,,200813,,,Ingrid Bentzer,R,,SWE,,,,6-1 6-2,3,R32
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,008,200397,,,Tracy Austin,R,,USA,,,,200265,,,Lindsey Beaven,U,,GBR,,,,6-3 6-4,3,R32
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,009,200463,,Q,Terry Holladay,U,,USA,,,,200358,,,Marcie Harper,U,,USA,,,,6-4 7-5,3,R32
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,010,200356,8,,Betty Stove,U,,NED,,,,200943,,LL,Jane Stratton,U,,USA,,,,7-5 6-4,3,R32
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,011,200938,,,Kathy May Teacher Paben,U,,USA,,,,200950,,,Marise Kruger,U,,RSA,,,,6-1 6-4,3,R32
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,012,200144,4,,Margaret Court,R,,AUS,,,,200320,,,Renata Tomanova,U,,GER,,,,6-1 6-2,3,R32
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,013,200143,,,Kathleen Harter,U,,USA,,,,200935,,,Florenta Mihai,U,,ROU,,,,6-3 6-1,3,R32
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,014,200991,,,Joanne Russell,U,,USA,,,,200904,7,,Kristien Shaw,U,,USA,,,,6-1 7-5,3,R32
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,015,200283,,,Pam Teeguarden,U,,USA,,,,200862,,,Valerie Ziegenfuss,U,,USA,,,,7-6 6-4,3,R32
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,016,200293,2,,Martina Navratilova,L,173,USA,,,,200410,,,Yvonne Vermaak,R,,RSA,,,,6-4 7-5,3,R32
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,017,200259,1,,Chris Evert,R,,USA,,,,200930,,,Julie Anthony,U,,USA,,,,6-2 6-3,3,R16
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,018,200176,,,Kerry Reid,R,,AUS,,,,200221,6,,Dianne Balestrat,U,,AUS,,,,2-6 6-3 6-1,3,R16
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,019,200237,3,,Virginia Wade,R,,GBR,,,,200400,,Q,Kate Latham,U,,USA,,,,6-2 6-3,3,R16
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,020,200159,5,,Rosie Casals,R,,USA,,,,200397,,,Tracy Austin,R,,USA,,,,6-4 6-4,3,R16
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,021,200463,,Q,Terry Holladay,U,,USA,,,,200356,8,,Betty Stove,U,,NED,,,,4-6 6-4 6-4,3,R16
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,022,200144,4,,Margaret Court,R,,AUS,,,,200938,,,Kathy May Teacher Paben,U,,USA,,,,4-6 6-1 6-0,3,R16
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,023,200991,,,Joanne Russell,U,,USA,,,,200143,,,Kathleen Harter,U,,USA,,,,7-5 6-1,3,R16
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,024,200293,2,,Martina Navratilova,L,173,USA,,,,200283,,,Pam Teeguarden,U,,USA,,,,6-4 6-1,3,R16
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,025,200259,1,,Chris Evert,R,,USA,,,,200176,,,Kerry Reid,R,,AUS,,,,6-1 6-1,3,QF
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,026,200159,5,,Rosie Casals,R,,USA,,,,200237,3,,Virginia Wade,R,,GBR,,,,6-3 6-3,3,QF
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,027,200144,4,,Margaret Court,R,,AUS,,,,200463,,Q,Terry Holladay,U,,USA,,,,6-4 6-0,3,QF
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,028,200293,2,,Martina Navratilova,L,173,USA,,,,200991,,,Joanne Russell,U,,USA,,,,6-3 6-4,3,QF
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,029,200259,1,,Chris Evert,R,,USA,,,,200159,5,,Rosie Casals,R,,USA,,,,4-6 6-3 6-4,3,SF
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,030,200293,2,,Martina Navratilova,L,173,USA,,,,200144,4,,Margaret Court,R,,AUS,,,,5-7 6-4 6-4,3,SF
+1977-W-WT-USA-07A-1977,Los Angeles,Hard,32,W,19770214,031,200259,1,,Chris Evert,R,,USA,,,,200293,2,,Martina Navratilova,L,173,USA,,,,6-2 2-6 6-1,3,F
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,001,200266,1,,Sue Barker,R,,GBR,,,,200329,,,Mary Sawyer,U,,AUS,,,,7-6 6-4,3,R32
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,002,200320,,,Renata Tomanova,U,,GER,,,,200273,,,Nerida Gregory,U,,AUS,,,,7-5 6-4,3,R32
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,003,200333,,,Betsy Nagelsen,R,,USA,,,,200956,,,Carrie Meyer,R,,USA,,,,6-3 3-6 6-3,3,R32
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,004,200234,,Q,Pam Whytcross,U,,AUS,,,,200460,7,,Regina Marsikova,U,,CZE,,,,6-4 6-1,3,R32
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,005,200176,3,,Kerry Reid,R,,AUS,,,,200264,,,Helena Anliot,U,,SWE,,,,6-1 6-0,3,R32
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,006,200328,,,Patricia Bostrom,U,,USA,,,,200288,,,Sue Mappin,R,,GBR,,,,6-4 6-0,3,R32
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,007,200330,,Q,Sue Saliba,U,,AUS,,,,200963,,,Caroline Stoll,U,,USA,,,,6-3 7-5,3,R32
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,008,200209,5,,Wendy Turnbull,U,,AUS,,,,200332,,Q,Amanda Tobin Dingwall,R,,AUS,,,,6-4 6-2,3,R32
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,009,200150,8,,Evonne Cawley,R,,AUS,,,,200243,,,Glynis Coles,U,,GBR,,,,6-1 6-1,3,R32
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,010,200185,,,Lesley Hunt,U,,AUS,,,,200143,,,Kathleen Harter,U,,USA,,,,7-6 6-1,3,R32
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,011,200326,,Q,Naoko Sato,U,,JPN,,,,200255,,,Lesley Charles,U,,GBR,,,,7-6 6-1,3,R32
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,012,200221,4,,Dianne Balestrat,U,,AUS,,,,200758,,,Rayni Fox,U,,USA,,,,6-3 6-3,3,R32
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,013,200352,6,,Greer Stevens,U,,RSA,,,,200316,,,Heidi Eisterlehner,R,,GER,,,,6-4 6-3,3,R32
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,014,200184,,,Helen Cawley,U,,AUS,,,,200298,,,Laura Du Pont,U,,USA,,,,6-4 6-4,3,R32
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,015,200283,,,Pam Teeguarden,U,,USA,,,,200223,,,Sharon Walsh Pete,R,,USA,,,,6-3 6-3,3,R32
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,016,200356,2,,Betty Stove,U,,NED,,,,200932,,,Jeanne Evert,U,,USA,,,,6-1 6-1,3,R32
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,017,200266,1,,Sue Barker,R,,GBR,,,,200320,,,Renata Tomanova,U,,GER,,,,6-4 3-6 6-3,3,R16
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,018,200234,,Q,Pam Whytcross,U,,AUS,,,,200333,,,Betsy Nagelsen,R,,USA,,,,6-4 2-6 6-3,3,R16
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,019,200176,3,,Kerry Reid,R,,AUS,,,,200328,,,Patricia Bostrom,U,,USA,,,,6-1 6-3,3,R16
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,020,200209,5,,Wendy Turnbull,U,,AUS,,,,200330,,Q,Sue Saliba,U,,AUS,,,,6-4 6-1,3,R16
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,021,200150,8,,Evonne Cawley,R,,AUS,,,,200185,,,Lesley Hunt,U,,AUS,,,,6-3 6-1,3,R16
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,022,200221,4,,Dianne Balestrat,U,,AUS,,,,200326,,Q,Naoko Sato,U,,JPN,,,,4-6 6-3 6-4,3,R16
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,023,200184,,,Helen Cawley,U,,AUS,,,,200352,6,,Greer Stevens,U,,RSA,,,,6-3 6-3,3,R16
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,024,200356,2,,Betty Stove,U,,NED,,,,200283,,,Pam Teeguarden,U,,USA,,,,6-2 6-0,3,R16
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,025,200266,1,,Sue Barker,R,,GBR,,,,200234,,Q,Pam Whytcross,U,,AUS,,,,6-0 7-6,3,QF
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,026,200209,5,,Wendy Turnbull,U,,AUS,,,,200176,3,,Kerry Reid,R,,AUS,,,,7-6 6-3,3,QF
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,027,200150,8,,Evonne Cawley,R,,AUS,,,,200221,4,,Dianne Balestrat,U,,AUS,,,,3-6 6-1 6-3,3,QF
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,028,200356,2,,Betty Stove,U,,NED,,,,200184,,,Helen Cawley,U,,AUS,,,,6-4 6-3,3,QF
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,029,200209,5,,Wendy Turnbull,U,,AUS,,,,200266,1,,Sue Barker,R,,GBR,,,,7-5 6-3,3,SF
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,030,200150,8,,Evonne Cawley,R,,AUS,,,,200356,2,,Betty Stove,U,,NED,,,,6-1 6-2,3,SF
+1977-W-WT-AUS-02A-1977,Melbourne,Grass,32,W,19771121,031,200150,8,,Evonne Cawley,R,,AUS,,,,200209,5,,Wendy Turnbull,U,,AUS,,,,6-4 6-1,3,F
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,001,200879,,,Wendy Overton,U,,USA,,,,200930,,,Julie Anthony,U,,USA,,,,6-4 6-4,3,R64
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,002,200337,,,Virginia Ruzici,R,,ROU,,,,200929,,,Elly Appel,U,,NED,,,,5-7 6-3 6-4,3,R64
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,003,200237,1,,Virginia Wade,R,,GBR,,,,200879,,,Wendy Overton,U,,USA,,,,6-2 6-2,3,R32
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,004,200358,,,Marcie Harper,U,,USA,,,,200324,,,Beth Norton,U,,USA,,,,6-7 6-4 6-3,3,R32
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,005,200266,8,,Sue Barker,R,,GBR,,,,200194,,,Francoise Durr,R,,FRA,,,,6-2 6-1,3,R32
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,006,200283,,,Pam Teeguarden,U,,USA,,,,200813,,,Ingrid Bentzer,R,,SWE,,,,7-6 6-2,3,R32
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,007,200144,4,,Margaret Court,R,,AUS,,,,200223,,,Sharon Walsh Pete,R,,USA,,,,6-3 6-2,3,R32
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,008,200337,,,Virginia Ruzici,R,,ROU,,,,200862,,,Valerie Ziegenfuss,U,,USA,,,,6-3 6-4,3,R32
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,009,200159,5,,Rosie Casals,R,,USA,,,,200952,,,Mary Hamm,U,,USA,,,,6-0 6-0,3,R32
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,010,200397,,,Tracy Austin,R,,USA,,,,200352,,,Greer Stevens,U,,RSA,,,,7-5 6-3,3,R32
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,011,200302,,,Linda Mottram,U,,GBR,,,,200320,,,Renata Tomanova,U,,GER,,,,6-2 4-6 6-2,3,R32
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,012,200228,7,,Olga Morozova,U,,URS,,,,200950,,,Marise Kruger,U,,RSA,,,,7-5 6-3,3,R32
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,013,200371,,,Mima Jausovec,U,,SLO,,,,200911,,,Linky Boshoff,U,,RSA,,,,7-6 6-2,3,R32
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,014,200209,,,Wendy Turnbull,U,,AUS,,,,200221,3,,Dianne Balestrat,U,,AUS,,,,7-5 6-7 6-4,3,R32
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,015,200297,,,Natasha Chmyreva,U,,URS,,,,200976,,,Stacy Margolin,U,,USA,,,,4-6 6-4 7-6,3,R32
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,016,200176,6,,Kerry Reid,R,,AUS,,,,200263,,,Janet Wright,U,,USA,,,,6-3 7-6,3,R32
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,017,200460,,,Regina Marsikova,U,,CZE,,,,200991,,,Joanne Russell,U,,USA,,,,6-4 7-5,3,R32
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,018,200293,2,,Martina Navratilova,L,173,USA,,,,200756,,,Bunny Bruning,U,,USA,,,,6-2 6-0,3,R32
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,019,200237,1,,Virginia Wade,R,,GBR,,,,200358,,,Marcie Harper,U,,USA,,,,6-2 6-2,3,R16
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,020,200266,8,,Sue Barker,R,,GBR,,,,200283,,,Pam Teeguarden,U,,USA,,,,6-2 6-4,3,R16
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,021,200144,4,,Margaret Court,R,,AUS,,,,200337,,,Virginia Ruzici,R,,ROU,,,,6-4 6-4,3,R16
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,022,200159,5,,Rosie Casals,R,,USA,,,,200397,,,Tracy Austin,R,,USA,,,,6-3 6-3,3,R16
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,023,200228,7,,Olga Morozova,U,,URS,,,,200302,,,Linda Mottram,U,,GBR,,,,3-6 6-1 6-3,3,R16
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,024,200371,,,Mima Jausovec,U,,SLO,,,,200209,,,Wendy Turnbull,U,,AUS,,,,7-5 6-1,3,R16
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,025,200297,,,Natasha Chmyreva,U,,URS,,,,200176,6,,Kerry Reid,R,,AUS,,,,6-2 6-4,3,R16
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,026,200293,2,,Martina Navratilova,L,173,USA,,,,200460,,,Regina Marsikova,U,,CZE,,,,6-2 6-1,3,R16
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,027,200266,8,,Sue Barker,R,,GBR,,,,200237,1,,Virginia Wade,R,,GBR,,,,6-5 RET,3,QF
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,028,200159,5,,Rosie Casals,R,,USA,,,,200144,4,,Margaret Court,R,,AUS,,,,6-4 7-5,3,QF
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,029,200228,7,,Olga Morozova,U,,URS,,,,200371,,,Mima Jausovec,U,,SLO,,,,7-6 6-2,3,QF
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,030,200293,2,,Martina Navratilova,L,173,USA,,,,200297,,,Natasha Chmyreva,U,,URS,,,,6-4 6-3,3,QF
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,031,200266,8,,Sue Barker,R,,GBR,,,,200159,5,,Rosie Casals,R,,USA,,,,6-3 2-6 7-6,3,SF
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,032,200293,2,,Martina Navratilova,L,173,USA,,,,200228,7,,Olga Morozova,U,,URS,,,,6-4 6-3,3,SF
+1977-W-WT-USA-04A-1977,Minneapolis,Carpet,34,W,19770124,033,200293,2,,Martina Navratilova,L,173,USA,,,,200266,8,,Sue Barker,R,,GBR,,,,6-0 6-1,3,F
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,001,200259,1,,Chris Evert,R,,USA,,,,200956,,,Carrie Meyer,R,,USA,,,,6-1 6-1,3,R32
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,002,200930,,,Julie Anthony,U,,USA,,,,200955,,,Mary Carillo,L,,USA,,,,6-2 6-4,3,R32
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,003,200221,7,,Dianne Balestrat,U,,AUS,,,,200463,,,Terry Holladay,U,,USA,,,,6-7 6-3 6-4,3,R32
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,004,200226,,,Mona Guerrant,U,,USA,,,,201157,,,Susan Hagey,U,,BEL,,,,6-1 6-3,3,R32
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,005,200266,3,,Sue Barker,R,,GBR,,,,201156,,,Stephanie Tolleson,U,,USA,,,,6-3 6-2,3,R32
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,006,200337,,,Virginia Ruzici,R,,ROU,,,,200943,,,Jane Stratton,U,,USA,,,,6-2 6-1,3,R32
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,007,200143,,,Kathleen Harter,U,,USA,,,,200371,8,,Mima Jausovec,U,,SLO,,,,1-6 6-1 6-2,3,R32
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,008,200176,,,Kerry Reid,R,,AUS,,,,200938,,,Kathy May Teacher Paben,U,,USA,,,,6-3 6-4,3,R32
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,009,200194,,,Francoise Durr,R,,FRA,,,,200904,,,Kristien Shaw,U,,USA,,,,5-7 7-5 6-4,3,R32
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,010,200159,5,,Rosie Casals,R,,USA,,,,200952,,,Mary Hamm,U,,USA,,,,6-2 6-4,3,R32
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,011,200223,,,Sharon Walsh Pete,R,,USA,,,,200967,,,Zenda Liess,U,,USA,,,,6-2 6-2,3,R32
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,012,200237,4,,Virginia Wade,R,,GBR,,,,200320,,,Renata Tomanova,U,,GER,,,,6-2 6-2,3,R32
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,013,200353,,,Lele Forood,U,,USA,,,,200948,,,Brigette Cuypers,U,,RSA,,,,1-6 6-1 7-6,3,R32
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,014,200356,6,,Betty Stove,U,,NED,,,,200318,,,Michelle Tyler,U,,GBR,,,,W/O,3,R32
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,015,200400,,,Kate Latham,U,,USA,,,,200976,,,Stacy Margolin,U,,USA,,,,7-6 6-2,3,R32
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,016,200293,2,,Martina Navratilova,L,173,USA,,,,200209,,,Wendy Turnbull,U,,AUS,,,,6-3 7-6,3,R32
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,017,200259,1,,Chris Evert,R,,USA,,,,200930,,,Julie Anthony,U,,USA,,,,6-1 6-1,3,R16
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,018,200221,7,,Dianne Balestrat,U,,AUS,,,,200226,,,Mona Guerrant,U,,USA,,,,6-4 6-1,3,R16
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,019,200266,3,,Sue Barker,R,,GBR,,,,200337,,,Virginia Ruzici,R,,ROU,,,,W/O,3,R16
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,020,200176,,,Kerry Reid,R,,AUS,,,,200143,,,Kathleen Harter,U,,USA,,,,6-3 6-4,3,R16
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,021,200159,5,,Rosie Casals,R,,USA,,,,200194,,,Francoise Durr,R,,FRA,,,,6-2 6-2,3,R16
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,022,200237,4,,Virginia Wade,R,,GBR,,,,200223,,,Sharon Walsh Pete,R,,USA,,,,6-2 6-4,3,R16
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,023,200356,6,,Betty Stove,U,,NED,,,,200353,,,Lele Forood,U,,USA,,,,6-4 6-3,3,R16
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,024,200293,2,,Martina Navratilova,L,173,USA,,,,200400,,,Kate Latham,U,,USA,,,,6-0 6-7 6-1,3,R16
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,025,200259,1,,Chris Evert,R,,USA,,,,200221,7,,Dianne Balestrat,U,,AUS,,,,6-3 6-4,3,QF
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,026,200266,3,,Sue Barker,R,,GBR,,,,200176,,,Kerry Reid,R,,AUS,,,,6-2 2-6 6-3,3,QF
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,027,200159,5,,Rosie Casals,R,,USA,,,,200237,4,,Virginia Wade,R,,GBR,,,,6-4 7-6,3,QF
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,028,200293,2,,Martina Navratilova,L,173,USA,,,,200356,6,,Betty Stove,U,,NED,,,,6-2 6-4,3,QF
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,029,200259,1,,Chris Evert,R,,USA,,,,200266,3,,Sue Barker,R,,GBR,,,,6-2 7-5,3,SF
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,030,200293,2,,Martina Navratilova,L,173,USA,,,,200159,5,,Rosie Casals,R,,USA,,,,6-3 6-2,3,SF
+1977-W-WT-USA-12A-1977,Philadelphia,Hard,32,W,19770514,031,200259,1,,Chris Evert,R,,USA,,,,200293,2,,Martina Navratilova,L,173,USA,,,,6-4 4-6 6-3,3,F
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,001,200991,,,Joanne Russell,U,,USA,,,,200952,,LL,Mary Hamm,U,,USA,,,,6-3 6-7 7-5,3,R32
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,002,201256,,Q,Renee Richards,U,,USA,,,,200333,,,Betsy Nagelsen,R,,USA,,,,6-3 6-1,3,R32
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,003,200176,5,,Kerry Reid,R,,AUS,,,,200283,,,Pam Teeguarden,U,,USA,,,,6-4 6-3,3,R32
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,004,200146,,,Cynthia Doerner,U,,AUS,,,,200904,,,Kristien Shaw,U,,USA,,,,6-2 6-2,3,R32
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,005,200221,4,,Dianne Balestrat,U,,AUS,,,,200911,,Q,Linky Boshoff,U,,RSA,,,,6-3 6-3,3,R32
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,006,200950,,,Marise Kruger,U,,RSA,,,,200358,,,Marcie Harper,U,,USA,,,,6-4 6-0,3,R32
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,007,200209,7,,Wendy Turnbull,U,,AUS,,,,200935,,,Florenta Mihai,U,,ROU,,,,6-2 6-0,3,R32
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,008,200337,,,Virginia Ruzici,R,,ROU,,,,200223,,,Sharon Walsh Pete,R,,USA,,,,6-4 6-3,3,R32
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,009,200298,,,Laura Du Pont,U,,USA,,,,200263,,,Janet Wright,U,,USA,,,,6-2 6-3,3,R32
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,010,200190,6,,Billie Jean King,R,,USA,,,,200942,,,Kathy Kuykendall,U,,USA,,,,6-3 6-3,3,R32
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,011,200184,,,Helen Cawley,U,,AUS,,,,200936,,,Iris Riedel Kuhn,U,,FRG,,,,6-4 6-2,3,R32
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,012,200159,3,,Rosie Casals,R,,USA,,,,200320,,,Renata Tomanova,U,,GER,,,,4-6 6-1 6-4,3,R32
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,013,200951,,Q,Mary Struthers,U,,USA,,,,200275,,,Ann Kiyomura Hayashi,R,,USA,,,,6-4 5-7 6-2,3,R32
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,014,200397,8,,Tracy Austin,R,,USA,,,,200194,,,Francoise Durr,R,,FRA,,,,6-0 6-3,3,R32
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,015,200932,,,Jeanne Evert,U,,USA,,,,200956,,Q,Carrie Meyer,R,,USA,,,,6-7 6-3 6-1,3,R32
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,016,200293,2,,Martina Navratilova,L,173,USA,,,,200400,,,Kate Latham,U,,USA,,,,6-2 6-3,3,R32
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,017,201256,,Q,Renee Richards,U,,USA,,,,200991,,,Joanne Russell,U,,USA,,,,6-3 6-3,3,R16
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,018,200176,5,,Kerry Reid,R,,AUS,,,,200146,,,Cynthia Doerner,U,,AUS,,,,6-3 6-1,3,R16
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,019,200221,4,,Dianne Balestrat,U,,AUS,,,,200950,,,Marise Kruger,U,,RSA,,,,6-4 6-1,3,R16
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,020,200209,7,,Wendy Turnbull,U,,AUS,,,,200337,,,Virginia Ruzici,R,,ROU,,,,6-0 6-2,3,R16
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,021,200190,6,,Billie Jean King,R,,USA,,,,200298,,,Laura Du Pont,U,,USA,,,,6-3 6-3,3,R16
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,022,200159,3,,Rosie Casals,R,,USA,,,,200184,,,Helen Cawley,U,,AUS,,,,7-6 6-3,3,R16
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,023,200397,8,,Tracy Austin,R,,USA,,,,200951,,Q,Mary Struthers,U,,USA,,,,6-4 6-1,3,R16
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,024,200293,2,,Martina Navratilova,L,173,USA,,,,200932,,,Jeanne Evert,U,,USA,,,,6-0 6-2,3,R16
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,025,201256,,Q,Renee Richards,U,,USA,,,,200176,5,,Kerry Reid,R,,AUS,,,,7-6 4-1 RET,3,QF
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,026,200209,7,,Wendy Turnbull,U,,AUS,,,,200221,4,,Dianne Balestrat,U,,AUS,,,,2-6 7-6 6-2,3,QF
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,027,200190,6,,Billie Jean King,R,,USA,,,,200159,3,,Rosie Casals,R,,USA,,,,4-6 6-4 6-3,3,QF
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,028,200293,2,,Martina Navratilova,L,173,USA,,,,200397,8,,Tracy Austin,R,,USA,,,,6-1 6-1,3,QF
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,029,200209,7,,Wendy Turnbull,U,,AUS,,,,201256,,Q,Renee Richards,U,,USA,,,,6-2 6-2,3,SF
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,030,200190,6,,Billie Jean King,R,,USA,,,,200293,2,,Martina Navratilova,L,173,USA,,,,7-6 4-6 6-4,3,SF
+1977-W-WT-USA-14A-1977,Phoenix,Hard,32,W,19771010,031,200190,6,,Billie Jean King,R,,USA,,,,200209,7,,Wendy Turnbull,U,,AUS,,,,1-6 6-1 6-0,3,F
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,001,200275,,,Ann Kiyomura Hayashi,R,,USA,,,,200298,,,Laura Du Pont,U,,USA,,,,6-3 6-1,3,R64
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,002,200951,,,Mary Struthers,U,,USA,,,,200905,,,Mariana Simionescu,R,,ROU,,,,W/O,3,R64
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,003,200259,1,,Chris Evert,R,,USA,,,,201156,,,Stephanie Tolleson,U,,USA,,,,6-1 6-2,3,R32
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,004,200143,,,Kathleen Harter,U,,USA,,,,200956,,,Carrie Meyer,R,,USA,,,,6-1 6-4,3,R32
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,005,200356,5,,Betty Stove,U,,NED,,,,200275,,,Ann Kiyomura Hayashi,R,,USA,,,,6-2 6-3,3,R32
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,006,200410,,,Yvonne Vermaak,R,,RSA,,,,200968,,,Betty Ann Dent,U,,USA,,,,7-5 6-3,3,R32
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,007,200237,3,,Virginia Wade,R,,GBR,,,,200146,,,Cynthia Doerner,U,,AUS,,,,6-4 6-1,3,R32
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,008,200337,,,Virginia Ruzici,R,,ROU,,,,200948,,,Brigette Cuypers,U,,RSA,,,,6-3 6-3,3,R32
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,009,200371,6,,Mima Jausovec,U,,SLO,,,,200302,,,Linda Mottram,U,,GBR,,,,7-6 6-3,3,R32
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,010,200263,,,Janet Wright,U,,USA,,,,200862,,,Valerie Ziegenfuss,U,,USA,,,,6-3 6-3,3,R32
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,011,200176,,,Kerry Reid,R,,AUS,,,,200463,,,Terry Holladay,U,,USA,,,,7-5 2-6 6-2,3,R32
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,012,200904,8,,Kristien Shaw,U,,USA,,,,200930,,,Julie Anthony,U,,USA,,,,4-6 6-1 6-1,3,R32
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,013,200352,,,Greer Stevens,U,,RSA,,,,200951,,,Mary Struthers,U,,USA,,,,6-4 6-4,3,R32
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,014,200159,4,,Rosie Casals,R,,USA,,,,200320,,,Renata Tomanova,U,,GER,,,,6-3 6-3,3,R32
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,015,200223,,,Sharon Walsh Pete,R,,USA,,,,200283,,,Pam Teeguarden,U,,USA,,,,7-6 6-1,3,R32
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,016,200194,,,Francoise Durr,R,,FRA,,,,200209,7,,Wendy Turnbull,U,,AUS,,,,1-6 6-3 6-4,3,R32
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,017,200938,,,Kathy May Teacher Paben,U,,USA,,,,200358,,,Marcie Harper,U,,USA,,,,6-2 2-6 6-1,3,R32
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,018,200266,2,,Sue Barker,R,,GBR,,,,200911,,,Linky Boshoff,U,,RSA,,,,6-1 6-4,3,R32
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,019,200259,1,,Chris Evert,R,,USA,,,,200143,,,Kathleen Harter,U,,USA,,,,6-1 6-0,3,R16
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,020,200356,5,,Betty Stove,U,,NED,,,,200410,,,Yvonne Vermaak,R,,RSA,,,,6-0 6-2,3,R16
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,021,200237,3,,Virginia Wade,R,,GBR,,,,200337,,,Virginia Ruzici,R,,ROU,,,,6-3 6-1,3,R16
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,022,200371,6,,Mima Jausovec,U,,SLO,,,,200263,,,Janet Wright,U,,USA,,,,6-3 6-3,3,R16
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,023,200176,,,Kerry Reid,R,,AUS,,,,200904,8,,Kristien Shaw,U,,USA,,,,6-2 7-6,3,R16
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,024,200159,4,,Rosie Casals,R,,USA,,,,200352,,,Greer Stevens,U,,RSA,,,,6-3 5-7 6-3,3,R16
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,025,200194,,,Francoise Durr,R,,FRA,,,,200223,,,Sharon Walsh Pete,R,,USA,,,,6-2 6-1,3,R16
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,026,200266,2,,Sue Barker,R,,GBR,,,,200938,,,Kathy May Teacher Paben,U,,USA,,,,6-4 6-3,3,R16
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,027,200259,1,,Chris Evert,R,,USA,,,,200356,5,,Betty Stove,U,,NED,,,,7-6 6-3,3,QF
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,028,200237,3,,Virginia Wade,R,,GBR,,,,200371,6,,Mima Jausovec,U,,SLO,,,,6-3 7-5,3,QF
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,029,200159,4,,Rosie Casals,R,,USA,,,,200176,,,Kerry Reid,R,,AUS,,,,6-2 6-1,3,QF
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,030,200266,2,,Sue Barker,R,,GBR,,,,200194,,,Francoise Durr,R,,FRA,,,,6-3 6-2,3,QF
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,031,200237,3,,Virginia Wade,R,,GBR,,,,200259,1,,Chris Evert,R,,USA,,,,6-3 6-4,3,SF
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,032,200266,2,,Sue Barker,R,,GBR,,,,200159,4,,Rosie Casals,R,,USA,,,,6-2 6-2,3,SF
+1977-W-WT-USA-09A-1977,San Francisco,Carpet,34,W,19770228,033,200266,2,,Sue Barker,R,,GBR,,,,200237,3,,Virginia Wade,R,,GBR,,,,6-3 6-4,3,F
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,001,200333,,,Betsy Nagelsen,R,,USA,,,,200756,,LL,Bunny Bruning,U,,USA,,,,4-6 6-4 6-2,3,R32
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,002,200263,,,Janet Wright,U,,USA,,,,200951,,Q,Mary Struthers,U,,USA,,,,6-4 6-3,3,R32
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,003,200209,6,,Wendy Turnbull,U,,AUS,,,,200879,,Q,Wendy Overton,U,,USA,,,,6-1 6-2,3,R32
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,004,200942,,,Kathy Kuykendall,U,,USA,,,,200957,,Q,Ruta Gerulaitis,U,,USA,,,,7-5 7-5,3,R32
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,005,200159,3,,Rosie Casals,R,,USA,,,,200184,,,Helen Cawley,U,,AUS,,,,6-2 6-2,3,R32
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,006,200930,,,Julie Anthony,U,,USA,,,,200759,,,Katja Ebbinghaus,U,,FRG,,,,7-6 6-2,3,R32
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,007,200991,7,,Joanne Russell,U,,USA,,,,200223,,,Sharon Walsh Pete,R,,USA,,,,6-2 6-3,3,R32
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,008,200911,,,Linky Boshoff,U,,RSA,,,,200956,,,Carrie Meyer,R,,USA,,,,6-3 6-2,3,R32
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,009,200935,,,Florenta Mihai,U,,ROU,,,,200320,,,Renata Tomanova,U,,GER,,,,3-6 6-3 6-2,3,R32
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,010,200337,,,Virginia Ruzici,R,,ROU,,,,200176,5,,Kerry Reid,R,,AUS,,,,6-4 3-6 6-2,3,R32
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,011,200904,,,Kristien Shaw,U,,USA,,,,200283,,,Pam Teeguarden,U,,USA,,,,6-2 6-1,3,R32
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,012,200190,4,,Billie Jean King,R,,USA,,,,200194,,,Francoise Durr,R,,FRA,,,,6-1 6-2,3,R32
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,013,200243,,Q,Glynis Coles,U,,GBR,,,,200950,,,Marise Kruger,U,,RSA,,,,6-3 4-6 6-1,3,R32
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,014,200463,8,,Terry Holladay,U,,USA,,,,200298,,,Laura Du Pont,U,,USA,,,,7-6 7-5,3,R32
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,015,200948,,,Brigette Cuypers,U,,RSA,,,,200932,,,Jeanne Evert,U,,USA,,,,6-2 6-2,3,R32
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,016,200356,2,,Betty Stove,U,,NED,,,,200358,,,Marcie Harper,U,,USA,,,,6-3 7-5,3,R32
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,017,200263,,,Janet Wright,U,,USA,,,,200333,,,Betsy Nagelsen,R,,USA,,,,7-5 6-1,3,R16
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,018,200209,6,,Wendy Turnbull,U,,AUS,,,,200942,,,Kathy Kuykendall,U,,USA,,,,6-3 7-5,3,R16
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,019,200159,3,,Rosie Casals,R,,USA,,,,200930,,,Julie Anthony,U,,USA,,,,6-4 6-1,3,R16
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,020,200991,7,,Joanne Russell,U,,USA,,,,200911,,,Linky Boshoff,U,,RSA,,,,6-3 6-1,3,R16
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,021,200337,,,Virginia Ruzici,R,,ROU,,,,200935,,,Florenta Mihai,U,,ROU,,,,6-2 4-6 6-1,3,R16
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,022,200190,4,,Billie Jean King,R,,USA,,,,200904,,,Kristien Shaw,U,,USA,,,,4-6 6-4 6-4,3,R16
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,023,200463,8,,Terry Holladay,U,,USA,,,,200243,,Q,Glynis Coles,U,,GBR,,,,6-2 6-3,3,R16
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,024,200356,2,,Betty Stove,U,,NED,,,,200948,,,Brigette Cuypers,U,,RSA,,,,6-4 7-5,3,R16
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,025,200263,,,Janet Wright,U,,USA,,,,200209,6,,Wendy Turnbull,U,,AUS,,,,6-2 6-0,3,QF
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,026,200991,7,,Joanne Russell,U,,USA,,,,200159,3,,Rosie Casals,R,,USA,,,,6-4 6-2,3,QF
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,027,200190,4,,Billie Jean King,R,,USA,,,,200337,,,Virginia Ruzici,R,,ROU,,,,6-3 6-1,3,QF
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,028,200356,2,,Betty Stove,U,,NED,,,,200463,8,,Terry Holladay,U,,USA,,,,6-4 6-1,3,QF
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,029,200263,,,Janet Wright,U,,USA,,,,200991,7,,Joanne Russell,U,,USA,,,,6-4 5-7 6-3,3,SF
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,030,200190,4,,Billie Jean King,R,,USA,,,,200356,2,,Betty Stove,U,,NED,,,,6-4 2-6 6-4,3,SF
+1977-W-WT-PUR-01A-1977,San Juan,Hard,32,W,19771024,031,200190,4,,Billie Jean King,R,,USA,,,,200263,,,Janet Wright,U,,USA,,,,6-1 6-3,3,F
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,001,200293,1,,Martina Navratilova,L,173,USA,,,,201256,,Q,Renee Richards,U,,USA,,,,7-6 7-6,3,R32
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,002,200298,,,Laura Du Pont,U,,USA,,,,200936,,,Iris Riedel Kuhn,U,,FRG,,,,4-6 6-3 6-0,3,R32
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,003,200190,6,,Billie Jean King,R,,USA,,,,200935,,,Florenta Mihai,U,,ROU,,,,6-2 6-4,3,R32
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,004,200320,,,Renata Tomanova,U,,GER,,,,200337,,,Virginia Ruzici,R,,ROU,,,,7-5 6-1,3,R32
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,005,200221,4,,Dianne Balestrat,U,,AUS,,,,200951,,Q,Mary Struthers,U,,USA,,,,6-2 6-2,3,R32
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,006,200787,,,Fiorella Bonicelli,U,,URU,,,,201164,,,Glaucia Langela,U,,BRA,,,,7-5 6-1,3,R32
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,007,200184,,,Helen Cawley,U,,AUS,,,,200209,7,,Wendy Turnbull,U,,AUS,,,,7-5 6-2,3,R32
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,008,200333,,,Betsy Nagelsen,R,,USA,,,,200756,,Q,Bunny Bruning,U,,USA,,,,1-6 6-4 6-0,3,R32
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,009,200463,,,Terry Holladay,U,,USA,,,,200194,,,Francoise Durr,R,,FRA,,,,6-1 6-0,3,R32
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,010,200176,5,,Kerry Reid,R,,AUS,,,,200991,,,Joanne Russell,U,,USA,,,,6-1 6-2,3,R32
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,011,200283,,,Pam Teeguarden,U,,USA,,,,200358,,,Marcie Harper,U,,USA,,,,3-6 7-5 6-1,3,R32
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,012,200159,3,,Rosie Casals,R,,USA,,,,202174,,Q,Cynthia Ann Thomas,U,,USA,,,,6-3 6-2,3,R32
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,013,200223,,,Sharon Walsh Pete,R,,USA,,,,200962,,,Patricia Medrado,U,,BRA,,,,6-1 6-3,3,R32
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,014,200904,8,,Kristien Shaw,U,,USA,,,,200146,,,Cynthia Doerner,U,,AUS,,,,7-5 2-6 1-0 RET,3,R32
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,015,200848,,,Maria Bueno,R,,BRA,,,,200759,,,Katja Ebbinghaus,U,,FRG,,,,6-0 6-2,3,R32
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,016,200356,2,,Betty Stove,U,,NED,,,,200930,,,Julie Anthony,U,,USA,,,,3-6 6-3 6-4,3,R32
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,017,200293,1,,Martina Navratilova,L,173,USA,,,,200298,,,Laura Du Pont,U,,USA,,,,6-3 6-1,3,R16
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,018,200190,6,,Billie Jean King,R,,USA,,,,200320,,,Renata Tomanova,U,,GER,,,,6-2 6-0,3,R16
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,019,200221,4,,Dianne Balestrat,U,,AUS,,,,200787,,,Fiorella Bonicelli,U,,URU,,,,6-1 6-2,3,R16
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,020,200333,,,Betsy Nagelsen,R,,USA,,,,200184,,,Helen Cawley,U,,AUS,,,,4-6 6-0 7-5,3,R16
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,021,200176,5,,Kerry Reid,R,,AUS,,,,200463,,,Terry Holladay,U,,USA,,,,6-1 1-0 RET,3,R16
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,022,200159,3,,Rosie Casals,R,,USA,,,,200283,,,Pam Teeguarden,U,,USA,,,,7-6 7-5,3,R16
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,023,200223,,,Sharon Walsh Pete,R,,USA,,,,200904,8,,Kristien Shaw,U,,USA,,,,3-6 6-3 7-5,3,R16
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,024,200356,2,,Betty Stove,U,,NED,,,,200848,,,Maria Bueno,R,,BRA,,,,6-3 6-0,3,R16
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,025,200190,6,,Billie Jean King,R,,USA,,,,200293,1,,Martina Navratilova,L,173,USA,,,,6-2 3-6 6-4,3,QF
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,026,200221,4,,Dianne Balestrat,U,,AUS,,,,200333,,,Betsy Nagelsen,R,,USA,,,,6-3 6-3,3,QF
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,027,200176,5,,Kerry Reid,R,,AUS,,,,200159,3,,Rosie Casals,R,,USA,,,,4-6 6-2 6-4,3,QF
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,028,200356,2,,Betty Stove,U,,NED,,,,200223,,,Sharon Walsh Pete,R,,USA,,,,6-2 6-1,3,QF
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,029,200190,6,,Billie Jean King,R,,USA,,,,200221,4,,Dianne Balestrat,U,,AUS,,,,6-3 6-3,3,SF
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,030,200356,2,,Betty Stove,U,,NED,,,,200176,5,,Kerry Reid,R,,AUS,,,,6-4 3-6 6-1,3,SF
+1977-W-WT-BRA-01A-1977,Sao Paulo,Hard,32,W,19771017,031,200190,6,,Billie Jean King,R,,USA,,,,200356,2,,Betty Stove,U,,NED,,,,6-1 6-4,3,F
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,001,200952,,,Mary Hamm,U,,USA,,,,200328,,,Patricia Bostrom,U,,USA,,,,6-2 6-2,3,R64
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,002,200940,,,Ilana Kloss,U,,RSA,,,,200756,,,Bunny Bruning,U,,USA,,,,6-3 6-2,3,R64
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,003,200259,1,,Chris Evert,R,,USA,,,,200952,,,Mary Hamm,U,,USA,,,,6-1 6-3,3,R32
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,004,200337,,,Virginia Ruzici,R,,ROU,,,,200967,,,Zenda Liess,U,,USA,,,,6-0 4-6 7-5,3,R32
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,005,200904,6,,Kristien Shaw,U,,USA,,,,200955,,,Mary Carillo,L,,USA,,,,6-4 2-6 6-2,3,R32
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,006,200879,,,Wendy Overton,U,,USA,,,,200813,,,Ingrid Bentzer,R,,SWE,,,,6-3 2-6 6-2,3,R32
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,007,200221,3,,Dianne Balestrat,U,,AUS,,,,200243,,,Glynis Coles,U,,GBR,,,,3-0 RET,3,R32
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,008,200320,,,Renata Tomanova,U,,GER,,,,200829,,,Nancy Richey,R,,USA,,,,6-3 6-1,3,R32
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,009,200228,,,Olga Morozova,U,,URS,,,,200194,7,,Francoise Durr,R,,FRA,,,,6-3 6-2,3,R32
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,010,200146,,,Cynthia Doerner,U,,AUS,,,,200940,,,Ilana Kloss,U,,RSA,,,,6-4 7-5,3,R32
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,011,200297,,,Natasha Chmyreva,U,,URS,,,,200911,,,Linky Boshoff,U,,RSA,,,,6-2 6-2,3,R32
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,012,200283,,,Pam Teeguarden,U,,USA,,,,200956,8,,Carrie Meyer,R,,USA,,,,6-4 6-0,3,R32
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,013,200862,,,Valerie Ziegenfuss,U,,USA,,,,200460,,,Regina Marsikova,U,,CZE,,,,6-2 6-7 6-3,3,R32
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,014,200159,,,Rosie Casals,R,,USA,,,,200209,4,,Wendy Turnbull,U,,AUS,,,,6-4 6-4,3,R32
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,015,200223,,,Sharon Walsh Pete,R,,USA,,,,200950,,,Marise Kruger,U,,RSA,,,,6-3 6-2,3,R32
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,016,200358,,,Marcie Harper,U,,USA,,,,200371,5,,Mima Jausovec,U,,SLO,,,,1-6 7-6 6-3,3,R32
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,017,200302,,,Linda Mottram,U,,GBR,,,,200298,,,Laura Du Pont,U,,USA,,,,6-3 4-6 6-4,3,R32
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,018,200293,2,,Martina Navratilova,L,173,USA,,,,200948,,,Brigette Cuypers,U,,RSA,,,,6-3 6-2,3,R32
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,019,200259,1,,Chris Evert,R,,USA,,,,200337,,,Virginia Ruzici,R,,ROU,,,,6-4 6-1,3,R16
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,020,200904,6,,Kristien Shaw,U,,USA,,,,200879,,,Wendy Overton,U,,USA,,,,6-4 3-6 6-4,3,R16
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,021,200221,3,,Dianne Balestrat,U,,AUS,,,,200320,,,Renata Tomanova,U,,GER,,,,6-1 6-0,3,R16
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,022,200228,,,Olga Morozova,U,,URS,,,,200146,,,Cynthia Doerner,U,,AUS,,,,6-3 6-2,3,R16
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,023,200297,,,Natasha Chmyreva,U,,URS,,,,200283,,,Pam Teeguarden,U,,USA,,,,7-6 6-0,3,R16
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,024,200159,,,Rosie Casals,R,,USA,,,,200862,,,Valerie Ziegenfuss,U,,USA,,,,6-2 6-3,3,R16
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,025,200223,,,Sharon Walsh Pete,R,,USA,,,,200358,,,Marcie Harper,U,,USA,,,,4-6 6-3 6-2,3,R16
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,026,200293,2,,Martina Navratilova,L,173,USA,,,,200302,,,Linda Mottram,U,,GBR,,,,6-2 6-3,3,R16
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,027,200259,1,,Chris Evert,R,,USA,,,,200904,6,,Kristien Shaw,U,,USA,,,,6-0 6-0,3,QF
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,028,200228,,,Olga Morozova,U,,URS,,,,200221,3,,Dianne Balestrat,U,,AUS,,,,6-2 6-0,3,QF
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,029,200159,,,Rosie Casals,R,,USA,,,,200297,,,Natasha Chmyreva,U,,URS,,,,7-6 6-3,3,QF
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,030,200293,2,,Martina Navratilova,L,173,USA,,,,200223,,,Sharon Walsh Pete,R,,USA,,,,6-2 6-3,3,QF
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,031,200259,1,,Chris Evert,R,,USA,,,,200228,,,Olga Morozova,U,,URS,,,,6-0 6-1,3,SF
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,032,200293,2,,Martina Navratilova,L,173,USA,,,,200159,,,Rosie Casals,R,,USA,,,,7-5 6-4,3,SF
+1977-W-WT-USA-05A-1977,Seattle,Carpet,34,W,19770131,033,200259,1,,Chris Evert,R,,USA,,,,200293,2,,Martina Navratilova,L,173,USA,,,,6-2 6-4,3,F
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,001,200463,,,Terry Holladay,U,,USA,,,,200266,,,Sue Barker,R,,GBR,,,,6-3 RET,3,R32
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,002,200273,,Q,Nerida Gregory,U,,AUS,,,,200255,,,Lesley Charles,U,,GBR,,,,6-1 4-6 6-4,3,R32
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,003,200234,,,Pam Whytcross,U,,AUS,,,,200963,,,Caroline Stoll,U,,USA,,,,1-6 6-2 6-1,3,R32
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,004,200150,,,Evonne Cawley,R,,AUS,,,,200288,,,Sue Mappin,R,,GBR,,,,6-1 6-1,3,R32
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,005,200221,,,Dianne Balestrat,U,,AUS,,,,200956,,,Carrie Meyer,R,,USA,,,,7-6 3-6 6-1,3,R32
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,006,200320,,,Renata Tomanova,U,,GER,,,,200330,,,Sue Saliba,U,,AUS,,,,3-6 6-4 6-1,3,R32
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,007,200283,,,Pam Teeguarden,U,,USA,,,,200223,,,Sharon Walsh Pete,R,,USA,,,,6-2 6-4,3,R32
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,008,200209,,,Wendy Turnbull,U,,AUS,,,,200316,,,Heidi Eisterlehner,R,,GER,,,,7-5 6-0,3,R32
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,009,200460,,,Regina Marsikova,U,,CZE,,,,200243,,,Glynis Coles,U,,GBR,,,,4-6 6-1 6-2,3,R32
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,010,200932,,,Jeanne Evert,U,,USA,,,,200329,,Q,Mary Sawyer,U,,AUS,,,,4-6 6-1 6-2,3,R32
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,011,200194,,,Francoise Durr,R,,FRA,,,,200141,,Q,Wendy Gilchrist,L,,AUS,,,,6-4 4-6 6-4,3,R32
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,012,200176,,,Kerry Reid,R,,AUS,,,,200308,,LL,Kym Ruddell,U,,AUS,,,,6-0 7-5,3,R32
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,013,200352,,,Greer Stevens,U,,RSA,,,,200326,,Q,Naoko Sato,U,,JPN,,,,6-4 6-1,3,R32
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,014,200333,,,Betsy Nagelsen,R,,USA,,,,200143,,,Kathleen Harter,U,,USA,,,,6-3 6-0,3,R32
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,015,200184,,,Helen Cawley,U,,AUS,,,,200185,,,Lesley Hunt,U,,AUS,,,,6-2 6-0,3,R32
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,016,200356,,,Betty Stove,U,,NED,,,,200298,,,Laura Du Pont,U,,USA,,,,6-2 6-4,3,R32
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,017,200463,,,Terry Holladay,U,,USA,,,,200273,,Q,Nerida Gregory,U,,AUS,,,,6-2 6-1,3,R16
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,018,200150,,,Evonne Cawley,R,,AUS,,,,200234,,,Pam Whytcross,U,,AUS,,,,6-3 6-2,3,R16
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,019,200221,,,Dianne Balestrat,U,,AUS,,,,200320,,,Renata Tomanova,U,,GER,,,,6-0 6-1,3,R16
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,020,200283,,,Pam Teeguarden,U,,USA,,,,200209,,,Wendy Turnbull,U,,AUS,,,,W/O,3,R16
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,021,200932,,,Jeanne Evert,U,,USA,,,,200460,,,Regina Marsikova,U,,CZE,,,,3-6 6-4 6-1,3,R16
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,022,200176,,,Kerry Reid,R,,AUS,,,,200194,,,Francoise Durr,R,,FRA,,,,6-0 6-1,3,R16
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,023,200352,,,Greer Stevens,U,,RSA,,,,200333,,,Betsy Nagelsen,R,,USA,,,,6-2 6-2,3,R16
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,024,200356,,,Betty Stove,U,,NED,,,,200184,,,Helen Cawley,U,,AUS,,,,6-4 6-3,3,R16
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,025,200150,,,Evonne Cawley,R,,AUS,,,,200463,,,Terry Holladay,U,,USA,,,,6-0 2-6 6-4,3,QF
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,026,200221,,,Dianne Balestrat,U,,AUS,,,,200283,,,Pam Teeguarden,U,,USA,,,,6-3 7-6,3,QF
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,027,200176,,,Kerry Reid,R,,AUS,,,,200932,,,Jeanne Evert,U,,USA,,,,6-0 6-0,3,QF
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,028,200352,,,Greer Stevens,U,,RSA,,,,200356,,,Betty Stove,U,,NED,,,,6-4 6-4,3,QF
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,029,200150,,,Evonne Cawley,R,,AUS,,,,200221,,,Dianne Balestrat,U,,AUS,,,,7-6 6-1,3,SF
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,030,200176,,,Kerry Reid,R,,AUS,,,,200352,,,Greer Stevens,U,,RSA,,,,6-4 6-1,3,SF
+1977-W-WT-AUS-01A-1977,Sydney,Grass,32,W,19771114,031,200150,,,Evonne Cawley,R,,AUS,,,,200176,,,Kerry Reid,R,,AUS,,,,6-1 6-3,3,F
+1977-W-WT-JPN-01A-1977,Japanese Open,Hard,16,W,19770912,001,200293,1,,Martina Navratilova,L,173,USA,,,,200221,,,Dianne Balestrat,U,,AUS,,,,6-4 6-3,3,R16
+1977-W-WT-JPN-01A-1977,Japanese Open,Hard,16,W,19770912,002,200371,,,Mima Jausovec,U,,SLO,,,,200194,,,Francoise Durr,R,,FRA,,,,7-5 6-0,3,R16
+1977-W-WT-JPN-01A-1977,Japanese Open,Hard,16,W,19770912,003,200463,,,Terry Holladay,U,,USA,,,,200356,4,,Betty Stove,U,,NED,,,,7-6 2-6 6-1,3,R16
+1977-W-WT-JPN-01A-1977,Japanese Open,Hard,16,W,19770912,004,200209,,,Wendy Turnbull,U,,AUS,,,,200956,,Q,Carrie Meyer,R,,USA,,,,4-6 6-4 7-6,3,R16
+1977-W-WT-JPN-01A-1977,Japanese Open,Hard,16,W,19770912,005,200930,,,Julie Anthony,U,,USA,,,,200263,,,Janet Wright,U,,USA,,,,6-1 3-6 6-4,3,R16
+1977-W-WT-JPN-01A-1977,Japanese Open,Hard,16,W,19770912,006,200266,3,,Sue Barker,R,,GBR,,,,200326,,,Naoko Sato,U,,JPN,,,,6-3 6-0,3,R16
+1977-W-WT-JPN-01A-1977,Japanese Open,Hard,16,W,19770912,007,200318,,Q,Michelle Tyler,U,,GBR,,,,200298,,,Laura Du Pont,U,,USA,,,,6-0 7-6,3,R16
+1977-W-WT-JPN-01A-1977,Japanese Open,Hard,16,W,19770912,008,200237,2,,Virginia Wade,R,,GBR,,,,200176,,,Kerry Reid,R,,AUS,,,,6-4 6-3,3,R16
+1977-W-WT-JPN-01A-1977,Japanese Open,Hard,16,W,19770912,009,200293,1,,Martina Navratilova,L,173,USA,,,,200371,,,Mima Jausovec,U,,SLO,,,,6-3 6-4,3,QF
+1977-W-WT-JPN-01A-1977,Japanese Open,Hard,16,W,19770912,010,200209,,,Wendy Turnbull,U,,AUS,,,,200463,,,Terry Holladay,U,,USA,,,,6-3 6-4,3,QF
+1977-W-WT-JPN-01A-1977,Japanese Open,Hard,16,W,19770912,011,200266,3,,Sue Barker,R,,GBR,,,,200930,,,Julie Anthony,U,,USA,,,,6-3 7-6,3,QF
+1977-W-WT-JPN-01A-1977,Japanese Open,Hard,16,W,19770912,012,200237,2,,Virginia Wade,R,,GBR,,,,200318,,Q,Michelle Tyler,U,,GBR,,,,6-0 7-6,3,QF
+1977-W-WT-JPN-01A-1977,Japanese Open,Hard,16,W,19770912,013,200293,1,,Martina Navratilova,L,173,USA,,,,200209,,,Wendy Turnbull,U,,AUS,,,,6-2 6-3,3,SF
+1977-W-WT-JPN-01A-1977,Japanese Open,Hard,16,W,19770912,014,200237,2,,Virginia Wade,R,,GBR,,,,200266,3,,Sue Barker,R,,GBR,,,,6-4 2-6 6-2,3,SF
+1977-W-WT-JPN-01A-1977,Japanese Open,Hard,16,W,19770912,015,200237,2,,Virginia Wade,R,,GBR,,,,200293,1,,Martina Navratilova,L,173,USA,,,,7-5 5-7 6-4,3,F
+1977-W-WT-USA-01A-1977,Washington DC,Carpet,2,W,19770103,001,200905,,,Mariana Simionescu,R,,ROU,,,,200896,,,Nancy Ornstein,U,,USA,,,,6-4 6-3,3,R64
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,068,200363,,,Hana Strachonova,U,,SUI,,,,203714,,,Marketa Wallenfels,U,,FRG,,,,7-6 6-7 6-1,3,Q4
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,069,200954,,,Claudia Casabianca,U,,ARG,,,,200919,,,Elvira Weisenberger,U,,ARG,,,,7-6 7-5,3,Q4
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,070,200907,,,Carmen Perea Alcala,U,,ESP,,,,202174,,,Cynthia Ann Thomas,U,,USA,,,,6-2 4-6 6-2,3,Q4
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,071,200953,,,Viviana Segal,U,,ARG,,,,200755,,,Daniela Marzano,U,,ITA,,,,6-4 6-4,3,Q4
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,072,200946,,,Sylvie Rual,U,,FRA,,,,200447,,,Adriana Villagran Reami,U,,ARG,,,,6-4 6-4,3,Q4
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,073,200880,,,Kimiyo Yagahara,U,,JPN,,,,200937,,,Susana Maria Villaverde,U,,ARG,,,,6-1 6-3,3,Q4
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,074,200926,,,Donna Ganz,U,,USA,,,,200256,,,Chris Oneil,R,,AUS,,,,7-6 6-1,3,Q4
+1977-W-SL-FRA-01A-1977,French Open,Clay,64,G,19770523,075,200949,,,Silvana Urroz,U,,CHI,,,,200252,,,Monique Van Haver,U,,BEL,,,,6-2 6-2,3,Q4
+1977-D001,Fed Cup WG ConR: ISR vs LUX,Grass,4,D,19770613,1,212321,,,Hagit Zubary,,,ISR,,,,212617,,,Brigitte Lorang,,,LUX,,,,6-0 6-4,3,RR
+1977-D001,Fed Cup WG ConR: ISR vs LUX,Grass,4,D,19770613,2,200928,,,Paulina Peled,U,,ISR,,,,212326,,,Flore Wagner,,,LUX,,,,6-1 6-1,3,RR
+1977-D002,Fed Cup WG R2: NED vs ISR,Grass,4,D,19770613,1,200929,,,Elly Appel,U,,NED,,,,212321,,,Hagit Zubary,,,ISR,,,,6-1 6-1,3,RR
+1977-D002,Fed Cup WG R2: NED vs ISR,Grass,4,D,19770613,2,200356,,,Betty Stove,U,,NED,,,,200928,,,Paulina Peled,U,,ISR,,,,6-1 6-1,3,RR
+1977-D003,Fed Cup WG SF: GBR vs AUS,Grass,4,D,19770613,1,200221,,,Dianne Balestrat,U,,AUS,,,,200266,,,Sue Barker,R,,GBR,,,,6-3 6-4,3,RR
+1977-D003,Fed Cup WG SF: GBR vs AUS,Grass,4,D,19770613,2,200176,,,Kerry Reid,R,,AUS,,,,200237,,,Virginia Wade,R,,GBR,,,,6-4 6-4,3,RR
+1977-D004,Fed Cup WG SF: USA vs RSA,Grass,4,D,19770613,1,200190,,,Billie Jean King,R,,USA,,,,200352,,,Greer Stevens,U,,RSA,,,,6-2 6-0,3,RR
+1977-D004,Fed Cup WG SF: USA vs RSA,Grass,4,D,19770613,2,200259,,,Chris Evert,R,,USA,,,,200948,,,Brigette Cuypers,U,,RSA,,,,6-1 6-1,3,RR
+1977-D005,Fed Cup WG ConR: MEX vs ITA,Grass,4,D,19770613,1,202132,,,Manuela Zoni,U,,ITA,,,,212327,,,Alina Baraldi,,,MEX,,,,4-6 6-3 6-0,3,RR
+1977-D005,Fed Cup WG ConR: MEX vs ITA,Grass,4,D,19770613,2,200755,,,Daniela Marzano,U,,ITA,,,,201933,,,Alejandra Vallejo,U,,MEX,,,,6-2 6-2,3,RR
+1977-D006,Fed Cup WG PR: SUI vs ITA,Grass,4,D,19770613,1,201934,,,Anne Marie Ruegg,U,,SUI,,,,202132,,,Manuela Zoni,U,,ITA,,,,6-2 6-2,3,RR
+1977-D006,Fed Cup WG PR: SUI vs ITA,Grass,4,D,19770613,2,200755,,,Daniela Marzano,U,,ITA,,,,200409,,,Petra Delhees Jauch,L,,SUI,,,,6-3 6-2,3,RR
+1977-D007,Fed Cup WG R2: CAN vs FRG,Grass,4,D,19770613,1,200759,,,Katja Ebbinghaus,U,,FRG,,,,201777,,,Barbara Brankovska,U,,CAN,,,,6-3 6-0,3,RR
+1977-D007,Fed Cup WG R2: CAN vs FRG,Grass,4,D,19770613,2,200317,,,Helga Masthoff,U,,FRG,,,,200394,,,Marjorie Blackwood,U,,CAN,,,,3-6 6-2 6-2,3,RR
+1977-D008,Fed Cup WG QF: FRG vs AUS,Grass,4,D,19770613,1,200759,,,Katja Ebbinghaus,U,,FRG,,,,200221,,,Dianne Balestrat,U,,AUS,,,,4-6 6-0 6-4,3,RR
+1977-D008,Fed Cup WG QF: FRG vs AUS,Grass,4,D,19770613,2,200176,,,Kerry Reid,R,,AUS,,,,200317,,,Helga Masthoff,U,,FRG,,,,6-3 6-4,3,RR
+1977-D009,Fed Cup WG ConR: JPN vs KOR,Grass,4,D,19770613,1,200880,,,Kimiyo Yagahara,U,,JPN,,,,200241,,,Duk Hee Lee,U,,KOR,,,,6-2 7-5,3,RR
+1977-D009,Fed Cup WG ConR: JPN vs KOR,Grass,4,D,19770613,2,212460,,,Nam Sook Kim,,,KOR,,,,200326,,,Naoko Sato,U,,JPN,,,,6-4 6-4,3,RR
+1977-D010,Fed Cup WG R1: IRL vs CAN,Grass,4,D,19770613,1,201777,,,Barbara Brankovska,U,,CAN,,,,212367,,,Geraldine Barniville,,,IRL,,,,6-0 6-2,3,RR
+1977-D010,Fed Cup WG R1: IRL vs CAN,Grass,4,D,19770613,2,200394,,,Marjorie Blackwood,U,,CAN,,,,212368,,,Helen Lennon,,,IRL,,,,6-1 6-0,3,RR
+1977-D011,Fed Cup WG ConR: JPN vs POR,Grass,4,D,19770613,1,200880,,,Kimiyo Yagahara,U,,JPN,,,,212621,,,Graca Cardoso,,,POR,,,,6-0 6-2,3,RR
+1977-D011,Fed Cup WG ConR: JPN vs POR,Grass,4,D,19770613,2,200326,,,Naoko Sato,U,,JPN,,,,212622,,,Conceicao Rio,,,POR,,,,6-3 6-0,3,RR
+1977-D012,Fed Cup WG R1: RSA vs JPN,Grass,4,D,19770613,1,200352,,,Greer Stevens,U,,RSA,,,,200880,,,Kimiyo Yagahara,U,,JPN,,,,6-1 6-0,3,RR
+1977-D012,Fed Cup WG R1: RSA vs JPN,Grass,4,D,19770613,2,200326,,,Naoko Sato,U,,JPN,,,,200948,,,Brigette Cuypers,U,,RSA,,,,6-4 8-10 6-4,3,RR
+1977-D013,Fed Cup WG F: USA vs AUS,Grass,4,D,19770613,1,200190,,,Billie Jean King,R,,USA,,,,200221,,,Dianne Balestrat,U,,AUS,,,,6-1 2-6 6-2,3,RR
+1977-D013,Fed Cup WG F: USA vs AUS,Grass,4,D,19770613,2,200259,,,Chris Evert,R,,USA,,,,200176,,,Kerry Reid,R,,AUS,,,,7-5 6-3,3,RR
+1977-D014,Fed Cup WG ConR: NOR vs INA,Grass,4,D,19770613,1,203753,,,Elfia Nizarwan,U,,INA,,,,212323,,,Bente Kjolstad,,,NOR,,,,6-4 6-2,3,RR
+1977-D014,Fed Cup WG ConR: NOR vs INA,Grass,4,D,19770613,2,212324,,,Ellen Grindvold,,,NOR,,,,203734,,,Yolanda Sumarno,U,,INA,,,,6-4 6-0,3,RR
+1977-D015,Fed Cup WG R2: ARG vs SWE,Grass,4,D,19770613,1,200285,,,Mimi Wikstedt,U,,SWE,,,,200919,,,Elvira Weisenberger,U,,ARG,,,,6-4 6-4,3,RR
+1977-D015,Fed Cup WG R2: ARG vs SWE,Grass,4,D,19770613,2,200813,,,Ingrid Bentzer,R,,SWE,,,,200803,,,Raquel Giscafre,U,,ARG,,,,6-0 6-4,3,RR
+1977-D017,Fed Cup WG ConR: KOR vs IRL,Grass,4,D,19770613,1,212636,,,Kyeong Mi Choi,,,KOR,,,,212504,,,Louise Tuff,,,IRL,,,,6-1 6-2,3,RR
+1977-D017,Fed Cup WG ConR: KOR vs IRL,Grass,4,D,19770613,2,200241,,,Duk Hee Lee,U,,KOR,,,,212368,,,Helen Lennon,,,IRL,,,,6-1 6-2,3,RR
+1977-D018,Fed Cup WG ConR: URU vs DEN,Grass,4,D,19770613,1,200247,,,Dorte Ekner,U,,DEN,,,,212330,,,Carla Guarino De Galeazzi,,,URU,,,,6-3 6-1,3,RR
+1977-D018,Fed Cup WG ConR: URU vs DEN,Grass,4,D,19770613,2,200787,,,Fiorella Bonicelli,U,,URU,,,,200958,,,Helle Viragh,U,,DEN,,,,6-1 4-6 6-0,3,RR
+1977-D019,Fed Cup WG R2: BRA vs AUS,Grass,4,D,19770613,1,200221,,,Dianne Balestrat,U,,AUS,,,,200962,,,Patricia Medrado,U,,BRA,,,,10-8 6-4,3,RR
+1977-D019,Fed Cup WG R2: BRA vs AUS,Grass,4,D,19770613,2,200176,,,Kerry Reid,R,,AUS,,,,200848,,,Maria Bueno,R,,BRA,,,,6-1 6-2,3,RR
+1977-D020,Fed Cup WG ConR: ISR vs JPN,Grass,4,D,19770613,1,200880,,,Kimiyo Yagahara,U,,JPN,,,,212321,,,Hagit Zubary,,,ISR,,,,6-2 2-6 6-2,3,RR
+1977-D020,Fed Cup WG ConR: ISR vs JPN,Grass,4,D,19770613,2,200326,,,Naoko Sato,U,,JPN,,,,200928,,,Paulina Peled,U,,ISR,,,,6-1 9-7,3,RR
+1977-D021,Fed Cup WG R1: ESP vs FRG,Grass,4,D,19770613,1,200759,,,Katja Ebbinghaus,U,,FRG,,,,200923,,,Maria Victoria Baldovinos Cibeira,U,,ESP,,,,6-3 6-0,3,RR
+1977-D021,Fed Cup WG R1: ESP vs FRG,Grass,4,D,19770613,2,200317,,,Helga Masthoff,U,,FRG,,,,200907,,,Carmen Perea Alcala,U,,ESP,,,,6-1 6-8 6-4,3,RR
+1977-D022,Fed Cup WG QF: RSA vs NED,Grass,4,D,19770613,1,200352,,,Greer Stevens,U,,RSA,,,,200929,,,Elly Appel,U,,NED,,,,6-0 6-1,3,RR
+1977-D022,Fed Cup WG QF: RSA vs NED,Grass,4,D,19770613,2,200356,,,Betty Stove,U,,NED,,,,200948,,,Brigette Cuypers,U,,RSA,,,,6-2 6-1,3,RR
+1977-D023,Fed Cup WG R2: USA vs SUI,Grass,4,D,19770613,1,200259,,,Chris Evert,R,,USA,,,,201934,,,Anne Marie Ruegg,U,,SUI,,,,6-3 6-0,3,RR
+1977-D023,Fed Cup WG R2: USA vs SUI,Grass,4,D,19770613,2,200190,,,Billie Jean King,R,,USA,,,,200359,,,Christiane Jolissaint,U,,SUI,,,,6-0 6-3,3,RR
+1977-D024,Fed Cup WG R1: NED vs URU,Grass,4,D,19770613,1,200929,,,Elly Appel,U,,NED,,,,212330,,,Carla Guarino De Galeazzi,,,URU,,,,6-0 6-1,3,RR
+1977-D024,Fed Cup WG R1: NED vs URU,Grass,4,D,19770613,2,200356,,,Betty Stove,U,,NED,,,,200787,,,Fiorella Bonicelli,U,,URU,,,,6-3 6-2,3,RR
+1977-D025,Fed Cup WG R1: SUI vs NOR,Grass,4,D,19770613,1,201934,,,Anne Marie Ruegg,U,,SUI,,,,212426,,,Kirsten Robsahm,,,NOR,,,,6-4 8-6,3,RR
+1977-D025,Fed Cup WG R1: SUI vs NOR,Grass,4,D,19770613,2,200409,,,Petra Delhees Jauch,L,,SUI,,,,212324,,,Ellen Grindvold,,,NOR,,,,6-4 6-2,3,RR
+1977-D026,Fed Cup WG ConR: NOR vs URU,Grass,4,D,19770613,1,212426,,,Kirsten Robsahm,,,NOR,,,,212330,,,Carla Guarino De Galeazzi,,,URU,,,,6-0 6-0,3,RR
+1977-D026,Fed Cup WG ConR: NOR vs URU,Grass,4,D,19770613,2,200787,,,Fiorella Bonicelli,U,,URU,,,,212324,,,Ellen Grindvold,,,NOR,,,,6-1 6-3,3,RR
+1977-D027,Fed Cup WG R2: RSA vs NZL,Grass,4,D,19770613,1,200352,,,Greer Stevens,U,,RSA,,,,200760,,,Pauline Elliott,U,,NZL,,,,6-2 6-1,3,RR
+1977-D027,Fed Cup WG R2: RSA vs NZL,Grass,4,D,19770613,2,200948,,,Brigette Cuypers,U,,RSA,,,,200335,,,Judy Chaloner,U,,NZL,,,,6-2 6-2,3,RR
+1977-D028,Fed Cup WG ConR: SUI vs NZL,Grass,4,D,19770613,1,201934,,,Anne Marie Ruegg,U,,SUI,,,,200342,,,Chris Newton,U,,NZL,,,,6-3 6-3,3,RR
+1977-D028,Fed Cup WG ConR: SUI vs NZL,Grass,4,D,19770613,2,200335,,,Judy Chaloner,U,,NZL,,,,201935,,,Monica Simmen,U,,SUI,,,,7-9 7-5 6-3,3,RR
+1977-D029,Fed Cup WG ConR: CAN vs BRA,Grass,4,D,19770613,1,201907,,,Lisette Senn,U,,CAN,,,,203723,,,Vera Lucia Giugni,U,,BRA,,,,10-8 6-3,3,RR
+1977-D029,Fed Cup WG ConR: CAN vs BRA,Grass,4,D,19770613,2,200394,,,Marjorie Blackwood,U,,CAN,,,,200962,,,Patricia Medrado,U,,BRA,,,,6-3 4-6 6-1,3,RR
+1977-D030,Fed Cup WG ConR: ARG vs CHI,Grass,4,D,19770613,1,212650,,,Leyla Musalem,,,CHI,,,,200953,,,Viviana Segal,U,,ARG,,,,6-4 7-5,3,RR
+1977-D030,Fed Cup WG ConR: ARG vs CHI,Grass,4,D,19770613,2,200803,,,Raquel Giscafre,U,,ARG,,,,200949,,,Silvana Urroz,U,,CHI,,,,6-3 4-6 6-3,3,RR
+1977-D031,Fed Cup WG ConR: CAN vs JPN,Grass,4,D,19770613,1,200880,,,Kimiyo Yagahara,U,,JPN,,,,201907,,,Lisette Senn,U,,CAN,,,,6-4 6-4,3,RR
+1977-D031,Fed Cup WG ConR: CAN vs JPN,Grass,4,D,19770613,2,200394,,,Marjorie Blackwood,U,,CAN,,,,200326,,,Naoko Sato,U,,JPN,,,,6-2 7-5,3,RR
+1977-D032,Fed Cup WG ConR: URU vs TPE,Grass,4,D,19770613,1,212330,,,Carla Guarino De Galeazzi,,,URU,,,,212653,,,Hsiu Lee,,,TPE,,,,6-0 6-2,3,RR
+1977-D032,Fed Cup WG ConR: URU vs TPE,Grass,4,D,19770613,2,200787,,,Fiorella Bonicelli,U,,URU,,,,212654,,,Liu Shang Ku,,,TPE,,,,6-0 6-0,3,RR
+1977-D033,Fed Cup WG ConR: DEN vs BEL,Grass,4,D,19770613,1,200247,,,Dorte Ekner,U,,DEN,,,,200252,,,Monique Van Haver,U,,BEL,,,,6-4 8-6,3,RR
+1977-D033,Fed Cup WG ConR: DEN vs BEL,Grass,4,D,19770613,2,200958,,,Helle Viragh,U,,DEN,,,,200254,,,Michele Gurdal,U,,BEL,,,,6-4 6-3,3,RR
+1977-D034,Fed Cup WG R1: MEX vs KOR,Grass,4,D,19770613,1,212636,,,Kyeong Mi Choi,,,KOR,,,,212327,,,Alina Baraldi,,,MEX,,,,7-5 6-1,3,RR
+1977-D034,Fed Cup WG R1: MEX vs KOR,Grass,4,D,19770613,2,200241,,,Duk Hee Lee,U,,KOR,,,,201933,,,Alejandra Vallejo,U,,MEX,,,,6-3 6-3,3,RR
+1977-D035,Fed Cup WG ConR: ESP vs BEL,Grass,4,D,19770613,1,200923,,,Maria Victoria Baldovinos Cibeira,U,,ESP,,,,200252,,,Monique Van Haver,U,,BEL,,,,6-3 6-4,3,RR
+1977-D035,Fed Cup WG ConR: ESP vs BEL,Grass,4,D,19770613,2,200254,,,Michele Gurdal,U,,BEL,,,,200907,,,Carmen Perea Alcala,U,,ESP,,,,3-0 RET,5,RR
+1977-D036,Fed Cup WG ConR: SUI vs CAN,Grass,4,D,19770613,1,200409,,,Petra Delhees Jauch,L,,SUI,,,,201907,,,Lisette Senn,U,,CAN,,,,6-4 4-6 6-4,3,RR
+1977-D036,Fed Cup WG ConR: SUI vs CAN,Grass,4,D,19770613,2,200394,,,Marjorie Blackwood,U,,CAN,,,,201935,,,Monica Simmen,U,,SUI,,,,2-6 6-0 8-6,3,RR
+1977-D037,Fed Cup WG R1: USA vs AUT,Grass,4,D,19770613,1,200259,,,Chris Evert,R,,USA,,,,212371,,,Sabine Bernegger,,,AUT,,,,6-0 6-0,3,RR
+1977-D037,Fed Cup WG R1: USA vs AUT,Grass,4,D,19770613,2,200190,,,Billie Jean King,R,,USA,,,,203773,,,Helena Wimmer,U,,AUT,,,,6-2 6-2,3,RR
+1977-D038,Fed Cup WG ConR: ISR vs FIN,Grass,4,D,19770613,1,212321,,,Hagit Zubary,,,ISR,,,,212381,,,Laila Pirila,,,FIN,,,,6-4 4-6 7-5,3,RR
+1977-D038,Fed Cup WG ConR: ISR vs FIN,Grass,4,D,19770613,2,200928,,,Paulina Peled,U,,ISR,,,,212380,,,Elina Durchman,,,FIN,,,,6-0 6-2,3,RR
+1977-D039,Fed Cup WG ConR: FIN vs GRE,Grass,4,D,19770613,1,212381,,,Laila Pirila,,,FIN,,,,212490,,,Denise Panagopoulou,,,GRE,,,,3-6 6-3 6-1,3,RR
+1977-D039,Fed Cup WG ConR: FIN vs GRE,Grass,4,D,19770613,2,212380,,,Elina Durchman,,,FIN,,,,200847,,,Dionissia Asteri,U,,GRE,,,,6-0 6-2,3,RR
+1977-D040,Fed Cup WG R1: FIN vs SWE,Grass,4,D,19770613,1,200271,,,Margareta Forsgardh,U,,SWE,,,,212381,,,Laila Pirila,,,FIN,,,,3-6 6-0 6-1,3,RR
+1977-D040,Fed Cup WG R1: FIN vs SWE,Grass,4,D,19770613,2,200813,,,Ingrid Bentzer,R,,SWE,,,,212380,,,Elina Durchman,,,FIN,,,,6-3 6-2,3,RR
+1977-D041,Fed Cup WG R2: GBR vs KOR,Grass,4,D,19770613,1,200266,,,Sue Barker,R,,GBR,,,,212636,,,Kyeong Mi Choi,,,KOR,,,,6-1 6-3,3,RR
+1977-D041,Fed Cup WG R2: GBR vs KOR,Grass,4,D,19770613,2,200237,,,Virginia Wade,R,,GBR,,,,200241,,,Duk Hee Lee,U,,KOR,,,,6-1 6-0,3,RR
+1977-D042,Fed Cup WG R1: FRA vs LUX,Grass,4,D,19770613,1,200312,,,Frederique Thibault,U,,FRA,,,,212666,,,Danielle Meunier,,,LUX,,,,6-0 6-1,3,RR
+1977-D042,Fed Cup WG R1: FRA vs LUX,Grass,4,D,19770613,2,200194,,,Francoise Durr,R,,FRA,,,,212326,,,Flore Wagner,,,LUX,,,,6-0 6-1,3,RR
+1977-D043,Fed Cup WG QF: USA vs FRA,Grass,4,D,19770613,1,200190,,,Billie Jean King,R,,USA,,,,200312,,,Frederique Thibault,U,,FRA,,,,6-0 6-0,3,RR
+1977-D043,Fed Cup WG QF: USA vs FRA,Grass,4,D,19770613,2,200259,,,Chris Evert,R,,USA,,,,200194,,,Francoise Durr,R,,FRA,,,,6-1 6-3,3,RR
+1977-D044,Fed Cup WG R1: BEL vs NZL,Grass,4,D,19770613,1,200760,,,Pauline Elliott,U,,NZL,,,,200252,,,Monique Van Haver,U,,BEL,,,,7-5 6-4,3,RR
+1977-D044,Fed Cup WG R1: BEL vs NZL,Grass,4,D,19770613,2,200254,,,Michele Gurdal,U,,BEL,,,,200335,,,Judy Chaloner,U,,NZL,,,,4-6 6-2 8-6,3,RR
+1977-D045,Fed Cup WG R1: TPE vs BRA,Grass,4,D,19770613,1,200848,,,Maria Bueno,R,,BRA,,,,212654,,,Liu Shang Ku,,,TPE,,,,6-0 6-0,3,RR
+1977-D045,Fed Cup WG R1: TPE vs BRA,Grass,4,D,19770613,2,200962,,,Patricia Medrado,U,,BRA,,,,212653,,,Hsiu Lee,,,TPE,,,,6-1 6-0,3,RR
+1977-D046,Fed Cup WG R2: FRA vs GRE,Grass,4,D,19770613,1,200314,,,Brigitte Simon Glinel,U,,FRA,,,,212490,,,Denise Panagopoulou,,,GRE,,,,6-0 6-0,3,RR
+1977-D046,Fed Cup WG R2: FRA vs GRE,Grass,4,D,19770613,2,200194,,,Francoise Durr,R,,FRA,,,,200847,,,Dionissia Asteri,U,,GRE,,,,6-1 6-1,3,RR
+1977-D047,Fed Cup WG R1: GRE vs POR,Grass,4,D,19770613,1,212490,,,Denise Panagopoulou,,,GRE,,,,212621,,,Graca Cardoso,,,POR,,,,6-3 3-6 6-1,3,RR
+1977-D047,Fed Cup WG R1: GRE vs POR,Grass,4,D,19770613,2,200847,,,Dionissia Asteri,U,,GRE,,,,212622,,,Conceicao Rio,,,POR,,,,6-1 6-3,3,RR
+1977-D048,Fed Cup WG R1: GBR vs DEN,Grass,4,D,19770613,1,200266,,,Sue Barker,R,,GBR,,,,200247,,,Dorte Ekner,U,,DEN,,,,6-3 6-1,3,RR
+1977-D048,Fed Cup WG R1: GBR vs DEN,Grass,4,D,19770613,2,200237,,,Virginia Wade,R,,GBR,,,,200958,,,Helle Viragh,U,,DEN,,,,6-4 6-2,3,RR
+1977-D049,Fed Cup WG R1: INA vs AUS,Grass,4,D,19770613,1,200221,,,Dianne Balestrat,U,,AUS,,,,212671,,,Sriningdiah Sutarniati,,,INA,,,,6-0 6-0,3,RR
+1977-D049,Fed Cup WG R1: INA vs AUS,Grass,4,D,19770613,2,200176,,,Kerry Reid,R,,AUS,,,,203734,,,Yolanda Sumarno,U,,INA,,,,6-0 6-1,3,RR
+1977-D050,Fed Cup WG QF: GBR vs SWE,Grass,4,D,19770613,1,200266,,,Sue Barker,R,,GBR,,,,200285,,,Mimi Wikstedt,U,,SWE,,,,6-2 6-0,3,RR
+1977-D050,Fed Cup WG QF: GBR vs SWE,Grass,4,D,19770613,2,200237,,,Virginia Wade,R,,GBR,,,,200813,,,Ingrid Bentzer,R,,SWE,,,,7-5 6-2,3,RR
+1977-D051,Fed Cup WG ConR: JPN vs DEN,Grass,4,D,19770613,1,200247,,,Dorte Ekner,U,,DEN,,,,200880,,,Kimiyo Yagahara,U,,JPN,,,,6-3 4-6 9-7,3,RR
+1977-D051,Fed Cup WG ConR: JPN vs DEN,Grass,4,D,19770613,2,200958,,,Helle Viragh,U,,DEN,,,,200326,,,Naoko Sato,U,,JPN,,,,6-2 6-3,3,RR
+1977-D052,Fed Cup WG R1: ARG vs CHI,Grass,4,D,19770613,1,212650,,,Leyla Musalem,,,CHI,,,,200953,,,Viviana Segal,U,,ARG,,,,0-6 6-4 6-3,3,RR
+1977-D052,Fed Cup WG R1: ARG vs CHI,Grass,4,D,19770613,2,200803,,,Raquel Giscafre,U,,ARG,,,,200949,,,Silvana Urroz,U,,CHI,,,,6-4 4-6 6-4,3,RR
+1977-D053,Fed Cup WG ConR: ITA vs DEN,Grass,4,D,19770613,1,200247,,,Dorte Ekner,U,,DEN,,,,202132,,,Manuela Zoni,U,,ITA,,,,6-2 4-6 6-4,3,RR
+1977-D053,Fed Cup WG ConR: ITA vs DEN,Grass,4,D,19770613,2,200958,,,Helle Viragh,U,,DEN,,,,200755,,,Daniela Marzano,U,,ITA,,,,6-3 6-4,3,RR
+1977-D054,Fed Cup WG ConR: ARG vs BEL,Grass,4,D,19770613,1,200919,,,Elvira Weisenberger,U,,ARG,,,,212673,,,Marianne De Crop,,,BEL,,,,6-4 6-2,3,RR
+1977-D054,Fed Cup WG ConR: ARG vs BEL,Grass,4,D,19770613,2,200254,,,Michele Gurdal,U,,BEL,,,,200953,,,Viviana Segal,U,,ARG,,,,6-0 6-2,3,RR
