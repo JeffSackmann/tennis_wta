@@ -13,3 +13,9 @@ Rankings are through the end of 2014.
 Update, 21/3/15
 
 My WTA match result database is now here, as well. These files (e.g. 'wta_matches_2014.csv') contain all tour-level singles matches for that season. To make them easier to use, I've included a fair bit of redundancy with the biographical and ranking files: each row contains several columns of biographical information, along with ranking and ranking points, for both players. Ranking data, as well as age, are as of tourney_date, which is almost always the Monday at or near the beginning of the event.
+
+---
+
+Update, 24/3/15
+
+I've added one additional match results file per year, which comprises all tour-level qualifying matches and all main-draw ITF matches.
