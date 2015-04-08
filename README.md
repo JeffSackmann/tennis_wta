@@ -19,3 +19,10 @@ My WTA match result database is now here, as well. These files (e.g. 'wta_matche
 Update, 24/3/15
 
 I've added one additional match results file per year, which comprises all tour-level qualifying matches and all main-draw ITF matches.
+
+
+---
+
+Update, 8/4/15
+
+2015 rankings and results are now available through last week's play. The results files are named according to the same conventions as the others. The rankings file for the current year is wta_rankings_current.csv.
