@@ -11,3 +11,5 @@ Match result files (e.g. 'wta_matches_2014.csv') contain all tour-level singles 
 ITF and tour-level qualifying match results are stored in a separate yearly file (e.g. 'wta_matches_qual_itf_2014.csv').
 
 These files are in the same format as my ATP player, rankings, and results databases (https://github.com/JeffSackmann/tennis_atp). There's a small amount of sample code available there (https://github.com/JeffSackmann/tennis_atp/tree/master/examples).
+
+(update, 6 sept) Some match stats are now included! They are mostly complete for tour-level matches back to 2006; there are some for tour-level matches before that, and there are stats for many qualifying matches from the last few years. These might not be kept quite as current as the match results for the remainder of 2015.
