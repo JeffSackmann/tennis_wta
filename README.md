@@ -13,3 +13,9 @@ ITF and tour-level qualifying match results are stored in a separate yearly file
 These files are in the same format as my ATP player, rankings, and results databases (https://github.com/JeffSackmann/tennis_atp). There's a small amount of sample code available there (https://github.com/JeffSackmann/tennis_atp/tree/master/examples).
 
 (update, 6 sept) Some match stats are now included! They are mostly complete for tour-level matches back to 2006; there are some for tour-level matches before that, and there are stats for many qualifying matches from the last few years. These might not be kept quite as current as the match results for the remainder of 2015.
+
+# License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">Tennis data and algorithms</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.tennisabstract.com/" property="cc:attributionName" rel="cc:attributionURL">Jeff Sackmann / Tennis Abstract</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/JeffSackmann" rel="dct:source">https://github.com/JeffSackmann</a>.
+
+In other words: Attribution is required. Non-commercial use only.
