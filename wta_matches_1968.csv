@@ -1,379 +1,379 @@
-tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,winner_rank,winner_rank_points,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,loser_rank,loser_rank_points,score,best_of,round
-1968-W-OL-MEX-01A-1968,Olympics-Guadalajara Demo,Clay,13,O,19681014,001,200781,,,Edda Buding,U,,FRG,,,,200795,,,Patricia Montano,U,,MEX,,,,7-5 2-6 6-4,3,R16
-1968-W-OL-MEX-01A-1968,Olympics-Guadalajara Demo,Clay,13,O,19681014,002,202512,,,Lucia Gongora,U,,MEX,,,,200862,,,Valerie Ziegenfuss,U,,USA,,,,6-1 6-2,3,R16
-1968-W-OL-MEX-01A-1968,Olympics-Guadalajara Demo,Clay,13,O,19681014,003,200869,,,Maria Eugenia Guzman,U,,ECU,,,,200863,,,Zaiga Yansone,U,,URS,,,,6-2 6-2,3,R16
-1968-W-OL-MEX-01A-1968,Olympics-Guadalajara Demo,Clay,13,O,19681014,004,200274,,,Julie Heldman,U,,USA,,,,200834,,,Suzana Gesteira,U,,BRA,,,,6-1 6-2,3,R16
-1968-W-OL-MEX-01A-1968,Olympics-Guadalajara Demo,Clay,13,O,19681014,005,200791,,,Rosy Darmon,U,,FRA,,,,202513,,,Ana Maria Ycaza,U,,ECU,,,,6-1 6-1,3,R16
-1968-W-OL-MEX-01A-1968,Olympics-Guadalajara Demo,Clay,13,O,19681014,006,200870,1,,Peaches Bartkowicz,U,,USA,,,,200781,,,Edda Buding,U,,FRG,,,,4-6 6-4 7-5,3,QF
-1968-W-OL-MEX-01A-1968,Olympics-Guadalajara Demo,Clay,13,O,19681014,007,202512,,,Lucia Gongora,U,,MEX,,,,200869,,,Maria Eugenia Guzman,U,,ECU,,,,6-2 6-2,3,QF
-1968-W-OL-MEX-01A-1968,Olympics-Guadalajara Demo,Clay,13,O,19681014,008,200274,,,Julie Heldman,U,,USA,,,,200791,,,Rosy Darmon,U,,FRA,,,,6-3 6-3,3,QF
-1968-W-OL-MEX-01A-1968,Olympics-Guadalajara Demo,Clay,13,O,19681014,009,200317,2,,Helga Masthoff,U,,FRG,,,,202514,,,Cecilia Rosado,U,,MEX,,,,6-1 6-1,3,QF
-1968-W-OL-MEX-01A-1968,Olympics-Guadalajara Demo,Clay,13,O,19681014,010,200870,1,,Peaches Bartkowicz,U,,USA,,,,202512,,,Lucia Gongora,U,,MEX,,,,6-2 6-2,3,SF
-1968-W-OL-MEX-01A-1968,Olympics-Guadalajara Demo,Clay,13,O,19681014,011,200317,2,,Helga Masthoff,U,,FRG,,,,200274,,,Julie Heldman,U,,USA,,,,6-3 1-6 6-3,3,SF
-1968-W-OL-MEX-01A-1968,Olympics-Guadalajara Demo,Clay,13,O,19681014,012,200317,2,,Helga Masthoff,U,,FRG,,,,200870,1,,Peaches Bartkowicz,U,,USA,,,,6-4 6-3,3,F
-1968-W-OL-MEX-02A-1968,Olympics-Mexico City Exhib,Clay,11,O,19681024,001,200791,,,Rosy Darmon,U,,FRA,,,,200862,,,Valerie Ziegenfuss,U,,USA,,,,6-3 6-2,3,R16
-1968-W-OL-MEX-02A-1968,Olympics-Mexico City Exhib,Clay,11,O,19681024,002,200834,,,Suzana Gesteira,U,,BRA,,,,200795,,,Patricia Montano,U,,MEX,,,,3-6 6-1 6-4,3,R16
-1968-W-OL-MEX-02A-1968,Olympics-Mexico City Exhib,Clay,11,O,19681024,003,200274,,,Julie Heldman,U,,USA,,,,202514,,,Cecilia Rosado,U,,MEX,,,,6-1 6-0,3,R16
-1968-W-OL-MEX-02A-1968,Olympics-Mexico City Exhib,Clay,11,O,19681024,004,200870,1,,Peaches Bartkowicz,U,,USA,,,,200863,,,Zaiga Yansone,U,,URS,,,,6-3 7-5,3,QF
-1968-W-OL-MEX-02A-1968,Olympics-Mexico City Exhib,Clay,11,O,19681024,005,200834,,,Suzana Gesteira,U,,BRA,,,,200791,,,Rosy Darmon,U,,FRA,,,,7-5 5-7 6-4,3,QF
-1968-W-OL-MEX-02A-1968,Olympics-Mexico City Exhib,Clay,11,O,19681024,006,200274,,,Julie Heldman,U,,USA,,,,202512,,,Lucia Gongora,U,,MEX,,,,6-2 6-4,3,QF
-1968-W-OL-MEX-02A-1968,Olympics-Mexico City Exhib,Clay,11,O,19681024,007,200869,,,Maria Eugenia Guzman,U,,ECU,,,,200317,2,,Helga Masthoff,U,,FRG,,,,W/O,3,QF
-1968-W-OL-MEX-02A-1968,Olympics-Mexico City Exhib,Clay,11,O,19681024,008,200870,1,,Peaches Bartkowicz,U,,USA,,,,200834,,,Suzana Gesteira,U,,BRA,,,,6-4 6-2,3,SF
-1968-W-OL-MEX-02A-1968,Olympics-Mexico City Exhib,Clay,11,O,19681024,009,200274,,,Julie Heldman,U,,USA,,,,200869,,,Maria Eugenia Guzman,U,,ECU,,,,6-1 6-0,3,SF
-1968-W-OL-MEX-02A-1968,Olympics-Mexico City Exhib,Clay,11,O,19681024,010,200870,1,,Peaches Bartkowicz,U,,USA,,,,200274,,,Julie Heldman,U,,USA,,,,6-3 6-2,3,F
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,001,200130,,,Dorothy Whitely,U,,AUS,,,,200131,,,Judith Gohn,U,,AUS,,,,6-2 6-4,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,002,200133,,,Eva De Jong,U,,NED,,,,200132,,,Kay Williams,U,,AUS,,,,6-3 6-2,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,003,200134,,,Kerry Ballard,U,,AUS,,,,200135,13,,Lorraine Robinson,U,,AUS,,,,W/O,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,004,200137,,,L Griffiths,U,,AUS,,,,200136,,,Valerie Caulley,U,,AUS,,,,6-3 6-4,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,005,200139,,,Lita Sugiarto,U,,INA,,,,200138,,,Sandra Hole,U,,AUS,,,,6-0 6-1,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,006,200140,,,Beryl Jenkins,U,,AUS,,,,200141,,,Wendy Gilchrist,L,,AUS,,,,6-2 4-6 10-8,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,007,200143,5,,Kathleen Harter,U,,USA,,,,200142,,,Loris Butterfield,U,,AUS,,,,6-1 6-3,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,008,200144,7,,Margaret Court,R,,AUS,,,,200145,,,Kerry Harris,U,,AUS,,,,6-3 6-0,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,009,200146,,,Cynthia Doerner,U,,AUS,,,,200147,,,Geri Shepard,U,,USA,,,,5-7 8-6 6-4,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,010,200148,,,Marilyn Tesch,U,,AUS,,,,200149,,,Helen Sheedy,U,,AUS,,,,6-3 6-1,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,011,200150,,,Evonne Cawley,R,,AUS,,,,200151,11,,Ada Bakker,U,,NED,,,,6-4 6-0,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,012,200152,11,,Gail Benedetti,R,,FRA,,,,200153,,,S Washbourne,U,,AUS,,,,6-1 6-1,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,013,200155,,,Lexie Kenny,U,,AUS,,,,200154,,,S Stephen,U,,AUS,,,,6-4 6-4,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,014,200157,,,Lynne Nette,U,,AUS,,,,200156,,,Lynette Mansfield,U,,AUS,,,,6-2 6-1,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,015,200159,3,,Rosie Casals,R,,USA,,,,200158,,,Carol Zeeman,U,,AUS,,,,6-2 6-1,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,016,200160,3,,Judy Dalton,U,,AUS,,,,200161,,,Janine Whyte,U,,AUS,,,,6-0 6-3,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,017,200162,,,Judith Salome,U,,NED,,,,200163,,,Helen Oconnor,U,,AUS,,,,6-2 8-6,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,018,200165,,,Lany Kaligis,U,,INA,,,,200164,,,Joan Johnson,U,,USA,,,,6-0 6-1,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,019,200166,,,Patricia Edwards,U,,AUS,,,,200167,,,Heather Mckechnie,U,,AUS,,,,3-6 7-5 6-1,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,020,200168,9,,Karen Krantzcke,R,,AUS,,,,200169,,,Ann Jenkins,U,,AUS,,,,6-4 6-0,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,021,200170,,,Beverley Rae,U,,AUS,,,,200171,,,Janet Young,U,,AUS,,,,6-3 2-6 6-3,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,022,200173,,,Kaye Dening,U,,AUS,,,,200172,,,Caroline Cooper,U,,AUS,,,,W/O,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,023,200175,7,,Mary Ann Beattie,U,,USA,,,,200174,,,Kerry Wilkinson,U,,AUS,,,,6-4 6-1,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,024,200176,5,,Kerry Reid,R,,AUS,,,,200177,,,Alison Mckenzie,U,,AUS,,,,6-4 8-6,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,025,200179,,,Barbara Hawcroft,U,,AUS,,,,200178,,,Sue Hastings,U,,AUS,,,,6-4 6-2,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,026,200180,,,Astrid Suurbeck,U,,NED,,,,200181,,,Margaret Starr,U,,AUS,,,,8-6 3-6 6-1,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,027,200183,9,,Elena Subirats,U,,MEX,,,,200182,,,E Staples,U,,AUS,,,,6-3 6-4,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,028,200185,,,Lesley Hunt,U,,AUS,,,,200184,13,,Helen Cawley,U,,AUS,,,,6-3 3-6 7-5,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,029,200186,,,Yveline Boy,U,,FRA,,,,200187,,,Janine Murdoch,U,,AUS,,,,6-2 6-0,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,030,200188,,,Helen Amos,U,,AUS,,,,200189,,,D Brennan,U,,AUS,,,,W/O,3,R64
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,031,200129,1,,Lesley Bowrey,R,,AUS,,,,200130,,,Dorothy Whitely,U,,AUS,,,,6-3 6-1,3,R32
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,032,200133,,,Eva De Jong,U,,NED,,,,200134,,,Kerry Ballard,U,,AUS,,,,6-2 6-2,3,R32
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,033,200139,,,Lita Sugiarto,U,,INA,,,,200137,,,L Griffiths,U,,AUS,,,,7-5 3-6 6-4,3,R32
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,034,200143,5,,Kathleen Harter,U,,USA,,,,200140,,,Beryl Jenkins,U,,AUS,,,,6-2 5-7 6-4,3,R32
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,035,200144,7,,Margaret Court,R,,AUS,,,,200146,,,Cynthia Doerner,U,,AUS,,,,6-3 6-2,3,R32
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,036,200150,,,Evonne Cawley,R,,AUS,,,,200148,,,Marilyn Tesch,U,,AUS,,,,6-3 6-2,3,R32
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,037,200152,11,,Gail Benedetti,R,,FRA,,,,200155,,,Lexie Kenny,U,,AUS,,,,9-7 6-1,3,R32
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,038,200159,3,,Rosie Casals,R,,USA,,,,200157,,,Lynne Nette,U,,AUS,,,,6-2 6-4,3,R32
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,039,200160,3,,Judy Dalton,U,,AUS,,,,200162,,,Judith Salome,U,,NED,,,,6-1 6-1,3,R32
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,040,200165,,,Lany Kaligis,U,,INA,,,,200166,,,Patricia Edwards,U,,AUS,,,,10-8 2-6 6-3,3,R32
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,041,200168,9,,Karen Krantzcke,R,,AUS,,,,200170,,,Beverley Rae,U,,AUS,,,,6-4 6-4,3,R32
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,042,200175,7,,Mary Ann Beattie,U,,USA,,,,200173,,,Kaye Dening,U,,AUS,,,,3-6 6-4 6-3,3,R32
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,043,200176,5,,Kerry Reid,R,,AUS,,,,200179,,,Barbara Hawcroft,U,,AUS,,,,6-2 7-5,3,R32
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,044,200180,,,Astrid Suurbeck,U,,NED,,,,200183,9,,Elena Subirats,U,,MEX,,,,6-3 5-7 6-4,3,R32
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,045,200185,,,Lesley Hunt,U,,AUS,,,,200186,,,Yveline Boy,U,,FRA,,,,6-1 6-3,3,R32
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,046,200190,1,,Billie Jean King,R,,USA,,,,200188,,,Helen Amos,U,,AUS,,,,6-0 6-2,3,R32
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,047,200129,1,,Lesley Bowrey,R,,AUS,,,,200133,,,Eva De Jong,U,,NED,,,,6-0 6-1,3,R16
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,048,200143,5,,Kathleen Harter,U,,USA,,,,200139,,,Lita Sugiarto,U,,INA,,,,6-2 6-3,3,R16
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,049,200144,7,,Margaret Court,R,,AUS,,,,200150,,,Evonne Cawley,R,,AUS,,,,6-3 6-1,3,R16
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,050,200159,3,,Rosie Casals,R,,USA,,,,200152,11,,Gail Benedetti,R,,FRA,,,,6-1 6-0,3,R16
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,051,200160,3,,Judy Dalton,U,,AUS,,,,200165,,,Lany Kaligis,U,,INA,,,,6-3 6-4,3,R16
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,052,200168,9,,Karen Krantzcke,R,,AUS,,,,200175,7,,Mary Ann Beattie,U,,USA,,,,6-2 6-3,3,R16
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,053,200180,,,Astrid Suurbeck,U,,NED,,,,200176,5,,Kerry Reid,R,,AUS,,,,8-6 6-3,3,R16
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,054,200190,1,,Billie Jean King,R,,USA,,,,200185,,,Lesley Hunt,U,,AUS,,,,6-3 6-4,3,R16
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,055,200129,1,,Lesley Bowrey,R,,AUS,,,,200143,5,,Kathleen Harter,U,,USA,,,,3-6 6-2 6-2,3,QF
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,056,200144,7,,Margaret Court,R,,AUS,,,,200159,3,,Rosie Casals,R,,USA,,,,6-0 6-2,3,QF
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,057,200160,3,,Judy Dalton,U,,AUS,,,,200168,9,,Karen Krantzcke,R,,AUS,,,,4-6 10-8 6-3,3,QF
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,058,200190,1,,Billie Jean King,R,,USA,,,,200180,,,Astrid Suurbeck,U,,NED,,,,6-1 6-2,3,QF
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,059,200144,7,,Margaret Court,R,,AUS,,,,200129,1,,Lesley Bowrey,R,,AUS,,,,6-3 6-2,3,SF
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,060,200190,1,,Billie Jean King,R,,USA,,,,200160,3,,Judy Dalton,U,,AUS,,,,4-6 6-1 6-2,3,SF
-1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,061,200190,1,,Billie Jean King,R,,USA,,,,200144,7,,Margaret Court,R,,AUS,,,,6-1 6-2,3,F
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,001,200194,3,,Francoise Durr,R,,FRA,,,,200793,,,Mabel Vrancovich,U,,ARG,,,,W/O,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,002,200158,,,Carol Zeeman,U,,AUS,,,,200794,,,Marianne Kindler,U,,SUI,,,,W/O,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,003,200274,,,Julie Heldman,U,,USA,,,,200795,,,Patricia Montano,U,,MEX,,,,6-2 6-0,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,004,200797,,,Anne Marie Studer,U,,SUI,,,,200796,,,Sally Holdsworth,U,,GBR,,,,W/O,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,005,200152,14,,Gail Benedetti,R,,FRA,,,,200798,,,Lubka Radkova,U,,BUL,,,,6-3 6-1,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,006,200799,,,Christiane Spinoza,U,,FRA,,,,200800,,,Frances Maclennan,U,,GBR,,,,W/O,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,007,200801,,,Kora Schediwy,U,,FRG,,,,200802,,,Marion Cristiani,U,,FRA,,,,6-2 6-2,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,008,200804,,,Anna Dmitrieva,U,,URS,,,,200803,,,Raquel Giscafre,U,,ARG,,,,6-2 6-1,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,009,200176,6,,Kerry Reid,R,,AUS,,,,200805,,,Aline Nenot,U,,FRA,,,,6-1 6-1,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,010,200806,,,Birgitta Lindstrom,U,,FIN,,,,200251,,,Kazuko Sawamatsu,U,,JPN,,,,W/O,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,011,200808,,,Laura Rossouw,U,,RSA,,,,200807,,,Ulla Sandulf,U,,SWE,,,,6-1 6-2,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,012,200184,,,Helen Cawley,U,,AUS,,,,200809,,,Johanne Venturino,U,,FRA,,,,6-4 6-2,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,013,200810,11,,Annette Du Plooy,U,,RSA,,,,200811,,,Junko Sawamatsu,U,,JPN,,,,W/O,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,014,200812,,,Odile De Roubin,U,,FRA,,,,200242,,,Helen Young,U,,AUS,,,,6-0 6-1,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,015,200813,,,Ingrid Bentzer,R,,SWE,,,,200814,,,Gillian Dove,U,,RSA,,,,W/O,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,016,200815,,,Roberta Beltrame,R,,ITA,,,,200816,,,Ann Phillips Moore,U,,AUS,,,,W/O,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,017,200817,,,Judy Congdon,U,,GBR,,,,200818,,,Faye Urban,U,,CAN,,,,W/O,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,018,200819,,,Nicole Niox Chateau,U,,FRA,,,,200820,,,Eugenia Isopaitis,U,,URS,,,,W/O,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,019,200822,,,Ilse Buding,U,,FRG,,,,200821,,,Monica Giorgi,U,,ITA,,,,W/O,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,020,200824,12,,Galina Baksheeva,U,,URS,,,,200823,,,Eva Lundquist,U,,SWE,,,,7-5 3-6 8-6,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,021,200168,,,Karen Krantzcke,R,,AUS,,,,200825,,,Maylis Burel,U,,FRA,,,,6-1 6-2,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,022,200228,,,Olga Morozova,U,,URS,,,,200826,,,Greta Delport,U,,RSA,,,,W/O,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,023,200214,,,Christina Sandberg,U,,SWE,,,,200827,,,Suzanne Le Besnerais,U,,FRA,,,,6-1 6-2,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,024,200829,5,,Nancy Richey,R,,USA,,,,200828,,,Maria Cristina Borba Dias,U,,BRA,,,,6-0 6-2,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,025,200830,,,Chantal Langanay,U,,FRA,,,,200131,,,Judith Gohn,U,,AUS,,,,W/O,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,026,200145,,,Kerry Harris,U,,AUS,,,,200831,,,Carmen Mandarino,U,,ESP,,,,W/O,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,027,200832,,,Daniele Bouteleux,U,,FRA,,,,200833,,,Judith Szorenyi,U,,HUN,,,,W/O,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,028,200183,13,,Elena Subirats,U,,MEX,,,,200834,,,Suzana Gesteira,U,,BRA,,,,6-2 6-4,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,029,200836,,,Maria Chakarova,U,,BUL,,,,200835,,,Janine Lieffrig,U,,RSA,,,,13-11 8-6,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,030,200838,,,Janine Mauroy Toffier,U,,FRA,,,,200837,,,Alenka Pipan,U,,YUG,,,,W/O,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,031,200839,,,Ingrid Palmieri,U,,BEL,,,,200840,,,Eva Szabo,U,,HUN,,,,6-2 6-4,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,032,200159,4,,Rosie Casals,R,,USA,,,,200841,,,Maria Jose Aubet,U,,ESP,,,,W/O,3,R128
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,033,200193,2,,Ann Jones,L,,GBR,,,,200778,,,Irene Fraisse,U,,FRA,,,,6-1 6-1,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,034,200779,,,Maryna Proctor,U,,RSA,,,,200780,,,Irena Skulj,U,,YUG,,,,W/O,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,035,200781,15,,Edda Buding,U,,FRG,,,,200782,,,Esme Emanuel,U,,RSA,,,,6-2 6-2,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,036,200784,,,Faye Moore,U,,AUS,,,,200783,,,Jitka Volavkova,U,,TCH,,,,5-7 6-3 6-3,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,037,200785,7,,Vlasta Kodesova,U,,CZE,,,,200786,,,Claudine Rouire,U,,FRA,,,,W/O,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,038,200788,,,Carol Ann Kalogeropoulos,U,,GRE,,,,200787,,,Fiorella Bonicelli,U,,URU,,,,W/O,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,039,200790,,,Paola Palacios,U,,COL,,,,200789,10,,Lea Pericoli,U,,ITA,,,,W/O,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,040,200791,,,Rosy Darmon,U,,FRA,,,,200792,,,Christina Lindstrom,U,,FIN,,,,6-1 6-0,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,041,200194,3,,Francoise Durr,R,,FRA,,,,200158,,,Carol Zeeman,U,,AUS,,,,6-1 6-1,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,042,200274,,,Julie Heldman,U,,USA,,,,200797,,,Anne Marie Studer,U,,SUI,,,,6-2 6-3,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,043,200152,14,,Gail Benedetti,R,,FRA,,,,200799,,,Christiane Spinoza,U,,FRA,,,,6-1 6-0,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,044,200804,,,Anna Dmitrieva,U,,URS,,,,200801,,,Kora Schediwy,U,,FRG,,,,2-6 6-2 8-6,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,045,200176,6,,Kerry Reid,R,,AUS,,,,200806,,,Birgitta Lindstrom,U,,FIN,,,,6-0 6-4,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,046,200184,,,Helen Cawley,U,,AUS,,,,200808,,,Laura Rossouw,U,,RSA,,,,6-3 6-2,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,047,200810,11,,Annette Du Plooy,U,,RSA,,,,200812,,,Odile De Roubin,U,,FRA,,,,6-3 6-1,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,048,200813,,,Ingrid Bentzer,R,,SWE,,,,200815,,,Roberta Beltrame,R,,ITA,,,,W/O,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,049,200819,,,Nicole Niox Chateau,U,,FRA,,,,200817,,,Judy Congdon,U,,GBR,,,,W/O,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,050,200824,12,,Galina Baksheeva,U,,URS,,,,200822,,,Ilse Buding,U,,FRG,,,,6-2 6-2,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,051,200168,,,Karen Krantzcke,R,,AUS,,,,200228,,,Olga Morozova,U,,URS,,,,6-3 4-6 6-4,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,052,200829,5,,Nancy Richey,R,,USA,,,,200214,,,Christina Sandberg,U,,SWE,,,,6-2 6-1,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,053,200145,,,Kerry Harris,U,,AUS,,,,200830,,,Chantal Langanay,U,,FRA,,,,W/O,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,054,200183,13,,Elena Subirats,U,,MEX,,,,200832,,,Daniele Bouteleux,U,,FRA,,,,6-2 6-3,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,055,200838,,,Janine Mauroy Toffier,U,,FRA,,,,200836,,,Maria Chakarova,U,,BUL,,,,W/O,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,056,200159,4,,Rosie Casals,R,,USA,,,,200839,,,Ingrid Palmieri,U,,BEL,,,,6-1 6-3,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,057,200843,,,Virginia Caceres,U,,PER,,,,200842,,,Evelyne Terras,U,,FRA,,,,7-5 6-4,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,058,200845,9,,Patricia Walkden,U,,RSA,,,,200844,,,Martha Wolf Peterdy,U,,FRA,,,,W/O,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,059,200846,,,Michelle Rodriguez,U,,CHI,,,,200188,,,Helen Amos,U,,AUS,,,,W/O,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,060,200848,8,,Maria Bueno,R,,BRA,,,,200847,,,Dionissia Asteri,U,,GRE,,,,W/O,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,061,200849,,,Francesca Gordigiani,U,,ITA,,,,200138,,,Sandra Hole,U,,AUS,,,,W/O,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,062,200185,,,Lesley Hunt,U,,AUS,,,,200850,16,,Monique Di Maso,U,,ITA,,,,5-7 6-2 6-3,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,063,200851,,,Margarita Zuleta,U,,ECU,,,,200852,,,Yulia Berberian,U,,BUL,,,,W/O,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,064,200190,1,,Billie Jean King,R,,USA,,,,200853,,,Anne Marie Rouchon,U,,FRA,,,,6-2 6-2,3,R64
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,065,200193,2,,Ann Jones,L,,GBR,,,,200779,,,Maryna Proctor,U,,RSA,,,,6-2 6-0,3,R32
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,066,200781,15,,Edda Buding,U,,FRG,,,,200784,,,Faye Moore,U,,AUS,,,,4-6 6-1 7-5,3,R32
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,067,200785,7,,Vlasta Kodesova,U,,CZE,,,,200788,,,Carol Ann Kalogeropoulos,U,,GRE,,,,6-1 6-0,3,R32
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,068,200791,,,Rosy Darmon,U,,FRA,,,,200790,,,Paola Palacios,U,,COL,,,,6-2 6-2,3,R32
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,069,200194,3,,Francoise Durr,R,,FRA,,,,200274,,,Julie Heldman,U,,USA,,,,6-1 7-5,3,R32
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,070,200152,14,,Gail Benedetti,R,,FRA,,,,200804,,,Anna Dmitrieva,U,,URS,,,,6-3 6-0,3,R32
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,071,200176,6,,Kerry Reid,R,,AUS,,,,200184,,,Helen Cawley,U,,AUS,,,,7-5 6-4,3,R32
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,072,200810,11,,Annette Du Plooy,U,,RSA,,,,200813,,,Ingrid Bentzer,R,,SWE,,,,7-5 6-1,3,R32
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,073,200824,12,,Galina Baksheeva,U,,URS,,,,200819,,,Nicole Niox Chateau,U,,FRA,,,,6-3 6-1,3,R32
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,074,200829,5,,Nancy Richey,R,,USA,,,,200168,,,Karen Krantzcke,R,,AUS,,,,6-4 5-7 8-6,3,R32
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,075,200183,13,,Elena Subirats,U,,MEX,,,,200145,,,Kerry Harris,U,,AUS,,,,6-1 6-1,3,R32
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,076,200159,4,,Rosie Casals,R,,USA,,,,200838,,,Janine Mauroy Toffier,U,,FRA,,,,W/O,3,R32
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,077,200845,9,,Patricia Walkden,U,,RSA,,,,200843,,,Virginia Caceres,U,,PER,,,,7-5 6-2,3,R32
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,078,200848,8,,Maria Bueno,R,,BRA,,,,200846,,,Michelle Rodriguez,U,,CHI,,,,6-2 6-0,3,R32
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,079,200185,,,Lesley Hunt,U,,AUS,,,,200849,,,Francesca Gordigiani,U,,ITA,,,,6-1 7-5,3,R32
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,080,200190,1,,Billie Jean King,R,,USA,,,,200851,,,Margarita Zuleta,U,,ECU,,,,6-1 6-0,3,R32
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,081,200193,2,,Ann Jones,L,,GBR,,,,200781,15,,Edda Buding,U,,FRG,,,,6-2 6-4,3,R16
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,082,200785,7,,Vlasta Kodesova,U,,CZE,,,,200791,,,Rosy Darmon,U,,FRA,,,,7-9 6-2 6-1,3,R16
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,083,200152,14,,Gail Benedetti,R,,FRA,,,,200194,3,,Francoise Durr,R,,FRA,,,,6-3 6-3,3,R16
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,084,200810,11,,Annette Du Plooy,U,,RSA,,,,200176,6,,Kerry Reid,R,,AUS,,,,5-7 6-4 8-6,3,R16
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,085,200829,5,,Nancy Richey,R,,USA,,,,200824,12,,Galina Baksheeva,U,,URS,,,,10-8 4-6 6-1,3,R16
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,086,200183,13,,Elena Subirats,U,,MEX,,,,200159,4,,Rosie Casals,R,,USA,,,,6-4 6-3,3,R16
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,087,200848,8,,Maria Bueno,R,,BRA,,,,200845,9,,Patricia Walkden,U,,RSA,,,,2-6 6-3 6-3,3,R16
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,088,200190,1,,Billie Jean King,R,,USA,,,,200185,,,Lesley Hunt,U,,AUS,,,,7-5 6-1,3,R16
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,089,200193,2,,Ann Jones,L,,GBR,,,,200785,7,,Vlasta Kodesova,U,,CZE,,,,6-2 6-1,3,QF
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,090,200810,11,,Annette Du Plooy,U,,RSA,,,,200152,14,,Gail Benedetti,R,,FRA,,,,8-6 6-3,3,QF
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,091,200829,5,,Nancy Richey,R,,USA,,,,200183,13,,Elena Subirats,U,,MEX,,,,6-1 6-0,3,QF
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,092,200190,1,,Billie Jean King,R,,USA,,,,200848,8,,Maria Bueno,R,,BRA,,,,6-4 6-4,3,QF
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,093,200193,2,,Ann Jones,L,,GBR,,,,200810,11,,Annette Du Plooy,U,,RSA,,,,7-5 6-3,3,SF
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,094,200829,5,,Nancy Richey,R,,USA,,,,200190,1,,Billie Jean King,R,,USA,,,,2-6 6-3 6-4,3,SF
-1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,095,200829,5,,Nancy Richey,R,,USA,,,,200193,2,,Ann Jones,L,,GBR,,,,5-7 6-4 6-1,3,F
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,001,200193,4,,Ann Jones,L,,GBR,,,,200143,,,Kathleen Harter,U,,USA,,,,6-0 4-6 6-4,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,002,201095,,,Jennifer Hoad,U,,AUS,,,,201094,,,Lucia Bassi,U,,ITA,,,,6-3 6-4,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,003,200782,,,Esme Emanuel,U,,RSA,,,,200821,,,Monica Giorgi,U,,ITA,,,,6-3 6-2,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,004,200845,,,Patricia Walkden,U,,RSA,,,,200791,,,Rosy Darmon,U,,FRA,,,,3-6 6-0 8-6,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,005,200317,,,Helga Masthoff,U,,FRG,,,,200865,,,Heather Segal,U,,RSA,,,,6-2 7-5,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,006,200184,,,Helen Cawley,U,,AUS,,,,200228,,,Olga Morozova,U,,URS,,,,6-4 6-4,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,007,200311,,,Cecilia Martinez,U,,USA,,,,200183,,,Elena Subirats,U,,MEX,,,,6-8 6-3 6-4,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,008,200817,,,Judy Congdon,U,,GBR,,,,200799,,,Christiane Spinoza,U,,FRA,,,,6-2 4-6 6-4,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,009,200214,,,Christina Sandberg,U,,SWE,,,,200237,5,,Virginia Wade,R,,GBR,,,,6-4 6-3,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,010,201097,,,Marilyn Aschner,U,,USA,,,,201096,,,Rita Lauder,U,,GBR,,,,7-5 6-4,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,011,200902,,,Corinne Molesworth,U,,GBR,,,,201098,,,Mimi Wheeler,U,,USA,,,,6-3 6-3,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,012,200220,,,Patti Hogan,U,,USA,,,,201099,,,Jean Drysdale,U,,RSA,,,,6-1 6-2,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,013,200194,,,Francoise Durr,R,,FRA,,,,201100,,,Christiane Mercelis,U,,BEL,,,,6-4 6-2,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,014,201101,,,Janice Wainwright,U,,GBR,,,,201102,,,Alice Tym,U,,USA,,,,6-2 6-4,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,015,201103,,,Pixie Lamm,U,,USA,,,,201104,,,Lidy Venneboer,U,,NED,,,,6-3 9-7,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,016,200176,,,Kerry Reid,R,,AUS,,,,200251,,,Kazuko Sawamatsu,U,,JPN,,,,6-2 6-2,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,017,200168,,,Karen Krantzcke,R,,AUS,,,,200801,,,Kora Schediwy,U,,FRG,,,,6-1 10-8,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,018,200159,,,Rosie Casals,R,,USA,,,,200862,,,Valerie Ziegenfuss,U,,USA,,,,6-3 7-5,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,019,200800,,,Frances Maclennan,U,,GBR,,,,200152,,,Gail Benedetti,R,,FRA,,,,6-4 6-4,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,020,200824,,,Galina Baksheeva,U,,URS,,,,200813,,,Ingrid Bentzer,R,,SWE,,,,11-9 6-2,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,021,200818,,,Faye Urban,U,,CAN,,,,201105,,,Margaret Lee,U,,GBR,,,,5-7 6-0 7-5,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,022,200274,,,Julie Heldman,U,,USA,,,,200831,,,Carmen Mandarino,U,,ESP,,,,6-1 6-4,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,023,200158,,,Carol Zeeman,U,,AUS,,,,201106,,,Betty Pratt,U,,USA,,,,8-6 6-4,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,024,200848,6,,Maria Bueno,R,,BRA,,,,200789,,,Lea Pericoli,U,,ITA,,,,W/O,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,025,201107,,,Nadine Netter,U,,USA,,,,200839,,,Ingrid Palmieri,U,,BEL,,,,6-2 6-3,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,026,200897,,,Heide Schildknecht,U,,GER,,,,201108,,,Florence De La Courtie Billat,U,,FRA,,,,1-6 8-6 6-1,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,027,201110,,,Bernice Vukovich,U,,RSA,,,,201109,,,Pauline Roberts,U,,GBR,,,,7-5 6-2,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,028,200860,,,Kristy Pigeon,U,,USA,,,,200850,,,Monique Di Maso,U,,ITA,,,,6-4 3-6 7-5,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,029,200180,,,Astrid Suurbeck,U,,NED,,,,201111,,,Lorna Greville Collins,U,,GBR,,,,6-3 7-5,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,030,200211,,,Winnie Wooldridge,U,,GBR,,,,200901,,,Nell Truman,U,,GBR,,,,6-4 4-6 6-3,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,031,200188,,,Helen Amos,U,,AUS,,,,201112,,,Wendy Hall,U,,GBR,,,,3-6 6-4 6-3,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,032,200829,3,,Nancy Richey,R,,USA,,,,200779,,,Maryna Proctor,U,,RSA,,,,6-1 6-3,3,R128
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,033,200190,1,,Billie Jean King,R,,USA,,,,200870,,,Peaches Bartkowicz,U,,USA,,,,7-5 6-4,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,034,201090,,,Stephanie Johnson,U,,USA,,,,200808,,,Laura Rossouw,U,,RSA,,,,6-3 6-4,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,035,200784,,,Faye Moore,U,,AUS,,,,200185,,,Lesley Hunt,U,,AUS,,,,2-6 6-2 6-3,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,036,200884,,,Marijke Schaar,U,,NED,,,,201091,,,Christine Janes,U,,GBR,,,,6-4 6-2,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,037,200129,8,,Lesley Bowrey,R,,AUS,,,,200823,,,Eva Lundquist,U,,SWE,,,,6-2 6-1,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,038,200877,,,Helga Hosl,U,,GER,,,,200849,,,Francesca Gordigiani,U,,ITA,,,,6-1 6-3,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,039,201092,,,Joyce Williams,U,,GBR,,,,200785,,,Vlasta Kodesova,U,,CZE,,,,6-2 7-5,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,040,200835,,,Janine Lieffrig,U,,RSA,,,,201093,,,Alex Cowie,U,,GBR,,,,10-8 6-3,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,041,200193,4,,Ann Jones,L,,GBR,,,,201095,,,Jennifer Hoad,U,,AUS,,,,6-0 6-1,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,042,200845,,,Patricia Walkden,U,,RSA,,,,200782,,,Esme Emanuel,U,,RSA,,,,6-2 6-3,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,043,200184,,,Helen Cawley,U,,AUS,,,,200317,,,Helga Masthoff,U,,FRG,,,,3-6 8-6 8-6,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,044,200311,,,Cecilia Martinez,U,,USA,,,,200817,,,Judy Congdon,U,,GBR,,,,6-1 7-5,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,045,200214,,,Christina Sandberg,U,,SWE,,,,201097,,,Marilyn Aschner,U,,USA,,,,6-2 7-5,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,046,200220,,,Patti Hogan,U,,USA,,,,200902,,,Corinne Molesworth,U,,GBR,,,,3-6 6-3 6-3,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,047,200194,,,Francoise Durr,R,,FRA,,,,201101,,,Janice Wainwright,U,,GBR,,,,6-0 6-4,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,048,200176,,,Kerry Reid,R,,AUS,,,,201103,,,Pixie Lamm,U,,USA,,,,6-4 6-4,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,049,200159,,,Rosie Casals,R,,USA,,,,200168,,,Karen Krantzcke,R,,AUS,,,,9-7 6-3,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,050,200824,,,Galina Baksheeva,U,,URS,,,,200800,,,Frances Maclennan,U,,GBR,,,,7-5 6-1,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,051,200274,,,Julie Heldman,U,,USA,,,,200818,,,Faye Urban,U,,CAN,,,,5-7 7-5 6-2,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,052,200848,6,,Maria Bueno,R,,BRA,,,,200158,,,Carol Zeeman,U,,AUS,,,,6-4 6-1,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,053,200897,,,Heide Schildknecht,U,,GER,,,,201107,,,Nadine Netter,U,,USA,,,,6-2 8-6,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,054,200860,,,Kristy Pigeon,U,,USA,,,,201110,,,Bernice Vukovich,U,,RSA,,,,6-1 6-3,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,055,200211,,,Winnie Wooldridge,U,,GBR,,,,200180,,,Astrid Suurbeck,U,,NED,,,,6-0 4-6 6-2,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,056,200829,3,,Nancy Richey,R,,USA,,,,200188,,,Helen Amos,U,,AUS,,,,6-1 6-3,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,057,201113,,,Shirley Brasher,U,,GBR,,,,200803,,,Raquel Giscafre,U,,ARG,,,,4-6 6-4 6-4,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,058,201115,,,Victoria Rogers,U,,USA,,,,201114,,,Robin Lloyd,U,,GBR,,,,6-1 6-3,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,059,200175,,,Mary Ann Beattie,U,,USA,,,,201116,,,Maria Teresa Riedl,U,,ITA,,,,6-1 6-4,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,060,200160,7,,Judy Dalton,U,,AUS,,,,200783,,,Jitka Volavkova,U,,TCH,,,,6-0 6-1,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,061,200867,,,Kerstin Seelbach,U,,FRG,,,,201117,,,Margaret Harris,R,,AUS,,,,6-3 6-2,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,062,200781,,,Edda Buding,U,,FRG,,,,200145,,,Kerry Harris,U,,AUS,,,,6-1 6-1,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,063,200151,,,Ada Bakker,U,,NED,,,,200842,,,Evelyne Terras,U,,FRA,,,,4-6 6-3 6-1,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,064,200144,2,,Margaret Court,R,,AUS,,,,200810,,,Annette Du Plooy,U,,RSA,,,,6-1 6-0,3,R64
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,065,200190,1,,Billie Jean King,R,,USA,,,,201090,,,Stephanie Johnson,U,,USA,,,,6-2 7-5,3,R32
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,066,200784,,,Faye Moore,U,,AUS,,,,200884,,,Marijke Schaar,U,,NED,,,,2-6 6-4 6-1,3,R32
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,067,200129,8,,Lesley Bowrey,R,,AUS,,,,200877,,,Helga Hosl,U,,GER,,,,6-4 6-2,3,R32
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,068,201092,,,Joyce Williams,U,,GBR,,,,200835,,,Janine Lieffrig,U,,RSA,,,,7-5 4-6 6-4,3,R32
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,069,200193,4,,Ann Jones,L,,GBR,,,,200845,,,Patricia Walkden,U,,RSA,,,,6-2 7-5,3,R32
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,070,200184,,,Helen Cawley,U,,AUS,,,,200311,,,Cecilia Martinez,U,,USA,,,,6-4 6-0,3,R32
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,071,200220,,,Patti Hogan,U,,USA,,,,200214,,,Christina Sandberg,U,,SWE,,,,6-4 6-4,3,R32
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,072,200194,,,Francoise Durr,R,,FRA,,,,200176,,,Kerry Reid,R,,AUS,,,,6-3 8-6,3,R32
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,073,200159,,,Rosie Casals,R,,USA,,,,200824,,,Galina Baksheeva,U,,URS,,,,8-6 3-6 7-5,3,R32
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,074,200848,6,,Maria Bueno,R,,BRA,,,,200274,,,Julie Heldman,U,,USA,,,,6-4 6-1,3,R32
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,075,200860,,,Kristy Pigeon,U,,USA,,,,200897,,,Heide Schildknecht,U,,GER,,,,6-2 6-0,3,R32
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,076,200829,3,,Nancy Richey,R,,USA,,,,200211,,,Winnie Wooldridge,U,,GBR,,,,6-1 6-2,3,R32
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,077,201113,,,Shirley Brasher,U,,GBR,,,,201115,,,Victoria Rogers,U,,USA,,,,6-2 9-7,3,R32
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,078,200160,7,,Judy Dalton,U,,AUS,,,,200175,,,Mary Ann Beattie,U,,USA,,,,6-2 8-6,3,R32
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,079,200781,,,Edda Buding,U,,FRG,,,,200867,,,Kerstin Seelbach,U,,FRG,,,,6-1 6-1,3,R32
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,080,200144,2,,Margaret Court,R,,AUS,,,,200151,,,Ada Bakker,U,,NED,,,,6-0 6-2,3,R32
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,081,200190,1,,Billie Jean King,R,,USA,,,,200784,,,Faye Moore,U,,AUS,,,,6-2 6-4,3,R16
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,082,200129,8,,Lesley Bowrey,R,,AUS,,,,201092,,,Joyce Williams,U,,GBR,,,,6-3 6-1,3,R16
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,083,200193,4,,Ann Jones,L,,GBR,,,,200184,,,Helen Cawley,U,,AUS,,,,6-3 6-1,3,R16
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,084,200194,,,Francoise Durr,R,,FRA,,,,200220,,,Patti Hogan,U,,USA,,,,6-2 6-2,3,R16
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,085,200848,6,,Maria Bueno,R,,BRA,,,,200159,,,Rosie Casals,R,,USA,,,,5-7 6-4 6-3,3,R16
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,086,200829,3,,Nancy Richey,R,,USA,,,,200860,,,Kristy Pigeon,U,,USA,,,,7-5 7-5,3,R16
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,087,200160,7,,Judy Dalton,U,,AUS,,,,201113,,,Shirley Brasher,U,,GBR,,,,6-2 6-2,3,R16
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,088,200144,2,,Margaret Court,R,,AUS,,,,200781,,,Edda Buding,U,,FRG,,,,6-2 6-3,3,R16
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,089,200190,1,,Billie Jean King,R,,USA,,,,200129,8,,Lesley Bowrey,R,,AUS,,,,6-3 6-4,3,QF
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,090,200193,4,,Ann Jones,L,,GBR,,,,200194,,,Francoise Durr,R,,FRA,,,,6-2 6-2,3,QF
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,091,200829,3,,Nancy Richey,R,,USA,,,,200848,6,,Maria Bueno,R,,BRA,,,,6-4 6-2,3,QF
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,092,200160,7,,Judy Dalton,U,,AUS,,,,200144,2,,Margaret Court,R,,AUS,,,,4-6 8-6 6-1,3,QF
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,093,200190,1,,Billie Jean King,R,,USA,,,,200193,4,,Ann Jones,L,,GBR,,,,4-6 7-5 6-2,3,SF
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,094,200160,7,,Judy Dalton,U,,AUS,,,,200829,3,,Nancy Richey,R,,USA,,,,6-3 6-1,3,SF
-1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,095,200190,1,,Billie Jean King,R,,USA,,,,200160,7,,Judy Dalton,U,,AUS,,,,9-7 7-5,3,F
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,001,200190,1,,Billie Jean King,R,,USA,,,,201213,,,Vija Vuskalns,U,,USA,,,,6-1 6-0,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,002,201102,,,Alice Tym,U,,USA,,,,201214,,,Farel Footman,U,,USA,,,,6-0 6-1,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,003,200876,,,Denise Carter Triolo,U,,USA,,,,201215,,,Connie Capozzi,U,,USA,,,,6-1 7-5,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,004,201103,,,Pixie Lamm,U,,USA,,,,201216,,,Marjorie Gengler,U,,USA,,,,3-6 9-7 6-3,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,005,200860,8,,Kristy Pigeon,U,,USA,,,,201217,,,Peggy Moore,U,,USA,,,,6-3 6-4,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,006,200779,,,Maryna Proctor,U,,RSA,,,,201218,,,Tish Adams,U,,USA,,,,6-4 6-2,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,007,201219,,,Jade Schiffman,U,,USA,,,,201220,,,Carole Herrick,U,,USA,,,,5-7 6-4 7-5,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,008,200143,,,Kathleen Harter,U,,USA,,,,201107,,,Nadine Netter,U,,USA,,,,6-4 4-6 6-4,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,009,200144,4,,Margaret Court,R,,AUS,,,,201221,,,Emilie Fisher,U,,USA,,,,6-0 6-1,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,010,200274,,,Julie Heldman,U,,USA,,,,201222,,,Diane Matzner,U,,USA,,,,6-2 6-1,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,011,200298,,,Laura Du Pont,U,,USA,,,,201223,,,Mary Lowdon,U,,USA,,,,7-5 6-2,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,012,200194,,,Francoise Durr,R,,FRA,,,,200862,,,Valerie Ziegenfuss,U,,USA,,,,6-0 6-1,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,013,200848,5,,Maria Bueno,R,,BRA,,,,201123,,,Stephanie Grant,U,,USA,,,,6-1 6-4,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,014,200311,,,Cecilia Martinez,U,,USA,,,,201224,,,Ann Moore,U,,USA,,,,6-4 6-4,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,015,200220,,,Patti Hogan,U,,USA,,,,201225,,,Tina Lyman,U,,USA,,,,11-9 6-3,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,016,201226,,,Maricaye Christenson,U,,USA,,,,201128,,,Jane Ohara,U,,CAN,,,,2-6 6-3 6-4,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,017,200159,,,Rosie Casals,R,,USA,,,,201097,,,Marilyn Aschner,U,,USA,,,,6-3 6-2,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,018,201106,,,Betty Pratt,U,,USA,,,,200875,,,Pamela Austin,U,,USA,,,,7-5 3-6 6-2,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,019,201131,,,Patricia Cody,U,,USA,,,,201227,,,Roylee Bailey,U,,USA,,,,3-6 6-1 6-3,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,020,200237,6,,Virginia Wade,R,,GBR,,,,201090,,,Stephanie Johnson,U,,USA,,,,6-3 3-6 6-3,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,021,200866,,,Linda Tuero,U,,USA,,,,201228,,,Nancy Reed,R,,USA,,,,6-1 6-1,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,022,200168,,,Karen Krantzcke,R,,AUS,,,,201229,,,Louise Gonnerman,U,,USA,,,,6-1 6-0,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,023,200800,,,Frances Maclennan,U,,GBR,,,,201230,,,Mimi Kanarek,U,,USA,,,,6-4 4-6 11-9,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,024,200160,3,,Judy Dalton,U,,AUS,,,,201145,,,Judy Dixon,U,,USA,,,,6-0 6-1,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,025,201231,,,Raymonde Jones,U,,USA,,,,201232,,,Carol Hunter,U,,USA,,,,6-2 6-3,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,026,200879,,,Wendy Overton,U,,USA,,,,201233,,,Joyce Davenport,U,,USA,,,,6-3 7-5,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,027,200870,,,Peaches Bartkowicz,U,,USA,,,,201126,,,Carole Graebner,U,,USA,,,,6-1 6-2,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,028,201092,,,Joyce Williams,U,,GBR,,,,200175,7,,Mary Ann Beattie,U,,USA,,,,7-5 2-6 6-4,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,029,201115,,,Victoria Rogers,U,,USA,,,,200886,,,Becky Vest,U,,USA,,,,6-3 6-4,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,030,200808,,,Laura Rossouw,U,,RSA,,,,200799,,,Christiane Spinoza,U,,FRA,,,,W/O,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,031,201234,,,Pat Stewart,U,,USA,,,,201235,,,Jane Kincaid,U,,USA,,,,6-4 6-4,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,032,200193,2,,Ann Jones,L,,GBR,,,,200283,,,Pam Teeguarden,U,,USA,,,,6-3 6-1,3,R64
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,033,200190,1,,Billie Jean King,R,,USA,,,,201102,,,Alice Tym,U,,USA,,,,6-1 6-4,3,R32
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,034,200876,,,Denise Carter Triolo,U,,USA,,,,201103,,,Pixie Lamm,U,,USA,,,,6-4 6-2,3,R32
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,035,200779,,,Maryna Proctor,U,,RSA,,,,200860,8,,Kristy Pigeon,U,,USA,,,,7-5 6-4,3,R32
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,036,200143,,,Kathleen Harter,U,,USA,,,,201219,,,Jade Schiffman,U,,USA,,,,6-0 6-1,3,R32
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,037,200144,4,,Margaret Court,R,,AUS,,,,200274,,,Julie Heldman,U,,USA,,,,4-6 6-2 6-1,3,R32
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,038,200194,,,Francoise Durr,R,,FRA,,,,200298,,,Laura Du Pont,U,,USA,,,,6-1 7-5,3,R32
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,039,200848,5,,Maria Bueno,R,,BRA,,,,200311,,,Cecilia Martinez,U,,USA,,,,2-6 6-2 6-4,3,R32
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,040,200220,,,Patti Hogan,U,,USA,,,,201226,,,Maricaye Christenson,U,,USA,,,,6-1 6-1,3,R32
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,041,200159,,,Rosie Casals,R,,USA,,,,201106,,,Betty Pratt,U,,USA,,,,6-1 6-3,3,R32
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,042,200237,6,,Virginia Wade,R,,GBR,,,,201131,,,Patricia Cody,U,,USA,,,,6-3 6-3,3,R32
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,043,200866,,,Linda Tuero,U,,USA,,,,200168,,,Karen Krantzcke,R,,AUS,,,,6-4 1-6 7-5,3,R32
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,044,200160,3,,Judy Dalton,U,,AUS,,,,200800,,,Frances Maclennan,U,,GBR,,,,6-0 6-2,3,R32
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,045,200879,,,Wendy Overton,U,,USA,,,,201231,,,Raymonde Jones,U,,USA,,,,6-4 13-15 6-2,3,R32
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,046,200870,,,Peaches Bartkowicz,U,,USA,,,,201092,,,Joyce Williams,U,,GBR,,,,7-5 6-2,3,R32
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,047,201115,,,Victoria Rogers,U,,USA,,,,200808,,,Laura Rossouw,U,,RSA,,,,11-9 6-1,3,R32
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,048,200193,2,,Ann Jones,L,,GBR,,,,201234,,,Pat Stewart,U,,USA,,,,6-1 6-0,3,R32
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,049,200190,1,,Billie Jean King,R,,USA,,,,200876,,,Denise Carter Triolo,U,,USA,,,,8-6 6-3,3,R16
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,050,200779,,,Maryna Proctor,U,,RSA,,,,200143,,,Kathleen Harter,U,,USA,,,,2-6 7-5 6-3,3,R16
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,051,200144,4,,Margaret Court,R,,AUS,,,,200194,,,Francoise Durr,R,,FRA,,,,6-3 6-3,3,R16
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,052,200848,5,,Maria Bueno,R,,BRA,,,,200220,,,Patti Hogan,U,,USA,,,,0-6 6-2 6-1,3,R16
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,053,200237,6,,Virginia Wade,R,,GBR,,,,200159,,,Rosie Casals,R,,USA,,,,6-4 7-5,3,R16
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,054,200160,3,,Judy Dalton,U,,AUS,,,,200866,,,Linda Tuero,U,,USA,,,,7-5 6-2,3,R16
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,055,200870,,,Peaches Bartkowicz,U,,USA,,,,200879,,,Wendy Overton,U,,USA,,,,6-3 6-2,3,R16
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,056,200193,2,,Ann Jones,L,,GBR,,,,201115,,,Victoria Rogers,U,,USA,,,,6-0 4-6 6-1,3,R16
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,057,200190,1,,Billie Jean King,R,,USA,,,,200779,,,Maryna Proctor,U,,RSA,,,,6-3 3-6 6-3,3,QF
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,058,200848,5,,Maria Bueno,R,,BRA,,,,200144,4,,Margaret Court,R,,AUS,,,,7-5 2-6 6-3,3,QF
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,059,200237,6,,Virginia Wade,R,,GBR,,,,200160,3,,Judy Dalton,U,,AUS,,,,6-3 6-2,3,QF
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,060,200193,2,,Ann Jones,L,,GBR,,,,200870,,,Peaches Bartkowicz,U,,USA,,,,10-8 6-3,3,QF
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,061,200190,1,,Billie Jean King,R,,USA,,,,200848,5,,Maria Bueno,R,,BRA,,,,3-6 6-4 6-2,3,SF
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,062,200237,6,,Virginia Wade,R,,GBR,,,,200193,2,,Ann Jones,L,,GBR,,,,7-5 6-1,3,SF
-1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,063,200237,6,,Virginia Wade,R,,GBR,,,,200190,1,,Billie Jean King,R,,USA,,,,6-4 6-2,3,F
-1968-D001,Fed Cup WG SF: AUS vs GBR,Clay,4,D,19680525,1,200176,,,Kerry Reid,R,,AUS,,,,201091,,,Christine Janes,U,,GBR,,,,7-5 6-1,3,RR
-1968-D001,Fed Cup WG SF: AUS vs GBR,Clay,4,D,19680525,2,200144,,,Margaret Court,R,,AUS,,,,200237,,,Virginia Wade,R,,GBR,,,,6-2 6-2,3,RR
-1968-D002,Fed Cup WG R2: URS vs ITA,Clay,4,D,19680522,1,200824,,,Galina Baksheeva,U,,URS,,,,200789,,,Lea Pericoli,U,,ITA,,,,7-5 8-6,3,RR
-1968-D002,Fed Cup WG R2: URS vs ITA,Clay,4,D,19680522,2,200804,,,Anna Dmitrieva,U,,URS,,,,201116,,,Maria Teresa Riedl,U,,ITA,,,,6-3 6-0,3,RR
-1968-D003,Fed Cup WG R1: ITA vs MEX,Clay,4,D,19680521,1,200183,,,Elena Subirats,U,,MEX,,,,200789,,,Lea Pericoli,U,,ITA,,,,6-3 6-1,3,RR
-1968-D003,Fed Cup WG R1: ITA vs MEX,Clay,4,D,19680521,2,201116,,,Maria Teresa Riedl,U,,ITA,,,,200795,,,Patricia Montano,U,,MEX,,,,6-4 6-4,3,RR
-1968-D004,Fed Cup WG F: AUS vs NED,Clay,4,D,19680521,1,200176,,,Kerry Reid,R,,AUS,,,,200884,,,Marijke Schaar,U,,NED,,,,4-6 7-5 6-3,3,RR
-1968-D004,Fed Cup WG F: AUS vs NED,Clay,4,D,19680521,2,200144,,,Margaret Court,R,,AUS,,,,200180,,,Astrid Suurbeck,U,,NED,,,,6-1 6-3,3,RR
-1968-D005,Fed Cup WG R1: NED vs FIN,Clay,4,D,19680521,1,200884,,,Marijke Schaar,U,,NED,,,,200806,,,Birgitta Lindstrom,U,,FIN,,,,6-4 6-2,3,RR
-1968-D005,Fed Cup WG R1: NED vs FIN,Clay,4,D,19680521,2,201104,,,Lidy Venneboer,U,,NED,,,,200792,,,Christina Lindstrom,U,,FIN,,,,4-6 6-4 6-2,3,RR
-1968-D006,Fed Cup WG R2: AUS vs BRA,Clay,4,D,19680522,1,200144,,,Margaret Court,R,,AUS,,,,200834,,,Suzana Gesteira,U,,BRA,,,,6-0 6-0,3,RR
-1968-D006,Fed Cup WG R2: AUS vs BRA,Clay,4,D,19680522,2,200176,,,Kerry Reid,R,,AUS,,,,200828,,,Maria Cristina Borba Dias,U,,BRA,,,,6-2 6-1,3,RR
-1968-D007,Fed Cup WG R2: RSA vs CAN,Clay,4,D,19680522,1,200810,,,Annette Du Plooy,U,,RSA,,,,200818,,,Faye Urban,U,,CAN,,,,3-6 6-4 6-2,3,RR
-1968-D007,Fed Cup WG R2: RSA vs CAN,Clay,4,D,19680522,2,200779,,,Maryna Proctor,U,,RSA,,,,201139,,,Vicky Berner,U,,CAN,,,,9-7 6-3,3,RR
-1968-D008,Fed Cup WG R1: POL vs GRE,Clay,4,D,19680521,1,200859,,,Danuta Wieczorek,U,,POL,,,,200847,,,Dionissia Asteri,U,,GRE,,,,3-6 6-0 6-2,3,RR
-1968-D008,Fed Cup WG R1: POL vs GRE,Clay,4,D,19680521,2,212489,,,Barbara Olszewska,,,POL,,,,200788,,,Carol Ann Kalogeropoulos,U,,GRE,,,,4-6 6-2 6-2,3,RR
-1968-D010,Fed Cup WG QF: GBR vs URS,Clay,4,D,19680524,1,201091,,,Christine Janes,U,,GBR,,,,200804,,,Anna Dmitrieva,U,,URS,,,,1-6 6-4 9-7,3,RR
-1968-D010,Fed Cup WG QF: GBR vs URS,Clay,4,D,19680524,2,200237,,,Virginia Wade,R,,GBR,,,,200824,,,Galina Baksheeva,U,,URS,,,,6-1 6-1,3,RR
-1968-D011,Fed Cup WG R1: BUL vs CHI,Clay,4,D,19680521,1,200846,,,Michelle Rodriguez,U,,CHI,,,,200798,,,Lubka Radkova,U,,BUL,,,,6-3 6-2,3,RR
-1968-D011,Fed Cup WG R1: BUL vs CHI,Clay,4,D,19680521,2,200836,,,Maria Chakarova,U,,BUL,,,,212522,,,Margarita De Zuleta,,,CHI,,,,6-0 6-0,3,RR
-1968-D012,Fed Cup WG R1: URS vs BEL,Clay,4,D,19680521,1,200824,,,Galina Baksheeva,U,,URS,,,,200839,,,Ingrid Palmieri,U,,BEL,,,,2-6 7-5 6-3,3,RR
-1968-D012,Fed Cup WG R1: URS vs BEL,Clay,4,D,19680521,2,200804,,,Anna Dmitrieva,U,,URS,,,,201100,,,Christiane Mercelis,U,,BEL,,,,6-3 6-3,3,RR
-1968-D013,Fed Cup WG QF: FRA vs USA,Clay,4,D,19680524,1,200791,,,Rosy Darmon,U,,FRA,,,,200175,,,Mary Ann Beattie,U,,USA,,,,7-5 6-1,3,RR
-1968-D013,Fed Cup WG QF: FRA vs USA,Clay,4,D,19680524,2,200829,,,Nancy Richey,R,,USA,,,,200850,,,Monique Di Maso,U,,ITA,,,,6-1 6-4,3,RR
-1968-D014,Fed Cup WG R2: FRA vs POR,Clay,4,D,19680523,1,200850,,,Monique Di Maso,U,,ITA,,,,212527,,,Peggy Brixhe,,,POR,,,,6-0 6-0,3,RR
-1968-D014,Fed Cup WG R2: FRA vs POR,Clay,4,D,19680523,2,200791,,,Rosy Darmon,U,,FRA,,,,203690,,,Leonora Peralta,U,,POR,,,,6-2 6-1,3,RR
-1968-D015,Fed Cup WG QF: AUS vs RSA,Clay,4,D,19680524,1,200144,,,Margaret Court,R,,AUS,,,,200810,,,Annette Du Plooy,U,,RSA,,,,6-1 6-1,3,RR
-1968-D015,Fed Cup WG QF: AUS vs RSA,Clay,4,D,19680524,2,200176,,,Kerry Reid,R,,AUS,,,,200779,,,Maryna Proctor,U,,RSA,,,,6-2 6-3,3,RR
-1968-D016,Fed Cup WG QF: NED vs BUL,Clay,4,D,19680524,1,200180,,,Astrid Suurbeck,U,,NED,,,,200798,,,Lubka Radkova,U,,BUL,,,,6-1 6-3,3,RR
-1968-D016,Fed Cup WG QF: NED vs BUL,Clay,4,D,19680524,2,200884,,,Marijke Schaar,U,,NED,,,,200836,,,Maria Chakarova,U,,BUL,,,,6-1 6-0,3,RR
-1968-D017,Fed Cup WG R2: TCH vs GBR,Clay,4,D,19680522,1,201091,,,Christine Janes,U,,GBR,,,,200783,,,Jitka Volavkova,U,,TCH,,,,6-4 4-6 6-4,3,RR
-1968-D017,Fed Cup WG R2: TCH vs GBR,Clay,4,D,19680522,2,200785,,,Vlasta Kodesova,U,,CZE,,,,200237,,,Virginia Wade,R,,GBR,,,,6-3 6-4,3,RR
-1968-D018,Fed Cup WG R1: GBR vs SWE,Clay,4,D,19680521,1,201091,,,Christine Janes,U,,GBR,,,,200813,,,Ingrid Bentzer,R,,SWE,,,,6-2 6-0,3,RR
-1968-D018,Fed Cup WG R1: GBR vs SWE,Clay,4,D,19680521,2,200237,,,Virginia Wade,R,,GBR,,,,200214,,,Christina Sandberg,U,,SWE,,,,6-1 6-4,3,RR
-1968-D019,Fed Cup WG SF: NED vs USA,Clay,4,D,19680525,1,200829,,,Nancy Richey,R,,USA,,,,201104,,,Lidy Venneboer,U,,NED,,,,6-2 6-3,3,RR
-1968-D019,Fed Cup WG SF: NED vs USA,Clay,4,D,19680525,2,200884,,,Marijke Schaar,U,,NED,,,,200175,,,Mary Ann Beattie,U,,USA,,,,7-5 6-0,3,RR
-1968-D020,Fed Cup WG R1: TCH vs NOR,Clay,4,D,19680521,1,200785,,,Vlasta Kodesova,U,,CZE,,,,212426,,,Kirsten Robsahm,,,NOR,,,,6-0 6-4,3,RR
-1968-D020,Fed Cup WG R1: TCH vs NOR,Clay,4,D,19680521,2,200783,,,Jitka Volavkova,U,,TCH,,,,212324,,,Ellen Grindvold,,,NOR,,,,6-3 6-3,3,RR
-1968-D021,Fed Cup WG R2: NED vs POL,Clay,4,D,19680523,1,200884,,,Marijke Schaar,U,,NED,,,,212489,,,Barbara Olszewska,,,POL,,,,6-1 6-1,3,RR
-1968-D021,Fed Cup WG R2: NED vs POL,Clay,4,D,19680523,2,200859,,,Danuta Wieczorek,U,,POL,,,,200180,,,Astrid Suurbeck,U,,NED,,,,4-6 6-4 6-4,3,RR
-1968-D022,Fed Cup WG R2: SUI vs USA,Clay,4,D,19680523,1,200829,,,Nancy Richey,R,,USA,,,,200797,,,Anne Marie Studer,U,,SUI,,,,6-1 6-1,3,RR
-1968-D022,Fed Cup WG R2: SUI vs USA,Clay,4,D,19680523,2,200175,,,Mary Ann Beattie,U,,USA,,,,200794,,,Marianne Kindler,U,,SUI,,,,6-0 6-1,3,RR
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1968-W-OL-MEX-01A-1968,Olympics-Guadalajara Demo,Clay,13,O,19681014,001,200781,,,Edda Buding,U,,FRG,31.9178644764,200795,,,Patricia Montano,U,,MEX,16.1861738535,7-5 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-OL-MEX-01A-1968,Olympics-Guadalajara Demo,Clay,13,O,19681014,002,202512,,,Lucia Gongora,U,,MEX,21.9767282683,200862,,,Valerie Ziegenfuss,U,,USA,19.2936344969,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-OL-MEX-01A-1968,Olympics-Guadalajara Demo,Clay,13,O,19681014,003,200869,,,Maria Eugenia Guzman,U,,ECU,23.099247091,200863,,,Zaiga Yansone,U,,URS,17.7221081451,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-OL-MEX-01A-1968,Olympics-Guadalajara Demo,Clay,13,O,19681014,004,200274,,,Julie Heldman,U,,USA,22.8501026694,200834,,,Suzana Gesteira,U,,BRA,21.0020533881,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-OL-MEX-01A-1968,Olympics-Guadalajara Demo,Clay,13,O,19681014,005,200791,,,Rosy Darmon,U,,FRA,29.5633127995,202513,,,Ana Maria Ycaza,U,,ECU,17.440109514,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-OL-MEX-01A-1968,Olympics-Guadalajara Demo,Clay,13,O,19681014,006,200870,1,,Peaches Bartkowicz,U,,USA,19.4962354552,200781,,,Edda Buding,U,,FRG,31.9178644764,4-6 6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-OL-MEX-01A-1968,Olympics-Guadalajara Demo,Clay,13,O,19681014,007,202512,,,Lucia Gongora,U,,MEX,21.9767282683,200869,,,Maria Eugenia Guzman,U,,ECU,23.099247091,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-OL-MEX-01A-1968,Olympics-Guadalajara Demo,Clay,13,O,19681014,008,200274,,,Julie Heldman,U,,USA,22.8501026694,200791,,,Rosy Darmon,U,,FRA,29.5633127995,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-OL-MEX-01A-1968,Olympics-Guadalajara Demo,Clay,13,O,19681014,009,200317,2,,Helga Masthoff,U,,FRG,26.9240246407,202514,,,Cecilia Rosado,U,,MEX,16.0301163587,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-OL-MEX-01A-1968,Olympics-Guadalajara Demo,Clay,13,O,19681014,010,200870,1,,Peaches Bartkowicz,U,,USA,19.4962354552,202512,,,Lucia Gongora,U,,MEX,21.9767282683,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-OL-MEX-01A-1968,Olympics-Guadalajara Demo,Clay,13,O,19681014,011,200317,2,,Helga Masthoff,U,,FRG,26.9240246407,200274,,,Julie Heldman,U,,USA,22.8501026694,6-3 1-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-OL-MEX-01A-1968,Olympics-Guadalajara Demo,Clay,13,O,19681014,012,200317,2,,Helga Masthoff,U,,FRG,26.9240246407,200870,1,,Peaches Bartkowicz,U,,USA,19.4962354552,6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-OL-MEX-02A-1968,Olympics-Mexico City Exhib,Clay,11,O,19681024,001,200791,,,Rosy Darmon,U,,FRA,29.5906913073,200862,,,Valerie Ziegenfuss,U,,USA,19.3210130048,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-OL-MEX-02A-1968,Olympics-Mexico City Exhib,Clay,11,O,19681024,002,200834,,,Suzana Gesteira,U,,BRA,21.029431896,200795,,,Patricia Montano,U,,MEX,16.2135523614,3-6 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-OL-MEX-02A-1968,Olympics-Mexico City Exhib,Clay,11,O,19681024,003,200274,,,Julie Heldman,U,,USA,22.8774811773,202514,,,Cecilia Rosado,U,,MEX,16.0574948665,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-OL-MEX-02A-1968,Olympics-Mexico City Exhib,Clay,11,O,19681024,004,200870,1,,Peaches Bartkowicz,U,,USA,19.523613963,200863,,,Zaiga Yansone,U,,URS,17.749486653,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-OL-MEX-02A-1968,Olympics-Mexico City Exhib,Clay,11,O,19681024,005,200834,,,Suzana Gesteira,U,,BRA,21.029431896,200791,,,Rosy Darmon,U,,FRA,29.5906913073,7-5 5-7 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-OL-MEX-02A-1968,Olympics-Mexico City Exhib,Clay,11,O,19681024,006,200274,,,Julie Heldman,U,,USA,22.8774811773,202512,,,Lucia Gongora,U,,MEX,22.0041067762,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-OL-MEX-02A-1968,Olympics-Mexico City Exhib,Clay,11,O,19681024,007,200869,,,Maria Eugenia Guzman,U,,ECU,23.1266255989,200317,2,,Helga Masthoff,U,,FRG,26.9514031485,W/O,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-OL-MEX-02A-1968,Olympics-Mexico City Exhib,Clay,11,O,19681024,008,200870,1,,Peaches Bartkowicz,U,,USA,19.523613963,200834,,,Suzana Gesteira,U,,BRA,21.029431896,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-OL-MEX-02A-1968,Olympics-Mexico City Exhib,Clay,11,O,19681024,009,200274,,,Julie Heldman,U,,USA,22.8774811773,200869,,,Maria Eugenia Guzman,U,,ECU,23.1266255989,6-1 6-0,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-OL-MEX-02A-1968,Olympics-Mexico City Exhib,Clay,11,O,19681024,010,200870,1,,Peaches Bartkowicz,U,,USA,19.523613963,200274,,,Julie Heldman,U,,USA,22.8774811773,6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,001,200130,,,Dorothy Whitely,U,,AUS,,200131,,,Judith Gohn,U,,AUS,22.6940451745,6-2 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,002,200133,,,Eva De Jong,U,,NED,,200132,,,Kay Williams,U,,AUS,,6-3 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,003,200134,,,Kerry Ballard,U,,AUS,18.0917180014,200135,13,,Lorraine Robinson,U,,AUS,30.3216974675,W/O,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,004,200137,,,L Griffiths,U,,AUS,,200136,,,Valerie Caulley,U,,AUS,,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,005,200139,,,Lita Sugiarto,U,,INA,21.8918548939,200138,,,Sandra Hole,U,,AUS,,6-0 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,006,200140,,,Beryl Jenkins,U,,AUS,,200141,,,Wendy Gilchrist,L,,AUS,17.6755646817,6-2 4-6 10-8,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,007,200143,5,,Kathleen Harter,U,,USA,21.2292950034,200142,,,Loris Butterfield,U,,AUS,,6-1 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,008,200144,7,,Margaret Court,R,,AUS,25.5112936345,200145,,,Kerry Harris,U,,AUS,18.3326488706,6-3 6-0,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,009,200146,,,Cynthia Doerner,U,,AUS,16.9363449692,200147,,,Geri Shepard,U,,USA,,5-7 8-6 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,010,200148,,,Marilyn Tesch,U,,AUS,,200149,,,Helen Sheedy,U,,AUS,,6-3 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,011,200150,,,Evonne Cawley,R,,AUS,16.4709103354,200151,11,,Ada Bakker,U,,NED,19.780971937,6-4 6-0,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,012,200152,11,,Gail Benedetti,R,,FRA,22.7953456537,200153,,,S Washbourne,U,,AUS,,6-1 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,013,200155,,,Lexie Kenny,U,,AUS,,200154,,,S Stephen,U,,AUS,,6-4 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,014,200157,,,Lynne Nette,U,,AUS,25.6509240246,200156,,,Lynette Mansfield,U,,AUS,,6-2 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,015,200159,3,,Rosie Casals,R,,USA,19.3401779603,200158,,,Carol Zeeman,U,,AUS,21.2484599589,6-2 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,016,200160,3,,Judy Dalton,U,,AUS,30.1026694045,200161,,,Janine Whyte,U,,AUS,,6-0 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,017,200162,,,Judith Salome,U,,NED,18.9377138946,200163,,,Helen Oconnor,U,,AUS,,6-2 8-6,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,018,200165,,,Lany Kaligis,U,,INA,18.7433264887,200164,,,Joan Johnson,U,,USA,,6-0 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,019,200166,,,Patricia Edwards,U,,AUS,,200167,,,Heather Mckechnie,U,,AUS,,3-6 7-5 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,020,200168,9,,Karen Krantzcke,R,,AUS,20.9637234771,200169,,,Ann Jenkins,U,,AUS,,6-4 6-0,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,021,200170,,,Beverley Rae,U,,AUS,38.173853525,200171,,,Janet Young,U,,AUS,16.2436687201,6-3 2-6 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,022,200173,,,Kaye Dening,U,,AUS,,200172,,,Caroline Cooper,U,,AUS,,W/O,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,023,200175,7,,Mary Ann Beattie,U,,USA,21.1498973306,200174,,,Kerry Wilkinson,U,,AUS,,6-4 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,024,200176,5,,Kerry Reid,R,,AUS,20.4517453799,200177,,,Alison Mckenzie,U,,AUS,,6-4 8-6,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,025,200179,,,Barbara Hawcroft,U,,AUS,17.2676249144,200178,,,Sue Hastings,U,,AUS,,6-4 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,026,200180,,,Astrid Suurbeck,U,,NED,20.9253935661,200181,,,Margaret Starr,U,,AUS,,8-6 3-6 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,027,200183,9,,Elena Subirats,U,,MEX,20.0547570157,200182,,,E Staples,U,,AUS,,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,028,200185,,,Lesley Hunt,U,,AUS,17.6427104723,200184,13,,Helen Cawley,U,,AUS,21.0732375086,6-3 3-6 7-5,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,029,200186,,,Yveline Boy,U,,FRA,,200187,,,Janine Murdoch,U,,AUS,,6-2 6-0,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,030,200188,,,Helen Amos,U,,AUS,19.5537303217,200189,,,D Brennan,U,,AUS,,W/O,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,031,200129,1,,Lesley Bowrey,R,,AUS,25.4264202601,200130,,,Dorothy Whitely,U,,AUS,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,032,200133,,,Eva De Jong,U,,NED,,200134,,,Kerry Ballard,U,,AUS,18.0917180014,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,033,200139,,,Lita Sugiarto,U,,INA,21.8918548939,200137,,,L Griffiths,U,,AUS,,7-5 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,034,200143,5,,Kathleen Harter,U,,USA,21.2292950034,200140,,,Beryl Jenkins,U,,AUS,,6-2 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,035,200144,7,,Margaret Court,R,,AUS,25.5112936345,200146,,,Cynthia Doerner,U,,AUS,16.9363449692,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,036,200150,,,Evonne Cawley,R,,AUS,16.4709103354,200148,,,Marilyn Tesch,U,,AUS,,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,037,200152,11,,Gail Benedetti,R,,FRA,22.7953456537,200155,,,Lexie Kenny,U,,AUS,,9-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,038,200159,3,,Rosie Casals,R,,USA,19.3401779603,200157,,,Lynne Nette,U,,AUS,25.6509240246,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,039,200160,3,,Judy Dalton,U,,AUS,30.1026694045,200162,,,Judith Salome,U,,NED,18.9377138946,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,040,200165,,,Lany Kaligis,U,,INA,18.7433264887,200166,,,Patricia Edwards,U,,AUS,,10-8 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,041,200168,9,,Karen Krantzcke,R,,AUS,20.9637234771,200170,,,Beverley Rae,U,,AUS,38.173853525,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,042,200175,7,,Mary Ann Beattie,U,,USA,21.1498973306,200173,,,Kaye Dening,U,,AUS,,3-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,043,200176,5,,Kerry Reid,R,,AUS,20.4517453799,200179,,,Barbara Hawcroft,U,,AUS,17.2676249144,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,044,200180,,,Astrid Suurbeck,U,,NED,20.9253935661,200183,9,,Elena Subirats,U,,MEX,20.0547570157,6-3 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,045,200185,,,Lesley Hunt,U,,AUS,17.6427104723,200186,,,Yveline Boy,U,,FRA,,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,046,200190,1,,Billie Jean King,R,,USA,24.1587953457,200188,,,Helen Amos,U,,AUS,19.5537303217,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,047,200129,1,,Lesley Bowrey,R,,AUS,25.4264202601,200133,,,Eva De Jong,U,,NED,,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,048,200143,5,,Kathleen Harter,U,,USA,21.2292950034,200139,,,Lita Sugiarto,U,,INA,21.8918548939,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,049,200144,7,,Margaret Court,R,,AUS,25.5112936345,200150,,,Evonne Cawley,R,,AUS,16.4709103354,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,050,200159,3,,Rosie Casals,R,,USA,19.3401779603,200152,11,,Gail Benedetti,R,,FRA,22.7953456537,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,051,200160,3,,Judy Dalton,U,,AUS,30.1026694045,200165,,,Lany Kaligis,U,,INA,18.7433264887,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,052,200168,9,,Karen Krantzcke,R,,AUS,20.9637234771,200175,7,,Mary Ann Beattie,U,,USA,21.1498973306,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,053,200180,,,Astrid Suurbeck,U,,NED,20.9253935661,200176,5,,Kerry Reid,R,,AUS,20.4517453799,8-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,054,200190,1,,Billie Jean King,R,,USA,24.1587953457,200185,,,Lesley Hunt,U,,AUS,17.6427104723,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,055,200129,1,,Lesley Bowrey,R,,AUS,25.4264202601,200143,5,,Kathleen Harter,U,,USA,21.2292950034,3-6 6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,056,200144,7,,Margaret Court,R,,AUS,25.5112936345,200159,3,,Rosie Casals,R,,USA,19.3401779603,6-0 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,057,200160,3,,Judy Dalton,U,,AUS,30.1026694045,200168,9,,Karen Krantzcke,R,,AUS,20.9637234771,4-6 10-8 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,058,200190,1,,Billie Jean King,R,,USA,24.1587953457,200180,,,Astrid Suurbeck,U,,NED,20.9253935661,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,059,200144,7,,Margaret Court,R,,AUS,25.5112936345,200129,1,,Lesley Bowrey,R,,AUS,25.4264202601,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,060,200190,1,,Billie Jean King,R,,USA,24.1587953457,200160,3,,Judy Dalton,U,,AUS,30.1026694045,4-6 6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-AUS-01A-1968,Australian Championships,Grass,62,G,19680119,061,200190,1,,Billie Jean King,R,,USA,24.1587953457,200144,7,,Margaret Court,R,,AUS,25.5112936345,6-1 6-2,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,001,200194,3,,Francoise Durr,R,,FRA,25.4209445585,200793,,,Mabel Vrancovich,U,,ARG,22.2915811088,W/O,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,002,200158,,,Carol Zeeman,U,,AUS,21.6016427105,200794,,,Marianne Kindler,U,,SUI,19.8631074606,W/O,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,003,200274,,,Julie Heldman,U,,USA,22.4668035592,200795,,,Patricia Montano,U,,MEX,15.8028747433,6-2 6-0,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,004,200797,,,Anne Marie Studer,U,,SUI,,200796,,,Sally Holdsworth,U,,GBR,24.2929500342,W/O,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,005,200152,14,,Gail Benedetti,R,,FRA,23.1485284052,200798,,,Lubka Radkova,U,,BUL,23.1731690623,6-3 6-1,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,006,200799,,,Christiane Spinoza,U,,FRA,23.1375770021,200800,,,Frances Maclennan,U,,GBR,24.4353182752,W/O,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,007,200801,,,Kora Schediwy,U,,FRG,,200802,,,Marion Cristiani,U,,FRA,,6-2 6-2,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,008,200804,,,Anna Dmitrieva,U,,URS,27.4606433949,200803,,,Raquel Giscafre,U,,ARG,19.0335386721,6-2 6-1,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,009,200176,6,,Kerry Reid,R,,AUS,20.8049281314,200805,,,Aline Nenot,U,,FRA,,6-1 6-1,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,010,200806,,,Birgitta Lindstrom,U,,FIN,20.3668720055,200251,,,Kazuko Sawamatsu,U,,JPN,17.3908281999,W/O,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,011,200808,,,Laura Rossouw,U,,RSA,21.8672142368,200807,,,Ulla Sandulf,U,,SWE,25.3223819302,6-1 6-2,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,012,200184,,,Helen Cawley,U,,AUS,21.4264202601,200809,,,Johanne Venturino,U,,FRA,22.4010951403,6-4 6-2,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,013,200810,11,,Annette Du Plooy,U,,RSA,24.6707734428,200811,,,Junko Sawamatsu,U,,JPN,20.128678987,W/O,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,014,200812,,,Odile De Roubin,U,,FRA,19.6605065024,200242,,,Helen Young,U,,AUS,,6-0 6-1,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,015,200813,,,Ingrid Bentzer,R,,SWE,24.4736481862,200814,,,Gillian Dove,U,,RSA,,W/O,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,016,200815,,,Roberta Beltrame,R,,ITA,30.1054072553,200816,,,Ann Phillips Moore,U,,AUS,,W/O,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,017,200817,,,Judy Congdon,U,,GBR,19.4798083504,200818,,,Faye Urban,U,,CAN,22.5790554415,W/O,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,018,200819,,,Nicole Niox Chateau,U,,FRA,,200820,,,Eugenia Isopaitis,U,,URS,,W/O,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,019,200822,,,Ilse Buding,U,,FRG,,200821,,,Monica Giorgi,U,,ITA,22.3956194387,W/O,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,020,200824,12,,Galina Baksheeva,U,,URS,22.8747433265,200823,,,Eva Lundquist,U,,SWE,23.4442162902,7-5 3-6 8-6,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,021,200168,,,Karen Krantzcke,R,,AUS,21.3169062286,200825,,,Maylis Burel,U,,FRA,24.9062286105,6-1 6-2,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,022,200228,,,Olga Morozova,U,,URS,19.2580424367,200826,,,Greta Delport,U,,RSA,22.9103353867,W/O,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,023,200214,,,Christina Sandberg,U,,SWE,20.3750855578,200827,,,Suzanne Le Besnerais,U,,FRA,39.6057494867,6-1 6-2,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,024,200829,5,,Nancy Richey,R,,USA,25.7604380561,200828,,,Maria Cristina Borba Dias,U,,BRA,16.9199178645,6-0 6-2,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,025,200830,,,Chantal Langanay,U,,FRA,,200131,,,Judith Gohn,U,,AUS,23.0472279261,W/O,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,026,200145,,,Kerry Harris,U,,AUS,18.6858316222,200831,,,Carmen Mandarino,U,,ESP,27.9452429843,W/O,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,027,200832,,,Daniele Bouteleux,U,,FRA,27.5154004107,200833,,,Judith Szorenyi,U,,HUN,18.4668035592,W/O,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,028,200183,13,,Elena Subirats,U,,MEX,20.4079397673,200834,,,Suzana Gesteira,U,,BRA,20.6187542779,6-2 6-4,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,029,200836,,,Maria Chakarova,U,,BUL,30.1957563313,200835,,,Janine Lieffrig,U,,RSA,30.1245722108,13-11 8-6,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,030,200838,,,Janine Mauroy Toffier,U,,FRA,,200837,,,Alenka Pipan,U,,YUG,17.6235455168,W/O,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,031,200839,,,Ingrid Palmieri,U,,BEL,20.372347707,200840,,,Eva Szabo,U,,HUN,22.5735797399,6-2 6-4,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,032,200159,4,,Rosie Casals,R,,USA,19.6933607118,200841,,,Maria Jose Aubet,U,,ESP,25.0759753593,W/O,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,033,200193,2,,Ann Jones,L,,GBR,29.6098562628,200778,,,Irene Fraisse,U,,FRA,31.909650924,6-1 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,034,200779,,,Maryna Proctor,U,,RSA,23.7125256674,200780,,,Irena Skulj,U,,YUG,22.3572895277,W/O,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,035,200781,15,,Edda Buding,U,,FRG,31.5345653662,200782,,,Esme Emanuel,U,,RSA,20.9527720739,6-2 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,036,200784,,,Faye Moore,U,,AUS,24.4407939767,200783,,,Jitka Volavkova,U,,TCH,,5-7 6-3 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,037,200785,7,,Vlasta Kodesova,U,,CZE,24.1697467488,200786,,,Claudine Rouire,U,,FRA,28.9089664613,W/O,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,038,200788,,,Carol Ann Kalogeropoulos,U,,GRE,25.2128678987,200787,,,Fiorella Bonicelli,U,,URU,16.4325804244,W/O,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,039,200790,,,Paola Palacios,U,,COL,,200789,10,,Lea Pericoli,U,,ITA,33.18275154,W/O,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,040,200791,,,Rosy Darmon,U,,FRA,29.1800136893,200792,,,Christina Lindstrom,U,,FIN,22.6064339493,6-1 6-0,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,041,200194,3,,Francoise Durr,R,,FRA,25.4209445585,200158,,,Carol Zeeman,U,,AUS,21.6016427105,6-1 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,042,200274,,,Julie Heldman,U,,USA,22.4668035592,200797,,,Anne Marie Studer,U,,SUI,,6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,043,200152,14,,Gail Benedetti,R,,FRA,23.1485284052,200799,,,Christiane Spinoza,U,,FRA,23.1375770021,6-1 6-0,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,044,200804,,,Anna Dmitrieva,U,,URS,27.4606433949,200801,,,Kora Schediwy,U,,FRG,,2-6 6-2 8-6,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,045,200176,6,,Kerry Reid,R,,AUS,20.8049281314,200806,,,Birgitta Lindstrom,U,,FIN,20.3668720055,6-0 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,046,200184,,,Helen Cawley,U,,AUS,21.4264202601,200808,,,Laura Rossouw,U,,RSA,21.8672142368,6-3 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,047,200810,11,,Annette Du Plooy,U,,RSA,24.6707734428,200812,,,Odile De Roubin,U,,FRA,19.6605065024,6-3 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,048,200813,,,Ingrid Bentzer,R,,SWE,24.4736481862,200815,,,Roberta Beltrame,R,,ITA,30.1054072553,W/O,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,049,200819,,,Nicole Niox Chateau,U,,FRA,,200817,,,Judy Congdon,U,,GBR,19.4798083504,W/O,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,050,200824,12,,Galina Baksheeva,U,,URS,22.8747433265,200822,,,Ilse Buding,U,,FRG,,6-2 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,051,200168,,,Karen Krantzcke,R,,AUS,21.3169062286,200228,,,Olga Morozova,U,,URS,19.2580424367,6-3 4-6 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,052,200829,5,,Nancy Richey,R,,USA,25.7604380561,200214,,,Christina Sandberg,U,,SWE,20.3750855578,6-2 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,053,200145,,,Kerry Harris,U,,AUS,18.6858316222,200830,,,Chantal Langanay,U,,FRA,,W/O,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,054,200183,13,,Elena Subirats,U,,MEX,20.4079397673,200832,,,Daniele Bouteleux,U,,FRA,27.5154004107,6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,055,200838,,,Janine Mauroy Toffier,U,,FRA,,200836,,,Maria Chakarova,U,,BUL,30.1957563313,W/O,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,056,200159,4,,Rosie Casals,R,,USA,19.6933607118,200839,,,Ingrid Palmieri,U,,BEL,20.372347707,6-1 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,057,200843,,,Virginia Caceres,U,,PER,26.855578371,200842,,,Evelyne Terras,U,,FRA,23.6687200548,7-5 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,058,200845,9,,Patricia Walkden,U,,RSA,22.2861054073,200844,,,Martha Wolf Peterdy,U,,FRA,22.2368240931,W/O,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,059,200846,,,Michelle Rodriguez,U,,CHI,,200188,,,Helen Amos,U,,AUS,19.9069130732,W/O,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,060,200848,8,,Maria Bueno,R,,BRA,28.6269678303,200847,,,Dionissia Asteri,U,,GRE,,W/O,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,061,200849,,,Francesca Gordigiani,U,,ITA,,200138,,,Sandra Hole,U,,AUS,,W/O,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,062,200185,,,Lesley Hunt,U,,AUS,17.9958932238,200850,16,,Monique Di Maso,U,,ITA,23.0253251198,5-7 6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,063,200851,,,Margarita Zuleta,U,,ECU,,200852,,,Yulia Berberian,U,,BUL,23.6386036961,W/O,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,064,200190,1,,Billie Jean King,R,,USA,24.5119780972,200853,,,Anne Marie Rouchon,U,,FRA,30.3326488706,6-2 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,065,200193,2,,Ann Jones,L,,GBR,29.6098562628,200779,,,Maryna Proctor,U,,RSA,23.7125256674,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,066,200781,15,,Edda Buding,U,,FRG,31.5345653662,200784,,,Faye Moore,U,,AUS,24.4407939767,4-6 6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,067,200785,7,,Vlasta Kodesova,U,,CZE,24.1697467488,200788,,,Carol Ann Kalogeropoulos,U,,GRE,25.2128678987,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,068,200791,,,Rosy Darmon,U,,FRA,29.1800136893,200790,,,Paola Palacios,U,,COL,,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,069,200194,3,,Francoise Durr,R,,FRA,25.4209445585,200274,,,Julie Heldman,U,,USA,22.4668035592,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,070,200152,14,,Gail Benedetti,R,,FRA,23.1485284052,200804,,,Anna Dmitrieva,U,,URS,27.4606433949,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,071,200176,6,,Kerry Reid,R,,AUS,20.8049281314,200184,,,Helen Cawley,U,,AUS,21.4264202601,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,072,200810,11,,Annette Du Plooy,U,,RSA,24.6707734428,200813,,,Ingrid Bentzer,R,,SWE,24.4736481862,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,073,200824,12,,Galina Baksheeva,U,,URS,22.8747433265,200819,,,Nicole Niox Chateau,U,,FRA,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,074,200829,5,,Nancy Richey,R,,USA,25.7604380561,200168,,,Karen Krantzcke,R,,AUS,21.3169062286,6-4 5-7 8-6,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,075,200183,13,,Elena Subirats,U,,MEX,20.4079397673,200145,,,Kerry Harris,U,,AUS,18.6858316222,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,076,200159,4,,Rosie Casals,R,,USA,19.6933607118,200838,,,Janine Mauroy Toffier,U,,FRA,,W/O,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,077,200845,9,,Patricia Walkden,U,,RSA,22.2861054073,200843,,,Virginia Caceres,U,,PER,26.855578371,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,078,200848,8,,Maria Bueno,R,,BRA,28.6269678303,200846,,,Michelle Rodriguez,U,,CHI,,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,079,200185,,,Lesley Hunt,U,,AUS,17.9958932238,200849,,,Francesca Gordigiani,U,,ITA,,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,080,200190,1,,Billie Jean King,R,,USA,24.5119780972,200851,,,Margarita Zuleta,U,,ECU,,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,081,200193,2,,Ann Jones,L,,GBR,29.6098562628,200781,15,,Edda Buding,U,,FRG,31.5345653662,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,082,200785,7,,Vlasta Kodesova,U,,CZE,24.1697467488,200791,,,Rosy Darmon,U,,FRA,29.1800136893,7-9 6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,083,200152,14,,Gail Benedetti,R,,FRA,23.1485284052,200194,3,,Francoise Durr,R,,FRA,25.4209445585,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,084,200810,11,,Annette Du Plooy,U,,RSA,24.6707734428,200176,6,,Kerry Reid,R,,AUS,20.8049281314,5-7 6-4 8-6,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,085,200829,5,,Nancy Richey,R,,USA,25.7604380561,200824,12,,Galina Baksheeva,U,,URS,22.8747433265,10-8 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,086,200183,13,,Elena Subirats,U,,MEX,20.4079397673,200159,4,,Rosie Casals,R,,USA,19.6933607118,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,087,200848,8,,Maria Bueno,R,,BRA,28.6269678303,200845,9,,Patricia Walkden,U,,RSA,22.2861054073,2-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,088,200190,1,,Billie Jean King,R,,USA,24.5119780972,200185,,,Lesley Hunt,U,,AUS,17.9958932238,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,089,200193,2,,Ann Jones,L,,GBR,29.6098562628,200785,7,,Vlasta Kodesova,U,,CZE,24.1697467488,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,090,200810,11,,Annette Du Plooy,U,,RSA,24.6707734428,200152,14,,Gail Benedetti,R,,FRA,23.1485284052,8-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,091,200829,5,,Nancy Richey,R,,USA,25.7604380561,200183,13,,Elena Subirats,U,,MEX,20.4079397673,6-1 6-0,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,092,200190,1,,Billie Jean King,R,,USA,24.5119780972,200848,8,,Maria Bueno,R,,BRA,28.6269678303,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,093,200193,2,,Ann Jones,L,,GBR,29.6098562628,200810,11,,Annette Du Plooy,U,,RSA,24.6707734428,7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,094,200829,5,,Nancy Richey,R,,USA,25.7604380561,200190,1,,Billie Jean King,R,,USA,24.5119780972,2-6 6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-FRA-01A-1968,French Open,Clay,96,G,19680527,095,200829,5,,Nancy Richey,R,,USA,25.7604380561,200193,2,,Ann Jones,L,,GBR,29.6098562628,5-7 6-4 6-1,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,001,200193,4,,Ann Jones,L,,GBR,29.6865160849,200143,,,Kathleen Harter,U,,USA,21.659137577,6-0 4-6 6-4,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,002,201095,,,Jennifer Hoad,U,,AUS,34.3107460643,201094,,,Lucia Bassi,U,,ITA,31.5318275154,6-3 6-4,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,003,200782,,,Esme Emanuel,U,,RSA,21.029431896,200821,,,Monica Giorgi,U,,ITA,22.4722792608,6-3 6-2,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,004,200845,,,Patricia Walkden,U,,RSA,22.3627652293,200791,,,Rosy Darmon,U,,FRA,29.2566735113,3-6 6-0 8-6,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,005,200317,,,Helga Masthoff,U,,FRG,26.6173853525,200865,,,Heather Segal,U,,RSA,36.9171800137,6-2 7-5,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,006,200184,,,Helen Cawley,U,,AUS,21.5030800821,200228,,,Olga Morozova,U,,URS,19.3347022587,6-4 6-4,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,007,200311,,,Cecilia Martinez,U,,USA,21.0869267625,200183,,,Elena Subirats,U,,MEX,20.4845995893,6-8 6-3 6-4,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,008,200817,,,Judy Congdon,U,,GBR,19.5564681725,200799,,,Christiane Spinoza,U,,FRA,23.2142368241,6-2 4-6 6-4,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,009,200214,,,Christina Sandberg,U,,SWE,20.4517453799,200237,5,,Virginia Wade,R,,GBR,22.9568788501,6-4 6-3,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,010,201097,,,Marilyn Aschner,U,,USA,20.295687885,201096,,,Rita Lauder,U,,GBR,36.9418206708,7-5 6-4,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,011,200902,,,Corinne Molesworth,U,,GBR,19.0171115674,201098,,,Mimi Wheeler,U,,USA,,6-3 6-3,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,012,200220,,,Patti Hogan,U,,USA,18.507871321,201099,,,Jean Drysdale,U,,RSA,28.7529089665,6-1 6-2,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,013,200194,,,Francoise Durr,R,,FRA,25.4976043806,201100,,,Christiane Mercelis,U,,BEL,36.720054757,6-4 6-2,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,014,201101,,,Janice Wainwright,U,,GBR,21.0376454483,201102,,,Alice Tym,U,,USA,25.5879534565,6-2 6-4,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,015,201103,,,Pixie Lamm,U,,USA,,201104,,,Lidy Venneboer,U,,NED,21.8535249829,6-3 9-7,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,016,200176,,,Kerry Reid,R,,AUS,20.8815879535,200251,,,Kazuko Sawamatsu,U,,JPN,17.4674880219,6-2 6-2,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,017,200168,,,Karen Krantzcke,R,,AUS,21.3935660507,200801,,,Kora Schediwy,U,,FRG,,6-1 10-8,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,018,200159,,,Rosie Casals,R,,USA,19.7700205339,200862,,,Valerie Ziegenfuss,U,,USA,18.9869952088,6-3 7-5,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,019,200800,,,Frances Maclennan,U,,GBR,24.5119780972,200152,,,Gail Benedetti,R,,FRA,23.2251882272,6-4 6-4,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,020,200824,,,Galina Baksheeva,U,,URS,22.9514031485,200813,,,Ingrid Bentzer,R,,SWE,24.5503080082,11-9 6-2,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,021,200818,,,Faye Urban,U,,CAN,22.6557152635,201105,,,Margaret Lee,U,,GBR,,5-7 6-0 7-5,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,022,200274,,,Julie Heldman,U,,USA,22.5434633812,200831,,,Carmen Mandarino,U,,ESP,28.0219028063,6-1 6-4,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,023,200158,,,Carol Zeeman,U,,AUS,21.6783025325,201106,,,Betty Pratt,U,,USA,43.1923340178,8-6 6-4,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,024,200848,6,,Maria Bueno,R,,BRA,28.7036276523,200789,,,Lea Pericoli,U,,ITA,33.2594113621,W/O,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,025,201107,,,Nadine Netter,U,,USA,23.6605065024,200839,,,Ingrid Palmieri,U,,BEL,20.4490075291,6-2 6-3,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,026,200897,,,Heide Schildknecht,U,,GER,25.8726899384,201108,,,Florence De La Courtie Billat,U,,FRA,35.6112251882,1-6 8-6 6-1,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,027,201110,,,Bernice Vukovich,U,,RSA,30.4777549624,201109,,,Pauline Roberts,U,,GBR,,7-5 6-2,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,028,200860,,,Kristy Pigeon,U,,USA,17.8590006845,200850,,,Monique Di Maso,U,,ITA,23.1019849418,6-4 3-6 7-5,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,029,200180,,,Astrid Suurbeck,U,,NED,21.3552361396,201111,,,Lorna Greville Collins,U,,GBR,35.4715947981,6-3 7-5,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,030,200211,,,Winnie Wooldridge,U,,GBR,21.4318959617,200901,,,Nell Truman,U,,GBR,22.5325119781,6-4 4-6 6-3,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,031,200188,,,Helen Amos,U,,AUS,19.9835728953,201112,,,Wendy Hall,U,,GBR,,3-6 6-4 6-3,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,032,200829,3,,Nancy Richey,R,,USA,25.8370978782,200779,,,Maryna Proctor,U,,RSA,23.7891854894,6-1 6-3,3,R128,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,033,200190,1,,Billie Jean King,R,,USA,24.5886379192,200870,,,Peaches Bartkowicz,U,,USA,19.189596167,7-5 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,034,201090,,,Stephanie Defina,L,,USA,22.2970568104,200808,,,Laura Rossouw,U,,RSA,21.9438740589,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,035,200784,,,Faye Moore,U,,AUS,24.5174537988,200185,,,Lesley Hunt,U,,AUS,18.0725530459,2-6 6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,036,200884,,,Marijke Schaar,U,,NED,23.613963039,201091,,,Christine Janes,U,,GBR,27.4360027379,6-4 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,037,200129,8,,Lesley Bowrey,R,,AUS,25.8562628337,200823,,,Eva Lundquist,U,,SWE,23.5208761123,6-2 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,038,200877,,,Helga Hosl,U,,GER,28.3915126626,200849,,,Francesca Gordigiani,U,,ITA,,6-1 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,039,201092,,,Joyce Williams,U,,GBR,23.923340178,200785,,,Vlasta Kodesova,U,,CZE,24.2464065708,6-2 7-5,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,040,200835,,,Janine Lieffrig,U,,RSA,30.2012320329,201093,,,Alex Cowie,U,,GBR,21.1225188227,10-8 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,041,200193,4,,Ann Jones,L,,GBR,29.6865160849,201095,,,Jennifer Hoad,U,,AUS,34.3107460643,6-0 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,042,200845,,,Patricia Walkden,U,,RSA,22.3627652293,200782,,,Esme Emanuel,U,,RSA,21.029431896,6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,043,200184,,,Helen Cawley,U,,AUS,21.5030800821,200317,,,Helga Masthoff,U,,FRG,26.6173853525,3-6 8-6 8-6,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,044,200311,,,Cecilia Martinez,U,,USA,21.0869267625,200817,,,Judy Congdon,U,,GBR,19.5564681725,6-1 7-5,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,045,200214,,,Christina Sandberg,U,,SWE,20.4517453799,201097,,,Marilyn Aschner,U,,USA,20.295687885,6-2 7-5,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,046,200220,,,Patti Hogan,U,,USA,18.507871321,200902,,,Corinne Molesworth,U,,GBR,19.0171115674,3-6 6-3 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,047,200194,,,Francoise Durr,R,,FRA,25.4976043806,201101,,,Janice Wainwright,U,,GBR,21.0376454483,6-0 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,048,200176,,,Kerry Reid,R,,AUS,20.8815879535,201103,,,Pixie Lamm,U,,USA,,6-4 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,049,200159,,,Rosie Casals,R,,USA,19.7700205339,200168,,,Karen Krantzcke,R,,AUS,21.3935660507,9-7 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,050,200824,,,Galina Baksheeva,U,,URS,22.9514031485,200800,,,Frances Maclennan,U,,GBR,24.5119780972,7-5 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,051,200274,,,Julie Heldman,U,,USA,22.5434633812,200818,,,Faye Urban,U,,CAN,22.6557152635,5-7 7-5 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,052,200848,6,,Maria Bueno,R,,BRA,28.7036276523,200158,,,Carol Zeeman,U,,AUS,21.6783025325,6-4 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,053,200897,,,Heide Schildknecht,U,,GER,25.8726899384,201107,,,Nadine Netter,U,,USA,23.6605065024,6-2 8-6,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,054,200860,,,Kristy Pigeon,U,,USA,17.8590006845,201110,,,Bernice Vukovich,U,,RSA,30.4777549624,6-1 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,055,200211,,,Winnie Wooldridge,U,,GBR,21.4318959617,200180,,,Astrid Suurbeck,U,,NED,21.3552361396,6-0 4-6 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,056,200829,3,,Nancy Richey,R,,USA,25.8370978782,200188,,,Helen Amos,U,,AUS,19.9835728953,6-1 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,057,201113,,,Shirley Brasher,U,,GBR,34.0314852841,200803,,,Raquel Giscafre,U,,ARG,19.1101984942,4-6 6-4 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,058,201115,,,Victoria Rogers,U,,USA,,201114,,,Robin Lloyd,U,,GBR,24.3394934976,6-1 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,059,200175,,,Mary Ann Beattie,U,,USA,21.5797399042,201116,,,Maria Teresa Riedl,U,,ITA,,6-1 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,060,200160,7,,Judy Dalton,U,,AUS,30.5325119781,200783,,,Jitka Volavkova,U,,TCH,,6-0 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,061,200867,,,Kerstin Seelbach,U,,FRG,24.9527720739,201117,,,Margaret Harris,R,,AUS,23.2744695414,6-3 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,062,200781,,,Edda Buding,U,,FRG,31.6112251882,200145,,,Kerry Harris,U,,AUS,18.7624914442,6-1 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,063,200151,,,Ada Bakker,U,,NED,20.2108145106,200842,,,Evelyne Terras,U,,FRA,23.7453798768,4-6 6-3 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,064,200144,2,,Margaret Court,R,,AUS,25.9411362081,200810,,,Annette Du Plooy,U,,RSA,24.7474332649,6-1 6-0,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,065,200190,1,,Billie Jean King,R,,USA,24.5886379192,201090,,,Stephanie Defina,L,,USA,22.2970568104,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,066,200784,,,Faye Moore,U,,AUS,24.5174537988,200884,,,Marijke Schaar,U,,NED,23.613963039,2-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,067,200129,8,,Lesley Bowrey,R,,AUS,25.8562628337,200877,,,Helga Hosl,U,,GER,28.3915126626,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,068,201092,,,Joyce Williams,U,,GBR,23.923340178,200835,,,Janine Lieffrig,U,,RSA,30.2012320329,7-5 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,069,200193,4,,Ann Jones,L,,GBR,29.6865160849,200845,,,Patricia Walkden,U,,RSA,22.3627652293,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,070,200184,,,Helen Cawley,U,,AUS,21.5030800821,200311,,,Cecilia Martinez,U,,USA,21.0869267625,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,071,200220,,,Patti Hogan,U,,USA,18.507871321,200214,,,Christina Sandberg,U,,SWE,20.4517453799,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,072,200194,,,Francoise Durr,R,,FRA,25.4976043806,200176,,,Kerry Reid,R,,AUS,20.8815879535,6-3 8-6,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,073,200159,,,Rosie Casals,R,,USA,19.7700205339,200824,,,Galina Baksheeva,U,,URS,22.9514031485,8-6 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,074,200848,6,,Maria Bueno,R,,BRA,28.7036276523,200274,,,Julie Heldman,U,,USA,22.5434633812,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,075,200860,,,Kristy Pigeon,U,,USA,17.8590006845,200897,,,Heide Schildknecht,U,,GER,25.8726899384,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,076,200829,3,,Nancy Richey,R,,USA,25.8370978782,200211,,,Winnie Wooldridge,U,,GBR,21.4318959617,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,077,201113,,,Shirley Brasher,U,,GBR,34.0314852841,201115,,,Victoria Rogers,U,,USA,,6-2 9-7,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,078,200160,7,,Judy Dalton,U,,AUS,30.5325119781,200175,,,Mary Ann Beattie,U,,USA,21.5797399042,6-2 8-6,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,079,200781,,,Edda Buding,U,,FRG,31.6112251882,200867,,,Kerstin Seelbach,U,,FRG,24.9527720739,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,080,200144,2,,Margaret Court,R,,AUS,25.9411362081,200151,,,Ada Bakker,U,,NED,20.2108145106,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,081,200190,1,,Billie Jean King,R,,USA,24.5886379192,200784,,,Faye Moore,U,,AUS,24.5174537988,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,082,200129,8,,Lesley Bowrey,R,,AUS,25.8562628337,201092,,,Joyce Williams,U,,GBR,23.923340178,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,083,200193,4,,Ann Jones,L,,GBR,29.6865160849,200184,,,Helen Cawley,U,,AUS,21.5030800821,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,084,200194,,,Francoise Durr,R,,FRA,25.4976043806,200220,,,Patti Hogan,U,,USA,18.507871321,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,085,200848,6,,Maria Bueno,R,,BRA,28.7036276523,200159,,,Rosie Casals,R,,USA,19.7700205339,5-7 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,086,200829,3,,Nancy Richey,R,,USA,25.8370978782,200860,,,Kristy Pigeon,U,,USA,17.8590006845,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,087,200160,7,,Judy Dalton,U,,AUS,30.5325119781,201113,,,Shirley Brasher,U,,GBR,34.0314852841,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,088,200144,2,,Margaret Court,R,,AUS,25.9411362081,200781,,,Edda Buding,U,,FRG,31.6112251882,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,089,200190,1,,Billie Jean King,R,,USA,24.5886379192,200129,8,,Lesley Bowrey,R,,AUS,25.8562628337,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,090,200193,4,,Ann Jones,L,,GBR,29.6865160849,200194,,,Francoise Durr,R,,FRA,25.4976043806,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,091,200829,3,,Nancy Richey,R,,USA,25.8370978782,200848,6,,Maria Bueno,R,,BRA,28.7036276523,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,092,200160,7,,Judy Dalton,U,,AUS,30.5325119781,200144,2,,Margaret Court,R,,AUS,25.9411362081,4-6 8-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,093,200190,1,,Billie Jean King,R,,USA,24.5886379192,200193,4,,Ann Jones,L,,GBR,29.6865160849,4-6 7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,094,200160,7,,Judy Dalton,U,,AUS,30.5325119781,200829,3,,Nancy Richey,R,,USA,25.8370978782,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-GBR-01A-1968,Wimbledon,Grass,96,G,19680624,095,200190,1,,Billie Jean King,R,,USA,24.5886379192,200160,7,,Judy Dalton,U,,AUS,30.5325119781,9-7 7-5,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,001,200190,1,,Billie Jean King,R,,USA,24.7693360712,201213,,,Vija Vuskalns,U,,USA,,6-1 6-0,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,002,201102,,,Alice Tym,U,,USA,25.7686516085,201214,,,Farel Footman,U,,USA,,6-0 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,003,200876,,,Denise Carter Triolo,U,,USA,18.0807665982,201215,,,Connie Capozzi,U,,USA,17.2758384668,6-1 7-5,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,004,201103,,,Pixie Lamm,U,,USA,,201216,,,Marjorie Gengler,U,,USA,17.325119781,3-6 9-7 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,005,200860,8,,Kristy Pigeon,U,,USA,18.0396988364,201217,,,Peggy Moore,U,,USA,,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,006,200779,,,Maryna Proctor,U,,RSA,23.9698836413,201218,,,Tish Adams,U,,USA,,6-4 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,007,201219,,,Jade Schiffman,U,,USA,,201220,,,Carole Herrick,U,,USA,,5-7 6-4 7-5,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,008,200143,,,Kathleen Harter,U,,USA,21.839835729,201107,,,Nadine Netter,U,,USA,23.8412046543,6-4 4-6 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,009,200144,4,,Margaret Court,R,,AUS,26.12183436,201221,,,Emilie Fisher,U,,USA,,6-0 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,010,200274,,,Julie Heldman,U,,USA,22.7241615332,201222,,,Diane Matzner,U,,USA,,6-2 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,011,200298,,,Laura Du Pont,U,,USA,19.3210130048,201223,,,Mary Lowdon,U,,USA,,7-5 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,012,200194,,,Francoise Durr,R,,FRA,25.6783025325,200862,,,Valerie Ziegenfuss,U,,USA,19.1676933607,6-0 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,013,200848,5,,Maria Bueno,R,,BRA,28.8843258042,201123,,,Stephanie Grant,U,,USA,18.1574264203,6-1 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,014,200311,,,Cecilia Martinez,U,,USA,21.2676249144,201224,,,Ann Moore,U,,USA,,6-4 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,015,200220,,,Patti Hogan,U,,USA,18.688569473,201225,,,Tina Lyman,U,,USA,,11-9 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,016,201226,,,Maricaye Christenson,U,,USA,,201128,,,Jane Ohara,U,,CAN,17.1006160164,2-6 6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,017,200159,,,Rosie Casals,R,,USA,19.9507186858,201097,,,Marilyn Aschner,U,,USA,20.476386037,6-3 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,018,201106,,,Betty Pratt,U,,USA,43.3730321697,200875,,,Pamela Austin,U,,USA,18.4668035592,7-5 3-6 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,019,201131,,,Patricia Cody,U,,USA,28.6598220397,201227,,,Roylee Bailey,U,,USA,19.2607802875,3-6 6-1 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,020,200237,6,,Virginia Wade,R,,GBR,23.1375770021,201090,,,Stephanie Defina,L,,USA,22.4777549624,6-3 3-6 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,021,200866,,,Linda Tuero,U,,USA,17.8562628337,201228,,,Nancy Reed,R,,USA,35.356605065,6-1 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,022,200168,,,Karen Krantzcke,R,,AUS,21.5742642026,201229,,,Louise Gonnerman,U,,USA,21.4428473648,6-1 6-0,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,023,200800,,,Frances Maclennan,U,,GBR,24.6926762491,201230,,,Mimi Kanarek,U,,USA,29.0321697467,6-4 4-6 11-9,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,024,200160,3,,Judy Dalton,U,,AUS,30.71321013,201145,,,Judy Dixon,U,,USA,19.0362765229,6-0 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,025,201231,,,Raymonde Jones,U,,USA,,201232,,,Carol Hunter,U,,USA,,6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,026,200879,,,Wendy Overton,U,,USA,21.4154688569,201233,,,Joyce Davenport,U,,USA,26.5133470226,6-3 7-5,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,027,200870,,,Peaches Bartkowicz,U,,USA,19.370294319,201126,,,Carole Graebner,U,,USA,25.18275154,6-1 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,028,201092,,,Joyce Williams,U,,GBR,24.1040383299,200175,7,,Mary Ann Beattie,U,,USA,21.7604380561,7-5 2-6 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,029,201115,,,Victoria Rogers,U,,USA,,200886,,,Becky Vest,U,,USA,,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,030,200808,,,Laura Rossouw,U,,RSA,22.1245722108,200799,,,Christiane Spinoza,U,,FRA,23.394934976,W/O,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,031,201234,,,Pat Stewart,U,,USA,34.0287474333,201235,,,Jane Kincaid,U,,USA,17.5222450376,6-4 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,032,200193,2,,Ann Jones,L,,GBR,29.8672142368,200283,,,Pam Teeguarden,U,,USA,17.3689253936,6-3 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,033,200190,1,,Billie Jean King,R,,USA,24.7693360712,201102,,,Alice Tym,U,,USA,25.7686516085,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,034,200876,,,Denise Carter Triolo,U,,USA,18.0807665982,201103,,,Pixie Lamm,U,,USA,,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,035,200779,,,Maryna Proctor,U,,RSA,23.9698836413,200860,8,,Kristy Pigeon,U,,USA,18.0396988364,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,036,200143,,,Kathleen Harter,U,,USA,21.839835729,201219,,,Jade Schiffman,U,,USA,,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,037,200144,4,,Margaret Court,R,,AUS,26.12183436,200274,,,Julie Heldman,U,,USA,22.7241615332,4-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,038,200194,,,Francoise Durr,R,,FRA,25.6783025325,200298,,,Laura Du Pont,U,,USA,19.3210130048,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,039,200848,5,,Maria Bueno,R,,BRA,28.8843258042,200311,,,Cecilia Martinez,U,,USA,21.2676249144,2-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,040,200220,,,Patti Hogan,U,,USA,18.688569473,201226,,,Maricaye Christenson,U,,USA,,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,041,200159,,,Rosie Casals,R,,USA,19.9507186858,201106,,,Betty Pratt,U,,USA,43.3730321697,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,042,200237,6,,Virginia Wade,R,,GBR,23.1375770021,201131,,,Patricia Cody,U,,USA,28.6598220397,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,043,200866,,,Linda Tuero,U,,USA,17.8562628337,200168,,,Karen Krantzcke,R,,AUS,21.5742642026,6-4 1-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,044,200160,3,,Judy Dalton,U,,AUS,30.71321013,200800,,,Frances Maclennan,U,,GBR,24.6926762491,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,045,200879,,,Wendy Overton,U,,USA,21.4154688569,201231,,,Raymonde Jones,U,,USA,,6-4 13-15 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,046,200870,,,Peaches Bartkowicz,U,,USA,19.370294319,201092,,,Joyce Williams,U,,GBR,24.1040383299,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,047,201115,,,Victoria Rogers,U,,USA,,200808,,,Laura Rossouw,U,,RSA,22.1245722108,11-9 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,048,200193,2,,Ann Jones,L,,GBR,29.8672142368,201234,,,Pat Stewart,U,,USA,34.0287474333,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,049,200190,1,,Billie Jean King,R,,USA,24.7693360712,200876,,,Denise Carter Triolo,U,,USA,18.0807665982,8-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,050,200779,,,Maryna Proctor,U,,RSA,23.9698836413,200143,,,Kathleen Harter,U,,USA,21.839835729,2-6 7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,051,200144,4,,Margaret Court,R,,AUS,26.12183436,200194,,,Francoise Durr,R,,FRA,25.6783025325,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,052,200848,5,,Maria Bueno,R,,BRA,28.8843258042,200220,,,Patti Hogan,U,,USA,18.688569473,0-6 6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,053,200237,6,,Virginia Wade,R,,GBR,23.1375770021,200159,,,Rosie Casals,R,,USA,19.9507186858,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,054,200160,3,,Judy Dalton,U,,AUS,30.71321013,200866,,,Linda Tuero,U,,USA,17.8562628337,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,055,200870,,,Peaches Bartkowicz,U,,USA,19.370294319,200879,,,Wendy Overton,U,,USA,21.4154688569,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,056,200193,2,,Ann Jones,L,,GBR,29.8672142368,201115,,,Victoria Rogers,U,,USA,,6-0 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,057,200190,1,,Billie Jean King,R,,USA,24.7693360712,200779,,,Maryna Proctor,U,,RSA,23.9698836413,6-3 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,058,200848,5,,Maria Bueno,R,,BRA,28.8843258042,200144,4,,Margaret Court,R,,AUS,26.12183436,7-5 2-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,059,200237,6,,Virginia Wade,R,,GBR,23.1375770021,200160,3,,Judy Dalton,U,,AUS,30.71321013,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,060,200193,2,,Ann Jones,L,,GBR,29.8672142368,200870,,,Peaches Bartkowicz,U,,USA,19.370294319,10-8 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,061,200190,1,,Billie Jean King,R,,USA,24.7693360712,200848,5,,Maria Bueno,R,,BRA,28.8843258042,3-6 6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,062,200237,6,,Virginia Wade,R,,GBR,23.1375770021,200193,2,,Ann Jones,L,,GBR,29.8672142368,7-5 6-1,3,SF,,,,,,,,,,,,,,,,,,,,,,,
+1968-W-SL-USA-01A-1968,US Open,Grass,64,G,19680829,063,200237,6,,Virginia Wade,R,,GBR,23.1375770021,200190,1,,Billie Jean King,R,,USA,24.7693360712,6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,,,,
+1968-D001,Fed Cup WG SF: AUS vs GBR,Clay,4,D,19680525,1,200176,,,Kerry Reid,R,,AUS,20.7994524298,201091,,,Christine Janes,U,,GBR,27.3538672142,7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D001,Fed Cup WG SF: AUS vs GBR,Clay,4,D,19680525,2,200144,,,Margaret Court,R,,AUS,25.8590006845,200237,,,Virginia Wade,R,,GBR,22.8747433265,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D002,Fed Cup WG R2: URS vs ITA,Clay,4,D,19680522,1,200824,,,Galina Baksheeva,U,,URS,22.8610540726,200789,,,Lea Pericoli,U,,ITA,33.1690622861,7-5 8-6,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D002,Fed Cup WG R2: URS vs ITA,Clay,4,D,19680522,2,200804,,,Anna Dmitrieva,U,,URS,27.446954141,201116,,,Maria Teresa Riedl,U,,ITA,,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D003,Fed Cup WG R1: ITA vs MEX,Clay,4,D,19680521,1,200183,,,Elena Subirats,U,,MEX,20.3915126626,200789,,,Lea Pericoli,U,,ITA,33.1663244353,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D003,Fed Cup WG R1: ITA vs MEX,Clay,4,D,19680521,2,201116,,,Maria Teresa Riedl,U,,ITA,,200795,,,Patricia Montano,U,,MEX,15.7864476386,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D004,Fed Cup WG F: AUS vs NED,Clay,4,D,19680521,1,200176,,,Kerry Reid,R,,AUS,20.7885010267,200884,,,Marijke Schaar,U,,NED,23.5208761123,4-6 7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D004,Fed Cup WG F: AUS vs NED,Clay,4,D,19680521,2,200144,,,Margaret Court,R,,AUS,25.8480492813,200180,,,Astrid Suurbeck,U,,NED,21.2621492129,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D005,Fed Cup WG R1: NED vs FIN,Clay,4,D,19680521,1,200884,,,Marijke Schaar,U,,NED,23.5208761123,200806,,,Birgitta Lindstrom,U,,FIN,20.3504449008,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D005,Fed Cup WG R1: NED vs FIN,Clay,4,D,19680521,2,201104,,,Lidy Venneboer,U,,NED,21.7604380561,200792,,,Christina Lindstrom,U,,FIN,22.5900068446,4-6 6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D006,Fed Cup WG R2: AUS vs BRA,Clay,4,D,19680522,1,200144,,,Margaret Court,R,,AUS,25.8507871321,200834,,,Suzana Gesteira,U,,BRA,20.605065024,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D006,Fed Cup WG R2: AUS vs BRA,Clay,4,D,19680522,2,200176,,,Kerry Reid,R,,AUS,20.7912388775,200828,,,Maria Cristina Borba Dias,U,,BRA,16.9062286105,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D007,Fed Cup WG R2: RSA vs CAN,Clay,4,D,19680522,1,200810,,,Annette Du Plooy,U,,RSA,24.6570841889,200818,,,Faye Urban,U,,CAN,22.5653661875,3-6 6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D007,Fed Cup WG R2: RSA vs CAN,Clay,4,D,19680522,2,200779,,,Maryna Proctor,U,,RSA,23.6988364134,201139,,,Vicky Berner,U,,CAN,22.8227241615,9-7 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D008,Fed Cup WG R1: POL vs GRE,Clay,4,D,19680521,1,200859,,,Danuta Wieczorek,U,,POL,19.0663928816,200847,,,Dionissia Asteri,U,,GRE,,3-6 6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D008,Fed Cup WG R1: POL vs GRE,Clay,4,D,19680521,2,212489,,,Barbara Olszewska,,,POL,24.476386037,200788,,,Carol Ann Kalogeropoulos,U,,GRE,25.196440794,4-6 6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D010,Fed Cup WG QF: GBR vs URS,Clay,4,D,19680524,1,201091,,,Christine Janes,U,,GBR,27.3511293634,200804,,,Anna Dmitrieva,U,,URS,27.4524298426,1-6 6-4 9-7,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D010,Fed Cup WG QF: GBR vs URS,Clay,4,D,19680524,2,200237,,,Virginia Wade,R,,GBR,22.8720054757,200824,,,Galina Baksheeva,U,,URS,22.8665297741,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D011,Fed Cup WG R1: BUL vs CHI,Clay,4,D,19680521,1,200846,,,Michelle Rodriguez,U,,CHI,,200798,,,Lubka Radkova,U,,BUL,23.1567419576,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D011,Fed Cup WG R1: BUL vs CHI,Clay,4,D,19680521,2,200836,,,Maria Chakarova,U,,BUL,30.1793292266,212522,,,Margarita De Zuleta,,,CHI,39.1348391513,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D012,Fed Cup WG R1: URS vs BEL,Clay,4,D,19680521,1,200824,,,Galina Baksheeva,U,,URS,22.8583162218,200839,,,Ingrid Palmieri,U,,BEL,20.3559206023,2-6 7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D012,Fed Cup WG R1: URS vs BEL,Clay,4,D,19680521,2,200804,,,Anna Dmitrieva,U,,URS,27.4442162902,201100,,,Christiane Mercelis,U,,BEL,36.6269678303,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D013,Fed Cup WG QF: FRA vs USA,Clay,4,D,19680524,1,200791,,,Rosy Darmon,U,,FRA,29.1718001369,200175,,,Mary Ann Beattie,U,,USA,21.4948665298,7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D013,Fed Cup WG QF: FRA vs USA,Clay,4,D,19680524,2,200829,,,Nancy Richey,R,,USA,25.7522245038,200850,,,Monique Di Maso,U,,ITA,23.0171115674,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D014,Fed Cup WG R2: FRA vs POR,Clay,4,D,19680523,1,200850,,,Monique Di Maso,U,,ITA,23.0143737166,212527,,,Peggy Brixhe,,,POR,43.112936345,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D014,Fed Cup WG R2: FRA vs POR,Clay,4,D,19680523,2,200791,,,Rosy Darmon,U,,FRA,29.1690622861,203690,,,Leonora Peralta,U,,POR,20.3997262149,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D015,Fed Cup WG QF: AUS vs RSA,Clay,4,D,19680524,1,200144,,,Margaret Court,R,,AUS,25.8562628337,200810,,,Annette Du Plooy,U,,RSA,24.6625598905,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D015,Fed Cup WG QF: AUS vs RSA,Clay,4,D,19680524,2,200176,,,Kerry Reid,R,,AUS,20.7967145791,200779,,,Maryna Proctor,U,,RSA,23.704312115,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D016,Fed Cup WG QF: NED vs BUL,Clay,4,D,19680524,1,200180,,,Astrid Suurbeck,U,,NED,21.2703627652,200798,,,Lubka Radkova,U,,BUL,23.1649555099,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D016,Fed Cup WG QF: NED vs BUL,Clay,4,D,19680524,2,200884,,,Marijke Schaar,U,,NED,23.5290896646,200836,,,Maria Chakarova,U,,BUL,30.1875427789,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D017,Fed Cup WG R2: TCH vs GBR,Clay,4,D,19680522,1,201091,,,Christine Janes,U,,GBR,27.3456536619,200783,,,Jitka Volavkova,U,,TCH,,6-4 4-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D017,Fed Cup WG R2: TCH vs GBR,Clay,4,D,19680522,2,200785,,,Vlasta Kodesova,U,,CZE,24.1560574949,200237,,,Virginia Wade,R,,GBR,22.8665297741,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D018,Fed Cup WG R1: GBR vs SWE,Clay,4,D,19680521,1,201091,,,Christine Janes,U,,GBR,27.3429158111,200813,,,Ingrid Bentzer,R,,SWE,24.4572210815,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D018,Fed Cup WG R1: GBR vs SWE,Clay,4,D,19680521,2,200237,,,Virginia Wade,R,,GBR,22.8637919233,200214,,,Christina Sandberg,U,,SWE,20.3586584531,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D019,Fed Cup WG SF: NED vs USA,Clay,4,D,19680525,1,200829,,,Nancy Richey,R,,USA,25.7549623546,201104,,,Lidy Venneboer,U,,NED,21.7713894593,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D019,Fed Cup WG SF: NED vs USA,Clay,4,D,19680525,2,200884,,,Marijke Schaar,U,,NED,23.5318275154,200175,,,Mary Ann Beattie,U,,USA,21.4976043806,7-5 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D020,Fed Cup WG R1: TCH vs NOR,Clay,4,D,19680521,1,200785,,,Vlasta Kodesova,U,,CZE,24.1533196441,212426,,,Kirsten Robsahm,,,NOR,23.0554414784,6-0 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D020,Fed Cup WG R1: TCH vs NOR,Clay,4,D,19680521,2,200783,,,Jitka Volavkova,U,,TCH,,212324,,,Ellen Grindvold,,,NOR,21.8097193703,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D021,Fed Cup WG R2: NED vs POL,Clay,4,D,19680523,1,200884,,,Marijke Schaar,U,,NED,23.5263518138,212489,,,Barbara Olszewska,,,POL,24.4818617385,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D021,Fed Cup WG R2: NED vs POL,Clay,4,D,19680523,2,200859,,,Danuta Wieczorek,U,,POL,19.0718685832,200180,,,Astrid Suurbeck,U,,NED,21.2676249144,4-6 6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D022,Fed Cup WG R2: SUI vs USA,Clay,4,D,19680523,1,200829,,,Nancy Richey,R,,USA,25.749486653,200797,,,Anne Marie Studer,U,,SUI,,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1968-D022,Fed Cup WG R2: SUI vs USA,Clay,4,D,19680523,2,200175,,,Mary Ann Beattie,U,,USA,21.492128679,200794,,,Marianne Kindler,U,,SUI,19.8521560575,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
