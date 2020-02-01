@@ -1,16 +1,16 @@
-tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,winner_rank,winner_rank_points,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,loser_rank,loser_rank_points,score,best_of,round
-1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,001,200809,,,Johanne Venturino,U,,FRA,,,,200271,,,Margareta Forsgardh,U,,SWE,,,,1-6 6-1 6-2,3,Q1
-1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,002,200869,,,Maria Eugenia Guzman,U,,ECU,,,,200893,,,Francoise Repoux,U,,FRA,,,,6-2 6-4,3,Q1
-1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,003,200799,,Q,Christiane Spinoza,U,,FRA,,,,201097,,Q,Marilyn Aschner,U,,USA,,,,6-1 6-3,3,Q1
-1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,004,200873,,Q,Ana Maria Arias,U,,CHI,,,,200880,,Q,Kimiyo Yagahara,U,,JPN,,,,6-4 6-4,3,Q1
-1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,005,200805,,,Aline Nenot,U,,FRA,,,,200807,,,Ulla Sandulf,U,,SWE,,,,6-2 6-0,3,Q1
-1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,006,200803,,,Raquel Giscafre,U,,ARG,,,,200778,,,Irene Fraisse,U,,FRA,,,,6-1 5-7 6-2,3,Q1
-1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,007,200856,,,Ana Cavadini,U,,ARG,,,,203685,,,Jacqueline Le Boubennec,U,,FRA,,,,6-4 6-3,3,Q1
-1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,008,200759,,,Katja Ebbinghaus,U,,FRG,,,,200811,,,Junko Sawamatsu,U,,JPN,,,,7-5 7-5,3,Q2
-1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,009,200853,,,Anne Marie Rouchon,U,,FRA,,,,200858,,,Dorothy Knode,U,,USA,,,,8-6 6-3,3,Q2
-1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,010,200869,,,Maria Eugenia Guzman,U,,ECU,,,,200809,,,Johanne Venturino,U,,FRA,,,,6-3 7-5,3,Q2
-1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,011,200873,,Q,Ana Maria Arias,U,,CHI,,,,200799,,Q,Christiane Spinoza,U,,FRA,,,,4-6 6-3 6-4,3,Q2
-1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,012,200803,,,Raquel Giscafre,U,,ARG,,,,200805,,,Aline Nenot,U,,FRA,,,,6-1 6-1,3,Q2
-1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,013,200171,,,Janet Young,U,,AUS,,,,200856,,,Ana Cavadini,U,,ARG,,,,9-7 9-7,3,Q2
-1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,014,200872,,,Nicole Bimes,U,,FRA,,,,200861,,,Yaeko Matsuda,U,,JPN,,,,6-4 6-1,3,Q2
-1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,015,200862,,,Valerie Ziegenfuss,U,,USA,,,,200800,,,Frances Maclennan,U,,GBR,,,,W/O,3,Q2
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,001,200809,,,Johanne Venturino,U,,FRA,23.3976728268,200271,,,Margareta Forsgardh,U,,SWE,18.1848049281,1-6 6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,002,200869,,,Maria Eugenia Guzman,U,,ECU,23.7125256674,200893,,,Francoise Repoux,U,,FRA,33.5906913073,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,003,200799,,Q,Christiane Spinoza,U,,FRA,24.1341546886,201097,,Q,Marilyn Aschner,U,,USA,21.2156057495,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,004,200873,,Q,Ana Maria Arias,U,,CHI,22.8391512663,200880,,Q,Kimiyo Yagahara,U,,JPN,25.1088295688,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,005,200805,,,Aline Nenot,U,,FRA,,200807,,,Ulla Sandulf,U,,SWE,26.3189596167,6-2 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,006,200803,,,Raquel Giscafre,U,,ARG,20.0301163587,200778,,,Irene Fraisse,U,,FRA,32.9062286105,6-1 5-7 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,007,200856,,,Ana Cavadini,U,,ARG,18.6255989049,203685,,,Jacqueline Le Boubennec,U,,FRA,27.189596167,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,008,200759,,,Katja Ebbinghaus,U,,FRG,20.9828884326,200811,,,Junko Sawamatsu,U,,JPN,21.1252566735,7-5 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
+1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,009,200853,,,Anne Marie Rouchon,U,,FRA,31.3292265572,200858,,,Dorothy Knode,U,,USA,43.8959616701,8-6 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
+1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,010,200869,,,Maria Eugenia Guzman,U,,ECU,23.7125256674,200809,,,Johanne Venturino,U,,FRA,23.3976728268,6-3 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
+1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,011,200873,,Q,Ana Maria Arias,U,,CHI,22.8391512663,200799,,Q,Christiane Spinoza,U,,FRA,24.1341546886,4-6 6-3 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
+1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,012,200803,,,Raquel Giscafre,U,,ARG,20.0301163587,200805,,,Aline Nenot,U,,FRA,,6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
+1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,013,200171,,,Janet Young,U,,AUS,17.5934291581,200856,,,Ana Cavadini,U,,ARG,18.6255989049,9-7 9-7,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
+1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,014,200872,,,Nicole Bimes,U,,FRA,20.6844626968,200861,,,Yaeko Matsuda,U,,JPN,,6-4 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
+1969-W-SL-FRA-01A-1969,French Open,Clay,64,G,19690526,015,200862,,,Valerie Ziegenfuss,U,,USA,19.9069130732,200800,,,Frances Maclennan,U,,GBR,25.4318959617,W/O,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
