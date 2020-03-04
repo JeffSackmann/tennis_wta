@@ -2644,3 +2644,133 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-WET-CHN-01A-2015,Zhuhai,Hard,12,P,20151102,13,200748,1,,Venus Williams,R,185,USA,35.3757700205,201311,4,,Roberta Vinci,R,163,ITA,32.7036276523,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,11,3091,15,2655
 2015-W-WET-CHN-01A-2015,Zhuhai,Hard,12,P,20151102,14,201662,3,,Karolina Pliskova,R,184,CZE,23.6167008898,202494,8,,Elina Svitolina,R,174,UKR,21.1389459274,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,13,2955,20,2410
 2015-W-WET-CHN-01A-2015,Zhuhai,Hard,12,P,20151102,15,200748,1,,Venus Williams,R,185,USA,35.3757700205,201662,3,,Karolina Pliskova,R,184,CZE,23.6167008898,7-5 7-6(6),3,F,,,,,,,,,,,,,,,,,,,,11,3091,13,2955
+2015-D001,Fed Cup WG F: CZE vs RUS,Hard,4,D,20151114,1,201520,,,Petra Kvitova,L,183,CZE,25.6865160849,201499,,,Anastasia Pavlyuchenkova,R,177,RUS,24.3668720055,2-6 6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,6,4220,28,1840
+2015-D001,Fed Cup WG F: CZE vs RUS,Hard,4,D,20151114,2,201345,,,Maria Sharapova,R,,RUS,28.5722108145,201662,,,Karolina Pliskova,R,184,CZE,23.6495550992,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,4,5011,11,3285
+2015-D001,Fed Cup WG F: CZE vs RUS,Hard,4,D,20151114,3,201345,,,Maria Sharapova,R,,RUS,28.5722108145,201520,,,Petra Kvitova,L,183,CZE,25.6865160849,3-6 6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,4,5011,6,4220
+2015-D001,Fed Cup WG F: CZE vs RUS,Hard,4,D,20151114,4,201662,,,Karolina Pliskova,R,184,CZE,23.6495550992,201499,,,Anastasia Pavlyuchenkova,R,177,RUS,24.3668720055,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,11,3285,28,1840
+2015-D002,Fed Cup WG R1: CAN vs CZE,Hard,4,D,20150207,1,201662,,,Karolina Pliskova,R,184,CZE,22.8829568789,211796,,,Francoise Abanda,R,,CAN,18.0041067762,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,22,2015,230,195
+2015-D002,Fed Cup WG R1: CAN vs CZE,Hard,4,D,20150207,2,202702,,,Tereza Smitkova,R,,CZE,20.3285420945,202681,,,Gabriela Dabrowski,R,,CAN,22.8528405202,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,62,863,185,285
+2015-D002,Fed Cup WG R1: CAN vs CZE,Hard,4,D,20150207,3,201662,,,Karolina Pliskova,R,184,CZE,22.8829568789,202681,,,Gabriela Dabrowski,R,,CAN,22.8528405202,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,22,2015,185,285
+2015-D003,Fed Cup WG R1: ITA vs FRA,Clay,4,D,20150207,1,201506,,,Sara Errani,R,164,ITA,27.7782340862,201614,,,Caroline Garcia,R,,FRA,21.311430527,7-6(2) 7-5,3,RR,,,,,,,,,,,,,,,,,,,,13,2551,30,1461
+2015-D003,Fed Cup WG R1: ITA vs FRA,Clay,4,D,20150207,2,202429,,,Camila Giorgi,R,168,ITA,23.1074606434,201427,,,Alize Cornet,R,173,FRA,25.0431211499,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,31,1455,19,2125
+2015-D003,Fed Cup WG R1: ITA vs FRA,Clay,4,D,20150207,3,201540,,,Kristina Mladenovic,R,184,FRA,21.735797399,201506,,,Sara Errani,R,164,ITA,27.7782340862,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,74,780,13,2551
+2015-D003,Fed Cup WG R1: ITA vs FRA,Clay,4,D,20150207,4,201614,,,Caroline Garcia,R,,FRA,21.311430527,202429,,,Camila Giorgi,R,168,ITA,23.1074606434,4-6 6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,30,1461,31,1455
+2015-D004,Fed Cup WG R1: POL vs RUS,Hard,4,D,20150207,1,201320,,,Svetlana Kuznetsova,R,174,RUS,29.6153319644,201474,,,Agnieszka Radwanska,R,170,POL,25.9247091034,6-4 2-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,27,1701,8,4270
+2015-D004,Fed Cup WG R1: POL vs RUS,Hard,4,D,20150207,2,201345,,,Maria Sharapova,R,,RUS,27.8056125941,201524,,,Urszula Radwanska,R,177,POL,24.1697467488,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,2,8210,135,407
+2015-D004,Fed Cup WG R1: POL vs RUS,Hard,4,D,20150207,3,201345,,,Maria Sharapova,R,,RUS,27.8056125941,201474,,,Agnieszka Radwanska,R,170,POL,25.9247091034,6-1 7-5,3,RR,,,,,,,,,,,,,,,,,,,,2,8210,8,4270
+2015-D005,Fed Cup WG R1: GER vs AUS,Hard,4,D,20150207,1,201457,,,Jarmila Gajdosova,R,174,AUS,27.7864476386,201493,,,Angelique Kerber,L,173,GER,27.0554414784,4-6 6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,54,925,10,3130
+2015-D005,Fed Cup WG R1: GER vs AUS,Hard,4,D,20150207,2,201492,,,Andrea Petkovic,R,180,GER,27.4140999316,201325,,,Samantha Stosur,R,172,AUS,30.8583162218,6-4 3-6 12-10,3,RR,,,,,,,,,,,,,,,,,,,,12,2735,25,1835
+2015-D005,Fed Cup WG R1: GER vs AUS,Hard,4,D,20150207,3,201493,,,Angelique Kerber,L,173,GER,27.0554414784,201325,,,Samantha Stosur,R,172,AUS,30.8583162218,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,10,3130,25,1835
+2015-D005,Fed Cup WG R1: GER vs AUS,Hard,4,D,20150207,4,201492,,,Andrea Petkovic,R,180,GER,27.4140999316,201457,,,Jarmila Gajdosova,R,174,AUS,27.7864476386,6-3 3-6 8-6,3,RR,,,,,,,,,,,,,,,,,,,,12,2735,54,925
+2015-D006,Fed Cup WG SF: CZE vs FRA,Hard,4,D,20150418,1,201425,,,Lucie Safarova,L,177,CZE,28.1998631075,201614,,,Caroline Garcia,R,,FRA,21.5030800821,4-6 7-6(1) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,13,2870,29,1560
+2015-D006,Fed Cup WG SF: CZE vs FRA,Hard,4,D,20150418,2,201520,,,Petra Kvitova,L,183,CZE,25.1115674196,201540,,,Kristina Mladenovic,R,184,FRA,21.9274469541,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,4,6060,58,875
+2015-D006,Fed Cup WG SF: CZE vs FRA,Hard,4,D,20150418,3,201520,,,Petra Kvitova,L,183,CZE,25.1115674196,201614,,,Caroline Garcia,R,,FRA,21.5030800821,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,4,6060,29,1560
+2015-D007,Fed Cup WG SF: RUS vs GER,Clay,4,D,20150418,1,201320,,,Svetlana Kuznetsova,R,174,RUS,29.8069815195,201504,,,Julia Goerges,R,180,GER,26.4558521561,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,24,1870,63,840
+2015-D007,Fed Cup WG SF: RUS vs GER,Clay,4,D,20150418,2,201499,,,Anastasia Pavlyuchenkova,R,177,RUS,23.7919233402,201513,,,Sabine Lisicki,R,178,GER,25.568788501,4-6 7-6(4) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,38,1256,19,2127
+2015-D007,Fed Cup WG SF: RUS vs GER,Clay,4,D,20150418,3,201492,,,Andrea Petkovic,R,180,GER,27.6057494867,201320,,,Svetlana Kuznetsova,R,174,RUS,29.8069815195,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,11,3260,24,1870
+2015-D007,Fed Cup WG SF: RUS vs GER,Clay,4,D,20150418,4,201493,,,Angelique Kerber,L,173,GER,27.2470910335,201499,,,Anastasia Pavlyuchenkova,R,177,RUS,23.7919233402,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,14,2865,38,1256
+2015-D008,Fed Cup WG R1: NED vs SVK,Clay,4,D,20150207,1,203533,,,Anna Karolina Schmiedlova,R,,SVK,20.4024640657,202428,,,Kiki Bertens,R,182,NED,23.1622176591,6-2 7-5,3,RR,,,,,,,,,,,,,,,,,,,,75,727,70,811
+2015-D008,Fed Cup WG R1: NED vs SVK,Clay,4,D,20150207,2,201551,,,Arantxa Rus,L,180,NED,24.1533196441,201517,,,Magdalena Rybarikova,R,180,SVK,26.3436002738,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,218,207,47,1046
+2015-D008,Fed Cup WG R1: NED vs SVK,Clay,4,D,20150207,3,202428,,,Kiki Bertens,R,182,NED,23.1622176591,201517,,,Magdalena Rybarikova,R,180,SVK,26.3436002738,6-1 2-6 6-1,3,RR,,,,,,,,,,,,,,,,,,,,70,811,47,1046
+2015-D008,Fed Cup WG R1: NED vs SVK,Clay,4,D,20150207,4,201551,,,Arantxa Rus,L,180,NED,24.1533196441,203533,,,Anna Karolina Schmiedlova,R,,SVK,20.4024640657,6-3 2-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,218,207,75,727
+2015-D009,Fed Cup WG R1: ROU vs ESP,Hard,4,D,20150207,1,201594,,,Simona Halep,R,168,ROU,23.3648186174,201562,,,Silvia Soler Espinosa,R,,ESP,27.2197125257,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,3,6571,67,848
+2015-D009,Fed Cup WG R1: ROU vs ESP,Hard,4,D,20150207,2,202469,,,Garbine Muguruza,R,182,ESP,21.3333333333,201593,,,Irina Camelia Begu,R,181,ROU,24.4517453799,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,24,1845,34,1401
+2015-D009,Fed Cup WG R1: ROU vs ESP,Hard,4,D,20150207,3,202469,,,Garbine Muguruza,R,182,ESP,21.3333333333,201594,,,Simona Halep,R,168,ROU,23.3648186174,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,24,1845,3,6571
+2015-D009,Fed Cup WG R1: ROU vs ESP,Hard,4,D,20150207,4,201593,,,Irina Camelia Begu,R,181,ROU,24.4517453799,201562,,,Silvia Soler Espinosa,R,,ESP,27.2197125257,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,34,1401,67,848
+2015-D010,Fed Cup WG R1: SWE vs SUI,Hard,4,D,20150207,1,201490,,,Timea Bacsinszky,R,,SUI,25.6673511294,202490,,,Rebecca Peterson,R,,SWE,19.5071868583,7-6(4) 6-0,3,RR,,,,,,,,,,,,,,,,,,,,36,1294,222,204
+2015-D010,Fed Cup WG R1: SWE vs SUI,Hard,4,D,20150207,2,202505,,,Belinda Bencic,R,,SUI,17.9137577002,201596,,,Johanna Larsson,R,174,SWE,26.4750171116,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,37,1280,71,807
+2015-D010,Fed Cup WG R1: SWE vs SUI,Hard,4,D,20150207,3,201490,,,Timea Bacsinszky,R,,SUI,25.6673511294,201596,,,Johanna Larsson,R,174,SWE,26.4750171116,6-3 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,,36,1294,71,807
+2015-D011,Fed Cup WG R1: ARG vs USA,Clay,4,D,20150207,1,200748,,,Venus Williams,R,185,USA,34.6420260096,202440,,,Paula Ormaechea,R,,ARG,22.3600273785,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,11,2790,121,456
+2015-D011,Fed Cup WG R1: ARG vs USA,Clay,4,D,20150207,2,200033,,,Serena Williams,R,175,USA,33.3661875428,202395,,,Maria Irigoyen,L,,ARG,27.6249144422,7-5 6-0,3,RR,,,,,,,,,,,,,,,,,,,,1,9776,197,249
+2015-D011,Fed Cup WG R1: ARG vs USA,Clay,4,D,20150207,3,202440,,,Paula Ormaechea,R,,ARG,22.3600273785,201535,,,Coco Vandeweghe,R,185,USA,23.1731690623,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,121,456,32,1423
+2015-D011,Fed Cup WG R1: ARG vs USA,Clay,4,D,20150207,4,200748,,,Venus Williams,R,185,USA,34.6420260096,202395,,,Maria Irigoyen,L,,ARG,27.6249144422,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,11,2790,197,249
+2015-D012,Fed Cup G1 PO: JPN vs KAZ,Hard,4,D,20150207,1,201595,,,Misaki Doi,L,159,JPN,23.7782340862,201709,,,Yulia Putintseva,R,,KAZ,20.0848733744,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,103,532,111,510
+2015-D012,Fed Cup G1 PO: JPN vs KAZ,Hard,4,D,20150207,2,201597,,,Kurumi Nara,R,,JPN,23.1074606434,201468,,,Yaroslava Shvedova,R,180,KAZ,27.4058863792,2-6 7-6(4) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,44,1116,51,964
+2015-D013,Fed Cup G1 PO: HKG vs TPE,Hard,4,D,20150207,1,201442,,,Yung Jan Chan,R,170,TPE,25.4757015743,211208,,,Ho Ching Wu,R,,HKG,23.4414784394,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,180,292,620,30
+2015-D013,Fed Cup G1 PO: HKG vs TPE,Hard,4,D,20150207,2,201444,,,Su Wei Hsieh,R,169,TPE,29.0924024641,201667,,,Ling Zhang,R,,HKG,25.2785763176,3-6 6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,152,355,204,233
+2015-D014,Fed Cup G1 PO: CHN vs KOR,Hard,4,D,20150207,1,202492,,,Qiang Wang,R,,CHN,23.0663928816,202502,,,So Ra Lee,L,,KOR,20.5475701574,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,98,582,520,46
+2015-D014,Fed Cup G1 PO: CHN vs KOR,Hard,4,D,20150207,2,204288,,,Ji Hee Choi,R,,KOR,19.9917864476,202453,,,Saisai Zheng,R,,CHN,21.0047912389,2-2 RET,5,RR,,,,,,,,,,,,,,,,,,,,473,56,80,698
+2015-D015,Fed Cup G1 PO: THA vs UZB,Hard,4,D,20150207,1,200009,,,Tamarine Tanasugarn,R,165,THA,37.7084188912,201674,,,Sabina Sharipova,R,,UZB,20.4271047228,6-1 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,,247,179,265,160
+2015-D015,Fed Cup G1 PO: THA vs UZB,Hard,4,D,20150207,2,202503,,,Luksika Kumkhum,R,,THA,21.5496235455,201672,,,Nigina Abduraimova,R,,UZB,20.5886379192,4-6 6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,131,422,162,324
+2015-D016,Fed Cup G2 PO: RSA vs FIN,Hard,4,D,20150207,1,202581,,,Chanel Simmonds,L,,RSA,22.4941820671,203290,,,Piia Suomalainen,R,,FIN,30.5817932923,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,328,102,,
+2015-D016,Fed Cup G2 PO: RSA vs FIN,Hard,4,D,20150207,2,201541,,,Chanelle Scheepers,R,,RSA,30.9048596851,210439,,,Ella Leivo,U,,FIN,20.5366187543,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,83,677,,
+2015-D017,Fed Cup G2 PO: EST vs SLO,Hard,4,D,20150207,1,204426,,,Anett Kontaveit,R,,EST,19.1238877481,201482,,,Andreja Klepac,R,,SLO,28.9062286105,5-7 6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,172,310,808,15
+2015-D017,Fed Cup G2 PO: EST vs SLO,Hard,4,D,20150207,2,201466,,,Kaia Kanepi,R,181,EST,29.6618754278,201656,,,Tadeja Majeric,R,,SLO,24.4380561259,6-2 3-0 RET,5,RR,,,,,,,,,,,,,,,,,,,,48,1045,234,191
+2015-D018,Fed Cup G2 PO: EGY vs LUX,Hard,4,D,20150207,1,211529,,,Sandra Samir,R,,EGY,17.2594113621,215016,,,Eleonora Molinaro,,,LUX,14.4257357974,7-6(2) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,798,16,,
+2015-D018,Fed Cup G2 PO: EGY vs LUX,Hard,4,D,20150207,2,201380,,,Claudine Schaul,R,,LUX,31.4688569473,205909,,,Ola Abou Zekry,R,,EGY,27.6358658453,6-4 6-7(3) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,477,56
+2015-D019,Fed Cup G2 PO: BIH vs IRL,Hard,4,D,20150207,1,215017,,,Lauren Deegan,,,IRL,17.1991786448,203456,,,Jelena Simic,U,,BIH,22.9678302533,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,701,23
+2015-D019,Fed Cup G2 PO: BIH vs IRL,Hard,4,D,20150207,2,202475,,,Jasmina Tinjic,R,,BIH,23.9452429843,206213,,,Amy Bowtell,U,,IRL,21.3935660507,6-2 2-6 7-5,3,RR,,,,,,,,,,,,,,,,,,,,560,39,409,73
+2015-D020,Fed Cup G1 PO: BLR vs GBR,Hard,4,D,20150207,1,201501,,,Olga Govortsova,R,182,BLR,26.4585900068,202427,,,Johanna Konta,R,,GBR,23.7289527721,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,156,342,145,374
+2015-D020,Fed Cup G1 PO: BLR vs GBR,Hard,4,D,20150207,2,201458,,,Victoria Azarenka,R,180,BLR,25.5222450376,201586,,,Heather Watson,R,170,GBR,22.7214236824,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,49,998,38,1261
+2015-D021,Fed Cup G1 PO: SRB vs CRO,Hard,4,D,20150207,1,211736,,,Ivana Jorovic,R,,SRB,17.7659137577,211951,,,Ana Konjuh,R,,CRO,17.1143052704,6-3 2-6 7-5,3,RR,,,,,,,,,,,,,,,,,,,,302,127,99,579
+2015-D021,Fed Cup G1 PO: SRB vs CRO,Hard,4,D,20150207,2,202434,,,Aleksandra Krunic,R,,SRB,21.9000684463,202499,,,Donna Vekic,R,,CRO,18.6119096509,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,78,708,84,667
+2015-D022,Fed Cup G1 PO: TUR vs GEO,Hard,4,D,20150207,1,213734,,,Mariam Bolkvadze,L,,GEO,17.1006160164,201701,,,Basak Eraydin,R,,TUR,20.6324435318,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,693,23,527,46
+2015-D022,Fed Cup G1 PO: TUR vs GEO,Hard,4,D,20150207,2,203567,,,Ipek Soylu,R,,TUR,18.8145106092,202493,,,Ekaterine Gorgodze,L,,GEO,23.1813826146,2-6 6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,307,119,323,106
+2015-D023,Fed Cup G1 PO: HUN vs BEL,Hard,4,D,20150207,1,214388,,,Anna Bondar,R,,HUN,17.7002053388,202421,,,Alison Van Uytvanck,R,,BEL,20.8706365503,W/O,5,RR,,,,,,,,,,,,,,,,,,,,651,28,102,544
+2015-D023,Fed Cup G1 PO: HUN vs BEL,Hard,4,D,20150207,2,202436,,,Reka Luca Jani,R,,HUN,23.523613963,201465,,,Kirsten Flipkens,R,165,BEL,29.0759753593,2-6 7-6(5) RET,5,RR,,,,,,,,,,,,,,,,,,,,290,138,59,880
+2015-D024,Fed Cup G1 PO: BUL vs UKR,Hard,4,D,20150207,1,203462,,,Kateryna Kozlova,R,,UKR,20.9637234771,202600,,,Viktoriya Tomova,R,,BUL,19.9507186858,6-4 6-0,3,RR,,,,,,,,,,,,,,,,,,,,124,441,312,117
+2015-D024,Fed Cup G1 PO: BUL vs UKR,Hard,4,D,20150207,2,202494,,,Elina Svitolina,R,174,UKR,20.4052019165,201691,,,Dia Evtimova,R,,BUL,27.7754962355,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,26,1740,305,120
+2015-D025,Fed Cup G1 PO: LIE vs POR,Hard,4,D,20150207,1,201646,,,Maria Joao Koehler,U,,POR,22.3326488706,210303,,,Kathinka Von Deichmann,R,,LIE,20.7310061602,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,689,23,334,101
+2015-D025,Fed Cup G1 PO: LIE vs POR,Hard,4,D,20150207,2,201547,,,Michelle Larcher De Brito,R,165,POR,22.0232717317,202626,,,Stephanie Vogt,R,,LIE,24.977412731,7-6(7) 7-5,3,RR,,,,,,,,,,,,,,,,,,,,120,456,169,318
+2015-D026,Fed Cup G1 PO: AUT vs LAT,Hard,4,D,20150207,1,211533,,,Jelena Ostapenko,R,,LAT,17.6673511294,211814,,,Julia Grabher,R,,AUT,18.6009582478,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,266,159,753,18
+2015-D026,Fed Cup G1 PO: AUT vs LAT,Hard,4,D,20150207,2,202482,,,Barbara Haas,R,,AUT,18.8884325804,203509,,,Diana Marcinkevica,R,,LAT,22.5133470226,6-0 2-6 6-0,3,RR,,,,,,,,,,,,,,,,,,,,303,124,262,160
+2015-D027,Fed Cup G1 PO: BRA vs PAR,Hard,4,D,20150207,1,205591,,,Paula Cristina Goncalves,R,,BRA,24.4928131417,206329,,,Montserrat Gonzalez,R,,PAR,20.605065024,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,286,140,237,189
+2015-D027,Fed Cup G1 PO: BRA vs PAR,Hard,4,D,20150207,2,202705,,,Veronica Cepede Royg,R,,PAR,23.0472279261,206242,,,Beatriz Haddad Maia,L,,BRA,18.6913073238,6-4 7-6(4),3,RR,,,,,,,,,,,,,,,,,,,,167,319,232,194
+2015-D028,Fed Cup G1 PO: COL vs VEN,Hard,4,D,20150207,1,202464,,,Yuliana Lizarazo,R,,COL,21.711156742,206387,,,Aymet Uzcategui,U,,VEN,19.1868583162,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,342,98,,
+2015-D028,Fed Cup G1 PO: COL vs VEN,Hard,4,D,20150207,2,201531,,,Mariana Duque Marino,R,,COL,25.4893908282,203584,,,Adriana Perez,R,,VEN,22.2149212868,6-4 6-0,3,RR,,,,,,,,,,,,,,,,,,,,132,417,672,25
+2015-D029,Fed Cup G1 PO: CHI vs BOL,Hard,4,D,20150207,1,210138,,,Noelia Zeballos,U,,BOL,20.7693360712,206344,,,Fernanda Brito,R,,CHI,22.9815195072,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,438,63
+2015-D029,Fed Cup G1 PO: CHI vs BOL,Hard,4,D,20150207,2,202900,,,Maria Fernanda Alvarez Teran,R,,BOL,25.9411362081,206037,,,Daniela Seguel,U,,CHI,22.2286105407,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,691,23,431,64
+2015-D030,Fed Cup WG PO: ITA vs USA,Clay,4,D,20150418,1,200033,,,Serena Williams,R,175,USA,33.5578370979,202429,,,Camila Giorgi,R,168,ITA,23.2991101985,7-6(5) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,1,9981,36,1350
+2015-D030,Fed Cup WG PO: ITA vs USA,Clay,4,D,20150418,2,201506,,,Sara Errani,R,164,ITA,27.9698836413,201616,,,Lauren Davis,R,157,USA,21.5222450376,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,15,2805,57,880
+2015-D030,Fed Cup WG PO: ITA vs USA,Clay,4,D,20150418,3,200033,,,Serena Williams,R,175,USA,33.5578370979,201506,,,Sara Errani,R,164,ITA,27.9698836413,4-6 7-6(3) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,1,9981,15,2805
+2015-D030,Fed Cup WG PO: ITA vs USA,Clay,4,D,20150418,4,201355,,,Flavia Pennetta,R,172,ITA,33.1416837782,201539,,,Christina Mchale,R,170,USA,22.9349760438,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,26,1830,65,813
+2015-D031,Fed Cup WG PO: NED vs AUS,Clay,4,D,20150418,1,202428,,,Kiki Bertens,R,182,NED,23.3538672142,201457,,,Jarmila Gajdosova,R,174,AUS,27.9780971937,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,86,669,48,1000
+2015-D031,Fed Cup WG PO: NED vs AUS,Clay,4,D,20150418,2,201348,,,Casey Dellacqua,L,,AUS,30.1793292266,201551,,,Arantxa Rus,L,180,NED,24.3449691992,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,44,1131,217,214
+2015-D031,Fed Cup WG PO: NED vs AUS,Clay,4,D,20150418,3,202428,,,Kiki Bertens,R,182,NED,23.3538672142,201348,,,Casey Dellacqua,L,,AUS,30.1793292266,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,86,669,44,1131
+2015-D031,Fed Cup WG PO: NED vs AUS,Clay,4,D,20150418,4,201551,,,Arantxa Rus,L,180,NED,24.3449691992,201457,,,Jarmila Gajdosova,R,174,AUS,27.9780971937,0-6 7-5 7-5,3,RR,,,,,,,,,,,,,,,,,,,,217,214,48,1000
+2015-D032,Fed Cup WG PO: POL vs SUI,Hard,4,D,20150418,1,201474,,,Agnieszka Radwanska,R,170,POL,26.1163586585,200001,,,Martina Hingis,R,170,SUI,34.546201232,6-4 6-0,3,RR,,,,,,,,,,,,,,,,,,,,9,3385,,
+2015-D032,Fed Cup WG PO: POL vs SUI,Hard,4,D,20150418,2,201490,,,Timea Bacsinszky,R,,SUI,25.8590006845,201524,,,Urszula Radwanska,R,177,POL,24.3613963039,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,22,1971,114,515
+2015-D032,Fed Cup WG PO: POL vs SUI,Hard,4,D,20150418,3,201490,,,Timea Bacsinszky,R,,SUI,25.8590006845,201474,,,Agnieszka Radwanska,R,170,POL,26.1163586585,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,22,1971,9,3385
+2015-D032,Fed Cup WG PO: POL vs SUI,Hard,4,D,20150418,4,201524,,,Urszula Radwanska,R,177,POL,24.3613963039,200001,,,Martina Hingis,R,170,SUI,34.546201232,4-6 7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,114,515,,
+2015-D033,Fed Cup WG PO: CAN vs ROU,Hard,4,D,20150418,1,211796,,,Francoise Abanda,R,,CAN,18.1957563313,201593,,,Irina Camelia Begu,R,181,ROU,24.643394935,4-6 7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,,260,175,33,1409
+2015-D033,Fed Cup WG PO: CAN vs ROU,Hard,4,D,20150418,2,201567,,,Alexandra Dulgheru,R,,ROU,25.8836413415,202446,,,Eugenie Bouchard,R,,CAN,21.1416837782,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,69,791,7,4122
+2015-D033,Fed Cup WG PO: CAN vs ROU,Hard,4,D,20150418,3,202671,,,Cristina Andreea Mitu,R,,ROU,23.5701574264,202446,,,Eugenie Bouchard,R,,CAN,21.1416837782,4-6 6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,104,586,7,4122
+2015-D033,Fed Cup WG PO: CAN vs ROU,Hard,4,D,20150418,4,201567,,,Alexandra Dulgheru,R,,ROU,25.8836413415,211796,,,Francoise Abanda,R,,CAN,18.1957563313,3-6 7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,69,791,260,175
+2015-D034,Fed Cup WG PO: SRB vs PAR,Hard,4,D,20150418,1,202434,,,Aleksandra Krunic,R,,SRB,22.0917180014,202705,,,Veronica Cepede Royg,R,,PAR,23.2388774812,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,77,727,166,316
+2015-D034,Fed Cup WG PO: SRB vs PAR,Hard,4,D,20150418,2,201421,,,Ana Ivanovic,R,183,SRB,27.446954141,206329,,,Montserrat Gonzalez,R,,PAR,20.7967145791,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,6,4200,225,204
+2015-D034,Fed Cup WG PO: SRB vs PAR,Hard,4,D,20150418,3,202705,,,Veronica Cepede Royg,R,,PAR,23.2388774812,211736,,,Ivana Jorovic,R,,SRB,17.9575633128,3-6 6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,166,316,285,145
+2015-D034,Fed Cup WG PO: SRB vs PAR,Hard,4,D,20150418,4,202434,,,Aleksandra Krunic,R,,SRB,22.0917180014,206329,,,Montserrat Gonzalez,R,,PAR,20.7967145791,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,77,727,225,204
+2015-D035,Fed Cup WG PO: SVK vs SWE,Clay,4,D,20150418,1,203533,,,Anna Karolina Schmiedlova,R,,SVK,20.5941136208,202490,,,Rebecca Peterson,R,,SWE,19.6988364134,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,46,1074,235,191
+2015-D035,Fed Cup WG PO: SVK vs SWE,Clay,4,D,20150418,2,201290,,,Daniela Hantuchova,R,181,SVK,31.9863107461,206178,,,Susanne Celik,R,,SWE,20.3641341547,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,49,995,221,213
+2015-D035,Fed Cup WG PO: SVK vs SWE,Clay,4,D,20150418,3,203533,,,Anna Karolina Schmiedlova,R,,SVK,20.5941136208,201653,,,Ellen Allgurin,R,,SWE,20.93908282,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,46,1074,366,92
+2015-D036,Fed Cup WG PO: JPN vs BLR,Hard,4,D,20150418,1,201458,,,Victoria Azarenka,R,180,BLR,25.7138945927,201595,,,Misaki Doi,L,159,JPN,23.9698836413,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,32,1423,107,577
+2015-D036,Fed Cup WG PO: JPN vs BLR,Hard,4,D,20150418,2,201597,,,Kurumi Nara,R,,JPN,23.2991101985,201501,,,Olga Govortsova,R,182,BLR,26.6502395619,6-4 4-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,54,930,136,409
+2015-D036,Fed Cup WG PO: JPN vs BLR,Hard,4,D,20150418,3,201458,,,Victoria Azarenka,R,180,BLR,25.7138945927,201597,,,Kurumi Nara,R,,JPN,23.2991101985,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,32,1423,54,930
+2015-D036,Fed Cup WG PO: JPN vs BLR,Hard,4,D,20150418,4,201503,,,Ayumi Morita,R,163,JPN,25.1033538672,205925,,,Aliaksandra Sasnovich,R,,BLR,21.0732375086,7-6(5) 4-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,451,58,146,374
+2015-D037,Fed Cup WG PO: ARG vs ESP,Clay,4,D,20150418,1,204427,,,Sara Sorribes Tormo,R,,ESP,18.5242984257,202440,,,Paula Ormaechea,R,,ARG,22.5516769336,4-6 7-6(2) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,162,333,158,339
+2015-D037,Fed Cup WG PO: ARG vs ESP,Clay,4,D,20150418,2,202418,,,Lara Arruabarrena,R,166,ESP,23.0773442847,202395,,,Maria Irigoyen,L,,ARG,27.8165639973,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,88,657,226,202
+2015-D037,Fed Cup WG PO: ARG vs ESP,Clay,4,D,20150418,3,202418,,,Lara Arruabarrena,R,166,ESP,23.0773442847,202440,,,Paula Ormaechea,R,,ARG,22.5516769336,6-1 4-6 9-7,3,RR,,,,,,,,,,,,,,,,,,,,88,657,158,339
+2015-D038,Fed Cup G3 PO: LTU vs MDA,Clay,4,D,20150418,1,211105,,,Akvile Parazinskaite,U,,LTU,18.3819301848,210958,,,Alexandra Perper,R,,MDA,23.7207392197,7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,807,16,1039,7
+2015-D038,Fed Cup G3 PO: LTU vs MDA,Clay,4,D,20150418,2,211267,,,Daniela Ciobanu,R,,MDA,20.1095140315,202348,,,Lina Stanciute,R,,LTU,29.1909650924,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,743,20,579,35
+2015-D039,Fed Cup G3 PO: GRE vs DEN,Clay,4,D,20150418,1,202471,,,Karen Barbat,R,,DEN,22.7898699521,202604,,,Despina Papamichail,R,,GRE,22.1848049281,7-5 3-6 7-6(4),3,RR,,,,,,,,,,,,,,,,,,,,632,30,356,96
+2015-D039,Fed Cup G3 PO: GRE vs DEN,Clay,4,D,20150418,2,201496,,,Caroline Wozniacki,R,177,DEN,24.7693360712,206289,,,Maria Sakkari,R,,GRE,19.7316906229,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,5,4675,255,177
+2015-D040,Fed Cup G3 PO: ISL vs NAM,Clay,4,D,20150417,1,210640,,,Liniques Theron,U,,NAM,20.2819986311,214629,,,Anna Soffia Gronholm,,,ISL,15.8603696099,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2015-D040,Fed Cup G3 PO: ISL vs NAM,Clay,4,D,20150417,2,212302,,,Lesedi Sheya Jacobs,,,NAM,17.5414099932,214630,,,Hjordis Rosa Gudmundsdottir,,,ISL,16.7802874743,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2015-D041,Fed Cup G3 PO: MNE vs ALG,Clay,4,D,20150417,1,208603,,,Amira Benaissa,U,,ALG,25.325119781,214419,,,Nina Kalezic,U,,MNE,18.3627652293,5-7 7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2015-D041,Fed Cup G3 PO: MNE vs ALG,Clay,4,D,20150417,2,213972,,,Ines Ibbou,R,,ALG,16.2792607803,211404,,,Kristina Samardzic,U,,MNE,18.1519507187,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2015-D042,Fed Cup G3 PO: CYP vs MKD,Clay,4,D,20150418,1,212304,,,Maria Siopacha,R,,CYP,18.288843258,213827,,,Magdalena Stoilkovska,R,,MKD,19.0143737166,7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,1207,3
+2015-D042,Fed Cup G3 PO: CYP vs MKD,Clay,4,D,20150418,2,211227,,,Lina Gjorcheska,U,,MKD,20.7063655031,214625,,,Eliza Omirou,,,CYP,15.6468172485,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,387,82,,
+2015-D043,Fed Cup G3 PO: ARM vs NOR,Clay,4,D,20150417,1,206063,,,Caroline Rohde Moe,U,,NOR,23.0171115674,214623,,,Lusine Chobanyan,,,ARM,16.9965776865,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,732,21,,
+2015-D043,Fed Cup G3 PO: ARM vs NOR,Clay,4,D,20150417,2,213628,,,Melanie Stokke,R,,NOR,18.5407255305,206060,,,Ani Amiraghyan,R,,ARM,21.5195071869,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,430,66,,
+2015-D044,Fed Cup G2 PO: SIN vs POC,Hard,4,D,20150417,1,214905,,,Abigail Tere Apisah,U,,PNG,22.7597535934,215122,,,Angeline Devi Devanthiran,,,SIN,18.9596167009,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2015-D044,Fed Cup G2 PO: SIN vs POC,Hard,4,D,20150417,2,210871,,,Steffi Carruthers,R,,SAM,21.8973305955,212266,,,Khee Yen Wee,R,,SIN,20.2546201232,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,1076,6,,
+2015-D045,Fed Cup G2 PO: IRI vs MAS,Hard,4,D,20150417,1,215123,,,Yus Syazlin Nabila Binti Yusri,,,MAS,17.1033538672,214632,,,Ghazal Pakbaten,,,IRI,16.6160164271,6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2015-D045,Fed Cup G2 PO: IRI vs MAS,Hard,4,D,20150417,2,204362,,,Theiviya Selvarajoo,U,,MAS,20.8240930869,215124,,,Sara Amini,,,IRI,17.5605749487,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2015-D047,Fed Cup G2 PO: KGZ vs PAK,Hard,4,D,20150418,1,213023,,,Iman Qureshi,,,PAK,17.7440109514,215125,,,Saara Kunakunova,,,KGZ,14.2669404517,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2015-D047,Fed Cup G2 PO: KGZ vs PAK,Hard,4,D,20150418,2,210173,,,Ushna Suhail,U,,PAK,21.8097193703,215126,,,Eliza Askarova,,,KGZ,15.0034223135,3-6 6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,1207,3,,
+2015-D048,Fed Cup G2 PO: IND vs PHI,Hard,4,D,20150418,1,206106,,,Prarthana G Thombare,U,,IND,20.8323066393,210046,,,Anna Clarice Patrimonio,R,,PHI,21.3935660507,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,480,52,,
+2015-D048,Fed Cup G2 PO: IND vs PHI,Hard,4,D,20150418,2,206424,,,Katharina Lehnert,R,,GER,21.1608487337,206102,,,Ankita Raina,R,,IND,22.264202601,2-6 7-5 7-5,3,RR,,,,,,,,,,,,,,,,,,,,595,34,248,181
+2015-D049,Fed Cup G2 PO: PHI vs INA,Hard,4,D,20150417,1,202365,,,Lavinia Tananta,R,,INA,27.4524298426,210046,,,Anna Clarice Patrimonio,R,,PHI,21.3908281999,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,799,16,,
+2015-D049,Fed Cup G2 PO: PHI vs INA,Hard,4,D,20150417,2,206424,,,Katharina Lehnert,R,,GER,21.158110883,211234,,,Deria Nur Haliza,R,,INA,17.8562628337,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,595,34,886,12
+2015-D050,Fed Cup G2 PO: IND vs TKM,Hard,4,D,20150417,1,206106,,,Prarthana G Thombare,U,,IND,20.8295687885,212314,,,Jahana Bayramova,,,TKM,17.4455852156,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,480,52,,
+2015-D050,Fed Cup G2 PO: IND vs TKM,Hard,4,D,20150417,2,206102,,,Ankita Raina,R,,IND,22.2614647502,204282,,,Anastasiya Prenko,U,,TKM,22.0971937029,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,248,181,,
