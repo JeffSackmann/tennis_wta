@@ -1331,7 +1331,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-W-C10-BRA-11A-2013,Sao Jose Dos Campos 10K,Clay,32,10,20131202,30,206146,2,,Catalina Pella,R,,ARG,20.8350444901,206194,3,,Gabriela Ce,L,,BRA,20.7501711157,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,354,122,361,120
 2013-W-C10-BRA-11A-2013,Sao Jose Dos Campos 10K,Clay,32,10,20131202,31,206146,2,,Catalina Pella,R,,ARG,20.8350444901,205918,4,,Ulrikke Eikeri,U,,NOR,20.9609856263,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,354,122,367,116
 2013-W-C10-BUL-01A-2013,Varna 10K,Clay,32,10,20130923,1,201691,1,,Dia Evtimova,R,,BUL,26.4010951403,203589,,,Camelia Elena Hristea,R,,ROU,22.636550308,4-6 6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,343,127,865,17
-2013-W-C10-BUL-01A-2013,Varna 10K,Clay,32,10,20130923,2,210706,,,Stefana Andrei,R,,ROU,19.9206023272,211342,,,Gabriela Talaba,U,,ROU,18.0862422998,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,927,13,864,17
+2013-W-C10-BUL-01A-2013,Varna 10K,Clay,32,10,20130923,2,210706,,,Stefana Andrei,R,,ROU,19.9206023272,211342,,,Gabriela Talaba,L,,ROU,18.0862422998,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,927,13,864,17
 2013-W-C10-BUL-01A-2013,Varna 10K,Clay,32,10,20130923,3,211929,,,Aleksandra Karamanoleva,R,,BUL,16.8569472964,211654,,Q,Ana Bianca Mihaila,U,,ROU,16.9664613279,3-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,882,15,1148,4
 2013-W-C10-BUL-01A-2013,Varna 10K,Clay,32,10,20130923,4,206145,8,Q,Diana Sumova,U,,CZE,18.9952087611,206181,,,Eva Wacanno,U,,NED,22.6283367556,6-1 7-6(0),3,R32,,,,,,,,,,,,,,,,,,,,651,34,662,33
 2013-W-C10-BUL-01A-2013,Varna 10K,Clay,32,10,20130923,5,210880,4,,Borislava Botusharova,R,,BUL,18.8199863107,211714,,Q,Raluca Ciufrila,U,,ROU,16.6789869952,6-1 5-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,569,50,,
@@ -2057,7 +2057,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-W-C10-EGY-02A-2013,Sharm El Sheikh 10K,Hard,32,10,20130121,9,206298,,,Nidhi Chilumula,R,,IND,18.2861054073,201618,7,,Fatma Al Nabhani,R,,OMA,21.6755646817,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,762,23,454,75
 2013-W-C10-EGY-02A-2013,Sharm El Sheikh 10K,Hard,32,10,20130121,10,206207,,Q,Francesca Palmigiano,U,,ITA,18.2368240931,201694,,,Silvia Njiric,R,,CRO,19.537303217,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,881,15,568,47
 2013-W-C10-EGY-02A-2013,Sharm El Sheikh 10K,Hard,32,10,20130121,11,210668,,Q,Valeria Podda,U,,NED,20.7282683094,211231,,Q,Vladyslava Zanosiyenko,U,,UKR,18.1820670773,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,949,12,851,17
-2013-W-C10-EGY-02A-2013,Sharm El Sheikh 10K,Hard,32,10,20130121,12,201659,4,,Melanie Klaffner,R,,AUT,22.6694045175,211342,,Q,Gabriela Talaba,U,,ROU,17.4154688569,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,387,98,869,16
+2013-W-C10-EGY-02A-2013,Sharm El Sheikh 10K,Hard,32,10,20130121,12,201659,4,,Melanie Klaffner,R,,AUT,22.6694045175,211342,,Q,Gabriela Talaba,L,,ROU,17.4154688569,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,387,98,869,16
 2013-W-C10-EGY-02A-2013,Sharm El Sheikh 10K,Hard,32,10,20130121,13,202672,8,,Ekaterina Yashina,R,,RUS,19.4606433949,205920,,Q,Darya Lebesheva,R,,BLR,17.7960301164,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,507,59,792,21
 2013-W-C10-EGY-02A-2013,Sharm El Sheikh 10K,Hard,32,10,20130121,14,203325,,,Martina Di Giuseppe,U,,ITA,21.9466119097,211896,,Q,Donika Bashota,R,,SWE,17.7796030116,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,597,42,,
 2013-W-C10-EGY-02A-2013,Sharm El Sheikh 10K,Hard,32,10,20130121,15,203353,,,Nikola Vajdova,R,,SVK,24.0191649555,205944,,,Lidziya Marozava,R,,BLR,20.2874743326,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,672,33,574,46
@@ -7816,7 +7816,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-W-C10-POR-03A-2013,Guimaraes 10K,Hard,32,10,20130610,31,203559,6,Q,Clothilde De Bernardi,R,,FRA,18.5653661875,202415,2,,Ximena Hermoso,R,,MEX,22.1190965092,6-0 6-2,3,F,,,,,,,,,,,,,,,,,,,,558,50,438,76
 2013-W-C10-ROU-01A-2013,Timisoara 10K,Clay,32,10,20130520,1,206424,1,,Katharina Lehnert,R,,GER,19.2498288843,209331,,Q,Julia Helbet,R,,MDA,24.9691991786,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,409,88,,
 2013-W-C10-ROU-01A-2013,Timisoara 10K,Clay,32,10,20130520,2,203525,,Q,Anaeve Pain,R,,FRA,19.4360027379,213716,,WC,Oana Irimescu,L,,ROU,17.1252566735,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1145,3,,
-2013-W-C10-ROU-01A-2013,Timisoara 10K,Clay,32,10,20130520,3,211342,,,Gabriela Talaba,U,,ROU,17.7412731006,210434,,LL,Gabriela Porubin,R,,MDA,18.9733059548,4-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,865,16,1145,3
+2013-W-C10-ROU-01A-2013,Timisoara 10K,Clay,32,10,20130520,3,211342,,,Gabriela Talaba,L,,ROU,17.7412731006,210434,,LL,Gabriela Porubin,R,,MDA,18.9733059548,4-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,865,16,1145,3
 2013-W-C10-ROU-01A-2013,Timisoara 10K,Clay,32,10,20130520,4,206144,6,,Xenia Knoll,L,,SUI,20.7118412047,206057,,,Simona Ionescu,U,,ROU,19.3620807666,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,643,37,813,19
 2013-W-C10-ROU-01A-2013,Timisoara 10K,Clay,32,10,20130520,5,202595,3,,Alexandra Damaschin,R,,ROU,22.2614647502,205740,,,Dunja Sunkic,R,,SRB,22.2067077344,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,600,42,994,10
 2013-W-C10-ROU-01A-2013,Timisoara 10K,Clay,32,10,20130520,6,211898,,WC,Andreea Ghitescu,R,,ROU,16.1943874059,210706,,Q,Stefana Andrei,R,,ROU,19.575633128,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1057,6
@@ -7831,7 +7831,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-W-C10-ROU-01A-2013,Timisoara 10K,Clay,32,10,20130520,15,211646,,WC,Oana Georgeta Simion,U,,ROU,17.1991786448,205731,,Q,Ema Polic,R,,SRB,22.6858316222,2-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2013-W-C10-ROU-01A-2013,Timisoara 10K,Clay,32,10,20130520,16,202917,2,,Raluca Elena Platon,R,,ROU,19.9397672827,203449,,,Sarah Rebecca Sekulic,L,,GER,20.8788501027,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,548,51,788,20
 2013-W-C10-ROU-01A-2013,Timisoara 10K,Clay,32,10,20130520,17,206424,1,,Katharina Lehnert,R,,GER,19.2498288843,203525,,Q,Anaeve Pain,R,,FRA,19.4360027379,3-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,409,88,1145,3
-2013-W-C10-ROU-01A-2013,Timisoara 10K,Clay,32,10,20130520,18,206144,6,,Xenia Knoll,L,,SUI,20.7118412047,211342,,,Gabriela Talaba,U,,ROU,17.7412731006,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,643,37,865,16
+2013-W-C10-ROU-01A-2013,Timisoara 10K,Clay,32,10,20130520,18,206144,6,,Xenia Knoll,L,,SUI,20.7118412047,211342,,,Gabriela Talaba,L,,ROU,17.7412731006,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,643,37,865,16
 2013-W-C10-ROU-01A-2013,Timisoara 10K,Clay,32,10,20130520,19,202595,3,,Alexandra Damaschin,R,,ROU,22.2614647502,211898,,WC,Andreea Ghitescu,R,,ROU,16.1943874059,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,600,42,,
 2013-W-C10-ROU-01A-2013,Timisoara 10K,Clay,32,10,20130520,20,205647,7,,Tereza Malikova,R,,CZE,21.8535249829,211182,,,Patricia Lancranjan,U,,ROU,17.6481861739,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,698,30,1057,6
 2013-W-C10-ROU-01A-2013,Timisoara 10K,Clay,32,10,20130520,21,203586,,,Ioana Loredana Rosca,R,,ROU,16.6625598905,204388,,Q,Lisa Maria Moser,R,,AUT,22.1464750171,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,861,16,1035,7
@@ -7858,7 +7858,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-W-C10-ROU-02A-2013,Bucharest 10K,Clay,32,10,20130617,11,210705,,,Irina Maria Bara,R,,ROU,18.250513347,211323,,,Natalia Vajdova,U,,SVK,18.1437371663,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,962,11,952,11
 2013-W-C10-ROU-02A-2013,Bucharest 10K,Clay,32,10,20130617,12,211713,,WC,Jaqueline Adina Cristian,U,,ROU,15.0335386721,202917,3,,Raluca Elena Platon,R,,ROU,20.0164271047,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,947,11,557,50
 2013-W-C10-ROU-02A-2013,Bucharest 10K,Clay,32,10,20130617,13,206250,8,,Michaela Boev,U,,BEL,21.954825462,213785,,Q,Iulia Maria Ivascu,U,,ROU,15.3593429158,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,767,22,,
-2013-W-C10-ROU-02A-2013,Bucharest 10K,Clay,32,10,20130617,14,211342,,,Gabriela Talaba,U,,ROU,17.8179329227,206254,,Q,Anna Velica,U,,SWE,20.8624229979,6-0 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,856,16,,
+2013-W-C10-ROU-02A-2013,Bucharest 10K,Clay,32,10,20130617,14,211342,,,Gabriela Talaba,L,,ROU,17.8179329227,206254,,Q,Anna Velica,U,,SWE,20.8624229979,6-0 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,856,16,,
 2013-W-C10-ROU-02A-2013,Bucharest 10K,Clay,32,10,20130617,15,211531,,,Oana Danescu,R,,GER,20.8815879535,213786,,Q,Emel Abibula,U,,ROU,16.2600958248,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1155,3,,
 2013-W-C10-ROU-02A-2013,Bucharest 10K,Clay,32,10,20130617,16,211182,,,Patricia Lancranjan,U,,ROU,17.7248459959,202594,2,,Elena Bogdan,L,,ROU,21.2210814511,1-6 6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1036,7,346,120
 2013-W-C10-ROU-02A-2013,Bucharest 10K,Clay,32,10,20130617,17,202578,1,,Laura Ioana Andrei,R,,ROU,25.0458590007,203588,,,Cristina Adamescu,R,,ROU,17.6454483231,5-7 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,301,159,997,10
@@ -7867,7 +7867,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-W-C10-ROU-02A-2013,Bucharest 10K,Clay,32,10,20130617,20,203586,,,Ioana Loredana Rosca,R,,ROU,16.7392197125,203589,6,,Camelia Elena Hristea,R,,ROU,22.3682409309,1-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,810,19,782,21
 2013-W-C10-ROU-02A-2013,Bucharest 10K,Clay,32,10,20130617,21,211817,,WC,Elena Gabriela Ruse,U,,ROU,15.6112251882,210645,5,,Elena Teodora Cadar,L,,ROU,19.3100616016,6-4 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,618,41
 2013-W-C10-ROU-02A-2013,Bucharest 10K,Clay,32,10,20130617,22,210705,,,Irina Maria Bara,R,,ROU,18.250513347,211713,,WC,Jaqueline Adina Cristian,U,,ROU,15.0335386721,6-2 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,962,11,947,11
-2013-W-C10-ROU-02A-2013,Bucharest 10K,Clay,32,10,20130617,23,206250,8,,Michaela Boev,U,,BEL,21.954825462,211342,,,Gabriela Talaba,U,,ROU,17.8179329227,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,767,22,856,16
+2013-W-C10-ROU-02A-2013,Bucharest 10K,Clay,32,10,20130617,23,206250,8,,Michaela Boev,U,,BEL,21.954825462,211342,,,Gabriela Talaba,L,,ROU,17.8179329227,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,767,22,856,16
 2013-W-C10-ROU-02A-2013,Bucharest 10K,Clay,32,10,20130617,24,211182,,,Patricia Lancranjan,U,,ROU,17.7248459959,211531,,,Oana Danescu,R,,GER,20.8815879535,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1036,7,1155,3
 2013-W-C10-ROU-02A-2013,Bucharest 10K,Clay,32,10,20130617,25,202578,1,,Laura Ioana Andrei,R,,ROU,25.0458590007,211100,,WC,Ioana Ducu,R,,ROU,17.1635865845,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,301,159,,
 2013-W-C10-ROU-02A-2013,Bucharest 10K,Clay,32,10,20130617,26,203586,,,Ioana Loredana Rosca,R,,ROU,16.7392197125,203520,4,,Arabela Fernandez Rabener,U,,ESP,22.6584531143,1-6 6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,810,19,562,49
@@ -7884,7 +7884,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-W-C10-ROU-03A-2013,Bals 10K,Clay,32,10,20130624,6,211646,,,Oana Georgeta Simion,U,,ROU,17.2950034223,213807,,Q,Cristina Moroi,R,,ROU,16.5256673511,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2013-W-C10-ROU-03A-2013,Bals 10K,Clay,32,10,20130624,7,210705,,,Irina Maria Bara,R,,ROU,18.2696783025,206254,,Q,Anna Velica,U,,SWE,20.8815879535,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,967,11,,
 2013-W-C10-ROU-03A-2013,Bals 10K,Clay,32,10,20130624,8,206250,5,,Michaela Boev,U,,BEL,21.9739904175,210434,,,Gabriela Porubin,R,,MDA,19.0691307324,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,769,22,1160,3
-2013-W-C10-ROU-03A-2013,Bals 10K,Clay,32,10,20130624,9,211342,7,,Gabriela Talaba,U,,ROU,17.8370978782,211182,,,Patricia Lancranjan,U,,ROU,17.7440109514,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,859,16,1039,7
+2013-W-C10-ROU-03A-2013,Bals 10K,Clay,32,10,20130624,9,211342,7,,Gabriela Talaba,L,,ROU,17.8370978782,211182,,,Patricia Lancranjan,U,,ROU,17.7440109514,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,859,16,1039,7
 2013-W-C10-ROU-03A-2013,Bals 10K,Clay,32,10,20130624,10,211716,,,Iuliana Oante,U,,ROU,22.9103353867,211714,,Q,Raluca Ciufrila,U,,ROU,16.4298425736,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2013-W-C10-ROU-03A-2013,Bals 10K,Clay,32,10,20130624,11,209954,,Q,Georgiana Patrasc,R,,ROU,19.6851471595,213808,,Q,Alisa Martinov,U,,MDA,15.6221765914,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2013-W-C10-ROU-03A-2013,Bals 10K,Clay,32,10,20130624,12,210786,4,,Anastasia Vdovenco,R,,MDA,19.1786447639,210776,,,Gabriela Duca,U,,ROU,18.7542778919,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,760,23,,
@@ -7896,13 +7896,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-W-C10-ROU-03A-2013,Bals 10K,Clay,32,10,20130624,18,211099,,Q,Nicoleta Catalina Dascalu,R,,ROU,17.5140314853,203588,,,Cristina Adamescu,R,,ROU,17.6646132786,7-5 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,,,1000,10
 2013-W-C10-ROU-03A-2013,Bals 10K,Clay,32,10,20130624,19,210645,3,,Elena Teodora Cadar,L,,ROU,19.3292265572,211646,,,Oana Georgeta Simion,U,,ROU,17.2950034223,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,622,41,,
 2013-W-C10-ROU-03A-2013,Bals 10K,Clay,32,10,20130624,20,206250,5,,Michaela Boev,U,,BEL,21.9739904175,210705,,,Irina Maria Bara,R,,ROU,18.2696783025,6-3 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,769,22,967,11
-2013-W-C10-ROU-03A-2013,Bals 10K,Clay,32,10,20130624,21,211342,7,,Gabriela Talaba,U,,ROU,17.8370978782,211716,,,Iuliana Oante,U,,ROU,22.9103353867,6-2 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,859,16,,
+2013-W-C10-ROU-03A-2013,Bals 10K,Clay,32,10,20130624,21,211342,7,,Gabriela Talaba,L,,ROU,17.8370978782,211716,,,Iuliana Oante,U,,ROU,22.9103353867,6-2 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,859,16,,
 2013-W-C10-ROU-03A-2013,Bals 10K,Clay,32,10,20130624,22,210786,4,,Anastasia Vdovenco,R,,MDA,19.1786447639,209954,,Q,Georgiana Patrasc,R,,ROU,19.6851471595,6-2 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,760,23,,
 2013-W-C10-ROU-03A-2013,Bals 10K,Clay,32,10,20130624,23,203589,6,WC,Camelia Elena Hristea,R,,ROU,22.3874058864,211267,,Q,Daniela Ciobanu,R,,MDA,18.2943189596,6-1 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,781,21,,
 2013-W-C10-ROU-03A-2013,Bals 10K,Clay,32,10,20130624,24,202917,2,,Raluca Elena Platon,R,,ROU,20.0355920602,205764,,WC,Ingrid Alexandra Radu,U,,ROU,20.0629705681,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,557,50,,
 2013-W-C10-ROU-03A-2013,Bals 10K,Clay,32,10,20130624,25,202578,1,,Laura Ioana Andrei,R,,ROU,25.0650239562,211099,,Q,Nicoleta Catalina Dascalu,R,,ROU,17.5140314853,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,297,159,,
 2013-W-C10-ROU-03A-2013,Bals 10K,Clay,32,10,20130624,26,210645,3,,Elena Teodora Cadar,L,,ROU,19.3292265572,206250,5,,Michaela Boev,U,,BEL,21.9739904175,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,622,41,769,22
-2013-W-C10-ROU-03A-2013,Bals 10K,Clay,32,10,20130624,27,210786,4,,Anastasia Vdovenco,R,,MDA,19.1786447639,211342,7,,Gabriela Talaba,U,,ROU,17.8370978782,6-0 6-1,3,QF,,,,,,,,,,,,,,,,,,,,760,23,859,16
+2013-W-C10-ROU-03A-2013,Bals 10K,Clay,32,10,20130624,27,210786,4,,Anastasia Vdovenco,R,,MDA,19.1786447639,211342,7,,Gabriela Talaba,L,,ROU,17.8370978782,6-0 6-1,3,QF,,,,,,,,,,,,,,,,,,,,760,23,859,16
 2013-W-C10-ROU-03A-2013,Bals 10K,Clay,32,10,20130624,28,202917,2,,Raluca Elena Platon,R,,ROU,20.0355920602,203589,6,WC,Camelia Elena Hristea,R,,ROU,22.3874058864,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,557,50,781,21
 2013-W-C10-ROU-03A-2013,Bals 10K,Clay,32,10,20130624,29,202578,1,,Laura Ioana Andrei,R,,ROU,25.0650239562,210645,3,,Elena Teodora Cadar,L,,ROU,19.3292265572,7-5 4-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,297,159,622,41
 2013-W-C10-ROU-03A-2013,Bals 10K,Clay,32,10,20130624,30,210786,4,,Anastasia Vdovenco,R,,MDA,19.1786447639,202917,2,,Raluca Elena Platon,R,,ROU,20.0355920602,6-4 6-0,3,SF,,,,,,,,,,,,,,,,,,,,760,23,557,50
@@ -7918,7 +7918,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-W-C10-ROU-04A-2013,Iasi 10K,Clay,32,10,20130708,9,211260,5,,Marie Benoit,L,,BEL,18.3134839151,210271,,,Anita Husaric,R,,BIH,19.0308008214,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,612,42,805,20
 2013-W-C10-ROU-04A-2013,Iasi 10K,Clay,32,10,20130708,10,211654,,WC,Ana Bianca Mihaila,U,,ROU,16.7556468172,209331,,Q,Julia Helbet,R,,MDA,25.1033538672,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2013-W-C10-ROU-04A-2013,Iasi 10K,Clay,32,10,20130708,11,203525,,,Anaeve Pain,R,,FRA,19.5701574264,210705,,,Irina Maria Bara,R,,ROU,18.3080082136,6-3 0-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,981,11,770,23
-2013-W-C10-ROU-04A-2013,Iasi 10K,Clay,32,10,20130708,12,202595,4,,Alexandra Damaschin,R,,ROU,22.3956194387,211342,,,Gabriela Talaba,U,,ROU,17.8754277892,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,644,36,790,21
+2013-W-C10-ROU-04A-2013,Iasi 10K,Clay,32,10,20130708,12,202595,4,,Alexandra Damaschin,R,,ROU,22.3956194387,211342,,,Gabriela Talaba,L,,ROU,17.8754277892,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,644,36,790,21
 2013-W-C10-ROU-04A-2013,Iasi 10K,Clay,32,10,20130708,13,210645,6,,Elena Teodora Cadar,L,,ROU,19.3675564682,213582,,Q,Kateryna Sliusar,U,,UKR,15.6057494867,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,587,46,,
 2013-W-C10-ROU-04A-2013,Iasi 10K,Clay,32,10,20130708,14,213833,,Q,Iulia Truca,R,,ROU,16.2628336756,213834,,Q,Rebecca Kaineder,R,,AUT,20.8377823409,2-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2013-W-C10-ROU-04A-2013,Iasi 10K,Clay,32,10,20130708,15,206057,,,Simona Ionescu,U,,ROU,19.4962354552,211537,,Q,Mathilde Armitano,R,,FRA,16.0930869268,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -7942,7 +7942,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-W-C10-ROU-05A-2013,Arad 10K,Clay,32,10,20130805,2,211182,,,Patricia Lancranjan,U,,ROU,17.8590006845,206423,,,Sandra Honigova,U,,CZE,17.2238193018,6-2 1-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,961,11,760,23
 2013-W-C10-ROU-05A-2013,Arad 10K,Clay,32,10,20130805,3,211100,,,Ioana Ducu,R,,ROU,17.2977412731,206050,,WC,Karina Goia,R,,ROU,20.93908282,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,857,16,,
 2013-W-C10-ROU-05A-2013,Arad 10K,Clay,32,10,20130805,4,205824,8,,Ema Mikulcic,R,,CRO,21.273100616,210693,,Q,Elizabeta Bauer,R,,SRB,19.5564681725,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,739,25,,
-2013-W-C10-ROU-05A-2013,Arad 10K,Clay,32,10,20130805,5,211342,,,Gabriela Talaba,U,,ROU,17.9520876112,203428,4,,Vivien Juhaszova,R,,SVK,20.052019165,6-0 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,881,15,594,45
+2013-W-C10-ROU-05A-2013,Arad 10K,Clay,32,10,20130805,5,211342,,,Gabriela Talaba,L,,ROU,17.9520876112,203428,4,,Vivien Juhaszova,R,,SVK,20.052019165,6-0 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,881,15,594,45
 2013-W-C10-ROU-05A-2013,Arad 10K,Clay,32,10,20130805,6,211099,,WC,Nicoleta Catalina Dascalu,R,,ROU,17.6290212183,210776,,Q,Gabriela Duca,U,,ROU,18.8692676249,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2013-W-C10-ROU-05A-2013,Arad 10K,Clay,32,10,20130805,7,210786,,,Anastasia Vdovenco,R,,MDA,19.2936344969,213584,,Q,Irina Fetecau,R,,ROU,17.3004791239,3-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,763,23,,
 2013-W-C10-ROU-05A-2013,Arad 10K,Clay,32,10,20130805,8,211227,6,,Lina Gjorcheska,U,,MKD,19.0061601643,213879,,Q,Barbara Kotelesova,U,,SVK,17.2320328542,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,706,29,,
@@ -7956,7 +7956,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-W-C10-ROU-05A-2013,Arad 10K,Clay,32,10,20130805,16,210645,2,,Elena Teodora Cadar,L,,ROU,19.4442162902,203588,,,Cristina Adamescu,R,,ROU,17.7796030116,6-2 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,557,51,903,14
 2013-W-C10-ROU-05A-2013,Arad 10K,Clay,32,10,20130805,17,211182,,,Patricia Lancranjan,U,,ROU,17.8590006845,203520,1,,Arabela Fernandez Rabener,U,,ESP,22.7926078029,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,961,11,514,61
 2013-W-C10-ROU-05A-2013,Arad 10K,Clay,32,10,20130805,18,205824,8,,Ema Mikulcic,R,,CRO,21.273100616,211100,,,Ioana Ducu,R,,ROU,17.2977412731,6-4 2-6 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,739,25,857,16
-2013-W-C10-ROU-05A-2013,Arad 10K,Clay,32,10,20130805,19,211099,,WC,Nicoleta Catalina Dascalu,R,,ROU,17.6290212183,211342,,,Gabriela Talaba,U,,ROU,17.9520876112,6-3 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,,,881,15
+2013-W-C10-ROU-05A-2013,Arad 10K,Clay,32,10,20130805,19,211099,,WC,Nicoleta Catalina Dascalu,R,,ROU,17.6290212183,211342,,,Gabriela Talaba,L,,ROU,17.9520876112,6-3 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,,,881,15
 2013-W-C10-ROU-05A-2013,Arad 10K,Clay,32,10,20130805,20,211227,6,,Lina Gjorcheska,U,,MKD,19.0061601643,210786,,,Anastasia Vdovenco,R,,MDA,19.2936344969,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,706,29,763,23
 2013-W-C10-ROU-05A-2013,Arad 10K,Clay,32,10,20130805,21,203586,7,,Ioana Loredana Rosca,R,,ROU,16.8733744011,204366,,LL,Victoria Muntean,U,,FRA,16.5311430527,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,737,25,1058,7
 2013-W-C10-ROU-05A-2013,Arad 10K,Clay,32,10,20130805,22,211960,,WC,Lilla Barzo,U,,HUN,16.9226557153,202917,3,,Raluca Elena Platon,R,,ROU,20.1505817933,3-6 7-6(4) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,586,46
@@ -7971,7 +7971,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-W-C10-ROU-05A-2013,Arad 10K,Clay,32,10,20130805,31,211856,,SE,Anastasiya Komardina,L,,RUS,16.076659822,211227,6,,Lina Gjorcheska,U,,MKD,19.0061601643,6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,,,706,29
 2013-W-C10-ROU-06A-2013,Bucharest 10K,Clay,32,10,20130819,1,201691,1,,Dia Evtimova,R,,BUL,26.3052703628,211267,,Q,Daniela Ciobanu,R,,MDA,18.4476386037,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,280,175,,
 2013-W-C10-ROU-06A-2013,Bucharest 10K,Clay,32,10,20130819,2,202595,,,Alexandra Damaschin,R,,ROU,22.5106091718,211654,,Q,Ana Bianca Mihaila,U,,ROU,16.8706365503,2-6 6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,701,29,1189,3
-2013-W-C10-ROU-06A-2013,Bucharest 10K,Clay,32,10,20130819,3,211342,,WC,Gabriela Talaba,U,,ROU,17.9904175222,213807,,WC,Cristina Moroi,R,,ROU,16.6789869952,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,861,17,,
+2013-W-C10-ROU-06A-2013,Bucharest 10K,Clay,32,10,20130819,3,211342,,WC,Gabriela Talaba,L,,ROU,17.9904175222,213807,,WC,Cristina Moroi,R,,ROU,16.6789869952,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,861,17,,
 2013-W-C10-ROU-06A-2013,Bucharest 10K,Clay,32,10,20130819,4,206255,7,,Patricia Maria Tig,R,,ROU,19.0636550308,213781,,Q,Jasmine Marina Coteanu,U,,ROU,16.4736481862,4-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,543,53,,
 2013-W-C10-ROU-06A-2013,Bucharest 10K,Clay,32,10,20130819,5,206183,3,,Cindy Burger,R,,NED,20.7310061602,211646,,,Oana Georgeta Simion,U,,ROU,17.4483230664,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,368,112,1034,8
 2013-W-C10-ROU-06A-2013,Bucharest 10K,Clay,32,10,20130819,6,203586,,,Ioana Loredana Rosca,R,,ROU,16.9117043121,203589,,,Camelia Elena Hristea,R,,ROU,22.5407255305,4-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,673,32,861,17
@@ -7986,7 +7986,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-W-C10-ROU-06A-2013,Bucharest 10K,Clay,32,10,20130819,15,210728,,Q,Aida Martinez Sanjuan,R,,ESP,20.59137577,203590,,Q,Ana Mihaela Vladutu,R,,ROU,20.4955509925,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1087,6,,
 2013-W-C10-ROU-06A-2013,Bucharest 10K,Clay,32,10,20130819,16,202578,2,,Laura Ioana Andrei,R,,ROU,25.2183436003,213779,,Q,Raluca Georgiana Serban,R,,ROU,16.1724845996,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,297,163,,
 2013-W-C10-ROU-06A-2013,Bucharest 10K,Clay,32,10,20130819,17,201691,1,,Dia Evtimova,R,,BUL,26.3052703628,202595,,,Alexandra Damaschin,R,,ROU,22.5106091718,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,280,175,701,29
-2013-W-C10-ROU-06A-2013,Bucharest 10K,Clay,32,10,20130819,18,206255,7,,Patricia Maria Tig,R,,ROU,19.0636550308,211342,,WC,Gabriela Talaba,U,,ROU,17.9904175222,7-6(3) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,543,53,861,17
+2013-W-C10-ROU-06A-2013,Bucharest 10K,Clay,32,10,20130819,18,206255,7,,Patricia Maria Tig,R,,ROU,19.0636550308,211342,,WC,Gabriela Talaba,L,,ROU,17.9904175222,7-6(3) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,543,53,861,17
 2013-W-C10-ROU-06A-2013,Bucharest 10K,Clay,32,10,20130819,19,206183,3,,Cindy Burger,R,,NED,20.7310061602,203586,,,Ioana Loredana Rosca,R,,ROU,16.9117043121,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,368,112,673,32
 2013-W-C10-ROU-06A-2013,Bucharest 10K,Clay,32,10,20130819,20,202917,,,Raluca Elena Platon,R,,ROU,20.1889117043,211099,,WC,Nicoleta Catalina Dascalu,R,,ROU,17.6673511294,4-6 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,596,44,,
 2013-W-C10-ROU-06A-2013,Bucharest 10K,Clay,32,10,20130819,21,210705,,,Irina Maria Bara,R,,ROU,18.4229979466,210645,8,,Elena Teodora Cadar,L,,ROU,19.4825462012,6-2 1-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,787,21,553,51
@@ -10112,7 +10112,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-W-C10-TUR-48A-2013,Antalya 10K,Clay,32,10,20131209,4,210705,7,,Irina Maria Bara,R,,ROU,18.7296372348,210976,,,Linda Dubska,U,,CZE,17.6919917864,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,652,39,1231,3
 2013-W-C10-TUR-48A-2013,Antalya 10K,Clay,32,10,20131209,5,203492,4,,Alyona Sotnikova,R,,UKR,21.5961670089,206288,,,Tamari Chalaganidze,U,,GEO,18.1546885695,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,442,85,1224,3
 2013-W-C10-TUR-48A-2013,Antalya 10K,Clay,32,10,20131209,6,206255,,,Patricia Maria Tig,R,,ROU,19.370294319,210895,,Q,Tessa Breve,R,,NED,19.8439425051,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,674,36,,
-2013-W-C10-TUR-48A-2013,Antalya 10K,Clay,32,10,20131209,7,211342,,,Gabriela Talaba,U,,ROU,18.2970568104,213694,,Q,Lisa Matviyenko,R,,GER,16.1752224504,6-1 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1051,10,,
+2013-W-C10-TUR-48A-2013,Antalya 10K,Clay,32,10,20131209,7,211342,,,Gabriela Talaba,L,,ROU,18.2970568104,213694,,Q,Lisa Matviyenko,R,,GER,16.1752224504,6-1 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1051,10,,
 2013-W-C10-TUR-48A-2013,Antalya 10K,Clay,32,10,20131209,8,202917,6,,Raluca Elena Platon,R,,ROU,20.4955509925,211700,,,Barbora Stefkova,R,,CZE,18.6830937714,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,563,54,729,29
 2013-W-C10-TUR-48A-2013,Antalya 10K,Clay,32,10,20131209,9,211367,,Q,Hikari Yamamoto,L,,JPN,18.1793292266,205983,8,,Josepha Adam,R,,FRA,20.1040383299,6-1 1-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,662,38
 2013-W-C10-TUR-48A-2013,Antalya 10K,Clay,32,10,20131209,10,206171,,,Alice Bacquie,U,,FRA,18.3819301848,203527,,,Khristina Kazimova,R,,UKR,23.5674195756,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1122,7,945,14
@@ -10125,7 +10125,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-W-C10-TUR-48A-2013,Antalya 10K,Clay,32,10,20131209,17,205875,1,,Chantal Skamlova,R,,SVK,20.2628336756,211825,,Q,Anastasiya Saitova,U,,RUS,18.8117727584,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,407,99,680,36
 2013-W-C10-TUR-48A-2013,Antalya 10K,Clay,32,10,20131209,18,210705,7,,Irina Maria Bara,R,,ROU,18.7296372348,213855,,Q,Magali Kempen,R,,BEL,16.0246406571,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,652,39,,
 2013-W-C10-TUR-48A-2013,Antalya 10K,Clay,32,10,20131209,19,206255,,,Patricia Maria Tig,R,,ROU,19.370294319,203492,4,,Alyona Sotnikova,R,,UKR,21.5961670089,6-1 5-3 RET,3,R16,,,,,,,,,,,,,,,,,,,,674,36,442,85
-2013-W-C10-TUR-48A-2013,Antalya 10K,Clay,32,10,20131209,20,202917,6,,Raluca Elena Platon,R,,ROU,20.4955509925,211342,,,Gabriela Talaba,U,,ROU,18.2970568104,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,563,54,1051,10
+2013-W-C10-TUR-48A-2013,Antalya 10K,Clay,32,10,20131209,20,202917,6,,Raluca Elena Platon,R,,ROU,20.4955509925,211342,,,Gabriela Talaba,L,,ROU,18.2970568104,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,563,54,1051,10
 2013-W-C10-TUR-48A-2013,Antalya 10K,Clay,32,10,20131209,21,211367,,Q,Hikari Yamamoto,L,,JPN,18.1793292266,206171,,,Alice Bacquie,U,,FRA,18.3819301848,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,1122,7
 2013-W-C10-TUR-48A-2013,Antalya 10K,Clay,32,10,20131209,22,202667,,,Natela Dzalamidze,R,,RUS,20.7802874743,210880,3,,Borislava Botusharova,R,,BUL,19.0308008214,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,668,37,453,80
 2013-W-C10-TUR-48A-2013,Antalya 10K,Clay,32,10,20131209,23,203586,,,Ioana Loredana Rosca,R,,ROU,17.2183436003,202593,,,Diana Buzean,R,,ROU,25.993155373,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,721,30,720,30
@@ -10146,7 +10146,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-W-C10-TUR-49A-2013,Antalya 10K,Clay,32,10,20131216,7,211535,,Q,Camille Cheli,R,,FRA,20.3997262149,214477,,WC,Alina Zubkova,U,,BLR,17.325119781,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1136,6,,
 2013-W-C10-TUR-49A-2013,Antalya 10K,Clay,32,10,20131216,8,206255,,,Patricia Maria Tig,R,,ROU,19.3894592745,210722,8,,Elise Mertens,R,,BEL,18.0807665982,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,685,36,595,48
 2013-W-C10-TUR-49A-2013,Antalya 10K,Clay,32,10,20131216,9,202917,7,,Raluca Elena Platon,R,,ROU,20.514715948,206171,,Q,Alice Bacquie,U,,FRA,18.4010951403,6-4 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,564,54,1128,7
-2013-W-C10-TUR-49A-2013,Antalya 10K,Clay,32,10,20131216,10,211342,,,Gabriela Talaba,U,,ROU,18.3162217659,211729,,WC,Melissa Sehovic,U,,BIH,16.1204654346,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1055,10,1182,5
+2013-W-C10-TUR-49A-2013,Antalya 10K,Clay,32,10,20131216,10,211342,,,Gabriela Talaba,L,,ROU,18.3162217659,211729,,WC,Melissa Sehovic,U,,BIH,16.1204654346,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1055,10,1182,5
 2013-W-C10-TUR-49A-2013,Antalya 10K,Clay,32,10,20131216,11,211059,,,Giorgia Pinto,L,,ITA,21.8097193703,210439,,,Ella Leivo,U,,FIN,19.3921971253,7-5 3-6 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1038,10,1109,7
 2013-W-C10-TUR-49A-2013,Antalya 10K,Clay,32,10,20131216,12,211732,,Q,Alessia Piran,U,,ITA,21.5906913073,210880,4,,Borislava Botusharova,R,,BUL,19.0499657769,4-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1236,3,456,80
 2013-W-C10-TUR-49A-2013,Antalya 10K,Clay,32,10,20131216,13,211825,,,Anastasiya Saitova,U,,RUS,18.8309377139,206422,6,,Anastasia Rudakova,U,,RUS,19.1019849418,6-4 1-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,691,36,517,63
@@ -10157,7 +10157,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-W-C10-TUR-49A-2013,Antalya 10K,Clay,32,10,20131216,18,210705,,,Irina Maria Bara,R,,ROU,18.7488021903,211296,,,Dea Herdzelas,R,,BIH,17.106091718,6-1 2-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,659,39,813,21
 2013-W-C10-TUR-49A-2013,Antalya 10K,Clay,32,10,20131216,19,202593,,,Diana Buzean,R,,ROU,26.0123203285,205983,,,Josepha Adam,R,,FRA,20.1232032854,6-4 6-7(6) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,728,30,669,38
 2013-W-C10-TUR-49A-2013,Antalya 10K,Clay,32,10,20131216,20,206255,,,Patricia Maria Tig,R,,ROU,19.3894592745,211535,,Q,Camille Cheli,R,,FRA,20.3997262149,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,685,36,1136,6
-2013-W-C10-TUR-49A-2013,Antalya 10K,Clay,32,10,20131216,21,202917,7,,Raluca Elena Platon,R,,ROU,20.514715948,211342,,,Gabriela Talaba,U,,ROU,18.3162217659,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,564,54,1055,10
+2013-W-C10-TUR-49A-2013,Antalya 10K,Clay,32,10,20131216,21,202917,7,,Raluca Elena Platon,R,,ROU,20.514715948,211342,,,Gabriela Talaba,L,,ROU,18.3162217659,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,564,54,1055,10
 2013-W-C10-TUR-49A-2013,Antalya 10K,Clay,32,10,20131216,22,211732,,Q,Alessia Piran,U,,ITA,21.5906913073,211059,,,Giorgia Pinto,L,,ITA,21.8097193703,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1236,3,1038,10
 2013-W-C10-TUR-49A-2013,Antalya 10K,Clay,32,10,20131216,23,211820,,Q,Martina Colmegna,R,,ITA,17.015742642,211825,,,Anastasiya Saitova,U,,RUS,18.8309377139,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1136,6,691,36
 2013-W-C10-TUR-49A-2013,Antalya 10K,Clay,32,10,20131216,24,202424,2,,Conny Perrin,R,,SUI,22.9760438056,211316,,,Jessika Ponchet,U,,FRA,17.2210814511,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,414,95,1073,9
@@ -11136,7 +11136,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-W-C25-BUL-01A-2013,Sofia 25K,Clay,32,25,20130909,5,202858,4,,Anne Schaefer,R,,GER,26.5270362765,203589,,WC,Camelia Elena Hristea,R,,ROU,22.598220397,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,207,280,839,18
 2013-W-C25-BUL-01A-2013,Sofia 25K,Clay,32,25,20130909,6,202600,,WC,Viktoriya Tomova,R,,BUL,18.5379876797,201583,,,Yana Buchina,R,,RUS,21.5879534565,7-5 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,424,89,338,129
 2013-W-C25-BUL-01A-2013,Sofia 25K,Clay,32,25,20130909,7,201577,,,Heidi El Tabakh,R,,CAN,26.9568788501,206336,,Q,Julia Stamatova,L,,BUL,20.2655715264,4-6 6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,356,120,550,53
-2013-W-C25-BUL-01A-2013,Sofia 25K,Clay,32,25,20130909,8,201557,7,,Corinna Dentoni,R,,ITA,24.1122518823,211342,,Q,Gabriela Talaba,U,,ROU,18.0479123888,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,239,228,866,16
+2013-W-C25-BUL-01A-2013,Sofia 25K,Clay,32,25,20130909,8,201557,7,,Corinna Dentoni,R,,ITA,24.1122518823,211342,,Q,Gabriela Talaba,L,,ROU,18.0479123888,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,239,228,866,16
 2013-W-C25-BUL-01A-2013,Sofia 25K,Clay,32,25,20130909,9,201592,6,,Beatriz Garcia Vidagany,U,,ESP,24.810403833,206070,,,Sofiya Kovalets,R,,UKR,19.1676933607,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,226,247,307,152
 2013-W-C25-BUL-01A-2013,Sofia 25K,Clay,32,25,20130909,10,202506,,,Margarita Gasparyan,R,,RUS,19.022587269,202436,,,Reka Luca Jani,R,,HUN,22.1108829569,6-3 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,304,153,245,217
 2013-W-C25-BUL-01A-2013,Sofia 25K,Clay,32,25,20130909,11,203465,,,Amanda Carreras,R,,GBR,23.318275154,206030,,Q,Julia Wachaczyk,L,,GER,19.40862423,7-6(7) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,346,124,742,25
@@ -16399,6 +16399,527 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2013-W-WITF-THA-07A-2013,Phuket 15K,Hard,32,15,20131111,272,203288,4,,Jia Jing Lu,R,,CHN,23.9808350445,206151,,Q,Kamonwan Buayam,R,,THA,17.7385352498,7-5 6-1,3,SF,,,,,,,,,,,,,,,,,,,,363,115,685,33
 2013-W-WITF-THA-07A-2013,Phuket 15K,Hard,32,15,20131111,271,201667,,,Ling Zhang,R,,HKG,24.038329911,201631,6,,Nicha Lertpitaksinchai,R,,THA,22.2450376454,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,497,66,412,91
 2013-W-WITF-THA-07A-2013,Phuket 15K,Hard,32,15,20131111,270,201667,,,Ling Zhang,R,,HKG,24.038329911,203288,4,,Jia Jing Lu,R,,CHN,23.9808350445,0-6 7-6(2) 6-3,3,F,,,,,,,,,,,,,,,,,,,,497,66,363,115
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,300,202636,1,,Zuzana Zlochova,R,,SVK,23.6249144422,204355,,,Katherine Westbury,R,,THA,20.4900752909,6-3 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,283,170,815,19
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,299,214040,,WC,Kimberly Birrell,U,,AUS,15.3648186174,201125,,,Elizabeth James,U,,GBR,67.3210130048,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,298,204299,,,Ashling Sumner,R,,AUS,20.7063655031,223222,,WC,Jaimee Gilbertson,U,,AUS,,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,297,213539,,Q,Pamela Boyanov,R,,AUS,15.7973990418,211878,8,,Lizette Cabrera,R,,AUS,15.7234770705,7-6(5) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,891,14
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,296,211881,,,Olivia Tjandramulia,R,,AUS,16.3312799452,201487,4,,Jessica Moore,R,,AUS,23.0663928816,7-6(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,431,86
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,295,223223,,Q,Martina Hudaly,U,,AUS,,223224,,WC,Tammy Srbinovski,U,,AUS,,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,294,211879,,,Samantha Harris,U,,AUS,17.7248459959,211168,,Q,Nana Miyakawa,R,,AUS,22.302532512,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,293,202896,6,,Yurina Koshino,U,,JPN,25.3169062286,216241,,Q,Somer Dalla Bona,U,,AUS,14.1190965092,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,643,35,,
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,292,201607,5,,Sally Peers,R,,AUS,22.2751540041,204222,,,Tyra Calderwood,R,,AUS,22.9733059548,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,444,81,979,10
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,291,206080,,,Karis Ryan,U,,AUS,22.0561259411,206270,,,Ashley Keir,R,,AUS,19.1101984942,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,961,11,1063,8
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,290,201538,,,Isabella Holland,R,,AUS,21.6865160849,204220,,,Dianne Hollands,R,,NZL,30.3326488706,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1068,7,762,24
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,289,203526,3,,Tammi Patterson,R,,AUS,23.6824093087,204331,,,Chelsea Te Tai,R,,NZL,20.9746748802,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,360,118,,
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,288,211880,,,Priscilla Hon,R,,AUS,15.3347022587,205615,7,,Julia Moriarty,R,,IRL,24.7665982204,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1128,4,753,24
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,287,206391,,Q,Ellen Perez,L,,AUS,17.916495551,214700,,Q,Joanne Karaitiana,U,,AUS,24.6543463381,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,286,203195,,Q,Tomoko Dokei,U,,JPN,32.2135523614,219355,,Q,Sasha Bollweg,R,,AUS,15.1019849418,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,285,204413,2,,Azra Hadzic,U,,AUS,18.7871321013,211943,,WC,Amy Sneath,U,,AUS,18.4449007529,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,329,133,,
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,284,202636,1,,Zuzana Zlochova,R,,SVK,23.6249144422,214040,,WC,Kimberly Birrell,U,,AUS,15.3648186174,6-2 6-7(2) 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,283,170,,
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,283,213539,,Q,Pamela Boyanov,R,,AUS,15.7973990418,204299,,,Ashling Sumner,R,,AUS,20.7063655031,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,282,211881,,,Olivia Tjandramulia,R,,AUS,16.3312799452,223223,,Q,Martina Hudaly,U,,AUS,,7-5 1-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,281,202896,6,,Yurina Koshino,U,,JPN,25.3169062286,211879,,,Samantha Harris,U,,AUS,17.7248459959,6-2 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,643,35,,
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,280,201607,5,,Sally Peers,R,,AUS,22.2751540041,206080,,,Karis Ryan,U,,AUS,22.0561259411,6-3 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,444,81,961,11
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,279,201538,,,Isabella Holland,R,,AUS,21.6865160849,203526,3,,Tammi Patterson,R,,AUS,23.6824093087,3-6 6-4 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,1068,7,360,118
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,278,206391,,Q,Ellen Perez,L,,AUS,17.916495551,211880,,,Priscilla Hon,R,,AUS,15.3347022587,7-6(1) 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,,,1128,4
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,277,204413,2,,Azra Hadzic,U,,AUS,18.7871321013,203195,,Q,Tomoko Dokei,U,,JPN,32.2135523614,7-6(5) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,329,133,,
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,276,202636,1,,Zuzana Zlochova,R,,SVK,23.6249144422,213539,,Q,Pamela Boyanov,R,,AUS,15.7973990418,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,283,170,,
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,275,211881,,,Olivia Tjandramulia,R,,AUS,16.3312799452,202896,6,,Yurina Koshino,U,,JPN,25.3169062286,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,,,643,35
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,274,201538,,,Isabella Holland,R,,AUS,21.6865160849,201607,5,,Sally Peers,R,,AUS,22.2751540041,7-6(6) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,1068,7,444,81
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,273,204413,2,,Azra Hadzic,U,,AUS,18.7871321013,206391,,Q,Ellen Perez,L,,AUS,17.916495551,4-6 6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,329,133,,
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,272,202636,1,,Zuzana Zlochova,R,,SVK,23.6249144422,211881,,,Olivia Tjandramulia,R,,AUS,16.3312799452,6-2 2-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,283,170,,
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,271,201538,,,Isabella Holland,R,,AUS,21.6865160849,204413,2,,Azra Hadzic,U,,AUS,18.7871321013,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,1068,7,329,133
+2013-W-WITF-AUS-08A-2013,Toowoomba 15K,Hard,32,15,20130909,270,201538,,,Isabella Holland,R,,AUS,21.6865160849,202636,1,,Zuzana Zlochova,R,,SVK,23.6249144422,2-6 7-6(6) 6-3,3,F,,,,,,,,,,,,,,,,,,,,1068,7,283,170
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,300,202636,1,,Zuzana Zlochova,R,,SVK,23.6440793977,201538,,,Isabella Holland,R,,AUS,21.7056810404,5-7 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,290,166,1071,7
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,299,202568,,,Yumi Nakano,R,,JPN,25.6865160849,211924,,WC,Andrea Dikosavljevic,R,,AUS,17.4565366188,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,731,26,,
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,298,214040,,Q,Kimberly Birrell,U,,AUS,15.3839835729,211168,,Q,Nana Miyakawa,R,,AUS,22.3216974675,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,297,202896,8,,Yurina Koshino,U,,JPN,25.3360711841,223223,,Q,Martina Hudaly,U,,AUS,,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,635,36,,
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,296,201487,4,,Jessica Moore,R,,AUS,23.0855578371,219355,,Q,Sasha Bollweg,R,,AUS,15.1211498973,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,431,86,,
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,295,211879,,,Samantha Harris,U,,AUS,17.7440109514,205615,,,Julia Moriarty,R,,IRL,24.7857631759,7-6(4) 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,764,23
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,294,206391,,Q,Ellen Perez,L,,AUS,17.9356605065,206270,,,Ashley Keir,R,,AUS,19.1293634497,6-4 3-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1080,7
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,293,203504,7,,Miyu Kato,R,,JPN,18.8199863107,204355,,,Katherine Westbury,R,,THA,20.5092402464,4-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,487,70,813,19
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,292,206427,6,,Daiana Negreanu,U,,ROU,25.2375085558,202928,,Q,Kotomi Takahata,L,,JPN,23.8302532512,7-6(4) 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,516,62,1088,6
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,291,211880,,,Priscilla Hon,R,,AUS,15.3538672142,204299,,WC,Ashling Sumner,R,,AUS,20.7255304586,4-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,290,204220,,,Dianne Hollands,R,,NZL,30.3518138261,206080,,,Karis Ryan,U,,AUS,22.0752908966,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,758,24,960,11
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,289,203526,3,,Tammi Patterson,R,,AUS,23.7015742642,201125,,Q,Elizabeth James,U,,GBR,67.3401779603,6-7(3) 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,368,111,,
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,288,201607,5,,Sally Peers,R,,AUS,22.2943189596,213539,,WC,Pamela Boyanov,R,,AUS,15.8165639973,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,446,81,,
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,287,211881,,WC,Olivia Tjandramulia,R,,AUS,16.3504449008,204222,,,Tyra Calderwood,R,,AUS,22.9924709103,7-6(1) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,978,10
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,286,211351,,,Ayaka Okuno,R,,JPN,18.2395619439,203195,,Q,Tomoko Dokei,U,,JPN,32.2327173169,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1088,6,,
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,285,204413,2,,Azra Hadzic,U,,AUS,18.8062970568,211878,,,Lizette Cabrera,R,,AUS,15.742642026,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,356,118,911,13
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,284,202636,1,,Zuzana Zlochova,R,,SVK,23.6440793977,202568,,,Yumi Nakano,R,,JPN,25.6865160849,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,290,166,731,26
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,283,214040,,Q,Kimberly Birrell,U,,AUS,15.3839835729,202896,8,,Yurina Koshino,U,,JPN,25.3360711841,7-6(9) 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,635,36
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,282,201487,4,,Jessica Moore,R,,AUS,23.0855578371,211879,,,Samantha Harris,U,,AUS,17.7440109514,6-1 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,431,86,,
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,281,203504,7,,Miyu Kato,R,,JPN,18.8199863107,206391,,Q,Ellen Perez,L,,AUS,17.9356605065,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,487,70,,
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,280,211880,,,Priscilla Hon,R,,AUS,15.3538672142,206427,6,,Daiana Negreanu,U,,ROU,25.2375085558,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,516,62
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,279,204220,,,Dianne Hollands,R,,NZL,30.3518138261,203526,3,,Tammi Patterson,R,,AUS,23.7015742642,6-3 2-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,758,24,368,111
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,278,201607,5,,Sally Peers,R,,AUS,22.2943189596,211881,,WC,Olivia Tjandramulia,R,,AUS,16.3504449008,7-6(7) 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,446,81,,
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,277,204413,2,,Azra Hadzic,U,,AUS,18.8062970568,211351,,,Ayaka Okuno,R,,JPN,18.2395619439,6-3 6-7(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,356,118,1088,6
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,276,202636,1,,Zuzana Zlochova,R,,SVK,23.6440793977,214040,,Q,Kimberly Birrell,U,,AUS,15.3839835729,6-4 6-7(7) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,290,166,,
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,275,201487,4,,Jessica Moore,R,,AUS,23.0855578371,203504,7,,Miyu Kato,R,,JPN,18.8199863107,6-3 3-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,431,86,487,70
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,274,204220,,,Dianne Hollands,R,,NZL,30.3518138261,211880,,,Priscilla Hon,R,,AUS,15.3538672142,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,758,24,,
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,273,204413,2,,Azra Hadzic,U,,AUS,18.8062970568,201607,5,,Sally Peers,R,,AUS,22.2943189596,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,356,118,446,81
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,272,201487,4,,Jessica Moore,R,,AUS,23.0855578371,202636,1,,Zuzana Zlochova,R,,SVK,23.6440793977,6-2 3-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,431,86,290,166
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,271,204413,2,,Azra Hadzic,U,,AUS,18.8062970568,204220,,,Dianne Hollands,R,,NZL,30.3518138261,6-3 7-5,3,SF,,,,,,,,,,,,,,,,,,,,356,118,758,24
+2013-W-WITF-AUS-09A-2013,Cairns 15K,Hard,32,15,20130916,270,204413,2,,Azra Hadzic,U,,AUS,18.8062970568,201487,4,,Jessica Moore,R,,AUS,23.0855578371,6-3 3-6 6-2,3,F,,,,,,,,,,,,,,,,,,,,356,118,431,86
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,300,204388,1,,Lisa Maria Moser,R,,AUT,22.4339493498,211297,,,Nerma Caluk,U,,BIH,17.7056810404,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,382,106,,
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,299,206130,,,Tjasa Srimpf,U,,SLO,19.0965092402,213790,,WC,Nelli Ponomareva,R,,RUS,17.0869267625,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,649,36,,
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,298,211067,,Q,Blaga Delic,R,,CRO,17.6755646817,218294,,Q,Antonia Sakic,R,,CRO,16.8952772074,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,297,203349,7,,Milana Spremo,R,,SRB,21.7686516085,211975,,WC,Gorica Spasojevic,U,,BIH,17.0130047912,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,564,49,,
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,296,203460,4,,Martina Kubicikova,R,,CZE,21.7248459959,211562,,,Vladica Babic,U,,MNE,17.8507871321,7-6(8) 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,452,79,898,14
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,295,203353,,,Nikola Vajdova,R,,SVK,24.6324435318,213762,,WC,Lejla Colic,U,,BIH,15.665982204,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,631,38,,
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,294,202901,,Q,Antonela Susak,R,,CRO,21.4154688569,201694,,,Silvia Njiric,R,,CRO,20.1505817933,2-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,677,32
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,293,210271,,,Anita Husaric,R,,BIH,19.1841204654,210741,8,,Iva Mekovec,R,,CRO,18.5270362765,6-1 6-7(6) 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,685,30,571,47
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,292,206302,6,Q,Gaia Sanesi,U,,ITA,21.4209445585,213717,,WC,Emilija Ceranic,U,,BIH,19.2032854209,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,555,51,,
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,291,206207,,,Francesca Palmigiano,U,,ITA,18.8501026694,206259,,,Katarina Adamovic,R,,SRB,19.9397672827,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,763,23,1018,9
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,290,203428,,,Vivien Juhaszova,R,,SVK,20.128678987,210742,,LL,Mariana Drazic,R,,CRO,18.6502395619,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,605,43,,
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,289,205123,3,,Alice Balducci,R,,ITA,26.9760438056,211870,,,Sara Djurdjevic,U,,SLO,17.2566735113,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,425,85,,
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,288,205647,5,,Tereza Malikova,R,,CZE,22.1409993155,218134,,Q,Anastasia Goncharova,R,,RUS,16.2847364819,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,467,74,,
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,287,211296,,,Dea Herdzelas,R,,BIH,16.8186173854,213744,,Q,Eva Zagorac,U,,SLO,17.7987679671,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,895,14,,
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,286,213916,,Q,Milica Sljukic,R,,MNE,17.2621492129,223225,,Q,Mirna Zadro,U,,CRO,,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,285,203427,2,,Lena Marie Hofmann,R,,GER,22.5790554415,210790,,,Zuzanna Maciejewska,L,,POL,18.6201232033,4-6 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,395,99,574,47
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,284,204388,1,,Lisa Maria Moser,R,,AUT,22.4339493498,206130,,,Tjasa Srimpf,U,,SLO,19.0965092402,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,382,106,649,36
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,283,203349,7,,Milana Spremo,R,,SRB,21.7686516085,211067,,Q,Blaga Delic,R,,CRO,17.6755646817,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,564,49,,
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,282,203460,4,,Martina Kubicikova,R,,CZE,21.7248459959,203353,,,Nikola Vajdova,R,,SVK,24.6324435318,4-6 7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,452,79,631,38
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,281,202901,,Q,Antonela Susak,R,,CRO,21.4154688569,210271,,,Anita Husaric,R,,BIH,19.1841204654,7-6(2) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,685,30
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,280,206207,,,Francesca Palmigiano,U,,ITA,18.8501026694,206302,6,Q,Gaia Sanesi,U,,ITA,21.4209445585,,3,R16,,,,,,,,,,,,,,,,,,,,763,23,555,51
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,279,203428,,,Vivien Juhaszova,R,,SVK,20.128678987,205123,3,,Alice Balducci,R,,ITA,26.9760438056,5-7 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,605,43,425,85
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,278,205647,5,,Tereza Malikova,R,,CZE,22.1409993155,211296,,,Dea Herdzelas,R,,BIH,16.8186173854,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,467,74,895,14
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,277,203427,2,,Lena Marie Hofmann,R,,GER,22.5790554415,213916,,Q,Milica Sljukic,R,,MNE,17.2621492129,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,395,99,,
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,276,204388,1,,Lisa Maria Moser,R,,AUT,22.4339493498,203349,7,,Milana Spremo,R,,SRB,21.7686516085,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,382,106,564,49
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,275,203460,4,,Martina Kubicikova,R,,CZE,21.7248459959,202901,,Q,Antonela Susak,R,,CRO,21.4154688569,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,452,79,,
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,274,203428,,,Vivien Juhaszova,R,,SVK,20.128678987,206207,,,Francesca Palmigiano,U,,ITA,18.8501026694,7-6(5) 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,605,43,763,23
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,273,203427,2,,Lena Marie Hofmann,R,,GER,22.5790554415,205647,5,,Tereza Malikova,R,,CZE,22.1409993155,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,395,99,467,74
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,272,204388,1,,Lisa Maria Moser,R,,AUT,22.4339493498,203460,4,,Martina Kubicikova,R,,CZE,21.7248459959,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,382,106,452,79
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,271,203427,2,,Lena Marie Hofmann,R,,GER,22.5790554415,203428,,,Vivien Juhaszova,R,,SVK,20.128678987,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,395,99,605,43
+2013-W-WITF-BIH-03A-2013,Sarajevo 15K,Clay,32,15,20130902,270,203427,2,,Lena Marie Hofmann,R,,GER,22.5790554415,204388,1,,Lisa Maria Moser,R,,AUT,22.4339493498,6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,395,99,382,106
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,300,203537,1,,Victoria Kan,R,,RUS,17.9110198494,211700,,WC,Barbora Stefkova,R,,CZE,18.2422997947,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,290,165,1062,6
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,299,205647,,,Tereza Malikova,R,,CZE,21.9685147159,203353,,,Nikola Vajdova,R,,SVK,24.4599589322,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,597,44,667,33
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,298,201649,,,Lenka Jurikova,R,,SVK,22.8884325804,214002,,WC,Natalie Suk,U,,USA,17.1471594798,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,582,46,,
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,297,202938,5,,Zuzana Luknarova,R,,SVK,22.0013689254,211698,,,Pernilla Mendesova,R,,CZE,19.0691307324,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,404,91,593,44
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,296,202419,,,Barbara Luz,R,,POR,20.0930869268,206136,4,,Deniz Khazaniuk,U,,ISR,18.6858316222,6-3 1-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,514,59,378,105
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,295,206420,,,Ekaterina Alexandrova,R,,RUS,18.6255989049,206335,,,Jesika Maleckova,R,,CZE,18.8747433265,7-6(4) 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,527,56,715,28
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,294,201692,,Q,Michaela Pochabova,U,,SVK,23.704312115,203448,,Q,Tereza Jankovska,L,,CZE,18.7049965777,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,293,205875,,,Chantal Skamlova,R,,SVK,19.8220396988,203542,7,,Daria Mironova,R,,RUS,20.2272416153,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,498,62,433,80
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,292,205941,,,Ganna Poznikhirenko,R,,UKR,19.2306639288,203429,8,,Tamara Curovic,R,,SRB,18.6666666667,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,553,51,443,76
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,291,211755,,Q,Laura Gulbe,U,,LAT,18.340862423,213937,,WC,Marie Mayerova,U,,CZE,17.0349075975,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1120,4,,
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,290,211696,,Q,Eva Rutarova,R,,CZE,17.9466119097,219225,,Q,Dagmar Janischova,U,,CZE,16.5119780972,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,289,202436,3,Q,Reka Luca Jani,R,,HUN,21.9192334018,203428,,,Vivien Juhaszova,R,,SVK,19.9561943874,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,333,128,605,43
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,288,203549,6,,Olga Ianchuk,U,,UKR,18.2587268994,206035,,WC,Petra Rohanova,R,,CZE,17.8809034908,4-6 6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,426,82,891,14
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,287,203531,,,Klara Fabikova,R,,CZE,19.6878850103,211423,,Q,Lenka Kuncikova,U,,CZE,17.9247091034,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,936,12,,
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,286,204265,,,Martina Borecka,R,,CZE,22.1190965092,211323,,Q,Natalia Vajdova,U,,SVK,18.1820670773,6-3 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,466,70,957,11
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,285,204267,,,Petra Krejsova,R,,CZE,23.0034223135,202688,2,,Isabella Shinikova,R,,BUL,21.6837782341,6-2 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,602,43,329,130
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,284,203537,1,,Victoria Kan,R,,RUS,17.9110198494,205647,,,Tereza Malikova,R,,CZE,21.9685147159,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,290,165,597,44
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,283,201649,,,Lenka Jurikova,R,,SVK,22.8884325804,202938,5,,Zuzana Luknarova,R,,SVK,22.0013689254,6-4 1-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,582,46,404,91
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,282,206420,,,Ekaterina Alexandrova,R,,RUS,18.6255989049,202419,,,Barbara Luz,R,,POR,20.0930869268,7-6(6) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,527,56,514,59
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,281,205875,,,Chantal Skamlova,R,,SVK,19.8220396988,201692,,Q,Michaela Pochabova,U,,SVK,23.704312115,6-1 3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,498,62,,
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,280,205941,,,Ganna Poznikhirenko,R,,UKR,19.2306639288,211755,,Q,Laura Gulbe,U,,LAT,18.340862423,6-1 6-7(4) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,553,51,1120,4
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,279,202436,3,Q,Reka Luca Jani,R,,HUN,21.9192334018,211696,,Q,Eva Rutarova,R,,CZE,17.9466119097,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,333,128,,
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,278,203549,6,,Olga Ianchuk,U,,UKR,18.2587268994,203531,,,Klara Fabikova,R,,CZE,19.6878850103,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,426,82,936,12
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,277,204267,,,Petra Krejsova,R,,CZE,23.0034223135,204265,,,Martina Borecka,R,,CZE,22.1190965092,6-3 1-6 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,602,43,466,70
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,276,203537,1,,Victoria Kan,R,,RUS,17.9110198494,201649,,,Lenka Jurikova,R,,SVK,22.8884325804,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,290,165,582,46
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,275,206420,,,Ekaterina Alexandrova,R,,RUS,18.6255989049,205875,,,Chantal Skamlova,R,,SVK,19.8220396988,6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,527,56,498,62
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,274,202436,3,Q,Reka Luca Jani,R,,HUN,21.9192334018,205941,,,Ganna Poznikhirenko,R,,UKR,19.2306639288,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,333,128,553,51
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,273,203549,6,,Olga Ianchuk,U,,UKR,18.2587268994,204267,,,Petra Krejsova,R,,CZE,23.0034223135,2-6 6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,426,82,602,43
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,272,206420,,,Ekaterina Alexandrova,R,,RUS,18.6255989049,203537,1,,Victoria Kan,R,,RUS,17.9110198494,6-4 7-6(3),3,SF,,,,,,,,,,,,,,,,,,,,527,56,290,165
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,271,202436,3,Q,Reka Luca Jani,R,,HUN,21.9192334018,203549,6,,Olga Ianchuk,U,,UKR,18.2587268994,6-4 6-0,3,SF,,,,,,,,,,,,,,,,,,,,333,128,426,82
+2013-W-WITF-CZE-03A-2013,Prerov 15K,Clay,32,15,20130701,270,202436,3,Q,Reka Luca Jani,R,,HUN,21.9192334018,206420,,,Ekaterina Alexandrova,R,,RUS,18.6255989049,6-2 7-6(4),3,F,,,,,,,,,,,,,,,,,,,,333,128,527,56
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,300,211700,,WC,Barbora Stefkova,R,,CZE,18.6639288159,202445,1,,Valeria Solovieva,R,,RUS,21.0787132101,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,730,29,228,263
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,299,205875,,,Chantal Skamlova,R,,SVK,20.2436687201,214358,,Q,Tereza Janatova,U,,CZE,18.2614647502,3-6 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,407,99,,
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,298,206420,,,Ekaterina Alexandrova,R,,RUS,19.0472279261,211684,,Q,Magdalena Frech,R,,POL,15.9644079398,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,418,93,763,25
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,297,206051,,,Marina Kachar,U,,SRB,21.3826146475,205647,7,,Tereza Malikova,R,,CZE,22.3901437372,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,535,59,378,111
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,296,206035,,Q,Petra Rohanova,R,,CZE,18.302532512,202636,3,,Zuzana Zlochova,R,,SVK,23.8548939083,1-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,728,29,315,150
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,295,202938,,,Zuzana Luknarova,R,,SVK,22.4229979466,211323,,Q,Natalia Vajdova,U,,SVK,18.6036960986,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,502,67,856,18
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,294,202706,,,Manon Arcangioli,U,,FRA,19.2635181383,203574,,,Lisanne Van Riet,U,,NED,22.4585900068,3-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,476,73,454,80
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,293,202631,,,Lara Michel,U,,SUI,21.9411362081,202616,6,,Justyna Jegiolka,U,,POL,22.2094455852,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,491,69,334,135
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,292,203569,,Q,Olga Doroshina,L,,RUS,19.4414784394,201671,8,,Ksenia Lykina,R,,RUS,23.4551676934,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,553,55,385,107
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,291,211685,,Q,Rebecca Sramkova,R,,SVK,17.1197809719,214004,,WC,Vendula Zovincova,R,,CZE,16.6324435318,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,534,59,881,16
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,290,203460,,,Martina Kubicikova,R,,CZE,21.9739904175,206334,,WC,Alena Poletinova,U,,CZE,19.1485284052,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,395,103,,
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,289,202483,4,,Sandra Zaniewska,R,,POL,21.9137577002,211406,,WC,Gabriela Pantuckova,R,,CZE,18.8090349076,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,337,134,703,32
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,288,204267,,,Petra Krejsova,R,,CZE,23.4250513347,202832,5,,Katerina Kramperova,R,,CZE,24.9281314168,6-3 2-6 7-6(9),3,R32,,,,,,,,,,,,,,,,,,,,438,86,350,124
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,287,211698,,,Pernilla Mendesova,R,,CZE,19.4907597536,203353,,Q,Nikola Vajdova,R,,SVK,24.8815879535,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,564,53,720,30
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,286,206031,,,Carolin Daniels,R,,GER,21.4784394251,206335,,Q,Jesika Maleckova,R,,CZE,19.2963723477,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,488,70,617,44
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,285,203284,2,,Katerina Vankova,L,,CZE,23.923340178,201649,,,Lenka Jurikova,R,,SVK,23.3100616016,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,293,170,520,62
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,284,211700,,WC,Barbora Stefkova,R,,CZE,18.6639288159,205875,,,Chantal Skamlova,R,,SVK,20.2436687201,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,730,29,407,99
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,283,206420,,,Ekaterina Alexandrova,R,,RUS,19.0472279261,206051,,,Marina Kachar,U,,SRB,21.3826146475,7-6(5) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,418,93,535,59
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,282,206035,,Q,Petra Rohanova,R,,CZE,18.302532512,202938,,,Zuzana Luknarova,R,,SVK,22.4229979466,1-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,728,29,502,67
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,281,202631,,,Lara Michel,U,,SUI,21.9411362081,202706,,,Manon Arcangioli,U,,FRA,19.2635181383,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,491,69,476,73
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,280,203569,,Q,Olga Doroshina,L,,RUS,19.4414784394,211685,,Q,Rebecca Sramkova,R,,SVK,17.1197809719,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,553,55,534,59
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,279,202483,4,,Sandra Zaniewska,R,,POL,21.9137577002,203460,,,Martina Kubicikova,R,,CZE,21.9739904175,4-6 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,337,134,395,103
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,278,211698,,,Pernilla Mendesova,R,,CZE,19.4907597536,204267,,,Petra Krejsova,R,,CZE,23.4250513347,3-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,564,53,438,86
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,277,203284,2,,Katerina Vankova,L,,CZE,23.923340178,206031,,,Carolin Daniels,R,,GER,21.4784394251,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,293,170,488,70
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,276,206420,,,Ekaterina Alexandrova,R,,RUS,19.0472279261,211700,,WC,Barbora Stefkova,R,,CZE,18.6639288159,6-1 4-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,418,93,730,29
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,275,202631,,,Lara Michel,U,,SUI,21.9411362081,206035,,Q,Petra Rohanova,R,,CZE,18.302532512,3-6 6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,491,69,728,29
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,274,203569,,Q,Olga Doroshina,L,,RUS,19.4414784394,202483,4,,Sandra Zaniewska,R,,POL,21.9137577002,6-2 2-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,553,55,337,134
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,273,203284,2,,Katerina Vankova,L,,CZE,23.923340178,211698,,,Pernilla Mendesova,R,,CZE,19.4907597536,7-6(1) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,293,170,564,53
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,272,206420,,,Ekaterina Alexandrova,R,,RUS,19.0472279261,202631,,,Lara Michel,U,,SUI,21.9411362081,7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,418,93,491,69
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,271,203284,2,,Katerina Vankova,L,,CZE,23.923340178,203569,,Q,Olga Doroshina,L,,RUS,19.4414784394,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,293,170,553,55
+2013-W-WITF-CZE-07A-2013,Vendryne 15K,Hard,32,15,20131202,270,206420,,,Ekaterina Alexandrova,R,,RUS,19.0472279261,203284,2,,Katerina Vankova,L,,CZE,23.923340178,5-7 7-6(0) 6-1,3,F,,,,,,,,,,,,,,,,,,,,418,93,293,170
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,300,201526,1,,Julie Coin,R,,FRA,30.3299110198,204246,,,Lesley Kerkhove,R,,NED,21.4072553046,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,188,338,,
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,299,203481,,WC,Oceane Adam,R,,FRA,19.7645448323,214668,,WC,Marine Fontaine,U,,FRA,17.8069815195,5-7 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,298,201399,,,Emily Webley Smith,R,,GBR,28.7145790554,203480,,,Charlene Seateun,R,,FRA,19.665982204,6-3 2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,297,202640,,Q,Irina Ramialison,R,,FRA,21.8124572211,202425,5,,Samantha Murray,R,,GBR,25.4784394251,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,270,183
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,296,202706,,,Manon Arcangioli,U,,FRA,18.5927446954,206378,,LL,Elke Lemmens,R,,BEL,18.2614647502,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,295,206081,,Q,Caitlin Whoriskey,R,,USA,25.1143052704,211535,,WC,Camille Cheli,R,,FRA,19.6906228611,6-0 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,294,202911,,,Anastasiya Vasylyeva,L,,UKR,21.2019164956,203281,,,Amandine Hesse,R,,FRA,20.205338809,7-6(0) 6-7(4) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,293,202467,6,,Elitsa Kostova,R,,BUL,22.9760438056,204434,,,Ysaline Bonaventure,L,,BEL,18.5900068446,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,261,190,,
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,292,203564,,LL,Chloe Paquet,R,,FRA,18.7515400411,211538,,Q,Carla Touly,U,,FRA,16.5859000684,7-6(3) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,291,202420,,,An Sophie Mestach,R,,BEL,19.0691307324,202580,,,Federica Di Sarra,R,,ITA,22.8774811773,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,290,202579,,,Giulia Gatto Monticone,R,,ITA,25.3689253936,202526,,,Marina Shamayko,U,,RUS,25.6618754278,7-6(2) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,289,201462,3,,Alberta Brianti,R,,ITA,32.9883641342,200124,,Q,Anne Kremer,R,,LUX,37.4565366188,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,228,253,,
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,288,201470,7,,Kristina Barrois,R,,GER,31.5017111567,211285,,Q,Tayisiya Morderger,L,,GER,16.0684462697,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,276,171,,
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,287,203559,,Q,Clothilde De Bernardi,R,,FRA,18.3737166324,206170,,WC,Rachel Girard,L,,FRA,19.2224503765,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,286,206420,,Q,Ekaterina Alexandrova,R,,RUS,18.3764544832,206037,,,Daniela Seguel,U,,CHI,20.3750855578,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,285,201670,2,,Amra Sadikovic,R,,SUI,23.9041752225,206219,,Q,Oceane Dodin,R,,FRA,16.4353182752,6-7(7) 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,229,250,,
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,284,201526,1,,Julie Coin,R,,FRA,30.3299110198,203481,,WC,Oceane Adam,R,,FRA,19.7645448323,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,188,338,,
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,283,201399,,,Emily Webley Smith,R,,GBR,28.7145790554,202640,,Q,Irina Ramialison,R,,FRA,21.8124572211,5-7 6-1 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,282,206081,,Q,Caitlin Whoriskey,R,,USA,25.1143052704,202706,,,Manon Arcangioli,U,,FRA,18.5927446954,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,281,202467,6,,Elitsa Kostova,R,,BUL,22.9760438056,202911,,,Anastasiya Vasylyeva,L,,UKR,21.2019164956,6-2 1-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,261,190,,
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,280,202420,,,An Sophie Mestach,R,,BEL,19.0691307324,203564,,LL,Chloe Paquet,R,,FRA,18.7515400411,6-0 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,279,201462,3,,Alberta Brianti,R,,ITA,32.9883641342,202579,,,Giulia Gatto Monticone,R,,ITA,25.3689253936,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,228,253,,
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,278,201470,7,,Kristina Barrois,R,,GER,31.5017111567,203559,,Q,Clothilde De Bernardi,R,,FRA,18.3737166324,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,276,171,,
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,277,201670,2,,Amra Sadikovic,R,,SUI,23.9041752225,206420,,Q,Ekaterina Alexandrova,R,,RUS,18.3764544832,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,229,250,,
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,276,201526,1,,Julie Coin,R,,FRA,30.3299110198,201399,,,Emily Webley Smith,R,,GBR,28.7145790554,6-1 3-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,188,338,,
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,275,202467,6,,Elitsa Kostova,R,,BUL,22.9760438056,206081,,Q,Caitlin Whoriskey,R,,USA,25.1143052704,6-4 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,261,190,,
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,274,202420,,,An Sophie Mestach,R,,BEL,19.0691307324,201462,3,,Alberta Brianti,R,,ITA,32.9883641342,6-1 6-0,3,QF,,,,,,,,,,,,,,,,,,,,,,228,253
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,273,201470,7,,Kristina Barrois,R,,GER,31.5017111567,201670,2,,Amra Sadikovic,R,,SUI,23.9041752225,,3,QF,,,,,,,,,,,,,,,,,,,,276,171,229,250
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,272,202467,6,,Elitsa Kostova,R,,BUL,22.9760438056,201526,1,,Julie Coin,R,,FRA,30.3299110198,6-7(5) 6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,261,190,188,338
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,271,201470,7,,Kristina Barrois,R,,GER,31.5017111567,202420,,,An Sophie Mestach,R,,BEL,19.0691307324,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,276,171,,
+2013-W-WITF-FRA-12A-2013,Dijon 15K,Hard,32,15,20130401,270,201470,7,,Kristina Barrois,R,,GER,31.5017111567,202467,6,,Elitsa Kostova,R,,BUL,22.9760438056,6-3 7-5,3,F,,,,,,,,,,,,,,,,,,,,276,171,261,190
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,300,202420,,,An Sophie Mestach,R,,BEL,19.0116358658,202478,1,,Tara Moore,R,,GBR,20.5941136208,6-2 5-7 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,358,113,209,287
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,299,202467,,,Elitsa Kostova,R,,BUL,22.9185489391,203379,,Q,Marina Melnikova,R,,RUS,24.0930869268,7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,270,187,392,95
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,298,201648,,WC,Naomi Broady,R,,GBR,23.0308008214,202661,,Q,Lucy Brown,R,,GBR,20.1615331964,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,361,108,684,32
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,297,201484,5,,Sandra Zahlavova,U,,CZE,27.4168377823,204246,,Q,Lesley Kerkhove,R,,NED,21.3497604381,6-3 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,232,252,387,97
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,296,202489,3,,Carina Witthoeft,R,,GER,18.0643394935,211951,,Q,Ana Konjuh,R,,CRO,15.2032854209,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,227,259,865,15
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,295,203530,,Q,Viktorija Golubic,R,,SUI,20.3997262149,202357,,,Madalina Gojnea,R,,ROU,25.5496235455,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,610,40,275,180
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,294,202475,,,Jasmina Tinjic,R,,BIH,22.0342231348,201469,,Q,Melanie South,R,,GBR,26.855578371,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,306,149,390,96
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,293,202702,,,Tereza Smitkova,R,,CZE,18.417522245,201417,8,,Marta Domachowska,R,176,POL,27.1485284052,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,284,167,257,208
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,292,202578,,,Laura Ioana Andrei,R,,ROU,24.7775496235,202707,7,,Myrtille Georges,R,,FRA,22.2203969884,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,299,155,251,215
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,291,202651,,,Lisa Whybourn,R,,GBR,21.8343600274,202425,,,Samantha Murray,R,,GBR,25.4209445585,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,281,174,262,198
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,290,201470,,,Kristina Barrois,R,,GER,31.4442162902,203591,,WC,Katy Dunne,R,,GBR,18.0643394935,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,271,187,,
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,289,201617,4,,Ana Vrljic,R,,CRO,28.6078028747,202922,,,Michaela Honcova,R,,SVK,20.2162902122,6-1 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,230,256,266,191
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,288,203509,6,,Diana Marcinkevica,R,,LAT,20.6023271732,202703,,,Constance Sibille,R,,FRA,22.3353867214,4-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,238,235,322,137
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,287,200083,,Q,Alexandra Stevenson,R,,USA,32.2354551677,203485,,Q,Julia Kimmelmann,L,,GER,19.4113620808,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,508,59,355,114
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,286,202666,,,Nicola Geuer,R,,GER,25.0239561944,204438,,WC,Sabrina Bamburac,R,,GBR,19.7973990418,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,382,98,829,17
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,285,202626,2,,Stephanie Vogt,R,,LIE,23.0663928816,211577,,WC,Danielle Konotoptseva,U,,GBR,18.1793292266,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,215,275,956,11
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,284,202420,,,An Sophie Mestach,R,,BEL,19.0116358658,202467,,,Elitsa Kostova,R,,BUL,22.9185489391,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,358,113,270,187
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,283,201484,5,,Sandra Zahlavova,U,,CZE,27.4168377823,201648,,WC,Naomi Broady,R,,GBR,23.0308008214,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,232,252,361,108
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,282,202489,3,,Carina Witthoeft,R,,GER,18.0643394935,203530,,Q,Viktorija Golubic,R,,SUI,20.3997262149,4-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,227,259,610,40
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,281,202702,,,Tereza Smitkova,R,,CZE,18.417522245,202475,,,Jasmina Tinjic,R,,BIH,22.0342231348,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,284,167,306,149
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,280,202578,,,Laura Ioana Andrei,R,,ROU,24.7775496235,202651,,,Lisa Whybourn,R,,GBR,21.8343600274,6-1 5-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,299,155,281,174
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,279,201470,,,Kristina Barrois,R,,GER,31.4442162902,201617,4,,Ana Vrljic,R,,CRO,28.6078028747,7-6(5) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,271,187,230,256
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,278,200083,,Q,Alexandra Stevenson,R,,USA,32.2354551677,203509,6,,Diana Marcinkevica,R,,LAT,20.6023271732,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,508,59,238,235
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,277,202626,2,,Stephanie Vogt,R,,LIE,23.0663928816,202666,,,Nicola Geuer,R,,GER,25.0239561944,6-3 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,215,275,382,98
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,276,202420,,,An Sophie Mestach,R,,BEL,19.0116358658,201484,5,,Sandra Zahlavova,U,,CZE,27.4168377823,7-6(2) 4-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,358,113,232,252
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,275,202702,,,Tereza Smitkova,R,,CZE,18.417522245,202489,3,,Carina Witthoeft,R,,GER,18.0643394935,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,284,167,227,259
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,274,201470,,,Kristina Barrois,R,,GER,31.4442162902,202578,,,Laura Ioana Andrei,R,,ROU,24.7775496235,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,271,187,299,155
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,273,202626,2,,Stephanie Vogt,R,,LIE,23.0663928816,200083,,Q,Alexandra Stevenson,R,,USA,32.2354551677,6-4 7-6(1),3,QF,,,,,,,,,,,,,,,,,,,,215,275,508,59
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,272,202420,,,An Sophie Mestach,R,,BEL,19.0116358658,202702,,,Tereza Smitkova,R,,CZE,18.417522245,7-5 1-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,358,113,284,167
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,271,202626,2,,Stephanie Vogt,R,,LIE,23.0663928816,201470,,,Kristina Barrois,R,,GER,31.4442162902,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,215,275,271,187
+2013-W-WITF-GBR-04A-2013,Bath 15K,Hard,32,15,20130311,270,202626,2,,Stephanie Vogt,R,,LIE,23.0663928816,202420,,,An Sophie Mestach,R,,BEL,19.0116358658,7-6(3) 6-3,3,F,,,,,,,,,,,,,,,,,,,,215,275,358,113
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,300,204431,1,,Anna Lena Friedsam,R,,GER,19.1238877481,202666,,,Nicola Geuer,R,,GER,25.0431211499,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,185,350,417,85
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,299,204265,,Q,Martina Borecka,R,,CZE,21.8316221766,202400,,WC,Anna Fitzpatrick,R,,GBR,23.947980835,6-7(3) 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,602,43,,
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,298,211736,,Q,Ivana Jorovic,R,,SRB,15.8740588638,202578,,,Laura Ioana Andrei,R,,ROU,24.7967145791,6-0 0-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,757,23,295,155
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,297,206213,,Q,Amy Bowtell,U,,IRL,19.5017111567,202467,8,,Elitsa Kostova,R,,BUL,22.9377138946,6-2 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,556,50,269,187
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,296,203530,,Q,Viktorija Golubic,R,,SUI,20.4188911704,202478,3,,Tara Moore,R,,GBR,20.6132785763,6-7(3) 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,619,40,206,291
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,295,203405,,Q,Ana Belzunce Crompin,U,,ESP,22.6611909651,202651,,,Lisa Whybourn,R,,GBR,21.8535249829,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,279,174
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,294,202357,,,Madalina Gojnea,R,,ROU,25.568788501,203281,,LL,Amandine Hesse,R,,FRA,20.167008898,3-6 6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,274,180,424,82
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,293,203509,5,,Diana Marcinkevica,R,,LAT,20.6214921287,202432,,Q,Hilda Melander,U,,SWE,21.2950034223,2-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,246,225,429,80
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,292,202425,7,,Samantha Murray,R,,GBR,25.440109514,203591,,WC,Katy Dunne,R,,GBR,18.083504449,6-1 2-6 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,262,195,,
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,291,204377,,Q,Indy De Vroome,R,,NED,16.8240930869,211598,,WC,Anna Brogan,U,,GBR,15.6194387406,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,545,51,,
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,290,201399,,LL,Emily Webley Smith,R,,GBR,28.6762491444,201648,,,Naomi Broady,R,,GBR,23.0499657769,6-4 0-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,435,78,355,115
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,289,201617,4,,Ana Vrljic,R,,CRO,28.6269678303,204246,,,Lesley Kerkhove,R,,NED,21.3689253936,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,228,256,386,97
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,288,202707,6,,Myrtille Georges,R,,FRA,22.2395619439,202564,,WC,Anna Smith,R,,GBR,24.59137577,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,251,215,,
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,287,202420,,,An Sophie Mestach,R,,BEL,19.0308008214,203521,,,Andrea Gamiz,R,,VEN,20.3778234086,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,361,113,301,151
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,286,203485,,,Julia Kimmelmann,L,,GER,19.4305270363,202661,,Q,Lucy Brown,R,,GBR,20.180698152,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,357,114,680,33
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,285,202421,2,,Alison Van Uytvanck,R,,BEL,18.9787816564,202703,,,Constance Sibille,R,,FRA,22.3545516769,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,187,340,319,137
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,284,204431,1,,Anna Lena Friedsam,R,,GER,19.1238877481,204265,,Q,Martina Borecka,R,,CZE,21.8316221766,6-4 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,185,350,602,43
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,283,206213,,Q,Amy Bowtell,U,,IRL,19.5017111567,211736,,Q,Ivana Jorovic,R,,SRB,15.8740588638,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,556,50,757,23
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,282,203530,,Q,Viktorija Golubic,R,,SUI,20.4188911704,203405,,Q,Ana Belzunce Crompin,U,,ESP,22.6611909651,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,619,40,,
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,281,202357,,,Madalina Gojnea,R,,ROU,25.568788501,203509,5,,Diana Marcinkevica,R,,LAT,20.6214921287,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,274,180,246,225
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,280,204377,,Q,Indy De Vroome,R,,NED,16.8240930869,202425,7,,Samantha Murray,R,,GBR,25.440109514,6-7(5) 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,545,51,262,195
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,279,201617,4,,Ana Vrljic,R,,CRO,28.6269678303,201399,,LL,Emily Webley Smith,R,,GBR,28.6762491444,2-6 6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,228,256,435,78
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,278,202707,6,,Myrtille Georges,R,,FRA,22.2395619439,202420,,,An Sophie Mestach,R,,BEL,19.0308008214,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,251,215,361,113
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,277,202421,2,,Alison Van Uytvanck,R,,BEL,18.9787816564,203485,,,Julia Kimmelmann,L,,GER,19.4305270363,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,187,340,357,114
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,276,204431,1,,Anna Lena Friedsam,R,,GER,19.1238877481,206213,,Q,Amy Bowtell,U,,IRL,19.5017111567,6-3 1-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,185,350,556,50
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,275,203530,,Q,Viktorija Golubic,R,,SUI,20.4188911704,202357,,,Madalina Gojnea,R,,ROU,25.568788501,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,619,40,274,180
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,274,201617,4,,Ana Vrljic,R,,CRO,28.6269678303,204377,,Q,Indy De Vroome,R,,NED,16.8240930869,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,228,256,545,51
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,273,202421,2,,Alison Van Uytvanck,R,,BEL,18.9787816564,202707,6,,Myrtille Georges,R,,FRA,22.2395619439,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,187,340,251,215
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,272,204431,1,,Anna Lena Friedsam,R,,GER,19.1238877481,203530,,Q,Viktorija Golubic,R,,SUI,20.4188911704,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,185,350,619,40
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,271,202421,2,,Alison Van Uytvanck,R,,BEL,18.9787816564,201617,4,,Ana Vrljic,R,,CRO,28.6269678303,6-4 4-6 6-1,3,SF,,,,,,,,,,,,,,,,,,,,187,340,228,256
+2013-W-WITF-GBR-05A-2013,Sunderland 15K,Hard,32,15,20130318,270,204431,1,,Anna Lena Friedsam,R,,GER,19.1238877481,202421,2,,Alison Van Uytvanck,R,,BEL,18.9787816564,6-2 7-6(4),3,F,,,,,,,,,,,,,,,,,,,,185,350,187,340
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,300,202668,,,Sina Haas,R,,GER,20.9089664613,202702,1,,Tereza Smitkova,R,,CZE,18.8583162218,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,800,20,240,225
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,299,202415,,,Ximena Hermoso,R,,MEX,22.3107460643,214075,,Q,Julia Jung,R,,GER,16.720054757,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,436,83,,
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,298,211901,,Q,Aliona Bolsova,R,,MDA,15.7837097878,219015,,Q,Frederike Putthoff,U,,GER,23.3675564682,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,297,202688,5,,Isabella Shinikova,R,,BUL,21.8179329227,211684,,,Magdalena Frech,R,,POL,15.6769336071,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,373,109,1030,8
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,296,202707,3,,Myrtille Georges,R,,FRA,22.6611909651,211336,,WC,Vinja Lehmann,U,,GER,16.2847364819,4-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,309,148,,
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,295,204263,,,Janina Toljan,R,,AUT,23.3976728268,218063,,Q,Christina Oberger,R,,GER,18.7104722793,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,532,56,,
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,294,206424,,,Katharina Lehnert,R,,GER,19.498973306,213761,,Q,Marina Hruba,R,,CZE,18.3956194387,6-3 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,447,80,,
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,293,202463,6,,Ines Ferrer Suarez,U,,ESP,23.2169746749,205869,,,Alix Collombon,R,,FRA,20.424366872,7-6(3) 0-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,360,116,545,53
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,292,206302,,,Gaia Sanesi,U,,ITA,21.3826146475,202451,8,,Nicole Rottmann,U,,AUT,24.1423682409,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,557,50,435,83
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,291,211337,,,Tamara Korpatsch,R,,GER,18.2724161533,214081,,WC,Katharina Hobgarski,R,,GER,16.1697467488,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,602,43,,
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,290,205647,,,Tereza Malikova,R,,CZE,22.1026694045,211064,,Q,Hannah Nagel,R,,GER,17.6728268309,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,459,77,,
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,289,203559,4,,Clothilde De Bernardi,R,,FRA,18.7570157426,215577,,WC,Imke Schluenzen,U,,GER,16.1724845996,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,384,106,,
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,288,203574,7,,Lisanne Van Riet,U,,NED,22.1711156742,205847,,,Carla Forte,R,,BRA,19.6030116359,6-2 1-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,423,86,537,54
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,287,211334,,WC,Charlotte Klasen,U,,GER,17.8617385352,202471,,,Karen Barbat,R,,DEN,21.1279945243,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,581,46
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,286,206211,,,Anna Klasen,U,,GER,19.7590691307,214046,,Q,Grace Maleka Mpassy Nzoumba,U,,GER,18.5708418891,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,653,35,,
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,285,201470,2,,Kristina Barrois,R,,GER,31.8850102669,214270,,Q,Lisa Ponomar,R,,GER,16.2464065708,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,266,195,,
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,284,202668,,,Sina Haas,R,,GER,20.9089664613,202415,,,Ximena Hermoso,R,,MEX,22.3107460643,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,800,20,436,83
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,283,211901,,Q,Aliona Bolsova,R,,MDA,15.7837097878,202688,5,,Isabella Shinikova,R,,BUL,21.8179329227,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,373,109
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,282,202707,3,,Myrtille Georges,R,,FRA,22.6611909651,204263,,,Janina Toljan,R,,AUT,23.3976728268,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,309,148,532,56
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,281,202463,6,,Ines Ferrer Suarez,U,,ESP,23.2169746749,206424,,,Katharina Lehnert,R,,GER,19.498973306,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,360,116,447,80
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,280,206302,,,Gaia Sanesi,U,,ITA,21.3826146475,211337,,,Tamara Korpatsch,R,,GER,18.2724161533,6-4 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,557,50,602,43
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,279,205647,,,Tereza Malikova,R,,CZE,22.1026694045,203559,4,,Clothilde De Bernardi,R,,FRA,18.7570157426,4-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,459,77,384,106
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,278,203574,7,,Lisanne Van Riet,U,,NED,22.1711156742,211334,,WC,Charlotte Klasen,U,,GER,17.8617385352,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,423,86,,
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,277,201470,2,,Kristina Barrois,R,,GER,31.8850102669,206211,,,Anna Klasen,U,,GER,19.7590691307,1-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,266,195,653,35
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,276,202668,,,Sina Haas,R,,GER,20.9089664613,211901,,Q,Aliona Bolsova,R,,MDA,15.7837097878,6-4 4-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,800,20,,
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,275,202707,3,,Myrtille Georges,R,,FRA,22.6611909651,202463,6,,Ines Ferrer Suarez,U,,ESP,23.2169746749,6-3 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,309,148,360,116
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,274,206302,,,Gaia Sanesi,U,,ITA,21.3826146475,205647,,,Tereza Malikova,R,,CZE,22.1026694045,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,557,50,459,77
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,273,201470,2,,Kristina Barrois,R,,GER,31.8850102669,203574,7,,Lisanne Van Riet,U,,NED,22.1711156742,6-0 6-2,3,QF,,,,,,,,,,,,,,,,,,,,266,195,423,86
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,272,202707,3,,Myrtille Georges,R,,FRA,22.6611909651,202668,,,Sina Haas,R,,GER,20.9089664613,7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,309,148,800,20
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,271,201470,2,,Kristina Barrois,R,,GER,31.8850102669,206302,,,Gaia Sanesi,U,,ITA,21.3826146475,6-2 7-6(4),3,SF,,,,,,,,,,,,,,,,,,,,266,195,557,50
+2013-W-WITF-GER-16A-2013,Braunschweig 15K,Clay,32,15,20130819,270,201470,2,,Kristina Barrois,R,,GER,31.8850102669,202707,3,,Myrtille Georges,R,,FRA,22.6611909651,4-6 6-2 6-3,3,F,,,,,,,,,,,,,,,,,,,,266,195,309,148
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,300,204434,1,,Ysaline Bonaventure,L,,BEL,19.0116358658,211285,,Q,Tayisiya Morderger,L,,GER,16.4900752909,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,379,107,690,30
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,299,211684,,,Magdalena Frech,R,,POL,15.7152635181,203448,,Q,Tereza Jankovska,L,,CZE,18.8774811773,6-7(8) 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1033,8,,
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,298,206335,,,Jesika Maleckova,R,,CZE,19.0472279261,210754,,,Vivian Heisen,U,,GER,19.6824093087,5-7 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,637,37,718,27
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,297,202471,8,,Karen Barbat,R,,DEN,21.1663244353,206149,,,Gabriela Coglitore,R,,VEN,22.3107460643,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,579,46,1086,6
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,296,210303,4,,Kathinka Von Deichmann,R,,LIE,19.2991101985,202560,,Q,Olga Brozda,U,,POL,27.6002737851,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,437,82,692,30
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,295,206137,,,Oleksandra Piskun,U,,UKR,21.4948665298,213852,,,Hollie Bees,U,,GBR,29.4811772758,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1086,6,1184,3
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,294,202668,,,Sina Haas,R,,GER,20.9472963723,206035,,,Petra Rohanova,R,,CZE,18.0533880903,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,796,21,689,30
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,293,206424,5,,Katharina Lehnert,R,,GER,19.537303217,210957,,,Cornelia Lister,U,,SWE,19.2717316906,7-5 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,459,77,736,25
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,292,211698,7,,Pernilla Mendesova,R,,CZE,19.241615332,214075,,Q,Julia Jung,R,,GER,16.758384668,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,548,53,,
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,291,211901,,Q,Aliona Bolsova,R,,MDA,15.8220396988,211779,,WC,Yana Morderger,R,,GER,16.4900752909,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1037,8
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,290,210750,,Q,Sonja Larsen,U,,GER,17.9685147159,206211,,,Anna Klasen,U,,GER,19.7973990418,6-3 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,646,36
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,289,206145,,,Diana Sumova,U,,CZE,18.9377138946,202415,3,,Ximena Hermoso,R,,MEX,22.3490759754,6-3 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1044,8,434,83
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,288,205875,6,,Chantal Skamlova,R,,SVK,19.9945242984,211979,,Q,Andrea Kulova,U,,CZE,17.4264202601,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,491,67,,
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,287,211334,,WC,Charlotte Klasen,U,,GER,17.9000684463,214748,,WC,Janina Braun,U,,GER,17.029431896,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,286,214270,,Q,Lisa Ponomar,R,,GER,16.2847364819,215386,,WC,Vivian Wolff,R,,GER,14.9021218344,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,285,202435,,,Vanda Lukacs,U,,HUN,20.733744011,206174,2,,Cecilia Costa Melgar,R,,CHI,20.6844626968,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,764,23,387,105
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,284,204434,1,,Ysaline Bonaventure,L,,BEL,19.0116358658,211684,,,Magdalena Frech,R,,POL,15.7152635181,6-3 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,379,107,1033,8
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,283,206335,,,Jesika Maleckova,R,,CZE,19.0472279261,202471,8,,Karen Barbat,R,,DEN,21.1663244353,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,637,37,579,46
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,282,210303,4,,Kathinka Von Deichmann,R,,LIE,19.2991101985,206137,,,Oleksandra Piskun,U,,UKR,21.4948665298,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,437,82,1086,6
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,281,202668,,,Sina Haas,R,,GER,20.9472963723,206424,5,,Katharina Lehnert,R,,GER,19.537303217,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,796,21,459,77
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,280,211901,,Q,Aliona Bolsova,R,,MDA,15.8220396988,211698,7,,Pernilla Mendesova,R,,CZE,19.241615332,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,548,53
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,279,206145,,,Diana Sumova,U,,CZE,18.9377138946,210750,,Q,Sonja Larsen,U,,GER,17.9685147159,6-3 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,1044,8,,
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,278,205875,6,,Chantal Skamlova,R,,SVK,19.9945242984,211334,,WC,Charlotte Klasen,U,,GER,17.9000684463,6-3 4-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,491,67,,
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,277,202435,,,Vanda Lukacs,U,,HUN,20.733744011,214270,,Q,Lisa Ponomar,R,,GER,16.2847364819,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,764,23,,
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,276,204434,1,,Ysaline Bonaventure,L,,BEL,19.0116358658,206335,,,Jesika Maleckova,R,,CZE,19.0472279261,6-0 1-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,379,107,637,37
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,275,202668,,,Sina Haas,R,,GER,20.9472963723,210303,4,,Kathinka Von Deichmann,R,,LIE,19.2991101985,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,796,21,437,82
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,274,206145,,,Diana Sumova,U,,CZE,18.9377138946,211901,,Q,Aliona Bolsova,R,,MDA,15.8220396988,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,1044,8,,
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,273,202435,,,Vanda Lukacs,U,,HUN,20.733744011,205875,6,,Chantal Skamlova,R,,SVK,19.9945242984,6-3 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,764,23,491,67
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,272,204434,1,,Ysaline Bonaventure,L,,BEL,19.0116358658,202668,,,Sina Haas,R,,GER,20.9472963723,6-4 6-0,3,SF,,,,,,,,,,,,,,,,,,,,379,107,796,21
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,271,206145,,,Diana Sumova,U,,CZE,18.9377138946,202435,,,Vanda Lukacs,U,,HUN,20.733744011,6-0 7-5,3,SF,,,,,,,,,,,,,,,,,,,,1044,8,764,23
+2013-W-WITF-GER-17A-2013,Berlin 15K,Clay,32,15,20130902,270,206145,,,Diana Sumova,U,,CZE,18.9377138946,204434,1,,Ysaline Bonaventure,L,,BEL,19.0116358658,6-3 7-5,3,F,,,,,,,,,,,,,,,,,,,,1044,8,379,107
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,300,206106,1,,Prarthana G Thombare,U,,IND,19.4004106776,211080,,,Sai Samhitha Chamarthi,R,,IND,18.81724846,6-0 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,425,87,1103,6
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,299,211079,,,Smriti Joon,R,,IND,20.1697467488,213610,,Q,Preethi Ujjini,U,,IND,19.2334017796,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1174,4,,
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,298,205646,,Q,Adnya Naik,R,,IND,21.8507871321,223237,,Q,Anushka Sathe,U,,IND,,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,297,211033,6,,Natasha Palha,U,,IND,19.8165639973,211497,,,Nikita Deshmukh,R,,IND,18.8227241615,6-0 4-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,632,40,,
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,296,203433,3,,Rishika Sunkara,R,,IND,20.4955509925,213560,,WC,Jeni Patel,R,,IND,20.7282683094,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,503,65,,
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,295,206104,,,Sharmada Balu,R,,IND,20.257357974,211432,,,Eden Silva,R,,GBR,17.6618754278,6-1 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,826,19,1170,4
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,294,202349,,,Rushmi Chakravarthi,R,,IND,36.090349076,214225,,WC,Snehadevi S Reddy,R,,IND,16.7419575633,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1103,6,,
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,293,205170,8,,Anamika Bhargava,U,,USA,24.5804243669,213609,,WC,Varunya Chandrashekar,R,,IND,18.2313483915,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,789,21,,
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,292,202676,7,,Prerna Bhambri,U,,IND,21.1635865845,208684,,Q,Sagarika Phadke,R,,IND,26.7707049966,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,717,28,,
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,291,213570,,,Mahitha Dadi Reddy,R,,IND,17.6865160849,215652,,Q,Amreen Naaz,R,,IND,17.8042436687,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,971,12,,
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,290,211082,,,Vaniya Dangwal,R,,IND,20.3312799452,211440,,,Manya Nagpal,R,,IND,19.40862423,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1204,3,1204,3
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,289,211668,,Q,Riya Bhatia,R,,IND,16.1314168378,210192,4,,Shweta Rana,R,,IND,20.257357974,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,528,60
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,288,206298,5,,Nidhi Chilumula,R,,IND,19.0910335387,211996,,,Sneha Padamata,R,,IND,16.4079397673,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,673,35,1174,4
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,287,210373,,Q,Likitha Shetty,R,,IND,19.1348391513,213829,,WC,Sanya Madan,U,,IND,18.1711156742,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,286,210931,,,Ching Wen Hsu,R,,TPE,17.2292950034,211351,,,Ayaka Okuno,R,,JPN,18.392881588,7-6(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,867,16,932,13
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,285,201399,2,,Emily Webley Smith,R,,GBR,29.3278576318,223238,,Q,Supriya Zende,U,,IND,,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,423,87,,
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,284,206106,1,,Prarthana G Thombare,U,,IND,19.4004106776,211079,,,Smriti Joon,R,,IND,20.1697467488,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,425,87,1174,4
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,283,211033,6,,Natasha Palha,U,,IND,19.8165639973,205646,,Q,Adnya Naik,R,,IND,21.8507871321,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,632,40,,
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,282,203433,3,,Rishika Sunkara,R,,IND,20.4955509925,206104,,,Sharmada Balu,R,,IND,20.257357974,1-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,503,65,826,19
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,281,205170,8,,Anamika Bhargava,U,,USA,24.5804243669,202349,,,Rushmi Chakravarthi,R,,IND,36.090349076,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,789,21,1103,6
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,280,202676,7,,Prerna Bhambri,U,,IND,21.1635865845,213570,,,Mahitha Dadi Reddy,R,,IND,17.6865160849,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,717,28,971,12
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,279,211668,,Q,Riya Bhatia,R,,IND,16.1314168378,211082,,,Vaniya Dangwal,R,,IND,20.3312799452,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,1204,3
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,278,206298,5,,Nidhi Chilumula,R,,IND,19.0910335387,210373,,Q,Likitha Shetty,R,,IND,19.1348391513,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,673,35,,
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,277,210931,,,Ching Wen Hsu,R,,TPE,17.2292950034,201399,2,,Emily Webley Smith,R,,GBR,29.3278576318,7-6(3) 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,867,16,423,87
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,276,206106,1,,Prarthana G Thombare,U,,IND,19.4004106776,211033,6,,Natasha Palha,U,,IND,19.8165639973,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,425,87,632,40
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,275,205170,8,,Anamika Bhargava,U,,USA,24.5804243669,203433,3,,Rishika Sunkara,R,,IND,20.4955509925,2-6 6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,789,21,503,65
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,274,202676,7,,Prerna Bhambri,U,,IND,21.1635865845,211668,,Q,Riya Bhatia,R,,IND,16.1314168378,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,717,28,,
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,273,210931,,,Ching Wen Hsu,R,,TPE,17.2292950034,206298,5,,Nidhi Chilumula,R,,IND,19.0910335387,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,867,16,673,35
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,272,206106,1,,Prarthana G Thombare,U,,IND,19.4004106776,205170,8,,Anamika Bhargava,U,,USA,24.5804243669,6-7(8) 6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,425,87,789,21
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,271,210931,,,Ching Wen Hsu,R,,TPE,17.2292950034,202676,7,,Prerna Bhambri,U,,IND,21.1635865845,1-6 6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,867,16,717,28
+2013-W-WITF-IND-11A-2013,Mumbai 15K,Hard,32,15,20131111,270,206106,1,,Prarthana G Thombare,U,,IND,19.4004106776,210931,,,Ching Wen Hsu,R,,TPE,17.2292950034,6-3 6-7(10) 6-4,3,F,,,,,,,,,,,,,,,,,,,,425,87,867,16
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,300,201655,1,,Anna Floris,U,,ITA,31.2060232717,206270,,Q,Ashley Keir,R,,AUS,18.9952087611,6-4 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,327,133,1067,8
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,299,205869,,,Alix Collombon,R,,FRA,20.3668720055,213598,,WC,Lisa Bastianello,U,,ITA,20.4654346338,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,564,50,,
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,298,201657,,Q,Nastja Kolar,R,,SLO,19.0390143737,202682,,Q,Sara Eccel,R,,ITA,19.0691307324,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,607,43,,
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,297,202604,,,Despina Papamichail,R,,GRE,20.4654346338,202832,6,,Katerina Kramperova,R,,CZE,24.5831622177,7-6(2) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,551,52,412,90
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,296,206070,4,,Sofiya Kovalets,R,,UKR,19.0527036277,210758,,Q,Francesca Fusinato,U,,ITA,19.1156741958,7-6(6) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,373,107,1050,8
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,295,211328,,WC,Deborah Chiesa,R,,ITA,17.1252566735,206130,,Q,Tjasa Srimpf,U,,SLO,19.0006844627,6-3 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,731,27
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,294,203460,,,Martina Kubicikova,R,,CZE,21.6290212183,205647,,,Tereza Malikova,R,,CZE,22.045174538,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,471,75,460,77
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,293,203281,7,,Amandine Hesse,R,,FRA,20.5311430527,206122,,LL,Chiara Mendo,R,,ITA,20.1998631075,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,406,92,802,20
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,292,210337,,,Natalija Kostic,R,,SRB,19.0116358658,202526,8,,Marina Shamayko,U,,RUS,25.9876796715,3-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,457,78,396,97
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,291,203524,,Q,Morgane Pons,R,,FRA,21.3141683778,205963,,,Giulia Sussarello,R,,ITA,21.1663244353,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,901,14,508,63
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,290,206060,,,Ani Amiraghyan,R,,ARM,19.8028747433,203427,,,Lena Marie Hofmann,R,,GER,22.4832306639,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,469,75,392,98
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,289,205875,,,Chantal Skamlova,R,,SVK,19.8986995209,202688,3,,Isabella Shinikova,R,,BUL,21.7604380561,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,516,61,365,117
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,288,203549,5,,Olga Ianchuk,U,,UKR,18.3353867214,206211,,,Anna Klasen,U,,GER,19.7015742642,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,390,98,638,38
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,287,201699,,,Martina Caregaro,R,,ITA,21.1937029432,202606,,WC,Claudia Giovine,R,,ITA,23.0308008214,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,556,51,845,17
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,286,206338,,Q,Stefania Rubini,U,,ITA,20.6461327858,214761,,WC,Cecilia Maria Barbiero,U,,ITA,20.3367556468,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1146,4,,
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,285,202435,,Q,Vanda Lukacs,U,,HUN,20.6379192334,205759,2,,Margarita Lazareva,L,,RUS,22.8008213552,3-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,777,21,345,125
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,284,205869,,,Alix Collombon,R,,FRA,20.3668720055,201655,1,,Anna Floris,U,,ITA,31.2060232717,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,564,50,327,133
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,283,202604,,,Despina Papamichail,R,,GRE,20.4654346338,201657,,Q,Nastja Kolar,R,,SLO,19.0390143737,6-3 1-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,551,52,607,43
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,282,206070,4,,Sofiya Kovalets,R,,UKR,19.0527036277,211328,,WC,Deborah Chiesa,R,,ITA,17.1252566735,4-6 6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,373,107,,
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,281,203281,7,,Amandine Hesse,R,,FRA,20.5311430527,203460,,,Martina Kubicikova,R,,CZE,21.6290212183,4-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,406,92,471,75
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,280,210337,,,Natalija Kostic,R,,SRB,19.0116358658,203524,,Q,Morgane Pons,R,,FRA,21.3141683778,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,457,78,901,14
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,279,206060,,,Ani Amiraghyan,R,,ARM,19.8028747433,205875,,,Chantal Skamlova,R,,SVK,19.8986995209,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,469,75,516,61
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,278,201699,,,Martina Caregaro,R,,ITA,21.1937029432,203549,5,,Olga Ianchuk,U,,UKR,18.3353867214,7-6(4) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,556,51,390,98
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,277,206338,,Q,Stefania Rubini,U,,ITA,20.6461327858,202435,,Q,Vanda Lukacs,U,,HUN,20.6379192334,4-6 7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1146,4,777,21
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,276,202604,,,Despina Papamichail,R,,GRE,20.4654346338,205869,,,Alix Collombon,R,,FRA,20.3668720055,6-2 4-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,551,52,564,50
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,275,206070,4,,Sofiya Kovalets,R,,UKR,19.0527036277,203281,7,,Amandine Hesse,R,,FRA,20.5311430527,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,373,107,406,92
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,274,210337,,,Natalija Kostic,R,,SRB,19.0116358658,206060,,,Ani Amiraghyan,R,,ARM,19.8028747433,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,457,78,469,75
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,273,201699,,,Martina Caregaro,R,,ITA,21.1937029432,206338,,Q,Stefania Rubini,U,,ITA,20.6461327858,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,556,51,1146,4
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,272,206070,4,,Sofiya Kovalets,R,,UKR,19.0527036277,202604,,,Despina Papamichail,R,,GRE,20.4654346338,7-5 6-7(4) 6-0,3,SF,,,,,,,,,,,,,,,,,,,,373,107,551,52
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,271,201699,,,Martina Caregaro,R,,ITA,21.1937029432,210337,,,Natalija Kostic,R,,SRB,19.0116358658,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,556,51,457,78
+2013-W-WITF-ITA-16A-2013,Rovereto 15K,Clay,32,15,20130729,270,201699,,,Martina Caregaro,R,,ITA,21.1937029432,206070,4,,Sofiya Kovalets,R,,UKR,19.0527036277,7-6(6) 6-3,3,F,,,,,,,,,,,,,,,,,,,,556,51,373,107
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,300,201609,1,,Yi Miao Zhou,R,,CHN,22.2231348392,204285,,Q,Ji Young Kim,R,,KOR,27.613963039,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,159,411,898,13
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,299,201580,,,Xinyun Han,L,,CHN,22.9158110883,211838,,WC,You Na Sul,U,,KOR,20.1259411362,6-0 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,455,73,,
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,298,204291,,Q,Na Lae Han,L,,KOR,20.8131416838,204410,,Q,Kanami Tsuji,U,,JPN,17.2621492129,1-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,711,27,923,12
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,297,202919,6,,Chang Liu,U,,CHN,22.7433264887,206126,,,Ju Eun Kim,R,,KOR,21.9712525667,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,366,111,695,29
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,296,205789,,,Na Ri Kim,U,,KOR,23.0691307324,203555,4,,Mai Minokoshi,U,,JPN,21.0349075975,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,593,42,348,120
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,295,202921,,,Shiho Akita,R,,JPN,23.2772073922,205947,,Q,Ji Sun Kim,R,,KOR,26.8336755647,6-1 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,506,60,,
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,294,201677,,,Mi Yoo,R,,KOR,26.9733059548,204288,,Q,Ji Hee Choi,R,,KOR,18.2149212868,7-6(2) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,492,63,841,16
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,293,202508,5,,Yuxuan Zhang,R,,CHN,18.6940451745,202684,,,Lin Zhu,R,,CHN,19.2498288843,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,276,176,480,65
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,292,202634,8,,Chen Liang,R,,CHN,24.1724845996,203578,,,Fangzhou Liu,R,,CHN,17.3798767967,3-6 7-6(4) 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,424,81,676,31
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,291,201675,,,So Jung Kim,R,,KOR,27.1156741958,211007,,WC,Sung Ah Park,R,,KOR,19.704312115,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,574,45,,
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,290,214607,,WC,Sang Hee Park,U,,KOR,17.5331964408,206107,,,Zhaoxuan Yang,R,,CHN,18.212183436,7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,585,44
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,289,206421,,Q,Nam Yeon Jun,R,,KOR,17.4811772758,202386,3,,Sung Hee Han,R,,KOR,22.4585900068,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,326,134
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,288,205616,7,,Xin Wen,R,,CHN,20.810403833,204293,,WC,Seo Kyung Kang,U,,KOR,24.2464065708,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,373,104,843,16
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,287,202501,,,Hyun Hui Hong,U,,KOR,21.3388090349,201418,,Q,Ting Li,R,,CHN,33.3141683778,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,657,33,,
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,286,201676,,,Ye Ra Lee,R,,KOR,25.6235455168,203576,,,Kai Lin Zhang,R,,CHN,23.2498288843,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,605,41,425,81
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,285,202359,2,,Chin Wei Chan,R,,TPE,28.3039014374,202920,,Q,Yi Zhong,R,,CHN,20.8514715948,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,257,198,,
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,284,201580,,,Xinyun Han,L,,CHN,22.9158110883,201609,1,,Yi Miao Zhou,R,,CHN,22.2231348392,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,455,73,159,411
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,283,202919,6,,Chang Liu,U,,CHN,22.7433264887,204291,,Q,Na Lae Han,L,,KOR,20.8131416838,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,366,111,711,27
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,282,202921,,,Shiho Akita,R,,JPN,23.2772073922,205789,,,Na Ri Kim,U,,KOR,23.0691307324,6-2 4-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,506,60,593,42
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,281,202508,5,,Yuxuan Zhang,R,,CHN,18.6940451745,201677,,,Mi Yoo,R,,KOR,26.9733059548,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,276,176,492,63
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,280,201675,,,So Jung Kim,R,,KOR,27.1156741958,202634,8,,Chen Liang,R,,CHN,24.1724845996,2-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,574,45,424,81
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,279,206421,,Q,Nam Yeon Jun,R,,KOR,17.4811772758,214607,,WC,Sang Hee Park,U,,KOR,17.5331964408,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,278,205616,7,,Xin Wen,R,,CHN,20.810403833,202501,,,Hyun Hui Hong,U,,KOR,21.3388090349,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,373,104,657,33
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,277,202359,2,,Chin Wei Chan,R,,TPE,28.3039014374,201676,,,Ye Ra Lee,R,,KOR,25.6235455168,6-2 6-7(3) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,257,198,605,41
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,276,201580,,,Xinyun Han,L,,CHN,22.9158110883,202919,6,,Chang Liu,U,,CHN,22.7433264887,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,455,73,366,111
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,275,202508,5,,Yuxuan Zhang,R,,CHN,18.6940451745,202921,,,Shiho Akita,R,,JPN,23.2772073922,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,276,176,506,60
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,274,201675,,,So Jung Kim,R,,KOR,27.1156741958,206421,,Q,Nam Yeon Jun,R,,KOR,17.4811772758,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,574,45,,
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,273,202359,2,,Chin Wei Chan,R,,TPE,28.3039014374,205616,7,,Xin Wen,R,,CHN,20.810403833,4-6 7-6(5) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,257,198,373,104
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,272,201580,,,Xinyun Han,L,,CHN,22.9158110883,202508,5,,Yuxuan Zhang,R,,CHN,18.6940451745,7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,455,73,276,176
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,271,201675,,,So Jung Kim,R,,KOR,27.1156741958,202359,2,,Chin Wei Chan,R,,TPE,28.3039014374,7-6(3) 7-5,3,SF,,,,,,,,,,,,,,,,,,,,574,45,257,198
+2013-W-WITF-KOR-01A-2013,Seoul 15K,Hard,32,15,20130429,270,201580,,,Xinyun Han,L,,CHN,22.9158110883,201675,,,So Jung Kim,R,,KOR,27.1156741958,6-2 6-1,3,F,,,,,,,,,,,,,,,,,,,,455,73,574,45
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,300,201609,1,,Yi Miao Zhou,R,,CHN,22.2422997947,210427,,Q,Jia Bei Mei,U,,CHN,21.0869267625,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,161,396,,
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,299,201675,,,So Jung Kim,R,,KOR,27.1348391513,203576,,,Kai Lin Zhang,R,,CHN,23.2689938398,2-6 6-2 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,646,35,427,81
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,298,204288,,WC,Ji Hee Choi,R,,KOR,18.2340862423,223123,,,Jia Xiang Lu,U,,CHN,23.4633812457,6-1 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,844,16,593,43
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,297,201580,,,Xinyun Han,L,,CHN,22.9349760438,203555,6,,Mai Minokoshi,U,,JPN,21.054072553,6-3 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,457,73,348,120
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,296,202508,3,,Yuxuan Zhang,R,,CHN,18.71321013,213948,,WC,Dabin Kim,R,,KOR,16.3394934976,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,275,176,,
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,295,204285,,Q,Ji Young Kim,R,,KOR,27.6331279945,205789,,,Na Ri Kim,U,,KOR,23.0882956879,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,904,13,597,42
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,294,203578,,Q,Fangzhou Liu,R,,CHN,17.3990417522,204294,,,Su Jeong Jang,R,,KOR,18.1492128679,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,678,31,674,31
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,293,201676,,,Ye Ra Lee,R,,KOR,25.6427104723,202502,7,,So Ra Lee,L,,KOR,18.7898699521,7-6(4) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,609,41,355,116
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,292,202634,,,Chen Liang,R,,CHN,24.1916495551,202386,5,,Sung Hee Han,R,,KOR,22.4777549624,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,426,81,337,125
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,291,204291,,Q,Na Lae Han,L,,KOR,20.8323066393,211007,,WC,Sung Ah Park,R,,KOR,19.7234770705,6-0 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,713,27,,
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,290,201418,,Q,Ting Li,R,,CHN,33.3333333333,206107,,,Zhaoxuan Yang,R,,CHN,18.2313483915,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,585,44
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,289,214288,,Q,Jiahui Chen,U,,CHN,17.9466119097,203288,4,,Jia Jing Lu,R,,CHN,23.4633812457,6-7(1) 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,303,153
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,288,202919,8,,Chang Liu,U,,CHN,22.7624914442,203221,,Q,Yoon Young Jeong,U,,KOR,23.3319644079,7-6(5) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,367,110,,
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,287,202684,,,Lin Zhu,R,,CHN,19.2689938398,213775,,WC,Yu Jin Ahn,U,,KOR,16.1478439425,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,485,65,,
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,286,202921,,,Shiho Akita,R,,JPN,23.2963723477,204289,,Q,Mi Rae Ham,U,,KOR,22.5051334702,7-6(7) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,520,56,,
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,285,205616,,,Xin Wen,R,,CHN,20.8295687885,202359,2,,Chin Wei Chan,R,,TPE,28.3230663929,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,376,104,270,183
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,284,201609,1,,Yi Miao Zhou,R,,CHN,22.2422997947,201675,,,So Jung Kim,R,,KOR,27.1348391513,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,161,396,646,35
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,283,201580,,,Xinyun Han,L,,CHN,22.9349760438,204288,,WC,Ji Hee Choi,R,,KOR,18.2340862423,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,457,73,844,16
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,282,202508,3,,Yuxuan Zhang,R,,CHN,18.71321013,204285,,Q,Ji Young Kim,R,,KOR,27.6331279945,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,275,176,904,13
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,281,203578,,Q,Fangzhou Liu,R,,CHN,17.3990417522,201676,,,Ye Ra Lee,R,,KOR,25.6427104723,6-2 7-6(11),3,R16,,,,,,,,,,,,,,,,,,,,678,31,609,41
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,280,204291,,Q,Na Lae Han,L,,KOR,20.8323066393,202634,,,Chen Liang,R,,CHN,24.1916495551,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,713,27,426,81
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,279,214288,,Q,Jiahui Chen,U,,CHN,17.9466119097,201418,,Q,Ting Li,R,,CHN,33.3333333333,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,278,202684,,,Lin Zhu,R,,CHN,19.2689938398,202919,8,,Chang Liu,U,,CHN,22.7624914442,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,485,65,367,110
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,277,205616,,,Xin Wen,R,,CHN,20.8295687885,202921,,,Shiho Akita,R,,JPN,23.2963723477,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,376,104,520,56
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,276,201609,1,,Yi Miao Zhou,R,,CHN,22.2422997947,201580,,,Xinyun Han,L,,CHN,22.9349760438,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,161,396,457,73
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,275,203578,,Q,Fangzhou Liu,R,,CHN,17.3990417522,202508,3,,Yuxuan Zhang,R,,CHN,18.71321013,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,678,31,275,176
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,274,204291,,Q,Na Lae Han,L,,KOR,20.8323066393,214288,,Q,Jiahui Chen,U,,CHN,17.9466119097,6-1 6-0,3,QF,,,,,,,,,,,,,,,,,,,,713,27,,
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,273,205616,,,Xin Wen,R,,CHN,20.8295687885,202684,,,Lin Zhu,R,,CHN,19.2689938398,7-6(4) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,376,104,485,65
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,272,201609,1,,Yi Miao Zhou,R,,CHN,22.2422997947,203578,,Q,Fangzhou Liu,R,,CHN,17.3990417522,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,161,396,678,31
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,271,204291,,Q,Na Lae Han,L,,KOR,20.8323066393,205616,,,Xin Wen,R,,CHN,20.8295687885,4-6 6-4 6-0,3,SF,,,,,,,,,,,,,,,,,,,,713,27,376,104
+2013-W-WITF-KOR-02A-2013,Seoul 15K,Hard,32,15,20130506,270,201609,1,,Yi Miao Zhou,R,,CHN,22.2422997947,204291,,Q,Na Lae Han,L,,KOR,20.8323066393,6-2 6-1,3,F,,,,,,,,,,,,,,,,,,,,161,396,713,27
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,300,201522,1,,Jelena Pandzic,R,,CRO,30.4257357974,211965,,,Jasmin Jebawy,U,,GER,16.8733744011,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,310,148,1189,3
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,299,214067,,Q,Idia Amen,R,,USA,19.9069130732,223241,,LL,Macarena Villasuso,U,,MEX,,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,298,206091,,Q,Yolande Leacock,R,,TRI,22.6091718001,211872,,Q,Priscilla Medlich Leal,U,,MEX,17.363449692,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,297,211874,5,,Victoria Rodriguez,U,,MEX,18.3271731691,206373,,WC,Regina Clark,U,,MEX,17.3990417522,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,670,32,,
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,296,202495,4,,Jennifer Elie,R,,USA,26.9075975359,211936,,,Parris Todd,U,,USA,15.1156741958,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,407,91,1087,6
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,295,211356,,WC,Alejandra Cisneros,U,,MEX,18.3381245722,212202,,,Mariaryeni Gutierrez,,,VEN,24.2902121834,7-6(4) 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,294,211519,,,Wendy Qi Wen Zhang,U,,CAN,18.3572895277,211559,,,Sofia Macias Mendoza,U,,MEX,17.659137577,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,966,11,,
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,293,213563,,Q,Karina Kristina Vyrlan,U,,USA,14.8281998631,203212,8,,Danielle Mills,L,,USA,22.3956194387,4-6 7-5 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,882,15
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,292,209771,6,,Stephanie Kent,U,,USA,23.3976728268,211873,,,Esthefhanie Darehly Juarez Rojo,U,,MEX,20.8158795346,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,782,22,,
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,291,211124,,,Casey Robinson,R,,USA,22.1848049281,223242,,WC,Miranda Rodriguez,U,,MEX,,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,942,12,,
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,290,214008,,WC,Elizabeth Kilborn,U,,USA,22.4996577687,211984,,Q,Miriam Ruth Lane,U,,USA,19.0718685832,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,289,204419,3,,Ana Sofia Sanchez,L,,MEX,19.3511293634,211452,,,Eva Raszkiewicz,U,,USA,20.6570841889,3-6 7-6(4) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,396,98,,
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,288,204360,7,,Carolina Betancourt,R,,MEX,20.386036961,221559,,Q,Mimi Levine,U,,USA,14.7405886379,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,785,21,,
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,287,205422,,,Lara Rafful,R,,ITA,23.5318275154,210718,,,Vivian Mayumi Toma,U,,BRA,22.2532511978,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1116,5,,
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,286,203358,,Q,Khristina Blajkevitch,R,,CAN,21.2813141684,214609,,Q,Maria Jose Zacarias,U,,MEX,14.4202600958,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,285,204420,2,,Marcela Zacarias,R,,MEX,19.4004106776,204363,,,Camila Fuentes,U,,USA,17.8891170431,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,338,127,,
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,284,201522,1,,Jelena Pandzic,R,,CRO,30.4257357974,214067,,Q,Idia Amen,R,,USA,19.9069130732,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,310,148,,
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,283,206091,,Q,Yolande Leacock,R,,TRI,22.6091718001,211874,5,,Victoria Rodriguez,U,,MEX,18.3271731691,4-6 6-2 1-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,,,670,32
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,282,202495,4,,Jennifer Elie,R,,USA,26.9075975359,211356,,WC,Alejandra Cisneros,U,,MEX,18.3381245722,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,407,91,,
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,281,213563,,Q,Karina Kristina Vyrlan,U,,USA,14.8281998631,211519,,,Wendy Qi Wen Zhang,U,,CAN,18.3572895277,3-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,966,11
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,280,211124,,,Casey Robinson,R,,USA,22.1848049281,209771,6,,Stephanie Kent,U,,USA,23.3976728268,6-2 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,942,12,782,22
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,279,204419,3,,Ana Sofia Sanchez,L,,MEX,19.3511293634,214008,,WC,Elizabeth Kilborn,U,,USA,22.4996577687,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,396,98,,
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,278,204360,7,,Carolina Betancourt,R,,MEX,20.386036961,205422,,,Lara Rafful,R,,ITA,23.5318275154,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,785,21,1116,5
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,277,204420,2,,Marcela Zacarias,R,,MEX,19.4004106776,203358,,Q,Khristina Blajkevitch,R,,CAN,21.2813141684,3-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,338,127,,
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,276,201522,1,,Jelena Pandzic,R,,CRO,30.4257357974,206091,,Q,Yolande Leacock,R,,TRI,22.6091718001,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,310,148,,
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,275,202495,4,,Jennifer Elie,R,,USA,26.9075975359,213563,,Q,Karina Kristina Vyrlan,U,,USA,14.8281998631,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,407,91,,
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,274,204419,3,,Ana Sofia Sanchez,L,,MEX,19.3511293634,211124,,,Casey Robinson,R,,USA,22.1848049281,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,396,98,942,12
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,273,204420,2,,Marcela Zacarias,R,,MEX,19.4004106776,204360,7,,Carolina Betancourt,R,,MEX,20.386036961,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,338,127,785,21
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,272,201522,1,,Jelena Pandzic,R,,CRO,30.4257357974,202495,4,,Jennifer Elie,R,,USA,26.9075975359,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,310,148,407,91
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,271,204419,3,,Ana Sofia Sanchez,L,,MEX,19.3511293634,204420,2,,Marcela Zacarias,R,,MEX,19.4004106776,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,396,98,338,127
+2013-W-WITF-MEX-09A-2013,San Luis Potosi 15K,Hard,32,15,20130819,270,201522,1,,Jelena Pandzic,R,,CRO,30.4257357974,204419,3,,Ana Sofia Sanchez,L,,MEX,19.3511293634,6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,310,148,396,98
+2013-W-WITF-MEX-10A-2013,Victoria 15K,Hard,32,15,20130930,300,206091,,,Yolande Leacock,R,,TRI,22.7241615332,223243,,WC,Maria Beatriz Garduno,U,,MEX,,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-MEX-10A-2013,Victoria 15K,Hard,32,15,20130930,299,223244,,WC,Ana Ramirez Lascurain,U,,MEX,,204418,,,Daniella Roldan,R,,USA,15.9014373717,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-MEX-10A-2013,Victoria 15K,Hard,32,15,20130930,298,211796,,,Francoise Abanda,R,,CAN,16.6488706366,204378,7,,Matilda Hamlin,U,,SWE,21.1088295688,7-6(7) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,913,13,631,36
+2013-W-WITF-MEX-10A-2013,Victoria 15K,Hard,32,15,20130930,297,205170,,,Anamika Bhargava,U,,USA,24.4654346338,204363,,Q,Camila Fuentes,U,,USA,18.0041067762,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,800,20,,
+2013-W-WITF-MEX-10A-2013,Victoria 15K,Hard,32,15,20130930,296,214307,,WC,Andrea Sanchez Sainz,U,,MEX,17.1197809719,205422,,,Lara Rafful,R,,ITA,23.6468172485,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1116,6
+2013-W-WITF-MEX-10A-2013,Victoria 15K,Hard,32,15,20130930,295,202393,8,,Andrea Koch Benvenuto,R,,CHI,28.4298425736,211965,,,Jasmin Jebawy,U,,GER,16.9883641342,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,642,35,1186,3
+2013-W-WITF-MEX-10A-2013,Victoria 15K,Hard,32,15,20130930,294,211874,,,Victoria Rodriguez,U,,MEX,18.4421629021,210064,,,Denise Muresan,R,,USA,24.167008898,7-6(5) 6-7(1) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,738,25,807,20
+2013-W-WITF-MEX-10A-2013,Victoria 15K,Hard,32,15,20130930,293,211519,,,Wendy Qi Wen Zhang,U,,CAN,18.4722792608,206228,,,Anette Munozova,R,,SWE,22.1656399726,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,958,12,1082,7
+2013-W-WITF-MEX-10A-2013,Victoria 15K,Hard,32,15,20130930,292,209771,,,Stephanie Kent,U,,USA,23.5126625599,211983,,Q,Sarai Delfina Monarrez Yesaki,U,,MEX,16.4544832307,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,779,23,,
+2013-W-WITF-MEX-10A-2013,Victoria 15K,Hard,32,15,20130930,291,204360,,,Carolina Betancourt,R,,MEX,20.501026694,210871,,Q,Steffi Carruthers,R,,SAM,20.3531827515,6-2 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,741,25,,
+2013-W-WITF-MEX-10A-2013,Victoria 15K,Hard,32,15,20130930,290,202379,1,,Chieh Yu Hsu,L,,USA,21.711156742,206091,,,Yolande Leacock,R,,TRI,22.7241615332,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,254,211,,
+2013-W-WITF-MEX-10A-2013,Victoria 15K,Hard,32,15,20130930,289,211796,,,Francoise Abanda,R,,CAN,16.6488706366,223244,,WC,Ana Ramirez Lascurain,U,,MEX,,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,913,13,,
+2013-W-WITF-MEX-10A-2013,Victoria 15K,Hard,32,15,20130930,288,204419,3,,Ana Sofia Sanchez,L,,MEX,19.4661190965,205170,,,Anamika Bhargava,U,,USA,24.4654346338,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,398,101,800,20
+2013-W-WITF-MEX-10A-2013,Victoria 15K,Hard,32,15,20130930,287,202393,8,,Andrea Koch Benvenuto,R,,CHI,28.4298425736,214307,,WC,Andrea Sanchez Sainz,U,,MEX,17.1197809719,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,642,35,,
+2013-W-WITF-MEX-10A-2013,Victoria 15K,Hard,32,15,20130930,286,211874,,,Victoria Rodriguez,U,,MEX,18.4421629021,201553,5,,Lenka Wienerova,R,,SVK,25.4373716632,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,738,25,545,55
+2013-W-WITF-MEX-10A-2013,Victoria 15K,Hard,32,15,20130930,285,203529,4,,Sonja Molnar,U,,CAN,23.4223134839,211519,,,Wendy Qi Wen Zhang,U,,CAN,18.4722792608,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,537,56,958,12
+2013-W-WITF-MEX-10A-2013,Victoria 15K,Hard,32,15,20130930,284,205989,6,,Elisabeth Fournier,R,,CAN,22.5653661875,209771,,,Stephanie Kent,U,,USA,23.5126625599,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,599,43,779,23
+2013-W-WITF-MEX-10A-2013,Victoria 15K,Hard,32,15,20130930,283,202900,2,,Maria Fernanda Alvarez Teran,R,,BOL,24.5859000684,204360,,,Carolina Betancourt,R,,MEX,20.501026694,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,335,131,741,25
+2013-W-WITF-MEX-10A-2013,Victoria 15K,Hard,32,15,20130930,282,202379,1,,Chieh Yu Hsu,L,,USA,21.711156742,211796,,,Francoise Abanda,R,,CAN,16.6488706366,6-3 4-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,254,211,913,13
+2013-W-WITF-MEX-10A-2013,Victoria 15K,Hard,32,15,20130930,281,204419,3,,Ana Sofia Sanchez,L,,MEX,19.4661190965,202393,8,,Andrea Koch Benvenuto,R,,CHI,28.4298425736,7-6(4) 3-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,398,101,642,35
+2013-W-WITF-MEX-10A-2013,Victoria 15K,Hard,32,15,20130930,280,211874,,,Victoria Rodriguez,U,,MEX,18.4421629021,203529,4,,Sonja Molnar,U,,CAN,23.4223134839,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,738,25,537,56
+2013-W-WITF-MEX-10A-2013,Victoria 15K,Hard,32,15,20130930,279,202900,2,,Maria Fernanda Alvarez Teran,R,,BOL,24.5859000684,205989,6,,Elisabeth Fournier,R,,CAN,22.5653661875,6-1 6-0,3,QF,,,,,,,,,,,,,,,,,,,,335,131,599,43
+2013-W-WITF-MEX-10A-2013,Victoria 15K,Hard,32,15,20130930,278,204419,3,,Ana Sofia Sanchez,L,,MEX,19.4661190965,202379,1,,Chieh Yu Hsu,L,,USA,21.711156742,2-6 7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,398,101,254,211
+2013-W-WITF-MEX-10A-2013,Victoria 15K,Hard,32,15,20130930,277,211874,,,Victoria Rodriguez,U,,MEX,18.4421629021,202900,2,,Maria Fernanda Alvarez Teran,R,,BOL,24.5859000684,6-1 5-7 6-3,3,SF,,,,,,,,,,,,,,,,,,,,738,25,335,131
+2013-W-WITF-MEX-10A-2013,Victoria 15K,Hard,32,15,20130930,276,211874,,,Victoria Rodriguez,U,,MEX,18.4421629021,204419,3,,Ana Sofia Sanchez,L,,MEX,19.4661190965,6-2 4-6 4-0 RET,3,F,,,,,,,,,,,,,,,,,,,,738,25,398,101
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,300,206240,1,,Patricia Ku Flores,R,,PER,19.0965092402,211613,,Q,Giulia Leone,U,,PER,17.0130047912,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,347,124,,
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,299,211876,,Q,Angelina Zhuravleva,U,,RUS,16.1697467488,210113,,,Katherine Gabriela Miranda Chang,R,,PER,18.9431895962,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,984,10
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,298,211902,,Q,Jacqueline Crawford,U,,USA,18.135523614,213737,,Q,Anastasia Evgenyevna Nefedova,R,,RUS,14.0287474333,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,297,210567,,,Martina Frantova,R,,SVK,20.3449691992,206332,7,,Camila Giangreco Campiz,R,,PAR,16.4106776181,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1153,3,608,40
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,296,203510,4,,Nathalia Rossi,L,,BRA,23.7344284736,205422,,Q,Lara Rafful,R,,ITA,22.9568788501,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,493,63,1153,3
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,295,214129,,WC,Camila Vargas Gomez,U,,PER,15.0198494182,211161,,Q,Isabella Capato Camargo,R,,BRA,16.9418206708,4-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,294,206433,,,Nadia Echeverria Alam,R,,USA,18.0205338809,211609,,WC,Maria Zela,U,,PER,19.4524298426,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,841,18,,
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,293,202432,5,,Hilda Melander,U,,SWE,21.1416837782,210547,,,Debora Echeverria,U,,CHI,19.8904859685,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,505,60,,
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,292,201654,6,,Sandra Roma,L,,SWE,22.8117727584,210947,,WC,Ferny Angeles Paz,R,,PER,17.1471594798,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,506,60,,
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,291,210519,,,Ana Laura Gutierrez,R,,BOL,17.9356605065,210725,,,Raquel Montalvo,L,,BOL,16.8377823409,7-6(2) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,290,206329,,,Montserrat Gonzalez,R,,PAR,18.559890486,211865,,WC,Maria Gomez Saldarriaga,U,,COL,16.8213552361,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,774,22,,
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,289,203363,3,,Vanesa Furlanetto,U,,ARG,25.9219712526,211176,,,Blair Shankle,U,,USA,18.4394250513,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,459,74,863,16
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,288,202699,,,Ryann Foster,U,,USA,16.4982888433,204233,8,,Ingrid Esperanza Vargas Calvo,U,,PER,23.0691307324,6-1 1-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1117,4,753,24
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,287,211936,,,Parris Todd,U,,USA,14.5407255305,211834,,Q,Patricia Panta,R,,PER,15.6167008898,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,286,206431,,Q,Andressa Cristina Souza,R,,BRA,18.5681040383,211606,,LL,Tanya Noury,U,,USA,19.3538672142,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,285,202302,2,,Maria Fernanda Alves,L,,BRA,29.7659137577,204438,,,Sabrina Bamburac,R,,GBR,19.6632443532,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,404,92,826,18
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,284,206240,1,,Patricia Ku Flores,R,,PER,19.0965092402,211876,,Q,Angelina Zhuravleva,U,,RUS,16.1697467488,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,347,124,,
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,283,210567,,,Martina Frantova,R,,SVK,20.3449691992,211902,,Q,Jacqueline Crawford,U,,USA,18.135523614,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1153,3,,
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,282,203510,4,,Nathalia Rossi,L,,BRA,23.7344284736,214129,,WC,Camila Vargas Gomez,U,,PER,15.0198494182,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,493,63,,
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,281,202432,5,,Hilda Melander,U,,SWE,21.1416837782,206433,,,Nadia Echeverria Alam,R,,USA,18.0205338809,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,505,60,841,18
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,280,201654,6,,Sandra Roma,L,,SWE,22.8117727584,210519,,,Ana Laura Gutierrez,R,,BOL,17.9356605065,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,506,60,,
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,279,203363,3,,Vanesa Furlanetto,U,,ARG,25.9219712526,206329,,,Montserrat Gonzalez,R,,PAR,18.559890486,6-2 5-7 6-3,3,R16,,,,,,,,,,,,,,,,,,,,459,74,774,22
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,278,202699,,,Ryann Foster,U,,USA,16.4982888433,211936,,,Parris Todd,U,,USA,14.5407255305,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1117,4,,
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,277,202302,2,,Maria Fernanda Alves,L,,BRA,29.7659137577,206431,,Q,Andressa Cristina Souza,R,,BRA,18.5681040383,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,404,92,,
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,276,206240,1,,Patricia Ku Flores,R,,PER,19.0965092402,210567,,,Martina Frantova,R,,SVK,20.3449691992,7-6(4) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,347,124,1153,3
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,275,202432,5,,Hilda Melander,U,,SWE,21.1416837782,203510,4,,Nathalia Rossi,L,,BRA,23.7344284736,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,505,60,493,63
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,274,203363,3,,Vanesa Furlanetto,U,,ARG,25.9219712526,201654,6,,Sandra Roma,L,,SWE,22.8117727584,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,459,74,506,60
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,273,202302,2,,Maria Fernanda Alves,L,,BRA,29.7659137577,202699,,,Ryann Foster,U,,USA,16.4982888433,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,404,92,1117,4
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,272,202432,5,,Hilda Melander,U,,SWE,21.1416837782,206240,1,,Patricia Ku Flores,R,,PER,19.0965092402,6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,505,60,347,124
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,271,202302,2,,Maria Fernanda Alves,L,,BRA,29.7659137577,203363,3,,Vanesa Furlanetto,U,,ARG,25.9219712526,1-6 7-6(2) 7-6(3),3,SF,,,,,,,,,,,,,,,,,,,,404,92,459,74
+2013-W-WITF-PER-01A-2013,Lima 15K,Clay,32,15,20130121,270,202302,2,,Maria Fernanda Alves,L,,BRA,29.7659137577,202432,5,,Hilda Melander,U,,SWE,21.1416837782,6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,404,92,505,60
 2013-W-INT-AUS-01A-2013,Hobart,Hard,32,I,20130107,1,201605,1,,Mandy Minella,R,,LUX,27.1266255989,201606,,,Rebecca Marino,R,,CAN,22.0616016427,7-6(10) 6-4,3,Q1,,1,4,71,44,28,15,,2,6,4,10,94,49,34,17,,7,12,77,815,411,89
 2013-W-INT-AUS-01A-2013,Hobart,Hard,32,I,20130107,2,202508,,WC,Yuxuan Zhang,R,,CHN,18.3874058864,202481,,,Chi Chi Scholl,R,,USA,20.5092402464,3-6 6-2 6-1,3,Q1,,3,14,103,57,39,19,,10,13,0,6,79,44,26,14,,4,10,368,112,172,384
 2013-W-INT-AUS-01A-2013,Hobart,Hard,32,I,20130107,3,203526,,,Tammi Patterson,R,,AUS,23.0116358658,200697,,WC,Janette Husarova,R,,SVK,38.5954825462,6-2 6-2,3,Q1,,2,2,51,35,24,8,,3,5,3,2,59,41,19,7,,4,10,575,45,,
