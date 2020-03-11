@@ -6,9 +6,11 @@ The player file columns are: player_id, first_name, last_name, hand, birth_date,
 
 The columns for the ranking files are: ranking_date, ranking, player_id, ranking_points, tours. 'Tours' is WTA jargon for certain types of tournaments played, and that column is not anywhere near complete. 
 
-Match result files (e.g. 'wta_matches_2014.csv') contain all tour-level singles matches for that season. To make them easier to use, I've included a fair bit of redundancy with the biographical and ranking files: each row contains several columns of biographical information, along with ranking and ranking points, for both players. Ranking data, as well as age, are as of tourney_date, which is almost always the Monday at or near the beginning of the event.
+Match result files (e.g. 'wta_matches_2014.csv') contain all tour-level singles matches for that season. To make them easier to use, I've included a fair bit of redundancy with the biographical and ranking files: each row contains several columns of biographical information, along with ranking and ranking points, for both players.
 
 ITF, tour-level qualifying, and some ITF-level qualifying match results are stored in a separate yearly file (e.g. 'wta_matches_qual_itf_2014.csv').
+
+Most of the columns in the results files are self-explanatory. For more details, see the matches_data_dictionary.txt file in the parallel tennis_atp repo.
 
 These files are in the same format as my ATP player, rankings, and results databases (https://github.com/JeffSackmann/tennis_atp). There's a small amount of sample code available there (https://github.com/JeffSackmann/tennis_atp/tree/master/examples).
 
