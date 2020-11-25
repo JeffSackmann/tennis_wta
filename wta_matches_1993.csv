@@ -2078,7 +2078,6 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-W-WT-CZE-01A-1993,Prague,Clay,32,W,19930713,29,200671,8,,Meike Babel,R,,GER,18.6392881588,200522,,,Nicole Krijger Jagerman,U,,NED,25.9739904175,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,76,16,121,10
 1993-W-WT-CZE-01A-1993,Prague,Clay,32,W,19930713,30,200612,,,Natalia Medvedeva,U,,UKR,21.659137577,200641,4,,Patricia Tarabini,R,,ARG,24.9336071184,6-7 6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,105,12,55,25
 1993-W-WT-CZE-01A-1993,Prague,Clay,32,W,19930713,31,200612,,,Natalia Medvedeva,U,,UKR,21.659137577,200671,8,,Meike Babel,R,,GER,18.6392881588,6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,105,12,76,16
-1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,1,200696,,,Christina Papadaki,R,,GRE,20.1861738535,200646,,,Francesca Romano,U,,ITA,22.2340862423,3-6 6-4 7-5,3,R128,,,,,,,,,,,,,,,,,,,,122,10,115,11
 1993-W-WT-USA-11A-1993,San Diego,Hard,56,W,19930801,1,200593,,,Karine Quentrec,U,,FRA,23.7782340862,201745,,,Lupita Novelo,U,,MEX,26.2422997947,6-3 6-3,3,R64,,,,,,,,,,,,,,,,,,,,86,15,276,3
 1993-W-WT-USA-11A-1993,San Diego,Hard,56,W,19930801,2,200016,,,Sandrine Testud,R,,FRA,21.3278576318,202162,,,Page Bartelt,U,,USA,19.1101984942,6-0 6-1,3,R64,,,,,,,,,,,,,,,,,,,,95,14,,
 1993-W-WT-USA-11A-1993,San Diego,Hard,56,W,19930801,3,200663,,,Nanne Dahlman,U,,FIN,22.8993839836,200013,14,,Angelica Gavaldon,R,,MEX,19.8275154004,6-4 7-6,3,R64,,,,,,,,,,,,,,,,,,,,104,12,56,25
@@ -2793,3 +2792,57 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-D129,Fed Cup G1 RRD: HUN vs POR,Hard,4,D,19930513,2,201963,,,Sofia Prazeres,U,,POR,18.8993839836,201771,,,Virag Csurgo,U,,HUN,20.5037645448,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,260,3,449,1
 1993-D130,Fed Cup G1 RRD: HUN vs ROU,Hard,4,D,19930514,1,206121,,,Agnes Gee,U,,HUN,18.7077344285,212782,,,Isabela Martin,,,ROU,21.273100616,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,412,1
 1993-D130,Fed Cup G1 RRD: HUN vs ROU,Hard,4,D,19930514,2,200059,,,Ruxandra Dragomir Ilie,R,,ROU,20.553045859,212781,,,Kata Gyorke,,,HUN,17.6728268309,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,102,12,,
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,1,200049,6,,Conchita Martinez,R,170,ESP,21.0458590007,200572,3,,Gabriela Sabatini,R,,ARG,22.9650924025,7-5 6-1,3,F,,,,,,,,,,,,,,,,,,,,8,110,5,166
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,2,200049,6,,Conchita Martinez,R,170,ESP,21.0458590007,200293,2,,Martina Navratilova,L,173,USA,36.5393566051,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,8,110,4,195
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,3,200572,3,,Gabriela Sabatini,R,,ARG,22.9650924025,201063,,,Maria Francesca Bentivoglio,U,,ITA,16.2628336756,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,5,166,329,2
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,4,200017,1,,Arantxa Sanchez Vicario,R,,ESP,21.3744010951,200077,5,,Jennifer Capriati,R,170,USA,17.0951403149,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,3,233,7,117
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,5,200597,4,,Mary Joe Fernandez,R,,USA,21.7056810404,200081,8,,Anke Huber,R,,GER,18.4120465435,6-4 5-7 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,6,118,11,71
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,6,200049,6,,Conchita Martinez,R,170,ESP,21.0458590007,200576,,,Nathalie Herreman,U,,FRA,27.099247091,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,8,110,162,7
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,7,200293,2,,Martina Navratilova,L,173,USA,36.5393566051,200644,16,,Naoko Sawamatsu,U,,JPN,20.1122518823,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,4,195,25,42
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,8,200572,3,,Gabriela Sabatini,R,,ARG,22.9650924025,200647,,,Noelle Van Lottum,U,,FRA,20.8076659822,6-0 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,5,166,92,12
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,9,200017,1,,Arantxa Sanchez Vicario,R,,ESP,21.3744010951,200554,,,Brenda Schultz Mccarthy,R,,NED,22.3463381246,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,3,233,37,33
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,10,201063,,,Maria Francesca Bentivoglio,U,,ITA,16.2628336756,200116,15,,Natalia Zvereva,R,,BLR,22.0479123888,7-5 5-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,329,2,22,50
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,11,200077,5,,Jennifer Capriati,R,170,USA,17.0951403149,200064,9,,Amanda Coetzer,R,158,RSA,21.53045859,7-6(6) 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,7,117,13,70
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,12,200597,4,,Mary Joe Fernandez,R,,USA,21.7056810404,200096,11,,Mary Pierce,R,178,FRA,18.2970568104,7-6(3) 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,6,118,16,60
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,13,200081,8,,Anke Huber,R,,GER,18.4120465435,200667,,,Ines Gorrochategui,R,,ARG,19.8877481177,1-6 6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,11,71,56,22
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,14,200049,6,,Conchita Martinez,R,170,ESP,21.0458590007,200645,,,Maja Zivec Skulj,U,,GER,19.6030116359,7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,8,110,85,14
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,15,200293,2,,Martina Navratilova,L,173,USA,36.5393566051,200669,,,Debbie Graham,R,,USA,22.688569473,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,4,195,50,25
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,16,200096,11,,Mary Pierce,R,178,FRA,18.2970568104,201952,,,Elena Savoldi,U,,ITA,20.4736481862,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,16,60,200,5
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,17,200572,3,,Gabriela Sabatini,R,,ARG,22.9650924025,201193,,,Claire Wegink,U,,NED,25.5934291581,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,5,166,158,7
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,18,200017,1,,Arantxa Sanchez Vicario,R,,ESP,21.3744010951,200709,,,Rosana De Los Rios,R,170,PAR,17.6290212183,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,3,233,147,8
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,19,200554,,,Brenda Schultz Mccarthy,R,,NED,22.3463381246,200417,,,Gigi Fernandez,U,,USA,29.1937029432,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,37,33,30,38
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,20,200644,16,,Naoko Sawamatsu,U,,JPN,20.1122518823,200712,,,Katerina Kroupova,U,,CZE,19.1978097194,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,25,42,86,14
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,21,201063,,,Maria Francesca Bentivoglio,U,,ITA,16.2628336756,200539,7,,Jana Novotna,R,,CZE,24.5831622177,7-5 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,329,2,9,99
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,22,200647,,,Noelle Van Lottum,U,,FRA,20.8076659822,200455,12,,Katerina Maleeva,U,,BUL,23.9890485969,6-3 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,92,12,17,60
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,23,200116,15,,Natalia Zvereva,R,,BLR,22.0479123888,200442,,,Andrea Temesvari,R,,HUN,27.0198494182,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,22,50,81,14
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,24,200064,9,,Amanda Coetzer,R,158,RSA,21.53045859,200557,,,Katrina Adams,U,,USA,24.7419575633,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,13,70,168,6
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,25,200667,,,Ines Gorrochategui,R,,ARG,19.8877481177,200723,,,Iva Majoli,R,,CRO,15.7234770705,6-3 4-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,56,22,44,27
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,26,200077,5,,Jennifer Capriati,R,170,USA,17.0951403149,200725,,,Sandra Cecchini,U,,ITA,28.1779603012,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,7,117,28,39
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,27,200597,4,,Mary Joe Fernandez,R,,USA,21.7056810404,200682,,,Joannette Kruger,R,,RSA,19.6632443532,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,6,118,113,11
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,28,200576,,,Nathalie Herreman,U,,FRA,27.099247091,200700,,,Silvia Farina Elia,R,,ITA,21.015742642,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,162,7,116,10
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,29,200081,8,,Anke Huber,R,,GER,18.4120465435,200705,,,Linda Ferrando,U,,ITA,27.3045859001,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,11,71,66,19
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,30,200557,,,Katrina Adams,U,,USA,24.7419575633,200656,,,Jessica Emmons,U,,USA,22.636550308,6-3 6-0,3,R64,,,,,,,,,,,,,,,,,,,,168,6,189,5
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,31,200682,,,Joannette Kruger,R,,RSA,19.6632443532,200584,,,Laura Golarsa,R,,ITA,25.4318959617,6-7(4) 6-4 7-6(6),3,R64,,,,,,,,,,,,,,,,,,,,113,11,132,9
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,32,200712,,,Katerina Kroupova,U,,CZE,19.1978097194,200621,,,Isabelle Demongeot,U,,FRA,26.6228610541,6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,86,14,94,12
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,33,200455,12,,Katerina Maleeva,U,,BUL,23.9890485969,200678,,,Gloria Pizzichini,R,,ITA,17.7768651608,7-6(3) 6-1,3,R64,,,,,,,,,,,,,,,,,,,,17,60,110,11
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,34,200723,,,Iva Majoli,R,,CRO,15.7234770705,200097,10,,Nathalie Tauziat,R,,FRA,25.5441478439,6-1 6-2,3,R64,,,,,,,,,,,,,,,,,,,,44,27,14,64
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,35,200096,11,,Mary Pierce,R,178,FRA,18.2970568104,200602,,,Shaun Stafford,U,,USA,24.386036961,6-4 7-5,3,R64,,,,,,,,,,,,,,,,,,,,16,60,57,22
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,36,200554,,,Brenda Schultz Mccarthy,R,,NED,22.3463381246,200404,14,,Zina Garrison,U,,USA,29.4620123203,6-4 6-2,3,R64,,,,,,,,,,,,,,,,,,,,37,33,21,50
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,37,200644,16,,Naoko Sawamatsu,U,,JPN,20.1122518823,200674,,,Bettina Fulco Villella,R,,ARG,24.5256673511,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,25,42,120,10
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,38,201952,,,Elena Savoldi,U,,ITA,20.4736481862,200691,,,Flora Perfetti,U,,ITA,24.257357974,6-3 6-2,3,R64,,,,,,,,,,,,,,,,,,,,200,5,123,10
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,39,200442,,,Andrea Temesvari,R,,HUN,27.0198494182,200696,,,Christina Papadaki,R,,GRE,20.1861738535,6-1 6-0,3,R64,,,,,,,,,,,,,,,,,,,,81,14,122,10
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,40,201063,,,Maria Francesca Bentivoglio,U,,ITA,16.2628336756,200485,,,Manon Bollegraf,U,,NED,29.0622861054,6-2 6-4,3,R64,,,,,,,,,,,,,,,,,,,,329,2,70,19
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,41,200647,,,Noelle Van Lottum,U,,FRA,20.8076659822,200663,,,Nanne Dahlman,U,,FIN,22.6529774127,6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,92,12,72,18
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,42,201193,,,Claire Wegink,U,,NED,25.5934291581,200016,,,Sandrine Testud,R,,FRA,21.0814510609,5-7 6-4 7-6(9),3,R64,,,,,,,,,,,,,,,,,,,,158,7,102,12
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,43,200645,,,Maja Zivec Skulj,U,,GER,19.6030116359,201054,,,Katia Piccolini,U,,ITA,20.295687885,6-3 6-0,3,R64,,,,,,,,,,,,,,,,,,,,85,14,114,11
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,44,200116,15,,Natalia Zvereva,R,,BLR,22.0479123888,200686,,,Sandra Dopfer,U,,AUT,22.9404517454,6-2 7-5,3,R64,,,,,,,,,,,,,,,,,,,,22,50,151,7
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,45,200725,,,Sandra Cecchini,U,,ITA,28.1779603012,200105,,,Rachel Mcquillan,U,,AUS,21.4182067077,6-1 6-3,3,R64,,,,,,,,,,,,,,,,,,,,28,39,62,20
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,46,200064,9,,Amanda Coetzer,R,158,RSA,21.53045859,200530,,,Radomira Zrubakova,R,,SVK,22.3518138261,6-4 6-1,3,R64,,,,,,,,,,,,,,,,,,,,13,70,36,34
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,47,200667,,,Ines Gorrochategui,R,,ARG,19.8877481177,200681,,,Natalia Baudone Furlan,U,,ITA,20.8076659822,6-4 6-4,3,R64,,,,,,,,,,,,,,,,,,,,56,22,77,16
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,48,200417,,,Gigi Fernandez,U,,USA,29.1937029432,200668,,,Silke Frankl,U,,GER,22.9295003422,7-6(2) 2-6 6-3,3,R64,,,,,,,,,,,,,,,,,,,,30,38,97,12
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,49,200705,,,Linda Ferrando,U,,ITA,27.3045859001,200599,,,Carrie Cunningham,U,,USA,21.0130047912,2-6 6-2 6-4,3,R64,,,,,,,,,,,,,,,,,,,,66,19,91,12
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,50,200700,,,Silvia Farina Elia,R,,ITA,21.015742642,200428,13,,Lori Mcneil,U,,USA,29.3744010951,5-7 6-2 6-2,3,R64,,,,,,,,,,,,,,,,,,,,116,10,20,53
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,51,200669,,,Debbie Graham,R,,USA,22.688569473,200586,,,Federica Bonsignori,U,,ITA,25.4510609172,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,50,25,58,21
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,52,200576,,,Nathalie Herreman,U,,FRA,27.099247091,201047,,,Andrea Vieira,U,,BRA,22.2395619439,4-6 6-4 6-2,3,R64,,,,,,,,,,,,,,,,,,,,162,7,140,8
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,53,200049,6,,Conchita Martinez,R,170,ESP,21.0458590007,200597,4,,Mary Joe Fernandez,R,,USA,21.7056810404,7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,8,110,6,118
+1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,54,200572,3,,Gabriela Sabatini,R,,ARG,22.9650924025,200017,1,,Arantxa Sanchez Vicario,R,,ESP,21.3744010951,6-1 6-3,3,SF,,,,,,,,,,,,,,,,,,,,5,166,3,233
