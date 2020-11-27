@@ -1,0 +1,45 @@
+---
+title: "Group Project - Tennis Data"
+author: "Jack Simons"
+date: "27/11/2020"
+output: html_document
+---
+
+Let's first generate Lambdas
+
+```{r}
+#no players
+K <- 10
+
+#generate lambdas
+lambda <- runif(K, min=0, max=5)
+lambda[1] <- 5 #roger federer
+lambda[2] <- 2 #(rev) ed davis
+
+#generate n
+n <- matrix(round(runif(K^2, min=1, max=10)), K, K)
+diag(n) <- 0
+n <- round((n+t(n))/2)
+
+#draw function
+lambda_draw <- function(n, lam1, lam2) {
+  rands <- runif(n)
+  p_win <- lam1/(lam1+lam2)
+  return(sum(rands>p_win))
+}
+
+#generate w - row beats column
+w <- matrix(0, K, K)
+no_matches <- apply(n, 1, sum)
+for (p1_ind in 1:K) {
+  for (p2_ind in (1:K)[1:K != p1_ind]) {
+    no_matches_temp <- n[p1_ind, p2_ind]
+    p1_wins <- lambda_draw(no_matches_temp, lambda[p1_ind], lambda[p2_ind])
+    w[p1_ind, p2_ind] <- p1_wins
+    w[p2_ind, p1_ind] <- no_matches_temp - p1_wins
+  }
+}
+
+
+```
+
