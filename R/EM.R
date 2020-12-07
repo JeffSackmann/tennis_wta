@@ -37,7 +37,7 @@ EM <- function(W,nsteps,a,b){
   K <- length(W[1,])
   n <- matrix(0,nrow=K,ncol=K)
   n <- W + t(W)
-  lambda <- runif(K,0,1)
+  lambda <- runif(K,0,10)
   
   Z <- matrix(0,nrow = K,ncol=K)
   
@@ -50,3 +50,7 @@ EM <- function(W,nsteps,a,b){
     return(lambda)
   }
 }
+
+
+rescale <- function(l)l/sum(l)
+  

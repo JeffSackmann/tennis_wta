@@ -9,7 +9,7 @@ Let's first generate Lambdas
 
 ```{r}
 #no players
-K <- 10
+K <- 50
 
 #generate lambdas
 lambda <- runif(K, min=0, max=5)
@@ -17,7 +17,7 @@ lambda[1] <- 5 #roger federer
 lambda[2] <- 2 #(rev) ed davis
 
 #generate n
-n <- matrix(round(runif(K^2, min=1, max=10)), K, K)
+n <- matrix(round(runif(K^2, min=10000, max=20000)), K, K)
 diag(n) <- 0
 n <- round((n+t(n))/2)
 
@@ -25,7 +25,7 @@ n <- round((n+t(n))/2)
 lambda_draw <- function(n, lam1, lam2) {
   rands <- runif(n)
   p_win <- lam1/(lam1+lam2)
-  return(sum(rands>p_win))
+  return(sum(rands<p_win))
 }
 
 #generate w - row beats column
@@ -40,6 +40,9 @@ for (p1_ind in 1:K) {
   }
 }
 
+l <- EM(w,10000000,5,0)
+plot(sort(rescale(lambda)),type='l',xlab = 'Player',ylab = 'Score')
+points(rank(lambda),rescale(l),col='red')
 
 ```
 
