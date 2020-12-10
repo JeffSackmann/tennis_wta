@@ -9,7 +9,7 @@ Let's first generate Lambdas
 
 ```{r}
 #no players
-K <- 10
+K <- 30
 
 #generate lambdas
 lambda <- runif(K, min=0, max=80)
@@ -17,7 +17,7 @@ lambda <- runif(K, min=0, max=80)
 #lambda[2] <- 2 #(rev) ed davis
 
 #generate n
-n <- matrix(round(runif(K^2, min=1000000, max=2000000)), K, K)
+n <- matrix(round(runif(K^2, min=0, max=2)), K, K)
 diag(n) <- 0
 n <- round((n+t(n))/2)
 
