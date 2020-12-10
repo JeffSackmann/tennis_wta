@@ -9,15 +9,15 @@ Let's first generate Lambdas
 
 ```{r}
 #no players
-K <- 50
+K <- 10
 
 #generate lambdas
-lambda <- runif(K, min=0, max=5)
-lambda[1] <- 5 #roger federer
-lambda[2] <- 2 #(rev) ed davis
+lambda <- runif(K, min=0, max=80)
+#lambda[1] <- 5 #roger federer
+#lambda[2] <- 2 #(rev) ed davis
 
 #generate n
-n <- matrix(round(runif(K^2, min=10000, max=20000)), K, K)
+n <- matrix(round(runif(K^2, min=1000000, max=2000000)), K, K)
 diag(n) <- 0
 n <- round((n+t(n))/2)
 
@@ -39,10 +39,65 @@ for (p1_ind in 1:K) {
     w[p2_ind, p1_ind] <- no_matches_temp - p1_wins
   }
 }
+```
 
-l <- EM(w,10000000,5,0)
-plot(sort(rescale(lambda)),type='l',xlab = 'Player',ylab = 'Score')
-points(rank(lambda),rescale(l),col='red')
+```{r}
+
+# Testing 
+
+l <- EM(w,150000,1,0,0.00005)
+
+Ptrue <- matrix(0,K,K)
+Phat <- matrix(0,K,K)
+
+for(i in 1:K){
+  for(j in 1:K){
+    Ptrue[i,j] <- lambda[i]/(lambda[i] + lambda[j])
+  }
+}
+
+for(i in 1:K){
+  for(j in 1:K){
+    Phat[i,j] <- l[i]/(l[i] + l[j])
+  }
+}
+
+plot(as.vector(Ptrue),type='l',xlab='Player Comparison Index',ylab = 'Probability of Win')
+points(as.vector(Phat),col='red')
+
+max(abs(Ptrue-Phat))
 
 ```
+
+
+```{r}
+# Testing 
+
+l <- EM2(w,150000,1,0,0.01)
+
+Ptrue <- matrix(0,K,K)
+Phat <- matrix(0,K,K)
+
+for(i in 1:K){
+  for(j in 1:K){
+    Ptrue[i,j] <- lambda[i]/(lambda[i] + lambda[j])
+  }
+}
+
+for(i in 1:K){
+  for(j in 1:K){
+    Phat[i,j] <- l[i]/(l[i] + l[j])
+  }
+}
+
+plot(as.vector(Ptrue),type='l',xlab='Player Comparison Index',ylab = 'Probability of Win')
+points(as.vector(Phat),col='red')
+
+max(abs(Ptrue-Phat))
+```
+
+
+
+
+
 
