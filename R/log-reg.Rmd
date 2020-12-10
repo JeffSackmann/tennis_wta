@@ -1,0 +1,40 @@
+---
+title: "Tennis Group Project"
+author: "Samuel Stockman, Angie Gray, Jack Simons"
+date: "10/12/2020"
+always_allow_html: true
+header-includes:
+  - \usepackage{bm}
+output:
+  pdf_document: default
+---
+
+
+Let's first load in the relevant data (see `tennis.R`)
+```{r}
+setwd("../tennis_wta/rel_files")
+file_list = list.files(pattern="*.csv")
+```
+
+Now we want to compile the data into a better format. We need the input `variables` which should be equal to something of the form: `variables = c('surface', 'winner_id', 'loser_id', 'loser_age', 'winner_age')`
+```{r}
+load_data <- function(file_list, variables) {
+  for (file_index in 1:length(file_list)) {
+    temp_file <- read.csv(file_list[[file_index]])
+    reduced_file <- subset(temp_file, select = variables)
+    if (file_index==1) {
+      melted_files <- reduced_file
+    } else {
+      melted_files <- rbind(melted_files, reduced_file)
+    }
+  }
+  return(melted_files)
+}
+```
+Let's now use this function
+```{r}
+variables <- c('surface', 'winner_id', 'loser_id', 'loser_age', 'winner_age')
+load_data(file_list, variables)
+```
+
+
