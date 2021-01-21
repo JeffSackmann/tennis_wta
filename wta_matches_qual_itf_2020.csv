@@ -167,13 +167,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-2023,Prague,Clay,128,C,20200831,227,202578,,,Laura Ioana Andrei,R,,ROU,32.2518822724,215898,,,Jule Niemeier,U,,GER,21.054072553,6-3 6-4,3,R128,77,1,3,60,40,24,12,10,2,5,2,3,50,24,15,9,9,2,7,200,312,301,184
 2020-2023,Prague,Clay,128,C,20200831,226,201568,18,,Kristina Kucova,R,,SVK,30.2751540041,202659,,,Tereza Mrdeza,R,,CRO,29.7960301164,6-4 6-4,3,R128,114,1,3,74,40,24,12,10,11,16,0,1,77,65,31,2,10,4,11,173,368,232,259
 2020-2023,Prague,Clay,128,C,20200831,225,213734,26,,Mariam Bolkvadze,L,,GEO,22.6639288159,202443,,,Valeria Savinykh,R,,RUS,29.5277207392,2-6 6-3 6-4,3,R128,176,0,17,88,50,24,8,13,9,20,1,5,124,82,36,16,14,19,31,185,337,213,287
-2020-2023,Prague,Clay,128,C,20200831,223,220704,,,Clara Tauson,U,,DEN,17.6947296372,222258,,WC,Linda Fruhvirtova,U,,CZE,,6-3 6-2,3,R128,62,2,2,54,36,26,8,9,1,3,1,0,38,21,8,8,8,1,6,208,295,808,24
+2020-2023,Prague,Clay,128,C,20200831,223,220704,,,Clara Tauson,U,,DEN,17.6947296372,222258,,WC,Linda Fruhvirtova,R,,CZE,15.3347022587,6-3 6-2,3,R128,62,2,2,54,36,26,8,9,1,3,1,0,38,21,8,8,8,1,6,208,295,808,24
 2020-2023,Prague,Clay,128,C,20200831,222,201506,6,,Sara Errani,R,164,ITA,33.3415468857,202440,,,Paula Ormaechea,R,,ARG,27.923340178,0-6 7-5 7-6(7),3,R128,181,0,3,143,119,60,9,15,11,21,3,3,104,74,45,9,15,8,16,151,427,266,220
 2020-2023,Prague,Clay,128,C,20200831,221,215259,4,,Leonie Kung,R,,SUI,19.8603696099,219940,,LL,Ivana Popovic,U,,AUS,19.947980835,6-1 6-0,3,R128,61,3,2,37,28,22,5,6,2,2,1,11,58,30,14,9,7,7,13,148,430,355,132
 2020-2023,Prague,Clay,128,C,20200831,220,204419,,,Ana Sofia Sanchez,L,,MEX,26.3846680356,202414,,,Catherine Harrison,U,,USA,26.3956194387,3-6 6-4 7-6(3),3,R128,170,0,6,123,88,44,13,15,9,18,1,7,107,70,33,17,16,6,15,322,163,264,223
 2020-2023,Prague,Clay,128,C,20200831,219,213620,,,Jessica Pieri,U,,ITA,23.3538672142,213706,,,Irene Burillo Escorihuela,U,,ESP,23.1074606434,6-4 7-5,3,R128,127,1,0,102,72,41,13,11,11,16,0,5,69,41,20,9,11,2,9,312,174,336,153
 2020-2023,Prague,Clay,128,C,20200831,218,221114,,,Dasha Lopatetskaya,U,,UKR,17.3579739904,204377,25,,Indy De Vroome,R,,NED,24.2792607803,6-2 6-3,3,R128,76,0,5,58,33,18,14,9,0,3,3,9,51,26,11,9,8,4,10,381,122,184,339
-2020-2023,Prague,Clay,128,C,20200831,217,210886,17,,Mayar Sherif,U,,EGY,24.3230663929,222328,,WC,Linda Noskova,U,,CZE,,7-6(3) 7-5,3,R128,108,5,0,76,54,34,12,12,4,8,3,2,86,53,28,15,12,8,13,170,375,1056,10
+2020-2023,Prague,Clay,128,C,20200831,217,210886,17,,Mayar Sherif,U,,EGY,24.3230663929,222328,,WC,Linda Noskova,R,,CZE,15.7864476386,7-6(3) 7-5,3,R128,108,5,0,76,54,34,12,12,4,8,3,2,86,53,28,15,12,8,13,170,375,1056,10
 2020-2023,Prague,Clay,128,C,20200831,216,213646,,,Dalma Galfi,U,,HUN,22.0506502396,211316,,,Jessika Ponchet,U,,FRA,23.9288158795,6-0 6-2,3,R128,50,0,1,36,28,25,5,7,0,0,1,1,47,23,14,6,7,3,8,235,256,227,266
 2020-2023,Prague,Clay,128,C,20200831,215,211736,,,Ivana Jorovic,R,,SRB,23.3292265572,214521,,,Lea Boskovic,U,,CRO,20.9418206708,6-1 7-5,3,R128,84,3,2,63,42,30,13,10,1,2,2,2,57,47,26,4,9,3,7,230,261,305,177
 2020-2023,Prague,Clay,128,C,20200831,214,211817,16,,Elena Gabriela Ruse,U,,ROU,22.81724846,213584,,,Irina Fetecau,R,,ROU,24.372347707,6-2 6-4,3,R128,66,2,2,43,22,16,16,9,0,1,1,4,53,38,21,7,9,2,6,169,377,303,181
@@ -438,7 +438,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-BUL-03A-2020,W15 Varna,Clay,32,15,20200907,112,214935,4,,Malene Helgo,U,,NOR,21.0349075975,214653,,,Andreea Prisacariu,U,,ROU,20.5776865161,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,601,53,678,40
 2020-W-ITF-BUL-03A-2020,W15 Varna,Clay,32,15,20200907,113,215553,8,,Viktoriia Dema,U,,UKR,19.8357289528,221714,,Q,Stefana Lazar,U,,ROU,18.5708418891,6-2 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,654,44,,
 2020-W-ITF-BUL-03A-2020,W15 Varna,Clay,32,15,20200907,114,222803,,Q,Ozlem Uslu,U,,TUR,,221364,,WC,Denislava Glushkova,U,,BUL,16.6652977413,7-5 2-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2020-W-ITF-BUL-03A-2020,W15 Varna,Clay,32,15,20200907,115,219792,,,Anastasia Sukhotina,U,,RUS,,221315,,WC,Beatris Spasova,R,,BUL,18.4339493498,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,733,33,,
+2020-W-ITF-BUL-03A-2020,W15 Varna,Clay,32,15,20200907,115,219792,,,Anastasia Sukhotina,L,,RUS,20.4873374401,221315,,WC,Beatris Spasova,R,,BUL,18.4339493498,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,733,33,,
 2020-W-ITF-BUL-03A-2020,W15 Varna,Clay,32,15,20200907,116,214006,2,,Petia Arshinkova,U,,BUL,22.3682409309,223319,,Q,Ralitsa Alexandrova,U,,BGR,,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,482,82,,
 2020-W-ITF-BUL-03A-2020,W15 Varna,Clay,32,15,20200907,201,203586,1,,Ioana Loredana Rosca,R,,ROU,23.9644079398,221371,,,Lyubov Kostenko,R,,UKR,17.4483230664,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,404,111,1102,9
 2020-W-ITF-BUL-03A-2020,W15 Varna,Clay,32,15,20200907,202,221386,,,Sebastianna Scilipoti,U,,SUI,17.440109514,220466,5,,Joanna Garland,R,,TPE,19.1457905544,6-3 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1246,4,614,50
@@ -447,7 +447,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-BUL-03A-2020,W15 Varna,Clay,32,15,20200907,205,210645,,,Elena Teodora Cadar,L,,ROU,26.5352498289,216073,,,Nikola Breckova,U,,CZE,19.151266256,3-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,896,19,924,17
 2020-W-ITF-BUL-03A-2020,W15 Varna,Clay,32,15,20200907,206,214935,4,,Malene Helgo,U,,NOR,21.0349075975,202669,,,Cristina Dinu,R,,ROU,27.6358658453,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,601,53,663,41
 2020-W-ITF-BUL-03A-2020,W15 Varna,Clay,32,15,20200907,207,222803,,Q,Ozlem Uslu,U,,TUR,,215553,8,,Viktoriia Dema,U,,UKR,19.8357289528,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,654,44
-2020-W-ITF-BUL-03A-2020,W15 Varna,Clay,32,15,20200907,208,214006,2,,Petia Arshinkova,U,,BUL,22.3682409309,219792,,,Anastasia Sukhotina,U,,RUS,,3-6 6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,482,82,733,33
+2020-W-ITF-BUL-03A-2020,W15 Varna,Clay,32,15,20200907,208,214006,2,,Petia Arshinkova,U,,BUL,22.3682409309,219792,,,Anastasia Sukhotina,L,,RUS,20.4873374401,3-6 6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,482,82,733,33
 2020-W-ITF-BUL-03A-2020,W15 Varna,Clay,32,15,20200907,301,221386,,,Sebastianna Scilipoti,U,,SUI,17.440109514,203586,1,,Ioana Loredana Rosca,R,,ROU,23.9644079398,6-3 6-7(8) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,1246,4,404,111
 2020-W-ITF-BUL-03A-2020,W15 Varna,Clay,32,15,20200907,302,215566,3,,Gergana Topalova,U,,BUL,20.5420944559,220492,,Q,Chantal Sauvant,U,,GER,18.3353867214,6-4 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,487,81,,
 2020-W-ITF-BUL-03A-2020,W15 Varna,Clay,32,15,20200907,303,214935,4,,Malene Helgo,U,,NOR,21.0349075975,210645,,,Elena Teodora Cadar,L,,ROU,26.5352498289,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,601,53,896,19
@@ -463,7 +463,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-BUL-04A-2020,W15 Pazardzhik,Clay,32,15,20201026,106,222965,,,Erika Andreeva,U,,RUS,,221364,,WC,Denislava Glushkova,U,,BUL,16.7994524298,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-BUL-04A-2020,W15 Pazardzhik,Clay,32,15,20201026,107,202387,,,Vlada Ekshibarova,R,,UZB,31.6194387406,222704,,Q,Mirela Shkumbova,U,,BUL,,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,683,41,,
 2020-W-ITF-BUL-04A-2020,W15 Pazardzhik,Clay,32,15,20201026,108,223321,,,Sofia Costoulas,U,,BEL,,206336,7,,Julia Stamatova,L,,BUL,27.394934976,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,668,44
-2020-W-ITF-BUL-04A-2020,W15 Pazardzhik,Clay,32,15,20201026,109,214935,5,,Malene Helgo,U,,NOR,21.1690622861,222225,,Q,Sylvie Zund,U,,LIE,,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,544,68,1271,4
+2020-W-ITF-BUL-04A-2020,W15 Pazardzhik,Clay,32,15,20201026,109,214935,5,,Malene Helgo,U,,NOR,21.1690622861,222225,,Q,Sylvie Zund,L,,LIE,19.6632443532,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,544,68,1271,4
 2020-W-ITF-BUL-04A-2020,W15 Pazardzhik,Clay,32,15,20201026,110,216073,,,Nikola Breckova,U,,CZE,19.2854209446,211931,,,Gebriela Mihaylova,U,,BUL,24.090349076,4-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,919,18,963,15
 2020-W-ITF-BUL-04A-2020,W15 Pazardzhik,Clay,32,15,20201026,111,221911,,,Selena Janicijevic,U,,FRA,18.2614647502,223322,,Q,Katerina Dimitrova ,U,,BGR,,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,831,23,,
 2020-W-ITF-BUL-04A-2020,W15 Pazardzhik,Clay,32,15,20201026,112,211820,4,,Martina Colmegna,R,,ITA,23.8767967146,220757,,Q,Lia Karatancheva,U,,BUL,17.1334702259,1-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,493,83,,
@@ -516,7 +516,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-CRO-02A-2020,W25 Zagreb,Clay,32,25,20200914,304,215872,2,,Kamilla Rakhimova,U,,RUS,19.0472279261,203281,7,,Amandine Hesse,R,,FRA,27.6605065024,3-6 6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,187,349,282,216
 2020-W-ITF-CRO-02A-2020,W25 Zagreb,Clay,32,25,20200914,401,202659,3,,Tereza Mrdeza,R,,CRO,29.8343600274,213780,,LL,Andreea Amalia Rosca,R,,ROU,21.4893908282,6-4 2-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,242,259,634,48
 2020-W-ITF-CRO-02A-2020,W25 Zagreb,Clay,32,25,20200914,501,211951,,WC,Ana Konjuh,R,,CRO,22.7159479808,202659,3,,Tereza Mrdeza,R,,CRO,29.8343600274,6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,,,242,259
-2020-W-ITF-CZE-09A-2020,W25 Prague,Clay,32,25,20200907,101,206252,1,,Barbora Krejcikova,R,,CZE,24.7227926078,222258,,JE,Linda Fruhvirtova,U,,CZE,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,116,610,808,24
+2020-W-ITF-CZE-09A-2020,W25 Prague,Clay,32,25,20200907,101,206252,1,,Barbora Krejcikova,R,,CZE,24.7227926078,222258,,JE,Linda Fruhvirtova,R,,CZE,15.3538672142,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,116,610,808,24
 2020-W-ITF-CZE-09A-2020,W25 Prague,Clay,32,25,20200907,102,214540,,,Chihiro Muramatsu,U,,JPN,22.2970568104,214624,,Q,Anastasia Detiuc,U,,MDA,21.7330595483,6-2 6-7(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,212,289,366,128
 2020-W-ITF-CZE-09A-2020,W25 Prague,Clay,32,25,20200907,103,221012,,SE,Qinwen Zheng,U,,CHN,17.916495551,220434,,WC,Kristyna Lavickova,U,,CZE,18.6201232033,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,617,49,,
 2020-W-ITF-CZE-09A-2020,W25 Prague,Clay,32,25,20200907,104,213887,7,,Renata Zarazua,R,,MEX,22.9377138946,221114,,LL,Dasha Lopatetskaya,U,,UKR,17.3771389459,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,191,325,381,122
@@ -578,7 +578,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-CZE-10A-2020,W25 Frydek Mistek,Clay,32,25,20200914,401,211342,4,,Gabriela Talaba,L,,ROU,25.0622861054,214956,,SR,Miriam Kolodziejova,R,,CZE,23.4277891855,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,240,263,592,55
 2020-W-ITF-CZE-10A-2020,W25 Frydek Mistek,Clay,32,25,20200914,402,221012,,Q,Qinwen Zheng,U,,CHN,17.9356605065,213779,,,Raluca Georgiana Serban,R,,ROU,23.2443531828,6-3 5-7 6-4,3,SF,,,,,,,,,,,,,,,,,,,,410,109,343,147
 2020-W-ITF-CZE-10A-2020,W25 Frydek Mistek,Clay,32,25,20200914,501,221012,,Q,Qinwen Zheng,U,,CHN,17.9356605065,211342,4,,Gabriela Talaba,L,,ROU,25.0622861054,3-6 6-4 6-0,3,F,,,,,,,,,,,,,,,,,,,,410,109,240,263
-2020-W-ITF-CZE-11A-2020,W25 Prerov,Clay,32,25,20200921,101,206252,1,,Barbora Krejcikova,R,,CZE,24.7611225188,222328,,WC,Linda Noskova,U,,CZE,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,117,618,1020,12
+2020-W-ITF-CZE-11A-2020,W25 Prerov,Clay,32,25,20200921,101,206252,1,,Barbora Krejcikova,R,,CZE,24.7611225188,222328,,WC,Linda Noskova,R,,CZE,15.8439425051,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,117,618,1020,12
 2020-W-ITF-CZE-11A-2020,W25 Prerov,Clay,32,25,20200921,102,202479,,,Grace Min,R,,USA,26.379192334,221626,,Q,Linda Klimovicova,U,,CZE,16.2600958248,7-6(3) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,297,201,,
 2020-W-ITF-CZE-11A-2020,W25 Prerov,Clay,32,25,20200921,103,215899,,,Simona Waltert,U,,SUI,19.7727583847,210303,,,Kathinka Von Deichmann,R,,LIE,26.3518138261,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,295,204,262,234
 2020-W-ITF-CZE-11A-2020,W25 Prerov,Clay,32,25,20200921,104,206335,,,Jesika Maleckova,R,,CZE,26.0999315537,204309,5,,Stephanie Wagner,R,,GER,26.0123203285,6-4 3-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,309,184,267,229
@@ -611,7 +611,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-CZE-11A-2020,W25 Prerov,Clay,32,25,20200921,501,202479,,,Grace Min,R,,USA,26.379192334,202916,6,,Georgina Garcia Perez,U,,ESP,28.3586584531,6-3 0-6 7-5,3,F,,,,,,,,,,,,,,,,,,,,297,201,226,280
 2020-W-ITF-EGY-01A-2020,W15 Cairo,Clay,32,15,20200113,101,206183,1,,Cindy Burger,R,,NED,27.1321013005,221864,,Q,Federica Sacco,R,,ITA,17.7330595483,5-7 6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,403,112,,
 2020-W-ITF-EGY-01A-2020,W15 Cairo,Clay,32,15,20200113,102,206162,,WC,Kamila Kerimbayeva,R,,KAZ,24.5722108145,202691,,,Ani Vangelova,U,,BUL,26.4996577687,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,804,24
-2020-W-ITF-EGY-01A-2020,W15 Cairo,Clay,32,15,20200113,103,219792,,,Anastasia Sukhotina,U,,RUS,,223065,,Q,Yvette Schmucker,U,,GER,,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,734,31,,
+2020-W-ITF-EGY-01A-2020,W15 Cairo,Clay,32,15,20200113,103,219792,,,Anastasia Sukhotina,L,,RUS,19.8357289528,223065,,Q,Yvette Schmucker,U,,GER,,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,734,31,,
 2020-W-ITF-EGY-01A-2020,W15 Cairo,Clay,32,15,20200113,104,205875,7,,Chantal Skamlova,R,,SVK,26.3572895277,215071,,,Viktoriia Kalinina,U,,RUS,21.0212183436,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,639,44,1183,6
 2020-W-ITF-EGY-01A-2020,W15 Cairo,Clay,32,15,20200113,105,205873,3,,Anna Morgina,R,,RUS,28.3969883641,222895,,WC,Lara Pfeifer,U,,ITA,,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,450,91,,
 2020-W-ITF-EGY-01A-2020,W15 Cairo,Clay,32,15,20200113,106,215862,,,Vitalia Stamat,U,,MDA,19.0171115674,222316,,WC,Irina Shchetinina,R,,RUS,,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1238,4,,
@@ -626,7 +626,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-EGY-01A-2020,W15 Cairo,Clay,32,15,20200113,115,214160,,WC,Eva Martinez Regalado,U,,ESP,23.5208761123,206002,,,Tamara Bizhukova,R,,RUS,25.4455852156,1-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,1223,5
 2020-W-ITF-EGY-01A-2020,W15 Cairo,Clay,32,15,20200113,116,201657,2,,Nastja Kolar,R,,SLO,25.4976043806,222292,,,Jelena Kovac,U,,SRB,,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,412,107,,
 2020-W-ITF-EGY-01A-2020,W15 Cairo,Clay,32,15,20200113,201,206183,1,,Cindy Burger,R,,NED,27.1321013005,206162,,WC,Kamila Kerimbayeva,R,,KAZ,24.5722108145,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,403,112,,
-2020-W-ITF-EGY-01A-2020,W15 Cairo,Clay,32,15,20200113,202,205875,7,,Chantal Skamlova,R,,SVK,26.3572895277,219792,,,Anastasia Sukhotina,U,,RUS,,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,639,44,734,31
+2020-W-ITF-EGY-01A-2020,W15 Cairo,Clay,32,15,20200113,202,205875,7,,Chantal Skamlova,R,,SVK,26.3572895277,219792,,,Anastasia Sukhotina,L,,RUS,19.8357289528,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,639,44,734,31
 2020-W-ITF-EGY-01A-2020,W15 Cairo,Clay,32,15,20200113,203,205873,3,,Anna Morgina,R,,RUS,28.3969883641,215862,,,Vitalia Stamat,U,,MDA,19.0171115674,4-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,450,91,1238,4
 2020-W-ITF-EGY-01A-2020,W15 Cairo,Clay,32,15,20200113,204,206336,8,,Julia Stamatova,L,,BUL,26.6091718001,222599,,,Angelika Shapovalova,U,,RUS,,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,708,35,,
 2020-W-ITF-EGY-01A-2020,W15 Cairo,Clay,32,15,20200113,205,216074,5,,Anna Siskova,U,,CZE,18.5352498289,211556,,,Helene Scholsen,R,,BEL,24.0109514031,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,593,53,772,26
@@ -648,7 +648,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-EGY-02A-2020,W15 Cairo,Clay,32,15,20200120,106,220286,,,Gloria Ceschi,U,,ITA,21.659137577,206002,,,Tamara Bizhukova,R,,RUS,25.4647501711,6-2 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1158,7,1225,5
 2020-W-ITF-EGY-02A-2020,W15 Cairo,Clay,32,15,20200120,107,222705,,Q,Michaela Kadleckova,U,,SVK,,211408,,LL,Kerstin Peckl,U,,AUT,30.3819301848,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-EGY-02A-2020,W15 Cairo,Clay,32,15,20200120,108,206336,7,,Julia Stamatova,L,,BUL,26.6283367556,215071,,,Viktoriia Kalinina,U,,RUS,21.0403832991,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,710,35,1183,6
-2020-W-ITF-EGY-02A-2020,W15 Cairo,Clay,32,15,20200120,109,219792,8,,Anastasia Sukhotina,U,,RUS,,223179,,,Marion Viertler,R,,ITA,18.1492128679,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,736,31,952,14
+2020-W-ITF-EGY-02A-2020,W15 Cairo,Clay,32,15,20200120,109,219792,8,,Anastasia Sukhotina,L,,RUS,19.8548939083,223179,,,Marion Viertler,R,,ITA,18.1492128679,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,736,31,952,14
 2020-W-ITF-EGY-02A-2020,W15 Cairo,Clay,32,15,20200120,110,220822,,,Andjela Jocovic,U,,SRB,19.022587269,215026,,WC,Andra Maria Nitescu,L,,ROU,22.7405886379,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1038,11,,
 2020-W-ITF-EGY-02A-2020,W15 Cairo,Clay,32,15,20200120,111,214583,,,Arisha Ladhani,U,,CAN,23.3127994524,214180,,,Anna Makhorkina,U,,RUS,22.5571526352,6-3 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,1085,9,1225,5
 2020-W-ITF-EGY-02A-2020,W15 Cairo,Clay,32,15,20200120,112,203429,4,,Tamara Curovic,R,,SRB,25.2210814511,222599,,Q,Angelika Shapovalova,U,,RUS,,6-2 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,561,60,,
@@ -660,13 +660,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-EGY-02A-2020,W15 Cairo,Clay,32,15,20200120,202,205875,6,,Chantal Skamlova,R,,SVK,26.3764544832,206354,,Q,Lina Qostal,R,,MAR,22.8610540726,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,641,44,,
 2020-W-ITF-EGY-02A-2020,W15 Cairo,Clay,32,15,20200120,203,220286,,,Gloria Ceschi,U,,ITA,21.659137577,205873,3,,Anna Morgina,R,,RUS,28.4161533196,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1158,7,451,91
 2020-W-ITF-EGY-02A-2020,W15 Cairo,Clay,32,15,20200120,204,206336,7,,Julia Stamatova,L,,BUL,26.6283367556,222705,,Q,Michaela Kadleckova,U,,SVK,,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,710,35,,
-2020-W-ITF-EGY-02A-2020,W15 Cairo,Clay,32,15,20200120,205,219792,8,,Anastasia Sukhotina,U,,RUS,,220822,,,Andjela Jocovic,U,,SRB,19.022587269,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,736,31,1038,11
+2020-W-ITF-EGY-02A-2020,W15 Cairo,Clay,32,15,20200120,205,219792,8,,Anastasia Sukhotina,L,,RUS,19.8548939083,220822,,,Andjela Jocovic,U,,SRB,19.022587269,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,736,31,1038,11
 2020-W-ITF-EGY-02A-2020,W15 Cairo,Clay,32,15,20200120,206,203429,4,,Tamara Curovic,R,,SRB,25.2210814511,214583,,,Arisha Ladhani,U,,CAN,23.3127994524,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,561,60,1085,9
 2020-W-ITF-EGY-02A-2020,W15 Cairo,Clay,32,15,20200120,207,214299,5,,Lucie Wargnier,U,,FRA,20.9308692676,206116,,,Sofia Dmitrieva,U,,RUS,25.4428473648,6-7(5) 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,621,47,1158,7
 2020-W-ITF-EGY-02A-2020,W15 Cairo,Clay,32,15,20200120,208,201657,2,,Nastja Kolar,R,,SLO,25.5167693361,221209,,,Anastasia Zolotareva,U,,RUS,18.0041067762,6-2 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,412,107,857,20
 2020-W-ITF-EGY-02A-2020,W15 Cairo,Clay,32,15,20200120,301,205875,6,,Chantal Skamlova,R,,SVK,26.3764544832,211556,,,Helene Scholsen,R,,BEL,24.0301163587,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,641,44,776,26
 2020-W-ITF-EGY-02A-2020,W15 Cairo,Clay,32,15,20200120,302,220286,,,Gloria Ceschi,U,,ITA,21.659137577,206336,7,,Julia Stamatova,L,,BUL,26.6283367556,6-3 4-6 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,1158,7,710,35
-2020-W-ITF-EGY-02A-2020,W15 Cairo,Clay,32,15,20200120,303,203429,4,,Tamara Curovic,R,,SRB,25.2210814511,219792,8,,Anastasia Sukhotina,U,,RUS,,7-5 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,561,60,736,31
+2020-W-ITF-EGY-02A-2020,W15 Cairo,Clay,32,15,20200120,303,203429,4,,Tamara Curovic,R,,SRB,25.2210814511,219792,8,,Anastasia Sukhotina,L,,RUS,19.8548939083,7-5 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,561,60,736,31
 2020-W-ITF-EGY-02A-2020,W15 Cairo,Clay,32,15,20200120,304,214299,5,,Lucie Wargnier,U,,FRA,20.9308692676,201657,2,,Nastja Kolar,R,,SLO,25.5167693361,6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,621,47,412,107
 2020-W-ITF-EGY-02A-2020,W15 Cairo,Clay,32,15,20200120,401,205875,6,,Chantal Skamlova,R,,SVK,26.3764544832,220286,,,Gloria Ceschi,U,,ITA,21.659137577,6-1 6-0,3,SF,,,,,,,,,,,,,,,,,,,,641,44,1158,7
 2020-W-ITF-EGY-02A-2020,W15 Cairo,Clay,32,15,20200120,402,214299,5,,Lucie Wargnier,U,,FRA,20.9308692676,203429,4,,Tamara Curovic,R,,SRB,25.2210814511,6-4 7-6(4),3,SF,,,,,,,,,,,,,,,,,,,,621,47,561,60
@@ -674,7 +674,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-EGY-03A-2020,W15 Cairo,Clay,32,15,20200127,101,215862,,,Vitalia Stamat,U,,MDA,19.0554414784,201657,1,,Nastja Kolar,R,,SLO,25.5359342916,4-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,1240,4,412,107
 2020-W-ITF-EGY-03A-2020,W15 Cairo,Clay,32,15,20200127,102,220822,,,Andjela Jocovic,U,,SRB,19.0417522245,214583,,WC,Arisha Ladhani,U,,CAN,23.3319644079,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1038,11,1085,9
 2020-W-ITF-EGY-03A-2020,W15 Cairo,Clay,32,15,20200127,103,213634,,,Rita Atik,R,,MAR,22.264202601,206354,,WC,Lina Qostal,R,,MAR,22.8802190281,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2020-W-ITF-EGY-03A-2020,W15 Cairo,Clay,32,15,20200127,104,219792,8,,Anastasia Sukhotina,U,,RUS,,220695,,Q,Beatrice Stagno,U,,ITA,16.8761122519,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,736,31,,
+2020-W-ITF-EGY-03A-2020,W15 Cairo,Clay,32,15,20200127,104,219792,8,,Anastasia Sukhotina,L,,RUS,19.8740588638,220695,,Q,Beatrice Stagno,U,,ITA,16.8761122519,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,736,31,,
 2020-W-ITF-EGY-03A-2020,W15 Cairo,Clay,32,15,20200127,105,213714,3,,Fanny Ostlund,R,,SWE,22.7296372348,223081,,Q,Stefania Pantaia,U,,ROU,,7-5 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,497,76,,
 2020-W-ITF-EGY-03A-2020,W15 Cairo,Clay,32,15,20200127,106,202691,,,Ani Vangelova,U,,BUL,26.5379876797,215071,,,Viktoriia Kalinina,U,,RUS,21.0595482546,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,806,24,1183,6
 2020-W-ITF-EGY-03A-2020,W15 Cairo,Clay,32,15,20200127,107,209576,,,Barbora Matusova,R,,CZE,29.7796030116,220429,,,Elena Milovanovic,R,,SRB,18.9869952088,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,797,25,910,17
@@ -688,7 +688,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-EGY-03A-2020,W15 Cairo,Clay,32,15,20200127,115,206116,,,Sofia Dmitrieva,U,,RUS,25.4620123203,220902,,WC,Zaneta Malinovic,R,,BIH,18.7515400411,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1158,7,,
 2020-W-ITF-EGY-03A-2020,W15 Cairo,Clay,32,15,20200127,116,216395,,,Annick Melgers,U,,NED,20.7419575633,205873,2,,Anna Morgina,R,,RUS,28.4353182752,4-6 7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1075,10,451,91
 2020-W-ITF-EGY-03A-2020,W15 Cairo,Clay,32,15,20200127,201,215862,,,Vitalia Stamat,U,,MDA,19.0554414784,220822,,,Andjela Jocovic,U,,SRB,19.0417522245,6-4 4-6 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,1240,4,1038,11
-2020-W-ITF-EGY-03A-2020,W15 Cairo,Clay,32,15,20200127,202,213634,,,Rita Atik,R,,MAR,22.264202601,219792,8,,Anastasia Sukhotina,U,,RUS,,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,736,31
+2020-W-ITF-EGY-03A-2020,W15 Cairo,Clay,32,15,20200127,202,213634,,,Rita Atik,R,,MAR,22.264202601,219792,8,,Anastasia Sukhotina,L,,RUS,19.8740588638,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,736,31
 2020-W-ITF-EGY-03A-2020,W15 Cairo,Clay,32,15,20200127,203,213714,3,,Fanny Ostlund,R,,SWE,22.7296372348,202691,,,Ani Vangelova,U,,BUL,26.5379876797,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,497,76,806,24
 2020-W-ITF-EGY-03A-2020,W15 Cairo,Clay,32,15,20200127,204,203429,5,,Tamara Curovic,R,,SRB,25.2402464066,209576,,,Barbora Matusova,R,,CZE,29.7796030116,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,561,60,797,25
 2020-W-ITF-EGY-03A-2020,W15 Cairo,Clay,32,15,20200127,205,222599,,Q,Angelika Shapovalova,U,,RUS,,214299,6,,Lucie Wargnier,U,,FRA,20.9500342231,3-6 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,621,47
@@ -743,7 +743,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-EGY-06A-2020,W100 Cairo,Hard,32,100,20200210,108,202418,6,,Lara Arruabarrena,R,166,ESP,27.8932238193,202480,,,Richel Hogenkamp,R,,NED,27.819301848,6-2 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,150,406,215,273
 2020-W-ITF-EGY-06A-2020,W100 Cairo,Hard,32,100,20200210,109,214181,,Q,Anastasia Gasanova,U,,RUS,20.7419575633,220714,8,,Elisabetta Cocciaretto,U,,ITA,19.0417522245,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,309,170,154,391
 2020-W-ITF-EGY-06A-2020,W100 Cairo,Hard,32,100,20200210,110,202659,,,Tereza Mrdeza,R,,CRO,29.2402464066,216039,,Q,Shalimar Talbi,U,,BLR,19.1786447639,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,250,230,420,102
-2020-W-ITF-EGY-06A-2020,W100 Cairo,Hard,32,100,20200210,111,222258,,WC,Linda Fruhvirtova,U,,CZE,,201565,,Q,Katarzyna Piter,R,,POL,28.9828884326,2-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,355,128
+2020-W-ITF-EGY-06A-2020,W100 Cairo,Hard,32,100,20200210,111,222258,,WC,Linda Fruhvirtova,R,,CZE,14.7789185489,201565,,Q,Katarzyna Piter,R,,POL,28.9828884326,2-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,355,128
 2020-W-ITF-EGY-06A-2020,W100 Cairo,Hard,32,100,20200210,112,201593,3,,Irina Camelia Begu,R,181,ROU,29.4592744695,216146,,,Marta Kostyuk,R,,UKR,17.620807666,2-6 6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,118,549,168,353
 2020-W-ITF-EGY-06A-2020,W100 Cairo,Hard,32,100,20200210,113,203354,7,,Martina Trevisan,L,,ITA,26.2696783025,210705,,,Irina Maria Bara,R,,ROU,24.900752909,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,152,394,160,367
 2020-W-ITF-EGY-06A-2020,W100 Cairo,Hard,32,100,20200210,114,205723,,Q,Anna Zaja,R,,GER,28.629705681,211407,,Q,Dejana Radanovic,U,,SRB,23.742642026,6-4 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,410,105,248,231
@@ -754,7 +754,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-EGY-06A-2020,W100 Cairo,Hard,32,100,20200210,203,201615,,4 WC,Lesia Tsurenko,R,174,UKR,30.6995208761,204246,,,Lesley Kerkhove,R,,NED,28.2683093771,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,129,478,157,372
 2020-W-ITF-EGY-06A-2020,W100 Cairo,Hard,32,100,20200210,204,202418,6,,Lara Arruabarrena,R,166,ESP,27.8932238193,201666,,,Cagla Buyukakcay,R,,TUR,30.3682409309,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,150,406,174,340
 2020-W-ITF-EGY-06A-2020,W100 Cairo,Hard,32,100,20200210,205,214181,,Q,Anastasia Gasanova,U,,RUS,20.7419575633,202659,,,Tereza Mrdeza,R,,CRO,29.2402464066,6-1 5-7 7-5,3,R16,,,,,,,,,,,,,,,,,,,,309,170,250,230
-2020-W-ITF-EGY-06A-2020,W100 Cairo,Hard,32,100,20200210,206,201593,3,,Irina Camelia Begu,R,181,ROU,29.4592744695,222258,,WC,Linda Fruhvirtova,U,,CZE,,7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,118,549,,
+2020-W-ITF-EGY-06A-2020,W100 Cairo,Hard,32,100,20200210,206,201593,3,,Irina Camelia Begu,R,181,ROU,29.4592744695,222258,,WC,Linda Fruhvirtova,R,,CZE,14.7789185489,7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,118,549,,
 2020-W-ITF-EGY-06A-2020,W100 Cairo,Hard,32,100,20200210,207,203354,7,,Martina Trevisan,L,,ITA,26.2696783025,205723,,Q,Anna Zaja,R,,GER,28.629705681,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,152,394,410,105
 2020-W-ITF-EGY-06A-2020,W100 Cairo,Hard,32,100,20200210,208,211901,2,,Aliona Bolsova,R,,MDA,22.2614647502,202493,,,Ekaterine Gorgodze,L,,GEO,28.1889117043,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,111,584,204,284
 2020-W-ITF-EGY-06A-2020,W100 Cairo,Hard,32,100,20200210,301,201551,1,,Arantxa Rus,L,180,NED,29.1608487337,201597,5,,Kurumi Nara,R,,JPN,28.1149897331,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,77,769,139,433
@@ -1550,7 +1550,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-FRA-06A-2020,W15+H Amiens,Clay,32,15,20200309,113,202662,7,,Camilla Rosatello,R,,ITA,24.7830253251,215807,,,Manon Leonard,R,,FRA,19.1321013005,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,443,93,570,58
 2020-W-ITF-FRA-06A-2020,W15+H Amiens,Clay,32,15,20200309,114,213557,,,Maria Gutierrez Carrasco,U,,ESP,22.4804928131,221468,,WC,Lucie Nguyen Tan,U,,FRA,16.7775496235,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,534,66,,
 2020-W-ITF-FRA-06A-2020,W15+H Amiens,Clay,32,15,20200309,115,221911,,,Selena Janicijevic,U,,FRA,17.6290212183,220330,,WC,Margaux Orange,U,,FRA,20.334017796,6-3 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,922,16,769,27
-2020-W-ITF-FRA-06A-2020,W15+H Amiens,Clay,32,15,20200309,116,214219,2,,Tessah Andrianjafitrimo,R,,FRA,21.4099931554,222258,,,Linda Fruhvirtova,U,,CZE,,6-1 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,255,229,809,23
+2020-W-ITF-FRA-06A-2020,W15+H Amiens,Clay,32,15,20200309,116,214219,2,,Tessah Andrianjafitrimo,R,,FRA,21.4099931554,222258,,,Linda Fruhvirtova,R,,CZE,14.855578371,6-1 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,255,229,809,23
 2020-W-ITF-FRA-06A-2020,W15+H Amiens,Clay,32,15,20200309,201,213998,,,Ipek Oz,U,,TUR,20.6707734428,214081,1,,Katharina Hobgarski,R,,GER,22.7241615332,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,530,67,251,237
 2020-W-ITF-FRA-06A-2020,W15+H Amiens,Clay,32,15,20200309,202,210865,,,Marie Temin,R,,FRA,27.6249144422,202580,6,,Federica Di Sarra,R,,ITA,29.8151950719,6-1 1-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,699,37,440,94
 2020-W-ITF-FRA-06A-2020,W15+H Amiens,Clay,32,15,20200309,203,214299,,,Lucie Wargnier,U,,FRA,21.0650239562,206216,4,,Olga Saez Larra,U,,ESP,25.4729637235,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,579,56,416,104
@@ -1809,7 +1809,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-GER-01A-2020,W15 Stuttgart-Stammheim,Hard,32,15,20200120,501,211456,8,,Julia Terziyska,R,,BUL,23.8767967146,211296,6,,Dea Herdzelas,R,,BIH,23.2005475702,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,476,82,426,98
 2020-W-ITF-GER-02A-2020,W25 Altenkirchen,Carpet,32,25,20200224,101,202457,1,,Bibiane Schoofs,R,,NED,31.7837097878,216320,,Q,Ange Oby Kajuru,U,,JPN,18.0780287474,6-2 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,198,298,675,39
 2020-W-ITF-GER-02A-2020,W25 Altenkirchen,Carpet,32,25,20200224,102,215898,,,Jule Niemeier,U,,GER,20.5366187543,214238,,,Verena Meliss,U,,ITA,22.5954825462,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,303,179,487,79
-2020-W-ITF-GER-02A-2020,W25 Altenkirchen,Carpet,32,25,20200224,103,222258,,JE,Linda Fruhvirtova,U,,CZE,,215437,,,Monika Kilnarova,U,,CZE,20.3805612594,7-6(4) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,956,14,496,77
+2020-W-ITF-GER-02A-2020,W25 Altenkirchen,Carpet,32,25,20200224,103,222258,,JE,Linda Fruhvirtova,R,,CZE,14.81724846,215437,,,Monika Kilnarova,U,,CZE,20.3805612594,7-6(4) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,956,14,496,77
 2020-W-ITF-GER-02A-2020,W25 Altenkirchen,Carpet,32,25,20200224,104,216138,,Q,Romy Koelzer,U,,GER,28.5092402464,202456,8,,Alexandra Cadantu,R,170,ROU,29.8124572211,2-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,606,51,290,194
 2020-W-ITF-GER-02A-2020,W25 Altenkirchen,Carpet,32,25,20200224,105,205723,,,Anna Zaja,R,,GER,28.6680355921,203379,4,,Marina Melnikova,R,,RUS,31.0499657769,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,402,108,223,264
 2020-W-ITF-GER-02A-2020,W25 Altenkirchen,Carpet,32,25,20200224,106,221768,,WC,Nastasja Mariana Schunk,U,,GER,16.5229295003,202481,,,Chi Chi Scholl,R,,USA,27.6386036961,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,587,54
@@ -1824,14 +1824,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-GER-02A-2020,W25 Altenkirchen,Carpet,32,25,20200224,115,206338,,,Stefania Rubini,U,,ITA,27.2197125257,216095,,LL,Mina Hodzic,U,,GER,17.7193702943,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,302,180,853,20
 2020-W-ITF-GER-02A-2020,W25 Altenkirchen,Carpet,32,25,20200224,116,202578,2,,Laura Ioana Andrei,R,,ROU,31.7344284736,221257,,Q,Sinja Kraus,U,,AUT,17.8234086242,1-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,206,287,843,21
 2020-W-ITF-GER-02A-2020,W25 Altenkirchen,Carpet,32,25,20200224,201,202457,1,,Bibiane Schoofs,R,,NED,31.7837097878,215898,,,Jule Niemeier,U,,GER,20.5366187543,6-3 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,198,298,303,179
-2020-W-ITF-GER-02A-2020,W25 Altenkirchen,Carpet,32,25,20200224,202,222258,,JE,Linda Fruhvirtova,U,,CZE,,216138,,Q,Romy Koelzer,U,,GER,28.5092402464,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,956,14,606,51
+2020-W-ITF-GER-02A-2020,W25 Altenkirchen,Carpet,32,25,20200224,202,222258,,JE,Linda Fruhvirtova,R,,CZE,14.81724846,216138,,Q,Romy Koelzer,U,,GER,28.5092402464,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,956,14,606,51
 2020-W-ITF-GER-02A-2020,W25 Altenkirchen,Carpet,32,25,20200224,203,205723,,,Anna Zaja,R,,GER,28.6680355921,221768,,WC,Nastasja Mariana Schunk,U,,GER,16.5229295003,6-0 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,402,108,,
 2020-W-ITF-GER-02A-2020,W25 Altenkirchen,Carpet,32,25,20200224,204,215697,,Q,Arlinda Rushiti,U,,SUI,20.9144421629,204309,7,,Stephanie Wagner,R,,GER,25.4373716632,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,670,40,271,215
 2020-W-ITF-GER-02A-2020,W25 Altenkirchen,Carpet,32,25,20200224,205,202671,,WC,Cristina Andreea Mitu,R,,ROU,28.424366872,211260,6,,Marie Benoit,L,,BEL,24.9445585216,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,530,66,252,233
 2020-W-ITF-GER-02A-2020,W25 Altenkirchen,Carpet,32,25,20200224,206,220332,,WC,Eva Lys,R,,GER,18.1163586585,216081,3,,Maja Chwalinska,U,,POL,18.3709787817,5-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,,,215,277
 2020-W-ITF-GER-02A-2020,W25 Altenkirchen,Carpet,32,25,20200224,207,214826,,,Susan Bandecchi,U,,SUI,21.6509240246,214148,,,Magdalena Pantuckova,U,,CZE,21.0732375086,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,293,190,608,50
 2020-W-ITF-GER-02A-2020,W25 Altenkirchen,Carpet,32,25,20200224,208,202578,2,,Laura Ioana Andrei,R,,ROU,31.7344284736,206338,,,Stefania Rubini,U,,ITA,27.2197125257,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,206,287,302,180
-2020-W-ITF-GER-02A-2020,W25 Altenkirchen,Carpet,32,25,20200224,301,202457,1,,Bibiane Schoofs,R,,NED,31.7837097878,222258,,JE,Linda Fruhvirtova,U,,CZE,,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,198,298,956,14
+2020-W-ITF-GER-02A-2020,W25 Altenkirchen,Carpet,32,25,20200224,301,202457,1,,Bibiane Schoofs,R,,NED,31.7837097878,222258,,JE,Linda Fruhvirtova,R,,CZE,14.81724846,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,198,298,956,14
 2020-W-ITF-GER-02A-2020,W25 Altenkirchen,Carpet,32,25,20200224,302,215697,,Q,Arlinda Rushiti,U,,SUI,20.9144421629,205723,,,Anna Zaja,R,,GER,28.6680355921,3-6 6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,670,40,402,108
 2020-W-ITF-GER-02A-2020,W25 Altenkirchen,Carpet,32,25,20200224,303,220332,,WC,Eva Lys,R,,GER,18.1163586585,202671,,WC,Cristina Andreea Mitu,R,,ROU,28.424366872,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,,,530,66
 2020-W-ITF-GER-02A-2020,W25 Altenkirchen,Carpet,32,25,20200224,304,214826,,,Susan Bandecchi,U,,SUI,21.6509240246,202578,2,,Laura Ioana Andrei,R,,ROU,31.7344284736,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,293,190,206,287
@@ -2112,7 +2112,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-GRE-12A-2020,W15 Heraklion,Clay,32,15,20201116,501,213780,7,,Andreea Amalia Rosca,R,,ROU,21.6618754278,211820,4,,Martina Colmegna,R,,ITA,23.9342915811,6-0 6-1,3,F,,,,,,,,,,,,,,,,,,,,517,76,496,83
 2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,101,214600,1,,Georgia Andreea Craciun,U,,ROU,21.363449692,216340,,WC,Eliz Maloney,U,,GBR,20.2874743326,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,362,133,1131,9
 2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,102,222137,,WC,Dimitra Pavlou,R,,GRE,,221242,,,Mell Elizabeth Reasco Gonzalez,L,,ECU,18.3381245722,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,995,14
-2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,103,216078,,,Celia Cervino Ruiz,U,,ESP,22.9431895962,222225,,LL,Sylvie Zund,U,,LIE,,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,818,25,1273,4
+2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,103,216078,,,Celia Cervino Ruiz,U,,ESP,22.9431895962,222225,,LL,Sylvie Zund,L,,LIE,19.7399041752,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,818,25,1273,4
 2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,104,214238,5,,Verena Meliss,U,,ITA,23.3429158111,220828,,,Melania Delai,U,,ITA,18.1081451061,7-6(5) 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,510,79,622,52
 2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,105,211820,4,,Martina Colmegna,R,,ITA,23.9534565366,213644,,WC,Eleni Christofi,U,,GRE,22.2915811088,1-6 6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,496,83,,
 2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,106,222156,,Q,Silvia Ambrosio,U,,GER,,202908,,,Miyabi Inoue,R,,JPN,29.0130047912,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1167,8,595,59
@@ -2400,7 +2400,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-ITA-39A-2020,W25 Selva Gardena,Hard,32,25,20201214,109,215898,,,Jule Niemeier,U,,GER,21.3415468857,220750,7,,Daria Snigur,U,,UKR,18.7186858316,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,263,241,221,297
 2020-W-ITF-ITA-39A-2020,W25 Selva Gardena,Hard,32,25,20201214,110,214826,,,Susan Bandecchi,U,,SUI,22.4558521561,213584,,,Irina Fetecau,R,,ROU,24.6598220397,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,288,214,308,186
 2020-W-ITF-ITA-39A-2020,W25 Selva Gardena,Hard,32,25,20201214,111,211329,,,Tena Lukas,U,,CRO,25.5989048597,212044,,,Katharina Gerlach,R,,GER,22.81724846,7-5 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,260,243,245,266
-2020-W-ITF-ITA-39A-2020,W25 Selva Gardena,Hard,32,25,20201214,112,215259,3,,Leonie Kung,R,,SUI,20.1478439425,222258,,JE,Linda Fruhvirtova,U,,CZE,,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,157,466,746,32
+2020-W-ITF-ITA-39A-2020,W25 Selva Gardena,Hard,32,25,20201214,112,215259,3,,Leonie Kung,R,,SUI,20.1478439425,222258,,JE,Linda Fruhvirtova,R,,CZE,15.6221765914,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,157,466,746,32
 2020-W-ITF-ITA-39A-2020,W25 Selva Gardena,Hard,32,25,20201214,113,202688,6,,Isabella Shinikova,R,,BUL,29.1389459274,206338,,Q,Stefania Rubini,U,,ITA,28.0246406571,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,202,326,309,186
 2020-W-ITF-ITA-39A-2020,W25 Selva Gardena,Hard,32,25,20201214,114,202580,,Q,Federica Di Sarra,R,,ITA,30.5817932923,214654,,Q,Anna Turati,U,,ITA,23.4934976044,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,327,167,582,61
 2020-W-ITF-ITA-39A-2020,W25 Selva Gardena,Hard,32,25,20201214,115,210303,,,Kathinka Von Deichmann,R,,LIE,26.5817932923,221354,,WC,Lisa Pigato,U,,ITA,17.4839151266,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,270,235,603,56
@@ -2543,7 +2543,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-MEX-02A-2020,W15 Cancun,Hard,32,15,20200113,104,215763,5,,Sofia Sewing,R,,USA,20.4791238877,222091,,,Dylan Cline,U,,USA,,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,718,33,,
 2020-W-ITF-MEX-02A-2020,W15 Cancun,Hard,32,15,20200113,105,213772,3,,Amy Zhu,R,,USA,25.2101300479,220560,,,Lian Tran,R,,NED,17.4866529774,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,576,56,1016,12
 2020-W-ITF-MEX-02A-2020,W15 Cancun,Hard,32,15,20200113,106,215085,,Q,Zoe Hitt,R,,USA,18.8501026694,216350,,,Angie Carolina Yepes Medina,R,,COL,18.9377138946,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1284,3
-2020-W-ITF-MEX-02A-2020,W15 Cancun,Hard,32,15,20200113,107,222225,,,Sylvie Zund,U,,LIE,,223066,,Q,Elena Keitt,U,,USA,,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2020-W-ITF-MEX-02A-2020,W15 Cancun,Hard,32,15,20200113,107,222225,,,Sylvie Zund,L,,LIE,18.8774811773,223066,,Q,Elena Keitt,U,,USA,,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-MEX-02A-2020,W15 Cancun,Hard,32,15,20200113,108,210293,8,,Joelle Kissell,U,,USA,28.605065024,221361,,Q,Honoka Uchiyama,U,,JPN,17.8015058179,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,940,15,,
 2020-W-ITF-MEX-02A-2020,W15 Cancun,Hard,32,15,20200113,109,222198,,,Emma Davis,U,,USA,,216151,6,,Jessica Plazas,U,,COL,17.8015058179,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1209,5,916,16
 2020-W-ITF-MEX-02A-2020,W15 Cancun,Hard,32,15,20200113,110,214777,,,Taylor Ng,U,,USA,24.4544832307,222351,,WC,Gala Arangio,U,,MEX,,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1001,12,,
@@ -2556,7 +2556,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-MEX-02A-2020,W15 Cancun,Hard,32,15,20200113,201,220462,,Q,Sabina Dadaciu,R,,USA,18.7707049966,215735,,,Sara Lanca,U,,POR,22.8665297741,6-3 5-7 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,1019,12
 2020-W-ITF-MEX-02A-2020,W15 Cancun,Hard,32,15,20200113,202,215763,5,,Sofia Sewing,R,,USA,20.4791238877,222402,,,Madison Appel,U,,USA,,6-1 5-7 6-0,3,R16,,,,,,,,,,,,,,,,,,,,718,33,,
 2020-W-ITF-MEX-02A-2020,W15 Cancun,Hard,32,15,20200113,203,213772,3,,Amy Zhu,R,,USA,25.2101300479,215085,,Q,Zoe Hitt,R,,USA,18.8501026694,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,576,56,,
-2020-W-ITF-MEX-02A-2020,W15 Cancun,Hard,32,15,20200113,204,210293,8,,Joelle Kissell,U,,USA,28.605065024,222225,,,Sylvie Zund,U,,LIE,,7-5 4-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,940,15,,
+2020-W-ITF-MEX-02A-2020,W15 Cancun,Hard,32,15,20200113,204,210293,8,,Joelle Kissell,U,,USA,28.605065024,222225,,,Sylvie Zund,L,,LIE,18.8774811773,7-5 4-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,940,15,,
 2020-W-ITF-MEX-02A-2020,W15 Cancun,Hard,32,15,20200113,205,222198,,,Emma Davis,U,,USA,,214777,,,Taylor Ng,U,,USA,24.4544832307,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1209,5,1001,12
 2020-W-ITF-MEX-02A-2020,W15 Cancun,Hard,32,15,20200113,206,212303,4,,Justina Mikulskyte,U,,LTU,23.9342915811,220050,,Q,Madison Harrison,U,,USA,23.0773442847,4-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,647,43,,
 2020-W-ITF-MEX-02A-2020,W15 Cancun,Hard,32,15,20200113,207,221688,7,,Anastasia Sysoeva,U,,RUS,16.7748117728,220585,,,Anastasia Kuprina,U,,RUS,24.0848733744,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,934,15,,
@@ -2674,7 +2674,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-MEX-06A-2020,W15 Cancun,Hard,32,15,20200210,111,213771,,,Rasheeda Mcadoo,U,,USA,24.6160164271,209945,,,Almudena Sanz Llaneza Fernandez,U,,ESP,28.9418206708,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,818,22,706,35
 2020-W-ITF-MEX-06A-2020,W15 Cancun,Hard,32,15,20200210,112,206417,,Q,Leolia Jeanjean,R,,FRA,24.4928131417,213714,4,,Fanny Ostlund,R,,SWE,22.7679671458,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,484,80
 2020-W-ITF-MEX-06A-2020,W15 Cancun,Hard,32,15,20200210,113,203521,5,,Andrea Gamiz,R,,VEN,27.2772073922,211594,,,Ingrid Gamarra Martins,U,,BRA,23.4688569473,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,506,72,617,47
-2020-W-ITF-MEX-06A-2020,W15 Cancun,Hard,32,15,20200210,114,222033,,,Vanessa Ong,R,,USA,,220462,,WC,Sabina Dadaciu,R,,USA,18.8473648186,7-6(10) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,868,19,,
+2020-W-ITF-MEX-06A-2020,W15 Cancun,Hard,32,15,20200210,114,222033,,,Vanessa Ong,R,,USA,18.0752908966,220462,,WC,Sabina Dadaciu,R,,USA,18.8473648186,7-6(10) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,868,19,,
 2020-W-ITF-MEX-06A-2020,W15 Cancun,Hard,32,15,20200210,115,203583,,Q,Mary Closs,U,,USA,24.4845995893,222032,,Q,Gabriella Price,R,,USA,,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1151,7,983,13
 2020-W-ITF-MEX-06A-2020,W15 Cancun,Hard,32,15,20200210,116,214604,,,Maria Lourdes Carle,U,,ARG,20.0,206430,2,,Carolina Meligeni Rodrigues Alves,U,,BRA,23.8001368925,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,604,49,416,103
 2020-W-ITF-MEX-06A-2020,W15 Cancun,Hard,32,15,20200210,201,213753,1,,Thai Sa Grana Pedretti,U,,BRA,20.7419575633,220665,,WC,Brittany Collens,R,,USA,24.8514715948,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,386,113,,
@@ -2683,12 +2683,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-MEX-06A-2020,W15 Cancun,Hard,32,15,20200210,204,219892,,,Mayuka Aikawa,L,,JPN,21.8590006845,214106,8,,Guillermina Naya,U,,ARG,23.370294319,6-7(2) 7-5 7-6(8),3,R16,,,,,,,,,,,,,,,,,,,,873,19,551,61
 2020-W-ITF-MEX-06A-2020,W15 Cancun,Hard,32,15,20200210,205,220724,,,Alexandra Yepifanova,U,,USA,16.9445585216,215111,7,,Joanne Zuger,U,,SUI,19.2306639288,7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,550,61
 2020-W-ITF-MEX-06A-2020,W15 Cancun,Hard,32,15,20200210,206,206417,,Q,Leolia Jeanjean,R,,FRA,24.4928131417,213771,,,Rasheeda Mcadoo,U,,USA,24.6160164271,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,818,22
-2020-W-ITF-MEX-06A-2020,W15 Cancun,Hard,32,15,20200210,207,222033,,,Vanessa Ong,R,,USA,,203521,5,,Andrea Gamiz,R,,VEN,27.2772073922,7-6(3) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,868,19,506,72
+2020-W-ITF-MEX-06A-2020,W15 Cancun,Hard,32,15,20200210,207,222033,,,Vanessa Ong,R,,USA,18.0752908966,203521,5,,Andrea Gamiz,R,,VEN,27.2772073922,7-6(3) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,868,19,506,72
 2020-W-ITF-MEX-06A-2020,W15 Cancun,Hard,32,15,20200210,208,214604,,,Maria Lourdes Carle,U,,ARG,20.0,203583,,Q,Mary Closs,U,,USA,24.4845995893,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,604,49,1151,7
 2020-W-ITF-MEX-06A-2020,W15 Cancun,Hard,32,15,20200210,301,213753,1,,Thai Sa Grana Pedretti,U,,BRA,20.7419575633,205933,,,Eduarda Piai,R,,BRA,28.1587953457,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,386,113,704,35
 2020-W-ITF-MEX-06A-2020,W15 Cancun,Hard,32,15,20200210,302,214007,3,,Dasha Ivanova,R,,USA,23.3319644079,219892,,,Mayuka Aikawa,L,,JPN,21.8590006845,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,466,85,873,19
 2020-W-ITF-MEX-06A-2020,W15 Cancun,Hard,32,15,20200210,303,206417,,Q,Leolia Jeanjean,R,,FRA,24.4928131417,220724,,,Alexandra Yepifanova,U,,USA,16.9445585216,4-6 6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,,
-2020-W-ITF-MEX-06A-2020,W15 Cancun,Hard,32,15,20200210,304,214604,,,Maria Lourdes Carle,U,,ARG,20.0,222033,,,Vanessa Ong,R,,USA,,6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,604,49,868,19
+2020-W-ITF-MEX-06A-2020,W15 Cancun,Hard,32,15,20200210,304,214604,,,Maria Lourdes Carle,U,,ARG,20.0,222033,,,Vanessa Ong,R,,USA,18.0752908966,6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,604,49,868,19
 2020-W-ITF-MEX-06A-2020,W15 Cancun,Hard,32,15,20200210,401,214007,3,,Dasha Ivanova,R,,USA,23.3319644079,213753,1,,Thai Sa Grana Pedretti,U,,BRA,20.7419575633,6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,466,85,386,113
 2020-W-ITF-MEX-06A-2020,W15 Cancun,Hard,32,15,20200210,402,214604,,,Maria Lourdes Carle,U,,ARG,20.0,206417,,Q,Leolia Jeanjean,R,,FRA,24.4928131417,6-0 1-6 6-0,3,SF,,,,,,,,,,,,,,,,,,,,604,49,,
 2020-W-ITF-MEX-06A-2020,W15 Cancun,Hard,32,15,20200210,501,214604,,,Maria Lourdes Carle,U,,ARG,20.0,214007,3,,Dasha Ivanova,R,,USA,23.3319644079,6-4 6-0,3,F,,,,,,,,,,,,,,,,,,,,604,49,466,85
@@ -2702,7 +2702,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-MEX-07A-2020,W15 Cancun,Hard,32,15,20200217,108,219663,,,Lauren Proctor,U,,USA,23.1074606434,205848,5,,Nathaly Kurata,U,,BRA,27.0171115674,7-6(2) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,833,21,500,76
 2020-W-ITF-MEX-07A-2020,W15 Cancun,Hard,32,15,20200217,109,216097,6,,Elizabeth Mandlik,U,,USA,18.7488021903,209945,,,Almudena Sanz Llaneza Fernandez,U,,ESP,28.9609856263,6-2 4-6 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,514,70,710,35
 2020-W-ITF-MEX-07A-2020,W15 Cancun,Hard,32,15,20200217,110,214604,,,Maria Lourdes Carle,U,,ARG,20.0191649555,220757,,WC,Lia Karatancheva,U,,BUL,16.4435318275,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,606,49,,
-2020-W-ITF-MEX-07A-2020,W15 Cancun,Hard,32,15,20200217,111,215196,,,Nicole Nadel,U,,ISR,19.6824093087,222033,,,Vanessa Ong,R,,USA,,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,946,15,869,19
+2020-W-ITF-MEX-07A-2020,W15 Cancun,Hard,32,15,20200217,111,215196,,,Nicole Nadel,U,,ISR,19.6824093087,222033,,,Vanessa Ong,R,,USA,18.0944558522,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,946,15,869,19
 2020-W-ITF-MEX-07A-2020,W15 Cancun,Hard,32,15,20200217,112,214660,,Q,Katarina Kozarov,U,,SRB,21.7987679671,213714,3,,Fanny Ostlund,R,,SWE,22.7871321013,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1237,4,486,80
 2020-W-ITF-MEX-07A-2020,W15 Cancun,Hard,32,15,20200217,113,215111,7,,Joanne Zuger,U,,SUI,19.2498288843,221062,,WC,Marie Mettraux,U,,SUI,19.8631074606,7-6(6) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,577,55,1104,9
 2020-W-ITF-MEX-07A-2020,W15 Cancun,Hard,32,15,20200217,114,215726,,,Tiphanie Fiquet,R,,FRA,19.7535934292,221120,,Q,Gianna Pielet,U,,USA,17.6865160849,6-2 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,747,29,1185,6
@@ -3707,7 +3707,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-TUN-30A-2020,W15 Monastir,Hard,32,15,20200914,110,221345,,WC,Alina Michalitsch,U,,AUT,20.6461327858,215935,,,Zoe Bourbotte,U,,FRA,19.2498288843,4-6 6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-TUN-30A-2020,W15 Monastir,Hard,32,15,20200914,111,215093,,,Chiara Catini,R,,ITA,21.1635865845,213634,,,Rita Atik,R,,MAR,22.8966461328,6-4 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,,,1183,6
 2020-W-ITF-TUN-30A-2020,W15 Monastir,Hard,32,15,20200914,112,215707,3,,Anna Kubareva,U,,BLR,19.6030116359,221376,,,Olivia Gram,U,,DEN,,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,472,86,1277,4
-2020-W-ITF-TUN-30A-2020,W15 Monastir,Hard,32,15,20200914,113,215138,,Q,Lulu Radovcic,U,,SUI,19.4195756331,219792,5,,Anastasia Sukhotina,U,,RUS,,2-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,738,33
+2020-W-ITF-TUN-30A-2020,W15 Monastir,Hard,32,15,20200914,113,215138,,Q,Lulu Radovcic,U,,SUI,19.4195756331,219792,5,,Anastasia Sukhotina,L,,RUS,20.5065023956,2-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,738,33
 2020-W-ITF-TUN-30A-2020,W15 Monastir,Hard,32,15,20200914,114,221380,,Q,Polina Gubina,R,,UKR,18.1656399726,215655,,Q,Mey Ayari,U,,TUN,18.9130732375,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-TUN-30A-2020,W15 Monastir,Hard,32,15,20200914,115,221985,,Q,Darja Semenistaja,U,,LAT,,215239,,WC,Diana Maria Mihail,R,,ROU,20.0821355236,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1300,3,1300,3
 2020-W-ITF-TUN-30A-2020,W15 Monastir,Hard,32,15,20200914,201,216039,1,,Shalimar Talbi,U,,BLR,19.7727583847,221994,,,Demi Tran,R,,NED,19.8001368925,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,405,111,,
@@ -3737,7 +3737,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-TUN-31A-2020,W15 Monastir,Hard,32,15,20200921,110,220560,,,Lian Tran,R,,NED,18.1765913758,221985,,,Darja Semenistaja,U,,LAT,,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1009,13,1303,3
 2020-W-ITF-TUN-31A-2020,W15 Monastir,Hard,32,15,20200921,111,216252,,WC,Giulia Morlet,L,,FRA,18.6858316222,222041,,Q,Maja Radenkovic,U,,SWE,,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-TUN-31A-2020,W15 Monastir,Hard,32,15,20200921,112,221178,4,,Darya Astakhova,R,,RUS,18.6529774127,222036,,WC,Zoe Howard,U,,USA,,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,526,70,,
-2020-W-ITF-TUN-31A-2020,W15 Monastir,Hard,32,15,20200921,113,219792,6,,Anastasia Sukhotina,U,,RUS,,215239,,Q,Diana Maria Mihail,R,,ROU,20.1013004791,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,739,33,1303,3
+2020-W-ITF-TUN-31A-2020,W15 Monastir,Hard,32,15,20200921,113,219792,6,,Anastasia Sukhotina,L,,RUS,20.5256673511,215239,,Q,Diana Maria Mihail,R,,ROU,20.1013004791,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,739,33,1303,3
 2020-W-ITF-TUN-31A-2020,W15 Monastir,Hard,32,15,20200921,114,221376,,,Olivia Gram,U,,DEN,,215935,,Q,Zoe Bourbotte,U,,FRA,19.2689938398,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1280,4,,
 2020-W-ITF-TUN-31A-2020,W15 Monastir,Hard,32,15,20200921,115,213634,,,Rita Atik,R,,MAR,22.9158110883,216572,,,Maria Jazmin Amicuzi,U,,ARG,20.8213552361,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1186,6,1303,3
 2020-W-ITF-TUN-31A-2020,W15 Monastir,Hard,32,15,20200921,116,216013,2,,Yuliya Hatouka,U,,BLR,20.4106776181,219965,,,Laetitia Pulchartova,R,,CZE,19.6741957563,7-6(8) 6-7(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,444,96,915,18
@@ -3747,19 +3747,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-TUN-31A-2020,W15 Monastir,Hard,32,15,20200921,204,215806,7,,Alice Robbe,U,,FRA,20.3668720055,215684,,,Lilly Elida Haseth,U,,NOR,18.9678302533,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,777,27,1235,5
 2020-W-ITF-TUN-31A-2020,W15 Monastir,Hard,32,15,20200921,205,215093,,Q,Chiara Catini,R,,ITA,21.18275154,220560,,,Lian Tran,R,,NED,18.1765913758,4-6 7-5 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,,,1009,13
 2020-W-ITF-TUN-31A-2020,W15 Monastir,Hard,32,15,20200921,206,221178,4,,Darya Astakhova,R,,RUS,18.6529774127,216252,,WC,Giulia Morlet,L,,FRA,18.6858316222,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,526,70,,
-2020-W-ITF-TUN-31A-2020,W15 Monastir,Hard,32,15,20200921,207,219792,6,,Anastasia Sukhotina,U,,RUS,,221376,,,Olivia Gram,U,,DEN,,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,739,33,1280,4
+2020-W-ITF-TUN-31A-2020,W15 Monastir,Hard,32,15,20200921,207,219792,6,,Anastasia Sukhotina,L,,RUS,20.5256673511,221376,,,Olivia Gram,U,,DEN,,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,739,33,1280,4
 2020-W-ITF-TUN-31A-2020,W15 Monastir,Hard,32,15,20200921,208,216013,2,,Yuliya Hatouka,U,,BLR,20.4106776181,213634,,,Rita Atik,R,,MAR,22.9158110883,7-6(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,444,96,1186,6
 2020-W-ITF-TUN-31A-2020,W15 Monastir,Hard,32,15,20200921,301,216039,1,,Shalimar Talbi,U,,BLR,19.7919233402,215138,,WC,Lulu Radovcic,U,,SUI,19.4387405886,0-6 7-6(2) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,410,111,,
 2020-W-ITF-TUN-31A-2020,W15 Monastir,Hard,32,15,20200921,302,215707,3,,Anna Kubareva,U,,BLR,19.6221765914,215806,7,,Alice Robbe,U,,FRA,20.3668720055,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,474,86,777,27
 2020-W-ITF-TUN-31A-2020,W15 Monastir,Hard,32,15,20200921,303,221178,4,,Darya Astakhova,R,,RUS,18.6529774127,215093,,Q,Chiara Catini,R,,ITA,21.18275154,3-6 6-1 7-6(8),3,QF,,,,,,,,,,,,,,,,,,,,526,70,,
-2020-W-ITF-TUN-31A-2020,W15 Monastir,Hard,32,15,20200921,304,216013,2,,Yuliya Hatouka,U,,BLR,20.4106776181,219792,6,,Anastasia Sukhotina,U,,RUS,,6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,444,96,739,33
+2020-W-ITF-TUN-31A-2020,W15 Monastir,Hard,32,15,20200921,304,216013,2,,Yuliya Hatouka,U,,BLR,20.4106776181,219792,6,,Anastasia Sukhotina,L,,RUS,20.5256673511,6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,444,96,739,33
 2020-W-ITF-TUN-31A-2020,W15 Monastir,Hard,32,15,20200921,401,216039,1,,Shalimar Talbi,U,,BLR,19.7919233402,215707,3,,Anna Kubareva,U,,BLR,19.6221765914,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,410,111,474,86
 2020-W-ITF-TUN-31A-2020,W15 Monastir,Hard,32,15,20200921,402,216013,2,,Yuliya Hatouka,U,,BLR,20.4106776181,221178,4,,Darya Astakhova,R,,RUS,18.6529774127,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,444,96,526,70
 2020-W-ITF-TUN-31A-2020,W15 Monastir,Hard,32,15,20200921,501,216013,2,,Yuliya Hatouka,U,,BLR,20.4106776181,216039,1,,Shalimar Talbi,U,,BLR,19.7919233402,6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,444,96,410,111
 2020-W-ITF-TUN-32A-2020,W15 Monastir,Hard,32,15,20200928,101,216039,1,,Shalimar Talbi,U,,BLR,19.8110882957,219979,,Q,Marie Villet,U,,FRA,23.8631074606,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,395,121,1152,8
 2020-W-ITF-TUN-32A-2020,W15 Monastir,Hard,32,15,20200928,102,222036,,Q,Zoe Howard,U,,USA,,215935,,Q,Zoe Bourbotte,U,,FRA,19.2881587953,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-TUN-32A-2020,W15 Monastir,Hard,32,15,20200928,103,221985,,,Darja Semenistaja,U,,LAT,,219965,,,Laetitia Pulchartova,R,,CZE,19.6933607118,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1286,4,917,18
-2020-W-ITF-TUN-32A-2020,W15 Monastir,Hard,32,15,20200928,104,219792,6,,Anastasia Sukhotina,U,,RUS,,221258,,WC,Laura Boehner,U,,GER,19.1649555099,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,741,33,,
+2020-W-ITF-TUN-32A-2020,W15 Monastir,Hard,32,15,20200928,104,219792,6,,Anastasia Sukhotina,L,,RUS,20.5448323066,221258,,WC,Laura Boehner,U,,GER,19.1649555099,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,741,33,,
 2020-W-ITF-TUN-32A-2020,W15 Monastir,Hard,32,15,20200928,105,213634,,LL,Rita Atik,R,,MAR,22.9349760438,221223,,,Maria Tanasescu,R,,CAN,19.9780971937,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1193,6,1096,10
 2020-W-ITF-TUN-32A-2020,W15 Monastir,Hard,32,15,20200928,106,215138,,Q,Lulu Radovcic,U,,SUI,19.4579055441,220266,,,Kathleen Kanev,U,,GER,20.1697467488,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1046,12
 2020-W-ITF-TUN-32A-2020,W15 Monastir,Hard,32,15,20200928,107,215684,,WC,Lilly Elida Haseth,U,,NOR,18.9869952088,221345,,Q,Alina Michalitsch,U,,AUT,20.6844626968,7-5 4-6 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1241,5,,
@@ -3773,7 +3773,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-TUN-32A-2020,W15 Monastir,Hard,32,15,20200928,115,215657,,,Kelia Le Bihan,U,,FRA,21.7248459959,216023,,,Louise Kwong,U,,CAN,25.7303216975,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,829,24,1109,9
 2020-W-ITF-TUN-32A-2020,W15 Monastir,Hard,32,15,20200928,116,221178,2,,Darya Astakhova,R,,RUS,18.6721423682,221376,,Q,Olivia Gram,U,,DEN,,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,529,70,1286,4
 2020-W-ITF-TUN-32A-2020,W15 Monastir,Hard,32,15,20200928,201,216039,1,,Shalimar Talbi,U,,BLR,19.8110882957,222036,,Q,Zoe Howard,U,,USA,,7-5 0-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,395,121,,
-2020-W-ITF-TUN-32A-2020,W15 Monastir,Hard,32,15,20200928,202,221985,,,Darja Semenistaja,U,,LAT,,219792,6,,Anastasia Sukhotina,U,,RUS,,2-6 7-5 3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,1286,4,741,33
+2020-W-ITF-TUN-32A-2020,W15 Monastir,Hard,32,15,20200928,202,221985,,,Darja Semenistaja,U,,LAT,,219792,6,,Anastasia Sukhotina,L,,RUS,20.5448323066,2-6 7-5 3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,1286,4,741,33
 2020-W-ITF-TUN-32A-2020,W15 Monastir,Hard,32,15,20200928,203,215138,,Q,Lulu Radovcic,U,,SUI,19.4579055441,213634,,LL,Rita Atik,R,,MAR,22.9349760438,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,1193,6
 2020-W-ITF-TUN-32A-2020,W15 Monastir,Hard,32,15,20200928,204,215093,,Q,Chiara Catini,R,,ITA,21.2019164956,215684,,WC,Lilly Elida Haseth,U,,NOR,18.9869952088,6-2 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1310,3,1241,5
 2020-W-ITF-TUN-32A-2020,W15 Monastir,Hard,32,15,20200928,205,215806,7,,Alice Robbe,U,,FRA,20.386036961,215218,,,Anna Ukolova,U,,RUS,21.5140314853,6-4 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,780,27,815,25
@@ -3793,7 +3793,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-TUN-33A-2020,W15 Monastir,Hard,32,15,20201005,104,213853,,,Eliessa Vanlangendonck,U,,BEL,23.4962354552,214032,,,Chiraz Bechri,U,,TUN,22.2039698836,4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,816,25,968,15
 2020-W-ITF-TUN-33A-2020,W15 Monastir,Hard,32,15,20201005,105,214604,3,,Maria Lourdes Carle,U,,ARG,20.6516084873,216299,,,Ekaterina Vishnevskaya,R,,RUS,20.8569472964,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,535,69,886,20
 2020-W-ITF-TUN-33A-2020,W15 Monastir,Hard,32,15,20201005,106,221985,,,Darja Semenistaja,U,,LAT,,219979,,Q,Marie Villet,U,,FRA,23.8822724162,6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1286,4,1152,8
-2020-W-ITF-TUN-33A-2020,W15 Monastir,Hard,32,15,20201005,107,222225,,Q,Sylvie Zund,U,,LIE,,221392,,LL,Angelina Graovac,U,,AUS,18.9130732375,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2020-W-ITF-TUN-33A-2020,W15 Monastir,Hard,32,15,20201005,107,222225,,Q,Sylvie Zund,L,,LIE,19.6057494867,221392,,LL,Angelina Graovac,U,,AUS,18.9130732375,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-TUN-33A-2020,W15 Monastir,Hard,32,15,20201005,108,220391,8,,Anna Ureke,U,,RUS,20.9253935661,222916,,Q,Marija Semenistaja,U,,LAT,,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,796,26,,
 2020-W-ITF-TUN-33A-2020,W15 Monastir,Hard,32,15,20201005,109,215721,,,Rebeca Pereira,R,,BRA,27.537303217,213972,5,,Ines Ibbou,R,,ALG,21.749486653,6-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,1042,12,631,50
 2020-W-ITF-TUN-33A-2020,W15 Monastir,Hard,32,15,20201005,110,215588,,,Yasmine Mansouri,R,,FRA,19.3921971253,221376,,WC,Olivia Gram,U,,DEN,,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,960,15,1286,4
@@ -3806,7 +3806,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-TUN-33A-2020,W15 Monastir,Hard,32,15,20201005,201,211903,1,,Barbara Gatica,U,,CHI,24.1368925394,215093,,WC,Chiara Catini,R,,ITA,21.2210814511,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,451,94,1310,3
 2020-W-ITF-TUN-33A-2020,W15 Monastir,Hard,32,15,20201005,202,215218,,,Anna Ukolova,U,,RUS,21.5331964408,213853,,,Eliessa Vanlangendonck,U,,BEL,23.4962354552,5-7 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,815,25,816,25
 2020-W-ITF-TUN-33A-2020,W15 Monastir,Hard,32,15,20201005,203,214604,3,,Maria Lourdes Carle,U,,ARG,20.6516084873,221985,,,Darja Semenistaja,U,,LAT,,6-2 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,535,69,1286,4
-2020-W-ITF-TUN-33A-2020,W15 Monastir,Hard,32,15,20201005,204,220391,8,,Anna Ureke,U,,RUS,20.9253935661,222225,,Q,Sylvie Zund,U,,LIE,,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,796,26,,
+2020-W-ITF-TUN-33A-2020,W15 Monastir,Hard,32,15,20201005,204,220391,8,,Anna Ureke,U,,RUS,20.9253935661,222225,,Q,Sylvie Zund,L,,LIE,19.6057494867,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,796,26,,
 2020-W-ITF-TUN-33A-2020,W15 Monastir,Hard,32,15,20201005,205,215588,,,Yasmine Mansouri,R,,FRA,19.3921971253,215721,,,Rebeca Pereira,R,,BRA,27.537303217,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,960,15,1042,12
 2020-W-ITF-TUN-33A-2020,W15 Monastir,Hard,32,15,20201005,206,216116,4,,Elena Malygina,U,,EST,20.3586584531,216023,,WC,Louise Kwong,U,,CAN,25.749486653,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,577,61,1109,9
 2020-W-ITF-TUN-33A-2020,W15 Monastir,Hard,32,15,20201005,207,216095,,,Mina Hodzic,U,,GER,18.3326488706,220492,,Q,Chantal Sauvant,U,,GER,18.4120465435,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,879,20,,
@@ -3823,7 +3823,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-TUN-34A-2020,W15 Monastir,Hard,32,15,20201012,104,201691,6,,Dia Evtimova,R,,BUL,33.453798768,221207,,,Margarita Ignatjeva,R,,LAT,19.2991101985,4-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,646,48,951,16
 2020-W-ITF-TUN-34A-2020,W15 Monastir,Hard,32,15,20201012,106,216299,,,Ekaterina Vishnevskaya,R,,RUS,20.8761122519,222925,,Q,Viktoria Kurz,R,,AUT,,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,857,22,,
 2020-W-ITF-TUN-34A-2020,W15 Monastir,Hard,32,15,20201012,107,222940,,WC,Zofia Podbiol,U,,POL,,221392,,Q,Angelina Graovac,U,,AUS,18.932238193,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2020-W-ITF-TUN-34A-2020,W15 Monastir,Hard,32,15,20201012,108,220391,8,,Anna Ureke,U,,RUS,20.9445585216,222225,,Q,Sylvie Zund,U,,LIE,,3-6 6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,796,26,,
+2020-W-ITF-TUN-34A-2020,W15 Monastir,Hard,32,15,20201012,108,220391,8,,Anna Ureke,U,,RUS,20.9445585216,222225,,Q,Sylvie Zund,L,,LIE,19.6249144422,3-6 6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,796,26,,
 2020-W-ITF-TUN-34A-2020,W15 Monastir,Hard,32,15,20201012,109,213972,,5 WC,Ines Ibbou,R,,ALG,21.7686516085,221223,,,Maria Tanasescu,R,,CAN,20.0164271047,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,633,50,1097,10
 2020-W-ITF-TUN-34A-2020,W15 Monastir,Hard,32,15,20201012,110,220266,,,Kathleen Kanev,U,,GER,20.2080766598,221985,,,Darja Semenistaja,U,,LAT,,6-1 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1046,12,1214,6
 2020-W-ITF-TUN-34A-2020,W15 Monastir,Hard,32,15,20201012,111,221062,,,Marie Mettraux,U,,SUI,20.514715948,213853,,,Eliessa Vanlangendonck,U,,BEL,23.5154004107,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1132,9,817,25
@@ -3941,7 +3941,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-TUN-40A-2020,W15 Monastir,Hard,32,15,20201123,501,220733,3,,Carole Monnet,L,,FRA,18.9787816564,216013,2,,Yuliya Hatouka,U,,BLR,20.5831622177,2-6 6-1 7-5,3,F,,,,,,,,,,,,,,,,,,,,460,92,421,108
 2020-W-ITF-TUN-41A-2020,W15 Monastir,Hard,32,15,20201130,101,216039,1,,Shalimar Talbi,U,,BLR,19.9835728953,221767,,Q,Wiem Boubaker,U,,TUN,17.4948665298,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,357,137,,
 2020-W-ITF-TUN-41A-2020,W15 Monastir,Hard,32,15,20201130,102,221052,,,Aubane Droguet,U,,FRA,17.9274469541,220429,,Q,Elena Milovanovic,R,,SRB,19.8302532512,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,885,20,937,17
-2020-W-ITF-TUN-41A-2020,W15 Monastir,Hard,32,15,20201130,103,222258,,,Linda Fruhvirtova,U,,CZE,,210271,,,Anita Husaric,R,,BIH,26.4284736482,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,796,26,849,23
+2020-W-ITF-TUN-41A-2020,W15 Monastir,Hard,32,15,20201130,103,222258,,,Linda Fruhvirtova,R,,CZE,15.5838466804,210271,,,Anita Husaric,R,,BIH,26.4284736482,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,796,26,849,23
 2020-W-ITF-TUN-41A-2020,W15 Monastir,Hard,32,15,20201130,104,215697,8,,Arlinda Rushiti,U,,SUI,21.6810403833,223343,,Q,Nikol Palecek,U,,SRB,,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,591,60,,
 2020-W-ITF-TUN-41A-2020,W15 Monastir,Hard,32,15,20201130,105,220733,3,,Carole Monnet,L,,FRA,18.9979466119,215218,,,Anna Ukolova,U,,RUS,21.6865160849,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,460,92,773,29
 2020-W-ITF-TUN-41A-2020,W15 Monastir,Hard,32,15,20201130,106,219979,,WC,Marie Villet,U,,FRA,24.0355920602,221376,,WC,Olivia Gram,U,,DEN,,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1131,9,1260,5
@@ -3956,20 +3956,20 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-TUN-41A-2020,W15 Monastir,Hard,32,15,20201130,115,213972,,,Ines Ibbou,R,,ALG,21.9028062971,223401,,LL,Astrid Cirotte ,U,,FRA,,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,610,54,,
 2020-W-ITF-TUN-41A-2020,W15 Monastir,Hard,32,15,20201130,116,216013,2,,Yuliya Hatouka,U,,BLR,20.6023271732,221204,,Q,Helena Narmont,U,,EST,19.8576317591,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,421,108,,
 2020-W-ITF-TUN-41A-2020,W15 Monastir,Hard,32,15,20201130,201,216039,1,,Shalimar Talbi,U,,BLR,19.9835728953,221052,,,Aubane Droguet,U,,FRA,17.9274469541,6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,357,137,885,20
-2020-W-ITF-TUN-41A-2020,W15 Monastir,Hard,32,15,20201130,202,222258,,,Linda Fruhvirtova,U,,CZE,,215697,8,,Arlinda Rushiti,U,,SUI,21.6810403833,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,796,26,591,60
+2020-W-ITF-TUN-41A-2020,W15 Monastir,Hard,32,15,20201130,202,222258,,,Linda Fruhvirtova,R,,CZE,15.5838466804,215697,8,,Arlinda Rushiti,U,,SUI,21.6810403833,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,796,26,591,60
 2020-W-ITF-TUN-41A-2020,W15 Monastir,Hard,32,15,20201130,203,220733,3,,Carole Monnet,L,,FRA,18.9979466119,219979,,WC,Marie Villet,U,,FRA,24.0355920602,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,460,92,1131,9
 2020-W-ITF-TUN-41A-2020,W15 Monastir,Hard,32,15,20201130,204,215131,7,,Nefisa Berberovic,U,,BIH,21.4127310062,214426,,LL,Giulia Crescenzi,U,,ITA,24.6680355921,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,580,62,980,15
 2020-W-ITF-TUN-41A-2020,W15 Monastir,Hard,32,15,20201130,205,216367,,6 WC,Sada Nahimana,R,,BDI,19.6112251882,202706,,,Manon Arcangioli,U,,FRA,26.2587268994,6-1 5-7 7-5,3,R16,,,,,,,,,,,,,,,,,,,,514,78,649,48
 2020-W-ITF-TUN-41A-2020,W15 Monastir,Hard,32,15,20201130,206,206253,4,,Ivonne Cavalle Reimers,R,,ESP,28.5256673511,213853,,,Eliessa Vanlangendonck,U,,BEL,23.6495550992,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,486,86,784,28
 2020-W-ITF-TUN-41A-2020,W15 Monastir,Hard,32,15,20201130,207,221386,,,Sebastianna Scilipoti,U,,SUI,17.6700889802,223164,,,Maria Bondarenko,U,,RUS,,3-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,861,22,1082,10
 2020-W-ITF-TUN-41A-2020,W15 Monastir,Hard,32,15,20201130,208,216013,2,,Yuliya Hatouka,U,,BLR,20.6023271732,213972,,,Ines Ibbou,R,,ALG,21.9028062971,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,421,108,610,54
-2020-W-ITF-TUN-41A-2020,W15 Monastir,Hard,32,15,20201130,301,222258,,,Linda Fruhvirtova,U,,CZE,,216039,1,,Shalimar Talbi,U,,BLR,19.9835728953,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,796,26,357,137
+2020-W-ITF-TUN-41A-2020,W15 Monastir,Hard,32,15,20201130,301,222258,,,Linda Fruhvirtova,R,,CZE,15.5838466804,216039,1,,Shalimar Talbi,U,,BLR,19.9835728953,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,796,26,357,137
 2020-W-ITF-TUN-41A-2020,W15 Monastir,Hard,32,15,20201130,302,220733,3,,Carole Monnet,L,,FRA,18.9979466119,215131,7,,Nefisa Berberovic,U,,BIH,21.4127310062,6-1 3-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,460,92,580,62
 2020-W-ITF-TUN-41A-2020,W15 Monastir,Hard,32,15,20201130,303,216367,,6 WC,Sada Nahimana,R,,BDI,19.6112251882,206253,4,,Ivonne Cavalle Reimers,R,,ESP,28.5256673511,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,514,78,486,86
 2020-W-ITF-TUN-41A-2020,W15 Monastir,Hard,32,15,20201130,304,216013,2,,Yuliya Hatouka,U,,BLR,20.6023271732,221386,,,Sebastianna Scilipoti,U,,SUI,17.6700889802,7-5 5-7 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,421,108,861,22
-2020-W-ITF-TUN-41A-2020,W15 Monastir,Hard,32,15,20201130,401,222258,,,Linda Fruhvirtova,U,,CZE,,220733,3,,Carole Monnet,L,,FRA,18.9979466119,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,796,26,460,92
+2020-W-ITF-TUN-41A-2020,W15 Monastir,Hard,32,15,20201130,401,222258,,,Linda Fruhvirtova,R,,CZE,15.5838466804,220733,3,,Carole Monnet,L,,FRA,18.9979466119,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,796,26,460,92
 2020-W-ITF-TUN-41A-2020,W15 Monastir,Hard,32,15,20201130,402,216013,2,,Yuliya Hatouka,U,,BLR,20.6023271732,216367,,6 WC,Sada Nahimana,R,,BDI,19.6112251882,6-1 6-1,3,SF,,,,,,,,,,,,,,,,,,,,421,108,514,78
-2020-W-ITF-TUN-41A-2020,W15 Monastir,Hard,32,15,20201130,501,216013,2,,Yuliya Hatouka,U,,BLR,20.6023271732,222258,,,Linda Fruhvirtova,U,,CZE,,6-1 5-7 6-3,3,F,,,,,,,,,,,,,,,,,,,,421,108,796,26
+2020-W-ITF-TUN-41A-2020,W15 Monastir,Hard,32,15,20201130,501,216013,2,,Yuliya Hatouka,U,,BLR,20.6023271732,222258,,,Linda Fruhvirtova,R,,CZE,15.5838466804,6-1 5-7 6-3,3,F,,,,,,,,,,,,,,,,,,,,421,108,796,26
 2020-W-ITF-TUN-42A-2020,W15 Monastir,Hard,32,15,20201207,101,215218,,,Anna Ukolova,U,,RUS,21.7056810404,216039,1,,Shalimar Talbi,U,,BLR,20.0027378508,2-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,773,29,357,138
 2020-W-ITF-TUN-42A-2020,W15 Monastir,Hard,32,15,20201207,102,221194,,WC,Flavie Brugnone,R,,FRA,17.7631759069,201691,,,Dia Evtimova,R,,BUL,33.607118412,3-6 7-6(6) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,640,50
 2020-W-ITF-TUN-42A-2020,W15 Monastir,Hard,32,15,20201207,103,219979,,Q,Marie Villet,U,,FRA,24.0547570157,213972,,,Ines Ibbou,R,,ALG,21.9219712526,6-2 3-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,1134,9,602,56
@@ -4412,7 +4412,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-TUR-22A-2020,W25 Istanbul,Hard,32,25,20201026,113,201329,7,,Vera Zvonareva,R,172,RUS,36.1341546886,220435,,,Anastasia Zakharova,U,,RUS,18.7707049966,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,183,381,253,247
 2020-W-ITF-TUR-22A-2020,W25 Istanbul,Hard,32,25,20201026,114,211329,,,Tena Lukas,U,,CRO,25.4647501711,204394,,Q,Valentini Grammatikopoulou,U,,GRE,23.7097878166,6-2 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,259,243,266,236
 2020-W-ITF-TUR-22A-2020,W25 Istanbul,Hard,32,25,20201026,115,202604,,Q,Despina Papamichail,R,,GRE,27.7097878166,220799,,WC,Dooa Akyurek,U,,TUR,17.8179329227,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,277,225,,
-2020-W-ITF-TUR-22A-2020,W25 Istanbul,Hard,32,25,20201026,116,215290,2,,Katarina Zavatska,R,,UKR,20.7227926078,222258,,JE,Linda Fruhvirtova,U,,CZE,,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,116,633,788,26
+2020-W-ITF-TUR-22A-2020,W25 Istanbul,Hard,32,25,20201026,116,215290,2,,Katarina Zavatska,R,,UKR,20.7227926078,222258,,JE,Linda Fruhvirtova,R,,CZE,15.4880219028,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,116,633,788,26
 2020-W-ITF-TUR-22A-2020,W25 Istanbul,Hard,32,25,20201026,201,201466,1,,Kaia Kanepi,R,181,EST,35.3785078713,222980,,Q,Lucie Havlickova,U,,CZE,,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,105,706,863,21
 2020-W-ITF-TUR-22A-2020,W25 Istanbul,Hard,32,25,20201026,202,210622,,Q,Andrea Lazaro Garcia,R,,ESP,25.9767282683,202457,8,,Bibiane Schoofs,R,,NED,32.4544832307,4-6 6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,275,225,200,336
 2020-W-ITF-TUR-22A-2020,W25 Istanbul,Hard,32,25,20201026,203,211713,3,,Jaqueline Adina Cristian,U,,ROU,22.392881588,201664,,,Pemra Ozgen,R,,TUR,34.46954141,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,169,423,211,312
@@ -5091,13 +5091,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-2023,Prague,Clay,128,C,20200831,227,202578,,,Laura Ioana Andrei,R,,ROU,32.2518822724,215898,,,Jule Niemeier,U,,GER,21.054072553,6-3 6-4,3,R128,77,1,3,60,40,24,12,10,2,5,2,3,50,24,15,9,9,2,7,200,312,301,184
 2020-2023,Prague,Clay,128,C,20200831,226,201568,18,,Kristina Kucova,R,,SVK,30.2751540041,202659,,,Tereza Mrdeza,R,,CRO,29.7960301164,6-4 6-4,3,R128,114,1,3,74,40,24,12,10,11,16,0,1,77,65,31,2,10,4,11,173,368,232,259
 2020-2023,Prague,Clay,128,C,20200831,225,213734,26,,Mariam Bolkvadze,L,,GEO,22.6639288159,202443,,,Valeria Savinykh,R,,RUS,29.5277207392,2-6 6-3 6-4,3,R128,176,0,17,88,50,24,8,13,9,20,1,5,124,82,36,16,14,19,31,185,337,213,287
-2020-2023,Prague,Clay,128,C,20200831,223,220704,,,Clara Tauson,U,,DEN,17.6947296372,222258,,WC,Linda Fruhvirtova,U,,CZE,,6-3 6-2,3,R128,62,2,2,54,36,26,8,9,1,3,1,0,38,21,8,8,8,1,6,208,295,808,24
+2020-2023,Prague,Clay,128,C,20200831,223,220704,,,Clara Tauson,U,,DEN,17.6947296372,222258,,WC,Linda Fruhvirtova,R,,CZE,15.3347022587,6-3 6-2,3,R128,62,2,2,54,36,26,8,9,1,3,1,0,38,21,8,8,8,1,6,208,295,808,24
 2020-2023,Prague,Clay,128,C,20200831,222,201506,6,,Sara Errani,R,164,ITA,33.3415468857,202440,,,Paula Ormaechea,R,,ARG,27.923340178,0-6 7-5 7-6(7),3,R128,181,0,3,143,119,60,9,15,11,21,3,3,104,74,45,9,15,8,16,151,427,266,220
 2020-2023,Prague,Clay,128,C,20200831,221,215259,4,,Leonie Kung,R,,SUI,19.8603696099,219940,,LL,Ivana Popovic,U,,AUS,19.947980835,6-1 6-0,3,R128,61,3,2,37,28,22,5,6,2,2,1,11,58,30,14,9,7,7,13,148,430,355,132
 2020-2023,Prague,Clay,128,C,20200831,220,204419,,,Ana Sofia Sanchez,L,,MEX,26.3846680356,202414,,,Catherine Harrison,U,,USA,26.3956194387,3-6 6-4 7-6(3),3,R128,170,0,6,123,88,44,13,15,9,18,1,7,107,70,33,17,16,6,15,322,163,264,223
 2020-2023,Prague,Clay,128,C,20200831,219,213620,,,Jessica Pieri,U,,ITA,23.3538672142,213706,,,Irene Burillo Escorihuela,U,,ESP,23.1074606434,6-4 7-5,3,R128,127,1,0,102,72,41,13,11,11,16,0,5,69,41,20,9,11,2,9,312,174,336,153
 2020-2023,Prague,Clay,128,C,20200831,218,221114,,,Dasha Lopatetskaya,U,,UKR,17.3579739904,204377,25,,Indy De Vroome,R,,NED,24.2792607803,6-2 6-3,3,R128,76,0,5,58,33,18,14,9,0,3,3,9,51,26,11,9,8,4,10,381,122,184,339
-2020-2023,Prague,Clay,128,C,20200831,217,210886,17,,Mayar Sherif,U,,EGY,24.3230663929,222328,,WC,Linda Noskova,U,,CZE,,7-6(3) 7-5,3,R128,108,5,0,76,54,34,12,12,4,8,3,2,86,53,28,15,12,8,13,170,375,1056,10
+2020-2023,Prague,Clay,128,C,20200831,217,210886,17,,Mayar Sherif,U,,EGY,24.3230663929,222328,,WC,Linda Noskova,R,,CZE,15.7864476386,7-6(3) 7-5,3,R128,108,5,0,76,54,34,12,12,4,8,3,2,86,53,28,15,12,8,13,170,375,1056,10
 2020-2023,Prague,Clay,128,C,20200831,216,213646,,,Dalma Galfi,U,,HUN,22.0506502396,211316,,,Jessika Ponchet,U,,FRA,23.9288158795,6-0 6-2,3,R128,50,0,1,36,28,25,5,7,0,0,1,1,47,23,14,6,7,3,8,235,256,227,266
 2020-2023,Prague,Clay,128,C,20200831,215,211736,,,Ivana Jorovic,R,,SRB,23.3292265572,214521,,,Lea Boskovic,U,,CRO,20.9418206708,6-1 7-5,3,R128,84,3,2,63,42,30,13,10,1,2,2,2,57,47,26,4,9,3,7,230,261,305,177
 2020-2023,Prague,Clay,128,C,20200831,214,211817,16,,Elena Gabriela Ruse,U,,ROU,22.81724846,213584,,,Irina Fetecau,R,,ROU,24.372347707,6-2 6-4,3,R128,66,2,2,43,22,16,16,9,0,1,1,4,53,38,21,7,9,2,6,169,377,303,181
@@ -5372,7 +5372,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-BUL-04A-2020,W15 Pazardzhik,Clay,32,15,20201026,106,221315,13,,Beatris Spasova,R,,BUL,18.5681040383,223346,,,Katrin Stefanova,U,,BGR,,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-BUL-04A-2020,W15 Pazardzhik,Clay,32,15,20201026,107,222096,,,Isabelle Kouzmanov,U,,USA,,216565,4,,Nevena Sokovic,U,,SRB,20.6598220397,0-6 6-3 10-7,3,Q1,,,,,,,,,,,,,,,,,,,,,,1271,4
 2020-W-ITF-BUL-04A-2020,W15 Pazardzhik,Clay,32,15,20201026,108,221472,14,,Chiara Girelli,U,,ITA,17.8672142368,221713,,,Tania Munteanu,U,,ROU,18.0424366872,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
-2020-W-ITF-BUL-04A-2020,W15 Pazardzhik,Clay,32,15,20201026,109,222225,5,,Sylvie Zund,U,,LIE,,221140,,,Noka Juric,U,,SLO,19.0116358658,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,1271,4,,
+2020-W-ITF-BUL-04A-2020,W15 Pazardzhik,Clay,32,15,20201026,109,222225,5,,Sylvie Zund,L,,LIE,19.6632443532,221140,,,Noka Juric,U,,SLO,19.0116358658,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,1271,4,,
 2020-W-ITF-BUL-04A-2020,W15 Pazardzhik,Clay,32,15,20201026,110,222707,15,,Nikol Ruseva,U,,BUL,,222706,,,Beloslava Veleva,U,,BUL,,2-6 6-2 10-7,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-BUL-04A-2020,W15 Pazardzhik,Clay,32,15,20201026,111,221309,6,,Sofia Milatova,R,,SVK,19.9644079398,223351,,,Emma Valletta,U,,ITA,,6-1 7-6(5),3,Q1,,,,,,,,,,,,,,,,,,,,1294,4,,
 2020-W-ITF-BUL-04A-2020,W15 Pazardzhik,Clay,32,15,20201026,112,223322,,,Katerina Dimitrova ,U,,BGR,,222133,16,,Giuseppina Miccio,U,,ITA,,4-6 6-2 10-6,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
@@ -5384,7 +5384,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-BUL-04A-2020,W15 Pazardzhik,Clay,32,15,20201026,202,222704,,,Mirela Shkumbova,U,,BUL,,221219,2,,Lucie Petruzelova,U,,CZE,18.1574264203,6-4 2-6 10-5,3,Q2,,,,,,,,,,,,,,,,,,,,,,1186,7
 2020-W-ITF-BUL-04A-2020,W15 Pazardzhik,Clay,32,15,20201026,203,221542,3,,Simona Ogescu,U,,ROU,18.0588637919,221315,13,,Beatris Spasova,R,,BUL,18.5681040383,6-2 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,1255,5,,
 2020-W-ITF-BUL-04A-2020,W15 Pazardzhik,Clay,32,15,20201026,204,221472,14,,Chiara Girelli,U,,ITA,17.8672142368,222096,,,Isabelle Kouzmanov,U,,USA,,2-6 6-4 10-7,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
-2020-W-ITF-BUL-04A-2020,W15 Pazardzhik,Clay,32,15,20201026,205,222225,5,,Sylvie Zund,U,,LIE,,222707,15,,Nikol Ruseva,U,,BUL,,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,1271,4,,
+2020-W-ITF-BUL-04A-2020,W15 Pazardzhik,Clay,32,15,20201026,205,222225,5,,Sylvie Zund,L,,LIE,19.6632443532,222707,15,,Nikol Ruseva,U,,BUL,,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,1271,4,,
 2020-W-ITF-BUL-04A-2020,W15 Pazardzhik,Clay,32,15,20201026,206,223322,,,Katerina Dimitrova ,U,,BGR,,221309,6,,Sofia Milatova,R,,SVK,19.9644079398,7-6(2) 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,,,1294,4
 2020-W-ITF-BUL-04A-2020,W15 Pazardzhik,Clay,32,15,20201026,207,220048,7,,Elena Jamshidi,R,,DEN,19.613963039,215864,9,,Anja Draskovic,U,,MNE,19.6851471595,6-4 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,1316,3,,
 2020-W-ITF-BUL-04A-2020,W15 Pazardzhik,Clay,32,15,20201026,208,220757,11,,Lia Karatancheva,U,,BUL,17.1334702259,215442,8,,Zinovia Vaneva,U,,BUL,20.9938398357,3-6 6-4 10-7,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
@@ -6768,7 +6768,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-GRE-04A-2020,W15 Heraklion,Clay,32,15,20200302,114,214860,,,Karola Patricia Bejenaru,R,,ROU,22.674880219,220633,,,Mariia Bergen,U,,UKR,18.7214236824,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,1106,9,1280,3
 2020-W-ITF-GRE-04A-2020,W15 Heraklion,Clay,32,15,20200302,115,222961,,,Alina Mukhortova,U,,RUS,,214717,,,Sabrina Rittberger,U,,GER,22.8227241615,6-3 3-6 10-7,3,Q1,,,,,,,,,,,,,,,,,,,,,,1280,3
 2020-W-ITF-GRE-04A-2020,W15 Heraklion,Clay,32,15,20200302,116,221059,12,,Noel Saidenova,U,,RUS,18.0670773443,221465,,,Sofia Rocchetti,R,,ITA,17.5249828884,6-0 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,1018,12,,
-2020-W-ITF-GRE-04A-2020,W15 Heraklion,Clay,32,15,20200302,118,222225,,,Sylvie Zund,U,,LIE,,222016,,,Marta Custic,R,,ESP,,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,1057,10
+2020-W-ITF-GRE-04A-2020,W15 Heraklion,Clay,32,15,20200302,118,222225,,,Sylvie Zund,L,,LIE,19.0116358658,222016,,,Marta Custic,R,,ESP,,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,1057,10
 2020-W-ITF-GRE-04A-2020,W15 Heraklion,Clay,32,15,20200302,119,221356,,,Caitlyn Portela,R,,AUS,17.3935660507,216219,,,Maria Gomez,R,,ECU,32.4380561259,4-1 RET,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-GRE-04A-2020,W15 Heraklion,Clay,32,15,20200302,120,213657,,,Martha Matoula,R,,GRE,22.8501026694,210993,7,,Ivania Martinich,U,,CHI,24.605065024,6-3 7-6(5),3,Q1,,,,,,,,,,,,,,,,,,,,,,968,14
 2020-W-ITF-GRE-04A-2020,W15 Heraklion,Clay,32,15,20200302,122,223184,,,Vanessa Ersoz,U,,SWE,,222826,,,Nikol Mishieva,U,,RUS,,6-0 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
@@ -6782,7 +6782,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-GRE-04A-2020,W15 Heraklion,Clay,32,15,20200302,206,214185,,,Diana Krasnova,U,,RUS,22.6940451745,220762,9,,Julia Lovqvist,R,,SWE,16.9911019849,5-7 6-1 10-1,3,Q2,,,,,,,,,,,,,,,,,,,,,,992,13
 2020-W-ITF-GRE-04A-2020,W15 Heraklion,Clay,32,15,20200302,207,214860,,,Karola Patricia Bejenaru,R,,ROU,22.674880219,216406,4,,Angeles Moreno Barranquero,U,,ESP,20.5804243669,6-1 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,1106,9,926,16
 2020-W-ITF-GRE-04A-2020,W15 Heraklion,Clay,32,15,20200302,208,221059,12,,Noel Saidenova,U,,RUS,18.0670773443,222961,,,Alina Mukhortova,U,,RUS,,4-6 7-5 10-3,3,Q2,,,,,,,,,,,,,,,,,,,,1018,12,,
-2020-W-ITF-GRE-04A-2020,W15 Heraklion,Clay,32,15,20200302,209,210645,5,,Elena Teodora Cadar,L,,ROU,26.0177960301,222225,,,Sylvie Zund,U,,LIE,,7-5 1-6 10-6,3,Q2,,,,,,,,,,,,,,,,,,,,917,17,,
+2020-W-ITF-GRE-04A-2020,W15 Heraklion,Clay,32,15,20200302,209,210645,5,,Elena Teodora Cadar,L,,ROU,26.0177960301,222225,,,Sylvie Zund,L,,LIE,19.0116358658,7-5 1-6 10-6,3,Q2,,,,,,,,,,,,,,,,,,,,917,17,,
 2020-W-ITF-GRE-04A-2020,W15 Heraklion,Clay,32,15,20200302,210,213657,,,Martha Matoula,R,,GRE,22.8501026694,221356,,,Caitlyn Portela,R,,AUS,17.3935660507,5-7 6-0 10-3,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-GRE-04A-2020,W15 Heraklion,Clay,32,15,20200302,211,214956,6,,Miriam Kolodziejova,R,,CZE,22.8911704312,223184,,,Vanessa Ersoz,U,,SWE,,6-0 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,957,14,,
 2020-W-ITF-GRE-04A-2020,W15 Heraklion,Clay,32,15,20200302,212,210776,,,Gabriela Duca,U,,ROU,25.4428473648,222760,,,Michaela Niedermeier,R,,GER,,6-0 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,1111,9,,
@@ -6793,7 +6793,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-GRE-04A-2020,W15 Heraklion,Clay,32,15,20200302,305,213657,,,Martha Matoula,R,,GRE,22.8501026694,210645,5,,Elena Teodora Cadar,L,,ROU,26.0177960301,4-6 6-2 10-8,3,Q3,,,,,,,,,,,,,,,,,,,,,,917,17
 2020-W-ITF-GRE-04A-2020,W15 Heraklion,Clay,32,15,20200302,306,214956,6,,Miriam Kolodziejova,R,,CZE,22.8911704312,210776,,,Gabriela Duca,U,,ROU,25.4428473648,6-2 6-0,3,Q3,,,,,,,,,,,,,,,,,,,,957,14,1111,9
 2020-W-ITF-GRE-05A-2020,W15 Heraklion,Clay,32,15,20200309,102,214185,,,Diana Krasnova,U,,RUS,22.71321013,222760,,,Michaela Niedermeier,R,,GER,,6-0 2-6 10-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
-2020-W-ITF-GRE-05A-2020,W15 Heraklion,Clay,32,15,20200309,103,222225,,,Sylvie Zund,U,,LIE,,221084,,,Olivia Malm,U,,SWE,17.3661875428,6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2020-W-ITF-GRE-05A-2020,W15 Heraklion,Clay,32,15,20200309,103,222225,,,Sylvie Zund,L,,LIE,19.0308008214,221084,,,Olivia Malm,U,,SWE,17.3661875428,6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-GRE-05A-2020,W15 Heraklion,Clay,32,15,20200309,104,221168,12,,Ilinca Dalina Amariei,U,,ROU,17.6098562628,213806,,,Gabriela Aura Zarnoveanu,U,,ROU,44.3258042437,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-GRE-05A-2020,W15 Heraklion,Clay,32,15,20200309,106,221465,,,Sofia Rocchetti,R,,ITA,17.5441478439,223269,,,Lucia Hanesova,U,,SVK,,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-GRE-05A-2020,W15 Heraklion,Clay,32,15,20200309,107,216408,,,Alice Viglianisi,U,,ITA,19.2525667351,216298,,,Elena Trencheva,U,,BUL,17.5715263518,4-6 7-5 10-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
@@ -6807,7 +6807,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-GRE-05A-2020,W15 Heraklion,Clay,32,15,20200309,122,222041,,,Maja Radenkovic,U,,SWE,,222848,,,Helena Spiridis,U,,AUS,,4-6 6-1 10-8,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-GRE-05A-2020,W15 Heraklion,Clay,32,15,20200309,123,222961,,,Alina Mukhortova,U,,RUS,,223184,,,Vanessa Ersoz,U,,SWE,,6-3 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-GRE-05A-2020,W15 Heraklion,Clay,32,15,20200309,201,221178,1,,Darya Astakhova,R,,RUS,18.1163586585,214185,,,Diana Krasnova,U,,RUS,22.71321013,6-0 4-6 10-5,3,Q2,,,,,,,,,,,,,,,,,,,,521,69,,
-2020-W-ITF-GRE-05A-2020,W15 Heraklion,Clay,32,15,20200309,202,222225,,,Sylvie Zund,U,,LIE,,221168,12,,Ilinca Dalina Amariei,U,,ROU,17.6098562628,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
+2020-W-ITF-GRE-05A-2020,W15 Heraklion,Clay,32,15,20200309,202,222225,,,Sylvie Zund,L,,LIE,19.0308008214,221168,12,,Ilinca Dalina Amariei,U,,ROU,17.6098562628,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-GRE-05A-2020,W15 Heraklion,Clay,32,15,20200309,203,221465,,,Sofia Rocchetti,R,,ITA,17.5441478439,220762,2,,Julia Lovqvist,R,,SWE,17.0102669405,6-2 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,,,994,13
 2020-W-ITF-GRE-05A-2020,W15 Heraklion,Clay,32,15,20200309,204,220633,11,,Mariia Bergen,U,,UKR,18.7405886379,216408,,,Alice Viglianisi,U,,ITA,19.2525667351,6-2 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,1283,3,,
 2020-W-ITF-GRE-05A-2020,W15 Heraklion,Clay,32,15,20200309,205,206211,3,,Anna Klasen,U,,GER,26.3134839151,221464,,,Ema Bolebruchova,R,,SVK,17.0349075975,6-2 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,1011,12,,
@@ -6818,7 +6818,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-GRE-05A-2020,W15 Heraklion,Clay,32,15,20200309,210,210776,7,,Gabriela Duca,U,,ROU,25.4620123203,222946,,,Maria Kallistrou,U,,GRE,,6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,1115,9,,
 2020-W-ITF-GRE-05A-2020,W15 Heraklion,Clay,32,15,20200309,211,222016,6,,Marta Custic,R,,ESP,,222041,,,Maja Radenkovic,U,,SWE,,7-5 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,1061,10,,
 2020-W-ITF-GRE-05A-2020,W15 Heraklion,Clay,32,15,20200309,212,212045,10,,Sinead Lohan,U,,IRL,25.0759753593,222961,,,Alina Mukhortova,U,,RUS,,6-1 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,1260,4,,
-2020-W-ITF-GRE-05A-2020,W15 Heraklion,Clay,32,15,20200309,301,221178,1,,Darya Astakhova,R,,RUS,18.1163586585,222225,,,Sylvie Zund,U,,LIE,,7-6(2) 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,521,69,,
+2020-W-ITF-GRE-05A-2020,W15 Heraklion,Clay,32,15,20200309,301,221178,1,,Darya Astakhova,R,,RUS,18.1163586585,222225,,,Sylvie Zund,L,,LIE,19.0308008214,7-6(2) 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,521,69,,
 2020-W-ITF-GRE-05A-2020,W15 Heraklion,Clay,32,15,20200309,302,221465,,,Sofia Rocchetti,R,,ITA,17.5441478439,220633,11,,Mariia Bergen,U,,UKR,18.7405886379,6-1 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,,,1283,3
 2020-W-ITF-GRE-05A-2020,W15 Heraklion,Clay,32,15,20200309,303,206211,3,,Anna Klasen,U,,GER,26.3134839151,219831,9,,Sem Wensveen,R,,NED,21.9137577002,2-6 6-1 10-5,3,Q3,,,,,,,,,,,,,,,,,,,,1011,12,1225,5
 2020-W-ITF-GRE-05A-2020,W15 Heraklion,Clay,32,15,20200309,304,221371,,,Lyubov Kostenko,R,,UKR,16.9500342231,221059,4,,Noel Saidenova,U,,RUS,18.0862422998,4-2 RET,3,Q3,,,,,,,,,,,,,,,,,,,,1098,9,1021,12
@@ -6978,7 +6978,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-GRE-12A-2020,W15 Heraklion,Clay,32,15,20201116,306,216160,6,,Ayumi Koshiishi,U,,JPN,20.3039014374,223406,,,Adela Moravcova,U,,CZE,,6-2 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,936,17,,
 2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,102,223404,,,Sabine Rutlauka,U,,LVA,,223407,,,Ellie Logotheti,U,,GRE,,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,106,220757,,,Lia Karatancheva,U,,BUL,17.2101300479,221733,,,Natalie Augustinova,U,,CZE,17.8179329227,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
-2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,107,222225,,,Sylvie Zund,U,,LIE,,221582,,,Carla Del Barrio,U,,ESP,19.8795345654,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,1273,4,,
+2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,107,222225,,,Sylvie Zund,L,,LIE,19.7399041752,221582,,,Carla Del Barrio,U,,ESP,19.8795345654,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,1273,4,,
 2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,110,216256,,,Linda Sevcikova,U,,CZE,22.4585900068,213896,,,Elina Nepliy,R,,RUS,23.0855578371,1-6 7-6(8) 13-11,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,111,221203,,,Alexandra Vasilyeva,U,,RUS,18.932238193,216054,,,Perla Nieuwboer,U,,NED,20.8815879535,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,1296,4
 2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,114,213581,,,Kristyna Hrabalova,U,,CZE,24.6406570842,223166,,,Nefeli Zafeiri,U,,GRE,,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,1320,3,,
@@ -6990,7 +6990,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,201,223404,,,Sabine Rutlauka,U,,LVA,,220174,1,,Shavit Kimchi,U,,ISR,18.8637919233,6-4 4-6 10-8,3,Q2,,,,,,,,,,,,,,,,,,,,,,909,19
 2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,202,216033,,,Alica Rusova,U,,SVK,22.7980835044,215505,11,,Laura Svatikova,R,,SVK,26.5708418891,7-5 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,1320,3,1195,7
 2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,203,216160,2,,Ayumi Koshiishi,U,,JPN,20.3230663929,220757,,,Lia Karatancheva,U,,BUL,17.2101300479,6-1 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,936,17,,
-2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,204,222225,,,Sylvie Zund,U,,LIE,,215627,8,,Nicole Khirin,U,,ISR,19.8521560575,6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,1273,4,1037,12
+2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,204,222225,,,Sylvie Zund,L,,LIE,19.7399041752,215627,8,,Nicole Khirin,U,,ISR,19.8521560575,6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,1273,4,1037,12
 2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,205,216256,,,Linda Sevcikova,U,,CZE,22.4585900068,219983,3,,Olga Helmi,R,,DEN,20.6598220397,W/O,3,Q2,,,,,,,,,,,,,,,,,,,,,,1044,12
 2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,206,221203,,,Alexandra Vasilyeva,U,,RUS,18.932238193,214479,10,,Yarden Akler,U,,ISR,21.5906913073,6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,,,1189,7
 2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,207,214860,4,,Karola Patricia Bejenaru,R,,ROU,23.4031485284,213581,,,Kristyna Hrabalova,U,,CZE,24.6406570842,6-2 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,1108,10,1320,3
@@ -7000,7 +7000,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,211,216057,,,Soumeya Anane,U,,GBR,27.2087611225,215153,6,,Kristin Younes,U,,ISR,19.6358658453,6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,,,1131,9
 2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,212,222156,9,,Silvia Ambrosio,U,,GER,,216227,,,Lola Marandel,U,,FRA,18.3682409309,6-0 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,1167,8,,
 2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,301,223404,,,Sabine Rutlauka,U,,LVA,,216033,,,Alica Rusova,U,,SVK,22.7980835044,6-4 4-6 10-4,3,Q3,,,,,,,,,,,,,,,,,,,,,,1320,3
-2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,302,216160,2,,Ayumi Koshiishi,U,,JPN,20.3230663929,222225,,,Sylvie Zund,U,,LIE,,6-3 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,936,17,1273,4
+2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,302,216160,2,,Ayumi Koshiishi,U,,JPN,20.3230663929,222225,,,Sylvie Zund,L,,LIE,19.7399041752,6-3 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,936,17,1273,4
 2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,303,216256,,,Linda Sevcikova,U,,CZE,22.4585900068,221203,,,Alexandra Vasilyeva,U,,RUS,18.932238193,6-2 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,304,214860,4,,Karola Patricia Bejenaru,R,,ROU,23.4031485284,210776,7,,Gabriela Duca,U,,ROU,26.1711156742,6-0 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,1108,10,1142,9
 2020-W-ITF-GRE-13A-2020,W15 Heraklion,Clay,32,15,20201123,305,221044,,,Danielle Daley,U,,GBR,20.4407939767,220495,,,Alicia Melosch,U,,GER,20.5995893224,2-6 6-3 11-9,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
@@ -7269,7 +7269,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-MEX-01A-2020,W25+H Irapuato,Hard,32,25,20200309,207,221100,12,,Charlotte Chavatipon,U,,USA,17.9055441478,215019,7,,Maria Jose Portillo Ramirez,R,,MEX,20.8377823409,7-5 3-6 10-6,3,Q2,,,,,,,,,,,,,,,,,,,,849,21,692,37
 2020-W-ITF-MEX-01A-2020,W25+H Irapuato,Hard,32,25,20200309,208,214562,8,,Ingrid Neel,U,,USA,21.7303216975,222262,15,,Jamilah Snells,U,,USA,,6-0 7-6(5),3,Q2,,,,,,,,,,,,,,,,,,,,695,37,,
 2020-W-ITF-MEX-02A-2020,W15 Cancun,Hard,32,15,20200113,306,220462,,,Sabina Dadaciu,R,,USA,18.7707049966,223069,,,Baylen Brown,U,,USA,,6-0 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
-2020-W-ITF-MEX-03A-2020,W15 Cancun,Hard,32,15,20200120,111,222225,,,Sylvie Zund,U,,LIE,,222363,,,Rachel Leighton,U,,USA,,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2020-W-ITF-MEX-03A-2020,W15 Cancun,Hard,32,15,20200120,111,222225,,,Sylvie Zund,L,,LIE,18.8966461328,222363,,,Rachel Leighton,U,,USA,,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-MEX-03A-2020,W15 Cancun,Hard,32,15,20200120,115,222608,,,Calissa Dellabarca,U,,USA,,222962,,,Sofia Matiushova,R,,RUS,,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-MEX-03A-2020,W15 Cancun,Hard,32,15,20200120,118,215085,,,Zoe Hitt,R,,USA,18.8692676249,223105,,,Emma Staker,U,,USA,,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-MEX-03A-2020,W15 Cancun,Hard,32,15,20200120,201,220560,1,,Lian Tran,R,,NED,17.5058179329,223012,,WC,Valeria Vigil Leal,U,,MEX,,6-0 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,1018,12,,
@@ -7277,7 +7277,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-MEX-03A-2020,W15 Cancun,Hard,32,15,20200120,203,222837,,,Malaika Rapolu,U,,USA,,215735,2,,Sara Lanca,U,,POR,22.8856947296,6-2 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,,,1021,12
 2020-W-ITF-MEX-03A-2020,W15 Cancun,Hard,32,15,20200120,204,222091,11,,Dylan Cline,U,,USA,,223106,,,Kiana Thompson,U,,USA,,6-2 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-MEX-03A-2020,W15 Cancun,Hard,32,15,20200120,205,215555,3,,Roosh Wijesundera,U,,USA,27.832991102,221729,,,Anna Borovinskaya,U,,USA,17.0047912389,6-2 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,1101,9,,
-2020-W-ITF-MEX-03A-2020,W15 Cancun,Hard,32,15,20200120,206,222225,,,Sylvie Zund,U,,LIE,,221994,9,,Demi Tran,R,,NED,19.1485284052,6-2 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
+2020-W-ITF-MEX-03A-2020,W15 Cancun,Hard,32,15,20200120,206,222225,,,Sylvie Zund,L,,LIE,18.8966461328,221994,9,,Demi Tran,R,,NED,19.1485284052,6-2 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-MEX-03A-2020,W15 Cancun,Hard,32,15,20200120,207,203583,4,,Mary Closs,U,,USA,24.4271047228,214961,,,Kimberly Mpukusa,U,,ZIM,22.264202601,6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,1154,7,,
 2020-W-ITF-MEX-03A-2020,W15 Cancun,Hard,32,15,20200120,208,222402,8,,Madison Appel,U,,USA,,222608,,,Calissa Dellabarca,U,,USA,,6-0 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-MEX-03A-2020,W15 Cancun,Hard,32,15,20200120,209,215085,,,Zoe Hitt,R,,USA,18.8692676249,221900,5,,Mio Kozaki,U,,JPN,15.9726214921,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,,,1193,6
@@ -7286,14 +7286,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-MEX-03A-2020,W15 Cancun,Hard,32,15,20200120,212,221481,12,,Utaka Kishigami,U,,JPN,23.7481177276,222925,,,Viktoria Kurz,R,,AUT,,6-0 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-MEX-03A-2020,W15 Cancun,Hard,32,15,20200120,301,220560,1,,Lian Tran,R,,NED,17.5058179329,221611,10,,Katya Ramirez,U,,MEX,19.7015742642,6-2 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,1018,12,,
 2020-W-ITF-MEX-03A-2020,W15 Cancun,Hard,32,15,20200120,302,222837,,,Malaika Rapolu,U,,USA,,222091,11,,Dylan Cline,U,,USA,,6-1 7-6(3),3,Q3,,,,,,,,,,,,,,,,,,,,,,,
-2020-W-ITF-MEX-03A-2020,W15 Cancun,Hard,32,15,20200120,303,215555,3,,Roosh Wijesundera,U,,USA,27.832991102,222225,,,Sylvie Zund,U,,LIE,,3-6 6-2 10-7,3,Q3,,,,,,,,,,,,,,,,,,,,1101,9,,
+2020-W-ITF-MEX-03A-2020,W15 Cancun,Hard,32,15,20200120,303,215555,3,,Roosh Wijesundera,U,,USA,27.832991102,222225,,,Sylvie Zund,L,,LIE,18.8966461328,3-6 6-2 10-7,3,Q3,,,,,,,,,,,,,,,,,,,,1101,9,,
 2020-W-ITF-MEX-03A-2020,W15 Cancun,Hard,32,15,20200120,304,222402,8,,Madison Appel,U,,USA,,203583,4,,Mary Closs,U,,USA,24.4271047228,6-3 6-7(1) 10-7,3,Q3,,,,,,,,,,,,,,,,,,,,,,1154,7
 2020-W-ITF-MEX-03A-2020,W15 Cancun,Hard,32,15,20200120,305,221361,,,Honoka Uchiyama,U,,JPN,17.8206707734,215085,,,Zoe Hitt,R,,USA,18.8692676249,2-6 6-2 10-6,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-MEX-03A-2020,W15 Cancun,Hard,32,15,20200120,306,222198,6,,Emma Davis,U,,USA,,221481,12,,Utaka Kishigami,U,,JPN,23.7481177276,6-2 7-5,3,Q3,,,,,,,,,,,,,,,,,,,,1210,5,,
 2020-W-ITF-MEX-04A-2020,W15 Cancun,Hard,32,15,20200127,103,221633,,,Sophie Williams,U,,USA,15.9397672827,220787,,,Saara Aerila,U,,FIN,22.2286105407,6-3 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-MEX-04A-2020,W15 Cancun,Hard,32,15,20200127,106,222048,,,Romary Cardenas Rifka,U,,MEX,,214961,,,Kimberly Mpukusa,U,,ZIM,22.2833675565,7-5 2-0 RET,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-MEX-04A-2020,W15 Cancun,Hard,32,15,20200127,110,222351,,,Gala Arangio,U,,MEX,,222963,,,Brooke Thompson,U,,USA,,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
-2020-W-ITF-MEX-04A-2020,W15 Cancun,Hard,32,15,20200127,114,222225,,,Sylvie Zund,U,,LIE,,216164,,,Hind Abdelouahid,R,,USA,20.9117043121,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2020-W-ITF-MEX-04A-2020,W15 Cancun,Hard,32,15,20200127,114,222225,,,Sylvie Zund,L,,LIE,18.9158110883,216164,,,Hind Abdelouahid,R,,USA,20.9117043121,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-MEX-04A-2020,W15 Cancun,Hard,32,15,20200127,118,221611,,,Katya Ramirez,U,,MEX,19.7207392197,221926,,,Yureni Reyna Gomez,U,,MEX,16.8186173854,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-MEX-04A-2020,W15 Cancun,Hard,32,15,20200127,119,222509,,,Misa Malkin,U,,USA,,222962,,,Sofia Matiushova,R,,RUS,,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-MEX-04A-2020,W15 Cancun,Hard,32,15,20200127,122,220571,,,Liisa Vehvilainen,U,,FIN,18.7460643395,222925,,,Viktoria Kurz,R,,AUT,,6-0 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
@@ -7304,7 +7304,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-MEX-04A-2020,W15 Cancun,Hard,32,15,20200127,204,221361,,,Honoka Uchiyama,U,,JPN,17.839835729,221900,8,,Mio Kozaki,U,,JPN,15.9917864476,6-1 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,,,1193,6
 2020-W-ITF-MEX-04A-2020,W15 Cancun,Hard,32,15,20200127,205,214777,3,,Taylor Ng,U,,USA,24.4928131417,222351,,,Gala Arangio,U,,MEX,,6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,1003,12,,
 2020-W-ITF-MEX-04A-2020,W15 Cancun,Hard,32,15,20200127,206,223108,,,Cora Stefanie Barber,U,,GER,,203583,7,,Mary Closs,U,,USA,24.4462696783,7-6(3) 7-6(6),3,Q2,,,,,,,,,,,,,,,,,,,,,,1154,7
-2020-W-ITF-MEX-04A-2020,W15 Cancun,Hard,32,15,20200127,207,220891,4,,Kylie Collins,R,,USA,17.1471594798,222225,,,Sylvie Zund,U,,LIE,,6-1 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,1007,12,,
+2020-W-ITF-MEX-04A-2020,W15 Cancun,Hard,32,15,20200127,207,220891,4,,Kylie Collins,R,,USA,17.1471594798,222225,,,Sylvie Zund,L,,LIE,18.9158110883,6-1 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,1007,12,,
 2020-W-ITF-MEX-04A-2020,W15 Cancun,Hard,32,15,20200127,208,222837,,,Malaika Rapolu,U,,USA,,216104,11,,Alexandra Anttila,R,,FIN,18.4914442163,7-6(3) 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,,,1258,4
 2020-W-ITF-MEX-04A-2020,W15 Cancun,Hard,32,15,20200127,209,215735,5,,Sara Lanca,U,,POR,22.9048596851,221611,,,Katya Ramirez,U,,MEX,19.7207392197,6-0 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,1021,12,,
 2020-W-ITF-MEX-04A-2020,W15 Cancun,Hard,32,15,20200127,210,222509,,,Misa Malkin,U,,USA,,211452,10,,Eva Raszkiewicz,U,,USA,27.0965092402,6-0 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,,,1240,4
@@ -7322,7 +7322,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-MEX-05A-2020,W15 Cancun,Hard,32,15,20200203,203,222509,2,,Misa Malkin,U,,USA,,223202,,,Andressa Silva Gomes,U,,BRA,,6-0 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-MEX-05A-2020,W15 Cancun,Hard,32,15,20200203,204,221741,,,Abigail Rencheli,R,,MDA,17.8316221766,216011,7,,Koral Koldobski,U,,ISR,18.4010951403,6-1 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-MEX-05A-2020,W15 Cancun,Hard,32,15,20200203,205,221994,3,,Demi Tran,R,,NED,19.1868583162,223148,,,Soline Hupin Marler,U,,CAN,,6-0 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
-2020-W-ITF-MEX-05A-2020,W15 Cancun,Hard,32,15,20200203,206,221633,,,Sophie Williams,U,,USA,15.9589322382,222225,12,,Sylvie Zund,U,,LIE,,W/O,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
+2020-W-ITF-MEX-05A-2020,W15 Cancun,Hard,32,15,20200203,206,221633,,,Sophie Williams,U,,USA,15.9589322382,222225,12,,Sylvie Zund,L,,LIE,18.9349760438,W/O,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-MEX-05A-2020,W15 Cancun,Hard,32,15,20200203,207,211841,4,,Eleonore Tchakarova,R,,BUL,25.5167693361,220665,,,Brittany Collens,R,,USA,24.8323066393,6-1 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-MEX-05A-2020,W15 Cancun,Hard,32,15,20200203,208,220571,8,,Liisa Vehvilainen,U,,FIN,18.765229295,214961,,,Kimberly Mpukusa,U,,ZIM,22.302532512,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-MEX-05A-2020,W15 Cancun,Hard,32,15,20200203,209,221611,5,,Katya Ramirez,U,,MEX,19.7399041752,222401,,,Lola Mireille Glantz,U,,GER,,0-6 7-5 11-9,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
@@ -8092,7 +8092,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-W-ITF-TUN-32A-2020,W15 Monastir,Hard,32,15,20200928,207,221345,7,,Alina Michalitsch,U,,AUT,20.6844626968,221974,13,,Sarah Lisa Aubertin,U,,TUN,,4-6 6-2 10-7,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-TUN-32A-2020,W15 Monastir,Hard,32,15,20200928,208,222036,12,,Zoe Howard,U,,USA,,220492,8,,Chantal Sauvant,U,,GER,18.392881588,7-6(2) 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-TUN-33A-2020,W15 Monastir,Hard,32,15,20201005,205,214974,5,,Francesca Delledera,U,,ITA,24.2710472279,222925,,,Viktoria Kurz,R,,AUT,,6-0 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
-2020-W-ITF-TUN-33A-2020,W15 Monastir,Hard,32,15,20201005,206,222225,6,,Sylvie Zund,U,,LIE,,221767,,WC,Wiem Boubaker,U,,TUN,17.3415468857,3-6 6-1 11-9,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
+2020-W-ITF-TUN-33A-2020,W15 Monastir,Hard,32,15,20201005,206,222225,6,,Sylvie Zund,L,,LIE,19.6057494867,221767,,WC,Wiem Boubaker,U,,TUN,17.3415468857,3-6 6-1 11-9,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-TUN-33A-2020,W15 Monastir,Hard,32,15,20201005,207,221258,,,Laura Boehner,U,,GER,19.1841204654,220133,7,,Ilaria Sposetti,U,,ITA,20.0328542094,5-7 7-6(5) 10-7,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-TUN-33A-2020,W15 Monastir,Hard,32,15,20201005,208,222916,9,,Marija Semenistaja,U,,LAT,,221392,8,,Angelina Graovac,U,,AUS,18.9130732375,7-5 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2020-W-ITF-TUN-35A-2020,W15 Monastir,Hard,32,15,20201019,206,222940,,,Zofia Podbiol,U,,POL,,215239,6,,Diana Maria Mihail,R,,ROU,20.1779603012,6-3 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,,,1316,3
@@ -9447,7 +9447,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2020-1082,Prague,Clay,32,I,20200810,243,211684,,,Magdalena Frech,R,,POL,22.6529774127,215219,7,,Kaja Juvan,R,,SLO,19.7070499658,3-6 6-3 6-4,3,Q2,134,0,3,100,60,35,22,14,7,11,0,2,78,48,29,15,14,4,9,174,360,111,604
 2020-1082,Prague,Clay,32,I,20200810,242,205918,,,Ulrikke Eikeri,U,,NOR,27.6495550992,210754,,Alt,Vivian Heisen,U,,GER,26.6201232033,6-1 7-5,3,Q1,75,0,6,53,27,22,13,10,1,3,1,9,60,33,21,8,9,7,12,248,240,425,101
 2020-1082,Prague,Clay,32,I,20200810,241,210886,,,Mayar Sherif,U,,EGY,24.2655715264,202579,,,Giulia Gatto Monticone,R,,ITA,32.7282683094,6-3 6-2,3,Q1,82,0,3,50,38,29,6,9,2,3,0,5,60,36,21,10,8,3,7,172,362,154,415
-2020-1082,Prague,Clay,32,I,20200810,240,202578,,,Laura Ioana Andrei,R,,ROU,32.1943874059,222328,,WC,Linda Noskova,U,,CZE,,6-2 6-0,3,Q1,50,0,1,34,22,20,8,7,0,0,2,2,42,19,9,9,7,0,5,199,307,1097,9
+2020-1082,Prague,Clay,32,I,20200810,240,202578,,,Laura Ioana Andrei,R,,ROU,32.1943874059,222328,,WC,Linda Noskova,R,,CZE,15.7289527721,6-2 6-0,3,Q1,50,0,1,34,22,20,8,7,0,0,2,2,42,19,9,9,7,0,5,199,307,1097,9
 2020-1082,Prague,Clay,32,I,20200810,239,215259,,,Leonie Kung,R,,SUI,19.8028747433,214643,5,,Ludmilla Samsonova,R,,RUS,21.7467488022,6-2 6-2,3,Q1,68,1,0,40,28,20,9,8,0,1,2,5,50,23,14,10,8,7,12,157,408,119,569
 2020-1082,Prague,Clay,32,I,20200810,238,216146,,,Marta Kostyuk,R,,UKR,18.1190965092,204431,2,,Anna Lena Friedsam,R,,GER,26.5215605749,6-2 6-4,3,Q1,81,0,7,64,46,30,5,9,2,6,1,2,66,36,16,12,9,6,13,140,460,107,629
 2020-1082,Prague,Clay,32,I,20200810,236,206335,,,Jesika Maleckova,R,,CZE,25.9849418207,202418,,,Lara Arruabarrena,R,166,ESP,28.3915126626,6-4 2-6 6-4,3,Q1,159,5,8,101,40,26,26,14,5,11,4,8,134,74,43,28,14,15,21,316,166,149,428
