@@ -13,7 +13,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-EGY-01A-2021,W15 Cairo,Clay,32,15,20210104,112,209576,,,Barbora Matusova,R,,CZE,30.7186858316,205873,3,,Anna Morgina,R,,RUS,29.3744010951,6-4 6-7(1) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,787,28,511,81
 2021-W-ITF-EGY-01A-2021,W15 Cairo,Clay,32,15,20210104,113,205875,,7 WC,Chantal Skamlova,R,,SVK,27.3347022587,213974,,,Lamis Alhussein Abdel Aziz,U,,EGY,22.6995208761,6-3 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,582,62,712,39
 2021-W-ITF-EGY-01A-2021,W15 Cairo,Clay,32,15,20210104,114,221083,,,Aya El Sayed,U,,EGY,19.5975359343,221256,,,Eline Audenaert,U,,BEL,21.5989048597,3-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1081,11,1123,10
-2021-W-ITF-EGY-01A-2021,W15 Cairo,Clay,32,15,20210104,115,219792,,,Anastasia Sukhotina,L,,RUS,20.8131416838,223120,,Q,Briana Szabo,U,,ROU,,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,744,34,,
+2021-W-ITF-EGY-01A-2021,W15 Cairo,Clay,32,15,20210104,115,219792,,,Anastasia Sukhotina,L,,RUS,20.8131416838,223120,,Q,Briana Szabo,U,,ROU,15.1074606434,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,744,34,,
 2021-W-ITF-EGY-01A-2021,W15 Cairo,Clay,32,15,20210104,116,211529,,2 WC,Sandra Samir,R,,EGY,23.1676933607,223674,,Q,Nouray Metwally,U,,EGY,,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,344,151,,
 2021-W-ITF-EGY-01A-2021,W15 Cairo,Clay,32,15,20210104,201,202581,1,,Chanel Simmonds,L,,RSA,28.4024640657,230120,,Q,Elena Grekul,U,,UKR,,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,337,158,,
 2021-W-ITF-EGY-01A-2021,W15 Cairo,Clay,32,15,20210104,202,222601,,,Jessica Bouzas Maneiro,R,,ESP,18.2806297057,213737,5,,Anastasia Evgenyevna Nefedova,R,,RUS,21.9822039699,6-1 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,855,23,558,67
@@ -35,7 +35,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,103,223671,,Q,Aya El Aouni,U,,MAR,,209576,,,Barbora Matusova,R,,CZE,30.7378507871,6-4 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,788,28
 2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,104,213737,7,,Anastasia Evgenyevna Nefedova,R,,RUS,22.0013689254,221256,,WC,Eline Audenaert,U,,BEL,21.6180698152,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,558,67,1124,10
 2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,105,213908,,3 Q,Yuriko Miyazaki,R,,JPN,25.1690622861,230124,,Q,Adele Burato,U,,ITA,,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,347,148,,
-2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,106,213585,,WC,Hana Mortagy,R,,EGY,22.5708418891,223120,,Q,Briana Szabo,U,,ROU,,6-4 6-7(3) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,106,213585,,WC,Hana Mortagy,R,,EGY,22.5708418891,223120,,Q,Briana Szabo,U,,ROU,15.1266255989,6-4 6-7(3) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,107,220732,,,Lexie Stevens,R,,NED,21.5961670089,222198,,,Emma Davis,R,,USA,23.8247775496,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,603,57,974,15
 2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,108,213714,6,,Fanny Ostlund,R,,SWE,23.6878850103,221467,,,Alessandra Simone,U,,ITA,17.28678987,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,514,80,1330,3
 2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,109,222601,,,Jessica Bouzas Maneiro,R,,ESP,18.2997946612,202435,8,,Vanda Lukacs,U,,HUN,28.0930869268,6-4 3-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,855,23,574,64
@@ -69,7 +69,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,106,221139,,,Ziva Falkner,U,,SLO,18.5352498289,221467,,WC,Alessandra Simone,U,,ITA,17.3059548255,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,940,17,1331,3
 2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,107,220589,,,Elina Avanesyan,U,,RUS,18.3381245722,222458,,,Pia Lovric,R,,SLO,18.7405886379,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,644,50,842,24
 2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,108,213714,6,,Fanny Ostlund,R,,SWE,23.7070499658,230874,,Q,Mai Elkamash,U,,EGY,,6-4 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,510,82,,
-2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,109,205873,5,,Anna Morgina,R,,RUS,29.4127310062,223120,,Q,Briana Szabo,U,,ROU,,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,515,81,,
+2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,109,205873,5,,Anna Morgina,R,,RUS,29.4127310062,223120,,Q,Briana Szabo,U,,ROU,15.1457905544,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,515,81,,
 2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,110,221468,,Q,Lucie Nguyen Tan,U,,FRA,17.6399726215,220286,,Q,Gloria Ceschi,U,,ITA,22.6557152635,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1024,13
 2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,111,213849,,,Nicole Fossa Huergo,U,,ITA,25.6509240246,221469,,,Beatrice Ricci,U,,ITA,17.5359342916,3-6 7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,768,31,,
 2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,112,211296,4,,Dea Herdzelas,R,,BIH,24.1971252567,221474,,Q,Yasmin Ezzat,U,,EGY,17.3963039014,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,411,114,,
@@ -598,7 +598,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-USA-01A-2021,W60 Rome GA,Hard,32,60,20210125,401,202479,,,Grace Min,R,,USA,26.7241615332,211765,,Q,Emina Bektas,U,,USA,27.8247775496,6-0 6-3,3,SF,,,,,,,,,,,,,,,,,,,,250,258,421,110
 2021-W-ITF-USA-01A-2021,W60 Rome GA,Hard,32,60,20210125,402,213706,,Q,Irene Burillo Escorihuela,U,,ESP,23.5099247091,204419,,Q,Ana Sofia Sanchez,L,,MEX,26.7871321013,5-7 6-2 7-5,3,SF,,,,,,,,,,,,,,,,,,,,331,162,320,178
 2021-W-ITF-USA-01A-2021,W60 Rome GA,Hard,32,60,20210125,501,213706,,Q,Irene Burillo Escorihuela,U,,ESP,23.5099247091,202479,,,Grace Min,R,,USA,26.7241615332,1-6 7-6(4) 6-1,3,F,,,,,,,,,,,,,,,,,,,,331,162,250,258
-2021-W-ITF-EGY-01A-2021,W15 Cairo,Clay,32,15,20210104,118,223120,,,Briana Szabo,U,,ROU,,223676,,,Leena Metwally,U,,EGY,,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2021-W-ITF-EGY-01A-2021,W15 Cairo,Clay,32,15,20210104,118,223120,,,Briana Szabo,U,,ROU,15.1074606434,223676,,,Leena Metwally,U,,EGY,,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-01A-2021,W15 Cairo,Clay,32,15,20210104,201,220240,1,,Farah Khalil,U,,EGY,,230123,,,Hams Metwali,U,,EGY,,7-5 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-01A-2021,W15 Cairo,Clay,32,15,20210104,202,230124,,,Adele Burato,U,,ITA,,230125,,,Nour Hassan Moustafa,U,,EGY,,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-01A-2021,W15 Cairo,Clay,32,15,20210104,203,221474,2,,Yasmin Ezzat,U,,EGY,17.3579739904,230126,,,Habiba Elgerby,U,,EGY,,6-1 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
@@ -607,7 +607,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-EGY-01A-2021,W15 Cairo,Clay,32,15,20210104,206,222235,,,Maria Del Mar Gabriela Sanchez Ramirez,U,,MEX,,223675,,,Farah Haitham Kassem,U,,EGY,,6-4 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-01A-2021,W15 Cairo,Clay,32,15,20210104,207,221992,4,,Mariam Samy,U,,EGY,,221082,,,Lina Boylan,U,,USA,18.2176591376,4-6 6-1 10-8,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-01A-2021,W15 Cairo,Clay,32,15,20210104,208,230128,,,Renad Ayman Maamoun,U,,EGY,,222997,,,Lana Kamel,U,,EGY,,6-3 5-7 11-9,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
-2021-W-ITF-EGY-01A-2021,W15 Cairo,Clay,32,15,20210104,209,223120,,,Briana Szabo,U,,ROU,,221729,5,,Anna Borovinskaya,U,,USA,17.9630390144,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
+2021-W-ITF-EGY-01A-2021,W15 Cairo,Clay,32,15,20210104,209,223120,,,Briana Szabo,U,,ROU,15.1074606434,221729,5,,Anna Borovinskaya,U,,USA,17.9630390144,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-01A-2021,W15 Cairo,Clay,32,15,20210104,210,223672,,,Kenzy Sherif Elhamrawy,U,,EGY,,230129,,,Hana Abd El Hamid ,U,,EGY,,6-3 7-6(2),3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-01A-2021,W15 Cairo,Clay,32,15,20210104,211,223252,6,,Shahd Habib,U,,EGY,,223295,,,Habiba Allah El Sheikh,U,,EGY,,6-0 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-01A-2021,W15 Cairo,Clay,32,15,20210104,212,223677,,,Malak Naim,U,,EGY,,222600,,7 WC,Kenzy Ramy,R,,EGY,,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
@@ -615,7 +615,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-EGY-01A-2021,W15 Cairo,Clay,32,15,20210104,302,230120,,,Elena Grekul,U,,UKR,,221474,2,,Yasmin Ezzat,U,,EGY,17.3579739904,6-2 6-0,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-01A-2021,W15 Cairo,Clay,32,15,20210104,303,223674,,,Nouray Metwally,U,,EGY,,222235,,,Maria Del Mar Gabriela Sanchez Ramirez,U,,MEX,,6-3 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-01A-2021,W15 Cairo,Clay,32,15,20210104,304,221992,4,,Mariam Samy,U,,EGY,,230128,,,Renad Ayman Maamoun,U,,EGY,,6-1 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
-2021-W-ITF-EGY-01A-2021,W15 Cairo,Clay,32,15,20210104,305,223120,,,Briana Szabo,U,,ROU,,223672,,,Kenzy Sherif Elhamrawy,U,,EGY,,6-2 6-0,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
+2021-W-ITF-EGY-01A-2021,W15 Cairo,Clay,32,15,20210104,305,223120,,,Briana Szabo,U,,ROU,15.1074606434,223672,,,Kenzy Sherif Elhamrawy,U,,EGY,,6-2 6-0,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-01A-2021,W15 Cairo,Clay,32,15,20210104,306,223677,,,Malak Naim,U,,EGY,,223252,6,,Shahd Habib,U,,EGY,,7-5 6-0,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,102,230123,,WC,Hams Metwali,U,,EGY,,230126,,,Habiba Elgerby,U,,EGY,,6-1 3-6 10-6,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,103,222973,,,Mariam Hatem Ibrahim,R,,EGY,,223673,,,Mariam Eltaweel,U,,EGY,,6-2 7-6(3),3,Q1,,,,,,,,,,,,,,,,,,,,,,,
@@ -624,7 +624,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,107,230874,,,Mai Elkamash,U,,EGY,,230129,,,Hana Abd El Hamid ,U,,EGY,,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,108,223671,10,,Aya El Aouni,U,,MAR,,230875,,,Oriana Parkins Godwin,U,,GBR,,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,110,221729,,,Anna Borovinskaya,U,,USA,17.9822039699,223088,,,Engy Abouelseoud,U,,EGY,,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
-2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,111,223120,,,Briana Szabo,U,,ROU,,223676,,,Leena Metwally,U,,EGY,,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,111,223120,,,Briana Szabo,U,,ROU,15.1266255989,223676,,,Leena Metwally,U,,EGY,,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,112,230876,,,Viola Turini ,U,,ITA,,220133,7,,Ilaria Sposetti,U,,ITA,20.3011635866,4-6 6-1 10-5,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,114,223674,,,Nouray Metwally,U,,EGY,,221082,,,Lina Boylan,U,,USA,18.2368240931,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,115,223675,,,Farah Haitham Kassem,U,,EGY,,223067,,,Lama Nabil,U,,EGY,,1-6 6-4 10-7,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
@@ -642,7 +642,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,203,230873,,WC,Jana Elgebily ,U,,EGY,,221083,2,,Aya El Sayed,U,,EGY,19.6167008898,W/O,3,Q2,,,,,,,,,,,,,,,,,,,,,,1081,11
 2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,204,223671,10,,Aya El Aouni,U,,MAR,,230874,,,Mai Elkamash,U,,EGY,,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,205,215222,3,,Saumya Vig,L,,IND,25.9110198494,221729,,,Anna Borovinskaya,U,,USA,17.9822039699,3-6 6-2 11-9,3,Q2,,,,,,,,,,,,,,,,,,,,1306,4,,
-2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,206,223120,,,Briana Szabo,U,,ROU,,230876,,,Viola Turini ,U,,ITA,,7-5 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
+2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,206,223120,,,Briana Szabo,U,,ROU,15.1266255989,230876,,,Viola Turini ,U,,ITA,,7-5 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,207,221473,4,,Merna Refaat,U,,EGY,16.4052019165,223674,,,Nouray Metwally,U,,EGY,,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,208,221474,12,,Yasmin Ezzat,U,,EGY,17.3771389459,223675,,,Farah Haitham Kassem,U,,EGY,,6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,209,222028,5,,Nada Fouad,U,,EGY,,224482,,,Smriti Bhasin,U,,IND,,6-4 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
@@ -651,12 +651,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,212,222614,,,Nathalie Mokhtar,U,,EGY,,230878,,,Chantal Kamel,U,,EGY,,6-0 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,301,213908,1,,Yuriko Miyazaki,R,,JPN,25.1690622861,221282,9,,Veronika Bokor,U,,AUT,20.8295687885,6-2 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,347,148,,
 2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,302,223671,10,,Aya El Aouni,U,,MAR,,230873,,WC,Jana Elgebily ,U,,EGY,,6-0 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
-2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,303,223120,,,Briana Szabo,U,,ROU,,215222,3,,Saumya Vig,L,,IND,25.9110198494,6-3 6-0,3,Q3,,,,,,,,,,,,,,,,,,,,,,1306,4
+2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,303,223120,,,Briana Szabo,U,,ROU,15.1266255989,215222,3,,Saumya Vig,L,,IND,25.9110198494,6-3 6-0,3,Q3,,,,,,,,,,,,,,,,,,,,,,1306,4
 2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,304,221474,12,,Yasmin Ezzat,U,,EGY,17.3771389459,221473,4,,Merna Refaat,U,,EGY,16.4052019165,6-2 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,305,230124,,,Adele Burato,U,,ITA,,222028,5,,Nada Fouad,U,,EGY,,4-6 6-2 10-6,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-02A-2021,W15 Cairo,Clay,32,15,20210111,306,221629,,6 WC,Hla El Sakka,R,,EGY,17.7193702943,222614,,,Nathalie Mokhtar,U,,EGY,,7-6(8) 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,101,223164,,1 WC,Maria Bondarenko,R,,RUS,17.7796030116,230128,,,Renad Ayman Maamoun,U,,EGY,,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,956,16,,
-2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,102,223120,,,Briana Szabo,U,,ROU,,223672,,,Kenzy Sherif Elhamrawy,U,,EGY,,6-0 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,102,223120,,,Briana Szabo,U,,ROU,15.1457905544,223672,,,Kenzy Sherif Elhamrawy,U,,EGY,,6-0 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,103,230125,,,Nour Hassan Moustafa,U,,EGY,,215297,,,Anastassia Pantelic,R,,SRB,22.6310746064,6-1 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,104,221282,10,,Veronika Bokor,U,,AUT,20.848733744,223067,,,Lama Nabil,U,,EGY,,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,105,222198,2,,Emma Davis,R,,USA,23.8439425051,223677,,WC,Malak Naim,U,,EGY,,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,975,15,,
@@ -679,7 +679,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,122,222615,,,Sharannya Gaware,L,,IND,,223252,,,Shahd Habib,U,,EGY,,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,123,223150,,,Ela Platenikova,U,,SVK,,231631,,,Salma Yassin Hosny,U,,EGY,,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,124,221468,,,Lucie Nguyen Tan,U,,FRA,17.6399726215,222698,12,,Farida Sabra,U,,EGY,,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
-2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,201,223120,,,Briana Szabo,U,,ROU,,223164,,1 WC,Maria Bondarenko,R,,RUS,17.7796030116,3-6 6-4 10-6,3,Q2,,,,,,,,,,,,,,,,,,,,,,956,16
+2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,201,223120,,,Briana Szabo,U,,ROU,15.1457905544,223164,,1 WC,Maria Bondarenko,R,,RUS,17.7796030116,3-6 6-4 10-6,3,Q2,,,,,,,,,,,,,,,,,,,,,,956,16
 2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,202,221282,10,,Veronika Bokor,U,,AUT,20.848733744,230125,,,Nour Hassan Moustafa,U,,EGY,,6-0 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,203,222198,2,,Emma Davis,R,,USA,23.8439425051,231626,,WC,Layla Shoukry,U,,EGY,,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,975,15,,
 2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,204,230124,,,Adele Burato,U,,ITA,,222614,,,Nathalie Mokhtar,U,,EGY,,6-3 6-7(4) 11-9,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
@@ -691,7 +691,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,210,230874,,WC,Mai Elkamash,U,,EGY,,220133,7,,Ilaria Sposetti,U,,ITA,20.3203285421,6-3 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,211,221473,6,,Merna Refaat,U,,EGY,16.424366872,222615,,,Sharannya Gaware,L,,IND,,3-6 7-6(5) 10-8,3,Q2,,,,,,,,,,,,,,,,,,,,1282,4,,
 2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,212,221468,,,Lucie Nguyen Tan,U,,FRA,17.6399726215,223150,,,Ela Platenikova,U,,SVK,,6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
-2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,301,223120,,,Briana Szabo,U,,ROU,,221282,10,,Veronika Bokor,U,,AUT,20.848733744,6-3 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
+2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,301,223120,,,Briana Szabo,U,,ROU,15.1457905544,221282,10,,Veronika Bokor,U,,AUT,20.848733744,6-3 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,302,222198,2,,Emma Davis,R,,USA,23.8439425051,230124,,,Adele Burato,U,,ITA,,7-5 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,975,15,,
 2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,303,220286,3,,Gloria Ceschi,U,,ITA,22.6557152635,230875,,,Oriana Parkins Godwin,U,,GBR,,6-2 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,1024,13,,
 2021-W-ITF-EGY-03A-2021,W15 Cairo,Clay,32,15,20210118,304,221474,,,Yasmin Ezzat,U,,EGY,17.3963039014,222847,,,Vanessa Ioana Georgiana Popa Teiusanu,U,,ROU,,6-2 4-6 10-5,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
