@@ -2368,7 +2368,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-W-WT-JPN-01A-1992,Tokyo Indoor,Carpet,28,W,19920128,9,200086,,,Magdalena Maleeva,R,168,BUL,16.8268309377,200554,,,Brenda Schultz Mccarthy,R,,NED,21.0841889117,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,39,25,28,31
 1992-W-WT-JPN-01A-1992,Tokyo Indoor,Carpet,28,W,19920128,10,200630,8,,Laura Gildemeister,U,,PER,28.0438056126,200959,,,Mareen Louie Harper,R,,USA,31.4524298426,&nbsp;,3,R32,,,,,,,,,,,,,,,,,,,,22,41,72,17
 1992-W-WT-JPN-01A-1992,Tokyo Indoor,Carpet,28,W,19920128,11,200495,,,Akiko Kijimuta,U,,JPN,23.742642026,200659,,LL,Rika Hiraki,U,,JPN,20.1451060917,0-6 6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,110,11,114,10
-1992-W-WT-JPN-01A-1992,Tokyo Indoor,Carpet,28,W,19920128,12,200653,,,Yayuk Basuki,R,,INA,21.1608487337,200287,,,Miki Yokobori,U,,JPN,,0-6 6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,33,29,336,2
+1992-W-WT-JPN-01A-1992,Tokyo Indoor,Carpet,28,W,19920128,12,200653,,,Yayuk Basuki,R,,INA,21.1608487337,200287,,,Miki Yokobori,U,,JPN,16.7118412047,0-6 6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,33,29,336,2
 1992-W-WT-JPN-01A-1992,Tokyo Indoor,Carpet,28,W,19920128,13,200572,1,,Gabriela Sabatini,R,,ARG,21.7029431896,200676,,,Mana Endo,U,,JPN,20.9746748802,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,3,212,92,13
 1992-W-WT-JPN-01A-1992,Tokyo Indoor,Carpet,28,W,19920128,14,200360,,,Pam Shriver,R,,USA,29.568788501,200428,6,,Lori Mcneil,U,,USA,28.1122518823,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,41,25,21,44
 1992-W-WT-JPN-01A-1992,Tokyo Indoor,Carpet,28,W,19920128,15,200017,3,,Arantxa Sanchez Vicario,R,,ESP,20.1122518823,200105,,,Rachel Mcquillan,U,,AUS,20.1560574949,3-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,5,151,32,29
@@ -2452,47 +2452,47 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-D002,Fed Cup WG PO: ISR vs SUI,Clay,4,D,19920716,2,200401,,,Manuela Maleeva Fragniere,R,,SUI,25.4182067077,200040,,,Anna Smashnova,R,,ISR,16.0,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,9,79,237,4
 1992-D003,Fed Cup WG R1: POL vs ISR,Clay,4,D,19920713,1,200710,,,Magdalena Feistel,U,,POL,21.8918548939,201629,,,Yael Segal,U,,ISR,19.9780971937,4-6 6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,293,2,379,1
 1992-D003,Fed Cup WG R1: POL vs ISR,Clay,4,D,19920713,2,200687,,,Katarzyna Nowak,U,,POL,23.4962354552,200040,,,Anna Smashnova,R,,ISR,15.9917864476,6-2 6-7(7) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,120,10,237,4
-1992-D004,Fed Cup G1 RRC: COL vs BOL,Clay,4,D,19920422,1,203929,,,Giana Gutierrez,U,,COL,15.8959616701,212346,,,Sandra Kellemberger,,,BOL,15.7864476386,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1992-D004,Fed Cup G1 RRC: COL vs BOL,Clay,4,D,19920422,2,207944,,,Cecilia Ampuero,U,,BOL,17.6399726215,212347,,,Carolina Torres,,,COL,18.8254620123,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D004,Fed Cup G1 RRC: COL vs BOL,Clay,4,D,19920422,1,203929,,,Giana Gutierrez,U,,COL,15.8959616701,212346,,,Sandra Kellemberger,U,,BOL,15.7864476386,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D004,Fed Cup G1 RRC: COL vs BOL,Clay,4,D,19920422,2,207944,,,Cecilia Ampuero,U,,BOL,17.6399726215,212347,,,Carolina Torres,U,,COL,18.8254620123,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1992-D005,Fed Cup WG R2: CAN vs ESP,Clay,4,D,19920715,1,200472,,,Helen Kelesi,U,,CAN,22.6639288159,200049,,,Conchita Martinez,R,170,ESP,20.2464065708,7-6(4) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,136,8,8,100
 1992-D005,Fed Cup WG R2: CAN vs ESP,Clay,4,D,19920715,2,200017,,,Arantxa Sanchez Vicario,R,,ESP,20.5749486653,200497,,,Patricia Hy Boulais,U,,CAN,26.8966461328,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,5,152,45,24
-1992-D006,Fed Cup G1 RRB: TPE vs THA,Clay,4,D,19920505,1,212355,,,Chiu Mei Ho,,,TPE,29.6509240246,202121,,,Benjamas Sangaram,U,,THA,17.3141683778,6-3 3-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,631,0
+1992-D006,Fed Cup G1 RRB: TPE vs THA,Clay,4,D,19920505,1,212355,,,Chiu Mei Ho,U,,TPE,29.6509240246,202121,,,Benjamas Sangaram,U,,THA,17.3141683778,6-3 3-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,631,0
 1992-D006,Fed Cup G1 RRB: TPE vs THA,Clay,4,D,19920505,2,200684,,,Shi Ting Wang,R,,TPE,18.5434633812,202123,,,Suvimol Duangchan,U,,THA,18.0698151951,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,99,12,605,0
 1992-D007,Fed Cup WG R1: KOR vs ITA,Clay,4,D,19920714,1,202045,,,Il Soon Kim,U,,KOR,23.4688569473,200705,,,Linda Ferrando,U,,ITA,26.5023956194,4-6 6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,311,2,71,15
 1992-D007,Fed Cup WG R1: KOR vs ITA,Clay,4,D,19920714,2,200725,,,Sandra Cecchini,U,,ITA,27.3757700205,200716,,,Sung Hee Park,U,,KOR,17.4045174538,6-4 6-0,3,RR,,,,,,,,,,,,,,,,,,,,47,24,257,3
 1992-D008,Fed Cup WG R2: DEN vs USA,Clay,4,D,19920715,1,200417,,,Gigi Fernandez,U,,USA,28.3942505133,201969,,,Karin Ptaszek,U,,DEN,20.5585215606,4-6 6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,25,42,461,1
 1992-D008,Fed Cup WG R2: DEN vs USA,Clay,4,D,19920715,2,200428,,,Lori Mcneil,U,,USA,28.5749486653,201988,,,Sofie Albinus,U,,DEN,19.8138261465,7-5 6-0,3,RR,,,,,,,,,,,,,,,,,,,,22,51,365,1
-1992-D009,Fed Cup G1 RRA: RSA vs IRL,Clay,4,D,19920415,1,200481,,,Elna Reinach,U,,RSA,23.3675564682,212377,,,Catriona Mccarthy,,,IRL,18.2231348392,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,69,16,,
+1992-D009,Fed Cup G1 RRA: RSA vs IRL,Clay,4,D,19920415,1,200481,,,Elna Reinach,U,,RSA,23.3675564682,212377,,,Catriona Mccarthy,U,,IRL,18.2231348392,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,69,16,,
 1992-D009,Fed Cup G1 RRA: RSA vs IRL,Clay,4,D,19920415,2,200064,,,Amanda Coetzer,R,158,RSA,20.4818617385,204590,,,Gina Niland,U,,IRL,19.5619438741,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,35,31,514,0
-1992-D010,Fed Cup G1 RRB: BRA vs PUR,Clay,4,D,19920422,1,201899,,,Luciana Tella,U,,BRA,22.3080082136,212379,,,Maribel Amadeo,,,PUR,19.0828199863,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D010,Fed Cup G1 RRB: BRA vs PUR,Clay,4,D,19920422,1,201899,,,Luciana Tella,U,,BRA,22.3080082136,212379,,,Maribel Amadeo,U,,PUR,19.0828199863,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1992-D010,Fed Cup G1 RRB: BRA vs PUR,Clay,4,D,19920422,2,201047,,,Andrea Vieira,U,,BRA,21.2101300479,202166,,,Emilie Viqueira,U,,PUR,23.0882956879,7-6(1) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,262,3,510,0
 1992-D011,Fed Cup WG R1: FIN vs CIS,Clay,4,D,19920714,1,200693,,,Elena Makarova,U,,RUS,19.446954141,200663,,,Nanne Dahlman,U,,FIN,21.8507871321,7-6(2) 6-4,3,RR,,,,,,,,,,,,,,,,,,,,286,2,108,11
 1992-D011,Fed Cup WG R1: FIN vs CIS,Clay,4,D,19920714,2,200623,,,Petra Thoren,U,,FIN,22.932238193,200675,,,Eugenia Maniokova,R,,RUS,24.1587953457,5-7 6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,82,13,68,16
 1992-D012,Fed Cup WG SF: AUS vs ESP,Clay,4,D,19920718,1,200049,,,Conchita Martinez,R,170,ESP,20.2546201232,200105,,,Rachel Mcquillan,U,,AUS,20.6269678303,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,8,100,41,26
 1992-D012,Fed Cup WG SF: AUS vs ESP,Clay,4,D,19920718,2,200017,,,Arantxa Sanchez Vicario,R,,ESP,20.5831622177,200469,,,Nicole Bradtke,U,,AUS,22.8199863107,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,5,152,38,27
-1992-D013,Fed Cup G1 RRB: BRA vs GUA,Clay,4,D,19920423,1,201899,,,Luciana Tella,U,,BRA,22.3107460643,212393,,,Monica Aguero,,,GUA,21.0704996578,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1992-D013,Fed Cup G1 RRB: BRA vs GUA,Clay,4,D,19920423,2,201947,,,Stephanie Mayorkis,U,,BRA,21.1389459274,212161,,,Saira Sanchinelli,,,GUA,17.0896646133,4-6 6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,504,0,,
+1992-D013,Fed Cup G1 RRB: BRA vs GUA,Clay,4,D,19920423,1,201899,,,Luciana Tella,U,,BRA,22.3107460643,212393,,,Monica Aguero,U,,GUA,21.0704996578,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D013,Fed Cup G1 RRB: BRA vs GUA,Clay,4,D,19920423,2,201947,,,Stephanie Mayorkis,U,,BRA,21.1389459274,212161,,,Saira Sanchinelli,U,,GUA,17.0896646133,4-6 6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,504,0,,
 1992-D014,Fed Cup WG R1: BUL vs AUS,Clay,4,D,19920714,1,200086,,,Magdalena Maleeva,R,168,BUL,17.28678987,200105,,,Rachel Mcquillan,U,,AUS,20.6160164271,7-6(4) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,31,34,41,26
 1992-D014,Fed Cup WG R1: BUL vs AUS,Clay,4,D,19920714,2,200469,,,Nicole Bradtke,U,,AUS,22.8090349076,200455,,,Katerina Maleeva,U,,BUL,23.1868583162,3-6 6-4 6-0,3,RR,,,,,,,,,,,,,,,,,,,,38,27,11,76
-1992-D015,Fed Cup G1 RRC: NOR vs LTU,Clay,4,D,19920413,1,212397,,,Raminta Mackeviciute,,,LTU,20.9336071184,202115,,,Cathrine Instebo,U,,NOR,18.3737166324,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,643,0
+1992-D015,Fed Cup G1 RRC: NOR vs LTU,Clay,4,D,19920413,1,212397,,,Raminta Mackeviciute,U,,LTU,20.9336071184,202115,,,Cathrine Instebo,U,,NOR,18.3737166324,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,643,0
 1992-D015,Fed Cup G1 RRC: NOR vs LTU,Clay,4,D,19920413,2,200511,,,Amy Jonsson Raaholt,U,,NOR,24.848733744,206575,,,Galina Misiuriova,U,,LTU,18.8117727584,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,325,2,,
 1992-D016,Fed Cup G1 RRC: SLO vs LTU,Clay,4,D,19920414,1,200695,,,Tina Krizan,R,,SLO,18.0752908966,204969,,,Edita Liachoviciute,U,,LTU,16.0191649555,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,269,3,,
 1992-D016,Fed Cup G1 RRC: SLO vs LTU,Clay,4,D,19920414,2,200672,,,Barbara Mulej,R,,SLO,17.87816564,206575,,,Galina Misiuriova,U,,LTU,18.8145106092,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,141,8,,
-1992-D017,Fed Cup G1 RRD: CHI vs CRC,Clay,4,D,19920421,1,202511,,,Paulina Sepulveda,U,,CHI,23.5975359343,212160,,,Karla Golfin,,,CRC,21.2019164956,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D017,Fed Cup G1 RRD: CHI vs CRC,Clay,4,D,19920421,1,202511,,,Paulina Sepulveda,U,,CHI,23.5975359343,212160,,,Karla Golfin,U,,CRC,21.2019164956,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1992-D017,Fed Cup G1 RRD: CHI vs CRC,Clay,4,D,19920421,2,202170,,,Paula Cabezas,U,,ESP,19.665982204,206666,,,Paula Umana,U,,CRC,17.6125941136,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,265,3,,
 1992-D018,Fed Cup G1 RRA: RSA vs LUX,Clay,4,D,19920413,1,200715,,,Mariaan De Swardt,R,,RSA,21.0732375086,202078,,,Rosabel Moyen,U,,LUX,17.8754277892,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,60,18,,
 1992-D018,Fed Cup G1 RRA: RSA vs LUX,Clay,4,D,19920413,2,200064,,,Amanda Coetzer,R,158,RSA,20.476386037,200124,,,Anne Kremer,R,,LUX,16.4900752909,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,35,31,,
-1992-D019,Fed Cup G1 QF: CHI vs CUB,Clay,4,D,19920424,1,202511,,,Paulina Sepulveda,U,,CHI,23.6057494867,212410,,,Belkis Rodriguez,,,CUB,26.945927447,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,471,1
-1992-D019,Fed Cup G1 QF: CHI vs CUB,Clay,4,D,19920424,2,202170,,,Paula Cabezas,U,,ESP,19.6741957563,212411,,,Rita Pichardo,,,CUB,21.9247091034,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,265,3,406,1
-1992-D020,Fed Cup G1 RRD: LAT vs MLT,Clay,4,D,19920414,1,212414,,,Oksana Bushevitsa,,,LAT,18.7351129363,212081,,,Helen Asciak,,,MLT,29.2073921971,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,451,1,,
-1992-D020,Fed Cup G1 RRD: LAT vs MLT,Clay,4,D,19920414,2,200450,,,Larisa Savchenko,U,,URS,25.7330595483,212125,,,Carol Cassar Torreggiani,,,MLT,23.7207392197,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,49,21,,
-1992-D021,Fed Cup G1 RRD: LAT vs TUN,Clay,4,D,19920415,1,212414,,,Oksana Bushevitsa,,,LAT,18.7378507871,207695,,,Issem Essaies,U,,TUN,19.6440793977,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,451,1,,
+1992-D019,Fed Cup G1 QF: CHI vs CUB,Clay,4,D,19920424,1,202511,,,Paulina Sepulveda,U,,CHI,23.6057494867,212410,,,Belkis Rodriguez,U,,CUB,26.945927447,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,471,1
+1992-D019,Fed Cup G1 QF: CHI vs CUB,Clay,4,D,19920424,2,202170,,,Paula Cabezas,U,,ESP,19.6741957563,212411,,,Rita Pichardo,U,,CUB,21.9247091034,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,265,3,406,1
+1992-D020,Fed Cup G1 RRD: LAT vs MLT,Clay,4,D,19920414,1,212414,,,Oksana Bushevitsa,U,,LAT,18.7351129363,212081,,,Helen Asciak,U,,MLT,29.2073921971,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,451,1,,
+1992-D020,Fed Cup G1 RRD: LAT vs MLT,Clay,4,D,19920414,2,200450,,,Larisa Savchenko,U,,URS,25.7330595483,212125,,,Carol Cassar Torreggiani,U,,MLT,23.7207392197,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,49,21,,
+1992-D021,Fed Cup G1 RRD: LAT vs TUN,Clay,4,D,19920415,1,212414,,,Oksana Bushevitsa,U,,LAT,18.7378507871,207695,,,Issem Essaies,U,,TUN,19.6440793977,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,451,1,,
 1992-D021,Fed Cup G1 RRD: LAT vs TUN,Clay,4,D,19920415,2,201844,,,Agnese Gustmane,U,,LAT,21.0184804928,201209,,,Selima Sfar,R,,TUN,14.7707049966,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,224,4,,
-1992-D022,Fed Cup G1 RRD: LAT vs YUG,Clay,4,D,19920413,1,212414,,,Oksana Bushevitsa,,,LAT,18.7323750856,212080,,,Branislava Ivanovic,,,YUG,16.9089664613,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,451,1,,
-1992-D022,Fed Cup G1 RRD: LAT vs YUG,Clay,4,D,19920413,2,200450,,,Larisa Savchenko,U,,URS,25.7303216975,212416,,,Ljudmila Pavlov,,,YUG,17.787816564,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,49,21,,
+1992-D022,Fed Cup G1 RRD: LAT vs YUG,Clay,4,D,19920413,1,212414,,,Oksana Bushevitsa,U,,LAT,18.7323750856,212080,,,Branislava Ivanovic,U,,YUG,16.9089664613,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,451,1,,
+1992-D022,Fed Cup G1 RRD: LAT vs YUG,Clay,4,D,19920413,2,200450,,,Larisa Savchenko,U,,URS,25.7303216975,212416,,,Ljudmila Pavlov,U,,YUG,17.787816564,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,49,21,,
 1992-D023,Fed Cup WG R1: AUT vs ROU,Clay,4,D,19920714,1,200059,,,Ruxandra Dragomir Ilie,R,,ROU,19.7207392197,200627,,,Petra Schwarz,U,,AUT,20.1396303901,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,274,3,113,11
 1992-D023,Fed Cup WG R1: AUT vs ROU,Clay,4,D,19920714,2,200482,,,Judith Wiesner,R,,AUT,26.3682409309,200051,,,Irina Spirlea,R,,ROU,18.302532512,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,21,53,154,7
-1992-D024,Fed Cup G1 RRD: CHI vs JAM,Clay,4,D,19920423,1,212424,,,Marlene Zuleta,,,CHI,27.6933607118,212425,,,Sasha Hanna,,,JAM,15.0143737166,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D024,Fed Cup G1 RRD: CHI vs JAM,Clay,4,D,19920423,1,212424,,,Marlene Zuleta,U,,CHI,27.6933607118,212425,,,Sasha Hanna,U,,JAM,15.0143737166,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1992-D024,Fed Cup G1 RRD: CHI vs JAM,Clay,4,D,19920423,2,202170,,,Paula Cabezas,U,,ESP,19.6714579055,203886,,,Joni Van Ryck De Groot,U,,JAM,36.5174537988,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,265,3,,
 1992-D025,Fed Cup G1 F: MEX vs CHI,Clay,4,D,19920426,1,202511,,,Paulina Sepulveda,U,,CHI,23.6112251882,201745,,,Lupita Novelo,U,,MEX,24.977412731,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,375,1
 1992-D025,Fed Cup G1 F: MEX vs CHI,Clay,4,D,19920426,2,200013,,,Angelica Gavaldon,R,,MEX,18.5626283368,202170,,,Paula Cabezas,U,,ESP,19.6796714579,6-1 4-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,178,5,265,3
@@ -2504,65 +2504,65 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-D028,Fed Cup WG R1: DEN vs CHI,Clay,4,D,19920713,2,202170,,,Paula Cabezas,U,,ESP,19.8932238193,201988,,,Sofie Albinus,U,,DEN,19.8083504449,6-3 0-6 6-0,3,RR,,,,,,,,,,,,,,,,,,,,263,3,365,1
 1992-D029,Fed Cup WG PO: CHI vs GBR,Clay,4,D,19920715,1,200443,,,Sara Gomer,U,,GBR,28.1724845996,204536,,,Barbara Castro,U,,CHI,16.8514715948,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,95,12,,
 1992-D029,Fed Cup WG PO: CHI vs GBR,Clay,4,D,19920715,2,200392,,,Jo Durie,R,,GBR,31.9671457906,202170,,,Paula Cabezas,U,,ESP,19.8986995209,6-7(5) 6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,37,28,263,3
-1992-D030,Fed Cup G1 RRA: PHI vs MAS,Clay,4,D,19920506,1,212171,,,Francesca LaO,,,PHI,15.9972621492,212443,,,Ku Maizan Shak,,,MAS,26.3326488706,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1992-D030,Fed Cup G1 RRA: PHI vs MAS,Clay,4,D,19920506,2,207543,,,Jennifer Saret,U,,PHI,17.3990417522,212444,,,Cheah Sui Kim,,,MAS,16.1587953457,5-2 RET,5,RR,,,,,,,,,,,,,,,,,,,,643,0,,
-1992-D031,Fed Cup G1 RRA: URU vs TRI,Clay,4,D,19920423,1,212445,,,Claudia Brause,,,URU,21.6509240246,212446,,,Elizabeth Gibson,,,TRI,24.1177275838,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1992-D031,Fed Cup G1 RRA: URU vs TRI,Clay,4,D,19920423,2,212447,,,Laura Olave,,,URU,17.1635865845,207461,,,Kaisaran Siewrattan,U,,TRI,18.1848049281,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D030,Fed Cup G1 RRA: PHI vs MAS,Clay,4,D,19920506,1,212171,,,Francesca LaO,U,,PHI,15.9972621492,212443,,,Ku Maizan Shak,U,,MAS,26.3326488706,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D030,Fed Cup G1 RRA: PHI vs MAS,Clay,4,D,19920506,2,207543,,,Jennifer Saret,U,,PHI,17.3990417522,212444,,,Cheah Sui Kim,U,,MAS,16.1587953457,5-2 RET,5,RR,,,,,,,,,,,,,,,,,,,,643,0,,
+1992-D031,Fed Cup G1 RRA: URU vs TRI,Clay,4,D,19920423,1,212445,,,Claudia Brause,U,,URU,21.6509240246,212446,,,Elizabeth Gibson,U,,TRI,24.1177275838,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D031,Fed Cup G1 RRA: URU vs TRI,Clay,4,D,19920423,2,212447,,,Laura Olave,U,,URU,17.1635865845,207461,,,Kaisaran Siewrattan,U,,TRI,18.1848049281,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1992-D032,Fed Cup G1 QF: MEX vs ECU,Clay,4,D,19920422,1,207460,,,Isabela Petrov,U,,MEX,18.8692676249,206626,,,Nuria Niemes,U,,ECU,19.8412046543,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,396,1,,
 1992-D032,Fed Cup G1 QF: MEX vs ECU,Clay,4,D,19920422,2,200013,,,Angelica Gavaldon,R,,MEX,18.5516769336,204123,,,Maria Dolores Campana,U,,ECU,17.0485968515,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,179,5,634,0
-1992-D033,Fed Cup G1 RRC: BOL vs DOM,Clay,4,D,19920421,1,212346,,,Sandra Kellemberger,,,BOL,15.7837097878,212391,,,Paula Alvarez,,,DOM,,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1992-D033,Fed Cup G1 RRC: BOL vs DOM,Clay,4,D,19920421,2,207944,,,Cecilia Ampuero,U,,BOL,17.6372347707,212450,,,Patricia Rodriguez,,,DOM,17.0814510609,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1992-D034,Fed Cup G1 RRC: CUB vs BOL,Clay,4,D,19920423,1,212410,,,Belkis Rodriguez,,,CUB,26.9431895962,212346,,,Sandra Kellemberger,,,BOL,15.7891854894,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,471,1,,
-1992-D034,Fed Cup G1 RRC: CUB vs BOL,Clay,4,D,19920423,2,212411,,,Rita Pichardo,,,CUB,21.9219712526,207944,,,Cecilia Ampuero,U,,BOL,17.6427104723,3-6 7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,,406,1,,
-1992-D035,Fed Cup G1 RRD: VEN vs JAM,Clay,4,D,19920421,1,204542,,,Ninfa Marra,U,,VEN,17.8015058179,212453,,,Henrietta Harris,,,JAM,24.1971252567,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D033,Fed Cup G1 RRC: BOL vs DOM,Clay,4,D,19920421,1,212346,,,Sandra Kellemberger,U,,BOL,15.7837097878,212391,,,Paula Alvarez,U,,DOM,,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D033,Fed Cup G1 RRC: BOL vs DOM,Clay,4,D,19920421,2,207944,,,Cecilia Ampuero,U,,BOL,17.6372347707,212450,,,Patricia Rodriguez,U,,DOM,17.0814510609,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D034,Fed Cup G1 RRC: CUB vs BOL,Clay,4,D,19920423,1,212410,,,Belkis Rodriguez,U,,CUB,26.9431895962,212346,,,Sandra Kellemberger,U,,BOL,15.7891854894,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,471,1,,
+1992-D034,Fed Cup G1 RRC: CUB vs BOL,Clay,4,D,19920423,2,212411,,,Rita Pichardo,U,,CUB,21.9219712526,207944,,,Cecilia Ampuero,U,,BOL,17.6427104723,3-6 7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,,406,1,,
+1992-D035,Fed Cup G1 RRD: VEN vs JAM,Clay,4,D,19920421,1,204542,,,Ninfa Marra,U,,VEN,17.8015058179,212453,,,Henrietta Harris,U,,JAM,24.1971252567,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1992-D035,Fed Cup G1 RRD: VEN vs JAM,Clay,4,D,19920421,2,207812,,,Eleonora Vegliante,U,,VEN,18.7515400411,203886,,,Joni Van Ryck De Groot,U,,JAM,36.5119780972,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,642,0,,
-1992-D036,Fed Cup G1 RRB: ECU vs GUA,Clay,4,D,19920422,1,212457,,,Maria De Los Angeles Ycaza,,,ECU,18.431211499,212393,,,Monica Aguero,,,GUA,21.067761807,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1992-D036,Fed Cup G1 RRB: ECU vs GUA,Clay,4,D,19920422,2,204123,,,Maria Dolores Campana,U,,ECU,17.0485968515,212161,,,Saira Sanchinelli,,,GUA,17.0869267625,3-6 7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,634,0,,
+1992-D036,Fed Cup G1 RRB: ECU vs GUA,Clay,4,D,19920422,1,212457,,,Maria De Los Angeles Ycaza,U,,ECU,18.431211499,212393,,,Monica Aguero,U,,GUA,21.067761807,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D036,Fed Cup G1 RRB: ECU vs GUA,Clay,4,D,19920422,2,204123,,,Maria Dolores Campana,U,,ECU,17.0485968515,212161,,,Saira Sanchinelli,U,,GUA,17.0869267625,3-6 7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,634,0,,
 1992-D037,Fed Cup WG R1: BEL vs ESP,Clay,4,D,19920714,1,200049,,,Conchita Martinez,R,170,ESP,20.2436687201,200080,,,Dominique Monami,R,,BEL,19.1211498973,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,8,100,77,14
 1992-D037,Fed Cup WG R1: BEL vs ESP,Clay,4,D,19920714,2,200017,,,Arantxa Sanchez Vicario,R,,ESP,20.5722108145,200037,,,Sabine Appelmans,L,,BEL,20.2272416153,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,5,152,20,53
-1992-D038,Fed Cup G1 SF: SRI vs KOR,Clay,4,D,19920507,1,202045,,,Il Soon Kim,U,,KOR,23.2826830938,212462,,,Vajira Premaratne,,,SRI,19.318275154,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,331,2,,
+1992-D038,Fed Cup G1 SF: SRI vs KOR,Clay,4,D,19920507,1,202045,,,Il Soon Kim,U,,KOR,23.2826830938,212462,,,Vajira Premaratne,U,,SRI,19.318275154,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,331,2,,
 1992-D038,Fed Cup G1 SF: SRI vs KOR,Clay,4,D,19920507,2,200716,,,Sung Hee Park,U,,KOR,17.2183436003,201747,,,Lihini Weerasuriya,U,,SRI,20.2108145106,7-6(4) 5-7 7-5,3,RR,,,,,,,,,,,,,,,,,,,,263,3,472,1
-1992-D039,Fed Cup G1 RRA: KOR vs PHI,Clay,4,D,19920504,1,202045,,,Il Soon Kim,U,,KOR,23.2744695414,212171,,,Francesca LaO,,,PHI,15.9917864476,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,331,2,,
+1992-D039,Fed Cup G1 RRA: KOR vs PHI,Clay,4,D,19920504,1,202045,,,Il Soon Kim,U,,KOR,23.2744695414,212171,,,Francesca LaO,U,,PHI,15.9917864476,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,331,2,,
 1992-D039,Fed Cup G1 RRA: KOR vs PHI,Clay,4,D,19920504,2,200716,,,Sung Hee Park,U,,KOR,17.2101300479,207543,,,Jennifer Saret,U,,PHI,17.3935660507,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,263,3,643,0
-1992-D040,Fed Cup WG R2: KOR vs TCH,Clay,4,D,19920715,1,200377,,,Helena Sukova,R,,CZE,27.3894592745,212464,,,Yeon Sook Kim,,,KOR,22.8090349076,6-1 7-6(3),3,RR,,,,,,,,,,,,,,,,,,,,14,60,317,2
+1992-D040,Fed Cup WG R2: KOR vs TCH,Clay,4,D,19920715,1,200377,,,Helena Sukova,R,,CZE,27.3894592745,212464,,,Yeon Sook Kim,U,,KOR,22.8090349076,6-1 7-6(3),3,RR,,,,,,,,,,,,,,,,,,,,14,60,317,2
 1992-D040,Fed Cup WG R2: KOR vs TCH,Clay,4,D,19920715,2,200539,,,Jana Novotna,R,,CZE,23.7837097878,200716,,,Sung Hee Park,U,,KOR,17.4072553046,4-6 6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,12,75,257,3
-1992-D041,Fed Cup G1 F: KOR vs TPE,Clay,4,D,19920508,1,202045,,,Il Soon Kim,U,,KOR,23.2854209446,212466,,,Ya Hui Lin,,,TPE,22.4339493498,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,331,2,,
+1992-D041,Fed Cup G1 F: KOR vs TPE,Clay,4,D,19920508,1,202045,,,Il Soon Kim,U,,KOR,23.2854209446,212466,,,Ya Hui Lin,U,,TPE,22.4339493498,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,331,2,,
 1992-D041,Fed Cup G1 F: KOR vs TPE,Clay,4,D,19920508,2,200716,,,Sung Hee Park,U,,KOR,17.2210814511,200684,,,Shi Ting Wang,R,,TPE,18.5516769336,3-6 6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,263,3,99,12
-1992-D043,Fed Cup G1 RRC: NOR vs CGO,Clay,4,D,19920414,1,212467,,,Siri Mittet,,,NOR,18.7898699521,212468,,,Maria Jose Likibi,,,CGO,15.9151266256,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1992-D043,Fed Cup G1 RRC: NOR vs CGO,Clay,4,D,19920414,2,200511,,,Amy Jonsson Raaholt,U,,NOR,24.8514715948,212469,,,Michelle Likibi,,,CGO,18.5051334702,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,325,2,,
-1992-D044,Fed Cup G1 RRC: SLO vs CGO,Clay,4,D,19920413,1,200695,,,Tina Krizan,R,,SLO,18.0725530459,212468,,,Maria Jose Likibi,,,CGO,15.9123887748,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,269,3,,
-1992-D044,Fed Cup G1 RRC: SLO vs CGO,Clay,4,D,19920413,2,200672,,,Barbara Mulej,R,,SLO,17.8754277892,212469,,,Michelle Likibi,,,CGO,18.5023956194,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,141,8,,
-1992-D045,Fed Cup G1 RRB: ECU vs PUR,Clay,4,D,19920423,1,206626,,,Nuria Niemes,U,,ECU,19.8439425051,212379,,,Maribel Amadeo,,,PUR,19.0855578371,7-6(3) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D043,Fed Cup G1 RRC: NOR vs CGO,Clay,4,D,19920414,1,212467,,,Siri Mittet,U,,NOR,18.7898699521,212468,,,Maria Jose Likibi,U,,CGO,15.9151266256,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D043,Fed Cup G1 RRC: NOR vs CGO,Clay,4,D,19920414,2,200511,,,Amy Jonsson Raaholt,U,,NOR,24.8514715948,212469,,,Michelle Likibi,U,,CGO,18.5051334702,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,325,2,,
+1992-D044,Fed Cup G1 RRC: SLO vs CGO,Clay,4,D,19920413,1,200695,,,Tina Krizan,R,,SLO,18.0725530459,212468,,,Maria Jose Likibi,U,,CGO,15.9123887748,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,269,3,,
+1992-D044,Fed Cup G1 RRC: SLO vs CGO,Clay,4,D,19920413,2,200672,,,Barbara Mulej,R,,SLO,17.8754277892,212469,,,Michelle Likibi,U,,CGO,18.5023956194,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,141,8,,
+1992-D045,Fed Cup G1 RRB: ECU vs PUR,Clay,4,D,19920423,1,206626,,,Nuria Niemes,U,,ECU,19.8439425051,212379,,,Maribel Amadeo,U,,PUR,19.0855578371,7-6(3) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1992-D045,Fed Cup G1 RRB: ECU vs PUR,Clay,4,D,19920423,2,202166,,,Emilie Viqueira,U,,PUR,23.0910335387,204123,,,Maria Dolores Campana,U,,ECU,17.0513347023,6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,510,0,634,0
-1992-D046,Fed Cup G1 RRA: KOR vs MAS,Clay,4,D,19920505,1,212464,,,Yeon Sook Kim,,,KOR,22.6146475017,212476,,,Tze May Lee,,,MAS,16.9117043121,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,342,1,,
-1992-D046,Fed Cup G1 RRA: KOR vs MAS,Clay,4,D,19920505,2,200716,,,Sung Hee Park,U,,KOR,17.2128678987,212444,,,Cheah Sui Kim,,,MAS,16.1560574949,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,263,3,,
+1992-D046,Fed Cup G1 RRA: KOR vs MAS,Clay,4,D,19920505,1,212464,,,Yeon Sook Kim,U,,KOR,22.6146475017,212476,,,Tze May Lee,U,,MAS,16.9117043121,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,342,1,,
+1992-D046,Fed Cup G1 RRA: KOR vs MAS,Clay,4,D,19920505,2,200716,,,Sung Hee Park,U,,KOR,17.2128678987,212444,,,Cheah Sui Kim,U,,MAS,16.1560574949,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,263,3,,
 1992-D047,Fed Cup WG R1: CAN vs RSA,Clay,4,D,19920714,1,200560,,,Rene Collins,L,,CAN,26.4969199179,200715,,,Mariaan De Swardt,R,,RSA,21.325119781,2-6 6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,94,12,70,16
 1992-D047,Fed Cup WG R1: CAN vs RSA,Clay,4,D,19920714,2,200497,,,Patricia Hy Boulais,U,,CAN,26.893908282,200064,,,Amanda Coetzer,R,158,RSA,20.7282683094,2-6 6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,45,24,24,47
-1992-D048,Fed Cup G1 RRB: TPE vs HKG,Clay,4,D,19920506,1,202012,,,Lee Chan,U,,HKG,15.2553045859,212355,,,Chiu Mei Ho,,,TPE,29.6536618754,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D048,Fed Cup G1 RRB: TPE vs HKG,Clay,4,D,19920506,1,202012,,,Lee Chan,U,,HKG,15.2553045859,212355,,,Chiu Mei Ho,U,,TPE,29.6536618754,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1992-D048,Fed Cup G1 RRB: TPE vs HKG,Clay,4,D,19920506,2,200684,,,Shi Ting Wang,R,,TPE,18.546201232,200518,,,Paulette Moreno,U,,HKG,23.151266256,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,99,12,599,0
 1992-D049,Fed Cup WG PO: ITA vs HUN,Clay,4,D,19920716,1,200058,,,Anna Foldenyi Dicker,R,,HUN,17.9000684463,200422,,,Raffaella Reggi Concato,U,,ITA,26.6338124572,6-3 4-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,159,6,61,18
 1992-D049,Fed Cup WG PO: ITA vs HUN,Clay,4,D,19920716,2,200442,,,Andrea Temesvari,R,,HUN,26.2231348392,200725,,,Sandra Cecchini,U,,ITA,27.3812457221,6-1 1-0 RET,5,RR,,,,,,,,,,,,,,,,,,,,106,11,47,24
 1992-D050,Fed Cup WG QF: AUS vs TCH,Clay,4,D,19920717,1,200377,,,Helena Sukova,R,,CZE,27.394934976,200105,,,Rachel Mcquillan,U,,AUS,20.6242299795,7-6(6) 4-6 6-1,3,RR,,,,,,,,,,,,,,,,,,,,14,60,41,26
 1992-D050,Fed Cup WG QF: AUS vs TCH,Clay,4,D,19920717,2,200469,,,Nicole Bradtke,U,,AUS,22.81724846,200539,,,Jana Novotna,R,,CZE,23.7891854894,7-5 6-0,3,RR,,,,,,,,,,,,,,,,,,,,38,27,12,75
-1992-D051,Fed Cup G1 RRB: THA vs HKG,Clay,4,D,19920504,1,202121,,,Benjamas Sangaram,U,,THA,17.311430527,212484,,,Alexandra Kleffel,,,HKG,14.1574264203,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,631,0,,
+1992-D051,Fed Cup G1 RRB: THA vs HKG,Clay,4,D,19920504,1,202121,,,Benjamas Sangaram,U,,THA,17.311430527,212484,,,Alexandra Kleffel,U,,HKG,14.1574264203,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,631,0,,
 1992-D051,Fed Cup G1 RRB: THA vs HKG,Clay,4,D,19920504,2,202123,,,Suvimol Duangchan,U,,THA,18.0670773443,202012,,,Lee Chan,U,,HKG,15.2498288843,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,605,0,,
-1992-D052,Fed Cup G1 RRB: SRI vs HKG,Clay,4,D,19920505,1,212462,,,Vajira Premaratne,,,SRI,19.3127994524,202012,,,Lee Chan,U,,HKG,15.2525667351,7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D052,Fed Cup G1 RRB: SRI vs HKG,Clay,4,D,19920505,1,212462,,,Vajira Premaratne,U,,SRI,19.3127994524,202012,,,Lee Chan,U,,HKG,15.2525667351,7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1992-D052,Fed Cup G1 RRB: SRI vs HKG,Clay,4,D,19920505,2,201747,,,Lihini Weerasuriya,U,,SRI,20.205338809,200518,,,Paulette Moreno,U,,HKG,23.1485284052,6-1 7-5,3,RR,,,,,,,,,,,,,,,,,,,,472,1,599,0
 1992-D053,Fed Cup WG QF: ARG vs ESP,Clay,4,D,19920717,1,200049,,,Conchita Martinez,R,170,ESP,20.2518822724,200026,,,Florencia Labat,L,,ARG,21.0978781656,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,8,100,59,19
 1992-D053,Fed Cup WG QF: ARG vs ESP,Clay,4,D,19920717,2,200017,,,Arantxa Sanchez Vicario,R,,ESP,20.5804243669,200640,,,Mercedes Paz,U,,ARG,26.0561259411,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,5,152,64,18
 1992-D054,Fed Cup G1 RRB: GRE vs POR,Clay,4,D,19920414,1,202946,,,Christina Zachariadou,R,,GRE,17.6290212183,201964,,,Tania Couto,U,,POR,19.7754962355,6-4 6-0,3,RR,,,,,,,,,,,,,,,,,,,,395,1,372,1
 1992-D054,Fed Cup G1 RRB: GRE vs POR,Clay,4,D,19920414,2,200696,,,Christina Papadaki,R,,GRE,19.1348391513,201963,,,Sofia Prazeres,U,,POR,17.8206707734,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,206,4,356,1
-1992-D055,Fed Cup G1 RRB: GRE vs TUR,Clay,4,D,19920415,1,202946,,,Christina Zachariadou,R,,GRE,17.6317590691,212495,,,Esra Bayburt,,,TUR,16.8761122519,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,395,1,,
+1992-D055,Fed Cup G1 RRB: GRE vs TUR,Clay,4,D,19920415,1,202946,,,Christina Zachariadou,R,,GRE,17.6317590691,212495,,,Esra Bayburt,U,,TUR,16.8761122519,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,395,1,,
 1992-D055,Fed Cup G1 RRB: GRE vs TUR,Clay,4,D,19920415,2,200696,,,Christina Papadaki,R,,GRE,19.1375770021,204655,,,Gulberk Gultekin,U,,TUR,18.0314852841,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,206,4,,
-1992-D056,Fed Cup G1 RRB: PUR vs GUA,Clay,4,D,19920421,1,212379,,,Maribel Amadeo,,,PUR,19.0800821355,212393,,,Monica Aguero,,,GUA,21.0650239562,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1992-D056,Fed Cup G1 RRB: PUR vs GUA,Clay,4,D,19920421,2,202166,,,Emilie Viqueira,U,,PUR,23.0855578371,212161,,,Saira Sanchinelli,,,GUA,17.0841889117,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,510,0,,
-1992-D057,Fed Cup G1 RRA: PHI vs IND,Clay,4,D,19920505,1,212171,,,Francesca LaO,,,PHI,15.9945242984,207262,,,Janaki Krishnamoorthy,U,,IND,19.2580424367,6-3 7-6(8),3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D056,Fed Cup G1 RRB: PUR vs GUA,Clay,4,D,19920421,1,212379,,,Maribel Amadeo,U,,PUR,19.0800821355,212393,,,Monica Aguero,U,,GUA,21.0650239562,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D056,Fed Cup G1 RRB: PUR vs GUA,Clay,4,D,19920421,2,202166,,,Emilie Viqueira,U,,PUR,23.0855578371,212161,,,Saira Sanchinelli,U,,GUA,17.0841889117,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,510,0,,
+1992-D057,Fed Cup G1 RRA: PHI vs IND,Clay,4,D,19920505,1,212171,,,Francesca LaO,U,,PHI,15.9945242984,207262,,,Janaki Krishnamoorthy,U,,IND,19.2580424367,6-3 7-6(8),3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1992-D057,Fed Cup G1 RRA: PHI vs IND,Clay,4,D,19920505,2,207543,,,Jennifer Saret,U,,PHI,17.3963039014,200743,,,Nirupama Sanjeev,R,,IND,15.4058863792,7-6(4) 6-0,3,RR,,,,,,,,,,,,,,,,,,,,643,0,,
-1992-D058,Fed Cup G1 SF: IND vs TPE,Clay,4,D,19920507,1,212466,,,Ya Hui Lin,,,TPE,22.431211499,212500,,,Aradhana Reddy,,,IND,16.4736481862,5-7 7-6(3) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D058,Fed Cup G1 SF: IND vs TPE,Clay,4,D,19920507,1,212466,,,Ya Hui Lin,U,,TPE,22.431211499,212500,,,Aradhana Reddy,U,,IND,16.4736481862,5-7 7-6(3) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1992-D058,Fed Cup G1 SF: IND vs TPE,Clay,4,D,19920507,2,200684,,,Shi Ting Wang,R,,TPE,18.5489390828,207262,,,Janaki Krishnamoorthy,U,,IND,19.2635181383,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,99,12,,
-1992-D059,Fed Cup G1 RRA: IND vs MAS,Clay,4,D,19920504,1,212500,,,Aradhana Reddy,,,IND,16.4654346338,212444,,,Cheah Sui Kim,,,MAS,16.1533196441,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1992-D059,Fed Cup G1 RRA: IND vs MAS,Clay,4,D,19920504,2,207262,,,Janaki Krishnamoorthy,U,,IND,19.2553045859,212476,,,Tze May Lee,,,MAS,16.9089664613,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1992-D060,Fed Cup G1 RRA: KOR vs IND,Clay,4,D,19920506,1,212464,,,Yeon Sook Kim,,,KOR,22.6173853525,212500,,,Aradhana Reddy,,,IND,16.4709103354,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,342,1,,
+1992-D059,Fed Cup G1 RRA: IND vs MAS,Clay,4,D,19920504,1,212500,,,Aradhana Reddy,U,,IND,16.4654346338,212444,,,Cheah Sui Kim,U,,MAS,16.1533196441,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D059,Fed Cup G1 RRA: IND vs MAS,Clay,4,D,19920504,2,207262,,,Janaki Krishnamoorthy,U,,IND,19.2553045859,212476,,,Tze May Lee,U,,MAS,16.9089664613,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D060,Fed Cup G1 RRA: KOR vs IND,Clay,4,D,19920506,1,212464,,,Yeon Sook Kim,U,,KOR,22.6173853525,212500,,,Aradhana Reddy,U,,IND,16.4709103354,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,342,1,,
 1992-D060,Fed Cup G1 RRA: KOR vs IND,Clay,4,D,19920506,2,200716,,,Sung Hee Park,U,,KOR,17.2156057495,207262,,,Janaki Krishnamoorthy,U,,IND,19.2607802875,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,263,3,,
 1992-D061,Fed Cup WG R2: AUS vs AUT,Clay,4,D,19920715,1,200105,,,Rachel Mcquillan,U,,AUS,20.6187542779,200627,,,Petra Schwarz,U,,AUT,20.1423682409,4-6 6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,41,26,113,11
 1992-D061,Fed Cup WG R2: AUS vs AUT,Clay,4,D,19920715,2,200482,,,Judith Wiesner,R,,AUT,26.3709787817,200469,,,Nicole Bradtke,U,,AUS,22.8117727584,5-7 6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,21,53,38,27
@@ -2578,14 +2578,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-D066,Fed Cup WG R2: JPN vs ARG,Clay,4,D,19920715,2,200617,,,Kimiko Date Krumm,R,163,JPN,21.7960301164,200640,,,Mercedes Paz,U,,ARG,26.0506502396,4-6 6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,18,55,64,18
 1992-D067,Fed Cup WG R1: HUN vs TCH,Clay,4,D,19920714,1,200530,,,Radomira Zrubakova,R,,SVK,21.5496235455,200058,,,Anna Foldenyi Dicker,R,,HUN,17.8945927447,5-7 6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,27,39,159,6
 1992-D067,Fed Cup WG R1: HUN vs TCH,Clay,4,D,19920714,2,200539,,,Jana Novotna,R,,CZE,23.780971937,200442,,,Andrea Temesvari,R,,HUN,26.2176591376,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,12,75,106,11
-1992-D068,Fed Cup G1 RRA: RSA vs EST,Clay,4,D,19920414,1,200715,,,Mariaan De Swardt,R,,RSA,21.0759753593,212516,,,Kaja Kond,,,EST,24.7939767283,6-2 3-6 7-5,3,RR,,,,,,,,,,,,,,,,,,,,60,18,,
-1992-D068,Fed Cup G1 RRA: RSA vs EST,Clay,4,D,19920414,2,200064,,,Amanda Coetzer,R,158,RSA,20.4791238877,212396,,,Helene Holter,,,EST,18.8720054757,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,35,31,,
+1992-D068,Fed Cup G1 RRA: RSA vs EST,Clay,4,D,19920414,1,200715,,,Mariaan De Swardt,R,,RSA,21.0759753593,212516,,,Kaja Kond,U,,EST,24.7939767283,6-2 3-6 7-5,3,RR,,,,,,,,,,,,,,,,,,,,60,18,,
+1992-D068,Fed Cup G1 RRA: RSA vs EST,Clay,4,D,19920414,2,200064,,,Amanda Coetzer,R,158,RSA,20.4791238877,212396,,,Helene Holter,U,,EST,18.8720054757,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,35,31,,
 1992-D069,Fed Cup WG PO: BUL vs HUN,Clay,4,D,19920717,1,200058,,,Anna Foldenyi Dicker,R,,HUN,17.9028062971,200614,,,Elena Pampoulova,U,,BUL,20.167008898,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,159,6,,
 1992-D069,Fed Cup WG PO: BUL vs HUN,Clay,4,D,19920717,2,200455,,,Katerina Maleeva,U,,BUL,23.1950718686,200442,,,Andrea Temesvari,R,,HUN,26.2258726899,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,11,76,106,11
-1992-D070,Fed Cup G1 QF: URU vs BRA,Clay,4,D,19920424,1,201899,,,Luciana Tella,U,,BRA,22.3134839151,212445,,,Claudia Brause,,,URU,21.6536618754,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1992-D070,Fed Cup G1 QF: URU vs BRA,Clay,4,D,19920424,2,201047,,,Andrea Vieira,U,,BRA,21.2156057495,212447,,,Laura Olave,,,URU,17.1663244353,7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,262,3,,
-1992-D071,Fed Cup G1 RRA: IRL vs EST,Clay,4,D,19920413,1,204590,,,Gina Niland,U,,IRL,19.5564681725,212516,,,Kaja Kond,,,EST,24.7912388775,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,514,0,,
-1992-D071,Fed Cup G1 RRA: IRL vs EST,Clay,4,D,19920413,2,203816,,,Siobhan Nicholson,R,,GBR,25.839835729,212396,,,Helene Holter,,,EST,18.8692676249,5-7 6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,295,2,,
+1992-D070,Fed Cup G1 QF: URU vs BRA,Clay,4,D,19920424,1,201899,,,Luciana Tella,U,,BRA,22.3134839151,212445,,,Claudia Brause,U,,URU,21.6536618754,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D070,Fed Cup G1 QF: URU vs BRA,Clay,4,D,19920424,2,201047,,,Andrea Vieira,U,,BRA,21.2156057495,212447,,,Laura Olave,U,,URU,17.1663244353,7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,262,3,,
+1992-D071,Fed Cup G1 RRA: IRL vs EST,Clay,4,D,19920413,1,204590,,,Gina Niland,U,,IRL,19.5564681725,212516,,,Kaja Kond,U,,EST,24.7912388775,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,514,0,,
+1992-D071,Fed Cup G1 RRA: IRL vs EST,Clay,4,D,19920413,2,203816,,,Siobhan Nicholson,R,,GBR,25.839835729,212396,,,Helene Holter,U,,EST,18.8692676249,5-7 6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,295,2,,
 1992-D072,Fed Cup WG QF: FRA vs USA,Clay,4,D,19920716,1,200417,,,Gigi Fernandez,U,,USA,28.3969883641,200096,,,Mary Pierce,R,178,FRA,17.5003422313,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,25,42,16,58
 1992-D072,Fed Cup WG QF: FRA vs USA,Clay,4,D,19920716,2,200097,,,Nathalie Tauziat,R,,FRA,24.7474332649,200428,,,Lori Mcneil,U,,USA,28.5776865161,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,13,65,22,51
 1992-D073,Fed Cup WG PO: RSA vs BEL,Clay,4,D,19920716,1,200481,,,Elna Reinach,U,,RSA,23.6194387406,200080,,,Dominique Monami,R,,BEL,19.1266255989,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,90,13,77,14
@@ -2598,23 +2598,23 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-D076,Fed Cup WG R1: GER vs NZL,Clay,4,D,19920713,2,200414,,,Steffi Graf,R,,GER,23.0800821355,200639,,,Claudine Toleafoa,U,,NZL,22.3709787817,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,2,250,211,4
 1992-D077,Fed Cup WG R2: GER vs NED,Clay,4,D,19920715,1,200081,,,Anke Huber,R,,GER,17.6125941136,200522,,,Nicole Krijger Jagerman,U,,NED,24.9801505818,7-5 3-6 6-1,3,RR,,,,,,,,,,,,,,,,,,,,10,78,63,18
 1992-D077,Fed Cup WG R2: GER vs NED,Clay,4,D,19920715,2,200414,,,Steffi Graf,R,,GER,23.0855578371,200554,,,Brenda Schultz Mccarthy,R,,NED,21.5468856947,6-3 7-6(6),3,RR,,,,,,,,,,,,,,,,,,,,2,250,30,37
-1992-D078,Fed Cup G1 QF: GRE vs LAT,Clay,4,D,19920416,1,212414,,,Oksana Bushevitsa,,,LAT,18.7405886379,202946,,,Christina Zachariadou,R,,GRE,17.6344969199,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,451,1,395,1
+1992-D078,Fed Cup G1 QF: GRE vs LAT,Clay,4,D,19920416,1,212414,,,Oksana Bushevitsa,U,,LAT,18.7405886379,202946,,,Christina Zachariadou,R,,GRE,17.6344969199,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,451,1,395,1
 1992-D078,Fed Cup G1 QF: GRE vs LAT,Clay,4,D,19920416,2,200450,,,Larisa Savchenko,U,,URS,25.7385352498,200696,,,Christina Papadaki,R,,GRE,19.1403148528,4-6 6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,49,21,206,4
 1992-D079,Fed Cup WG SF: GER vs USA,Clay,4,D,19920718,1,200081,,,Anke Huber,R,,GER,17.620807666,200417,,,Gigi Fernandez,U,,USA,28.4024640657,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,10,78,25,42
 1992-D079,Fed Cup WG SF: GER vs USA,Clay,4,D,19920718,2,200414,,,Steffi Graf,R,,GER,23.0937713895,200428,,,Lori Mcneil,U,,USA,28.5831622177,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,2,250,22,51
 1992-D080,Fed Cup WG R1: GBR vs USA,Clay,4,D,19920713,1,200417,,,Gigi Fernandez,U,,USA,28.3887748118,200514,,,Monique Javer,R,,GBR,24.977412731,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,25,42,66,17
 1992-D080,Fed Cup WG R1: GBR vs USA,Clay,4,D,19920713,2,200428,,,Lori Mcneil,U,,USA,28.5694729637,200392,,,Jo Durie,R,,GBR,31.961670089,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,22,51,37,28
-1992-D081,Fed Cup G1 RRA: EST vs LUX,Clay,4,D,19920415,1,212516,,,Kaja Kond,,,EST,24.7967145791,202078,,,Rosabel Moyen,U,,LUX,17.8809034908,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1992-D081,Fed Cup G1 RRA: EST vs LUX,Clay,4,D,19920415,2,212396,,,Helene Holter,,,EST,18.8747433265,200124,,,Anne Kremer,R,,LUX,16.4955509925,1-6 7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D081,Fed Cup G1 RRA: EST vs LUX,Clay,4,D,19920415,1,212516,,,Kaja Kond,U,,EST,24.7967145791,202078,,,Rosabel Moyen,U,,LUX,17.8809034908,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D081,Fed Cup G1 RRA: EST vs LUX,Clay,4,D,19920415,2,212396,,,Helene Holter,U,,EST,18.8747433265,200124,,,Anne Kremer,R,,LUX,16.4955509925,1-6 7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1992-D082,Fed Cup WG PO: BUL vs ROU,Clay,4,D,19920716,1,200086,,,Magdalena Maleeva,R,168,BUL,17.2922655715,200059,,,Ruxandra Dragomir Ilie,R,,ROU,19.7262149213,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,31,34,274,3
 1992-D082,Fed Cup WG PO: BUL vs ROU,Clay,4,D,19920716,2,200455,,,Katerina Maleeva,U,,BUL,23.1923340178,200051,,,Irina Spirlea,R,,ROU,18.3080082136,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,11,76,154,7
 1992-D083,Fed Cup WG R1: SWE vs SUI,Clay,4,D,19920714,1,200573,,,Cecilia Dahlman,U,,SWE,23.9726214921,200626,,,Emanuela Zardo,U,,SUI,22.2231348392,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,175,6,44,25
 1992-D083,Fed Cup WG R1: SWE vs SUI,Clay,4,D,19920714,2,200401,,,Manuela Maleeva Fragniere,R,,SUI,25.4127310062,200453,,,Catarina Lindqvist Ryan,U,,SWE,29.0869267625,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,9,79,51,23
-1992-D084,Fed Cup G1 RRB: SRI vs THA,Clay,4,D,19920506,1,202121,,,Benjamas Sangaram,U,,THA,17.3169062286,212420,,,Saranga Sangakkara,,,SRI,16.180698152,2-6 6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,631,0,,
+1992-D084,Fed Cup G1 RRB: SRI vs THA,Clay,4,D,19920506,1,202121,,,Benjamas Sangaram,U,,THA,17.3169062286,212420,,,Saranga Sangakkara,U,,SRI,16.180698152,2-6 6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,631,0,,
 1992-D084,Fed Cup G1 RRB: SRI vs THA,Clay,4,D,19920506,2,201747,,,Lihini Weerasuriya,U,,SRI,20.2080766598,202123,,,Suvimol Duangchan,U,,THA,18.0725530459,7-6(5) 6-7(4) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,472,1,605,0
-1992-D085,Fed Cup G1 RRB: BRA vs ECU,Clay,4,D,19920421,1,201947,,,Stephanie Mayorkis,U,,BRA,21.1334702259,212457,,,Maria De Los Angeles Ycaza,,,ECU,18.4284736482,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,504,0,,
+1992-D085,Fed Cup G1 RRB: BRA vs ECU,Clay,4,D,19920421,1,201947,,,Stephanie Mayorkis,U,,BRA,21.1334702259,212457,,,Maria De Los Angeles Ycaza,U,,ECU,18.4284736482,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,504,0,,
 1992-D085,Fed Cup G1 RRB: BRA vs ECU,Clay,4,D,19920421,2,201047,,,Andrea Vieira,U,,BRA,21.2073921971,204123,,,Maria Dolores Campana,U,,ECU,17.0458590007,3-6 6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,262,3,634,0
-1992-D086,Fed Cup G1 RRB: SRI vs TPE,Clay,4,D,19920504,1,212420,,,Saranga Sangakkara,,,SRI,16.1752224504,212466,,,Ya Hui Lin,,,TPE,22.4229979466,6-4 6-7(4) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D086,Fed Cup G1 RRB: SRI vs TPE,Clay,4,D,19920504,1,212420,,,Saranga Sangakkara,U,,SRI,16.1752224504,212466,,,Ya Hui Lin,U,,TPE,22.4229979466,6-4 6-7(4) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1992-D086,Fed Cup G1 RRB: SRI vs TPE,Clay,4,D,19920504,2,201747,,,Lihini Weerasuriya,U,,SRI,20.2026009582,200684,,,Shi Ting Wang,R,,TPE,18.5407255305,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,472,1,99,12
 1992-D087,Fed Cup G1 QF: SLO vs NOR,Clay,4,D,19920416,1,206836,,,Tina Vukasovic,U,,SLO,16.6105407255,202115,,,Cathrine Instebo,U,,NOR,18.3819301848,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,529,0,643,0
 1992-D087,Fed Cup G1 QF: SLO vs NOR,Clay,4,D,19920416,2,200672,,,Barbara Mulej,R,,SLO,17.8836413415,200511,,,Amy Jonsson Raaholt,U,,NOR,24.8569472964,6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,141,8,325,2
@@ -2625,36 +2625,36 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-D090,Fed Cup WG PO: CHN vs FIN,Clay,4,D,19920716,1,200663,,,Nanne Dahlman,U,,FIN,21.8562628337,200736,,,Li Ling Chen,U,,CHN,21.3442847365,7-5 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,,108,11,242,4
 1992-D090,Fed Cup WG PO: CHN vs FIN,Clay,4,D,19920716,2,200658,,,Fang Li,R,,CHN,19.537303217,200623,,,Petra Thoren,U,,FIN,22.9377138946,5-7 6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,114,10,82,13
 1992-D091,Fed Cup G1 SF: MEX vs VEN,Clay,4,D,19920425,1,207460,,,Isabela Petrov,U,,MEX,18.8774811773,207812,,,Eleonora Vegliante,U,,VEN,18.7624914442,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,396,1,642,0
-1992-D091,Fed Cup G1 SF: MEX vs VEN,Clay,4,D,19920425,2,200013,,,Angelica Gavaldon,R,,MEX,18.559890486,212597,,,Helene Kappler,,,VEN,19.112936345,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,179,5,567,0
+1992-D091,Fed Cup G1 SF: MEX vs VEN,Clay,4,D,19920425,2,200013,,,Angelica Gavaldon,R,,MEX,18.559890486,212597,,,Helene Kappler,U,,VEN,19.112936345,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,179,5,567,0
 1992-D092,Fed Cup G1 RRD: CHI vs VEN,Clay,4,D,19920422,1,202511,,,Paulina Sepulveda,U,,CHI,23.6002737851,204542,,,Ninfa Marra,U,,VEN,17.8042436687,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1992-D092,Fed Cup G1 RRD: CHI vs VEN,Clay,4,D,19920422,2,202170,,,Paula Cabezas,U,,ESP,19.6687200548,207812,,,Eleonora Vegliante,U,,VEN,18.7542778919,7-6(2) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,265,3,642,0
 1992-D093,Fed Cup WG R1: PAR vs NED,Clay,4,D,19920713,1,201729,,,Larissa Schaerer,R,,PAR,17.2457221081,200522,,,Nicole Krijger Jagerman,U,,NED,24.9746748802,1-6 6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,406,1,63,18
 1992-D093,Fed Cup WG R1: PAR vs NED,Clay,4,D,19920713,2,200485,,,Manon Bollegraf,U,,NED,28.257357974,200709,,,Rosana De Los Rios,R,170,PAR,16.8240930869,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,46,24,316,2
-1992-D094,Fed Cup G1 RRD: YUG vs MLT,Clay,4,D,19920415,1,212080,,,Branislava Ivanovic,,,YUG,16.9144421629,212081,,,Helen Asciak,,,MLT,29.2101300479,6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1992-D094,Fed Cup G1 RRD: YUG vs MLT,Clay,4,D,19920415,2,212416,,,Ljudmila Pavlov,,,YUG,17.7932922656,212125,,,Carol Cassar Torreggiani,,,MLT,23.7234770705,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1992-D095,Fed Cup G1 RRA: URU vs ESA,Clay,4,D,19920421,1,212445,,,Claudia Brause,,,URU,21.6454483231,206997,,,Annette Falkenberg,U,,ESA,18.3764544832,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1992-D095,Fed Cup G1 RRA: URU vs ESA,Clay,4,D,19920421,2,212447,,,Laura Olave,,,URU,17.158110883,206447,,,Ingrid Gonzalez,U,,ESA,21.0239561944,6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1992-D096,Fed Cup G1 RRD: MLT vs TUN,Clay,4,D,19920413,1,212081,,,Helen Asciak,,,MLT,29.2046543463,207695,,,Issem Essaies,U,,TUN,19.6386036961,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1992-D096,Fed Cup G1 RRD: MLT vs TUN,Clay,4,D,19920413,2,212125,,,Carol Cassar Torreggiani,,,MLT,23.7180013689,201209,,,Selima Sfar,R,,TUN,14.765229295,5-7 6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1992-D097,Fed Cup G1 RRA: TRI vs ESA,Clay,4,D,19920422,1,212446,,,Elizabeth Gibson,,,TRI,24.1149897331,206997,,,Annette Falkenberg,U,,ESA,18.379192334,7-5 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D094,Fed Cup G1 RRD: YUG vs MLT,Clay,4,D,19920415,1,212080,,,Branislava Ivanovic,U,,YUG,16.9144421629,212081,,,Helen Asciak,U,,MLT,29.2101300479,6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D094,Fed Cup G1 RRD: YUG vs MLT,Clay,4,D,19920415,2,212416,,,Ljudmila Pavlov,U,,YUG,17.7932922656,212125,,,Carol Cassar Torreggiani,U,,MLT,23.7234770705,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D095,Fed Cup G1 RRA: URU vs ESA,Clay,4,D,19920421,1,212445,,,Claudia Brause,U,,URU,21.6454483231,206997,,,Annette Falkenberg,U,,ESA,18.3764544832,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D095,Fed Cup G1 RRA: URU vs ESA,Clay,4,D,19920421,2,212447,,,Laura Olave,U,,URU,17.158110883,206447,,,Ingrid Gonzalez,U,,ESA,21.0239561944,6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D096,Fed Cup G1 RRD: MLT vs TUN,Clay,4,D,19920413,1,212081,,,Helen Asciak,U,,MLT,29.2046543463,207695,,,Issem Essaies,U,,TUN,19.6386036961,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D096,Fed Cup G1 RRD: MLT vs TUN,Clay,4,D,19920413,2,212125,,,Carol Cassar Torreggiani,U,,MLT,23.7180013689,201209,,,Selima Sfar,R,,TUN,14.765229295,5-7 6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D097,Fed Cup G1 RRA: TRI vs ESA,Clay,4,D,19920422,1,212446,,,Elizabeth Gibson,U,,TRI,24.1149897331,206997,,,Annette Falkenberg,U,,ESA,18.379192334,7-5 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1992-D097,Fed Cup G1 RRA: TRI vs ESA,Clay,4,D,19920422,2,207461,,,Kaisaran Siewrattan,U,,TRI,18.1820670773,206447,,,Ingrid Gonzalez,U,,ESA,21.0266940452,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1992-D098,Fed Cup WG PO: PAR vs SUI,Clay,4,D,19920717,1,200685,,,Christelle Fauche,U,,SUI,19.1047227926,201729,,,Larissa Schaerer,R,,PAR,17.2566735113,3-6 6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,80,14,406,1
 1992-D098,Fed Cup WG PO: PAR vs SUI,Clay,4,D,19920717,2,200401,,,Manuela Maleeva Fragniere,R,,SUI,25.4209445585,200709,,,Rosana De Los Rios,R,170,PAR,16.8350444901,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,9,79,316,2
-1992-D099,Fed Cup G1 RRC: COL vs DOM,Clay,4,D,19920423,1,202257,,,Carmina Giraldo,U,,COL,15.7125256674,212391,,,Paula Alvarez,,,DOM,,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1992-D099,Fed Cup G1 RRC: COL vs DOM,Clay,4,D,19920423,2,212600,,,Catalina Ramirez,,,COL,19.3155373032,212450,,,Patricia Rodriguez,,,DOM,17.0869267625,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1992-D100,Fed Cup G1 RRC: CUB vs COL,Clay,4,D,19920421,1,212410,,,Belkis Rodriguez,,,CUB,26.9377138946,212600,,,Catalina Ramirez,,,COL,19.3100616016,4-6 6-2 7-5,3,RR,,,,,,,,,,,,,,,,,,,,471,1,,
-1992-D100,Fed Cup G1 RRC: CUB vs COL,Clay,4,D,19920421,2,212411,,,Rita Pichardo,,,CUB,21.916495551,203929,,,Giana Gutierrez,U,,COL,15.8932238193,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,406,1,,
+1992-D099,Fed Cup G1 RRC: COL vs DOM,Clay,4,D,19920423,1,202257,,,Carmina Giraldo,U,,COL,15.7125256674,212391,,,Paula Alvarez,U,,DOM,,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D099,Fed Cup G1 RRC: COL vs DOM,Clay,4,D,19920423,2,212600,,,Catalina Ramirez,U,,COL,19.3155373032,212450,,,Patricia Rodriguez,U,,DOM,17.0869267625,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D100,Fed Cup G1 RRC: CUB vs COL,Clay,4,D,19920421,1,212410,,,Belkis Rodriguez,U,,CUB,26.9377138946,212600,,,Catalina Ramirez,U,,COL,19.3100616016,4-6 6-2 7-5,3,RR,,,,,,,,,,,,,,,,,,,,471,1,,
+1992-D100,Fed Cup G1 RRC: CUB vs COL,Clay,4,D,19920421,2,212411,,,Rita Pichardo,U,,CUB,21.916495551,203929,,,Giana Gutierrez,U,,COL,15.8932238193,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,406,1,,
 1992-D101,Fed Cup WG PO: NZL vs PAR,Clay,4,D,19920715,1,201729,,,Larissa Schaerer,R,,PAR,17.2511978097,203643,,,Hana Adamkova Guy,U,,NZL,23.1019849418,3-6 6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,406,1,303,2
 1992-D101,Fed Cup WG PO: NZL vs PAR,Clay,4,D,19920715,2,200709,,,Rosana De Los Rios,R,170,PAR,16.8295687885,200510,,,Julie Richardson,U,,NZL,25.2950034223,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,316,2,214,4
-1992-D102,Fed Cup G1 RRD: YUG vs TUN,Clay,4,D,19920414,1,212080,,,Branislava Ivanovic,,,YUG,16.9117043121,207695,,,Issem Essaies,U,,TUN,19.6413415469,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1992-D102,Fed Cup G1 RRD: YUG vs TUN,Clay,4,D,19920414,2,212416,,,Ljudmila Pavlov,,,YUG,17.7905544148,201209,,,Selima Sfar,R,,TUN,14.7679671458,7-6(6) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D102,Fed Cup G1 RRD: YUG vs TUN,Clay,4,D,19920414,1,212080,,,Branislava Ivanovic,U,,YUG,16.9117043121,207695,,,Issem Essaies,U,,TUN,19.6413415469,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D102,Fed Cup G1 RRD: YUG vs TUN,Clay,4,D,19920414,2,212416,,,Ljudmila Pavlov,U,,YUG,17.7905544148,201209,,,Selima Sfar,R,,TUN,14.7679671458,7-6(6) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1992-D103,Fed Cup WG PO: FIN vs GBR,Clay,4,D,19920717,1,200663,,,Nanne Dahlman,U,,FIN,21.8590006845,200443,,,Sara Gomer,U,,GBR,28.1779603012,6-4 6-0,3,RR,,,,,,,,,,,,,,,,,,,,108,11,95,12
 1992-D103,Fed Cup WG PO: FIN vs GBR,Clay,4,D,19920717,2,200623,,,Petra Thoren,U,,FIN,22.9404517454,200392,,,Jo Durie,R,,GBR,31.9726214921,6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,82,13,37,28
 1992-D104,Fed Cup WG F: GER vs ESP,Clay,4,D,19920719,1,200081,,,Anke Huber,R,,GER,17.6235455168,200049,,,Conchita Martinez,R,170,ESP,20.257357974,6-3 6-7(0) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,10,78,8,97
 1992-D104,Fed Cup WG F: GER vs ESP,Clay,4,D,19920719,2,200414,,,Steffi Graf,R,,GER,23.0965092402,200017,,,Arantxa Sanchez Vicario,R,,ESP,20.5859000684,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,2,250,5,152
 1992-D105,Fed Cup G1 SF: RSA vs SLO,Clay,4,D,19920417,1,200481,,,Elna Reinach,U,,RSA,23.3730321697,200695,,,Tina Krizan,R,,SLO,18.083504449,6-7(2) 6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,69,16,269,3
 1992-D105,Fed Cup G1 SF: RSA vs SLO,Clay,4,D,19920417,2,200064,,,Amanda Coetzer,R,158,RSA,20.4873374401,200672,,,Barbara Mulej,R,,SLO,17.8863791923,6-4 4-6 6-1,3,RR,,,,,,,,,,,,,,,,,,,,35,31,141,8
-1992-D106,Fed Cup G1 SF: CRO vs LAT,Clay,4,D,19920417,1,201288,,,Maja Palaversic Cooper Smith,R,,CRO,19.0663928816,212414,,,Oksana Bushevitsa,,,LAT,18.7433264887,6-4 2-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,354,1,451,1
+1992-D106,Fed Cup G1 SF: CRO vs LAT,Clay,4,D,19920417,1,201288,,,Maja Palaversic Cooper Smith,R,,CRO,19.0663928816,212414,,,Oksana Bushevitsa,U,,LAT,18.7433264887,6-4 2-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,354,1,451,1
 1992-D106,Fed Cup G1 SF: CRO vs LAT,Clay,4,D,19920417,2,200680,,,Nadin Ercegovic,U,,CRO,19.2032854209,200450,,,Larisa Savchenko,U,,URS,25.7412731006,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,131,9,49,21
 1992-D107,Fed Cup G1 QF: IRL vs CRO,Clay,4,D,19920416,1,201288,,,Maja Palaversic Cooper Smith,R,,CRO,19.0636550308,204590,,,Gina Niland,U,,IRL,19.5646817248,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,354,1,514,0
 1992-D107,Fed Cup G1 QF: IRL vs CRO,Clay,4,D,19920416,2,200680,,,Nadin Ercegovic,U,,CRO,19.2005475702,203816,,,Siobhan Nicholson,R,,GBR,25.8480492813,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,131,9,295,2
@@ -2662,25 +2662,25 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1992-D108,Fed Cup G1 SF: CHI vs BRA,Clay,4,D,19920425,2,202170,,,Paula Cabezas,U,,ESP,19.6769336071,201047,,,Andrea Vieira,U,,BRA,21.2183436003,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,265,3,262,3
 1992-D109,Fed Cup G1 RRB: CRO vs TUR,Clay,4,D,19920414,1,201288,,,Maja Palaversic Cooper Smith,R,,CRO,19.0581793292,207166,,,Ismet Duygu Aksit Oal,U,,TUR,20.5284052019,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,354,1,,
 1992-D109,Fed Cup G1 RRB: CRO vs TUR,Clay,4,D,19920414,2,200680,,,Nadin Ercegovic,U,,CRO,19.1950718686,204655,,,Gulberk Gultekin,U,,TUR,18.0287474333,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,131,9,,
-1992-D110,Fed Cup G1 RRC: CUB vs DOM,Clay,4,D,19920422,1,212410,,,Belkis Rodriguez,,,CUB,26.9404517454,212609,,,Rosanna Valerio,,,DOM,14.9596167009,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,471,1,,
-1992-D110,Fed Cup G1 RRC: CUB vs DOM,Clay,4,D,19920422,2,212411,,,Rita Pichardo,,,CUB,21.9192334018,212450,,,Patricia Rodriguez,,,DOM,17.0841889117,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,406,1,,
+1992-D110,Fed Cup G1 RRC: CUB vs DOM,Clay,4,D,19920422,1,212410,,,Belkis Rodriguez,U,,CUB,26.9404517454,212609,,,Rosanna Valerio,U,,DOM,14.9596167009,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,471,1,,
+1992-D110,Fed Cup G1 RRC: CUB vs DOM,Clay,4,D,19920422,2,212411,,,Rita Pichardo,U,,CUB,21.9192334018,212450,,,Patricia Rodriguez,U,,DOM,17.0841889117,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,406,1,,
 1992-D111,Fed Cup G1 RRB: CRO vs POR,Clay,4,D,19920415,1,201288,,,Maja Palaversic Cooper Smith,R,,CRO,19.06091718,201964,,,Tania Couto,U,,POR,19.7782340862,4-6 7-6(0) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,354,1,372,1
 1992-D111,Fed Cup G1 RRB: CRO vs POR,Clay,4,D,19920415,2,200680,,,Nadin Ercegovic,U,,CRO,19.1978097194,201963,,,Sofia Prazeres,U,,POR,17.8234086242,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,131,9,356,1
-1992-D112,Fed Cup G1 QF: RSA vs YUG,Clay,4,D,19920416,1,200481,,,Elna Reinach,U,,RSA,23.370294319,212080,,,Branislava Ivanovic,,,YUG,16.9171800137,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,69,16,,
-1992-D112,Fed Cup G1 QF: RSA vs YUG,Clay,4,D,19920416,2,200064,,,Amanda Coetzer,R,158,RSA,20.4845995893,212416,,,Ljudmila Pavlov,,,YUG,17.7960301164,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,35,31,,
+1992-D112,Fed Cup G1 QF: RSA vs YUG,Clay,4,D,19920416,1,200481,,,Elna Reinach,U,,RSA,23.370294319,212080,,,Branislava Ivanovic,U,,YUG,16.9171800137,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,69,16,,
+1992-D112,Fed Cup G1 QF: RSA vs YUG,Clay,4,D,19920416,2,200064,,,Amanda Coetzer,R,158,RSA,20.4845995893,212416,,,Ljudmila Pavlov,U,,YUG,17.7960301164,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,35,31,,
 1992-D113,Fed Cup G1 F: RSA vs CRO,Clay,4,D,19920418,1,201288,,,Maja Palaversic Cooper Smith,R,,CRO,19.0691307324,200481,,,Elna Reinach,U,,RSA,23.3757700205,7-6(6) 5-7 6-3,3,RR,,,,,,,,,,,,,,,,,,,,354,1,69,16
 1992-D113,Fed Cup G1 F: RSA vs CRO,Clay,4,D,19920418,2,200064,,,Amanda Coetzer,R,158,RSA,20.4900752909,200680,,,Nadin Ercegovic,U,,CRO,19.2060232717,7-5 4-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,35,31,131,9
 1992-D114,Fed Cup G1 QF: VEN vs COL,Clay,4,D,19920424,1,204542,,,Ninfa Marra,U,,VEN,17.8097193703,203929,,,Giana Gutierrez,U,,COL,15.9014373717,7-5 4-6 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1992-D114,Fed Cup G1 QF: VEN vs COL,Clay,4,D,19920424,2,207812,,,Eleonora Vegliante,U,,VEN,18.7597535934,212347,,,Carolina Torres,,,COL,18.8309377139,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,642,0,,
-1992-D115,Fed Cup G1 RRD: CRC vs JAM,Clay,4,D,19920422,1,212425,,,Sasha Hanna,,,JAM,15.0116358658,212547,,,Melissa Golfin,,,CRC,17.9630390144,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1992-D115,Fed Cup G1 RRD: CRC vs JAM,Clay,4,D,19920422,2,212160,,,Karla Golfin,,,CRC,21.2046543463,203886,,,Joni Van Ryck De Groot,U,,JAM,36.514715948,6-7(4) 6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1992-D116,Fed Cup G1 RRA: MEX vs URU,Clay,4,D,19920422,1,207460,,,Isabela Petrov,U,,MEX,18.8692676249,212445,,,Claudia Brause,,,URU,21.6481861739,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,396,1,,
-1992-D116,Fed Cup G1 RRA: MEX vs URU,Clay,4,D,19920422,2,200013,,,Angelica Gavaldon,R,,MEX,18.5516769336,212447,,,Laura Olave,,,URU,17.1608487337,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,179,5,,
-1992-D117,Fed Cup G1 RRA: MEX vs TRI,Clay,4,D,19920421,1,207460,,,Isabela Petrov,U,,MEX,18.8665297741,212446,,,Elizabeth Gibson,,,TRI,24.1122518823,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,396,1,,
+1992-D114,Fed Cup G1 QF: VEN vs COL,Clay,4,D,19920424,2,207812,,,Eleonora Vegliante,U,,VEN,18.7597535934,212347,,,Carolina Torres,U,,COL,18.8309377139,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,642,0,,
+1992-D115,Fed Cup G1 RRD: CRC vs JAM,Clay,4,D,19920422,1,212425,,,Sasha Hanna,U,,JAM,15.0116358658,212547,,,Melissa Golfin,U,,CRC,17.9630390144,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D115,Fed Cup G1 RRD: CRC vs JAM,Clay,4,D,19920422,2,212160,,,Karla Golfin,U,,CRC,21.2046543463,203886,,,Joni Van Ryck De Groot,U,,JAM,36.514715948,6-7(4) 6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D116,Fed Cup G1 RRA: MEX vs URU,Clay,4,D,19920422,1,207460,,,Isabela Petrov,U,,MEX,18.8692676249,212445,,,Claudia Brause,U,,URU,21.6481861739,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,396,1,,
+1992-D116,Fed Cup G1 RRA: MEX vs URU,Clay,4,D,19920422,2,200013,,,Angelica Gavaldon,R,,MEX,18.5516769336,212447,,,Laura Olave,U,,URU,17.1608487337,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,179,5,,
+1992-D117,Fed Cup G1 RRA: MEX vs TRI,Clay,4,D,19920421,1,207460,,,Isabela Petrov,U,,MEX,18.8665297741,212446,,,Elizabeth Gibson,U,,TRI,24.1122518823,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,396,1,,
 1992-D117,Fed Cup G1 RRA: MEX vs TRI,Clay,4,D,19920421,2,200013,,,Angelica Gavaldon,R,,MEX,18.5489390828,207461,,,Kaisaran Siewrattan,U,,TRI,18.1793292266,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,179,5,,
 1992-D118,Fed Cup G1 RRB: GRE vs CRO,Clay,4,D,19920413,1,202946,,,Christina Zachariadou,R,,GRE,17.6262833676,201821,,,Gorana Matic,U,,CRO,18.46954141,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,395,1,387,1
 1992-D118,Fed Cup G1 RRB: GRE vs CRO,Clay,4,D,19920413,2,200680,,,Nadin Ercegovic,U,,CRO,19.1923340178,200696,,,Christina Papadaki,R,,GRE,19.1321013005,6-3 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,,131,9,206,4
 1992-D119,Fed Cup WG R2: POL vs SWE,Clay,4,D,19920715,1,200573,,,Cecilia Dahlman,U,,SWE,23.9753593429,200710,,,Magdalena Feistel,U,,POL,21.8973305955,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,175,6,293,2
 1992-D119,Fed Cup WG R2: POL vs SWE,Clay,4,D,19920715,2,200687,,,Katarzyna Nowak,U,,POL,23.5017111567,200453,,,Catarina Lindqvist Ryan,U,,SWE,29.0896646133,7-6(4) 6-7(4) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,120,10,51,23
-1992-D120,Fed Cup G1 RRD: VEN vs CRC,Clay,4,D,19920423,1,204542,,,Ninfa Marra,U,,VEN,17.8069815195,212160,,,Karla Golfin,,,CRC,21.2073921971,4-6 6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1992-D120,Fed Cup G1 RRD: VEN vs CRC,Clay,4,D,19920423,1,204542,,,Ninfa Marra,U,,VEN,17.8069815195,212160,,,Karla Golfin,U,,CRC,21.2073921971,4-6 6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1992-D120,Fed Cup G1 RRD: VEN vs CRC,Clay,4,D,19920423,2,207812,,,Eleonora Vegliante,U,,VEN,18.7570157426,206666,,,Paula Umana,U,,CRC,17.6180698152,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,642,0,,

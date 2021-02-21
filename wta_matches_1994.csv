@@ -638,7 +638,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-W-WT-CHN-01A-1994,Beijing,Hard,32,W,19940214,12,200360,3,,Pam Shriver,R,,USA,31.6167008898,200623,,,Petra Thoren,U,,FIN,24.5201916496,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,54,29,,
 1994-W-WT-CHN-01A-1994,Beijing,Hard,32,W,19940214,13,201059,7,,Misumi Miyauchi,U,,JPN,22.4421629021,200464,,,Ann Henricksson,U,,USA,34.2915811088,6-3 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,144,10,136,11
 1994-W-WT-CHN-01A-1994,Beijing,Hard,32,W,19940214,14,200439,,,Jenny Byrne,U,,AUS,26.970568104,201723,,,Angela Kerek,U,,GER,22.0561259411,3-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,143,10,,
-1994-W-WT-CHN-01A-1994,Beijing,Hard,32,W,19940214,15,200645,,,Maja Zivec Skulj,U,,GER,20.3887748118,200287,,Q,Miki Yokobori,U,,JPN,,7-6 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,148,9,460,1
+1994-W-WT-CHN-01A-1994,Beijing,Hard,32,W,19940214,15,200645,,,Maja Zivec Skulj,U,,GER,20.3887748118,200287,,Q,Miki Yokobori,U,,JPN,18.7597535934,7-6 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,148,9,460,1
 1994-W-WT-CHN-01A-1994,Beijing,Hard,32,W,19940214,16,200653,2,,Yayuk Basuki,R,,INA,23.2087611225,200715,,,Mariaan De Swardt,R,,RSA,22.9130732375,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,38,38,,
 1994-W-WT-CHN-01A-1994,Beijing,Hard,32,W,19940214,17,200021,,,Alexia Dechaume Balleret,R,,FRA,23.7864476386,200545,,,Ei Iida,U,,JPN,26.4339493498,6-4 1-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1994-W-WT-CHN-01A-1994,Beijing,Hard,32,W,19940214,18,200690,8,,Kyoko Nagatsuka,U,,JPN,19.9780971937,201807,,Q,Li Yao Tang,U,,CHN,20.0602327173,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,124,12,,
@@ -2398,15 +2398,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-D008,Fed Cup G1 RRH: SLO vs IRL,Clay,4,D,19940420,2,200672,,,Barbara Mulej,R,,SLO,19.8932238193,204588,,,Karen Nugent,U,,IRL,17.8069815195,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,135,11,,
 1994-D009,Fed Cup G1 RRG: BLR vs ISR,Clay,4,D,19940421,1,200711,,,Tatiana Ignatieva,U,,BLR,19.8603696099,201809,,,Hila Rosen,R,,ISR,16.6242299795,7-5 3-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1994-D009,Fed Cup G1 RRG: BLR vs ISR,Clay,4,D,19940421,2,200116,,,Natalia Zvereva,R,,BLR,23.0143737166,200040,,,Anna Smashnova,R,,ISR,17.7631759069,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,10,110,92,16
-1994-D010,Fed Cup G1 RRD: GUA vs DOM,Clay,4,D,19940413,1,212390,,,Florea De Maria Urrea,,,GUA,24.8569472964,212391,,,Paula Alvarez,,,DOM,,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D010,Fed Cup G1 RRD: GUA vs DOM,Clay,4,D,19940413,2,212392,,,Alejandra Gomez,,,GUA,19.8576317591,206897,,,Monika Pimentel,U,,DOM,15.794661191,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D011,Fed Cup G1 RRH: ZIM vs IRL,Clay,4,D,19940419,1,204590,,,Gina Niland,U,,IRL,21.5715263518,212394,,,Nicole Wagstaff,,,ZIM,23.909650924,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D010,Fed Cup G1 RRD: GUA vs DOM,Clay,4,D,19940413,1,212390,,,Florea De Maria Urrea,U,,GUA,24.8569472964,212391,,,Paula Alvarez,U,,DOM,,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D010,Fed Cup G1 RRD: GUA vs DOM,Clay,4,D,19940413,2,212392,,,Alejandra Gomez,U,,GUA,19.8576317591,206897,,,Monika Pimentel,U,,DOM,15.794661191,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D011,Fed Cup G1 RRH: ZIM vs IRL,Clay,4,D,19940419,1,204590,,,Gina Niland,U,,IRL,21.5715263518,212394,,,Nicole Wagstaff,U,,ZIM,23.909650924,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1994-D011,Fed Cup G1 RRH: ZIM vs IRL,Clay,4,D,19940419,2,200072,,,Cara Black,R,167,ZIM,15.1676933607,204588,,,Karen Nugent,U,,IRL,17.8042436687,7-6(2) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1994-D012,Fed Cup G1 RRE: SVK vs LTU,Clay,4,D,19940418,1,200530,,,Radomira Zrubakova,R,,SVK,23.3100616016,207421,,,Ruta Deduraite,U,,LTU,17.2183436003,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,158,9,,
 1994-D012,Fed Cup G1 RRE: SVK vs LTU,Clay,4,D,19940418,2,200006,,,Karina Habsudova,R,,SVK,20.7091033539,206575,,,Galina Misiuriova,U,,LTU,20.8240930869,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,113,13,,
 1994-D013,Fed Cup G1 R1: AUT vs RUS,Clay,4,D,19940422,1,200693,,,Elena Makarova,U,,RUS,21.2183436003,200032,,,Barbara Schett,R,176,AUT,18.1163586585,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,97,15,89,16
 1994-D013,Fed Cup G1 R1: AUT vs RUS,Clay,4,D,19940422,2,200482,,,Judith Wiesner,R,,AUT,28.1396303901,200675,,,Eugenia Maniokova,R,,RUS,25.9301848049,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,23,57,77,18
-1994-D014,Fed Cup G1 RRA: BEL vs EST,Clay,4,D,19940421,1,200080,,,Dominique Monami,R,,BEL,20.8898015058,212409,,,Kristina Grunberg,,,EST,26.2340862423,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,65,23,,
+1994-D014,Fed Cup G1 RRA: BEL vs EST,Clay,4,D,19940421,1,200080,,,Dominique Monami,R,,BEL,20.8898015058,212409,,,Kristina Grunberg,U,,EST,26.2340862423,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,65,23,,
 1994-D014,Fed Cup G1 RRA: BEL vs EST,Clay,4,D,19940421,2,200037,,,Sabine Appelmans,L,,BEL,21.9958932238,207078,,,Helina Lill,U,,EST,17.4811772758,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,19,68,,
 1994-D015,Fed Cup G1 RRF: RUS vs LUX,Clay,4,D,19940419,1,200693,,,Elena Makarova,U,,RUS,21.2101300479,202078,,,Rosabel Moyen,U,,LUX,19.8904859685,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,97,15,,
 1994-D015,Fed Cup G1 RRF: RUS vs LUX,Clay,4,D,19940419,2,200675,,,Eugenia Maniokova,R,,RUS,25.9219712526,200124,,,Anne Kremer,R,,LUX,18.5051334702,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,77,18,,
@@ -2415,12 +2415,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-D017,Fed Cup G1 RRB: AUT vs POR,Clay,4,D,19940420,1,200032,,,Barbara Schett,R,176,AUT,18.1108829569,204605,,,Joana Pedroso,U,,POR,20.1998631075,4-6 7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,89,16,,
 1994-D017,Fed Cup G1 RRB: AUT vs POR,Clay,4,D,19940420,2,200482,,,Judith Wiesner,R,,AUT,28.1341546886,201963,,,Sofia Prazeres,U,,POR,19.8357289528,6-1 7-6(1),3,RR,,,,,,,,,,,,,,,,,,,,23,57,173,7
 1994-D018,Fed Cup G1 RRG: ISR vs EGY,Clay,4,D,19940418,1,201809,,,Hila Rosen,R,,ISR,16.6160164271,201906,,,Marwa El Wany,U,,EGY,17.4373716632,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D018,Fed Cup G1 RRG: ISR vs EGY,Clay,4,D,19940418,2,200040,,,Anna Smashnova,R,,ISR,17.7549623546,212399,,,Shahira Tawfik,,,EGY,21.711156742,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,92,16,,
+1994-D018,Fed Cup G1 RRG: ISR vs EGY,Clay,4,D,19940418,2,200040,,,Anna Smashnova,R,,ISR,17.7549623546,212399,,,Shahira Tawfik,U,,EGY,21.711156742,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,92,16,,
 1994-D020,Fed Cup G1 R1: CHI vs PER,Clay,4,D,19940416,1,204536,,,Barbara Castro,U,,CHI,18.6036960986,204578,,,Deborah Gaviria,R,,PER,15.4195756331,6-1 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D020,Fed Cup G1 R1: CHI vs PER,Clay,4,D,19940416,2,202170,,,Paula Cabezas,U,,ESP,21.6509240246,212429,,,Gianfranca Devercelli,,,PER,20.3121149897,6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,302,3,562,0
-1994-D021,Fed Cup G1 RRB: CHI vs BAH,Clay,4,D,19940412,1,204536,,,Barbara Castro,U,,CHI,18.5927446954,212431,,,Chris Anne Aston,,,BAH,26.6447638604,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D021,Fed Cup G1 RRB: CHI vs BAH,Clay,4,D,19940412,2,202170,,,Paula Cabezas,U,,ESP,21.6399726215,212432,,,Kim Cartwright,,,BAH,29.3990417522,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,302,3,,
-1994-D022,Fed Cup G1 RRC: MEX vs PUR,Clay,4,D,19940411,1,203046,,,Graciela Velez,U,,MEX,16.7830253251,212379,,,Maribel Amadeo,,,PUR,21.0513347023,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,552,1,,
+1994-D020,Fed Cup G1 R1: CHI vs PER,Clay,4,D,19940416,2,202170,,,Paula Cabezas,U,,ESP,21.6509240246,212429,,,Gianfranca Devercelli,U,,PER,20.3121149897,6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,302,3,562,0
+1994-D021,Fed Cup G1 RRB: CHI vs BAH,Clay,4,D,19940412,1,204536,,,Barbara Castro,U,,CHI,18.5927446954,212431,,,Chris Anne Aston,U,,BAH,26.6447638604,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D021,Fed Cup G1 RRB: CHI vs BAH,Clay,4,D,19940412,2,202170,,,Paula Cabezas,U,,ESP,21.6399726215,212432,,,Kim Cartwright,U,,BAH,29.3990417522,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,302,3,,
+1994-D022,Fed Cup G1 RRC: MEX vs PUR,Clay,4,D,19940411,1,203046,,,Graciela Velez,U,,MEX,16.7830253251,212379,,,Maribel Amadeo,U,,PUR,21.0513347023,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,552,1,,
 1994-D022,Fed Cup G1 RRC: MEX vs PUR,Clay,4,D,19940411,2,202166,,,Emilie Viqueira,U,,PUR,25.0568104038,203002,,,Karin Palme,U,,MEX,16.2874743326,6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,539,1
 1994-D023,Fed Cup G1 QF: AUT vs UKR,Clay,4,D,19940423,1,200627,,,Petra Schwarz,U,,AUT,21.9137577002,200634,,,Elena Brioukhovets,U,,UKR,22.8747433265,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,105,14,109,14
 1994-D023,Fed Cup G1 QF: AUT vs UKR,Clay,4,D,19940423,2,200482,,,Judith Wiesner,R,,AUT,28.1423682409,200612,,,Natalia Medvedeva,U,,UKR,22.4366872005,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,23,57,28,51
@@ -2430,25 +2430,25 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-D025,Fed Cup WG R1: ESP vs CHI,Clay,4,D,19940719,2,200017,,,Arantxa Sanchez Vicario,R,,ESP,22.5845311431,202170,,,Paula Cabezas,U,,ESP,21.9082819986,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,2,249,273,3
 1994-D026,Fed Cup WG QF: AUT vs USA,Clay,4,D,19940722,1,200597,,,Mary Joe Fernandez,R,,USA,22.9240246407,200627,,,Petra Schwarz,U,,AUT,22.160164271,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,11,92,65,23
 1994-D026,Fed Cup WG QF: AUT vs USA,Clay,4,D,19940722,2,200128,,,Lindsay Davenport,R,189,USA,18.1190965092,200482,,,Judith Wiesner,R,,AUT,28.3887748118,2-6 6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,6,126,35,45
-1994-D027,Fed Cup G1 RRD: BOL vs GUA,Clay,4,D,19940411,1,212448,,,Carla Jimenez,,,BOL,15.6112251882,212390,,,Florea De Maria Urrea,,,GUA,24.8514715948,6-4 4-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D027,Fed Cup G1 RRD: BOL vs GUA,Clay,4,D,19940411,2,207944,,,Cecilia Ampuero,U,,BOL,19.6084873374,212392,,,Alejandra Gomez,,,GUA,19.8521560575,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,574,0,,
+1994-D027,Fed Cup G1 RRD: BOL vs GUA,Clay,4,D,19940411,1,212448,,,Carla Jimenez,U,,BOL,15.6112251882,212390,,,Florea De Maria Urrea,U,,GUA,24.8514715948,6-4 4-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D027,Fed Cup G1 RRD: BOL vs GUA,Clay,4,D,19940411,2,207944,,,Cecilia Ampuero,U,,BOL,19.6084873374,212392,,,Alejandra Gomez,U,,GUA,19.8521560575,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,574,0,,
 1994-D028,Fed Cup WG R2: SWE vs JPN,Clay,4,D,19940720,1,200644,,,Naoko Sawamatsu,U,,JPN,21.325119781,200582,,,Maria Strandlund Tomsvik,U,,SWE,24.9226557153,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,24,56,205,5
 1994-D028,Fed Cup WG R2: SWE vs JPN,Clay,4,D,19940720,2,200617,,,Kimiko Date Krumm,R,163,JPN,23.8083504449,200084,,,Asa Svensson,R,,SWE,19.0937713895,6-2 7-5,3,RR,,,,,,,,,,,,,,,,,,,,5,132,70,22
-1994-D029,Fed Cup G1 R1: BOL vs GUA,Clay,4,D,19940416,1,212448,,,Carla Jimenez,,,BOL,15.6249144422,212390,,,Florea De Maria Urrea,,,GUA,24.8651608487,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D029,Fed Cup G1 R1: BOL vs GUA,Clay,4,D,19940416,2,207944,,,Cecilia Ampuero,U,,BOL,19.6221765914,212392,,,Alejandra Gomez,,,GUA,19.8658453114,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,574,0,,
-1994-D030,Fed Cup G1 RRB: ECU vs JAM,Clay,4,D,19940412,1,206917,,,Alexandra Guzman,U,,ECU,16.2272416153,212349,,,Lisa Yap Sam,,,JAM,35.9151266256,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D029,Fed Cup G1 R1: BOL vs GUA,Clay,4,D,19940416,1,212448,,,Carla Jimenez,U,,BOL,15.6249144422,212390,,,Florea De Maria Urrea,U,,GUA,24.8651608487,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D029,Fed Cup G1 R1: BOL vs GUA,Clay,4,D,19940416,2,207944,,,Cecilia Ampuero,U,,BOL,19.6221765914,212392,,,Alejandra Gomez,U,,GUA,19.8658453114,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,574,0,,
+1994-D030,Fed Cup G1 RRB: ECU vs JAM,Clay,4,D,19940412,1,206917,,,Alexandra Guzman,U,,ECU,16.2272416153,212349,,,Lisa Yap Sam,U,,JAM,35.9151266256,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1994-D030,Fed Cup G1 RRB: ECU vs JAM,Clay,4,D,19940412,2,204123,,,Maria Dolores Campana,U,,ECU,19.0198494182,203886,,,Joni Van Ryck De Groot,U,,JAM,38.4859685147,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,413,1,,
-1994-D032,Fed Cup G1 RRD: BOL vs CUB,Clay,4,D,19940413,1,206904,,,Yoannis Montesino,U,,CUB,22.7980835044,212448,,,Carla Jimenez,,,BOL,15.6167008898,6-0 7-6(9),3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D032,Fed Cup G1 RRD: BOL vs CUB,Clay,4,D,19940413,2,207944,,,Cecilia Ampuero,U,,BOL,19.613963039,212410,,,Belkis Rodriguez,,,CUB,28.9144421629,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,574,0,,
-1994-D033,Fed Cup G1 RRD: BOL vs DOM,Clay,4,D,19940412,1,212346,,,Sandra Kellemberger,,,BOL,17.7577002053,208506,,,Laura Hernandez,U,,MEX,7.64955509925,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D032,Fed Cup G1 RRD: BOL vs CUB,Clay,4,D,19940413,1,206904,,,Yoannis Montesino,U,,CUB,22.7980835044,212448,,,Carla Jimenez,U,,BOL,15.6167008898,6-0 7-6(9),3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D032,Fed Cup G1 RRD: BOL vs CUB,Clay,4,D,19940413,2,207944,,,Cecilia Ampuero,U,,BOL,19.613963039,212410,,,Belkis Rodriguez,U,,CUB,28.9144421629,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,574,0,,
+1994-D033,Fed Cup G1 RRD: BOL vs DOM,Clay,4,D,19940412,1,212346,,,Sandra Kellemberger,U,,BOL,17.7577002053,208506,,,Laura Hernandez,U,,MEX,7.64955509925,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1994-D033,Fed Cup G1 RRD: BOL vs DOM,Clay,4,D,19940412,2,207944,,,Cecilia Ampuero,U,,BOL,19.6112251882,206897,,,Monika Pimentel,U,,DOM,15.7919233402,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,574,0,,
 1994-D034,Fed Cup WG R2: CAN vs USA,Clay,4,D,19940721,1,200597,,,Mary Joe Fernandez,R,,USA,22.9212867899,200472,,,Helen Kelesi,U,,CAN,24.6789869952,6-1 4-1 RET,5,RR,,,,,,,,,,,,,,,,,,,,11,92,62,24
 1994-D034,Fed Cup WG R2: CAN vs USA,Clay,4,D,19940721,2,200128,,,Lindsay Davenport,R,189,USA,18.1163586585,200497,,,Patricia Hy Boulais,U,,CAN,28.9117043121,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,6,126,58,26
-1994-D035,Fed Cup G1 RRB: AUT vs MLT,Clay,4,D,19940419,1,200032,,,Barbara Schett,R,176,AUT,18.1081451061,212125,,,Carol Cassar Torreggiani,,,MLT,25.7330595483,6-1 7-6(2),3,RR,,,,,,,,,,,,,,,,,,,,89,16,,
-1994-D035,Fed Cup G1 RRB: AUT vs MLT,Clay,4,D,19940419,2,200482,,,Judith Wiesner,R,,AUT,28.1314168378,212081,,,Helen Asciak,,,MLT,31.2197125257,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,23,57,,
+1994-D035,Fed Cup G1 RRB: AUT vs MLT,Clay,4,D,19940419,1,200032,,,Barbara Schett,R,176,AUT,18.1081451061,212125,,,Carol Cassar Torreggiani,U,,MLT,25.7330595483,6-1 7-6(2),3,RR,,,,,,,,,,,,,,,,,,,,89,16,,
+1994-D035,Fed Cup G1 RRB: AUT vs MLT,Clay,4,D,19940419,2,200482,,,Judith Wiesner,R,,AUT,28.1314168378,212081,,,Helen Asciak,U,,MLT,31.2197125257,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,23,57,,
 1994-D036,Fed Cup G1 RRB: ECU vs TRI,Clay,4,D,19940413,1,206917,,,Alexandra Guzman,U,,ECU,16.2299794661,207461,,,Kaisaran Siewrattan,U,,TRI,20.1560574949,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D036,Fed Cup G1 RRB: ECU vs TRI,Clay,4,D,19940413,2,204123,,,Maria Dolores Campana,U,,ECU,19.022587269,212446,,,Elizabeth Gibson,,,TRI,26.0889801506,6-1 5-7 6-4,3,RR,,,,,,,,,,,,,,,,,,,,413,1,,
-1994-D037,Fed Cup G1 QF: BOL vs PAR,Clay,4,D,19940417,1,201729,,,Larissa Schaerer,R,,PAR,19.0061601643,212448,,,Carla Jimenez,,,BOL,15.627652293,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D036,Fed Cup G1 RRB: ECU vs TRI,Clay,4,D,19940413,2,204123,,,Maria Dolores Campana,U,,ECU,19.022587269,212446,,,Elizabeth Gibson,U,,TRI,26.0889801506,6-1 5-7 6-4,3,RR,,,,,,,,,,,,,,,,,,,,413,1,,
+1994-D037,Fed Cup G1 QF: BOL vs PAR,Clay,4,D,19940417,1,201729,,,Larissa Schaerer,R,,PAR,19.0061601643,212448,,,Carla Jimenez,U,,BOL,15.627652293,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1994-D037,Fed Cup G1 QF: BOL vs PAR,Clay,4,D,19940417,2,200709,,,Rosana De Los Rios,R,170,PAR,18.5845311431,207944,,,Cecilia Ampuero,U,,BOL,19.6249144422,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,145,9,574,0
 1994-D038,Fed Cup WG R1: CAN vs SUI,Clay,4,D,19940719,1,200560,,,Rene Collins,L,,CAN,28.5092402464,201968,,,Geraldine Dondit,U,,SUI,18.264202601,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,149,9,,
 1994-D038,Fed Cup WG R1: CAN vs SUI,Clay,4,D,19940719,2,200497,,,Patricia Hy Boulais,U,,CAN,28.9062286105,200626,,,Emanuela Zardo,U,,SUI,24.2354551677,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,58,26,71,22
@@ -2458,30 +2458,30 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-D040,Fed Cup G1 R1: ROU vs HUN,Clay,4,D,19940422,2,200051,,,Irina Spirlea,R,,ROU,20.0739219713,202195,,,Petra Gaspar,U,,HUN,17.1854893908,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,66,22,436,1
 1994-D041,Fed Cup G1 RRD: ROU vs HUN,Clay,4,D,19940421,1,200059,,,Ruxandra Dragomir Ilie,R,,ROU,21.4893908282,200119,,,Rita Kuti Kis,L,,HUN,16.1834360027,6-1 4-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,90,16,362,2
 1994-D041,Fed Cup G1 RRD: ROU vs HUN,Clay,4,D,19940421,2,200051,,,Irina Spirlea,R,,ROU,20.0711841205,202195,,,Petra Gaspar,U,,HUN,17.18275154,6-1 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,,66,22,436,1
-1994-D042,Fed Cup G1 RRD: HUN vs NOR,Clay,4,D,19940419,1,200119,,,Rita Kuti Kis,L,,HUN,16.1779603012,212356,,,Mette Sigmundstad,,,NOR,19.0663928816,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,362,2,,
-1994-D042,Fed Cup G1 RRD: HUN vs NOR,Clay,4,D,19940419,2,202195,,,Petra Gaspar,U,,HUN,17.1772758385,212487,,,Linda Beate Andersen,,,NOR,18.2012320329,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,436,1,,
+1994-D042,Fed Cup G1 RRD: HUN vs NOR,Clay,4,D,19940419,1,200119,,,Rita Kuti Kis,L,,HUN,16.1779603012,212356,,,Mette Sigmundstad,U,,NOR,19.0663928816,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,362,2,,
+1994-D042,Fed Cup G1 RRD: HUN vs NOR,Clay,4,D,19940419,2,202195,,,Petra Gaspar,U,,HUN,17.1772758385,212487,,,Linda Beate Andersen,U,,NOR,18.2012320329,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,436,1,,
 1994-D043,Fed Cup G1 R1: SVK vs GRE,Clay,4,D,19940422,1,200530,,,Radomira Zrubakova,R,,SVK,23.3210130048,207100,,,Alexandra Rentzoula,U,,GRE,19.2443531828,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,158,9,,
 1994-D043,Fed Cup G1 R1: SVK vs GRE,Clay,4,D,19940422,2,200006,,,Karina Habsudova,R,,SVK,20.720054757,202946,,,Christina Zachariadou,R,,GRE,19.6495550992,6-1 2-0 RET,5,RR,,,,,,,,,,,,,,,,,,,,113,13,493,1
 1994-D044,Fed Cup G1 RRE: SVK vs GRE,Clay,4,D,19940421,1,200530,,,Radomira Zrubakova,R,,SVK,23.318275154,207100,,,Alexandra Rentzoula,U,,GRE,19.241615332,7-5 6-0,3,RR,,,,,,,,,,,,,,,,,,,,158,9,,
 1994-D044,Fed Cup G1 RRE: SVK vs GRE,Clay,4,D,19940421,2,200697,,,Janette Husarova,R,,SVK,19.8795345654,202946,,,Christina Zachariadou,R,,GRE,19.6468172485,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,93,16,493,1
-1994-D045,Fed Cup G1 RRA: TPE vs SYR,Clay,4,D,19940503,1,202192,,,Tzu Ting Weng,U,,TPE,15.8384668036,212492,,,Rima Taki,,,SYR,20.977412731,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,489,1,,
-1994-D045,Fed Cup G1 RRA: TPE vs SYR,Clay,4,D,19940503,2,200684,,,Shi Ting Wang,R,,TPE,20.5366187543,212098,,,Farah Dayoub,,,SYR,18.9103353867,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,31,48,,
+1994-D045,Fed Cup G1 RRA: TPE vs SYR,Clay,4,D,19940503,1,202192,,,Tzu Ting Weng,U,,TPE,15.8384668036,212492,,,Rima Taki,U,,SYR,20.977412731,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,489,1,,
+1994-D045,Fed Cup G1 RRA: TPE vs SYR,Clay,4,D,19940503,2,200684,,,Shi Ting Wang,R,,TPE,20.5366187543,212098,,,Farah Dayoub,U,,SYR,18.9103353867,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,31,48,,
 1994-D046,Fed Cup WG R1: CUB vs ARG,Clay,4,D,19940718,1,200641,,,Patricia Tarabini,R,,ARG,25.9466119097,206904,,,Yoannis Montesino,U,,CUB,23.06091718,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,108,14,,
-1994-D046,Fed Cup WG R1: CUB vs ARG,Clay,4,D,19940718,2,200026,,,Florencia Labat,L,,ARG,23.099247091,212410,,,Belkis Rodriguez,,,CUB,29.1772758385,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,28,51,,
+1994-D046,Fed Cup WG R1: CUB vs ARG,Clay,4,D,19940718,2,200026,,,Florencia Labat,L,,ARG,23.099247091,212410,,,Belkis Rodriguez,U,,CUB,29.1772758385,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,28,51,,
 1994-D047,Fed Cup WG R1: ITA vs DEN,Clay,4,D,19940719,1,200700,,,Silvia Farina Elia,R,,ITA,22.2258726899,200452,,,Tine Scheuer Larsen,U,,DEN,28.3504449008,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,63,24,,
 1994-D047,Fed Cup WG R1: ITA vs DEN,Clay,4,D,19940719,2,200725,,,Sandra Cecchini,U,,ITA,29.3880903491,201969,,,Karin Ptaszek,U,,DEN,22.5681040383,6-1 7-5,3,RR,,,,,,,,,,,,,,,,,,,,50,31,298,3
-1994-D048,Fed Cup G1 RRA: IND vs SYR,Clay,4,D,19940504,1,202349,,,Rushmi Chakravarthi,R,,IND,16.5667351129,212499,,,Sara Taweel,,,SYR,15.6796714579,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D048,Fed Cup G1 RRA: IND vs SYR,Clay,4,D,19940504,2,200743,,,Nirupama Sanjeev,R,,IND,17.401779603,212492,,,Rima Taki,,,SYR,20.9801505818,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D048,Fed Cup G1 RRA: IND vs SYR,Clay,4,D,19940504,1,202349,,,Rushmi Chakravarthi,R,,IND,16.5667351129,212499,,,Sara Taweel,U,,SYR,15.6796714579,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D048,Fed Cup G1 RRA: IND vs SYR,Clay,4,D,19940504,2,200743,,,Nirupama Sanjeev,R,,IND,17.401779603,212492,,,Rima Taki,U,,SYR,20.9801505818,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1994-D049,Fed Cup G1 RRA: IND vs PHI,Clay,4,D,19940503,1,202942,,,Maricris Gentz,U,,PHI,14.7789185489,206678,,,Arati Ponnappa,U,,IND,17.7522245038,7-5 3-6 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D049,Fed Cup G1 RRA: IND vs PHI,Clay,4,D,19940503,2,200743,,,Nirupama Sanjeev,R,,IND,17.3990417522,212171,,,Francesca LaO,,,PHI,17.9876796715,5-7 6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,488,1
+1994-D049,Fed Cup G1 RRA: IND vs PHI,Clay,4,D,19940503,2,200743,,,Nirupama Sanjeev,R,,IND,17.3990417522,212171,,,Francesca LaO,U,,PHI,17.9876796715,5-7 6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,488,1
 1994-D050,Fed Cup G1 RRA: TUR vs EST,Clay,4,D,19940420,1,207166,,,Ismet Duygu Aksit Oal,U,,TUR,22.5434633812,207078,,,Helina Lill,U,,EST,17.4784394251,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D050,Fed Cup G1 RRA: TUR vs EST,Clay,4,D,19940420,2,212396,,,Helene Holter,,,EST,20.887063655,207702,,,Stela Penciu,R,,TUR,23.9698836413,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D050,Fed Cup G1 RRA: TUR vs EST,Clay,4,D,19940420,2,212396,,,Helene Holter,U,,EST,20.887063655,207702,,,Stela Penciu,R,,TUR,23.9698836413,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1994-D051,Fed Cup G1 RRA: IND vs TPE,Clay,4,D,19940502,1,202192,,,Tzu Ting Weng,U,,TPE,15.8357289528,206678,,,Arati Ponnappa,U,,IND,17.749486653,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,489,1,,
 1994-D051,Fed Cup G1 RRA: IND vs TPE,Clay,4,D,19940502,2,200684,,,Shi Ting Wang,R,,TPE,20.5338809035,200743,,,Nirupama Sanjeev,R,,IND,17.3963039014,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,31,48,,
-1994-D052,Fed Cup G1 RRG: BLR vs EGY,Clay,4,D,19940420,1,200711,,,Tatiana Ignatieva,U,,BLR,19.8576317591,212513,,,Mehry Shawki,,,EGY,17.1170431211,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D052,Fed Cup G1 RRG: BLR vs EGY,Clay,4,D,19940420,2,200116,,,Natalia Zvereva,R,,BLR,23.0116358658,212399,,,Shahira Tawfik,,,EGY,21.7166324435,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,10,110,,
+1994-D052,Fed Cup G1 RRG: BLR vs EGY,Clay,4,D,19940420,1,200711,,,Tatiana Ignatieva,U,,BLR,19.8576317591,212513,,,Mehry Shawki,U,,EGY,17.1170431211,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D052,Fed Cup G1 RRG: BLR vs EGY,Clay,4,D,19940420,2,200116,,,Natalia Zvereva,R,,BLR,23.0116358658,212399,,,Shahira Tawfik,U,,EGY,21.7166324435,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,10,110,,
 1994-D053,Fed Cup G1 QF: CUB vs MEX,Clay,4,D,19940417,1,206904,,,Yoannis Montesino,U,,CUB,22.8090349076,203046,,,Graciela Velez,U,,MEX,16.7994524298,5-7 6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,551,1
-1994-D053,Fed Cup G1 QF: CUB vs MEX,Clay,4,D,19940417,2,203002,,,Karin Palme,U,,MEX,16.3039014374,212410,,,Belkis Rodriguez,,,CUB,28.9253935661,7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,540,1,,
+1994-D053,Fed Cup G1 QF: CUB vs MEX,Clay,4,D,19940417,2,203002,,,Karin Palme,U,,MEX,16.3039014374,212410,,,Belkis Rodriguez,U,,CUB,28.9253935661,7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,540,1,,
 1994-D054,Fed Cup WG R1: TPE vs INA,Clay,4,D,19940719,1,200707,,,Romana Tedjakusuma,U,,INA,17.9849418207,202192,,,Tzu Ting Weng,U,,TPE,16.0492813142,7-6(6) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,121,13,,
 1994-D054,Fed Cup WG R1: TPE vs INA,Clay,4,D,19940719,2,200684,,,Shi Ting Wang,R,,TPE,20.7474332649,200653,,,Yayuk Basuki,R,,INA,23.6331279945,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,29,48,37,45
 1994-D055,Fed Cup G1 R1: ISR vs GBR,Clay,4,D,19940422,1,200392,,,Jo Durie,R,,GBR,33.735797399,204498,,,Shiri Burstein,U,,ISR,19.3785078713,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,384,2,555,1
@@ -2510,7 +2510,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-D066,Fed Cup G1 RRE: GRE vs LTU,Clay,4,D,19940420,2,206575,,,Galina Misiuriova,U,,LTU,20.8295687885,200696,,,Christina Papadaki,R,,GRE,21.1498973306,1-6 7-6(5) RET,5,RR,,,,,,,,,,,,,,,,,,,,,,195,6
 1994-D067,Fed Cup WG R1: CZE vs USA,Clay,4,D,19940719,1,200597,,,Mary Joe Fernandez,R,,USA,22.9158110883,200569,,,Petra Pichalova Langrova,U,,TCH,24.0602327173,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,11,92,83,18
 1994-D067,Fed Cup WG R1: CZE vs USA,Clay,4,D,19940719,2,200128,,,Lindsay Davenport,R,189,USA,18.1108829569,200718,,,Ludmila Richterova,U,,CZE,17.3661875428,4-6 6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,6,126,82,18
-1994-D068,Fed Cup G1 R1: BEL vs TUR,Clay,4,D,19940422,1,200080,,,Dominique Monami,R,,BEL,20.8925393566,212495,,,Esra Bayburt,,,TUR,18.893908282,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,65,23,,
+1994-D068,Fed Cup G1 R1: BEL vs TUR,Clay,4,D,19940422,1,200080,,,Dominique Monami,R,,BEL,20.8925393566,212495,,,Esra Bayburt,U,,TUR,18.893908282,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,65,23,,
 1994-D068,Fed Cup G1 R1: BEL vs TUR,Clay,4,D,19940422,2,200037,,,Sabine Appelmans,L,,BEL,21.9986310746,207166,,,Ismet Duygu Aksit Oal,U,,TUR,22.5489390828,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,19,68,,
 1994-D069,Fed Cup G1 RRA: BEL vs TUR,Clay,4,D,19940419,1,200076,,,Laurence Courtois,R,,BEL,18.250513347,207166,,,Ismet Duygu Aksit Oal,U,,TUR,22.5407255305,7-5 6-0,3,RR,,,,,,,,,,,,,,,,,,,,82,17,,
 1994-D069,Fed Cup G1 RRA: BEL vs TUR,Clay,4,D,19940419,2,200080,,,Dominique Monami,R,,BEL,20.8843258042,207702,,,Stela Penciu,R,,TUR,23.9671457906,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,65,23,,
@@ -2524,22 +2524,22 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-D073,Fed Cup G1 RRC: GEO vs TUN,Clay,4,D,19940418,2,200601,,,Leila Meskhi,U,,GEO,26.2833675565,207698,,,Aicha Ferjani,U,,TUN,20.2026009582,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,35,43,,
 1994-D074,Fed Cup G1 QF: SVK vs GEO,Clay,4,D,19940423,1,200530,,,Radomira Zrubakova,R,,SVK,23.3237508556,201850,,,Nino Louarsabishvili,U,,GEO,17.2156057495,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,158,9,486,1
 1994-D074,Fed Cup G1 QF: SVK vs GEO,Clay,4,D,19940423,2,200601,,,Leila Meskhi,U,,GEO,26.2970568104,200697,,,Janette Husarova,R,,SVK,19.8850102669,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,35,43,93,16
-1994-D075,Fed Cup G1 RRB: THA vs SRI,Clay,4,D,19940504,1,202123,,,Suvimol Duangchan,U,,THA,20.0657084189,212420,,,Saranga Sangakkara,,,SRI,18.173853525,7-6(2) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,607,0,,
+1994-D075,Fed Cup G1 RRB: THA vs SRI,Clay,4,D,19940504,1,202123,,,Suvimol Duangchan,U,,THA,20.0657084189,212420,,,Saranga Sangakkara,U,,SRI,18.173853525,7-6(2) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,607,0,,
 1994-D075,Fed Cup G1 RRB: THA vs SRI,Clay,4,D,19940504,2,200009,,,Tamarine Tanasugarn,R,165,THA,16.9445585216,201747,,,Lihini Weerasuriya,U,,SRI,22.2012320329,5-2 RET,5,RR,,,,,,,,,,,,,,,,,,,,,,345,2
 1994-D076,Fed Cup G1 R1: TRI vs VEN,Clay,4,D,19940416,1,204540,,,Maria Virginia Francesca,U,,VEN,20.0602327173,207461,,,Kaisaran Siewrattan,U,,TRI,20.1642710472,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D076,Fed Cup G1 R1: TRI vs VEN,Clay,4,D,19940416,2,204542,,,Ninfa Marra,U,,VEN,19.7864476386,212446,,,Elizabeth Gibson,,,TRI,26.0971937029,7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D076,Fed Cup G1 R1: TRI vs VEN,Clay,4,D,19940416,2,204542,,,Ninfa Marra,U,,VEN,19.7864476386,212446,,,Elizabeth Gibson,U,,TRI,26.0971937029,7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1994-D077,Fed Cup WG R1: CHN vs JPN,Clay,4,D,19940718,1,200644,,,Naoko Sawamatsu,U,,JPN,21.3196440794,200736,,,Li Ling Chen,U,,CHN,23.3483915127,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,24,56,243,4
 1994-D077,Fed Cup WG R1: CHN vs JPN,Clay,4,D,19940718,2,200658,,,Fang Li,R,,CHN,21.5414099932,200617,,,Kimiko Date Krumm,R,163,JPN,23.8028747433,7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,76,20,5,132
-1994-D078,Fed Cup G1 RRD: ROU vs NOR,Clay,4,D,19940418,1,200059,,,Ruxandra Dragomir Ilie,R,,ROU,21.4811772758,212356,,,Mette Sigmundstad,,,NOR,19.0636550308,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,90,16,,
-1994-D078,Fed Cup G1 RRD: ROU vs NOR,Clay,4,D,19940418,2,200051,,,Irina Spirlea,R,,ROU,20.0629705681,212487,,,Linda Beate Andersen,,,NOR,18.1984941821,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,66,22,,
+1994-D078,Fed Cup G1 RRD: ROU vs NOR,Clay,4,D,19940418,1,200059,,,Ruxandra Dragomir Ilie,R,,ROU,21.4811772758,212356,,,Mette Sigmundstad,U,,NOR,19.0636550308,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,90,16,,
+1994-D078,Fed Cup G1 RRD: ROU vs NOR,Clay,4,D,19940418,2,200051,,,Irina Spirlea,R,,ROU,20.0629705681,212487,,,Linda Beate Andersen,U,,NOR,18.1984941821,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,66,22,,
 1994-D079,Fed Cup G1 RRC: UKR vs TUN,Clay,4,D,19940419,1,200740,,,Elena Tatarkova,L,,UKR,17.6563997262,207696,,,Imen Ben Larbi,U,,TUN,16.3367556468,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1994-D079,Fed Cup G1 RRC: UKR vs TUN,Clay,4,D,19940419,2,200612,,,Natalia Medvedeva,U,,UKR,22.4257357974,207698,,,Aicha Ferjani,U,,TUN,20.205338809,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,28,51,,
-1994-D080,Fed Cup G1 RRB: POR vs MLT,Clay,4,D,19940421,1,204605,,,Joana Pedroso,U,,POR,20.2026009582,212082,,,Lisa Camenzuli,,,MLT,17.2621492129,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D080,Fed Cup G1 RRB: POR vs MLT,Clay,4,D,19940421,2,201963,,,Sofia Prazeres,U,,POR,19.8384668036,212125,,,Carol Cassar Torreggiani,,,MLT,25.7385352498,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,173,7,,
+1994-D080,Fed Cup G1 RRB: POR vs MLT,Clay,4,D,19940421,1,204605,,,Joana Pedroso,U,,POR,20.2026009582,212082,,,Lisa Camenzuli,U,,MLT,17.2621492129,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D080,Fed Cup G1 RRB: POR vs MLT,Clay,4,D,19940421,2,201963,,,Sofia Prazeres,U,,POR,19.8384668036,212125,,,Carol Cassar Torreggiani,U,,MLT,25.7385352498,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,173,7,,
 1994-D081,Fed Cup G1 RRA: PER vs ESA,Clay,4,D,19940411,1,204578,,,Deborah Gaviria,R,,PER,15.4058863792,206987,,,Renate Wachtler,U,,ESA,24.5229295003,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D081,Fed Cup G1 RRA: PER vs ESA,Clay,4,D,19940411,2,212429,,,Gianfranca Devercelli,,,PER,20.2984257358,206447,,,Ingrid Gonzalez,U,,ESA,22.9952087611,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,562,0,,
-1994-D082,Fed Cup G1 RRB: ECU vs BAH,Clay,4,D,19940415,1,206917,,,Alexandra Guzman,U,,ECU,16.2354551677,212596,,,Lori Feingold,,,BAH,23.4770704997,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D082,Fed Cup G1 RRB: ECU vs BAH,Clay,4,D,19940415,2,204123,,,Maria Dolores Campana,U,,ECU,19.0280629706,212564,,,Ann Simons,,,BAH,15.6632443532,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,413,1,,
+1994-D081,Fed Cup G1 RRA: PER vs ESA,Clay,4,D,19940411,2,212429,,,Gianfranca Devercelli,U,,PER,20.2984257358,206447,,,Ingrid Gonzalez,U,,ESA,22.9952087611,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,562,0,,
+1994-D082,Fed Cup G1 RRB: ECU vs BAH,Clay,4,D,19940415,1,206917,,,Alexandra Guzman,U,,ECU,16.2354551677,212596,,,Lori Feingold,U,,BAH,23.4770704997,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D082,Fed Cup G1 RRB: ECU vs BAH,Clay,4,D,19940415,2,204123,,,Maria Dolores Campana,U,,ECU,19.0280629706,212564,,,Ann Simons,U,,BAH,15.6632443532,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,413,1,,
 1994-D083,Fed Cup G1 RRA: PAR vs ESA,Clay,4,D,19940412,1,201729,,,Larissa Schaerer,R,,PAR,18.9924709103,206987,,,Renate Wachtler,U,,ESA,24.5256673511,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1994-D083,Fed Cup G1 RRA: PAR vs ESA,Clay,4,D,19940412,2,200709,,,Rosana De Los Rios,R,170,PAR,18.5708418891,206447,,,Ingrid Gonzalez,U,,ESA,22.9979466119,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,146,9,,
 1994-D084,Fed Cup G1 QF: CHI vs VEN,Clay,4,D,19940417,1,204540,,,Maria Virginia Francesca,U,,VEN,20.0629705681,204536,,,Barbara Castro,U,,CHI,18.6064339493,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
@@ -2550,67 +2550,67 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1994-D086,Fed Cup WG R2: RSA vs NED,Clay,4,D,19940720,2,200682,,,Joannette Kruger,R,,RSA,20.8761122519,200554,,,Brenda Schultz Mccarthy,R,,NED,23.5592060233,6-4 6-0,3,RR,,,,,,,,,,,,,,,,,,,,60,25,25,56
 1994-D087,Fed Cup WG R1: GER vs COL,Clay,4,D,19940718,1,200651,,,Sabine Hack,U,,GER,25.015742642,203047,,,Cecilia Hincapie,U,,COL,17.6563997262,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,15,77,,
 1994-D087,Fed Cup WG R1: GER vs COL,Clay,4,D,19940718,2,200081,,,Anke Huber,R,,GER,19.6194387406,202257,,,Carmina Giraldo,U,,COL,17.9466119097,6-0 3-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,16,77,,
-1994-D088,Fed Cup WG R1: RSA vs PAR,Clay,4,D,19940718,1,200481,,,Elna Reinach,U,,RSA,25.6235455168,212599,,,Magali Benitez,,,PAR,18.6064339493,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,67,23,,
+1994-D088,Fed Cup WG R1: RSA vs PAR,Clay,4,D,19940718,1,200481,,,Elna Reinach,U,,RSA,25.6235455168,212599,,,Magali Benitez,U,,PAR,18.6064339493,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,67,23,,
 1994-D088,Fed Cup WG R1: RSA vs PAR,Clay,4,D,19940718,2,200682,,,Joannette Kruger,R,,RSA,20.8706365503,201729,,,Larissa Schaerer,R,,PAR,19.2580424367,6-2 5-7 6-3,3,RR,,,,,,,,,,,,,,,,,,,,60,25,170,8
 1994-D089,Fed Cup G1 RRA: PAR vs PER,Clay,4,D,19940413,1,201729,,,Larissa Schaerer,R,,PAR,18.9952087611,204578,,,Deborah Gaviria,R,,PER,15.4113620808,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D089,Fed Cup G1 RRA: PAR vs PER,Clay,4,D,19940413,2,200709,,,Rosana De Los Rios,R,170,PAR,18.5735797399,212429,,,Gianfranca Devercelli,,,PER,20.3039014374,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,146,9,562,0
+1994-D089,Fed Cup G1 RRA: PAR vs PER,Clay,4,D,19940413,2,200709,,,Rosana De Los Rios,R,170,PAR,18.5735797399,212429,,,Gianfranca Devercelli,U,,PER,20.3039014374,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,146,9,562,0
 1994-D090,Fed Cup WG F: ESP vs USA,Clay,4,D,19940724,1,200049,,,Conchita Martinez,R,170,ESP,22.2696783025,200597,,,Mary Joe Fernandez,R,,USA,22.9295003422,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,3,220,11,92
 1994-D090,Fed Cup WG F: ESP vs USA,Clay,4,D,19940724,2,200017,,,Arantxa Sanchez Vicario,R,,ESP,22.598220397,200128,,,Lindsay Davenport,R,189,USA,18.1245722108,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,2,249,6,126
 1994-D091,Fed Cup G1 QF: BEL vs GBR,Clay,4,D,19940423,1,200080,,,Dominique Monami,R,,BEL,20.8952772074,200392,,,Jo Durie,R,,GBR,33.7385352498,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,65,23,384,2
 1994-D091,Fed Cup G1 QF: BEL vs GBR,Clay,4,D,19940423,2,200037,,,Sabine Appelmans,L,,BEL,22.0013689254,200542,,,Clare Wood,R,,GBR,26.1245722108,5-7 6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,19,68,80,17
-1994-D092,Fed Cup G1 RRB: JAM vs BAH,Clay,4,D,19940411,1,212349,,,Lisa Yap Sam,,,JAM,35.9123887748,212564,,,Ann Simons,,,BAH,15.65229295,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D092,Fed Cup G1 RRB: JAM vs BAH,Clay,4,D,19940411,2,203886,,,Joni Van Ryck De Groot,U,,JAM,38.4832306639,212432,,,Kim Cartwright,,,BAH,29.3963039014,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D093,Fed Cup G1 RRB: NZL vs SRI,Clay,4,D,19940503,1,212420,,,Saranga Sangakkara,,,SRI,18.1711156742,212605,,,Amanda Trail,,,NZL,22.2368240931,6-2 1-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D092,Fed Cup G1 RRB: JAM vs BAH,Clay,4,D,19940411,1,212349,,,Lisa Yap Sam,U,,JAM,35.9123887748,212564,,,Ann Simons,U,,BAH,15.65229295,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D092,Fed Cup G1 RRB: JAM vs BAH,Clay,4,D,19940411,2,203886,,,Joni Van Ryck De Groot,U,,JAM,38.4832306639,212432,,,Kim Cartwright,U,,BAH,29.3963039014,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D093,Fed Cup G1 RRB: NZL vs SRI,Clay,4,D,19940503,1,212420,,,Saranga Sangakkara,U,,SRI,18.1711156742,212605,,,Amanda Trail,U,,NZL,22.2368240931,6-2 1-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1994-D093,Fed Cup G1 RRB: NZL vs SRI,Clay,4,D,19940503,2,200639,,,Claudine Toleafoa,U,,NZL,24.1752224504,201747,,,Lihini Weerasuriya,U,,SRI,22.1984941821,7-6(4) 7-6(3),3,RR,,,,,,,,,,,,,,,,,,,,505,1,345,2
-1994-D094,Fed Cup G1 RRB: NZL vs SIN,Clay,4,D,19940504,1,212605,,,Amanda Trail,,,NZL,22.2395619439,212518,,,Dionne Lim,,,SIN,18.2203969884,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D094,Fed Cup G1 RRB: NZL vs SIN,Clay,4,D,19940504,1,212605,,,Amanda Trail,U,,NZL,22.2395619439,212518,,,Dionne Lim,U,,SIN,18.2203969884,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1994-D094,Fed Cup G1 RRB: NZL vs SIN,Clay,4,D,19940504,2,200639,,,Claudine Toleafoa,U,,NZL,24.1779603012,202181,,,Lela Zainal,U,,SIN,22.0616016427,6-4 6-0,3,RR,,,,,,,,,,,,,,,,,,,,505,1,620,0
-1994-D095,Fed Cup G1 SF: NZL vs PHI,Clay,4,D,19940505,1,202942,,,Maricris Gentz,U,,PHI,14.7843942505,212605,,,Amanda Trail,,,NZL,22.2422997947,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D095,Fed Cup G1 SF: NZL vs PHI,Clay,4,D,19940505,2,200639,,,Claudine Toleafoa,U,,NZL,24.180698152,212171,,,Francesca LaO,,,PHI,17.993155373,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,505,1,488,1
-1994-D096,Fed Cup G1 F: TPE vs NZL,Clay,4,D,19940506,1,202192,,,Tzu Ting Weng,U,,TPE,15.8466803559,212605,,,Amanda Trail,,,NZL,22.2450376454,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,489,1,,
+1994-D095,Fed Cup G1 SF: NZL vs PHI,Clay,4,D,19940505,1,202942,,,Maricris Gentz,U,,PHI,14.7843942505,212605,,,Amanda Trail,U,,NZL,22.2422997947,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D095,Fed Cup G1 SF: NZL vs PHI,Clay,4,D,19940505,2,200639,,,Claudine Toleafoa,U,,NZL,24.180698152,212171,,,Francesca LaO,U,,PHI,17.993155373,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,505,1,488,1
+1994-D096,Fed Cup G1 F: TPE vs NZL,Clay,4,D,19940506,1,202192,,,Tzu Ting Weng,U,,TPE,15.8466803559,212605,,,Amanda Trail,U,,NZL,22.2450376454,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,489,1,,
 1994-D096,Fed Cup G1 F: TPE vs NZL,Clay,4,D,19940506,2,200684,,,Shi Ting Wang,R,,TPE,20.5448323066,200639,,,Claudine Toleafoa,U,,NZL,24.1834360027,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,31,48,505,1
 1994-D097,Fed Cup WG SF: GER vs ESP,Clay,4,D,19940723,1,200651,,,Sabine Hack,U,,GER,25.029431896,200049,,,Conchita Martinez,R,170,ESP,22.2669404517,2-6 7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,,15,77,3,220
 1994-D097,Fed Cup WG SF: GER vs ESP,Clay,4,D,19940723,2,200017,,,Arantxa Sanchez Vicario,R,,ESP,22.5954825462,200081,,,Anke Huber,R,,GER,19.6331279945,4-6 6-0 7-5,3,RR,,,,,,,,,,,,,,,,,,,,2,249,16,77
-1994-D098,Fed Cup G1 RRB: THA vs NZL,Clay,4,D,19940502,1,202123,,,Suvimol Duangchan,U,,THA,20.0602327173,212605,,,Amanda Trail,,,NZL,22.2340862423,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,607,0,,
+1994-D098,Fed Cup G1 RRB: THA vs NZL,Clay,4,D,19940502,1,202123,,,Suvimol Duangchan,U,,THA,20.0602327173,212605,,,Amanda Trail,U,,NZL,22.2340862423,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,607,0,,
 1994-D098,Fed Cup G1 RRB: THA vs NZL,Clay,4,D,19940502,2,200009,,,Tamarine Tanasugarn,R,165,THA,16.93908282,200639,,,Claudine Toleafoa,U,,NZL,24.1724845996,6-3 4-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,505,1
-1994-D099,Fed Cup G1 RRC: VEN vs PUR,Clay,4,D,19940412,1,204540,,,Maria Virginia Francesca,U,,VEN,20.0492813142,212379,,,Maribel Amadeo,,,PUR,21.054072553,7-6(2) 7-6(4),3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D099,Fed Cup G1 RRC: VEN vs PUR,Clay,4,D,19940412,1,204540,,,Maria Virginia Francesca,U,,VEN,20.0492813142,212379,,,Maribel Amadeo,U,,PUR,21.054072553,7-6(2) 7-6(4),3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1994-D099,Fed Cup G1 RRC: VEN vs PUR,Clay,4,D,19940412,2,204542,,,Ninfa Marra,U,,VEN,19.7754962355,202166,,,Emilie Viqueira,U,,PUR,25.0595482546,7-6(4) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D100,Fed Cup G1 RRB: SRI vs SIN,Clay,4,D,19940502,1,212420,,,Saranga Sangakkara,,,SRI,18.1683778234,212518,,,Dionne Lim,,,SIN,18.2149212868,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D100,Fed Cup G1 RRB: SRI vs SIN,Clay,4,D,19940502,1,212420,,,Saranga Sangakkara,U,,SRI,18.1683778234,212518,,,Dionne Lim,U,,SIN,18.2149212868,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1994-D100,Fed Cup G1 RRB: SRI vs SIN,Clay,4,D,19940502,2,201747,,,Lihini Weerasuriya,U,,SRI,22.1957563313,202181,,,Lela Zainal,U,,SIN,22.0561259411,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,345,2,620,0
-1994-D101,Fed Cup G1 RRB: THA vs SIN,Clay,4,D,19940503,1,202124,,,Pimpisamai Kansuthi,U,,THA,16.4298425736,212518,,,Dionne Lim,,,SIN,18.2176591376,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D101,Fed Cup G1 RRB: THA vs SIN,Clay,4,D,19940503,1,202124,,,Pimpisamai Kansuthi,U,,THA,16.4298425736,212518,,,Dionne Lim,U,,SIN,18.2176591376,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1994-D101,Fed Cup G1 RRB: THA vs SIN,Clay,4,D,19940503,2,200009,,,Tamarine Tanasugarn,R,165,THA,16.9418206708,202181,,,Lela Zainal,U,,SIN,22.0588637919,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,620,0
-1994-D102,Fed Cup G1 RRD: CUB vs DOM,Clay,4,D,19940411,1,206904,,,Yoannis Montesino,U,,CUB,22.7926078029,212391,,,Paula Alvarez,,,DOM,,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D102,Fed Cup G1 RRD: CUB vs DOM,Clay,4,D,19940411,2,212410,,,Belkis Rodriguez,,,CUB,28.9089664613,206897,,,Monika Pimentel,U,,DOM,15.7891854894,6-2 2-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D102,Fed Cup G1 RRD: CUB vs DOM,Clay,4,D,19940411,1,206904,,,Yoannis Montesino,U,,CUB,22.7926078029,212391,,,Paula Alvarez,U,,DOM,,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D102,Fed Cup G1 RRD: CUB vs DOM,Clay,4,D,19940411,2,212410,,,Belkis Rodriguez,U,,CUB,28.9089664613,206897,,,Monika Pimentel,U,,DOM,15.7891854894,6-2 2-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1994-D103,Fed Cup G1 R1: CUB vs ECU,Clay,4,D,19940416,1,206904,,,Yoannis Montesino,U,,CUB,22.8062970568,206917,,,Alexandra Guzman,U,,ECU,16.2381930185,6-2 1-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D103,Fed Cup G1 R1: CUB vs ECU,Clay,4,D,19940416,2,204123,,,Maria Dolores Campana,U,,ECU,19.0308008214,212410,,,Belkis Rodriguez,,,CUB,28.9226557153,6-2 7-5,3,RR,,,,,,,,,,,,,,,,,,,,413,1,,
+1994-D103,Fed Cup G1 R1: CUB vs ECU,Clay,4,D,19940416,2,204123,,,Maria Dolores Campana,U,,ECU,19.0308008214,212410,,,Belkis Rodriguez,U,,CUB,28.9226557153,6-2 7-5,3,RR,,,,,,,,,,,,,,,,,,,,413,1,,
 1994-D104,Fed Cup G1 R1: UKR vs SLO,Clay,4,D,19940422,1,200695,,,Tina Krizan,R,,SLO,20.0958247775,200740,,,Elena Tatarkova,L,,UKR,17.6646132786,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,180,7,,
 1994-D104,Fed Cup G1 R1: UKR vs SLO,Clay,4,D,19940422,2,200612,,,Natalia Medvedeva,U,,UKR,22.4339493498,200672,,,Barbara Mulej,R,,SLO,19.8986995209,6-2 4-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,28,51,135,11
-1994-D105,Fed Cup G1 RRD: CUB vs GUA,Clay,4,D,19940412,1,206902,,,Yamile Cordova,U,,CUB,21.5934291581,212390,,,Florea De Maria Urrea,,,GUA,24.8542094456,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D105,Fed Cup G1 RRD: CUB vs GUA,Clay,4,D,19940412,2,212410,,,Belkis Rodriguez,,,CUB,28.9117043121,212392,,,Alejandra Gomez,,,GUA,19.8548939083,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D105,Fed Cup G1 RRD: CUB vs GUA,Clay,4,D,19940412,1,206902,,,Yamile Cordova,U,,CUB,21.5934291581,212390,,,Florea De Maria Urrea,U,,GUA,24.8542094456,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D105,Fed Cup G1 RRD: CUB vs GUA,Clay,4,D,19940412,2,212410,,,Belkis Rodriguez,U,,CUB,28.9117043121,212392,,,Alejandra Gomez,U,,GUA,19.8548939083,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1994-D106,Fed Cup G1 RRH: SLO vs ZIM,Clay,4,D,19940418,1,200695,,,Tina Krizan,R,,SLO,20.0848733744,206620,,,Diana Mills,U,,ZIM,21.0513347023,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,180,7,,
 1994-D106,Fed Cup G1 RRH: SLO vs ZIM,Clay,4,D,19940418,2,200672,,,Barbara Mulej,R,,SLO,19.8877481177,200072,,,Cara Black,R,167,ZIM,15.1649555099,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,135,11,,
 1994-D107,Fed Cup G1 RRA: PHI vs TPE,Clay,4,D,19940504,1,202942,,,Maricris Gentz,U,,PHI,14.7816563997,202192,,,Tzu Ting Weng,U,,TPE,15.8412046543,4-6 6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,489,1
-1994-D107,Fed Cup G1 RRA: PHI vs TPE,Clay,4,D,19940504,2,200684,,,Shi Ting Wang,R,,TPE,20.5393566051,212171,,,Francesca LaO,,,PHI,17.9904175222,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,31,48,488,1
-1994-D108,Fed Cup G1 RRA: CRC vs ESA,Clay,4,D,19940413,1,212547,,,Melissa Golfin,,,CRC,19.9370294319,206987,,,Renate Wachtler,U,,ESA,24.5284052019,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D107,Fed Cup G1 RRA: PHI vs TPE,Clay,4,D,19940504,2,200684,,,Shi Ting Wang,R,,TPE,20.5393566051,212171,,,Francesca LaO,U,,PHI,17.9904175222,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,31,48,488,1
+1994-D108,Fed Cup G1 RRA: CRC vs ESA,Clay,4,D,19940413,1,212547,,,Melissa Golfin,U,,CRC,19.9370294319,206987,,,Renate Wachtler,U,,ESA,24.5284052019,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1994-D108,Fed Cup G1 RRA: CRC vs ESA,Clay,4,D,19940413,2,206666,,,Paula Umana,U,,CRC,19.5893223819,206447,,,Ingrid Gonzalez,U,,ESA,23.0006844627,7-5 2-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D109,Fed Cup G1 RRA: PAR vs CRC,Clay,4,D,19940411,1,201729,,,Larissa Schaerer,R,,PAR,18.9897330595,212611,,,Jennifer Ligator,,,CRC,17.0650239562,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D109,Fed Cup G1 RRA: PAR vs CRC,Clay,4,D,19940411,1,201729,,,Larissa Schaerer,R,,PAR,18.9897330595,212611,,,Jennifer Ligator,U,,CRC,17.0650239562,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1994-D109,Fed Cup G1 RRA: PAR vs CRC,Clay,4,D,19940411,2,200709,,,Rosana De Los Rios,R,170,PAR,18.5681040383,206666,,,Paula Umana,U,,CRC,19.5838466804,7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,,146,9,,
-1994-D110,Fed Cup G1 R1: PAR vs CRC,Clay,4,D,19940416,1,201729,,,Larissa Schaerer,R,,PAR,19.0034223135,212611,,,Jennifer Ligator,,,CRC,17.0787132101,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D110,Fed Cup G1 R1: PAR vs CRC,Clay,4,D,19940416,1,201729,,,Larissa Schaerer,R,,PAR,19.0034223135,212611,,,Jennifer Ligator,U,,CRC,17.0787132101,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1994-D110,Fed Cup G1 R1: PAR vs CRC,Clay,4,D,19940416,2,200709,,,Rosana De Los Rios,R,170,PAR,18.5817932923,206666,,,Paula Umana,U,,CRC,19.5975359343,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,146,9,,
 1994-D111,Fed Cup G1 R1: MEX vs URU,Clay,4,D,19940416,1,203046,,,Graciela Velez,U,,MEX,16.7967145791,204488,,,Elena Juricich,U,,URU,14.6091718001,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,552,1,,
-1994-D111,Fed Cup G1 R1: MEX vs URU,Clay,4,D,19940416,2,203002,,,Karin Palme,U,,MEX,16.3011635866,212445,,,Claudia Brause,,,URU,23.6303901437,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,539,1,,
+1994-D111,Fed Cup G1 R1: MEX vs URU,Clay,4,D,19940416,2,203002,,,Karin Palme,U,,MEX,16.3011635866,212445,,,Claudia Brause,U,,URU,23.6303901437,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,539,1,,
 1994-D112,Fed Cup G1 RRC: URU vs MEX,Clay,4,D,19940412,1,203046,,,Graciela Velez,U,,MEX,16.7857631759,206458,,,Maria Eugenia Fernandez,U,,URU,15.1293634497,2-6 6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,552,1,,
-1994-D112,Fed Cup G1 RRC: URU vs MEX,Clay,4,D,19940412,2,212445,,,Claudia Brause,,,URU,23.6194387406,203002,,,Karin Palme,U,,MEX,16.2902121834,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,539,1
+1994-D112,Fed Cup G1 RRC: URU vs MEX,Clay,4,D,19940412,2,212445,,,Claudia Brause,U,,URU,23.6194387406,203002,,,Karin Palme,U,,MEX,16.2902121834,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,539,1
 1994-D113,Fed Cup G1 RRB: CHI vs TRI,Clay,4,D,19940411,1,204756,,,Maria Alejandra Quezada,U,,CHI,20.0958247775,207461,,,Kaisaran Siewrattan,U,,TRI,20.1505817933,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D113,Fed Cup G1 RRB: CHI vs TRI,Clay,4,D,19940411,2,202170,,,Paula Cabezas,U,,ESP,21.6372347707,212446,,,Elizabeth Gibson,,,TRI,26.083504449,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,302,3,,
-1994-D114,Fed Cup G1 RRA: PHI vs SYR,Clay,4,D,19940502,1,202942,,,Maricris Gentz,U,,PHI,14.7761806982,212499,,,Sara Taweel,,,SYR,15.6741957563,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D114,Fed Cup G1 RRA: PHI vs SYR,Clay,4,D,19940502,2,212171,,,Francesca LaO,,,PHI,17.9849418207,212098,,,Farah Dayoub,,,SYR,18.9075975359,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,488,1,,
+1994-D113,Fed Cup G1 RRB: CHI vs TRI,Clay,4,D,19940411,2,202170,,,Paula Cabezas,U,,ESP,21.6372347707,212446,,,Elizabeth Gibson,U,,TRI,26.083504449,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,302,3,,
+1994-D114,Fed Cup G1 RRA: PHI vs SYR,Clay,4,D,19940502,1,202942,,,Maricris Gentz,U,,PHI,14.7761806982,212499,,,Sara Taweel,U,,SYR,15.6741957563,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D114,Fed Cup G1 RRA: PHI vs SYR,Clay,4,D,19940502,2,212171,,,Francesca LaO,U,,PHI,17.9849418207,212098,,,Farah Dayoub,U,,SYR,18.9075975359,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,488,1,,
 1994-D115,Fed Cup WG QF: ESP vs JPN,Clay,4,D,19940722,1,200049,,,Conchita Martinez,R,170,ESP,22.264202601,200644,,,Naoko Sawamatsu,U,,JPN,21.3305954825,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,3,220,24,56
 1994-D115,Fed Cup WG QF: ESP vs JPN,Clay,4,D,19940722,2,200017,,,Arantxa Sanchez Vicario,R,,ESP,22.5927446954,200617,,,Kimiko Date Krumm,R,163,JPN,23.8138261465,6-3 2-6 8-6,3,RR,,,,,,,,,,,,,,,,,,,,2,249,5,132
-1994-D116,Fed Cup G1 RRC: URU vs PUR,Clay,4,D,19940413,1,206458,,,Maria Eugenia Fernandez,U,,URU,15.1321013005,212379,,,Maribel Amadeo,,,PUR,21.0568104038,1-6 6-4 9-7,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D116,Fed Cup G1 RRC: URU vs PUR,Clay,4,D,19940413,2,202166,,,Emilie Viqueira,U,,PUR,25.0622861054,212445,,,Claudia Brause,,,URU,23.6221765914,3-6 6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D116,Fed Cup G1 RRC: URU vs PUR,Clay,4,D,19940413,1,206458,,,Maria Eugenia Fernandez,U,,URU,15.1321013005,212379,,,Maribel Amadeo,U,,PUR,21.0568104038,1-6 6-4 9-7,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D116,Fed Cup G1 RRC: URU vs PUR,Clay,4,D,19940413,2,202166,,,Emilie Viqueira,U,,PUR,25.0622861054,212445,,,Claudia Brause,U,,URU,23.6221765914,3-6 6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1994-D117,Fed Cup G1 RRC: VEN vs URU,Clay,4,D,19940411,1,204540,,,Maria Virginia Francesca,U,,VEN,20.0465434634,206458,,,Maria Eugenia Fernandez,U,,URU,15.1266255989,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D117,Fed Cup G1 RRC: VEN vs URU,Clay,4,D,19940411,2,212445,,,Claudia Brause,,,URU,23.6167008898,204542,,,Ninfa Marra,U,,VEN,19.7727583847,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D118,Fed Cup G1 RRB: TRI vs BAH,Clay,4,D,19940414,1,212431,,,Chris Anne Aston,,,BAH,26.6502395619,212613,,,Beverly Corbie,,,TRI,32.8295687885,6-1 1-6 10-8,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D118,Fed Cup G1 RRB: TRI vs BAH,Clay,4,D,19940414,2,212446,,,Elizabeth Gibson,,,TRI,26.0917180014,212432,,,Kim Cartwright,,,BAH,29.4045174538,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D119,Fed Cup G1 RRA: PER vs CRC,Clay,4,D,19940412,1,204578,,,Deborah Gaviria,R,,PER,15.40862423,212547,,,Melissa Golfin,,,CRC,19.9342915811,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1994-D119,Fed Cup G1 RRA: PER vs CRC,Clay,4,D,19940412,2,212429,,,Gianfranca Devercelli,,,PER,20.3011635866,206666,,,Paula Umana,U,,CRC,19.5865845311,6-2 1-6 7-5,3,RR,,,,,,,,,,,,,,,,,,,,562,0,,
+1994-D117,Fed Cup G1 RRC: VEN vs URU,Clay,4,D,19940411,2,212445,,,Claudia Brause,U,,URU,23.6167008898,204542,,,Ninfa Marra,U,,VEN,19.7727583847,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D118,Fed Cup G1 RRB: TRI vs BAH,Clay,4,D,19940414,1,212431,,,Chris Anne Aston,U,,BAH,26.6502395619,212613,,,Beverly Corbie,U,,TRI,32.8295687885,6-1 1-6 10-8,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D118,Fed Cup G1 RRB: TRI vs BAH,Clay,4,D,19940414,2,212446,,,Elizabeth Gibson,U,,TRI,26.0917180014,212432,,,Kim Cartwright,U,,BAH,29.4045174538,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D119,Fed Cup G1 RRA: PER vs CRC,Clay,4,D,19940412,1,204578,,,Deborah Gaviria,R,,PER,15.40862423,212547,,,Melissa Golfin,U,,CRC,19.9342915811,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1994-D119,Fed Cup G1 RRA: PER vs CRC,Clay,4,D,19940412,2,212429,,,Gianfranca Devercelli,U,,PER,20.3011635866,206666,,,Paula Umana,U,,CRC,19.5865845311,6-2 1-6 7-5,3,RR,,,,,,,,,,,,,,,,,,,,562,0,,

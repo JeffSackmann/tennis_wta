@@ -1,6 +1,6 @@
 tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
 1993-W-SL-AUS-01A-1993,Australian Open,Hard,128,G,19930118,1,200013,1,,Angelica Gavaldon,R,,MEX,19.2936344969,200620,,,Kirrily Sharpe,U,,AUS,19.8959616701,6-3 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,114,10,216,4
-1993-W-SL-AUS-01A-1993,Australian Open,Hard,128,G,19930118,2,200287,,,Miki Yokobori,U,,JPN,,200038,,WC,Annabel Ellwood,R,,AUS,14.9596167009,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,266,3,,
+1993-W-SL-AUS-01A-1993,Australian Open,Hard,128,G,19930118,2,200287,,,Miki Yokobori,U,,JPN,17.6865160849,200038,,WC,Annabel Ellwood,R,,AUS,14.9596167009,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,266,3,,
 1993-W-SL-AUS-01A-1993,Australian Open,Hard,128,G,19930118,3,200708,,,Sandra Cacic,R,,USA,18.3572895277,201723,,,Angela Kerek,U,,GER,20.9828884326,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,243,3,193,5
 1993-W-SL-AUS-01A-1993,Australian Open,Hard,128,G,19930118,4,200648,9,,Marketa Kochta,U,,GER,17.5167693361,200670,,,Nathalie Housset Gilbert,U,,FRA,24.4736481862,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,157,7,187,5
 1993-W-SL-AUS-01A-1993,Australian Open,Hard,128,G,19930118,5,200057,13,,Erika De Lone,R,,USA,20.2628336756,201194,,,Tammy Whittington,U,,USA,27.2689938398,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,162,6,183,5
@@ -31,7 +31,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-W-SL-AUS-01A-1993,Australian Open,Hard,128,G,19930118,30,200639,,,Claudine Toleafoa,U,,NZL,22.8884325804,200519,,,Sybille Niox Chateau,U,,FRA,23.2498288843,3-6 6-0 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,229,3,205,4
 1993-W-SL-AUS-01A-1993,Australian Open,Hard,128,G,19930118,31,200608,,,Audra Keller,U,,USA,21.1718001369,200721,,,Hiromi Nagano,U,,JPN,21.5003422313,6-3 4-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,249,3,198,5
 1993-W-SL-AUS-01A-1993,Australian Open,Hard,128,G,19930118,32,200128,2,,Lindsay Davenport,R,189,USA,16.6132785763,200040,,,Anna Smashnova,R,,ISR,16.5092402464,6-2 7-6(3),3,Q1,,,,,,,,,,,,,,,,,,,,135,8,232,3
-1993-W-SL-AUS-01A-1993,Australian Open,Hard,128,G,19930118,33,200013,1,,Angelica Gavaldon,R,,MEX,19.2936344969,200287,,,Miki Yokobori,U,,JPN,,7-5 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,114,10,266,3
+1993-W-SL-AUS-01A-1993,Australian Open,Hard,128,G,19930118,33,200013,1,,Angelica Gavaldon,R,,MEX,19.2936344969,200287,,,Miki Yokobori,U,,JPN,17.6865160849,7-5 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,114,10,266,3
 1993-W-SL-AUS-01A-1993,Australian Open,Hard,128,G,19930118,34,200648,9,,Marketa Kochta,U,,GER,17.5167693361,200708,,,Sandra Cacic,R,,USA,18.3572895277,6-0 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,157,7,243,3
 1993-W-SL-AUS-01A-1993,Australian Open,Hard,128,G,19930118,35,201177,,,Amanda Grunfeld,U,,GBR,25.8863791923,200057,13,,Erika De Lone,R,,USA,20.2628336756,4-6 6-1 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,184,5,162,6
 1993-W-SL-AUS-01A-1993,Australian Open,Hard,128,G,19930118,36,200582,,,Maria Strandlund Tomsvik,U,,SWE,23.4223134839,200535,,,Jo Anne Faull,U,,AUS,22.0150581793,7-5 3-6 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,222,4,194,5

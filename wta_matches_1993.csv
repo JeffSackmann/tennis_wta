@@ -2554,12 +2554,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-D010,Fed Cup WG R1: ITA vs ISR,Clay,4,D,19930719,2,200725,,,Sandra Cecchini,U,,ITA,28.3887748118,201629,,,Yael Segal,U,,ISR,20.9938398357,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,34,37,174,6
 1993-D011,Fed Cup WG PO: GER vs AUT,Clay,4,D,19930721,1,200094,,,Barbara Rittner,R,,GER,20.2381930185,200032,,,Barbara Schett,R,176,AUT,17.363449692,6-2 4-6 8-6,3,RR,,,,,,,,,,,,,,,,,,,,29,41,165,7
 1993-D011,Fed Cup WG PO: GER vs AUT,Clay,4,D,19930721,2,200651,,,Sabine Hack,U,,GER,24.0246406571,200482,,,Judith Wiesner,R,,AUT,27.3867214237,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,17,58,22,53
-1993-D012,Fed Cup WG R2: LAT vs NED,Clay,4,D,19930721,1,200638,,,Stephanie Rottier,U,,NED,19.4934976044,212414,,,Oksana Bushevitsa,,,LAT,20.0027378508,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,35,36,463,1
+1993-D012,Fed Cup WG R2: LAT vs NED,Clay,4,D,19930721,1,200638,,,Stephanie Rottier,U,,NED,19.4934976044,212414,,,Oksana Bushevitsa,U,,LAT,20.0027378508,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,35,36,463,1
 1993-D012,Fed Cup WG R2: LAT vs NED,Clay,4,D,19930721,2,200089,,,Miriam Oremans,R,,NED,20.8624229979,201844,,,Agnese Gustmane,U,,LAT,22.2833675565,7-6(4) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,27,46,305,2
-1993-D013,Fed Cup G1 RRC: NZL vs LIB,Clay,4,D,19930504,1,200639,,,Claudine Toleafoa,U,,NZL,23.1786447639,212418,,,Nahia Abou Khalil,,,LIB,25.5058179329,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,289,2,,
-1993-D013,Fed Cup G1 RRC: NZL vs LIB,Clay,4,D,19930504,2,200510,,,Julie Richardson,U,,NZL,26.0971937029,212419,,,Maya Hajjar,,,LIB,28.7939767283,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,156,7,,
-1993-D014,Fed Cup G1 RRC: SRI vs LIB,Clay,4,D,19930503,1,212420,,,Saranga Sangakkara,,,SRI,17.1718001369,212421,,,Tania Zaitouni,,,LIB,24.720054757,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D014,Fed Cup G1 RRC: SRI vs LIB,Clay,4,D,19930503,2,201747,,,Lihini Weerasuriya,U,,SRI,21.1991786448,212419,,,Maya Hajjar,,,LIB,28.7912388775,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,281,2,,
+1993-D013,Fed Cup G1 RRC: NZL vs LIB,Clay,4,D,19930504,1,200639,,,Claudine Toleafoa,U,,NZL,23.1786447639,212418,,,Nahia Abou Khalil,U,,LIB,25.5058179329,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,289,2,,
+1993-D013,Fed Cup G1 RRC: NZL vs LIB,Clay,4,D,19930504,2,200510,,,Julie Richardson,U,,NZL,26.0971937029,212419,,,Maya Hajjar,U,,LIB,28.7939767283,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,156,7,,
+1993-D014,Fed Cup G1 RRC: SRI vs LIB,Clay,4,D,19930503,1,212420,,,Saranga Sangakkara,U,,SRI,17.1718001369,212421,,,Tania Zaitouni,U,,LIB,24.720054757,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D014,Fed Cup G1 RRC: SRI vs LIB,Clay,4,D,19930503,2,201747,,,Lihini Weerasuriya,U,,SRI,21.1991786448,212419,,,Maya Hajjar,U,,LIB,28.7912388775,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,281,2,,
 1993-D015,Fed Cup WG PO: COL vs CHI,Clay,4,D,19930722,1,204756,,,Maria Alejandra Quezada,U,,CHI,19.3757700205,202257,,,Carmina Giraldo,U,,COL,16.9582477755,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1993-D015,Fed Cup WG PO: COL vs CHI,Clay,4,D,19930722,2,203047,,,Cecilia Hincapie,U,,COL,16.6680355921,202170,,,Paula Cabezas,U,,ESP,20.9171800137,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1993-D016,Fed Cup WG R1: CHI vs FIN,Clay,4,D,19930719,1,200623,,,Petra Thoren,U,,FIN,23.9452429843,204536,,,Barbara Castro,U,,CHI,17.8617385352,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,189,5,,
@@ -2567,8 +2567,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-D017,Fed Cup WG PO: BEL vs CRO,Clay,4,D,19930722,1,201835,,,Maja Muric,U,,CRO,19.3976728268,200726,,,Nancy Feber,U,,BEL,17.4592744695,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,417,1,131,9
 1993-D017,Fed Cup WG PO: BEL vs CRO,Clay,4,D,19930722,2,200080,,,Dominique Monami,R,,BEL,20.1423682409,200680,,,Nadin Ercegovic,U,,CRO,20.4654346338,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,89,14,100,13
 1993-D018,Fed Cup WG PO: URU vs CAN,Clay,4,D,19930720,1,200472,,,Helen Kelesi,U,,CAN,23.6769336071,201961,,,Patricia Miller,U,,URU,21.4674880219,2-6 6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,74,17,,
-1993-D018,Fed Cup WG PO: URU vs CAN,Clay,4,D,19930720,2,200497,,,Patricia Hy Boulais,U,,CAN,27.909650924,212445,,,Claudia Brause,,,URU,22.8911704312,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,37,35,,
-1993-D019,Fed Cup WG PO: NZL vs KOR,Clay,4,D,19930720,1,212464,,,Yeon Sook Kim,,,KOR,23.8220396988,200639,,,Claudine Toleafoa,U,,NZL,23.3894592745,5-7 6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,418,1,292,2
+1993-D018,Fed Cup WG PO: URU vs CAN,Clay,4,D,19930720,2,200497,,,Patricia Hy Boulais,U,,CAN,27.909650924,212445,,,Claudia Brause,U,,URU,22.8911704312,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,37,35,,
+1993-D019,Fed Cup WG PO: NZL vs KOR,Clay,4,D,19930720,1,212464,,,Yeon Sook Kim,U,,KOR,23.8220396988,200639,,,Claudine Toleafoa,U,,NZL,23.3894592745,5-7 6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,418,1,292,2
 1993-D019,Fed Cup WG PO: NZL vs KOR,Clay,4,D,19930720,2,200716,,,Sung Hee Park,U,,KOR,18.4202600958,200510,,,Julie Richardson,U,,NZL,26.3080082136,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,208,4,173,6
 1993-D020,Fed Cup WG R2: ARG vs BUL,Clay,4,D,19930721,1,200667,,,Ines Gorrochategui,R,,ARG,20.1040383299,200455,,,Katerina Maleeva,U,,BUL,24.205338809,6-1 7-5,3,RR,,,,,,,,,,,,,,,,,,,,48,28,19,57
 1993-D020,Fed Cup WG R2: ARG vs BUL,Clay,4,D,19930721,2,200086,,,Magdalena Maleeva,R,168,BUL,18.3052703628,200026,,,Florencia Labat,L,,ARG,22.1081451061,6-4 5-7 6-3,3,RR,,,,,,,,,,,,,,,,,,,,11,84,40,34
@@ -2582,17 +2582,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-D024,Fed Cup WG R1: NZL vs ARG,Clay,4,D,19930719,2,200026,,,Florencia Labat,L,,ARG,22.1026694045,200510,,,Julie Richardson,U,,NZL,26.3052703628,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,40,34,173,6
 1993-D025,Fed Cup G1 RRA: INA vs THA,Clay,4,D,19930504,1,200707,,,Romana Tedjakusuma,U,,INA,16.7775496235,200009,,,Tamarine Tanasugarn,R,165,THA,15.9452429843,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,183,6,447,1
 1993-D025,Fed Cup G1 RRA: INA vs THA,Clay,4,D,19930504,2,200653,,,Yayuk Basuki,R,,INA,22.4257357974,202123,,,Suvimol Duangchan,U,,THA,19.0663928816,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,38,32,349,1
-1993-D026,Fed Cup G1 QF: INA vs SIN,Clay,4,D,19930505,1,202041,,,Joice Riana Sutedja,U,,INA,18.9158110883,212517,,,Norzahara Zainal,,,SIN,24.6132785763,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,255,3,,
-1993-D026,Fed Cup G1 QF: INA vs SIN,Clay,4,D,19930505,2,200707,,,Romana Tedjakusuma,U,,INA,16.7802874743,212518,,,Dionne Lim,,,SIN,17.2238193018,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,183,6,,
+1993-D026,Fed Cup G1 QF: INA vs SIN,Clay,4,D,19930505,1,202041,,,Joice Riana Sutedja,U,,INA,18.9158110883,212517,,,Norzahara Zainal,U,,SIN,24.6132785763,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,255,3,,
+1993-D026,Fed Cup G1 QF: INA vs SIN,Clay,4,D,19930505,2,200707,,,Romana Tedjakusuma,U,,INA,16.7802874743,212518,,,Dionne Lim,U,,SIN,17.2238193018,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,183,6,,
 1993-D027,Fed Cup WG R1: POL vs INA,Clay,4,D,19930719,1,200707,,,Romana Tedjakusuma,U,,INA,16.9856262834,201846,,,Katarzyna Teodorowicz Lisowska,U,,POL,20.6379192334,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,168,7,214,4
 1993-D027,Fed Cup WG R1: POL vs INA,Clay,4,D,19930719,2,200687,,,Katarzyna Nowak,U,,POL,24.5119780972,200653,,,Yayuk Basuki,R,,INA,22.6338124572,6-3 2-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,201,5,38,35
-1993-D028,Fed Cup G1 RRA: INA vs PHI,Clay,4,D,19930504,1,200707,,,Romana Tedjakusuma,U,,INA,16.7775496235,212171,,,Francesca LaO,,,PHI,16.9911019849,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,183,6,,
-1993-D028,Fed Cup G1 RRA: INA vs PHI,Clay,4,D,19930504,2,200653,,,Yayuk Basuki,R,,INA,22.4257357974,212519,,,Evangeline Olivarez,,,PHI,21.3059548255,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,38,32,,
-1993-D029,Fed Cup WG R1: SWE vs URU,Clay,4,D,19930719,1,200084,,,Asa Svensson,R,,SWE,18.0917180014,212447,,,Laura Olave,,,URU,18.4010951403,6-1 7-5,3,RR,,,,,,,,,,,,,,,,,,,,198,5,,
-1993-D029,Fed Cup WG R1: SWE vs URU,Clay,4,D,19930719,2,200573,,,Cecilia Dahlman,U,,SWE,24.9856262834,212445,,,Claudia Brause,,,URU,22.8884325804,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,130,9,,
+1993-D028,Fed Cup G1 RRA: INA vs PHI,Clay,4,D,19930504,1,200707,,,Romana Tedjakusuma,U,,INA,16.7775496235,212171,,,Francesca LaO,U,,PHI,16.9911019849,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,183,6,,
+1993-D028,Fed Cup G1 RRA: INA vs PHI,Clay,4,D,19930504,2,200653,,,Yayuk Basuki,R,,INA,22.4257357974,212519,,,Evangeline Olivarez,U,,PHI,21.3059548255,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,38,32,,
+1993-D029,Fed Cup WG R1: SWE vs URU,Clay,4,D,19930719,1,200084,,,Asa Svensson,R,,SWE,18.0917180014,212447,,,Laura Olave,U,,URU,18.4010951403,6-1 7-5,3,RR,,,,,,,,,,,,,,,,,,,,198,5,,
+1993-D029,Fed Cup WG R1: SWE vs URU,Clay,4,D,19930719,2,200573,,,Cecilia Dahlman,U,,SWE,24.9856262834,212445,,,Claudia Brause,U,,URU,22.8884325804,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,130,9,,
 1993-D030,Fed Cup WG PO: GBR vs POL,Clay,4,D,19930722,1,200710,,,Magdalena Feistel,U,,POL,22.9158110883,200392,,,Jo Durie,R,,GBR,32.9856262834,2-6 7-5 RET,5,RR,,,,,,,,,,,,,,,,,,,,241,3,117,11
 1993-D030,Fed Cup WG PO: GBR vs POL,Clay,4,D,19930722,2,200542,,,Clare Wood,R,,GBR,25.3716632444,200687,,,Katarzyna Nowak,U,,POL,24.5201916496,4-0 RET,5,RR,,,,,,,,,,,,,,,,,,,,104,12,201,5
-1993-D031,Fed Cup WG R1: KOR vs BUL,Clay,4,D,19930719,1,200455,,,Katerina Maleeva,U,,BUL,24.1998631075,212464,,,Yeon Sook Kim,,,KOR,23.819301848,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,19,57,418,1
+1993-D031,Fed Cup WG R1: KOR vs BUL,Clay,4,D,19930719,1,200455,,,Katerina Maleeva,U,,BUL,24.1998631075,212464,,,Yeon Sook Kim,U,,KOR,23.819301848,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,19,57,418,1
 1993-D031,Fed Cup WG R1: KOR vs BUL,Clay,4,D,19930719,2,200086,,,Magdalena Maleeva,R,168,BUL,18.2997946612,200716,,,Sung Hee Park,U,,KOR,18.417522245,6-0 6-4,3,RR,,,,,,,,,,,,,,,,,,,,11,84,208,4
 1993-D032,Fed Cup WG R2: SWE vs FRA,Clay,4,D,19930721,1,200112,,,Julie Halard Decugis,R,,FRA,22.8610540726,200084,,,Asa Svensson,R,,SWE,18.0971937029,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,42,31,198,5
 1993-D032,Fed Cup WG R2: SWE vs FRA,Clay,4,D,19930721,2,200097,,,Nathalie Tauziat,R,,FRA,25.7604380561,200573,,,Cecilia Dahlman,U,,SWE,24.9911019849,6-1 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,,15,64,130,9
@@ -2612,100 +2612,100 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-D039,Fed Cup WG R1: GER vs AUS,Clay,4,D,19930720,2,200469,,,Nicole Bradtke,U,,AUS,23.8247775496,200414,,,Steffi Graf,R,,GER,24.0985626283,6-4 1-6 6-1,3,RR,,,,,,,,,,,,,,,,,,,,28,45,1,341
 1993-D040,Fed Cup WG PO: SUI vs PER,Clay,4,D,19930722,1,200685,,,Christelle Fauche,U,,SUI,20.1177275838,200500,,,Pilar Vasquez,U,,PER,30.1875427789,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,289,2,467,1
 1993-D040,Fed Cup WG PO: SUI vs PER,Clay,4,D,19930722,2,200626,,,Emanuela Zardo,U,,SUI,23.2443531828,200630,,,Laura Gildemeister,U,,PER,29.5249828884,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,59,22,86,15
-1993-D041,Fed Cup G1 RRC: SRI vs NZL,Clay,4,D,19930504,1,200639,,,Claudine Toleafoa,U,,NZL,23.1786447639,212420,,,Saranga Sangakkara,,,SRI,17.1745379877,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,289,2,,
+1993-D041,Fed Cup G1 RRC: SRI vs NZL,Clay,4,D,19930504,1,200639,,,Claudine Toleafoa,U,,NZL,23.1786447639,212420,,,Saranga Sangakkara,U,,SRI,17.1745379877,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,289,2,,
 1993-D041,Fed Cup G1 RRC: SRI vs NZL,Clay,4,D,19930504,2,201747,,,Lihini Weerasuriya,U,,SRI,21.2019164956,200510,,,Julie Richardson,U,,NZL,26.0971937029,7-6(4) 6-0,3,RR,,,,,,,,,,,,,,,,,,,,281,2,156,7
-1993-D042,Fed Cup G1 QF: SRI vs CHN,Clay,4,D,19930505,1,200075,,,Jing Qian Yi,R,,CHN,19.1813826146,212420,,,Saranga Sangakkara,,,SRI,17.1772758385,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,383,1,,
+1993-D042,Fed Cup G1 QF: SRI vs CHN,Clay,4,D,19930505,1,200075,,,Jing Qian Yi,R,,CHN,19.1813826146,212420,,,Saranga Sangakkara,U,,SRI,17.1772758385,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,383,1,,
 1993-D042,Fed Cup G1 QF: SRI vs CHN,Clay,4,D,19930505,2,200658,,,Fang Li,R,,CHN,20.3394934976,201747,,,Lihini Weerasuriya,U,,SRI,21.2046543463,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,112,11,281,2
-1993-D043,Fed Cup G1 RRB: CHN vs SIN,Clay,4,D,19930504,1,200075,,,Jing Qian Yi,R,,CHN,19.1786447639,212517,,,Norzahara Zainal,,,SIN,24.6105407255,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,383,1,,
-1993-D043,Fed Cup G1 RRB: CHN vs SIN,Clay,4,D,19930504,2,200658,,,Fang Li,R,,CHN,20.3367556468,212518,,,Dionne Lim,,,SIN,17.2210814511,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,112,11,,
+1993-D043,Fed Cup G1 RRB: CHN vs SIN,Clay,4,D,19930504,1,200075,,,Jing Qian Yi,R,,CHN,19.1786447639,212517,,,Norzahara Zainal,U,,SIN,24.6105407255,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,383,1,,
+1993-D043,Fed Cup G1 RRB: CHN vs SIN,Clay,4,D,19930504,2,200658,,,Fang Li,R,,CHN,20.3367556468,212518,,,Dionne Lim,U,,SIN,17.2210814511,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,112,11,,
 1993-D044,Fed Cup G1 RRB: CHN vs TPE,Clay,4,D,19930504,1,200736,,,Li Ling Chen,U,,CHN,22.1437371663,202204,,,Yu Hsien Liu,U,,TPE,18.71321013,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,196,5,,
-1993-D044,Fed Cup G1 RRB: CHN vs TPE,Clay,4,D,19930504,2,200658,,,Fang Li,R,,CHN,20.3367556468,212355,,,Chiu Mei Ho,,,TPE,30.6475017112,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,112,11,,
+1993-D044,Fed Cup G1 RRB: CHN vs TPE,Clay,4,D,19930504,2,200658,,,Fang Li,R,,CHN,20.3367556468,212355,,,Chiu Mei Ho,U,,TPE,30.6475017112,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,112,11,,
 1993-D045,Fed Cup WG R2: USA vs CHN,Clay,4,D,19930721,1,200128,,,Lindsay Davenport,R,189,USA,17.1170431211,201806,,,Ying Bi,U,,CHN,23.4387405886,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,25,46,,
 1993-D045,Fed Cup WG R2: USA vs CHN,Clay,4,D,19930721,2,200658,,,Fang Li,R,,CHN,20.5503080082,200428,,,Lori Mcneil,U,,USA,29.5906913073,2-6 7-6(6) 6-0,3,RR,,,,,,,,,,,,,,,,,,,,94,13,23,51
 1993-D046,Fed Cup G1 QF: NZL vs THA,Clay,4,D,19930505,1,200639,,,Claudine Toleafoa,U,,NZL,23.1813826146,200009,,,Tamarine Tanasugarn,R,165,THA,15.947980835,6-7(3) 6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,289,2,447,1
 1993-D046,Fed Cup G1 QF: NZL vs THA,Clay,4,D,19930505,2,200510,,,Julie Richardson,U,,NZL,26.0999315537,202123,,,Suvimol Duangchan,U,,THA,19.0691307324,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,156,7,349,1
 1993-D047,Fed Cup WG R1: RSA vs CZE,Clay,4,D,19930719,1,200377,,,Helena Sukova,R,,CZE,28.3997262149,200357,,,Rosalyn Nideffer,R,,USA,32.7091033539,6-4 3-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,12,76,69,19
 1993-D047,Fed Cup WG R1: RSA vs CZE,Clay,4,D,19930719,2,200539,,,Jana Novotna,R,,CZE,24.7939767283,200064,,,Amanda Coetzer,R,158,RSA,21.7412731006,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,8,132,16,63
-1993-D048,Fed Cup G1 RRB: TPE vs SIN,Clay,4,D,19930503,1,202204,,,Yu Hsien Liu,U,,TPE,18.7104722793,212517,,,Norzahara Zainal,,,SIN,24.6078028747,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D048,Fed Cup G1 RRB: TPE vs SIN,Clay,4,D,19930503,2,212355,,,Chiu Mei Ho,,,TPE,30.6447638604,212518,,,Dionne Lim,,,SIN,17.2183436003,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D048,Fed Cup G1 RRB: TPE vs SIN,Clay,4,D,19930503,1,202204,,,Yu Hsien Liu,U,,TPE,18.7104722793,212517,,,Norzahara Zainal,U,,SIN,24.6078028747,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D048,Fed Cup G1 RRB: TPE vs SIN,Clay,4,D,19930503,2,212355,,,Chiu Mei Ho,U,,TPE,30.6447638604,212518,,,Dionne Lim,U,,SIN,17.2183436003,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1993-D049,Fed Cup WG R1: CRO vs NED,Clay,4,D,19930720,1,200638,,,Stephanie Rottier,U,,NED,19.4907597536,201835,,,Maja Muric,U,,CRO,19.3921971253,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,35,36,417,1
 1993-D049,Fed Cup WG R1: CRO vs NED,Clay,4,D,19930720,2,200089,,,Miriam Oremans,R,,NED,20.8596851472,200680,,,Nadin Ercegovic,U,,CRO,20.4599589322,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,27,46,100,13
-1993-D050,Fed Cup G1 RRA: THA vs PHI,Clay,4,D,19930503,1,200009,,,Tamarine Tanasugarn,R,165,THA,15.9425051335,212612,,,Jean Marie Lozano,,,PHI,25.53045859,6-2 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,,447,1,,
-1993-D050,Fed Cup G1 RRA: THA vs PHI,Clay,4,D,19930503,2,212519,,,Evangeline Olivarez,,,PHI,21.3032169747,202123,,,Suvimol Duangchan,U,,THA,19.0636550308,6-4 5-7 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,349,1
+1993-D050,Fed Cup G1 RRA: THA vs PHI,Clay,4,D,19930503,1,200009,,,Tamarine Tanasugarn,R,165,THA,15.9425051335,212612,,,Jean Marie Lozano,U,,PHI,25.53045859,6-2 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,,447,1,,
+1993-D050,Fed Cup G1 RRA: THA vs PHI,Clay,4,D,19930503,2,212519,,,Evangeline Olivarez,U,,PHI,21.3032169747,202123,,,Suvimol Duangchan,U,,THA,19.0636550308,6-4 5-7 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,349,1
 1993-D051,Fed Cup WG QF: ESP vs NED,Clay,4,D,19930723,1,200049,,,Conchita Martinez,R,170,ESP,21.2676249144,200638,,,Stephanie Rottier,U,,NED,19.498973306,7-6(3) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,6,153,35,36
 1993-D051,Fed Cup WG QF: ESP vs NED,Clay,4,D,19930723,2,200017,,,Arantxa Sanchez Vicario,R,,ESP,21.5961670089,200089,,,Miriam Oremans,R,,NED,20.8678986995,7-6(4) 6-0,3,RR,,,,,,,,,,,,,,,,,,,,3,245,27,46
 1993-D052,Fed Cup G1 RRC: VEN vs DOM,Hard,4,D,19930421,1,204542,,,Ninfa Marra,U,,VEN,18.8008213552,206897,,,Monika Pimentel,U,,DOM,14.81724846,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,359,1,,
-1993-D052,Fed Cup G1 RRC: VEN vs DOM,Hard,4,D,19930421,2,204540,,,Maria Virginia Francesca,U,,VEN,19.0746064339,212609,,,Rosanna Valerio,,,DOM,15.9561943874,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,334,1,,
-1993-D053,Fed Cup G1 RRC: VEN vs JAM,Hard,4,D,19930419,1,204542,,,Ninfa Marra,U,,VEN,18.7953456537,212425,,,Sasha Hanna,,,JAM,16.0027378508,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,359,1,,
+1993-D052,Fed Cup G1 RRC: VEN vs DOM,Hard,4,D,19930421,2,204540,,,Maria Virginia Francesca,U,,VEN,19.0746064339,212609,,,Rosanna Valerio,U,,DOM,15.9561943874,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,334,1,,
+1993-D053,Fed Cup G1 RRC: VEN vs JAM,Hard,4,D,19930419,1,204542,,,Ninfa Marra,U,,VEN,18.7953456537,212425,,,Sasha Hanna,U,,JAM,16.0027378508,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,359,1,,
 1993-D053,Fed Cup G1 RRC: VEN vs JAM,Hard,4,D,19930419,2,204540,,,Maria Virginia Francesca,U,,VEN,19.0691307324,203886,,,Joni Van Ryck De Groot,U,,JAM,37.5058179329,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,334,1,,
-1993-D054,Fed Cup G1 RRB: BOL vs CRC,Hard,4,D,19930419,1,212346,,,Sandra Kellemberger,,,BOL,16.7775496235,206666,,,Paula Umana,U,,CRC,18.6064339493,1-6 6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D054,Fed Cup G1 RRB: BOL vs CRC,Hard,4,D,19930419,2,212674,,,Natasha Villarroel,,,BOL,20.720054757,212160,,,Karla Golfin,,,CRC,22.1957563313,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D055,Fed Cup G1 RRC: ECU vs JAM,Hard,4,D,19930421,1,212425,,,Sasha Hanna,,,JAM,16.0082135524,206626,,,Nuria Niemes,U,,ECU,20.8377823409,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D054,Fed Cup G1 RRB: BOL vs CRC,Hard,4,D,19930419,1,212346,,,Sandra Kellemberger,U,,BOL,16.7775496235,206666,,,Paula Umana,U,,CRC,18.6064339493,1-6 6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D054,Fed Cup G1 RRB: BOL vs CRC,Hard,4,D,19930419,2,212674,,,Natasha Villarroel,U,,BOL,20.720054757,212160,,,Karla Golfin,U,,CRC,22.1957563313,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D055,Fed Cup G1 RRC: ECU vs JAM,Hard,4,D,19930421,1,212425,,,Sasha Hanna,U,,JAM,16.0082135524,206626,,,Nuria Niemes,U,,ECU,20.8377823409,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1993-D055,Fed Cup G1 RRC: ECU vs JAM,Hard,4,D,19930421,2,204123,,,Maria Dolores Campana,U,,ECU,18.045174538,203886,,,Joni Van Ryck De Groot,U,,JAM,37.5112936345,7-6(5) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1993-D056,Fed Cup G1 RRD: MEX vs URU,Hard,4,D,19930419,1,201890,,,Xochitl Escobedo,U,,MEX,24.5859000684,201961,,,Patricia Miller,U,,URU,21.2156057495,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,421,1,,
-1993-D056,Fed Cup G1 RRD: MEX vs URU,Hard,4,D,19930419,2,203882,,,Lucila Becerra,U,,MEX,27.742642026,212445,,,Claudia Brause,,,URU,22.6392881588,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,320,2,,
-1993-D057,Fed Cup G1 RRB: PER vs BOL,Hard,4,D,19930421,1,200500,,,Pilar Vasquez,U,,PER,29.9356605065,212346,,,Sandra Kellemberger,,,BOL,16.7830253251,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,342,1,,
-1993-D057,Fed Cup G1 RRB: PER vs BOL,Hard,4,D,19930421,2,200630,,,Laura Gildemeister,U,,PER,29.273100616,212674,,,Natasha Villarroel,,,BOL,20.7255304586,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,79,15,,
-1993-D058,Fed Cup G1 RRB: TRI vs BOL,Hard,4,D,19930420,1,212346,,,Sandra Kellemberger,,,BOL,16.7802874743,207461,,,Kaisaran Siewrattan,U,,TRI,19.1759069131,3-6 6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D058,Fed Cup G1 RRB: TRI vs BOL,Hard,4,D,19930420,2,212446,,,Elizabeth Gibson,,,TRI,25.1088295688,212674,,,Natasha Villarroel,,,BOL,20.7227926078,6-2 4-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D059,Fed Cup G1 RRC: JAM vs DOM,Hard,4,D,19930423,1,212425,,,Sasha Hanna,,,JAM,16.0136892539,212675,,,Vivian Acra,,,DOM,15.1019849418,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D059,Fed Cup G1 RRC: JAM vs DOM,Hard,4,D,19930423,2,203886,,,Joni Van Ryck De Groot,U,,JAM,37.5167693361,212391,,,Paula Alvarez,,,DOM,,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D060,Fed Cup G1 RRC: CHI vs DOM,Hard,4,D,19930419,1,204756,,,Maria Alejandra Quezada,U,,CHI,19.1184120465,212609,,,Rosanna Valerio,,,DOM,15.9507186858,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D060,Fed Cup G1 RRC: CHI vs DOM,Hard,4,D,19930419,2,202170,,,Paula Cabezas,U,,ESP,20.6598220397,212391,,,Paula Alvarez,,,DOM,,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,408,1,,
+1993-D056,Fed Cup G1 RRD: MEX vs URU,Hard,4,D,19930419,2,203882,,,Lucila Becerra,U,,MEX,27.742642026,212445,,,Claudia Brause,U,,URU,22.6392881588,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,320,2,,
+1993-D057,Fed Cup G1 RRB: PER vs BOL,Hard,4,D,19930421,1,200500,,,Pilar Vasquez,U,,PER,29.9356605065,212346,,,Sandra Kellemberger,U,,BOL,16.7830253251,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,342,1,,
+1993-D057,Fed Cup G1 RRB: PER vs BOL,Hard,4,D,19930421,2,200630,,,Laura Gildemeister,U,,PER,29.273100616,212674,,,Natasha Villarroel,U,,BOL,20.7255304586,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,79,15,,
+1993-D058,Fed Cup G1 RRB: TRI vs BOL,Hard,4,D,19930420,1,212346,,,Sandra Kellemberger,U,,BOL,16.7802874743,207461,,,Kaisaran Siewrattan,U,,TRI,19.1759069131,3-6 6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D058,Fed Cup G1 RRB: TRI vs BOL,Hard,4,D,19930420,2,212446,,,Elizabeth Gibson,U,,TRI,25.1088295688,212674,,,Natasha Villarroel,U,,BOL,20.7227926078,6-2 4-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D059,Fed Cup G1 RRC: JAM vs DOM,Hard,4,D,19930423,1,212425,,,Sasha Hanna,U,,JAM,16.0136892539,212675,,,Vivian Acra,U,,DOM,15.1019849418,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D059,Fed Cup G1 RRC: JAM vs DOM,Hard,4,D,19930423,2,203886,,,Joni Van Ryck De Groot,U,,JAM,37.5167693361,212391,,,Paula Alvarez,U,,DOM,,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D060,Fed Cup G1 RRC: CHI vs DOM,Hard,4,D,19930419,1,204756,,,Maria Alejandra Quezada,U,,CHI,19.1184120465,212609,,,Rosanna Valerio,U,,DOM,15.9507186858,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D060,Fed Cup G1 RRC: CHI vs DOM,Hard,4,D,19930419,2,202170,,,Paula Cabezas,U,,ESP,20.6598220397,212391,,,Paula Alvarez,U,,DOM,,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,408,1,,
 1993-D061,Fed Cup G1 RRC: CHI vs ECU,Hard,4,D,19930423,1,204756,,,Maria Alejandra Quezada,U,,CHI,19.1293634497,206626,,,Nuria Niemes,U,,ECU,20.8432580424,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1993-D061,Fed Cup G1 RRC: CHI vs ECU,Hard,4,D,19930423,2,202170,,,Paula Cabezas,U,,ESP,20.6707734428,204123,,,Maria Dolores Campana,U,,ECU,18.0506502396,6-7(6) 6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,408,1,,
-1993-D062,Fed Cup G1 RRC: CHI vs JAM,Hard,4,D,19930422,1,204756,,,Maria Alejandra Quezada,U,,CHI,19.1266255989,212425,,,Sasha Hanna,,,JAM,16.0109514031,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D062,Fed Cup G1 RRC: CHI vs JAM,Hard,4,D,19930422,1,204756,,,Maria Alejandra Quezada,U,,CHI,19.1266255989,212425,,,Sasha Hanna,U,,JAM,16.0109514031,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1993-D062,Fed Cup G1 RRC: CHI vs JAM,Hard,4,D,19930422,2,202170,,,Paula Cabezas,U,,ESP,20.6680355921,203886,,,Joni Van Ryck De Groot,U,,JAM,37.5140314853,3-6 6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,408,1,,
-1993-D063,Fed Cup G1 RRD: PUR vs MEX,Hard,4,D,19930420,1,201890,,,Xochitl Escobedo,U,,MEX,24.5886379192,212676,,,Natalie Adsuar,,,PUR,17.5386721424,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,421,1,,
-1993-D063,Fed Cup G1 RRD: PUR vs MEX,Hard,4,D,19930420,2,203882,,,Lucila Becerra,U,,MEX,27.7453798768,212378,,,Joanna Bauza,,,PUR,17.7002053388,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,320,2,,
-1993-D064,Fed Cup G1 RRD: MEX vs ESA,Hard,4,D,19930421,1,201890,,,Xochitl Escobedo,U,,MEX,24.59137577,212677,,,Claudia Harrison,,,ESA,17.6427104723,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,421,1,,
+1993-D063,Fed Cup G1 RRD: PUR vs MEX,Hard,4,D,19930420,1,201890,,,Xochitl Escobedo,U,,MEX,24.5886379192,212676,,,Natalie Adsuar,U,,PUR,17.5386721424,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,421,1,,
+1993-D063,Fed Cup G1 RRD: PUR vs MEX,Hard,4,D,19930420,2,203882,,,Lucila Becerra,U,,MEX,27.7453798768,212378,,,Joanna Bauza,U,,PUR,17.7002053388,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,320,2,,
+1993-D064,Fed Cup G1 RRD: MEX vs ESA,Hard,4,D,19930421,1,201890,,,Xochitl Escobedo,U,,MEX,24.59137577,212677,,,Claudia Harrison,U,,ESA,17.6427104723,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,421,1,,
 1993-D064,Fed Cup G1 RRD: MEX vs ESA,Hard,4,D,19930421,2,203882,,,Lucila Becerra,U,,MEX,27.7481177276,206447,,,Ingrid Gonzalez,U,,ESA,22.0232717317,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,320,2,,
-1993-D065,Fed Cup G1 RRA: COL vs BAH,Hard,4,D,19930423,1,203929,,,Giana Gutierrez,U,,COL,16.8980150582,212596,,,Lori Feingold,,,BAH,22.4996577687,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D065,Fed Cup G1 RRA: COL vs BAH,Hard,4,D,19930423,2,203047,,,Cecilia Hincapie,U,,COL,16.4216290212,212432,,,Kim Cartwright,,,BAH,28.4298425736,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D065,Fed Cup G1 RRA: COL vs BAH,Hard,4,D,19930423,1,203929,,,Giana Gutierrez,U,,COL,16.8980150582,212596,,,Lori Feingold,U,,BAH,22.4996577687,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D065,Fed Cup G1 RRA: COL vs BAH,Hard,4,D,19930423,2,203047,,,Cecilia Hincapie,U,,COL,16.4216290212,212432,,,Kim Cartwright,U,,BAH,28.4298425736,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1993-D066,Fed Cup G1 QF: CHI vs TRI,Hard,4,D,19930424,1,204756,,,Maria Alejandra Quezada,U,,CHI,19.1321013005,207461,,,Kaisaran Siewrattan,U,,TRI,19.1868583162,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D066,Fed Cup G1 QF: CHI vs TRI,Hard,4,D,19930424,2,202170,,,Paula Cabezas,U,,ESP,20.6735112936,212446,,,Elizabeth Gibson,,,TRI,25.1197809719,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,408,1,,
-1993-D067,Fed Cup G1 RRB: CRC vs BAR,Hard,4,D,19930422,1,212547,,,Melissa Golfin,,,CRC,18.9623545517,212546,,,Jennifer Carter,,,BAR,17.0431211499,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D067,Fed Cup G1 RRB: CRC vs BAR,Hard,4,D,19930422,2,206666,,,Paula Umana,U,,CRC,18.6146475017,212678,,,Amanda Browne,,,BAR,18.0588637919,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D068,Fed Cup G1 QF: MEX vs URU,Hard,4,D,19930424,1,212447,,,Laura Olave,,,URU,18.1656399726,201890,,,Xochitl Escobedo,U,,MEX,24.5995893224,4-6 6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,421,1
-1993-D068,Fed Cup G1 QF: MEX vs URU,Hard,4,D,19930424,2,203882,,,Lucila Becerra,U,,MEX,27.7563312799,212445,,,Claudia Brause,,,URU,22.6529774127,6-3 1-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,320,2,,
-1993-D069,Fed Cup G1 RRA: PAR vs BAH,Hard,4,D,19930421,1,201729,,,Larissa Schaerer,R,,PAR,18.0177960301,212679,,,Dyphany Wilkinson,,,BAH,22.3572895277,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,219,4,,
-1993-D069,Fed Cup G1 RRA: PAR vs BAH,Hard,4,D,19930421,2,200709,,,Rosana De Los Rios,R,170,PAR,17.5961670089,212431,,,Chris Anne Aston,,,BAH,25.6700889802,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,147,8,,
+1993-D066,Fed Cup G1 QF: CHI vs TRI,Hard,4,D,19930424,2,202170,,,Paula Cabezas,U,,ESP,20.6735112936,212446,,,Elizabeth Gibson,U,,TRI,25.1197809719,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,408,1,,
+1993-D067,Fed Cup G1 RRB: CRC vs BAR,Hard,4,D,19930422,1,212547,,,Melissa Golfin,U,,CRC,18.9623545517,212546,,,Jennifer Carter,U,,BAR,17.0431211499,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D067,Fed Cup G1 RRB: CRC vs BAR,Hard,4,D,19930422,2,206666,,,Paula Umana,U,,CRC,18.6146475017,212678,,,Amanda Browne,U,,BAR,18.0588637919,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D068,Fed Cup G1 QF: MEX vs URU,Hard,4,D,19930424,1,212447,,,Laura Olave,U,,URU,18.1656399726,201890,,,Xochitl Escobedo,U,,MEX,24.5995893224,4-6 6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,421,1
+1993-D068,Fed Cup G1 QF: MEX vs URU,Hard,4,D,19930424,2,203882,,,Lucila Becerra,U,,MEX,27.7563312799,212445,,,Claudia Brause,U,,URU,22.6529774127,6-3 1-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,320,2,,
+1993-D069,Fed Cup G1 RRA: PAR vs BAH,Hard,4,D,19930421,1,201729,,,Larissa Schaerer,R,,PAR,18.0177960301,212679,,,Dyphany Wilkinson,U,,BAH,22.3572895277,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,219,4,,
+1993-D069,Fed Cup G1 RRA: PAR vs BAH,Hard,4,D,19930421,2,200709,,,Rosana De Los Rios,R,170,PAR,17.5961670089,212431,,,Chris Anne Aston,U,,BAH,25.6700889802,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,147,8,,
 1993-D070,Fed Cup G1 QF: PER vs VEN,Hard,4,D,19930424,1,200500,,,Pilar Vasquez,U,,PER,29.9438740589,204542,,,Ninfa Marra,U,,VEN,18.8090349076,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,342,1,359,1
 1993-D070,Fed Cup G1 QF: PER vs VEN,Hard,4,D,19930424,2,200630,,,Laura Gildemeister,U,,PER,29.2813141684,204540,,,Maria Virginia Francesca,U,,VEN,19.0828199863,7-5 7-5,3,RR,,,,,,,,,,,,,,,,,,,,79,15,334,1
 1993-D071,Fed Cup G1 RRC: CHI vs VEN,Hard,4,D,19930420,1,204542,,,Ninfa Marra,U,,VEN,18.7980835044,204536,,,Barbara Castro,U,,CHI,17.6153319644,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,359,1,,
 1993-D071,Fed Cup G1 RRC: CHI vs VEN,Hard,4,D,19930420,2,202170,,,Paula Cabezas,U,,ESP,20.6625598905,204540,,,Maria Virginia Francesca,U,,VEN,19.0718685832,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,408,1,334,1
-1993-D072,Fed Cup G1 RRD: PUR vs ESA,Hard,4,D,19930419,1,212378,,,Joanna Bauza,,,PUR,17.697467488,212677,,,Claudia Harrison,,,ESA,17.6372347707,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D072,Fed Cup G1 RRD: PUR vs ESA,Hard,4,D,19930419,2,206447,,,Ingrid Gonzalez,U,,ESA,22.0177960301,212680,,,Brenda Santos,,,PUR,20.4544832307,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D073,Fed Cup G1 RRD: URU vs ESA,Hard,4,D,19930423,1,212447,,,Laura Olave,,,URU,18.1629021218,212677,,,Claudia Harrison,,,ESA,17.6481861739,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D073,Fed Cup G1 RRD: URU vs ESA,Hard,4,D,19930423,2,212445,,,Claudia Brause,,,URU,22.6502395619,206447,,,Ingrid Gonzalez,U,,ESA,22.0287474333,6-2 3-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D074,Fed Cup G1 RRA: GUA vs BAH,Hard,4,D,19930419,1,212431,,,Chris Anne Aston,,,BAH,25.6646132786,212392,,,Alejandra Gomez,,,GUA,18.8747433265,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D074,Fed Cup G1 RRA: GUA vs BAH,Hard,4,D,19930419,2,212390,,,Florea De Maria Urrea,,,GUA,23.8740588638,212432,,,Kim Cartwright,,,BAH,28.4188911704,1-6 7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D075,Fed Cup G1 RRA: COL vs GUA,Hard,4,D,19930422,1,202257,,,Carmina Giraldo,U,,COL,16.7091033539,212392,,,Alejandra Gomez,,,GUA,18.8829568789,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D075,Fed Cup G1 RRA: COL vs GUA,Hard,4,D,19930422,2,203047,,,Cecilia Hincapie,U,,COL,16.4188911704,212390,,,Florea De Maria Urrea,,,GUA,23.8822724162,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D072,Fed Cup G1 RRD: PUR vs ESA,Hard,4,D,19930419,1,212378,,,Joanna Bauza,U,,PUR,17.697467488,212677,,,Claudia Harrison,U,,ESA,17.6372347707,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D072,Fed Cup G1 RRD: PUR vs ESA,Hard,4,D,19930419,2,206447,,,Ingrid Gonzalez,U,,ESA,22.0177960301,212680,,,Brenda Santos,U,,PUR,20.4544832307,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D073,Fed Cup G1 RRD: URU vs ESA,Hard,4,D,19930423,1,212447,,,Laura Olave,U,,URU,18.1629021218,212677,,,Claudia Harrison,U,,ESA,17.6481861739,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D073,Fed Cup G1 RRD: URU vs ESA,Hard,4,D,19930423,2,212445,,,Claudia Brause,U,,URU,22.6502395619,206447,,,Ingrid Gonzalez,U,,ESA,22.0287474333,6-2 3-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D074,Fed Cup G1 RRA: GUA vs BAH,Hard,4,D,19930419,1,212431,,,Chris Anne Aston,U,,BAH,25.6646132786,212392,,,Alejandra Gomez,U,,GUA,18.8747433265,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D074,Fed Cup G1 RRA: GUA vs BAH,Hard,4,D,19930419,2,212390,,,Florea De Maria Urrea,U,,GUA,23.8740588638,212432,,,Kim Cartwright,U,,BAH,28.4188911704,1-6 7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D075,Fed Cup G1 RRA: COL vs GUA,Hard,4,D,19930422,1,202257,,,Carmina Giraldo,U,,COL,16.7091033539,212392,,,Alejandra Gomez,U,,GUA,18.8829568789,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D075,Fed Cup G1 RRA: COL vs GUA,Hard,4,D,19930422,2,203047,,,Cecilia Hincapie,U,,COL,16.4188911704,212390,,,Florea De Maria Urrea,U,,GUA,23.8822724162,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1993-D076,Fed Cup G1 RRB: PER vs TRI,Hard,4,D,19930422,1,200500,,,Pilar Vasquez,U,,PER,29.9383983573,207461,,,Kaisaran Siewrattan,U,,TRI,19.1813826146,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,342,1,,
-1993-D076,Fed Cup G1 RRB: PER vs TRI,Hard,4,D,19930422,2,200630,,,Laura Gildemeister,U,,PER,29.2758384668,212446,,,Elizabeth Gibson,,,TRI,25.1143052704,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,79,15,,
+1993-D076,Fed Cup G1 RRB: PER vs TRI,Hard,4,D,19930422,2,200630,,,Laura Gildemeister,U,,PER,29.2758384668,212446,,,Elizabeth Gibson,U,,TRI,25.1143052704,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,79,15,,
 1993-D077,Fed Cup G1 QF: PAR vs COL,Hard,4,D,19930424,1,201729,,,Larissa Schaerer,R,,PAR,18.0260095825,202257,,,Carmina Giraldo,U,,COL,16.7145790554,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,219,4,,
 1993-D077,Fed Cup G1 QF: PAR vs COL,Hard,4,D,19930424,2,203047,,,Cecilia Hincapie,U,,COL,16.424366872,200709,,,Rosana De Los Rios,R,170,PAR,17.6043805613,6-4 0-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,147,8
 1993-D078,Fed Cup G1 RRC: ECU vs DOM,Hard,4,D,19930420,1,206917,,,Alexandra Guzman,U,,ECU,15.2498288843,206897,,,Monika Pimentel,U,,DOM,14.8145106092,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D078,Fed Cup G1 RRC: ECU vs DOM,Hard,4,D,19930420,2,204123,,,Maria Dolores Campana,U,,ECU,18.0424366872,212391,,,Paula Alvarez,,,DOM,,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D078,Fed Cup G1 RRC: ECU vs DOM,Hard,4,D,19930420,2,204123,,,Maria Dolores Campana,U,,ECU,18.0424366872,212391,,,Paula Alvarez,U,,DOM,,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1993-D079,Fed Cup G1 RRA: PAR vs COL,Hard,4,D,19930419,1,201729,,,Larissa Schaerer,R,,PAR,18.0123203285,202257,,,Carmina Giraldo,U,,COL,16.7008898015,6-1 7-5,3,RR,,,,,,,,,,,,,,,,,,,,219,4,,
 1993-D079,Fed Cup G1 RRA: PAR vs COL,Hard,4,D,19930419,2,200709,,,Rosana De Los Rios,R,170,PAR,17.5906913073,203047,,,Cecilia Hincapie,U,,COL,16.4106776181,6-1 3-6 7-5,3,RR,,,,,,,,,,,,,,,,,,,,147,8,,
-1993-D080,Fed Cup G1 RRB: PER vs CRC,Hard,4,D,19930420,1,200500,,,Pilar Vasquez,U,,PER,29.9329226557,212547,,,Melissa Golfin,,,CRC,18.9568788501,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,342,1,,
+1993-D080,Fed Cup G1 RRB: PER vs CRC,Hard,4,D,19930420,1,200500,,,Pilar Vasquez,U,,PER,29.9329226557,212547,,,Melissa Golfin,U,,CRC,18.9568788501,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,342,1,,
 1993-D080,Fed Cup G1 RRB: PER vs CRC,Hard,4,D,19930420,2,200630,,,Laura Gildemeister,U,,PER,29.2703627652,206666,,,Paula Umana,U,,CRC,18.6091718001,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,79,15,,
-1993-D081,Fed Cup G1 RRB: TRI vs CRC,Hard,4,D,19930423,1,207461,,,Kaisaran Siewrattan,U,,TRI,19.1841204654,212547,,,Melissa Golfin,,,CRC,18.9650924025,5-7 6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D081,Fed Cup G1 RRB: TRI vs CRC,Hard,4,D,19930423,2,212446,,,Elizabeth Gibson,,,TRI,25.1170431211,206666,,,Paula Umana,U,,CRC,18.6173853525,7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D082,Fed Cup G1 RRD: PUR vs URU,Hard,4,D,19930422,1,212447,,,Laura Olave,,,URU,18.160164271,212676,,,Natalie Adsuar,,,PUR,17.5441478439,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D082,Fed Cup G1 RRD: PUR vs URU,Hard,4,D,19930422,2,212445,,,Claudia Brause,,,URU,22.6475017112,212378,,,Joanna Bauza,,,PUR,17.7056810404,6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D083,Fed Cup G1 RRB: BOL vs BAR,Hard,4,D,19930423,1,212346,,,Sandra Kellemberger,,,BOL,16.7885010267,212681,,,Gillian Carter,,,BAR,19.7316906229,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D083,Fed Cup G1 RRB: BOL vs BAR,Hard,4,D,19930423,2,212678,,,Amanda Browne,,,BAR,18.0616016427,212674,,,Natasha Villarroel,,,BOL,20.7310061602,6-2 0-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D084,Fed Cup G1 RRA: PAR vs GUA,Hard,4,D,19930420,1,201729,,,Larissa Schaerer,R,,PAR,18.0150581793,212682,,,Brenda Rojas,,,GUA,20.6269678303,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,219,4,,
-1993-D084,Fed Cup G1 RRA: PAR vs GUA,Hard,4,D,19930420,2,200709,,,Rosana De Los Rios,R,170,PAR,17.5934291581,212683,,,Lily Aguirre,,,GUA,30.0971937029,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,147,8,,
+1993-D081,Fed Cup G1 RRB: TRI vs CRC,Hard,4,D,19930423,1,207461,,,Kaisaran Siewrattan,U,,TRI,19.1841204654,212547,,,Melissa Golfin,U,,CRC,18.9650924025,5-7 6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D081,Fed Cup G1 RRB: TRI vs CRC,Hard,4,D,19930423,2,212446,,,Elizabeth Gibson,U,,TRI,25.1170431211,206666,,,Paula Umana,U,,CRC,18.6173853525,7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D082,Fed Cup G1 RRD: PUR vs URU,Hard,4,D,19930422,1,212447,,,Laura Olave,U,,URU,18.160164271,212676,,,Natalie Adsuar,U,,PUR,17.5441478439,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D082,Fed Cup G1 RRD: PUR vs URU,Hard,4,D,19930422,2,212445,,,Claudia Brause,U,,URU,22.6475017112,212378,,,Joanna Bauza,U,,PUR,17.7056810404,6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D083,Fed Cup G1 RRB: BOL vs BAR,Hard,4,D,19930423,1,212346,,,Sandra Kellemberger,U,,BOL,16.7885010267,212681,,,Gillian Carter,U,,BAR,19.7316906229,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D083,Fed Cup G1 RRB: BOL vs BAR,Hard,4,D,19930423,2,212678,,,Amanda Browne,U,,BAR,18.0616016427,212674,,,Natasha Villarroel,U,,BOL,20.7310061602,6-2 0-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D084,Fed Cup G1 RRA: PAR vs GUA,Hard,4,D,19930420,1,201729,,,Larissa Schaerer,R,,PAR,18.0150581793,212682,,,Brenda Rojas,U,,GUA,20.6269678303,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,219,4,,
+1993-D084,Fed Cup G1 RRA: PAR vs GUA,Hard,4,D,19930420,2,200709,,,Rosana De Los Rios,R,170,PAR,17.5934291581,212683,,,Lily Aguirre,U,,GUA,30.0971937029,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,147,8,,
 1993-D085,Fed Cup G1 RRC: VEN vs ECU,Hard,4,D,19930422,1,204542,,,Ninfa Marra,U,,VEN,18.803559206,206626,,,Nuria Niemes,U,,ECU,20.8405201916,6-2 4-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,359,1,,
 1993-D085,Fed Cup G1 RRC: VEN vs ECU,Hard,4,D,19930422,2,204123,,,Maria Dolores Campana,U,,ECU,18.0479123888,204540,,,Maria Virginia Francesca,U,,VEN,19.0773442847,6-1 7-6(2),3,RR,,,,,,,,,,,,,,,,,,,,,,334,1
-1993-D086,Fed Cup G1 RRB: PER vs BAR,Hard,4,D,19930419,1,200500,,,Pilar Vasquez,U,,PER,29.9301848049,212681,,,Gillian Carter,,,BAR,19.7207392197,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,342,1,,
-1993-D086,Fed Cup G1 RRB: PER vs BAR,Hard,4,D,19930419,2,200630,,,Laura Gildemeister,U,,PER,29.2676249144,212678,,,Amanda Browne,,,BAR,18.0506502396,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,79,15,,
-1993-D087,Fed Cup G1 RRB: TRI vs BAR,Hard,4,D,19930421,1,207461,,,Kaisaran Siewrattan,U,,TRI,19.1786447639,212546,,,Jennifer Carter,,,BAR,17.0403832991,6-0 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D087,Fed Cup G1 RRB: TRI vs BAR,Hard,4,D,19930421,2,212446,,,Elizabeth Gibson,,,TRI,25.1115674196,212678,,,Amanda Browne,,,BAR,18.0561259411,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D086,Fed Cup G1 RRB: PER vs BAR,Hard,4,D,19930419,1,200500,,,Pilar Vasquez,U,,PER,29.9301848049,212681,,,Gillian Carter,U,,BAR,19.7207392197,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,342,1,,
+1993-D086,Fed Cup G1 RRB: PER vs BAR,Hard,4,D,19930419,2,200630,,,Laura Gildemeister,U,,PER,29.2676249144,212678,,,Amanda Browne,U,,BAR,18.0506502396,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,79,15,,
+1993-D087,Fed Cup G1 RRB: TRI vs BAR,Hard,4,D,19930421,1,207461,,,Kaisaran Siewrattan,U,,TRI,19.1786447639,212546,,,Jennifer Carter,U,,BAR,17.0403832991,6-0 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D087,Fed Cup G1 RRB: TRI vs BAR,Hard,4,D,19930421,2,212446,,,Elizabeth Gibson,U,,TRI,25.1115674196,212678,,,Amanda Browne,U,,BAR,18.0561259411,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1993-D088,Fed Cup G1 RRE: GRE vs TUN,Hard,4,D,19930514,1,202946,,,Christina Zachariadou,R,,GRE,18.7104722793,207695,,,Issem Essaies,U,,TUN,20.7227926078,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1993-D088,Fed Cup G1 RRE: GRE vs TUN,Hard,4,D,19930514,2,200696,,,Christina Papadaki,R,,GRE,20.2162902122,201209,,,Selima Sfar,R,,TUN,15.8494182067,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,129,9,,
 1993-D089,Fed Cup G1 RRC: GBR vs RUS,Hard,4,D,19930512,1,200514,,,Monique Javer,R,,GBR,25.8069815195,200675,,,Eugenia Maniokova,R,,RUS,24.9856262834,4-6 6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,193,5,290,2
@@ -2713,33 +2713,33 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-D090,Fed Cup G1 RRE: SLO vs GRE,Hard,4,D,19930511,1,200695,,,Tina Krizan,R,,SLO,19.1485284052,202946,,,Christina Zachariadou,R,,GRE,18.7022587269,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,183,6,,
 1993-D090,Fed Cup G1 RRE: SLO vs GRE,Hard,4,D,19930511,2,200672,,,Barbara Mulej,R,,SLO,18.9514031485,200696,,,Christina Papadaki,R,,GRE,20.2080766598,2-6 6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,163,7,129,9
 1993-D091,Fed Cup G1 RRC: LUX vs UKR,Hard,4,D,19930511,1,200124,,,Anne Kremer,R,,LUX,17.5660506502,202086,,,Natalia Biletskaia,U,,UKR,20.5092402464,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D091,Fed Cup G1 RRC: LUX vs UKR,Hard,4,D,19930511,2,200742,,,Olga Lugina,U,,UKR,19.3374401095,212697,,,Marie Christine Goy,,,LUX,20.1259411362,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,378,1,,
+1993-D091,Fed Cup G1 RRC: LUX vs UKR,Hard,4,D,19930511,2,200742,,,Olga Lugina,U,,UKR,19.3374401095,212697,,,Marie Christine Goy,U,,LUX,20.1259411362,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,378,1,,
 1993-D092,Fed Cup G1 RRE: ZIM vs GRE,Hard,4,D,19930512,1,200072,,,Cara Black,R,167,ZIM,14.2313483915,202946,,,Christina Zachariadou,R,,GRE,18.7049965777,6-4 3-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1993-D092,Fed Cup G1 RRE: ZIM vs GRE,Hard,4,D,19930512,2,200696,,,Christina Papadaki,R,,GRE,20.2108145106,207828,,,Paula Iversen,U,,ZIM,23.2306639288,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,129,9,,
-1993-D093,Fed Cup G1 RRA: TUR vs MLT,Hard,4,D,19930511,1,204655,,,Gulberk Gultekin,U,,TUR,19.1019849418,212081,,,Helen Asciak,,,MLT,30.2806297057,6-7(3) 6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D093,Fed Cup G1 RRA: TUR vs MLT,Hard,4,D,19930511,2,212125,,,Carol Cassar Torreggiani,,,MLT,24.7939767283,207166,,,Ismet Duygu Aksit Oal,U,,TUR,21.6016427105,6-7(5) 7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D093,Fed Cup G1 RRA: TUR vs MLT,Hard,4,D,19930511,1,204655,,,Gulberk Gultekin,U,,TUR,19.1019849418,212081,,,Helen Asciak,U,,MLT,30.2806297057,6-7(3) 6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D093,Fed Cup G1 RRA: TUR vs MLT,Hard,4,D,19930511,2,212125,,,Carol Cassar Torreggiani,U,,MLT,24.7939767283,207166,,,Ismet Duygu Aksit Oal,U,,TUR,21.6016427105,6-7(5) 7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1993-D094,Fed Cup G1 RRE: GRE vs ISR,Hard,4,D,19930513,1,200040,,,Anna Smashnova,R,,ISR,16.8240930869,202946,,,Christina Zachariadou,R,,GRE,18.7077344285,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,273,3,,
 1993-D094,Fed Cup G1 RRE: GRE vs ISR,Hard,4,D,19930513,2,200696,,,Christina Papadaki,R,,GRE,20.2135523614,201629,,,Yael Segal,U,,ISR,20.810403833,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,129,9,215,4
-1993-D095,Fed Cup G1 RRA: MLT vs EST,Hard,4,D,19930512,1,212081,,,Helen Asciak,,,MLT,30.2833675565,212396,,,Helene Holter,,,EST,19.947980835,6-7(0) 6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D095,Fed Cup G1 RRA: MLT vs EST,Hard,4,D,19930512,2,212125,,,Carol Cassar Torreggiani,,,MLT,24.7967145791,212516,,,Kaja Kond,,,EST,25.8699520876,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D096,Fed Cup G1 RRA: TUR vs EST,Hard,4,D,19930513,1,204655,,,Gulberk Gultekin,U,,TUR,19.1074606434,212761,,,Ande Tulp,,,EST,18.1574264203,6-1 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D096,Fed Cup G1 RRA: TUR vs EST,Hard,4,D,19930513,2,212396,,,Helene Holter,,,EST,19.9507186858,207166,,,Ismet Duygu Aksit Oal,U,,TUR,21.607118412,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D095,Fed Cup G1 RRA: MLT vs EST,Hard,4,D,19930512,1,212081,,,Helen Asciak,U,,MLT,30.2833675565,212396,,,Helene Holter,U,,EST,19.947980835,6-7(0) 6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D095,Fed Cup G1 RRA: MLT vs EST,Hard,4,D,19930512,2,212125,,,Carol Cassar Torreggiani,U,,MLT,24.7967145791,212516,,,Kaja Kond,U,,EST,25.8699520876,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D096,Fed Cup G1 RRA: TUR vs EST,Hard,4,D,19930513,1,204655,,,Gulberk Gultekin,U,,TUR,19.1074606434,212761,,,Ande Tulp,U,,EST,18.1574264203,6-1 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D096,Fed Cup G1 RRA: TUR vs EST,Hard,4,D,19930513,2,212396,,,Helene Holter,U,,EST,19.9507186858,207166,,,Ismet Duygu Aksit Oal,U,,TUR,21.607118412,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1993-D097,Fed Cup G1 QF: GBR vs TUR,Hard,4,D,19930515,1,200514,,,Monique Javer,R,,GBR,25.8151950719,204655,,,Gulberk Gultekin,U,,TUR,19.112936345,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,193,5,,
 1993-D097,Fed Cup G1 QF: GBR vs TUR,Hard,4,D,19930515,2,200542,,,Clare Wood,R,,GBR,25.1854893908,207166,,,Ismet Duygu Aksit Oal,U,,TUR,21.6125941136,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,127,9,,
 1993-D098,Fed Cup G1 RRC: GBR vs UKR,Hard,4,D,19930513,1,200514,,,Monique Javer,R,,GBR,25.8097193703,206818,,,Gabriela Beleni,U,,UKR,18.2915811088,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,193,5,,
 1993-D098,Fed Cup G1 RRC: GBR vs UKR,Hard,4,D,19930513,2,200542,,,Clare Wood,R,,GBR,25.1800136893,200742,,,Olga Lugina,U,,UKR,19.3429158111,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,127,9,378,1
-1993-D099,Fed Cup G1 RRC: UKR vs LTU,Hard,4,D,19930514,1,206818,,,Gabriela Beleni,U,,UKR,18.2943189596,212763,,,Vita Kaminskiate,,,LTU,22.8884325804,0-6 6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D099,Fed Cup G1 RRC: UKR vs LTU,Hard,4,D,19930514,1,206818,,,Gabriela Beleni,U,,UKR,18.2943189596,212763,,,Vita Kaminskiate,U,,LTU,22.8884325804,0-6 6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1993-D099,Fed Cup G1 RRC: UKR vs LTU,Hard,4,D,19930514,2,202086,,,Natalia Biletskaia,U,,UKR,20.5174537988,206575,,,Galina Misiuriova,U,,LTU,19.8959616701,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1993-D100,Fed Cup G1 RRC: RUS vs LUX,Hard,4,D,19930514,1,200124,,,Anne Kremer,R,,LUX,17.5742642026,200675,,,Eugenia Maniokova,R,,RUS,24.9911019849,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,290,2
-1993-D100,Fed Cup G1 RRC: RUS vs LUX,Hard,4,D,19930514,2,200693,,,Elena Makarova,U,,RUS,20.2792607803,212697,,,Marie Christine Goy,,,LUX,20.1341546886,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,170,6,,
+1993-D100,Fed Cup G1 RRC: RUS vs LUX,Hard,4,D,19930514,2,200693,,,Elena Makarova,U,,RUS,20.2792607803,212697,,,Marie Christine Goy,U,,LUX,20.1341546886,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,170,6,,
 1993-D101,Fed Cup G1 QF: CRO vs RUS,Hard,4,D,19930515,1,200680,,,Nadin Ercegovic,U,,CRO,20.2792607803,200675,,,Eugenia Maniokova,R,,RUS,24.9938398357,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,64,19,290,2
 1993-D101,Fed Cup G1 QF: CRO vs RUS,Hard,4,D,19930515,2,200693,,,Elena Makarova,U,,RUS,20.2819986311,200723,,,Iva Majoli,R,,CRO,15.7563312799,7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,,170,6,43,28
 1993-D102,Fed Cup G1 RRB: IRL vs NOR,Hard,4,D,19930513,1,204590,,,Gina Niland,U,,IRL,20.6379192334,200511,,,Amy Jonsson Raaholt,U,,NOR,25.9301848049,4-6 6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1993-D102,Fed Cup G1 RRB: IRL vs NOR,Hard,4,D,19930513,2,203816,,,Siobhan Nicholson,R,,GBR,26.9212867899,202115,,,Cathrine Instebo,U,,NOR,19.4551676934,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,489,0,,
-1993-D103,Fed Cup G1 RRB: IRL vs SEN,Hard,4,D,19930512,1,204588,,,Karen Nugent,U,,IRL,16.8678986995,212779,,,Khady NDeye Diop,,,SEN,16.7857631759,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D103,Fed Cup G1 RRB: IRL vs SEN,Hard,4,D,19930512,2,204590,,,Gina Niland,U,,IRL,20.6351813826,212552,,,Amy Berthe,,,SEN,19.0910335387,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D104,Fed Cup G1 RRA: CRO vs MLT,Hard,4,D,19930513,1,200007,,,Silvija Talaja,R,,CRO,15.3264887064,212081,,,Helen Asciak,,,MLT,30.2861054073,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,325,2,,
-1993-D104,Fed Cup G1 RRA: CRO vs MLT,Hard,4,D,19930513,2,200680,,,Nadin Ercegovic,U,,CRO,20.2737850787,212125,,,Carol Cassar Torreggiani,,,MLT,24.7994524298,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,64,19,,
+1993-D103,Fed Cup G1 RRB: IRL vs SEN,Hard,4,D,19930512,1,204588,,,Karen Nugent,U,,IRL,16.8678986995,212779,,,Khady NDeye Diop,U,,SEN,16.7857631759,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D103,Fed Cup G1 RRB: IRL vs SEN,Hard,4,D,19930512,2,204590,,,Gina Niland,U,,IRL,20.6351813826,212552,,,Amy Berthe,U,,SEN,19.0910335387,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D104,Fed Cup G1 RRA: CRO vs MLT,Hard,4,D,19930513,1,200007,,,Silvija Talaja,R,,CRO,15.3264887064,212081,,,Helen Asciak,U,,MLT,30.2861054073,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,325,2,,
+1993-D104,Fed Cup G1 RRA: CRO vs MLT,Hard,4,D,19930513,2,200680,,,Nadin Ercegovic,U,,CRO,20.2737850787,212125,,,Carol Cassar Torreggiani,U,,MLT,24.7994524298,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,64,19,,
 1993-D105,Fed Cup G1 RRC: RUS vs UKR,Hard,4,D,19930510,1,200675,,,Eugenia Maniokova,R,,RUS,24.9801505818,202086,,,Natalia Biletskaia,U,,UKR,20.5065023956,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,290,2,,
 1993-D105,Fed Cup G1 RRC: RUS vs UKR,Hard,4,D,19930510,2,200693,,,Elena Makarova,U,,RUS,20.2683093771,200742,,,Olga Lugina,U,,UKR,19.3347022587,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,170,6,378,1
 1993-D106,Fed Cup G1 RRE: SLO vs TUN,Hard,4,D,19930513,1,206836,,,Tina Vukasovic,U,,SLO,17.6837782341,207695,,,Issem Essaies,U,,TUN,20.720054757,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
@@ -2752,16 +2752,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-D109,Fed Cup G1 RRE: ISR vs SLO,Hard,4,D,19930512,2,201629,,,Yael Segal,U,,ISR,20.8076659822,200672,,,Barbara Mulej,R,,SLO,18.9541409993,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,215,4,163,7
 1993-D110,Fed Cup G1 RRE: ISR vs TUN,Hard,4,D,19930510,1,200040,,,Anna Smashnova,R,,ISR,16.8158795346,207698,,,Aicha Ferjani,U,,TUN,19.2635181383,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,273,3,,
 1993-D110,Fed Cup G1 RRE: ISR vs TUN,Hard,4,D,19930510,2,201629,,,Yael Segal,U,,ISR,20.8021902806,201209,,,Selima Sfar,R,,TUN,15.8384668036,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,215,4,,
-1993-D111,Fed Cup G1 RRC: RUS vs LTU,Hard,4,D,19930513,1,200675,,,Eugenia Maniokova,R,,RUS,24.9883641342,212763,,,Vita Kaminskiate,,,LTU,22.8856947296,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,290,2,,
+1993-D111,Fed Cup G1 RRC: RUS vs LTU,Hard,4,D,19930513,1,200675,,,Eugenia Maniokova,R,,RUS,24.9883641342,212763,,,Vita Kaminskiate,U,,LTU,22.8856947296,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,290,2,,
 1993-D111,Fed Cup G1 RRC: RUS vs LTU,Hard,4,D,19930513,2,200693,,,Elena Makarova,U,,RUS,20.2765229295,206575,,,Galina Misiuriova,U,,LTU,19.8932238193,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,170,6,,
 1993-D112,Fed Cup G1 RRB: BEL vs NOR,Hard,4,D,19930512,1,200726,,,Nancy Feber,U,,BEL,17.2648870637,200511,,,Amy Jonsson Raaholt,U,,NOR,25.9274469541,6-2 7-5,3,RR,,,,,,,,,,,,,,,,,,,,114,11,,
 1993-D112,Fed Cup G1 RRB: BEL vs NOR,Hard,4,D,19930512,2,200080,,,Dominique Monami,R,,BEL,19.947980835,202115,,,Cathrine Instebo,U,,NOR,19.4524298426,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,100,12,,
 1993-D113,Fed Cup G1 RRC: GBR vs LUX,Hard,4,D,19930510,1,200514,,,Monique Javer,R,,GBR,25.8015058179,200124,,,Anne Kremer,R,,LUX,17.5633127995,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,193,5,,
-1993-D113,Fed Cup G1 RRC: GBR vs LUX,Hard,4,D,19930510,2,200542,,,Clare Wood,R,,GBR,25.1718001369,212697,,,Marie Christine Goy,,,LUX,20.1232032854,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,127,9,,
+1993-D113,Fed Cup G1 RRC: GBR vs LUX,Hard,4,D,19930510,2,200542,,,Clare Wood,R,,GBR,25.1718001369,212697,,,Marie Christine Goy,U,,LUX,20.1232032854,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,127,9,,
 1993-D114,Fed Cup G1 RRD: LAT vs POR,Hard,4,D,19930512,1,201844,,,Agnese Gustmane,U,,LAT,22.0917180014,204605,,,Joana Pedroso,U,,POR,19.2607802875,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,291,2,,
 1993-D114,Fed Cup G1 RRD: LAT vs POR,Hard,4,D,19930512,2,200450,,,Larisa Savchenko,U,,URS,26.8090349076,201963,,,Sofia Prazeres,U,,POR,18.8966461328,6-1 7-5,3,RR,,,,,,,,,,,,,,,,,,,,40,31,260,3
-1993-D115,Fed Cup G1 RRB: BEL vs SEN,Hard,4,D,19930513,1,200076,,,Laurence Courtois,R,,BEL,17.3169062286,212552,,,Amy Berthe,,,SEN,19.0937713895,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,226,4,,
-1993-D115,Fed Cup G1 RRB: BEL vs SEN,Hard,4,D,19930513,2,200726,,,Nancy Feber,U,,BEL,17.2676249144,212780,,,Myriam Berthe,,,SEN,25.5605749487,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,114,11,,
+1993-D115,Fed Cup G1 RRB: BEL vs SEN,Hard,4,D,19930513,1,200076,,,Laurence Courtois,R,,BEL,17.3169062286,212552,,,Amy Berthe,U,,SEN,19.0937713895,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,226,4,,
+1993-D115,Fed Cup G1 RRB: BEL vs SEN,Hard,4,D,19930513,2,200726,,,Nancy Feber,U,,BEL,17.2676249144,212780,,,Myriam Berthe,U,,SEN,25.5605749487,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,114,11,,
 1993-D116,Fed Cup G1 QF: BEL vs SLO,Hard,4,D,19930515,1,200080,,,Dominique Monami,R,,BEL,19.9561943874,204452,,,Karin Lusnic,U,,SLO,22.0013689254,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,100,12,396,1
 1993-D116,Fed Cup G1 QF: BEL vs SLO,Hard,4,D,19930515,2,200037,,,Sabine Appelmans,L,,BEL,21.0622861054,200695,,,Tina Krizan,R,,SLO,19.1594798084,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,48,25,183,6
 1993-D117,Fed Cup G1 RRD: LAT vs ROU,Hard,4,D,19930513,1,201844,,,Agnese Gustmane,U,,LAT,22.0944558522,201942,,,Andreea Ehritt Vanc,L,,ROU,19.6002737851,7-5 7-5,3,RR,,,,,,,,,,,,,,,,,,,,291,2,377,1
@@ -2769,29 +2769,29 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1993-D118,Fed Cup G1 RRC: GBR vs LTU,Hard,4,D,19930511,1,200514,,,Monique Javer,R,,GBR,25.8042436687,204969,,,Edita Liachoviciute,U,,LTU,17.0924024641,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,193,5,,
 1993-D118,Fed Cup G1 RRC: GBR vs LTU,Hard,4,D,19930511,2,200542,,,Clare Wood,R,,GBR,25.1745379877,206575,,,Galina Misiuriova,U,,LTU,19.8877481177,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,127,9,,
 1993-D119,Fed Cup G1 RRC: LUX vs LTU,Hard,4,D,19930512,1,200124,,,Anne Kremer,R,,LUX,17.568788501,204969,,,Edita Liachoviciute,U,,LTU,17.0951403149,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D119,Fed Cup G1 RRC: LUX vs LTU,Hard,4,D,19930512,2,212697,,,Marie Christine Goy,,,LUX,20.128678987,206575,,,Galina Misiuriova,U,,LTU,19.8904859685,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D119,Fed Cup G1 RRC: LUX vs LTU,Hard,4,D,19930512,2,212697,,,Marie Christine Goy,U,,LUX,20.128678987,206575,,,Galina Misiuriova,U,,LTU,19.8904859685,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1993-D120,Fed Cup G1 RRE: ZIM vs TUN,Hard,4,D,19930511,1,200072,,,Cara Black,R,167,ZIM,14.2286105407,207698,,,Aicha Ferjani,U,,TUN,19.266255989,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1993-D120,Fed Cup G1 RRE: ZIM vs TUN,Hard,4,D,19930511,2,207828,,,Paula Iversen,U,,ZIM,23.227926078,201209,,,Selima Sfar,R,,TUN,15.8412046543,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1993-D121,Fed Cup G1 RRD: ROU vs POR,Hard,4,D,19930510,1,201942,,,Andreea Ehritt Vanc,L,,ROU,19.5920602327,204605,,,Joana Pedroso,U,,POR,19.2553045859,6-4 4-6 6-1,3,RR,,,,,,,,,,,,,,,,,,,,377,1,,
 1993-D121,Fed Cup G1 RRD: ROU vs POR,Hard,4,D,19930510,2,201963,,,Sofia Prazeres,U,,POR,18.8911704312,200059,,,Ruxandra Dragomir Ilie,R,,ROU,20.5420944559,6-3 3-6 8-6,3,RR,,,,,,,,,,,,,,,,,,,,260,3,102,12
-1993-D122,Fed Cup G1 RRA: CRO vs EST,Hard,4,D,19930511,1,200680,,,Nadin Ercegovic,U,,CRO,20.2683093771,212761,,,Ande Tulp,,,EST,18.1519507187,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,64,19,,
-1993-D122,Fed Cup G1 RRA: CRO vs EST,Hard,4,D,19930511,2,200723,,,Iva Majoli,R,,CRO,15.7453798768,212396,,,Helene Holter,,,EST,19.9452429843,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,43,28,,
+1993-D122,Fed Cup G1 RRA: CRO vs EST,Hard,4,D,19930511,1,200680,,,Nadin Ercegovic,U,,CRO,20.2683093771,212761,,,Ande Tulp,U,,EST,18.1519507187,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,64,19,,
+1993-D122,Fed Cup G1 RRA: CRO vs EST,Hard,4,D,19930511,2,200723,,,Iva Majoli,R,,CRO,15.7453798768,212396,,,Helene Holter,U,,EST,19.9452429843,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,43,28,,
 1993-D123,Fed Cup G1 QF: ISR vs IRL,Hard,4,D,19930515,1,200040,,,Anna Smashnova,R,,ISR,16.8295687885,204590,,,Gina Niland,U,,IRL,20.643394935,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,273,3,,
 1993-D123,Fed Cup G1 QF: ISR vs IRL,Hard,4,D,19930515,2,201629,,,Yael Segal,U,,ISR,20.8158795346,203816,,,Siobhan Nicholson,R,,GBR,26.9267624914,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,215,4,489,0
 1993-D124,Fed Cup G1 RRE: ISR vs ZIM,Hard,4,D,19930514,1,200040,,,Anna Smashnova,R,,ISR,16.8268309377,200072,,,Cara Black,R,167,ZIM,14.2368240931,6-0 6-4,3,RR,,,,,,,,,,,,,,,,,,,,273,3,,
 1993-D124,Fed Cup G1 RRE: ISR vs ZIM,Hard,4,D,19930514,2,201629,,,Yael Segal,U,,ISR,20.8131416838,207828,,,Paula Iversen,U,,ZIM,23.2361396304,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,215,4,,
 1993-D125,Fed Cup G1 RRA: CRO vs TUR,Hard,4,D,19930512,1,200680,,,Nadin Ercegovic,U,,CRO,20.2710472279,204655,,,Gulberk Gultekin,U,,TUR,19.1047227926,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,64,19,,
 1993-D125,Fed Cup G1 RRA: CRO vs TUR,Hard,4,D,19930512,2,200723,,,Iva Majoli,R,,CRO,15.7481177276,207166,,,Ismet Duygu Aksit Oal,U,,TUR,21.6043805613,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,43,28,,
-1993-D126,Fed Cup G1 RRB: NOR vs SEN,Hard,4,D,19930511,1,200511,,,Amy Jonsson Raaholt,U,,NOR,25.9247091034,212552,,,Amy Berthe,,,SEN,19.0882956879,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D126,Fed Cup G1 RRB: NOR vs SEN,Hard,4,D,19930511,2,202115,,,Cathrine Instebo,U,,NOR,19.4496919918,212780,,,Myriam Berthe,,,SEN,25.5550992471,6-0 5-7 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1993-D127,Fed Cup G1 RRD: LAT vs HUN,Hard,4,D,19930511,1,206121,,,Agnes Gee,U,,HUN,18.6995208761,212414,,,Oksana Bushevitsa,,,LAT,19.8083504449,7-6(8) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,365,1
-1993-D127,Fed Cup G1 RRD: LAT vs HUN,Hard,4,D,19930511,2,200450,,,Larisa Savchenko,U,,URS,26.8062970568,212781,,,Kata Gyorke,,,HUN,17.6646132786,1-6 6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,40,31,,
+1993-D126,Fed Cup G1 RRB: NOR vs SEN,Hard,4,D,19930511,1,200511,,,Amy Jonsson Raaholt,U,,NOR,25.9247091034,212552,,,Amy Berthe,U,,SEN,19.0882956879,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D126,Fed Cup G1 RRB: NOR vs SEN,Hard,4,D,19930511,2,202115,,,Cathrine Instebo,U,,NOR,19.4496919918,212780,,,Myriam Berthe,U,,SEN,25.5550992471,6-0 5-7 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1993-D127,Fed Cup G1 RRD: LAT vs HUN,Hard,4,D,19930511,1,206121,,,Agnes Gee,U,,HUN,18.6995208761,212414,,,Oksana Bushevitsa,U,,LAT,19.8083504449,7-6(8) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,365,1
+1993-D127,Fed Cup G1 RRD: LAT vs HUN,Hard,4,D,19930511,2,200450,,,Larisa Savchenko,U,,URS,26.8062970568,212781,,,Kata Gyorke,U,,HUN,17.6646132786,1-6 6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,40,31,,
 1993-D128,Fed Cup G1 QF: LAT vs HUN,Hard,4,D,19930515,1,201844,,,Agnese Gustmane,U,,LAT,22.0999315537,206121,,,Agnes Gee,U,,HUN,18.7104722793,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,291,2,,
 1993-D128,Fed Cup G1 QF: LAT vs HUN,Hard,4,D,19930515,2,200450,,,Larisa Savchenko,U,,URS,26.81724846,201771,,,Virag Csurgo,U,,HUN,20.5092402464,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,40,31,449,1
 1993-D129,Fed Cup G1 RRD: HUN vs POR,Hard,4,D,19930513,1,206121,,,Agnes Gee,U,,HUN,18.7049965777,204605,,,Joana Pedroso,U,,POR,19.2635181383,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1993-D129,Fed Cup G1 RRD: HUN vs POR,Hard,4,D,19930513,2,201963,,,Sofia Prazeres,U,,POR,18.8993839836,201771,,,Virag Csurgo,U,,HUN,20.5037645448,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,260,3,449,1
-1993-D130,Fed Cup G1 RRD: HUN vs ROU,Hard,4,D,19930514,1,206121,,,Agnes Gee,U,,HUN,18.7077344285,212782,,,Isabela Martin,,,ROU,21.273100616,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,412,1
-1993-D130,Fed Cup G1 RRD: HUN vs ROU,Hard,4,D,19930514,2,200059,,,Ruxandra Dragomir Ilie,R,,ROU,20.553045859,212781,,,Kata Gyorke,,,HUN,17.6728268309,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,102,12,,
+1993-D130,Fed Cup G1 RRD: HUN vs ROU,Hard,4,D,19930514,1,206121,,,Agnes Gee,U,,HUN,18.7077344285,212782,,,Isabela Martin,U,,ROU,21.273100616,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,412,1
+1993-D130,Fed Cup G1 RRD: HUN vs ROU,Hard,4,D,19930514,2,200059,,,Ruxandra Dragomir Ilie,R,,ROU,20.553045859,212781,,,Kata Gyorke,U,,HUN,17.6728268309,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,102,12,,
 1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,1,200049,6,,Conchita Martinez,R,170,ESP,21.0458590007,200572,3,,Gabriela Sabatini,R,,ARG,22.9650924025,7-5 6-1,3,F,,,,,,,,,,,,,,,,,,,,8,110,5,166
 1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,2,200049,6,,Conchita Martinez,R,170,ESP,21.0458590007,200293,2,,Martina Navratilova,L,173,USA,36.5393566051,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,8,110,4,195
 1993-W-WT-ITA-02A-1993,Rome,Clay,2,W,19930503,3,200572,3,,Gabriela Sabatini,R,,ARG,22.9650924025,201063,,,Maria Francesca Bentivoglio,U,,ITA,16.2628336756,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,5,166,329,2
