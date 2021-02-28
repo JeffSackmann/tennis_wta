@@ -2425,36 +2425,36 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-D005,Fed Cup G1 PO: BLR vs RSA,Clay,4,D,19980418,2,200116,,,Natalia Zvereva,R,,BLR,27.0061601643,200715,,,Mariaan De Swardt,R,,RSA,27.0855578371,4-6 6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,20,1362,85,322
 1998-D006,Fed Cup G1 RRA: ISR vs SLO,Clay,4,D,19980416,1,200122,,,Tina Pisnik,R,,SLO,17.1526351814,201809,,,Hila Rosen,R,,ISR,20.6105407255,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,389,30,199,98
 1998-D006,Fed Cup G1 RRA: ISR vs SLO,Clay,4,D,19980416,2,200040,,,Anna Smashnova,R,,ISR,21.749486653,200672,,,Barbara Mulej,R,,SLO,23.8822724162,4-6 6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,124,200,405,29
-1998-D007,Fed Cup G2 RRC: ETH vs LUX,Clay,4,D,19980505,1,201380,,,Claudine Schaul,R,,LUX,14.7077344285,212341,,,Rediet Kefyalew,,,ETH,14.2012320329,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D007,Fed Cup G2 RRC: ETH vs LUX,Clay,4,D,19980505,2,200124,,,Anne Kremer,R,,LUX,22.5489390828,212342,,,Seble Woldegebriel,,,ETH,14.0670773443,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,129,205,,
+1998-D007,Fed Cup G2 RRC: ETH vs LUX,Clay,4,D,19980505,1,201380,,,Claudine Schaul,R,,LUX,14.7077344285,212341,,,Rediet Kefyalew,U,,ETH,14.2012320329,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D007,Fed Cup G2 RRC: ETH vs LUX,Clay,4,D,19980505,2,200124,,,Anne Kremer,R,,LUX,22.5489390828,212342,,,Seble Woldegebriel,U,,ETH,14.0670773443,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,129,205,,
 1998-D008,Fed Cup G1 RR: PAR vs COL,Clay,4,D,19980416,1,204539,,,Laura Bernal,U,,PAR,20.2162902122,201854,,,Mariana Mesa,R,,COL,18.0396988364,5-7 6-3 9-7,3,RR,,,,,,,,,,,,,,,,,,,,529,16,562,14
 1998-D008,Fed Cup G1 RR: PAR vs COL,Clay,4,D,19980416,2,201729,,,Larissa Schaerer,R,,PAR,23.0034223135,200110,,,Fabiola Zuluaga,R,,COL,19.2717316906,7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,,150,150,146,155
 1998-D009,Fed Cup G1 PO: BLR vs UKR,Clay,4,D,19980417,1,200052,,,Olga Barabanschikova,R,,BLR,18.4558521561,202218,,,Anna Zaporozhanova,U,,UKR,18.688569473,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,58,443,340,41
 1998-D009,Fed Cup G1 PO: BLR vs UKR,Clay,4,D,19980417,2,200116,,,Natalia Zvereva,R,,BLR,27.0034223135,200740,,,Elena Tatarkova,L,,UKR,21.6509240246,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,20,1362,127,198
 1998-D010,Fed Cup G1 RRA: BLR vs SLO,Clay,4,D,19980414,1,200052,,,Olga Barabanschikova,R,,BLR,18.4476386037,200122,,,Tina Pisnik,R,,SLO,17.1471594798,6-4 7-6(3),3,RR,,,,,,,,,,,,,,,,,,,,58,443,389,30
 1998-D010,Fed Cup G1 RRA: BLR vs SLO,Clay,4,D,19980414,2,200116,,,Natalia Zvereva,R,,BLR,26.9952087611,201815,,,Petra Rampre,R,,SLO,18.2313483915,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,20,1362,223,83
-1998-D011,Fed Cup G2 RRC: ETH vs MLT,Clay,4,D,19980509,1,212081,,,Helen Asciak,,,MLT,35.2744695414,212358,,,Temesgen Metasebeya,,,ETH,20.9117043121,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D011,Fed Cup G2 RRC: ETH vs MLT,Clay,4,D,19980509,2,212082,,,Lisa Camenzuli,,,MLT,21.311430527,212342,,,Seble Woldegebriel,,,ETH,14.0780287474,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D012,Fed Cup G2 RRB: FIN vs LIE,Clay,4,D,19980507,1,206505,,,Kirsi Lampinen,U,,FIN,26.2696783025,212224,,,Sidonia Wolfinger,,,LIE,20.4216290212,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,706,8,,
-1998-D012,Fed Cup G2 RRB: FIN vs LIE,Clay,4,D,19980507,2,206529,,,Hanna Katri Aalto,U,,FIN,19.9534565366,212361,,,Fabienne Gmeiner,,,LIE,18.6639288159,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,594,13,,
+1998-D011,Fed Cup G2 RRC: ETH vs MLT,Clay,4,D,19980509,1,212081,,,Helen Asciak,U,,MLT,35.2744695414,212358,,,Temesgen Metasebeya,U,,ETH,20.9117043121,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D011,Fed Cup G2 RRC: ETH vs MLT,Clay,4,D,19980509,2,212082,,,Lisa Camenzuli,U,,MLT,21.311430527,212342,,,Seble Woldegebriel,U,,ETH,14.0780287474,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D012,Fed Cup G2 RRB: FIN vs LIE,Clay,4,D,19980507,1,206505,,,Kirsi Lampinen,U,,FIN,26.2696783025,212224,,,Sidonia Wolfinger,U,,LIE,20.4216290212,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,706,8,,
+1998-D012,Fed Cup G2 RRB: FIN vs LIE,Clay,4,D,19980507,2,206529,,,Hanna Katri Aalto,U,,FIN,19.9534565366,212361,,,Fabienne Gmeiner,U,,LIE,18.6639288159,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,594,13,,
 1998-D013,Fed Cup G1 RRA: BLR vs GRE,Clay,4,D,19980416,1,201305,,,Eleni Daniilidou,R,182,GRE,15.5728952772,200052,,,Olga Barabanschikova,R,,BLR,18.4531143053,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,557,14,58,443
 1998-D013,Fed Cup G1 RRA: BLR vs GRE,Clay,4,D,19980416,2,200116,,,Natalia Zvereva,R,,BLR,27.0006844627,200696,,,Christina Papadaki,R,,GRE,25.1389459274,6-0 6-4,3,RR,,,,,,,,,,,,,,,,,,,,20,1362,245,74
 1998-D014,Fed Cup G2 RRA: CYP vs LTU,Clay,4,D,19980509,1,204969,,,Edita Liachoviciute,U,,LTU,22.0862422998,206869,,,Stephanie Kamberi,U,,CYP,16.7392197125,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D014,Fed Cup G2 RRA: CYP vs LTU,Clay,4,D,19980509,2,207421,,,Ruta Deduraite,U,,LTU,21.2758384668,206862,,,Daphne Nicolatou,U,,CYP,18.4722792608,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D015,Fed Cup G2 RRB: FIN vs MKD,Clay,4,D,19980509,1,206505,,,Kirsi Lampinen,U,,FIN,26.2751540041,207497,,,Biljana Trpeska,U,,MKD,16.1149897331,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,706,8,,
 1998-D015,Fed Cup G2 RRB: FIN vs MKD,Clay,4,D,19980509,2,202714,,,Marina Lazarovska,U,,MKD,19.7782340862,206529,,,Hanna Katri Aalto,U,,FIN,19.9589322382,6-3 7-6(1),3,RR,,,,,,,,,,,,,,,,,,,,576,14,594,13
-1998-D016,Fed Cup G2 RRD: ISL vs MDA,Clay,4,D,19980506,1,212383,,,Elena Arabadji,,,MDA,19.0034223135,212384,,,Rakel Petursdottir,,,ISL,17.0896646133,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D016,Fed Cup G2 RRD: ISL vs MDA,Clay,4,D,19980506,2,204899,,,Evghenia Ablovatchi,U,,MDA,16.5201916496,212385,,,Stefania Stefansdottir,,,ISL,19.8767967146,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D016,Fed Cup G2 RRD: ISL vs MDA,Clay,4,D,19980506,1,212383,,,Elena Arabadji,U,,MDA,19.0034223135,212384,,,Rakel Petursdottir,U,,ISL,17.0896646133,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D016,Fed Cup G2 RRD: ISL vs MDA,Clay,4,D,19980506,2,204899,,,Evghenia Ablovatchi,U,,MDA,16.5201916496,212385,,,Stefania Stefansdottir,U,,ISL,19.8767967146,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D017,Fed Cup G1 RRA: BLR vs ISR,Clay,4,D,19980415,1,200052,,,Olga Barabanschikova,R,,BLR,18.4503764545,201809,,,Hila Rosen,R,,ISR,20.6078028747,6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,58,443,199,98
 1998-D017,Fed Cup G1 RRA: BLR vs ISR,Clay,4,D,19980415,2,200116,,,Natalia Zvereva,R,,BLR,26.9979466119,200040,,,Anna Smashnova,R,,ISR,21.7467488022,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,20,1362,124,200
-1998-D018,Fed Cup G2 RRC: LUX vs MLT,Clay,4,D,19980506,1,201380,,,Claudine Schaul,R,,LUX,14.7104722793,212081,,,Helen Asciak,,,MLT,35.266255989,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D018,Fed Cup G2 RRC: LUX vs MLT,Clay,4,D,19980506,2,200124,,,Anne Kremer,R,,LUX,22.5516769336,212082,,,Lisa Camenzuli,,,MLT,21.3032169747,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,129,205,,
+1998-D018,Fed Cup G2 RRC: LUX vs MLT,Clay,4,D,19980506,1,201380,,,Claudine Schaul,R,,LUX,14.7104722793,212081,,,Helen Asciak,U,,MLT,35.266255989,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D018,Fed Cup G2 RRC: LUX vs MLT,Clay,4,D,19980506,2,200124,,,Anne Kremer,R,,LUX,22.5516769336,212082,,,Lisa Camenzuli,U,,MLT,21.3032169747,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,129,205,,
 1998-D019,Fed Cup G1 RRB: CHI vs COL,Clay,4,D,19980414,1,201854,,,Mariana Mesa,R,,COL,18.0342231348,204536,,,Barbara Castro,U,,CHI,22.598220397,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,562,14,833,4
 1998-D019,Fed Cup G1 RRB: CHI vs COL,Clay,4,D,19980414,2,200110,,,Fabiola Zuluaga,R,,COL,19.266255989,202170,,,Paula Cabezas,U,,ESP,25.6454483231,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,146,155,499,18
 1998-D020,Fed Cup G2 RRA: LTU vs TUN,Clay,4,D,19980506,1,204969,,,Edita Liachoviciute,U,,LTU,22.0780287474,207695,,,Issem Essaies,U,,TUN,25.7002053388,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D020,Fed Cup G2 RRA: LTU vs TUN,Clay,4,D,19980506,2,201209,,,Selima Sfar,R,,TUN,20.8268309377,207421,,,Ruta Deduraite,U,,LTU,21.2676249144,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,286,58,,
-1998-D021,Fed Cup G2 RRB: EGY vs LIE,Clay,4,D,19980505,1,201906,,,Marwa El Wany,U,,EGY,21.4839151266,212401,,,Angelika Schadler,,,LIE,18.0150581793,7-5 7-5,3,RR,,,,,,,,,,,,,,,,,,,,982,2,,
-1998-D021,Fed Cup G2 RRB: EGY vs LIE,Clay,4,D,19980505,2,203968,,,Dalia El Sheikh,U,,EGY,19.7919233402,212149,,,Jeannine Niedhardt,,,LIE,17.8945927447,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D021,Fed Cup G2 RRB: EGY vs LIE,Clay,4,D,19980505,1,201906,,,Marwa El Wany,U,,EGY,21.4839151266,212401,,,Angelika Schadler,U,,LIE,18.0150581793,7-5 7-5,3,RR,,,,,,,,,,,,,,,,,,,,982,2,,
+1998-D021,Fed Cup G2 RRB: EGY vs LIE,Clay,4,D,19980505,2,203968,,,Dalia El Sheikh,U,,EGY,19.7919233402,212149,,,Jeannine Niedhardt,U,,LIE,17.8945927447,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D022,Fed Cup G2 RRC: LUX vs NOR,Clay,4,D,19980508,1,201380,,,Claudine Schaul,R,,LUX,14.7159479808,207292,,,Caroline Tidemand,U,,NOR,16.0246406571,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D022,Fed Cup G2 RRC: LUX vs NOR,Clay,4,D,19980508,2,200124,,,Anne Kremer,R,,LUX,22.5571526352,203217,,,Karoline Borgersen,R,,NOR,21.8507871321,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,129,205,,
 1998-D023,Fed Cup G1 RRC: LAT vs ROU,Clay,4,D,19980415,1,203059,,,Alice Pirsu,U,,ROU,18.9158110883,202273,,,Liga Dekmeijere,R,,LAT,14.9021218344,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,234,80,,
@@ -2465,8 +2465,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-D025,Fed Cup WG2 PO: AUT vs POL,Clay,4,D,19980725,2,200032,,,Barbara Schett,R,176,AUT,22.3737166324,200737,,,Aleksandra Olsza,U,,POL,20.6269678303,4-6 6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,28,912,144,174
 1998-D025,Fed Cup WG2 PO: AUT vs POL,Clay,4,D,19980725,3,200032,,,Barbara Schett,R,176,AUT,22.3737166324,200710,,,Magdalena Feistel,U,,POL,27.923340178,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,28,912,541,17
 1998-D025,Fed Cup WG2 PO: AUT vs POL,Clay,4,D,19980725,4,200054,,,Sylvia Plischke,R,,AUT,21.0130047912,200737,,,Aleksandra Olsza,U,,POL,20.6269678303,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,54,518,144,174
-1998-D026,Fed Cup G2 RRB: BOT vs EGY,Clay,4,D,19980509,1,212427,,,May Emara,,,EGY,17.6427104723,206621,,,Kelesitse Makgale,U,,BOT,23.2826830938,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D026,Fed Cup G2 RRB: BOT vs EGY,Clay,4,D,19980509,2,203968,,,Dalia El Sheikh,U,,EGY,19.8028747433,212428,,,Mmaphala Letsatle,,,BOT,25.5715263518,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D026,Fed Cup G2 RRB: BOT vs EGY,Clay,4,D,19980509,1,212427,,,May Emara,U,,EGY,17.6427104723,206621,,,Kelesitse Makgale,U,,BOT,23.2826830938,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D026,Fed Cup G2 RRB: BOT vs EGY,Clay,4,D,19980509,2,203968,,,Dalia El Sheikh,U,,EGY,19.8028747433,212428,,,Mmaphala Letsatle,U,,BOT,25.5715263518,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D027,Fed Cup G1 RR: CHI vs PER,Clay,4,D,19980418,1,202170,,,Paula Cabezas,U,,ESP,25.6563997262,205143,,,Valentina Castro,U,,CHI,16.7529089665,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,499,18,,
 1998-D027,Fed Cup G1 RR: CHI vs PER,Clay,4,D,19980418,2,203939,,,Maria Eugenia Rojas,U,,PER,20.3066392882,204520,,,Ariana Rojas,U,,PER,16.3312799452,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,510,18,,
 1998-D028,Fed Cup G2 RRC: TUR vs LUX,Clay,4,D,19980509,1,201380,,,Claudine Schaul,R,,LUX,14.7186858316,207166,,,Ismet Duygu Aksit Oal,U,,TUR,26.5954825462,6-2 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,991,2
@@ -2479,53 +2479,53 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-D031,Fed Cup G2 RRB: EGY vs MKD,Clay,4,D,19980508,2,202714,,,Marina Lazarovska,U,,MKD,19.7754962355,201906,,,Marwa El Wany,U,,EGY,21.492128679,5-0 RET,5,RR,,,,,,,,,,,,,,,,,,,,576,14,982,2
 1998-D032,Fed Cup G1 RRA: CAN vs PAR,Clay,4,D,19980413,1,200012,,,Jana Nejedly,R,,CAN,23.8439425051,204539,,,Laura Bernal,U,,PAR,20.2080766598,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,92,295,529,16
 1998-D032,Fed Cup G1 RRA: CAN vs PAR,Clay,4,D,19980413,2,201729,,,Larissa Schaerer,R,,PAR,22.9952087611,200099,,,Sonya Jeyaseelan,R,,CAN,21.9685147159,6-7(4) 7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,150,150,94,291
-1998-D033,Fed Cup G2 RRC: ETH vs NOR,Clay,4,D,19980507,1,203217,,,Karoline Borgersen,R,,NOR,21.8480492813,212341,,,Rediet Kefyalew,,,ETH,14.2067077344,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D033,Fed Cup G2 RRC: ETH vs NOR,Clay,4,D,19980507,2,203898,,,Tina Samara,U,,NOR,23.780971937,212342,,,Seble Woldegebriel,,,ETH,14.0725530459,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,642,10,,
+1998-D033,Fed Cup G2 RRC: ETH vs NOR,Clay,4,D,19980507,1,203217,,,Karoline Borgersen,R,,NOR,21.8480492813,212341,,,Rediet Kefyalew,U,,ETH,14.2067077344,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D033,Fed Cup G2 RRC: ETH vs NOR,Clay,4,D,19980507,2,203898,,,Tina Samara,U,,NOR,23.780971937,212342,,,Seble Woldegebriel,U,,ETH,14.0725530459,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,642,10,,
 1998-D034,Fed Cup WG2 PO: KOR vs JPN,Clay,4,D,19980725,1,200735,,,Miho Saeki,R,,JPN,22.3518138261,201624,,,Eun Ha Kim,U,,KOR,23.3812457221,2-6 6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,64,445,146,169
 1998-D034,Fed Cup WG2 PO: KOR vs JPN,Clay,4,D,19980725,2,200085,,,Ai Sugiyama,R,163,JPN,23.0554414784,201625,,,Ju Yeon Choi,U,,KOR,22.6803559206,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,17,1569,292,57
 1998-D034,Fed Cup WG2 PO: KOR vs JPN,Clay,4,D,19980725,3,200085,,,Ai Sugiyama,R,163,JPN,23.0554414784,201624,,,Eun Ha Kim,U,,KOR,23.3812457221,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,17,1569,146,169
 1998-D034,Fed Cup WG2 PO: KOR vs JPN,Clay,4,D,19980725,4,200735,,,Miho Saeki,R,,JPN,22.3518138261,201313,,,Yoon Jeong Cho,R,,KOR,19.3127994524,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,64,445,193,102
-1998-D035,Fed Cup G2 RRB: EGY vs FIN,Clay,4,D,19980506,1,206505,,,Kirsi Lampinen,U,,FIN,26.2669404517,212427,,,May Emara,,,EGY,17.6344969199,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,706,8,,
+1998-D035,Fed Cup G2 RRB: EGY vs FIN,Clay,4,D,19980506,1,206505,,,Kirsi Lampinen,U,,FIN,26.2669404517,212427,,,May Emara,U,,EGY,17.6344969199,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,706,8,,
 1998-D035,Fed Cup G2 RRB: EGY vs FIN,Clay,4,D,19980506,2,206529,,,Hanna Katri Aalto,U,,FIN,19.9507186858,203968,,,Dalia El Sheikh,U,,EGY,19.794661191,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,594,13,,
-1998-D036,Fed Cup G2 RRC: TUR vs ETH,Clay,4,D,19980508,1,207704,,,Serra Olgac,U,,TUR,14.688569473,212341,,,Rediet Kefyalew,,,ETH,14.2094455852,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D036,Fed Cup G2 RRC: TUR vs ETH,Clay,4,D,19980508,2,207700,,,Seden Ozlu,U,,TUR,19.1731690623,212342,,,Seble Woldegebriel,,,ETH,14.0752908966,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,1053,1,,
+1998-D036,Fed Cup G2 RRC: TUR vs ETH,Clay,4,D,19980508,1,207704,,,Serra Olgac,U,,TUR,14.688569473,212341,,,Rediet Kefyalew,U,,ETH,14.2094455852,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D036,Fed Cup G2 RRC: TUR vs ETH,Clay,4,D,19980508,2,207700,,,Seden Ozlu,U,,TUR,19.1731690623,212342,,,Seble Woldegebriel,U,,ETH,14.0752908966,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,1053,1,,
 1998-D037,Fed Cup G1 RRA: CAN vs URU,Clay,4,D,19980415,1,200012,,,Jana Nejedly,R,,CAN,23.8494182067,203084,,,Daniela Olivera,U,,URU,17.3442847365,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,92,295,798,5
 1998-D037,Fed Cup G1 RRA: CAN vs URU,Clay,4,D,19980415,2,200099,,,Sonya Jeyaseelan,R,,CAN,21.9739904175,204488,,,Elena Juricich,U,,URU,18.6064339493,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,94,291,589,13
 1998-D038,Fed Cup G1 RRC: ECU vs PER,Clay,4,D,19980414,1,204123,,,Maria Dolores Campana,U,,ECU,23.0253251198,207536,,,Carla Rodriguez,U,,PER,25.8754277892,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D038,Fed Cup G1 RRC: ECU vs PER,Clay,4,D,19980414,2,206917,,,Alexandra Guzman,U,,ECU,20.2327173169,203939,,,Maria Eugenia Rojas,U,,PER,20.295687885,7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,510,18
 1998-D039,Fed Cup G1 RRC: ECU vs VEN,Clay,4,D,19980413,1,201328,,,Milagros Sequera,R,,VEN,17.5331964408,204123,,,Maria Dolores Campana,U,,ECU,23.022587269,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,528,17,,
 1998-D039,Fed Cup G1 RRC: ECU vs VEN,Clay,4,D,19980413,2,200024,,,Maria Vento Kabchi,R,,VEN,23.8877481177,206917,,,Alexandra Guzman,U,,ECU,20.2299794661,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,32,763,,
-1998-D040,Fed Cup G2 RRD: BIH vs EST,Clay,4,D,19980507,1,212396,,,Helene Holter,,,EST,24.9336071184,201390,,,Mervana Jugic Salkic,R,,BIH,17.9794661191,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D040,Fed Cup G2 RRD: BIH vs EST,Clay,4,D,19980507,1,212396,,,Helene Holter,U,,EST,24.9336071184,201390,,,Mervana Jugic Salkic,R,,BIH,17.9794661191,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D040,Fed Cup G2 RRD: BIH vs EST,Clay,4,D,19980507,2,206717,,,Asja Tankic,U,,BIH,19.3675564682,204772,,,Liina Suurvarik,U,,EST,17.5550992471,6-2 6-7(5) 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,982,2
 1998-D041,Fed Cup G2 RRA: DEN vs LTU,Clay,4,D,19980505,1,201322,,,Eva Dyrberg,R,,DEN,18.212183436,207427,,,Ilona Jarkova,U,,LTU,15.627652293,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,907,3,,
 1998-D041,Fed Cup G2 RRA: DEN vs LTU,Clay,4,D,19980505,2,204595,,,Charlotte Aagaard,U,,DEN,20.424366872,207421,,,Ruta Deduraite,U,,LTU,21.2648870637,6-7(2) 6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,499,19,,
 1998-D042,Fed Cup G1 RRD: HUN vs SWE,Clay,4,D,19980414,1,201858,,,Kristina Triska,R,,SWE,18.1054072553,201298,,,Zsofia Gubacsi,R,,HUN,17.0212183436,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,177,117,477,19
 1998-D042,Fed Cup G1 RRD: HUN vs SWE,Clay,4,D,19980414,2,200084,,,Asa Svensson,R,,SWE,22.8281998631,202195,,,Petra Gaspar,U,,HUN,21.1635865845,7-6(5) 7-5,3,RR,,,,,,,,,,,,,,,,,,,,98,277,218,85
-1998-D043,Fed Cup G2 RRD: EST vs MDA,Clay,4,D,19980508,1,212396,,,Helene Holter,,,EST,24.9363449692,204899,,,Evghenia Ablovatchi,U,,MDA,16.5256673511,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D043,Fed Cup G2 RRD: EST vs MDA,Clay,4,D,19980508,1,212396,,,Helene Holter,U,,EST,24.9363449692,204899,,,Evghenia Ablovatchi,U,,MDA,16.5256673511,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D043,Fed Cup G2 RRD: EST vs MDA,Clay,4,D,19980508,2,204770,,,Natalia Volcova,U,,MDA,16.2737850787,206563,,,Helen Laupa,U,,EST,21.6837782341,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,588,13
 1998-D044,Fed Cup G1 RRA: GRE vs SLO,Clay,4,D,19980415,1,200122,,,Tina Pisnik,R,,SLO,17.1498973306,201305,,,Eleni Daniilidou,R,182,GRE,15.5701574264,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,389,30,557,14
 1998-D044,Fed Cup G1 RRA: GRE vs SLO,Clay,4,D,19980415,2,200696,,,Christina Papadaki,R,,GRE,25.1362080767,201815,,,Petra Rampre,R,,SLO,18.2340862423,6-2 7-5,3,RR,,,,,,,,,,,,,,,,,,,,245,74,223,83
-1998-D045,Fed Cup G2 RRA: ALG vs TUN,Clay,4,D,19980509,1,204551,,,Siham Soumeya Ben Nacer,U,,ALG,14.7515400411,212148,,,Nadia Kilani,,,TUN,15.8822724162,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D045,Fed Cup G2 RRA: ALG vs TUN,Clay,4,D,19980509,1,204551,,,Siham Soumeya Ben Nacer,U,,ALG,14.7515400411,212148,,,Nadia Kilani,U,,TUN,15.8822724162,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D045,Fed Cup G2 RRA: ALG vs TUN,Clay,4,D,19980509,2,202298,,,Feriel Esseghir,R,,ALG,14.5270362765,207695,,,Issem Essaies,U,,TUN,25.7084188912,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D046,Fed Cup G1 PO: POL vs GRE,Clay,4,D,19980417,1,200737,,,Aleksandra Olsza,U,,POL,20.3559206023,201305,,,Eleni Daniilidou,R,182,GRE,15.575633128,4-6 6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,133,181,557,14
 1998-D046,Fed Cup G1 PO: POL vs GRE,Clay,4,D,19980417,2,200732,,,Magdalena Grzybowska,R,,POL,19.4004106776,200696,,,Christina Papadaki,R,,GRE,25.1416837782,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,40,659,245,74
-1998-D047,Fed Cup G2 RRC: ARM vs ETH,Clay,4,D,19980506,1,212498,,,Tereza Simonian,,,ARM,15.6824093087,212341,,,Rediet Kefyalew,,,ETH,14.2039698836,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D047,Fed Cup G2 RRC: ARM vs ETH,Clay,4,D,19980506,2,207176,,,Sona Saringulyan,U,,ARM,19.5482546201,212342,,,Seble Woldegebriel,,,ETH,14.0698151951,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D048,Fed Cup G2 RRC: TUR vs ARM,Clay,4,D,19980505,1,207166,,,Ismet Duygu Aksit Oal,U,,TUR,26.5845311431,212498,,,Tereza Simonian,,,ARM,15.6796714579,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,991,2,,
+1998-D047,Fed Cup G2 RRC: ARM vs ETH,Clay,4,D,19980506,1,212498,,,Tereza Simonian,U,,ARM,15.6824093087,212341,,,Rediet Kefyalew,U,,ETH,14.2039698836,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D047,Fed Cup G2 RRC: ARM vs ETH,Clay,4,D,19980506,2,207176,,,Sona Saringulyan,U,,ARM,19.5482546201,212342,,,Seble Woldegebriel,U,,ETH,14.0698151951,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D048,Fed Cup G2 RRC: TUR vs ARM,Clay,4,D,19980505,1,207166,,,Ismet Duygu Aksit Oal,U,,TUR,26.5845311431,212498,,,Tereza Simonian,U,,ARM,15.6796714579,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,991,2,,
 1998-D048,Fed Cup G2 RRC: TUR vs ARM,Clay,4,D,19980505,2,207176,,,Sona Saringulyan,U,,ARM,19.5455167693,204655,,,Gulberk Gultekin,U,,TUR,24.0848733744,6-4 1-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,524,17
-1998-D049,Fed Cup G2 RRD: IRL vs MDA,Clay,4,D,19980507,1,212505,,,Lesley OHalloran,,,IRL,32.5119780972,204899,,,Evghenia Ablovatchi,U,,MDA,16.5229295003,6-1 4-6 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D049,Fed Cup G2 RRD: IRL vs MDA,Clay,4,D,19980507,1,212505,,,Lesley OHalloran,U,,IRL,32.5119780972,204899,,,Evghenia Ablovatchi,U,,MDA,16.5229295003,6-1 4-6 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D049,Fed Cup G2 RRD: IRL vs MDA,Clay,4,D,19980507,2,204590,,,Gina Niland,U,,IRL,25.620807666,204770,,,Natalia Volcova,U,,MDA,16.2710472279,7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,962,2,,
-1998-D050,Fed Cup G2 RRC: ARM vs NOR,Clay,4,D,19980509,1,203217,,,Karoline Borgersen,R,,NOR,21.8535249829,212498,,,Tereza Simonian,,,ARM,15.6906228611,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D050,Fed Cup G2 RRC: ARM vs NOR,Clay,4,D,19980509,1,203217,,,Karoline Borgersen,R,,NOR,21.8535249829,212498,,,Tereza Simonian,U,,ARM,15.6906228611,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D050,Fed Cup G2 RRC: ARM vs NOR,Clay,4,D,19980509,2,207176,,,Sona Saringulyan,U,,ARM,19.5564681725,203898,,,Tina Samara,U,,NOR,23.7864476386,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,642,10
-1998-D051,Fed Cup G2 RRC: ARM vs MLT,Clay,4,D,19980508,1,212508,,,Naira Santrosian,,,ARM,27.2087611225,212081,,,Helen Asciak,,,MLT,35.2717316906,6-2 2-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D051,Fed Cup G2 RRC: ARM vs MLT,Clay,4,D,19980508,2,207176,,,Sona Saringulyan,U,,ARM,19.5537303217,212082,,,Lisa Camenzuli,,,MLT,21.3086926762,6-3 5-7 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D052,Fed Cup G2 RRA: DEN vs TUN,Clay,4,D,19980508,1,206871,,,Maria Rasmussen,U,,DEN,19.7152635181,212148,,,Nadia Kilani,,,TUN,15.8795345654,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,835,4,,
+1998-D051,Fed Cup G2 RRC: ARM vs MLT,Clay,4,D,19980508,1,212508,,,Naira Santrosian,U,,ARM,27.2087611225,212081,,,Helen Asciak,U,,MLT,35.2717316906,6-2 2-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D051,Fed Cup G2 RRC: ARM vs MLT,Clay,4,D,19980508,2,207176,,,Sona Saringulyan,U,,ARM,19.5537303217,212082,,,Lisa Camenzuli,U,,MLT,21.3086926762,6-3 5-7 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D052,Fed Cup G2 RRA: DEN vs TUN,Clay,4,D,19980508,1,206871,,,Maria Rasmussen,U,,DEN,19.7152635181,212148,,,Nadia Kilani,U,,TUN,15.8795345654,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,835,4,,
 1998-D052,Fed Cup G2 RRA: DEN vs TUN,Clay,4,D,19980508,2,201322,,,Eva Dyrberg,R,,DEN,18.2203969884,201209,,,Selima Sfar,R,,TUN,20.8323066393,7-6(2) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,907,3,286,58
-1998-D053,Fed Cup G2 RRD: IRL vs ISL,Clay,4,D,19980509,1,212510,,,Yvonne Flynn,,,IRL,20.7830253251,212384,,,Rakel Petursdottir,,,ISL,17.0978781656,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D053,Fed Cup G2 RRD: IRL vs ISL,Clay,4,D,19980509,2,204590,,,Gina Niland,U,,IRL,25.6262833676,212385,,,Stefania Stefansdottir,,,ISL,19.8850102669,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,962,2,,
-1998-D054,Fed Cup G2 RRC: ARM vs LUX,Clay,4,D,19980507,1,201380,,,Claudine Schaul,R,,LUX,14.71321013,212498,,,Tereza Simonian,,,ARM,15.6851471595,6-4 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D053,Fed Cup G2 RRD: IRL vs ISL,Clay,4,D,19980509,1,212510,,,Yvonne Flynn,U,,IRL,20.7830253251,212384,,,Rakel Petursdottir,U,,ISL,17.0978781656,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D053,Fed Cup G2 RRD: IRL vs ISL,Clay,4,D,19980509,2,204590,,,Gina Niland,U,,IRL,25.6262833676,212385,,,Stefania Stefansdottir,U,,ISL,19.8850102669,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,962,2,,
+1998-D054,Fed Cup G2 RRC: ARM vs LUX,Clay,4,D,19980507,1,201380,,,Claudine Schaul,R,,LUX,14.71321013,212498,,,Tereza Simonian,U,,ARM,15.6851471595,6-4 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D054,Fed Cup G2 RRC: ARM vs LUX,Clay,4,D,19980507,2,200124,,,Anne Kremer,R,,LUX,22.5544147844,207176,,,Sona Saringulyan,U,,ARM,19.5509924709,3-6 6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,129,205,,
-1998-D055,Fed Cup G2 RRD: BIH vs IRL,Clay,4,D,19980505,1,201390,,,Mervana Jugic Salkic,R,,BIH,17.9739904175,212505,,,Lesley OHalloran,,,IRL,32.5065023956,7-6(2) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D055,Fed Cup G2 RRD: BIH vs IRL,Clay,4,D,19980505,1,201390,,,Mervana Jugic Salkic,R,,BIH,17.9739904175,212505,,,Lesley OHalloran,U,,IRL,32.5065023956,7-6(2) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D055,Fed Cup G2 RRD: BIH vs IRL,Clay,4,D,19980505,2,206717,,,Asja Tankic,U,,BIH,19.3620807666,204590,,,Gina Niland,U,,IRL,25.6153319644,6-1 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,,,,962,2
 1998-D056,Fed Cup G1 RRD: HUN vs YUG,Clay,4,D,19980416,1,201298,,,Zsofia Gubacsi,R,,HUN,17.0266940452,202071,,,Dragana Zaric,U,,SRB,20.7063655031,4-6 6-2 8-6,3,RR,,,,,,,,,,,,,,,,,,,,477,19,230,81
 1998-D056,Fed Cup G1 RRD: HUN vs YUG,Clay,4,D,19980416,2,200092,,,Sandra Nacuk,R,,SCG,17.6618754278,202195,,,Petra Gaspar,U,,HUN,21.1690622861,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,158,135,218,85
@@ -2539,13 +2539,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-D059,Fed Cup WG2 QF: ARG vs SVK,Clay,4,D,19980418,4,200006,,,Karina Habsudova,R,,SVK,24.7091033539,200055,,,Mariana Diaz Oliva,R,,ARG,22.1026694045,3-6 6-2 11-9,3,RR,,,,,,,,,,,,,,,,,,,,42,634,125,200
 1998-D060,Fed Cup G2 RRD: BIH vs MDA,Clay,4,D,19980509,1,201390,,,Mervana Jugic Salkic,R,,BIH,17.9849418207,207171,,,Elena Petrenko,U,,MDA,17.5140314853,6-3 2-6 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D060,Fed Cup G2 RRD: BIH vs MDA,Clay,4,D,19980509,2,204770,,,Natalia Volcova,U,,MDA,16.2765229295,206717,,,Asja Tankic,U,,BIH,19.3730321697,2-6 7-6(1) 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D061,Fed Cup G2 RRD: BIH vs ISL,Clay,4,D,19980508,1,201390,,,Mervana Jugic Salkic,R,,BIH,17.9822039699,212384,,,Rakel Petursdottir,,,ISL,17.0951403149,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D061,Fed Cup G2 RRD: BIH vs ISL,Clay,4,D,19980508,2,206717,,,Asja Tankic,U,,BIH,19.370294319,212385,,,Stefania Stefansdottir,,,ISL,19.8822724162,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D061,Fed Cup G2 RRD: BIH vs ISL,Clay,4,D,19980508,1,201390,,,Mervana Jugic Salkic,R,,BIH,17.9822039699,212384,,,Rakel Petursdottir,U,,ISL,17.0951403149,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D061,Fed Cup G2 RRD: BIH vs ISL,Clay,4,D,19980508,2,206717,,,Asja Tankic,U,,BIH,19.370294319,212385,,,Stefania Stefansdottir,U,,ISL,19.8822724162,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D062,Fed Cup WG1 PO: CZE vs ITA,Clay,4,D,19980725,1,200700,,,Silvia Farina Elia,R,,ITA,26.2422997947,200657,,,Radka Bobkova,R,,CZE,25.4455852156,6-0 6-4,3,RR,,,,,,,,,,,,,,,,,,,,23,1111,99,281
 1998-D062,Fed Cup WG1 PO: CZE vs ITA,Clay,4,D,19980725,2,200010,,,Rita Grande,R,,ITA,23.3401779603,200117,,,Kveta Peschke,R,165,CZE,23.0444900753,7-6(3) 4-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,36,735,73,393
 1998-D062,Fed Cup WG1 PO: CZE vs ITA,Clay,4,D,19980725,3,200700,,,Silvia Farina Elia,R,,ITA,26.2422997947,200117,,,Kveta Peschke,R,165,CZE,23.0444900753,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,23,1111,73,393
 1998-D062,Fed Cup WG1 PO: CZE vs ITA,Clay,4,D,19980725,4,200657,,,Radka Bobkova,R,,CZE,25.4455852156,200010,,,Rita Grande,R,,ITA,23.3401779603,2-6 6-3 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,,99,281,36,735
-1998-D063,Fed Cup G2 RRD: EST vs IRL,Clay,4,D,19980506,1,212505,,,Lesley OHalloran,,,IRL,32.5092402464,212396,,,Helene Holter,,,EST,24.9308692676,7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D063,Fed Cup G2 RRD: EST vs IRL,Clay,4,D,19980506,1,212505,,,Lesley OHalloran,U,,IRL,32.5092402464,212396,,,Helene Holter,U,,EST,24.9308692676,7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D063,Fed Cup G2 RRD: EST vs IRL,Clay,4,D,19980506,2,204590,,,Gina Niland,U,,IRL,25.6180698152,204772,,,Liina Suurvarik,U,,EST,17.5523613963,0-6 6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,962,2,982,2
 1998-D064,Fed Cup G1 RRD: SWE vs UKR,Clay,4,D,19980416,1,202218,,,Anna Zaporozhanova,U,,UKR,18.6858316222,201858,,,Kristina Triska,R,,SWE,18.1108829569,6-3 7-6(8),3,RR,,,,,,,,,,,,,,,,,,,,340,41,177,117
 1998-D064,Fed Cup G1 RRD: SWE vs UKR,Clay,4,D,19980416,2,200084,,,Asa Svensson,R,,SWE,22.8336755647,200740,,,Elena Tatarkova,L,,UKR,21.6481861739,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,98,277,127,198
@@ -2559,11 +2559,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-D068,Fed Cup WG1 PO: SVK vs BEL,Clay,4,D,19980725,2,200006,,,Karina Habsudova,R,,SVK,24.977412731,200080,,,Dominique Monami,R,,BEL,25.1498973306,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,59,466,12,1997
 1998-D068,Fed Cup WG1 PO: SVK vs BEL,Clay,4,D,19980725,3,200098,,,Henrieta Nagyova,R,,SVK,19.6084873374,200080,,,Dominique Monami,R,,BEL,25.1498973306,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,22,1198,12,1997
 1998-D068,Fed Cup WG1 PO: SVK vs BEL,Clay,4,D,19980725,4,200006,,,Karina Habsudova,R,,SVK,24.977412731,200037,,,Sabine Appelmans,L,,BEL,26.2559890486,6-2 4-6 7-5,3,RR,,,,,,,,,,,,,,,,,,,,59,466,27,930
-1998-D069,Fed Cup G2 RRD: EST vs ISL,Clay,4,D,19980505,1,204772,,,Liina Suurvarik,U,,EST,17.5496235455,212384,,,Rakel Petursdottir,,,ISL,17.0869267625,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,982,2,,
-1998-D069,Fed Cup G2 RRD: EST vs ISL,Clay,4,D,19980505,2,206563,,,Helen Laupa,U,,EST,21.6755646817,212385,,,Stefania Stefansdottir,,,ISL,19.8740588638,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,588,13,,
+1998-D069,Fed Cup G2 RRD: EST vs ISL,Clay,4,D,19980505,1,204772,,,Liina Suurvarik,U,,EST,17.5496235455,212384,,,Rakel Petursdottir,U,,ISL,17.0869267625,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,982,2,,
+1998-D069,Fed Cup G2 RRD: EST vs ISL,Clay,4,D,19980505,2,206563,,,Helen Laupa,U,,EST,21.6755646817,212385,,,Stefania Stefansdottir,U,,ISL,19.8740588638,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,588,13,,
 1998-D070,Fed Cup G1 RRB: GBR vs MAD,Clay,4,D,19980416,1,201080,,,Louise Latimer,R,,GBR,20.2381930185,202510,,,Natacha Randriantefy,R,,MAD,20.090349076,6-4 4-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,235,80,,
-1998-D070,Fed Cup G1 RRB: GBR vs MAD,Clay,4,D,19980416,2,201088,,,Karen Cross,L,,GBR,24.1533196441,212521,,,Faratiana Rasoarilalao,,,MAD,18.2587268994,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,142,163,,
-1998-D071,Fed Cup G2 RRD: EST vs GEO,Clay,4,D,19980509,1,201591,,,Margalita Chakhnashvili,R,,GEO,15.4140999316,212396,,,Helene Holter,,,EST,24.93908282,5-7 6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D070,Fed Cup G1 RRB: GBR vs MAD,Clay,4,D,19980416,2,201088,,,Karen Cross,L,,GBR,24.1533196441,212521,,,Faratiana Rasoarilalao,U,,MAD,18.2587268994,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,142,163,,
+1998-D071,Fed Cup G2 RRD: EST vs GEO,Clay,4,D,19980509,1,201591,,,Margalita Chakhnashvili,R,,GEO,15.4140999316,212396,,,Helene Holter,U,,EST,24.93908282,5-7 6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D071,Fed Cup G2 RRD: EST vs GEO,Clay,4,D,19980509,2,201850,,,Nino Louarsabishvili,U,,GEO,21.2594113621,204772,,,Liina Suurvarik,U,,EST,17.5605749487,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,195,109,982,2
 1998-D072,Fed Cup G2 RRA: CYP vs TUN,Clay,4,D,19980507,1,207695,,,Issem Essaies,U,,TUN,25.7029431896,206869,,,Stephanie Kamberi,U,,CYP,16.733744011,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D072,Fed Cup G2 RRA: CYP vs TUN,Clay,4,D,19980507,2,201209,,,Selima Sfar,R,,TUN,20.8295687885,206862,,,Daphne Nicolatou,U,,CYP,18.4668035592,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,286,58,,
@@ -2574,15 +2574,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-D074,Fed Cup G2 RRA: ALG vs DEN,Clay,4,D,19980507,1,201322,,,Eva Dyrberg,R,,DEN,18.2176591376,204551,,,Siham Soumeya Ben Nacer,U,,ALG,14.7460643395,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,907,3,,
 1998-D074,Fed Cup G2 RRA: ALG vs DEN,Clay,4,D,19980507,2,204595,,,Charlotte Aagaard,U,,DEN,20.4298425736,202298,,,Feriel Esseghir,R,,ALG,14.5215605749,6-2 6-7(5) 6-0,3,RR,,,,,,,,,,,,,,,,,,,,499,19,,
 1998-D075,Fed Cup G2 RRA: ALG vs CYP,Clay,4,D,19980505,1,208230,,,Samira Takourabet,U,,ALG,20.8049281314,206869,,,Stephanie Kamberi,U,,CYP,16.7282683094,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D075,Fed Cup G2 RRA: ALG vs CYP,Clay,4,D,19980505,2,212488,,,Lamia Hameurlaine,,,ALG,23.7754962355,206870,,,Andria Hadjioannou,U,,CYP,16.2683093771,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D075,Fed Cup G2 RRA: ALG vs CYP,Clay,4,D,19980505,2,212488,,,Lamia Hameurlaine,U,,ALG,23.7754962355,206870,,,Andria Hadjioannou,U,,CYP,16.2683093771,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D076,Fed Cup G2 RRA: ALG vs LTU,Clay,4,D,19980508,1,207427,,,Ilona Jarkova,U,,LTU,15.6358658453,208230,,,Samira Takourabet,U,,ALG,20.8131416838,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D076,Fed Cup G2 RRA: ALG vs LTU,Clay,4,D,19980508,2,207421,,,Ruta Deduraite,U,,LTU,21.273100616,212488,,,Lamia Hameurlaine,,,ALG,23.7837097878,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D076,Fed Cup G2 RRA: ALG vs LTU,Clay,4,D,19980508,2,207421,,,Ruta Deduraite,U,,LTU,21.273100616,212488,,,Lamia Hameurlaine,U,,ALG,23.7837097878,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D077,Fed Cup G1 RRA: GRE vs ISR,Clay,4,D,19980414,1,201809,,,Hila Rosen,R,,ISR,20.605065024,201305,,,Eleni Daniilidou,R,182,GRE,15.5674195756,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,199,98,557,14
 1998-D077,Fed Cup G1 RRA: GRE vs ISR,Clay,4,D,19980414,2,200696,,,Christina Papadaki,R,,GRE,25.1334702259,200040,,,Anna Smashnova,R,,ISR,21.7440109514,6-3 5-7 6-4,3,RR,,,,,,,,,,,,,,,,,,,,245,74,124,200
-1998-D078,Fed Cup G2 RRD: GEO vs IRL,Clay,4,D,19980508,1,201591,,,Margalita Chakhnashvili,R,,GEO,15.4113620808,212505,,,Lesley OHalloran,,,IRL,32.514715948,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D078,Fed Cup G2 RRD: GEO vs IRL,Clay,4,D,19980508,1,201591,,,Margalita Chakhnashvili,R,,GEO,15.4113620808,212505,,,Lesley OHalloran,U,,IRL,32.514715948,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D078,Fed Cup G2 RRD: GEO vs IRL,Clay,4,D,19980508,2,201850,,,Nino Louarsabishvili,U,,GEO,21.2566735113,204590,,,Gina Niland,U,,IRL,25.6235455168,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,195,109,962,2
-1998-D079,Fed Cup G2 RRD: GEO vs ISL,Clay,4,D,19980507,1,201591,,,Margalita Chakhnashvili,R,,GEO,15.40862423,212384,,,Rakel Petursdottir,,,ISL,17.0924024641,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D079,Fed Cup G2 RRD: GEO vs ISL,Clay,4,D,19980507,2,201850,,,Nino Louarsabishvili,U,,GEO,21.2539356605,212385,,,Stefania Stefansdottir,,,ISL,19.8795345654,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,195,109,,
+1998-D079,Fed Cup G2 RRD: GEO vs ISL,Clay,4,D,19980507,1,201591,,,Margalita Chakhnashvili,R,,GEO,15.40862423,212384,,,Rakel Petursdottir,U,,ISL,17.0924024641,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D079,Fed Cup G2 RRD: GEO vs ISL,Clay,4,D,19980507,2,201850,,,Nino Louarsabishvili,U,,GEO,21.2539356605,212385,,,Stefania Stefansdottir,U,,ISL,19.8795345654,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,195,109,,
 1998-D080,Fed Cup G1 RRC: RSA vs BUL,Clay,4,D,19980415,1,202711,,,Antoaneta Pandjerova,R,,BUL,20.8131416838,201075,,,Liezel Huber,R,180,USA,21.6481861739,6-3 5-7 6-4,3,RR,,,,,,,,,,,,,,,,,,,,462,21,186,113
 1998-D080,Fed Cup G1 RRC: RSA vs BUL,Clay,4,D,19980415,2,200715,,,Mariaan De Swardt,R,,RSA,27.0773442847,200086,,,Magdalena Maleeva,R,168,BUL,23.0390143737,6-1 7-5,3,RR,,,,,,,,,,,,,,,,,,,,85,322,38,667
 1998-D081,Fed Cup G1 RRD: SWE vs YUG,Clay,4,D,19980415,1,201858,,,Kristina Triska,R,,SWE,18.1081451061,202071,,,Dragana Zaric,U,,SRB,20.7036276523,7-5 5-7 9-7,3,RR,,,,,,,,,,,,,,,,,,,,177,117,230,81
@@ -2601,29 +2601,29 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-D086,Fed Cup WG1 QF: USA vs NED,Clay,4,D,19980418,2,200652,,,Monica Seles,L,,USA,24.3750855578,200089,,,Miriam Oremans,R,,NED,25.6043805613,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,7,2644,53,489
 1998-D086,Fed Cup WG1 QF: USA vs NED,Clay,4,D,19980418,3,200128,,,Lindsay Davenport,R,189,USA,21.8590006845,200089,,,Miriam Oremans,R,,NED,25.6043805613,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,2,3963,53,489
 1998-D086,Fed Cup WG1 QF: USA vs NED,Clay,4,D,19980418,4,200652,,,Monica Seles,L,,USA,24.3750855578,200100,,,Amanda Hopmans,R,,NED,22.1820670773,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,7,2644,200,98
-1998-D087,Fed Cup G2 RRB: BOT vs LIE,Clay,4,D,19980508,1,212361,,,Fabienne Gmeiner,,,LIE,18.6666666667,206621,,,Kelesitse Makgale,U,,BOT,23.279945243,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D087,Fed Cup G2 RRB: BOT vs LIE,Clay,4,D,19980508,2,212401,,,Angelika Schadler,,,LIE,18.0232717317,212428,,,Mmaphala Letsatle,,,BOT,25.568788501,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D087,Fed Cup G2 RRB: BOT vs LIE,Clay,4,D,19980508,1,212361,,,Fabienne Gmeiner,U,,LIE,18.6666666667,206621,,,Kelesitse Makgale,U,,BOT,23.279945243,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D087,Fed Cup G2 RRB: BOT vs LIE,Clay,4,D,19980508,2,212401,,,Angelika Schadler,U,,LIE,18.0232717317,212428,,,Mmaphala Letsatle,U,,BOT,25.568788501,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D088,Fed Cup G2 RRC: TUR vs NOR,Clay,4,D,19980506,1,207166,,,Ismet Duygu Aksit Oal,U,,TUR,26.5872689938,207292,,,Caroline Tidemand,U,,NOR,16.0191649555,3-6 6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,991,2,,
 1998-D088,Fed Cup G2 RRC: TUR vs NOR,Clay,4,D,19980506,2,204655,,,Gulberk Gultekin,U,,TUR,24.0876112252,203898,,,Tina Samara,U,,NOR,23.7782340862,7-6(4) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,524,17,642,10
-1998-D089,Fed Cup G2 RRC: MLT vs NOR,Clay,4,D,19980505,1,207292,,,Caroline Tidemand,U,,NOR,16.0164271047,212082,,,Lisa Camenzuli,,,MLT,21.3004791239,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D089,Fed Cup G2 RRC: MLT vs NOR,Clay,4,D,19980505,2,203217,,,Karoline Borgersen,R,,NOR,21.8425735797,212125,,,Carol Cassar Torreggiani,,,MLT,29.7768651608,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D090,Fed Cup G2 RRB: MKD vs LIE,Clay,4,D,19980506,1,207497,,,Biljana Trpeska,U,,MKD,16.1067761807,212361,,,Fabienne Gmeiner,,,LIE,18.6611909651,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D090,Fed Cup G2 RRB: MKD vs LIE,Clay,4,D,19980506,2,202714,,,Marina Lazarovska,U,,MKD,19.7700205339,212401,,,Angelika Schadler,,,LIE,18.0177960301,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,576,14,,
+1998-D089,Fed Cup G2 RRC: MLT vs NOR,Clay,4,D,19980505,1,207292,,,Caroline Tidemand,U,,NOR,16.0164271047,212082,,,Lisa Camenzuli,U,,MLT,21.3004791239,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D089,Fed Cup G2 RRC: MLT vs NOR,Clay,4,D,19980505,2,203217,,,Karoline Borgersen,R,,NOR,21.8425735797,212125,,,Carol Cassar Torreggiani,U,,MLT,29.7768651608,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D090,Fed Cup G2 RRB: MKD vs LIE,Clay,4,D,19980506,1,207497,,,Biljana Trpeska,U,,MKD,16.1067761807,212361,,,Fabienne Gmeiner,U,,LIE,18.6611909651,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D090,Fed Cup G2 RRB: MKD vs LIE,Clay,4,D,19980506,2,202714,,,Marina Lazarovska,U,,MKD,19.7700205339,212401,,,Angelika Schadler,U,,LIE,18.0177960301,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,576,14,,
 1998-D091,Fed Cup G2 RRA: CYP vs DEN,Clay,4,D,19980506,1,206862,,,Daphne Nicolatou,U,,CYP,18.4640657084,201322,,,Eva Dyrberg,R,,DEN,18.2149212868,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,907,3
 1998-D091,Fed Cup G2 RRA: CYP vs DEN,Clay,4,D,19980506,2,204595,,,Charlotte Aagaard,U,,DEN,20.4271047228,206870,,,Andria Hadjioannou,U,,CYP,16.2710472279,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,499,19,,
-1998-D092,Fed Cup G2 RRC: TUR vs MLT,Clay,4,D,19980507,1,207166,,,Ismet Duygu Aksit Oal,U,,TUR,26.5900068446,212082,,,Lisa Camenzuli,,,MLT,21.3059548255,6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,991,2,,
-1998-D092,Fed Cup G2 RRC: TUR vs MLT,Clay,4,D,19980507,2,204655,,,Gulberk Gultekin,U,,TUR,24.090349076,212125,,,Carol Cassar Torreggiani,,,MLT,29.7823408624,7-6(4) 7-5,3,RR,,,,,,,,,,,,,,,,,,,,524,17,,
-1998-D092,Fed Cup G2 RRC: TUR vs MLT,Clay,4,D,19980507,3,212081,,,Helen Asciak,,,MLT,35.2689938398,207704,,,Serra Olgac,U,,TUR,14.6858316222,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D093,Fed Cup G1 RR: PER vs URU,Clay,4,D,19980416,1,207536,,,Carla Rodriguez,U,,PER,25.8809034908,212445,,,Claudia Brause,,,URU,27.6303901437,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D092,Fed Cup G2 RRC: TUR vs MLT,Clay,4,D,19980507,1,207166,,,Ismet Duygu Aksit Oal,U,,TUR,26.5900068446,212082,,,Lisa Camenzuli,U,,MLT,21.3059548255,6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,991,2,,
+1998-D092,Fed Cup G2 RRC: TUR vs MLT,Clay,4,D,19980507,2,204655,,,Gulberk Gultekin,U,,TUR,24.090349076,212125,,,Carol Cassar Torreggiani,U,,MLT,29.7823408624,7-6(4) 7-5,3,RR,,,,,,,,,,,,,,,,,,,,524,17,,
+1998-D092,Fed Cup G2 RRC: TUR vs MLT,Clay,4,D,19980507,3,212081,,,Helen Asciak,U,,MLT,35.2689938398,207704,,,Serra Olgac,U,,TUR,14.6858316222,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D093,Fed Cup G1 RR: PER vs URU,Clay,4,D,19980416,1,207536,,,Carla Rodriguez,U,,PER,25.8809034908,212445,,,Claudia Brause,U,,URU,27.6303901437,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D093,Fed Cup G1 RR: PER vs URU,Clay,4,D,19980416,2,204488,,,Elena Juricich,U,,URU,18.6091718001,203939,,,Maria Eugenia Rojas,U,,PER,20.3011635866,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,589,13,510,18
 1998-D094,Fed Cup G1 RRC: PER vs VEN,Clay,4,D,19980415,1,201328,,,Milagros Sequera,R,,VEN,17.5386721424,204520,,,Ariana Rojas,U,,PER,16.3230663929,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,528,17,,
 1998-D094,Fed Cup G1 RRC: PER vs VEN,Clay,4,D,19980415,2,200024,,,Maria Vento Kabchi,R,,VEN,23.8932238193,203939,,,Maria Eugenia Rojas,U,,PER,20.2984257358,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,32,763,510,18
-1998-D095,Fed Cup G1 RRA: PAR vs URU,Clay,4,D,19980414,1,204539,,,Laura Bernal,U,,PAR,20.2108145106,212445,,,Claudia Brause,,,URU,27.6249144422,6-2 7-5,3,RR,,,,,,,,,,,,,,,,,,,,529,16,,
+1998-D095,Fed Cup G1 RRA: PAR vs URU,Clay,4,D,19980414,1,204539,,,Laura Bernal,U,,PAR,20.2108145106,212445,,,Claudia Brause,U,,URU,27.6249144422,6-2 7-5,3,RR,,,,,,,,,,,,,,,,,,,,529,16,,
 1998-D095,Fed Cup G1 RRA: PAR vs URU,Clay,4,D,19980414,2,201729,,,Larissa Schaerer,R,,PAR,22.9979466119,203084,,,Daniela Olivera,U,,URU,17.3415468857,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,150,150,798,5
 1998-D096,Fed Cup G1 RR: BRA vs ECU,Clay,4,D,19980416,1,201862,,,Vanessa Menga,U,,BRA,21.4866529774,204123,,,Maria Dolores Campana,U,,ECU,23.0308008214,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,347,39,,
 1998-D096,Fed Cup G1 RR: BRA vs ECU,Clay,4,D,19980416,2,201950,,,Miriam Dagostini,U,,BRA,19.6687200548,206917,,,Alexandra Guzman,U,,ECU,20.2381930185,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,240,76,,
 1998-D097,Fed Cup G2 RRB: BOT vs MKD,Clay,4,D,19980507,1,207429,,,Ana Buraku,U,,MKD,17.0349075975,206621,,,Kelesitse Makgale,U,,BOT,23.2772073922,4-6 6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D097,Fed Cup G2 RRB: BOT vs MKD,Clay,4,D,19980507,2,202714,,,Marina Lazarovska,U,,MKD,19.7727583847,212428,,,Mmaphala Letsatle,,,BOT,25.5660506502,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,576,14,,
+1998-D097,Fed Cup G2 RRB: BOT vs MKD,Clay,4,D,19980507,2,202714,,,Marina Lazarovska,U,,MKD,19.7727583847,212428,,,Mmaphala Letsatle,U,,BOT,25.5660506502,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,576,14,,
 1998-D098,Fed Cup WG2 QF: CRO vs JPN,Clay,4,D,19980425,1,200002,,,Mirjana Lucic,R,,CRO,16.128678987,200644,,,Naoko Sawamatsu,U,,JPN,25.0896646133,6-3 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,,46,591,30,817
 1998-D098,Fed Cup WG2 QF: CRO vs JPN,Clay,4,D,19980425,2,200723,,,Iva Majoli,R,,CRO,20.7008898015,200713,,,Yuka Yoshida,R,,JPN,22.0643394935,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,9,2413,63,408
 1998-D098,Fed Cup WG2 QF: CRO vs JPN,Clay,4,D,19980425,3,200723,,,Iva Majoli,R,,CRO,20.7008898015,200644,,,Naoko Sawamatsu,U,,JPN,25.0896646133,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,9,2413,30,817
@@ -2645,7 +2645,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-D105,Fed Cup G1 RR: CHI vs URU,Clay,4,D,19980417,1,204536,,,Barbara Castro,U,,CHI,22.6064339493,204715,,,Cecilia Guillenea,U,,URU,17.2265571526,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,833,4,1076,1
 1998-D105,Fed Cup G1 RR: CHI vs URU,Clay,4,D,19980417,2,202170,,,Paula Cabezas,U,,ESP,25.6536618754,204488,,,Elena Juricich,U,,URU,18.6119096509,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,499,18,589,13
 1998-D106,Fed Cup G2 RRB: BOT vs FIN,Clay,4,D,19980505,1,206505,,,Kirsi Lampinen,U,,FIN,26.264202601,206621,,,Kelesitse Makgale,U,,BOT,23.2717316906,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,706,8,,
-1998-D106,Fed Cup G2 RRB: BOT vs FIN,Clay,4,D,19980505,2,206529,,,Hanna Katri Aalto,U,,FIN,19.947980835,212428,,,Mmaphala Letsatle,,,BOT,25.5605749487,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,594,13,,
+1998-D106,Fed Cup G2 RRB: BOT vs FIN,Clay,4,D,19980505,2,206529,,,Hanna Katri Aalto,U,,FIN,19.947980835,212428,,,Mmaphala Letsatle,U,,BOT,25.5605749487,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,594,13,,
 1998-D107,Fed Cup G1 RR: CAN vs ECU,Clay,4,D,19980417,1,200012,,,Jana Nejedly,R,,CAN,23.8548939083,204123,,,Maria Dolores Campana,U,,ECU,23.0335386721,6-4 5-7 6-4,3,RR,,,,,,,,,,,,,,,,,,,,92,295,,
 1998-D107,Fed Cup G1 RR: CAN vs ECU,Clay,4,D,19980417,2,200099,,,Sonya Jeyaseelan,R,,CAN,21.9794661191,206917,,,Alexandra Guzman,U,,ECU,20.2409308693,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,94,291,,
 1998-D108,Fed Cup G1 PO: RSA vs POR,Clay,4,D,19980417,1,201728,,,Jessica Steck,R,,RSA,19.6960985626,203996,,,Cristina Correia,U,,POR,19.1567419576,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,145,159,936,2
@@ -2678,16 +2678,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-D117,Fed Cup WG1 PO: RUS vs GER,Hard,4,D,19980725,2,200693,,,Elena Makarova,U,,RUS,25.4757015743,200081,,,Anke Huber,R,,GER,23.6386036961,6-1 7-6(6),3,RR,,,,,,,,,,,,,,,,,,,,114,250,18,1566
 1998-D117,Fed Cup WG1 PO: RUS vs GER,Hard,4,D,19980725,3,200063,,,Tatiana Panova,R,,RUS,21.9466119097,200081,,,Anke Huber,R,,GER,23.6386036961,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,66,435,18,1566
 1998-D117,Fed Cup WG1 PO: RUS vs GER,Hard,4,D,19980725,4,200693,,,Elena Makarova,U,,RUS,25.4757015743,200745,,,Andrea Glass,R,,GER,22.0205338809,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,114,250,75,388
-1998-D118,Fed Cup G2 RRC: KAZ vs TJK,Hard,4,D,19980217,1,212684,,,Eugenia Silantieva,,,TJK,20.128678987,212589,,,Tatiana Babina,,,KAZ,19.5427789185,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D118,Fed Cup G2 RRC: KAZ vs TJK,Hard,4,D,19980217,2,212144,,,Alissa Velts,,,KAZ,17.0704996578,212685,,,Youliya Dimitrova,,,TJK,18.2751540041,4-6 6-3 14-12,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D119,Fed Cup G2 RRC: KAZ vs SYR,Hard,4,D,19980218,1,212589,,,Tatiana Babina,,,KAZ,19.5455167693,212098,,,Farah Dayoub,,,SYR,22.7077344285,7-6(7) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D119,Fed Cup G2 RRC: KAZ vs SYR,Hard,4,D,19980218,2,212144,,,Alissa Velts,,,KAZ,17.0732375086,212499,,,Sara Taweel,,,SYR,19.4743326489,5-7 6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D120,Fed Cup G2 RR: KAZ vs PAK,Hard,4,D,19980221,1,212589,,,Tatiana Babina,,,KAZ,19.5537303217,212686,,,Haleema Rahim,,,PAK,17.8891170431,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D120,Fed Cup G2 RR: KAZ vs PAK,Hard,4,D,19980221,2,212144,,,Alissa Velts,,,KAZ,17.0814510609,212687,,,Nida Waseem,,,PAK,15.3073237509,7-6(5) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D121,Fed Cup G2 RRB: BOL vs JAM,Hard,4,D,19980428,1,206594,,,Morya Peres,U,,BOL,19.2854209446,212103,,,Alexandra Chong,,,JAM,16.7446954141,7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D121,Fed Cup G2 RRB: BOL vs JAM,Hard,4,D,19980428,2,212541,,,Camille Walter,,,JAM,25.2511978097,206606,,,Claudia Herbas,U,,BOL,18.1492128679,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D122,Fed Cup G2 RR: KAZ vs MAS,Hard,4,D,19980220,1,212083,,,Lynn Yin Tan,,,MAS,17.954825462,212589,,,Tatiana Babina,,,KAZ,19.5509924709,6-3 3-6 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D122,Fed Cup G2 RR: KAZ vs MAS,Hard,4,D,19980220,2,202073,,,Chin Bee Khoo,U,,MAS,20.7994524298,212144,,,Alissa Velts,,,KAZ,17.0787132101,6-3 3-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,387,32,,
+1998-D118,Fed Cup G2 RRC: KAZ vs TJK,Hard,4,D,19980217,1,212684,,,Eugenia Silantieva,U,,TJK,20.128678987,212589,,,Tatiana Babina,U,,KAZ,19.5427789185,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D118,Fed Cup G2 RRC: KAZ vs TJK,Hard,4,D,19980217,2,212144,,,Alissa Velts,U,,KAZ,17.0704996578,212685,,,Youliya Dimitrova,U,,TJK,18.2751540041,4-6 6-3 14-12,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D119,Fed Cup G2 RRC: KAZ vs SYR,Hard,4,D,19980218,1,212589,,,Tatiana Babina,U,,KAZ,19.5455167693,212098,,,Farah Dayoub,U,,SYR,22.7077344285,7-6(7) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D119,Fed Cup G2 RRC: KAZ vs SYR,Hard,4,D,19980218,2,212144,,,Alissa Velts,U,,KAZ,17.0732375086,212499,,,Sara Taweel,U,,SYR,19.4743326489,5-7 6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D120,Fed Cup G2 RR: KAZ vs PAK,Hard,4,D,19980221,1,212589,,,Tatiana Babina,U,,KAZ,19.5537303217,212686,,,Haleema Rahim,U,,PAK,17.8891170431,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D120,Fed Cup G2 RR: KAZ vs PAK,Hard,4,D,19980221,2,212144,,,Alissa Velts,U,,KAZ,17.0814510609,212687,,,Nida Waseem,U,,PAK,15.3073237509,7-6(5) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D121,Fed Cup G2 RRB: BOL vs JAM,Hard,4,D,19980428,1,206594,,,Morya Peres,U,,BOL,19.2854209446,212103,,,Alexandra Chong,U,,JAM,16.7446954141,7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D121,Fed Cup G2 RRB: BOL vs JAM,Hard,4,D,19980428,2,212541,,,Camille Walter,U,,JAM,25.2511978097,206606,,,Claudia Herbas,U,,BOL,18.1492128679,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D122,Fed Cup G2 RR: KAZ vs MAS,Hard,4,D,19980220,1,212083,,,Lynn Yin Tan,U,,MAS,17.954825462,212589,,,Tatiana Babina,U,,KAZ,19.5509924709,6-3 3-6 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D122,Fed Cup G2 RR: KAZ vs MAS,Hard,4,D,19980220,2,202073,,,Chin Bee Khoo,U,,MAS,20.7994524298,212144,,,Alissa Velts,U,,KAZ,17.0787132101,6-3 3-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,387,32,,
 1998-D123,Fed Cup G2 RRB: BOL vs DOM,Hard,4,D,19980427,1,206587,,,Daniela Alvarez,U,,BOL,14.3299110198,206897,,,Monika Pimentel,U,,DOM,19.832991102,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D123,Fed Cup G2 RRB: BOL vs DOM,Hard,4,D,19980427,2,202509,,,Joelle Schad,U,,DOM,25.1225188227,206594,,,Morya Peres,U,,BOL,19.2826830938,5-7 6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D124,Fed Cup G2 RRB: BOL vs CUB,Hard,4,D,19980501,1,206902,,,Yamile Cordova,U,,CUB,25.6454483231,206587,,,Daniela Alvarez,U,,BOL,14.340862423,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
@@ -2696,172 +2696,172 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1998-D125,Fed Cup G1 RR: KOR vs NZL,Hard,4,D,19980221,2,200716,,,Sung Hee Park,U,,KOR,23.0116358658,201753,,,Rewa Harriman,U,,NZL,17.4346338125,6-2 7-5,3,RR,,,,,,,,,,,,,,,,,,,,107,227,318,46
 1998-D126,Fed Cup G1 RRA: TPE vs UZB,Hard,4,D,19980217,1,200091,,,Janet Lee,R,,TPE,21.3223819302,201204,,,Iroda Tulyaganova,R,,UZB,16.1122518823,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,84,312,,
 1998-D126,Fed Cup G1 RRA: TPE vs UZB,Hard,4,D,19980217,2,200684,,,Shi Ting Wang,R,,TPE,24.3312799452,202216,,,Lilia Biktyakova,U,,UZB,19.0417522245,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,57,454,809,5
-1998-D127,Fed Cup G2 RRB: BOL vs PAN,Hard,4,D,19980503,1,206587,,,Daniela Alvarez,U,,BOL,14.3463381246,212157,,,Anabelle Espinosa Rodriguez,,,PAN,15.8877481177,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D127,Fed Cup G2 RRB: BOL vs PAN,Hard,4,D,19980503,2,212542,,,Lorena Porras,,,PAN,17.7330595483,206594,,,Morya Peres,U,,BOL,19.2991101985,6-3 1-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D128,Fed Cup G2 RRB: DOM vs PUR,Hard,4,D,19980502,1,212378,,,Joanna Bauza,,,PUR,22.7323750856,206897,,,Monika Pimentel,U,,DOM,19.8466803559,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D127,Fed Cup G2 RRB: BOL vs PAN,Hard,4,D,19980503,1,206587,,,Daniela Alvarez,U,,BOL,14.3463381246,212157,,,Anabelle Espinosa Rodriguez,U,,PAN,15.8877481177,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D127,Fed Cup G2 RRB: BOL vs PAN,Hard,4,D,19980503,2,212542,,,Lorena Porras,U,,PAN,17.7330595483,206594,,,Morya Peres,U,,BOL,19.2991101985,6-3 1-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D128,Fed Cup G2 RRB: DOM vs PUR,Hard,4,D,19980502,1,212378,,,Joanna Bauza,U,,PUR,22.7323750856,206897,,,Monika Pimentel,U,,DOM,19.8466803559,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D128,Fed Cup G2 RRB: DOM vs PUR,Hard,4,D,19980502,2,206910,,,Mari Toro,U,,PUR,18.4722792608,202509,,,Joelle Schad,U,,DOM,25.1362080767,6-3 2-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,1032,1,,
-1998-D129,Fed Cup G2 RRB: DOM vs PAN,Hard,4,D,19980501,1,212157,,,Anabelle Espinosa Rodriguez,,,PAN,15.8822724162,206911,,,Carla Prieto,U,,DOM,15.7399041752,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D129,Fed Cup G2 RRB: DOM vs PAN,Hard,4,D,19980501,2,202509,,,Joelle Schad,U,,DOM,25.1334702259,212542,,,Lorena Porras,,,PAN,17.7275838467,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D130,Fed Cup G2 RRB: DOM vs JAM,Hard,4,D,19980503,1,206903,,,Glenny Cepeda,U,,DOM,17.054072553,212700,,,Tamara Davis,,,JAM,18.8583162218,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D130,Fed Cup G2 RRB: DOM vs JAM,Hard,4,D,19980503,2,202509,,,Joelle Schad,U,,DOM,25.1389459274,212541,,,Camille Walter,,,JAM,25.2648870637,7-5 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D131,Fed Cup G2 RRB: JAM vs TRI,Hard,4,D,19980429,1,212540,,,Jeanine Baillie,,,TRI,17.839835729,212700,,,Tamara Davis,,,JAM,18.8473648186,6-2 2-6 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D131,Fed Cup G2 RRB: JAM vs TRI,Hard,4,D,19980429,2,212165,,,Anneliese Rose,,,TRI,19.4962354552,212541,,,Camille Walter,,,JAM,25.2539356605,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D132,Fed Cup G2 RRB: JAM vs PUR,Hard,4,D,19980427,1,212378,,,Joanna Bauza,,,PUR,22.7186858316,212700,,,Tamara Davis,,,JAM,18.841889117,7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D132,Fed Cup G2 RRB: JAM vs PUR,Hard,4,D,19980427,2,206910,,,Mari Toro,U,,PUR,18.4585900068,212103,,,Alexandra Chong,,,JAM,16.7419575633,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,1032,1,,
-1998-D133,Fed Cup G2 RRB: JAM vs PAN,Hard,4,D,19980502,1,212157,,,Anabelle Espinosa Rodriguez,,,PAN,15.8850102669,212103,,,Alexandra Chong,,,JAM,16.7556468172,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D133,Fed Cup G2 RRB: JAM vs PAN,Hard,4,D,19980502,2,212542,,,Lorena Porras,,,PAN,17.7303216975,212541,,,Camille Walter,,,JAM,25.2621492129,1-6 6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D134,Fed Cup G2 RRB: DOM vs TRI,Hard,4,D,19980428,1,206903,,,Glenny Cepeda,U,,DOM,17.0403832991,212540,,,Jeanine Baillie,,,TRI,17.8370978782,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D134,Fed Cup G2 RRB: DOM vs TRI,Hard,4,D,19980428,2,202509,,,Joelle Schad,U,,DOM,25.1252566735,212165,,,Anneliese Rose,,,TRI,19.4934976044,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D129,Fed Cup G2 RRB: DOM vs PAN,Hard,4,D,19980501,1,212157,,,Anabelle Espinosa Rodriguez,U,,PAN,15.8822724162,206911,,,Carla Prieto,U,,DOM,15.7399041752,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D129,Fed Cup G2 RRB: DOM vs PAN,Hard,4,D,19980501,2,202509,,,Joelle Schad,U,,DOM,25.1334702259,212542,,,Lorena Porras,U,,PAN,17.7275838467,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D130,Fed Cup G2 RRB: DOM vs JAM,Hard,4,D,19980503,1,206903,,,Glenny Cepeda,U,,DOM,17.054072553,212700,,,Tamara Davis,U,,JAM,18.8583162218,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D130,Fed Cup G2 RRB: DOM vs JAM,Hard,4,D,19980503,2,202509,,,Joelle Schad,U,,DOM,25.1389459274,212541,,,Camille Walter,U,,JAM,25.2648870637,7-5 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D131,Fed Cup G2 RRB: JAM vs TRI,Hard,4,D,19980429,1,212540,,,Jeanine Baillie,U,,TRI,17.839835729,212700,,,Tamara Davis,U,,JAM,18.8473648186,6-2 2-6 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D131,Fed Cup G2 RRB: JAM vs TRI,Hard,4,D,19980429,2,212165,,,Anneliese Rose,U,,TRI,19.4962354552,212541,,,Camille Walter,U,,JAM,25.2539356605,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D132,Fed Cup G2 RRB: JAM vs PUR,Hard,4,D,19980427,1,212378,,,Joanna Bauza,U,,PUR,22.7186858316,212700,,,Tamara Davis,U,,JAM,18.841889117,7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D132,Fed Cup G2 RRB: JAM vs PUR,Hard,4,D,19980427,2,206910,,,Mari Toro,U,,PUR,18.4585900068,212103,,,Alexandra Chong,U,,JAM,16.7419575633,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,1032,1,,
+1998-D133,Fed Cup G2 RRB: JAM vs PAN,Hard,4,D,19980502,1,212157,,,Anabelle Espinosa Rodriguez,U,,PAN,15.8850102669,212103,,,Alexandra Chong,U,,JAM,16.7556468172,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D133,Fed Cup G2 RRB: JAM vs PAN,Hard,4,D,19980502,2,212542,,,Lorena Porras,U,,PAN,17.7303216975,212541,,,Camille Walter,U,,JAM,25.2621492129,1-6 6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D134,Fed Cup G2 RRB: DOM vs TRI,Hard,4,D,19980428,1,206903,,,Glenny Cepeda,U,,DOM,17.0403832991,212540,,,Jeanine Baillie,U,,TRI,17.8370978782,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D134,Fed Cup G2 RRB: DOM vs TRI,Hard,4,D,19980428,2,202509,,,Joelle Schad,U,,DOM,25.1252566735,212165,,,Anneliese Rose,U,,TRI,19.4934976044,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D135,Fed Cup G1 RR: CHN vs INA,Hard,4,D,19980220,1,201628,,,Li Li,U,,CHN,21.3826146475,203004,,,Wukirasih Sawondari,R,,INA,17.2511978097,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,382,32,446,22
 1998-D135,Fed Cup G1 RR: CHN vs INA,Hard,4,D,19980220,2,201295,,,Wynne Prakusya,R,,INA,16.8213552361,200075,,,Jing Qian Yi,R,,CHN,23.9780971937,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,353,37,281,58
 1998-D136,Fed Cup G1 RRB: CHN vs HKG,Hard,4,D,19980218,1,201628,,,Li Li,U,,CHN,21.3771389459,200730,,,Min Tang,U,,HKG,27.0636550308,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,382,32,,
 1998-D136,Fed Cup G1 RRB: CHN vs HKG,Hard,4,D,19980218,2,202774,,,Ka Po Tong,U,,HKG,16.9253935661,200075,,,Jing Qian Yi,R,,CHN,23.9726214921,6-3 1-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,798,5,281,58
-1998-D137,Fed Cup G2 RRB: BAH vs DOM,Hard,4,D,19980430,1,212708,,,Janelle Watson,,,BAH,19.0308008214,206897,,,Monika Pimentel,U,,DOM,19.8412046543,3-6 6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D137,Fed Cup G2 RRB: BAH vs DOM,Hard,4,D,19980430,2,202509,,,Joelle Schad,U,,DOM,25.1307323751,212432,,,Kim Cartwright,,,BAH,33.4483230664,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D138,Fed Cup G2 RRB: CUB vs TRI,Hard,4,D,19980502,1,206902,,,Yamile Cordova,U,,CUB,25.6481861739,212710,,,Camille Sesanker,,,TRI,17.3360711841,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D138,Fed Cup G2 RRB: CUB vs TRI,Hard,4,D,19980502,2,206904,,,Yoannis Montesino,U,,CUB,26.8501026694,212165,,,Anneliese Rose,,,TRI,19.5044490075,6-1 5-7 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D137,Fed Cup G2 RRB: BAH vs DOM,Hard,4,D,19980430,1,212708,,,Janelle Watson,U,,BAH,19.0308008214,206897,,,Monika Pimentel,U,,DOM,19.8412046543,3-6 6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D137,Fed Cup G2 RRB: BAH vs DOM,Hard,4,D,19980430,2,202509,,,Joelle Schad,U,,DOM,25.1307323751,212432,,,Kim Cartwright,U,,BAH,33.4483230664,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D138,Fed Cup G2 RRB: CUB vs TRI,Hard,4,D,19980502,1,206902,,,Yamile Cordova,U,,CUB,25.6481861739,212710,,,Camille Sesanker,U,,TRI,17.3360711841,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D138,Fed Cup G2 RRB: CUB vs TRI,Hard,4,D,19980502,2,206904,,,Yoannis Montesino,U,,CUB,26.8501026694,212165,,,Anneliese Rose,U,,TRI,19.5044490075,6-1 5-7 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D139,Fed Cup G1 RRC: NZL vs PHI,Hard,4,D,19980218,1,201754,,,Leanne Baker,L,,NZL,17.1115674196,207552,,,Pamela Floro,U,,PHI,18.5051334702,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,706,7,,
 1998-D139,Fed Cup G1 RRC: NZL vs PHI,Hard,4,D,19980218,2,201753,,,Rewa Harriman,U,,NZL,17.4264202601,207518,,,Marisue Jacutin,R,,PHI,18.7679671458,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,318,46,886,3
 1998-D140,Fed Cup G1 RRB: CHN vs KOR,Hard,4,D,19980216,1,201811,,,Young Ja Choi,U,,KOR,22.7186858316,201628,,,Li Li,U,,CHN,21.3716632444,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,210,88,382,32
 1998-D140,Fed Cup G1 RRB: CHN vs KOR,Hard,4,D,19980216,2,200716,,,Sung Hee Park,U,,KOR,22.9979466119,200075,,,Jing Qian Yi,R,,CHN,23.9671457906,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,107,227,281,58
-1998-D141,Fed Cup G2 RRB: BOL vs PUR,Hard,4,D,19980429,1,212378,,,Joanna Bauza,,,PUR,22.7241615332,206587,,,Daniela Alvarez,U,,BOL,14.3353867214,6-3 4-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D141,Fed Cup G2 RRB: BOL vs PUR,Hard,4,D,19980429,1,212378,,,Joanna Bauza,U,,PUR,22.7241615332,206587,,,Daniela Alvarez,U,,BOL,14.3353867214,6-3 4-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D141,Fed Cup G2 RRB: BOL vs PUR,Hard,4,D,19980429,2,206910,,,Mari Toro,U,,PUR,18.4640657084,206594,,,Morya Peres,U,,BOL,19.2881587953,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,1032,1,,
-1998-D142,Fed Cup G2 RRB: POC vs MAS,Hard,4,D,19980216,1,203910,,,Paiao Asinata Short,U,,POC,23.1567419576,212083,,,Lynn Yin Tan,,,MAS,17.9438740589,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D142,Fed Cup G2 RRB: POC vs MAS,Hard,4,D,19980216,1,203910,,,Paiao Asinata Short,U,,POC,23.1567419576,212083,,,Lynn Yin Tan,U,,MAS,17.9438740589,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D142,Fed Cup G2 RRB: POC vs MAS,Hard,4,D,19980216,2,202275,,,Tagifano Soonalole,U,,SAM,19.947980835,202073,,,Chin Bee Khoo,U,,MAS,20.7885010267,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,387,32
-1998-D143,Fed Cup G2 RR: MAS vs PAK,Hard,4,D,19980219,1,212083,,,Lynn Yin Tan,,,MAS,17.9520876112,212686,,,Haleema Rahim,,,PAK,17.8836413415,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D143,Fed Cup G2 RR: MAS vs PAK,Hard,4,D,19980219,2,202073,,,Chin Bee Khoo,U,,MAS,20.7967145791,212687,,,Nida Waseem,,,PAK,15.3018480493,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,387,32,,
-1998-D144,Fed Cup G2 RRB: BOL vs TRI,Hard,4,D,19980430,1,206600,,,Monica Ribero,U,,BOL,17.0759753593,212540,,,Jeanine Baillie,,,TRI,17.8425735797,6-4 7-6(3),3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D144,Fed Cup G2 RRB: BOL vs TRI,Hard,4,D,19980430,2,212165,,,Anneliese Rose,,,TRI,19.498973306,206606,,,Claudia Herbas,U,,BOL,18.1546885695,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D143,Fed Cup G2 RR: MAS vs PAK,Hard,4,D,19980219,1,212083,,,Lynn Yin Tan,U,,MAS,17.9520876112,212686,,,Haleema Rahim,U,,PAK,17.8836413415,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D143,Fed Cup G2 RR: MAS vs PAK,Hard,4,D,19980219,2,202073,,,Chin Bee Khoo,U,,MAS,20.7967145791,212687,,,Nida Waseem,U,,PAK,15.3018480493,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,387,32,,
+1998-D144,Fed Cup G2 RRB: BOL vs TRI,Hard,4,D,19980430,1,206600,,,Monica Ribero,U,,BOL,17.0759753593,212540,,,Jeanine Baillie,U,,TRI,17.8425735797,6-4 7-6(3),3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D144,Fed Cup G2 RRB: BOL vs TRI,Hard,4,D,19980430,2,212165,,,Anneliese Rose,U,,TRI,19.498973306,206606,,,Claudia Herbas,U,,BOL,18.1546885695,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D145,Fed Cup G1 RR: KOR vs TPE,Hard,4,D,19980219,1,200091,,,Janet Lee,R,,TPE,21.3278576318,201811,,,Young Ja Choi,U,,KOR,22.726899384,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,84,312,210,88
 1998-D145,Fed Cup G1 RR: KOR vs TPE,Hard,4,D,19980219,2,200716,,,Sung Hee Park,U,,KOR,23.0061601643,200684,,,Shi Ting Wang,R,,TPE,24.3367556468,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,107,227,57,454
-1998-D146,Fed Cup G2 RRB: BAH vs CUB,Hard,4,D,19980427,1,206902,,,Yamile Cordova,U,,CUB,25.6344969199,212708,,,Janelle Watson,,,BAH,19.022587269,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D146,Fed Cup G2 RRB: BAH vs CUB,Hard,4,D,19980427,2,206904,,,Yoannis Montesino,U,,CUB,26.8364134155,212432,,,Kim Cartwright,,,BAH,33.440109514,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D146,Fed Cup G2 RRB: BAH vs CUB,Hard,4,D,19980427,1,206902,,,Yamile Cordova,U,,CUB,25.6344969199,212708,,,Janelle Watson,U,,BAH,19.022587269,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D146,Fed Cup G2 RRB: BAH vs CUB,Hard,4,D,19980427,2,206904,,,Yoannis Montesino,U,,CUB,26.8364134155,212432,,,Kim Cartwright,U,,BAH,33.440109514,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D147,Fed Cup G2 RRA: MEX vs ESA,Hard,4,D,19980502,1,203002,,,Karin Palme,U,,MEX,20.3449691992,206447,,,Ingrid Gonzalez,U,,ESA,27.0527036277,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,413,27,,
-1998-D147,Fed Cup G2 RRA: MEX vs ESA,Hard,4,D,19980502,2,202329,,,Jessica Fernandez,U,,MEX,18.7871321013,212718,,,Claudia Castro,,,ESA,18.3271731691,7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,240,78,,
-1998-D148,Fed Cup G2 RRB: CUB vs PAN,Hard,4,D,19980428,1,206902,,,Yamile Cordova,U,,CUB,25.6372347707,212157,,,Anabelle Espinosa Rodriguez,,,PAN,15.8740588638,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D148,Fed Cup G2 RRB: CUB vs PAN,Hard,4,D,19980428,2,206904,,,Yoannis Montesino,U,,CUB,26.8391512663,212542,,,Lorena Porras,,,PAN,17.7193702943,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D149,Fed Cup G2 RRB: MAS vs SIN,Hard,4,D,19980217,1,212083,,,Lynn Yin Tan,,,MAS,17.9466119097,207508,,,Jil Lin Leong,U,,SIN,17.9028062971,6-4 4-6 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D147,Fed Cup G2 RRA: MEX vs ESA,Hard,4,D,19980502,2,202329,,,Jessica Fernandez,U,,MEX,18.7871321013,212718,,,Claudia Castro,U,,ESA,18.3271731691,7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,240,78,,
+1998-D148,Fed Cup G2 RRB: CUB vs PAN,Hard,4,D,19980428,1,206902,,,Yamile Cordova,U,,CUB,25.6372347707,212157,,,Anabelle Espinosa Rodriguez,U,,PAN,15.8740588638,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D148,Fed Cup G2 RRB: CUB vs PAN,Hard,4,D,19980428,2,206904,,,Yoannis Montesino,U,,CUB,26.8391512663,212542,,,Lorena Porras,U,,PAN,17.7193702943,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D149,Fed Cup G2 RRB: MAS vs SIN,Hard,4,D,19980217,1,212083,,,Lynn Yin Tan,U,,MAS,17.9466119097,207508,,,Jil Lin Leong,U,,SIN,17.9028062971,6-4 4-6 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D149,Fed Cup G2 RRB: MAS vs SIN,Hard,4,D,19980217,2,202073,,,Chin Bee Khoo,U,,MAS,20.7912388775,207784,,,Rui Jing Wong,U,,SIN,15.8247775496,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,387,32,,
-1998-D150,Fed Cup G2 RRB: BAH vs BOL,Hard,4,D,19980502,1,206587,,,Daniela Alvarez,U,,BOL,14.3436002738,212708,,,Janelle Watson,,,BAH,19.0362765229,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D150,Fed Cup G2 RRB: BAH vs BOL,Hard,4,D,19980502,2,212432,,,Kim Cartwright,,,BAH,33.453798768,206594,,,Morya Peres,U,,BOL,19.2963723477,1-6 6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D151,Fed Cup G2 RRA: ESA vs HAI,Hard,4,D,19980428,1,206447,,,Ingrid Gonzalez,U,,ESA,27.0417522245,212723,,,Jennifer Adrien,,,HAI,17.6317590691,6-4 6-7(6) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D151,Fed Cup G2 RRA: ESA vs HAI,Hard,4,D,19980428,2,212718,,,Claudia Castro,,,ESA,18.3162217659,202521,,,Neyssa Etienne,R,,HAI,14.4914442163,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D152,Fed Cup G2 RRA: ESA vs GUA,Hard,4,D,19980501,1,206447,,,Ingrid Gonzalez,U,,ESA,27.0499657769,212557,,,Maria Fernanda Carrillo,,,GUA,19.6112251882,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D152,Fed Cup G2 RRA: ESA vs GUA,Hard,4,D,19980501,2,212119,,,Luisa Elfride Lopez,,,GUA,17.2073921971,212718,,,Claudia Castro,,,ESA,18.3244353183,6-2 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D150,Fed Cup G2 RRB: BAH vs BOL,Hard,4,D,19980502,1,206587,,,Daniela Alvarez,U,,BOL,14.3436002738,212708,,,Janelle Watson,U,,BAH,19.0362765229,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D150,Fed Cup G2 RRB: BAH vs BOL,Hard,4,D,19980502,2,212432,,,Kim Cartwright,U,,BAH,33.453798768,206594,,,Morya Peres,U,,BOL,19.2963723477,1-6 6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D151,Fed Cup G2 RRA: ESA vs HAI,Hard,4,D,19980428,1,206447,,,Ingrid Gonzalez,U,,ESA,27.0417522245,212723,,,Jennifer Adrien,U,,HAI,17.6317590691,6-4 6-7(6) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D151,Fed Cup G2 RRA: ESA vs HAI,Hard,4,D,19980428,2,212718,,,Claudia Castro,U,,ESA,18.3162217659,202521,,,Neyssa Etienne,R,,HAI,14.4914442163,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D152,Fed Cup G2 RRA: ESA vs GUA,Hard,4,D,19980501,1,206447,,,Ingrid Gonzalez,U,,ESA,27.0499657769,212557,,,Maria Fernanda Carrillo,U,,GUA,19.6112251882,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D152,Fed Cup G2 RRA: ESA vs GUA,Hard,4,D,19980501,2,212119,,,Luisa Elfride Lopez,U,,GUA,17.2073921971,212718,,,Claudia Castro,U,,ESA,18.3244353183,6-2 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D153,Fed Cup G2 RRA: MEX vs GUA,Hard,4,D,19980430,1,203002,,,Karin Palme,U,,MEX,20.3394934976,206989,,,Karla Lehnoff,U,,GUA,35.1485284052,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,413,27,,
-1998-D153,Fed Cup G2 RRA: MEX vs GUA,Hard,4,D,19980430,2,202329,,,Jessica Fernandez,U,,MEX,18.7816563997,212119,,,Luisa Elfride Lopez,,,GUA,17.2046543463,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,240,78,,
-1998-D154,Fed Cup G2 RRA: MEX vs ANT,Hard,4,D,19980428,1,203002,,,Karin Palme,U,,MEX,20.334017796,212725,,,Cheryl Lewis,,,ANT,34.7542778919,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,413,27,,
-1998-D154,Fed Cup G2 RRA: MEX vs ANT,Hard,4,D,19980428,2,202329,,,Jessica Fernandez,U,,MEX,18.7761806982,212112,,,Isoke Perry,,,ANT,15.3127994524,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,240,78,,
-1998-D155,Fed Cup G2 RRA: GUA vs HAI,Hard,4,D,19980427,1,212723,,,Jennifer Adrien,,,HAI,17.6290212183,212557,,,Maria Fernanda Carrillo,,,GUA,19.6002737851,1-6 7-6(7) 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D155,Fed Cup G2 RRA: GUA vs HAI,Hard,4,D,19980427,2,202521,,,Neyssa Etienne,R,,HAI,14.4887063655,212119,,,Luisa Elfride Lopez,,,GUA,17.196440794,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D156,Fed Cup G2 RRA: ANT vs HAI,Hard,4,D,19980503,1,212726,,,Emmanuelle Duval,,,HAI,16.8596851472,212112,,,Isoke Perry,,,ANT,15.3264887064,6-7(2) 6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D156,Fed Cup G2 RRA: ANT vs HAI,Hard,4,D,19980503,2,202521,,,Neyssa Etienne,R,,HAI,14.5051334702,212110,,,Niki Williams,,,ANT,15.6112251882,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D157,Fed Cup G2 RRA: ANT vs GUA,Hard,4,D,19980429,1,206989,,,Karla Lehnoff,U,,GUA,35.1457905544,212725,,,Cheryl Lewis,,,ANT,34.7570157426,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D157,Fed Cup G2 RRA: ANT vs GUA,Hard,4,D,19980429,2,212557,,,Maria Fernanda Carrillo,,,GUA,19.6057494867,212110,,,Niki Williams,,,ANT,15.6002737851,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D158,Fed Cup G2 RRA: ANT vs ESA,Hard,4,D,19980430,1,207001,,,Claudia Argumedo,U,,ESA,15.0773442847,212725,,,Cheryl Lewis,,,ANT,34.7597535934,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D158,Fed Cup G2 RRA: ANT vs ESA,Hard,4,D,19980430,2,212718,,,Claudia Castro,,,ESA,18.3216974675,212112,,,Isoke Perry,,,ANT,15.318275154,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D159,Fed Cup G2 RRA: BER vs HAI,Hard,4,D,19980429,1,212723,,,Jennifer Adrien,,,HAI,17.6344969199,212727,,,Allison Tolson,,,BER,29.6180698152,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D159,Fed Cup G2 RRA: BER vs HAI,Hard,4,D,19980429,2,202521,,,Neyssa Etienne,R,,HAI,14.4941820671,212155,,,Danielle Paynter,,,BER,17.054072553,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D160,Fed Cup G2 RRA: ANT vs CRC,Hard,4,D,19980427,1,207000,,,Melissa Mendieta,U,,CRC,16.6844626968,212112,,,Isoke Perry,,,ANT,15.3100616016,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D160,Fed Cup G2 RRA: ANT vs CRC,Hard,4,D,19980427,2,212547,,,Melissa Golfin,,,CRC,23.9753593429,212110,,,Niki Williams,,,ANT,15.5947980835,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D161,Fed Cup G2 RRA: ANT vs BER,Hard,4,D,19980501,1,212728,,,Elizabeth Osborne,,,BER,26.4750171116,212112,,,Isoke Perry,,,ANT,15.3210130048,6-0 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D161,Fed Cup G2 RRA: ANT vs BER,Hard,4,D,19980501,2,212110,,,Niki Williams,,,ANT,15.6057494867,212554,,,Kelly Holland,,,BER,34.1437371663,6-4 4-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D162,Fed Cup G2 RRB: CUB vs PUR,Hard,4,D,19980503,1,206902,,,Yamile Cordova,U,,CUB,25.6509240246,212378,,,Joanna Bauza,,,PUR,22.7351129363,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D153,Fed Cup G2 RRA: MEX vs GUA,Hard,4,D,19980430,2,202329,,,Jessica Fernandez,U,,MEX,18.7816563997,212119,,,Luisa Elfride Lopez,U,,GUA,17.2046543463,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,240,78,,
+1998-D154,Fed Cup G2 RRA: MEX vs ANT,Hard,4,D,19980428,1,203002,,,Karin Palme,U,,MEX,20.334017796,212725,,,Cheryl Lewis,U,,ANT,34.7542778919,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,413,27,,
+1998-D154,Fed Cup G2 RRA: MEX vs ANT,Hard,4,D,19980428,2,202329,,,Jessica Fernandez,U,,MEX,18.7761806982,212112,,,Isoke Perry,U,,ANT,15.3127994524,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,240,78,,
+1998-D155,Fed Cup G2 RRA: GUA vs HAI,Hard,4,D,19980427,1,212723,,,Jennifer Adrien,U,,HAI,17.6290212183,212557,,,Maria Fernanda Carrillo,U,,GUA,19.6002737851,1-6 7-6(7) 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D155,Fed Cup G2 RRA: GUA vs HAI,Hard,4,D,19980427,2,202521,,,Neyssa Etienne,R,,HAI,14.4887063655,212119,,,Luisa Elfride Lopez,U,,GUA,17.196440794,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D156,Fed Cup G2 RRA: ANT vs HAI,Hard,4,D,19980503,1,212726,,,Emmanuelle Duval,U,,HAI,16.8596851472,212112,,,Isoke Perry,U,,ANT,15.3264887064,6-7(2) 6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D156,Fed Cup G2 RRA: ANT vs HAI,Hard,4,D,19980503,2,202521,,,Neyssa Etienne,R,,HAI,14.5051334702,212110,,,Niki Williams,U,,ANT,15.6112251882,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D157,Fed Cup G2 RRA: ANT vs GUA,Hard,4,D,19980429,1,206989,,,Karla Lehnoff,U,,GUA,35.1457905544,212725,,,Cheryl Lewis,U,,ANT,34.7570157426,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D157,Fed Cup G2 RRA: ANT vs GUA,Hard,4,D,19980429,2,212557,,,Maria Fernanda Carrillo,U,,GUA,19.6057494867,212110,,,Niki Williams,U,,ANT,15.6002737851,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D158,Fed Cup G2 RRA: ANT vs ESA,Hard,4,D,19980430,1,207001,,,Claudia Argumedo,U,,ESA,15.0773442847,212725,,,Cheryl Lewis,U,,ANT,34.7597535934,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D158,Fed Cup G2 RRA: ANT vs ESA,Hard,4,D,19980430,2,212718,,,Claudia Castro,U,,ESA,18.3216974675,212112,,,Isoke Perry,U,,ANT,15.318275154,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D159,Fed Cup G2 RRA: BER vs HAI,Hard,4,D,19980429,1,212723,,,Jennifer Adrien,U,,HAI,17.6344969199,212727,,,Allison Tolson,U,,BER,29.6180698152,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D159,Fed Cup G2 RRA: BER vs HAI,Hard,4,D,19980429,2,202521,,,Neyssa Etienne,R,,HAI,14.4941820671,212155,,,Danielle Paynter,U,,BER,17.054072553,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D160,Fed Cup G2 RRA: ANT vs CRC,Hard,4,D,19980427,1,207000,,,Melissa Mendieta,U,,CRC,16.6844626968,212112,,,Isoke Perry,U,,ANT,15.3100616016,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D160,Fed Cup G2 RRA: ANT vs CRC,Hard,4,D,19980427,2,212547,,,Melissa Golfin,U,,CRC,23.9753593429,212110,,,Niki Williams,U,,ANT,15.5947980835,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D161,Fed Cup G2 RRA: ANT vs BER,Hard,4,D,19980501,1,212728,,,Elizabeth Osborne,U,,BER,26.4750171116,212112,,,Isoke Perry,U,,ANT,15.3210130048,6-0 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D161,Fed Cup G2 RRA: ANT vs BER,Hard,4,D,19980501,2,212110,,,Niki Williams,U,,ANT,15.6057494867,212554,,,Kelly Holland,U,,BER,34.1437371663,6-4 4-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D162,Fed Cup G2 RRB: CUB vs PUR,Hard,4,D,19980503,1,206902,,,Yamile Cordova,U,,CUB,25.6509240246,212378,,,Joanna Bauza,U,,PUR,22.7351129363,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D162,Fed Cup G2 RRB: CUB vs PUR,Hard,4,D,19980503,2,206910,,,Mari Toro,U,,PUR,18.4750171116,206904,,,Yoannis Montesino,U,,CUB,26.8528405202,6-4 6-0,3,RR,,,,,,,,,,,,,,,,,,,,1034,1,,
-1998-D163,Fed Cup G2 RRA: ANT vs BAR,Hard,4,D,19980502,1,212562,,,Donna Fields Gibbs,,,BAR,26.7679671458,212112,,,Isoke Perry,,,ANT,15.3237508556,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D163,Fed Cup G2 RRA: ANT vs BAR,Hard,4,D,19980502,2,208261,,,Richele Le Saldo,U,,BAR,15.2963723477,212110,,,Niki Williams,,,ANT,15.6084873374,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D163,Fed Cup G2 RRA: ANT vs BAR,Hard,4,D,19980502,1,212562,,,Donna Fields Gibbs,U,,BAR,26.7679671458,212112,,,Isoke Perry,U,,ANT,15.3237508556,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D163,Fed Cup G2 RRA: ANT vs BAR,Hard,4,D,19980502,2,208261,,,Richele Le Saldo,U,,BAR,15.2963723477,212110,,,Niki Williams,U,,ANT,15.6084873374,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D164,Fed Cup G1 RRB: HKG vs KOR,Hard,4,D,19980217,1,202984,,,Yang Jin Chung,R,,KOR,19.2826830938,204759,,,Ning Lin,U,,HKG,27.9698836413,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,831,4,,
 1998-D164,Fed Cup G1 RRB: HKG vs KOR,Hard,4,D,19980217,2,201313,,,Yoon Jeong Cho,R,,KOR,18.8802190281,202774,,,Ka Po Tong,U,,HKG,16.9226557153,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,212,87,798,5
-1998-D165,Fed Cup G2 RRA: MEX vs BAR,Hard,4,D,19980429,1,203002,,,Karin Palme,U,,MEX,20.3367556468,212562,,,Donna Fields Gibbs,,,BAR,26.7597535934,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,413,27,,
+1998-D165,Fed Cup G2 RRA: MEX vs BAR,Hard,4,D,19980429,1,203002,,,Karin Palme,U,,MEX,20.3367556468,212562,,,Donna Fields Gibbs,U,,BAR,26.7597535934,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,413,27,,
 1998-D165,Fed Cup G2 RRA: MEX vs BAR,Hard,4,D,19980429,2,202329,,,Jessica Fernandez,U,,MEX,18.7789185489,208261,,,Richele Le Saldo,U,,BAR,15.2881587953,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,240,78,,
-1998-D166,Fed Cup G2 RRA: MEX vs BER,Hard,4,D,19980427,1,203002,,,Karin Palme,U,,MEX,20.3312799452,212554,,,Kelly Holland,,,BER,34.1327857632,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,413,27,,
-1998-D166,Fed Cup G2 RRA: MEX vs BER,Hard,4,D,19980427,2,202329,,,Jessica Fernandez,U,,MEX,18.7734428474,212155,,,Danielle Paynter,,,BER,17.0485968515,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,240,78,,
-1998-D167,Fed Cup G2 RRA: BAR vs HAI,Hard,4,D,19980430,1,212723,,,Jennifer Adrien,,,HAI,17.6372347707,212734,,,Marisa Howell,,,BAR,14.7460643395,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D166,Fed Cup G2 RRA: MEX vs BER,Hard,4,D,19980427,1,203002,,,Karin Palme,U,,MEX,20.3312799452,212554,,,Kelly Holland,U,,BER,34.1327857632,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,413,27,,
+1998-D166,Fed Cup G2 RRA: MEX vs BER,Hard,4,D,19980427,2,202329,,,Jessica Fernandez,U,,MEX,18.7734428474,212155,,,Danielle Paynter,U,,BER,17.0485968515,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,240,78,,
+1998-D167,Fed Cup G2 RRA: BAR vs HAI,Hard,4,D,19980430,1,212723,,,Jennifer Adrien,U,,HAI,17.6372347707,212734,,,Marisa Howell,U,,BAR,14.7460643395,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D167,Fed Cup G2 RRA: BAR vs HAI,Hard,4,D,19980430,2,202521,,,Neyssa Etienne,R,,HAI,14.4969199179,208261,,,Richele Le Saldo,U,,BAR,15.2908966461,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D168,Fed Cup G2 RRA: MEX vs HAI,Hard,4,D,19980501,1,203002,,,Karin Palme,U,,MEX,20.3422313484,212723,,,Jennifer Adrien,,,HAI,17.6399726215,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,413,27,,
+1998-D168,Fed Cup G2 RRA: MEX vs HAI,Hard,4,D,19980501,1,203002,,,Karin Palme,U,,MEX,20.3422313484,212723,,,Jennifer Adrien,U,,HAI,17.6399726215,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,413,27,,
 1998-D168,Fed Cup G2 RRA: MEX vs HAI,Hard,4,D,19980501,2,202329,,,Jessica Fernandez,U,,MEX,18.7843942505,202521,,,Neyssa Etienne,R,,HAI,14.4996577687,6-4 7-6(1),3,RR,,,,,,,,,,,,,,,,,,,,240,78,,
 1998-D169,Fed Cup G2 RR: IND vs POC,Hard,4,D,19980220,1,202745,,,Uzma Khan,U,,IND,17.4209445585,203910,,,Paiao Asinata Short,U,,POC,23.1676933607,7-5 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D169,Fed Cup G2 RR: IND vs POC,Hard,4,D,19980220,2,200743,,,Nirupama Sanjeev,R,,IND,21.2019164956,202275,,,Tagifano Soonalole,U,,SAM,19.9589322382,6-2 7-5,3,RR,,,,,,,,,,,,,,,,,,,,169,125,,
-1998-D170,Fed Cup G2 RR: IND vs TJK,Hard,4,D,19980219,1,202745,,,Uzma Khan,U,,IND,17.4182067077,212684,,,Eugenia Silantieva,,,TJK,20.1341546886,4-6 6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D170,Fed Cup G2 RR: IND vs TJK,Hard,4,D,19980219,2,200743,,,Nirupama Sanjeev,R,,IND,21.1991786448,212685,,,Youliya Dimitrova,,,TJK,18.2806297057,7-6(4) 6-4,3,RR,,,,,,,,,,,,,,,,,,,,169,125,,
-1998-D171,Fed Cup G2 RRA: IND vs PAK,Hard,4,D,19980216,1,202745,,,Uzma Khan,U,,IND,17.4099931554,212686,,,Haleema Rahim,,,PAK,17.8754277892,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D171,Fed Cup G2 RRA: IND vs PAK,Hard,4,D,19980216,2,200743,,,Nirupama Sanjeev,R,,IND,21.1909650924,212687,,,Nida Waseem,,,PAK,15.2936344969,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,169,125,,
-1998-D172,Fed Cup G2 RRA: IND vs IRQ,Hard,4,D,19980217,1,202745,,,Uzma Khan,U,,IND,17.4127310062,212749,,,Mina Abdul Rahman,,,IRQ,21.3771389459,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D172,Fed Cup G2 RRA: IND vs IRQ,Hard,4,D,19980217,2,200743,,,Nirupama Sanjeev,R,,IND,21.1937029432,212750,,,Ishraq Salman,,,IRQ,21.1937029432,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,169,125,,
+1998-D170,Fed Cup G2 RR: IND vs TJK,Hard,4,D,19980219,1,202745,,,Uzma Khan,U,,IND,17.4182067077,212684,,,Eugenia Silantieva,U,,TJK,20.1341546886,4-6 6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D170,Fed Cup G2 RR: IND vs TJK,Hard,4,D,19980219,2,200743,,,Nirupama Sanjeev,R,,IND,21.1991786448,212685,,,Youliya Dimitrova,U,,TJK,18.2806297057,7-6(4) 6-4,3,RR,,,,,,,,,,,,,,,,,,,,169,125,,
+1998-D171,Fed Cup G2 RRA: IND vs PAK,Hard,4,D,19980216,1,202745,,,Uzma Khan,U,,IND,17.4099931554,212686,,,Haleema Rahim,U,,PAK,17.8754277892,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D171,Fed Cup G2 RRA: IND vs PAK,Hard,4,D,19980216,2,200743,,,Nirupama Sanjeev,R,,IND,21.1909650924,212687,,,Nida Waseem,U,,PAK,15.2936344969,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,169,125,,
+1998-D172,Fed Cup G2 RRA: IND vs IRQ,Hard,4,D,19980217,1,202745,,,Uzma Khan,U,,IND,17.4127310062,212749,,,Mina Abdul Rahman,U,,IRQ,21.3771389459,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D172,Fed Cup G2 RRA: IND vs IRQ,Hard,4,D,19980217,2,200743,,,Nirupama Sanjeev,R,,IND,21.1937029432,212750,,,Ishraq Salman,U,,IRQ,21.1937029432,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,169,125,,
 1998-D173,Fed Cup G1 RRA: INA vs UZB,Hard,4,D,19980218,1,203004,,,Wukirasih Sawondari,R,,INA,17.2457221081,201204,,,Iroda Tulyaganova,R,,UZB,16.1149897331,6-2 3-1 RET,5,RR,,,,,,,,,,,,,,,,,,,,446,22,,
 1998-D173,Fed Cup G1 RRA: INA vs UZB,Hard,4,D,19980218,2,201295,,,Wynne Prakusya,R,,INA,16.8158795346,202216,,,Lilia Biktyakova,U,,UZB,19.0444900753,6-1 4-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,353,37,809,5
-1998-D174,Fed Cup G2 RRA: IRQ vs PAK,Hard,4,D,19980218,1,212686,,,Haleema Rahim,,,PAK,17.8809034908,212749,,,Mina Abdul Rahman,,,IRQ,21.3798767967,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D174,Fed Cup G2 RRA: IRQ vs PAK,Hard,4,D,19980218,2,212687,,,Nida Waseem,,,PAK,15.2991101985,212750,,,Ishraq Salman,,,IRQ,21.196440794,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D175,Fed Cup G2 RR: IRQ vs SYR,Hard,4,D,19980221,1,212752,,,Sandrella Droubi,,,SYR,22.5489390828,212745,,,Salima Esmat Salman,,,IRQ,17.2950034223,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D175,Fed Cup G2 RR: IRQ vs SYR,Hard,4,D,19980221,2,212097,,,Shaza Tinawi,,,SYR,17.0595482546,212749,,,Mina Abdul Rahman,,,IRQ,21.3880903491,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D176,Fed Cup G2 RR: IRQ vs SIN,Hard,4,D,19980219,1,212753,,,Yee Hong Tan,,,SIN,23.947980835,212749,,,Mina Abdul Rahman,,,IRQ,21.3826146475,3-6 6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D176,Fed Cup G2 RR: IRQ vs SIN,Hard,4,D,19980219,2,207784,,,Rui Jing Wong,U,,SIN,15.8302532512,212750,,,Ishraq Salman,,,IRQ,21.1991786448,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D174,Fed Cup G2 RRA: IRQ vs PAK,Hard,4,D,19980218,1,212686,,,Haleema Rahim,U,,PAK,17.8809034908,212749,,,Mina Abdul Rahman,U,,IRQ,21.3798767967,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D174,Fed Cup G2 RRA: IRQ vs PAK,Hard,4,D,19980218,2,212687,,,Nida Waseem,U,,PAK,15.2991101985,212750,,,Ishraq Salman,U,,IRQ,21.196440794,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D175,Fed Cup G2 RR: IRQ vs SYR,Hard,4,D,19980221,1,212752,,,Sandrella Droubi,U,,SYR,22.5489390828,212745,,,Salima Esmat Salman,U,,IRQ,17.2950034223,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D175,Fed Cup G2 RR: IRQ vs SYR,Hard,4,D,19980221,2,212097,,,Shaza Tinawi,U,,SYR,17.0595482546,212749,,,Mina Abdul Rahman,U,,IRQ,21.3880903491,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D176,Fed Cup G2 RR: IRQ vs SIN,Hard,4,D,19980219,1,212753,,,Yee Hong Tan,U,,SIN,23.947980835,212749,,,Mina Abdul Rahman,U,,IRQ,21.3826146475,3-6 6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D176,Fed Cup G2 RR: IRQ vs SIN,Hard,4,D,19980219,2,207784,,,Rui Jing Wong,U,,SIN,15.8302532512,212750,,,Ishraq Salman,U,,IRQ,21.1991786448,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D177,Fed Cup G1 RR: HKG vs PHI,Hard,4,D,19980219,1,204759,,,Ning Lin,U,,HKG,27.9753593429,207543,,,Jennifer Saret,U,,PHI,23.189596167,4-6 6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D177,Fed Cup G1 RR: HKG vs PHI,Hard,4,D,19980219,2,202774,,,Ka Po Tong,U,,HKG,16.9281314168,207518,,,Marisue Jacutin,R,,PHI,18.7707049966,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,798,5,886,3
 1998-D178,Fed Cup G1 RR: HKG vs UZB,Hard,4,D,19980221,1,201204,,,Iroda Tulyaganova,R,,UZB,16.1232032854,204759,,,Ning Lin,U,,HKG,27.9808350445,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D178,Fed Cup G1 RR: HKG vs UZB,Hard,4,D,19980221,2,202774,,,Ka Po Tong,U,,HKG,16.9336071184,202216,,,Lilia Biktyakova,U,,UZB,19.0527036277,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,798,5,809,5
-1998-D179,Fed Cup G2 RRA: BAR vs CRC,Hard,4,D,19980501,1,207000,,,Melissa Mendieta,U,,CRC,16.6954140999,212756,,,Kim Brandford,,,BAR,27.2525667351,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D179,Fed Cup G2 RRA: BAR vs CRC,Hard,4,D,19980501,2,212547,,,Melissa Golfin,,,CRC,23.9863107461,208261,,,Richele Le Saldo,U,,BAR,15.2936344969,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D179,Fed Cup G2 RRA: BAR vs CRC,Hard,4,D,19980501,1,207000,,,Melissa Mendieta,U,,CRC,16.6954140999,212756,,,Kim Brandford,U,,BAR,27.2525667351,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D179,Fed Cup G2 RRA: BAR vs CRC,Hard,4,D,19980501,2,212547,,,Melissa Golfin,U,,CRC,23.9863107461,208261,,,Richele Le Saldo,U,,BAR,15.2936344969,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D180,Fed Cup G1 RRA: INA vs TPE,Hard,4,D,19980216,1,200091,,,Janet Lee,R,,TPE,21.3196440794,203004,,,Wukirasih Sawondari,R,,INA,17.2402464066,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,84,312,446,22
 1998-D180,Fed Cup G1 RRA: INA vs TPE,Hard,4,D,19980216,2,200684,,,Shi Ting Wang,R,,TPE,24.3285420945,201295,,,Wynne Prakusya,R,,INA,16.810403833,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,57,454,353,37
 1998-D181,Fed Cup G1 RR: THA vs INA,Hard,4,D,19980219,1,202123,,,Suvimol Duangchan,U,,THA,23.8631074606,203004,,,Wukirasih Sawondari,R,,INA,17.2484599589,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,499,18,446,22
 1998-D181,Fed Cup G1 RR: THA vs INA,Hard,4,D,19980219,2,201295,,,Wynne Prakusya,R,,INA,16.8186173854,200009,,,Tamarine Tanasugarn,R,165,THA,20.7419575633,7-6(5) 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,,353,37,39,624
 1998-D182,Fed Cup G2 RRA: CRC vs ESA,Hard,4,D,19980429,1,206447,,,Ingrid Gonzalez,U,,ESA,27.0444900753,206666,,,Paula Umana,U,,CRC,23.6331279945,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D182,Fed Cup G2 RRA: CRC vs ESA,Hard,4,D,19980429,2,212718,,,Claudia Castro,,,ESA,18.3189596167,207000,,,Melissa Mendieta,U,,CRC,16.6899383984,7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D182,Fed Cup G2 RRA: CRC vs ESA,Hard,4,D,19980429,2,212718,,,Claudia Castro,U,,ESA,18.3189596167,207000,,,Melissa Mendieta,U,,CRC,16.6899383984,7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D183,Fed Cup G2 RRA: MEX vs CRC,Hard,4,D,19980503,1,204516,,,Melody Falco,U,,MEX,22.7926078029,207000,,,Melissa Mendieta,U,,CRC,16.7008898015,7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,1034,1,,
-1998-D183,Fed Cup G2 RRA: MEX vs CRC,Hard,4,D,19980503,2,204633,,,Paola Palencia,U,,MEX,19.1321013005,212547,,,Melissa Golfin,,,CRC,23.9917864476,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,916,3,,
-1998-D184,Fed Cup G2 RRA: CRC vs HAI,Hard,4,D,19980502,1,207000,,,Melissa Mendieta,U,,CRC,16.6981519507,212723,,,Jennifer Adrien,,,HAI,17.6427104723,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D184,Fed Cup G2 RRA: CRC vs HAI,Hard,4,D,19980502,2,202521,,,Neyssa Etienne,R,,HAI,14.5023956194,212547,,,Melissa Golfin,,,CRC,23.9890485969,6-4 7-6(1),3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D185,Fed Cup G2 RRA: CRC vs GUA,Hard,4,D,19980428,1,212557,,,Maria Fernanda Carrillo,,,GUA,19.6030116359,212766,,,Karla Umana,,,CRC,35.3483915127,7-6(4) 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D185,Fed Cup G2 RRA: CRC vs GUA,Hard,4,D,19980428,2,212119,,,Luisa Elfride Lopez,,,GUA,17.1991786448,212547,,,Melissa Golfin,,,CRC,23.9780971937,7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D186,Fed Cup G2 RRC: SYR vs TJK,Hard,4,D,19980216,1,212684,,,Eugenia Silantieva,,,TJK,20.1259411362,212098,,,Farah Dayoub,,,SYR,22.7022587269,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D186,Fed Cup G2 RRC: SYR vs TJK,Hard,4,D,19980216,2,212685,,,Youliya Dimitrova,,,TJK,18.2724161533,212499,,,Sara Taweel,,,SYR,19.4688569473,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D187,Fed Cup G2 RR: POC vs TJK,Hard,4,D,19980221,1,203910,,,Paiao Asinata Short,U,,POC,23.1704312115,212684,,,Eugenia Silantieva,,,TJK,20.1396303901,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D187,Fed Cup G2 RR: POC vs TJK,Hard,4,D,19980221,2,202275,,,Tagifano Soonalole,U,,SAM,19.961670089,212685,,,Youliya Dimitrova,,,TJK,18.2861054073,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D188,Fed Cup G2 RRA: BAR vs GUA,Hard,4,D,19980503,1,212557,,,Maria Fernanda Carrillo,,,GUA,19.6167008898,212734,,,Marisa Howell,,,BAR,14.7542778919,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D188,Fed Cup G2 RRA: BAR vs GUA,Hard,4,D,19980503,2,212119,,,Luisa Elfride Lopez,,,GUA,17.2128678987,208261,,,Richele Le Saldo,U,,BAR,15.2991101985,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D183,Fed Cup G2 RRA: MEX vs CRC,Hard,4,D,19980503,2,204633,,,Paola Palencia,U,,MEX,19.1321013005,212547,,,Melissa Golfin,U,,CRC,23.9917864476,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,916,3,,
+1998-D184,Fed Cup G2 RRA: CRC vs HAI,Hard,4,D,19980502,1,207000,,,Melissa Mendieta,U,,CRC,16.6981519507,212723,,,Jennifer Adrien,U,,HAI,17.6427104723,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D184,Fed Cup G2 RRA: CRC vs HAI,Hard,4,D,19980502,2,202521,,,Neyssa Etienne,R,,HAI,14.5023956194,212547,,,Melissa Golfin,U,,CRC,23.9890485969,6-4 7-6(1),3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D185,Fed Cup G2 RRA: CRC vs GUA,Hard,4,D,19980428,1,212557,,,Maria Fernanda Carrillo,U,,GUA,19.6030116359,212766,,,Karla Umana,U,,CRC,35.3483915127,7-6(4) 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D185,Fed Cup G2 RRA: CRC vs GUA,Hard,4,D,19980428,2,212119,,,Luisa Elfride Lopez,U,,GUA,17.1991786448,212547,,,Melissa Golfin,U,,CRC,23.9780971937,7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D186,Fed Cup G2 RRC: SYR vs TJK,Hard,4,D,19980216,1,212684,,,Eugenia Silantieva,U,,TJK,20.1259411362,212098,,,Farah Dayoub,U,,SYR,22.7022587269,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D186,Fed Cup G2 RRC: SYR vs TJK,Hard,4,D,19980216,2,212685,,,Youliya Dimitrova,U,,TJK,18.2724161533,212499,,,Sara Taweel,U,,SYR,19.4688569473,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D187,Fed Cup G2 RR: POC vs TJK,Hard,4,D,19980221,1,203910,,,Paiao Asinata Short,U,,POC,23.1704312115,212684,,,Eugenia Silantieva,U,,TJK,20.1396303901,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D187,Fed Cup G2 RR: POC vs TJK,Hard,4,D,19980221,2,202275,,,Tagifano Soonalole,U,,SAM,19.961670089,212685,,,Youliya Dimitrova,U,,TJK,18.2861054073,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D188,Fed Cup G2 RRA: BAR vs GUA,Hard,4,D,19980503,1,212557,,,Maria Fernanda Carrillo,U,,GUA,19.6167008898,212734,,,Marisa Howell,U,,BAR,14.7542778919,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D188,Fed Cup G2 RRA: BAR vs GUA,Hard,4,D,19980503,2,212119,,,Luisa Elfride Lopez,U,,GUA,17.2128678987,208261,,,Richele Le Saldo,U,,BAR,15.2991101985,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D189,Fed Cup G2 RRB: POC vs SIN,Hard,4,D,19980218,1,203910,,,Paiao Asinata Short,U,,POC,23.1622176591,207508,,,Jil Lin Leong,U,,SIN,17.9055441478,3-6 7-6(6) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D189,Fed Cup G2 RRB: POC vs SIN,Hard,4,D,19980218,2,202275,,,Tagifano Soonalole,U,,SAM,19.9534565366,207784,,,Rui Jing Wong,U,,SIN,15.8275154004,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D190,Fed Cup G2 RRA: BAR vs BER,Hard,4,D,19980428,1,212554,,,Kelly Holland,,,BER,34.135523614,212734,,,Marisa Howell,,,BAR,14.7405886379,4-6 7-6(3) 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D190,Fed Cup G2 RRA: BAR vs BER,Hard,4,D,19980428,2,208261,,,Richele Le Saldo,U,,BAR,15.2854209446,212155,,,Danielle Paynter,,,BER,17.0513347023,6-7(4) 6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D191,Fed Cup G2 RR: SIN vs SYR,Hard,4,D,19980220,1,207508,,,Jil Lin Leong,U,,SIN,17.9110198494,212098,,,Farah Dayoub,,,SYR,22.71321013,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D191,Fed Cup G2 RR: SIN vs SYR,Hard,4,D,19980220,2,207784,,,Rui Jing Wong,U,,SIN,15.832991102,212499,,,Sara Taweel,,,SYR,19.4798083504,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D192,Fed Cup G2 RRB: PUR vs TRI,Hard,4,D,19980501,1,212378,,,Joanna Bauza,,,PUR,22.7296372348,212540,,,Jeanine Baillie,,,TRI,17.8453114305,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D192,Fed Cup G2 RRB: PUR vs TRI,Hard,4,D,19980501,2,206910,,,Mari Toro,U,,PUR,18.46954141,212165,,,Anneliese Rose,,,TRI,19.5017111567,6-2 7-6(2),3,RR,,,,,,,,,,,,,,,,,,,,1032,1,,
-1998-D193,Fed Cup G2 RRB: BAH vs TRI,Hard,4,D,19980503,1,212540,,,Jeanine Baillie,,,TRI,17.8507871321,212708,,,Janelle Watson,,,BAH,19.0390143737,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D193,Fed Cup G2 RRB: BAH vs TRI,Hard,4,D,19980503,2,212165,,,Anneliese Rose,,,TRI,19.5071868583,212432,,,Kim Cartwright,,,BAH,33.4565366188,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D194,Fed Cup G2 RRA: BER vs ESA,Hard,4,D,19980503,1,206447,,,Ingrid Gonzalez,U,,ESA,27.0554414784,212728,,,Elizabeth Osborne,,,BER,26.4804928131,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D194,Fed Cup G2 RRA: BER vs ESA,Hard,4,D,19980503,2,212718,,,Claudia Castro,,,ESA,18.3299110198,212155,,,Danielle Paynter,,,BER,17.0650239562,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D190,Fed Cup G2 RRA: BAR vs BER,Hard,4,D,19980428,1,212554,,,Kelly Holland,U,,BER,34.135523614,212734,,,Marisa Howell,U,,BAR,14.7405886379,4-6 7-6(3) 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D190,Fed Cup G2 RRA: BAR vs BER,Hard,4,D,19980428,2,208261,,,Richele Le Saldo,U,,BAR,15.2854209446,212155,,,Danielle Paynter,U,,BER,17.0513347023,6-7(4) 6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D191,Fed Cup G2 RR: SIN vs SYR,Hard,4,D,19980220,1,207508,,,Jil Lin Leong,U,,SIN,17.9110198494,212098,,,Farah Dayoub,U,,SYR,22.71321013,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D191,Fed Cup G2 RR: SIN vs SYR,Hard,4,D,19980220,2,207784,,,Rui Jing Wong,U,,SIN,15.832991102,212499,,,Sara Taweel,U,,SYR,19.4798083504,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D192,Fed Cup G2 RRB: PUR vs TRI,Hard,4,D,19980501,1,212378,,,Joanna Bauza,U,,PUR,22.7296372348,212540,,,Jeanine Baillie,U,,TRI,17.8453114305,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D192,Fed Cup G2 RRB: PUR vs TRI,Hard,4,D,19980501,2,206910,,,Mari Toro,U,,PUR,18.46954141,212165,,,Anneliese Rose,U,,TRI,19.5017111567,6-2 7-6(2),3,RR,,,,,,,,,,,,,,,,,,,,1032,1,,
+1998-D193,Fed Cup G2 RRB: BAH vs TRI,Hard,4,D,19980503,1,212540,,,Jeanine Baillie,U,,TRI,17.8507871321,212708,,,Janelle Watson,U,,BAH,19.0390143737,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D193,Fed Cup G2 RRB: BAH vs TRI,Hard,4,D,19980503,2,212165,,,Anneliese Rose,U,,TRI,19.5071868583,212432,,,Kim Cartwright,U,,BAH,33.4565366188,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D194,Fed Cup G2 RRA: BER vs ESA,Hard,4,D,19980503,1,206447,,,Ingrid Gonzalez,U,,ESA,27.0554414784,212728,,,Elizabeth Osborne,U,,BER,26.4804928131,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D194,Fed Cup G2 RRA: BER vs ESA,Hard,4,D,19980503,2,212718,,,Claudia Castro,U,,ESA,18.3299110198,212155,,,Danielle Paynter,U,,BER,17.0650239562,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D195,Fed Cup G1 RRC: THA vs NZL,Hard,4,D,19980216,1,201754,,,Leanne Baker,L,,NZL,17.106091718,202123,,,Suvimol Duangchan,U,,THA,23.8548939083,4-6 6-3 8-6,3,RR,,,,,,,,,,,,,,,,,,,,706,7,499,18
 1998-D195,Fed Cup G1 RRC: THA vs NZL,Hard,4,D,19980216,2,200009,,,Tamarine Tanasugarn,R,165,THA,20.733744011,201753,,,Rewa Harriman,U,,NZL,17.4209445585,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,39,624,318,46
 1998-D196,Fed Cup G1 RR: NZL vs TPE,Hard,4,D,19980220,1,200091,,,Janet Lee,R,,TPE,21.3305954825,201754,,,Leanne Baker,L,,NZL,17.1170431211,7-6(4) 2-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,84,312,706,7
 1998-D196,Fed Cup G1 RR: NZL vs TPE,Hard,4,D,19980220,2,200684,,,Shi Ting Wang,R,,TPE,24.3394934976,201753,,,Rewa Harriman,U,,NZL,17.4318959617,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,57,454,318,46
-1998-D197,Fed Cup G2 RRA: BAR vs ESA,Hard,4,D,19980427,1,206447,,,Ingrid Gonzalez,U,,ESA,27.0390143737,212756,,,Kim Brandford,,,BAR,27.241615332,6-1 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D197,Fed Cup G2 RRA: BAR vs ESA,Hard,4,D,19980427,2,212718,,,Claudia Castro,,,ESA,18.3134839151,208261,,,Richele Le Saldo,U,,BAR,15.2826830938,7-6(4) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D197,Fed Cup G2 RRA: BAR vs ESA,Hard,4,D,19980427,1,206447,,,Ingrid Gonzalez,U,,ESA,27.0390143737,212756,,,Kim Brandford,U,,BAR,27.241615332,6-1 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D197,Fed Cup G2 RRA: BAR vs ESA,Hard,4,D,19980427,2,212718,,,Claudia Castro,U,,ESA,18.3134839151,208261,,,Richele Le Saldo,U,,BAR,15.2826830938,7-6(4) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D198,Fed Cup G1 RR: THA vs CHN,Hard,4,D,19980221,1,201628,,,Li Li,U,,CHN,21.3853524983,202123,,,Suvimol Duangchan,U,,THA,23.8685831622,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,382,32,499,18
 1998-D198,Fed Cup G1 RR: THA vs CHN,Hard,4,D,19980221,2,200009,,,Tamarine Tanasugarn,R,165,THA,20.7474332649,200075,,,Jing Qian Yi,R,,CHN,23.9808350445,6-7(4) 6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,39,624,281,58
-1998-D199,Fed Cup G2 RRB: BAH vs JAM,Hard,4,D,19980501,1,212700,,,Tamara Davis,,,JAM,18.8528405202,212709,,,Jodi Saunders,,,BAH,29.8973305955,6-0 3-4 RET,5,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D199,Fed Cup G2 RRB: BAH vs JAM,Hard,4,D,19980501,2,212541,,,Camille Walter,,,JAM,25.2594113621,212708,,,Janelle Watson,,,BAH,19.0335386721,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D199,Fed Cup G2 RRB: BAH vs JAM,Hard,4,D,19980501,1,212700,,,Tamara Davis,U,,JAM,18.8528405202,212709,,,Jodi Saunders,U,,BAH,29.8973305955,6-0 3-4 RET,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D199,Fed Cup G2 RRB: BAH vs JAM,Hard,4,D,19980501,2,212541,,,Camille Walter,U,,JAM,25.2594113621,212708,,,Janelle Watson,U,,BAH,19.0335386721,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D200,Fed Cup G1 RR: PHI vs UZB,Hard,4,D,19980220,1,201204,,,Iroda Tulyaganova,R,,UZB,16.1204654346,207552,,,Pamela Floro,U,,PHI,18.5106091718,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D200,Fed Cup G1 RR: PHI vs UZB,Hard,4,D,19980220,2,202216,,,Lilia Biktyakova,U,,UZB,19.0499657769,207518,,,Marisue Jacutin,R,,PHI,18.7734428474,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,809,5,886,3
-1998-D201,Fed Cup G2 RRB: BAH vs PUR,Hard,4,D,19980428,1,212378,,,Joanna Bauza,,,PUR,22.7214236824,212709,,,Jodi Saunders,,,BAH,29.8891170431,3-6 6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D201,Fed Cup G2 RRB: BAH vs PUR,Hard,4,D,19980428,2,206910,,,Mari Toro,U,,PUR,18.4613278576,212432,,,Kim Cartwright,,,BAH,33.4428473648,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,1032,1,,
+1998-D201,Fed Cup G2 RRB: BAH vs PUR,Hard,4,D,19980428,1,212378,,,Joanna Bauza,U,,PUR,22.7214236824,212709,,,Jodi Saunders,U,,BAH,29.8891170431,3-6 6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D201,Fed Cup G2 RRB: BAH vs PUR,Hard,4,D,19980428,2,206910,,,Mari Toro,U,,PUR,18.4613278576,212432,,,Kim Cartwright,U,,BAH,33.4428473648,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,1032,1,,
 1998-D202,Fed Cup G1 RRC: THA vs PHI,Hard,4,D,19980217,1,202123,,,Suvimol Duangchan,U,,THA,23.8576317591,207552,,,Pamela Floro,U,,PHI,18.5023956194,7-5 7-5,3,RR,,,,,,,,,,,,,,,,,,,,499,18,,
 1998-D202,Fed Cup G1 RRC: THA vs PHI,Hard,4,D,19980217,2,200009,,,Tamarine Tanasugarn,R,165,THA,20.7364818617,207518,,,Marisue Jacutin,R,,PHI,18.765229295,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,39,624,886,3
-1998-D203,Fed Cup G2 RRA: BER vs CRC,Hard,4,D,19980430,1,207000,,,Melissa Mendieta,U,,CRC,16.6926762491,212728,,,Elizabeth Osborne,,,BER,26.4722792608,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D203,Fed Cup G2 RRA: BER vs CRC,Hard,4,D,19980430,2,212547,,,Melissa Golfin,,,CRC,23.9835728953,212155,,,Danielle Paynter,,,BER,17.0568104038,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D204,Fed Cup G2 RRB: PAN vs PUR,Hard,4,D,19980430,1,212778,,,Maria Elena Del Valle,,,PUR,17.1937029432,212157,,,Anabelle Espinosa Rodriguez,,,PAN,15.8795345654,6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D204,Fed Cup G2 RRB: PAN vs PUR,Hard,4,D,19980430,2,212542,,,Lorena Porras,,,PAN,17.7248459959,206910,,,Mari Toro,U,,PUR,18.4668035592,6-4 1-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,1032,1
-1998-D205,Fed Cup G2 RRB: PAN vs TRI,Hard,4,D,19980427,1,212157,,,Anabelle Espinosa Rodriguez,,,PAN,15.871321013,212540,,,Jeanine Baillie,,,TRI,17.8343600274,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D205,Fed Cup G2 RRB: PAN vs TRI,Hard,4,D,19980427,2,212165,,,Anneliese Rose,,,TRI,19.4907597536,212542,,,Lorena Porras,,,PAN,17.7166324435,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D206,Fed Cup G2 RRB: BAH vs PAN,Hard,4,D,19980429,1,212157,,,Anabelle Espinosa Rodriguez,,,PAN,15.8767967146,212709,,,Jodi Saunders,,,BAH,29.8918548939,7-6(4) 4-6 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D206,Fed Cup G2 RRB: BAH vs PAN,Hard,4,D,19980429,2,212542,,,Lorena Porras,,,PAN,17.7221081451,212708,,,Janelle Watson,,,BAH,19.0280629706,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D207,Fed Cup G2 RRB: CUB vs JAM,Hard,4,D,19980430,1,206902,,,Yamile Cordova,U,,CUB,25.6427104723,212700,,,Tamara Davis,,,JAM,18.8501026694,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D207,Fed Cup G2 RRB: CUB vs JAM,Hard,4,D,19980430,2,206904,,,Yoannis Montesino,U,,CUB,26.8446269678,212103,,,Alexandra Chong,,,JAM,16.7501711157,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D203,Fed Cup G2 RRA: BER vs CRC,Hard,4,D,19980430,1,207000,,,Melissa Mendieta,U,,CRC,16.6926762491,212728,,,Elizabeth Osborne,U,,BER,26.4722792608,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D203,Fed Cup G2 RRA: BER vs CRC,Hard,4,D,19980430,2,212547,,,Melissa Golfin,U,,CRC,23.9835728953,212155,,,Danielle Paynter,U,,BER,17.0568104038,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D204,Fed Cup G2 RRB: PAN vs PUR,Hard,4,D,19980430,1,212778,,,Maria Elena Del Valle,U,,PUR,17.1937029432,212157,,,Anabelle Espinosa Rodriguez,U,,PAN,15.8795345654,6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D204,Fed Cup G2 RRB: PAN vs PUR,Hard,4,D,19980430,2,212542,,,Lorena Porras,U,,PAN,17.7248459959,206910,,,Mari Toro,U,,PUR,18.4668035592,6-4 1-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,1032,1
+1998-D205,Fed Cup G2 RRB: PAN vs TRI,Hard,4,D,19980427,1,212157,,,Anabelle Espinosa Rodriguez,U,,PAN,15.871321013,212540,,,Jeanine Baillie,U,,TRI,17.8343600274,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D205,Fed Cup G2 RRB: PAN vs TRI,Hard,4,D,19980427,2,212165,,,Anneliese Rose,U,,TRI,19.4907597536,212542,,,Lorena Porras,U,,PAN,17.7166324435,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D206,Fed Cup G2 RRB: BAH vs PAN,Hard,4,D,19980429,1,212157,,,Anabelle Espinosa Rodriguez,U,,PAN,15.8767967146,212709,,,Jodi Saunders,U,,BAH,29.8918548939,7-6(4) 4-6 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D206,Fed Cup G2 RRB: BAH vs PAN,Hard,4,D,19980429,2,212542,,,Lorena Porras,U,,PAN,17.7221081451,212708,,,Janelle Watson,U,,BAH,19.0280629706,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D207,Fed Cup G2 RRB: CUB vs JAM,Hard,4,D,19980430,1,206902,,,Yamile Cordova,U,,CUB,25.6427104723,212700,,,Tamara Davis,U,,JAM,18.8501026694,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D207,Fed Cup G2 RRB: CUB vs JAM,Hard,4,D,19980430,2,206904,,,Yoannis Montesino,U,,CUB,26.8446269678,212103,,,Alexandra Chong,U,,JAM,16.7501711157,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D208,Fed Cup G2 RRB: CUB vs DOM,Hard,4,D,19980429,1,206902,,,Yamile Cordova,U,,CUB,25.6399726215,206903,,,Glenny Cepeda,U,,DOM,17.0431211499,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-D208,Fed Cup G2 RRB: CUB vs DOM,Hard,4,D,19980429,2,206904,,,Yoannis Montesino,U,,CUB,26.841889117,202509,,,Joelle Schad,U,,DOM,25.1279945243,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D209,Fed Cup G2 RRA: BER vs GUA,Hard,4,D,19980502,1,206989,,,Karla Lehnoff,U,,GUA,35.1540041068,212728,,,Elizabeth Osborne,,,BER,26.4777549624,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1998-D209,Fed Cup G2 RRA: BER vs GUA,Hard,4,D,19980502,2,212155,,,Danielle Paynter,,,BER,17.0622861054,212557,,,Maria Fernanda Carrillo,,,GUA,19.613963039,7-6(3) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D209,Fed Cup G2 RRA: BER vs GUA,Hard,4,D,19980502,1,206989,,,Karla Lehnoff,U,,GUA,35.1540041068,212728,,,Elizabeth Osborne,U,,BER,26.4777549624,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1998-D209,Fed Cup G2 RRA: BER vs GUA,Hard,4,D,19980502,2,212155,,,Danielle Paynter,U,,BER,17.0622861054,212557,,,Maria Fernanda Carrillo,U,,GUA,19.613963039,7-6(3) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1998-W-GSC-1998,Grand Slam Cup,Hard,8,W,19980928,1,200001,1,,Martina Hingis,R,170,SUI,17.993155373,200049,,,Conchita Martinez,R,170,ESP,26.4503764545,6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,1,5496,7,2404
 1998-W-GSC-1998,Grand Slam Cup,Hard,8,W,19980928,2,200067,,ALT,Patty Schnyder,L,168,SUI,19.7891854894,200539,3,,Jana Novotna,R,,CZE,29.9876796715,2-6 7-5 7-5,3,QF,,,,,,,,,,,,,,,,,,,,9,2274,3,4819
 1998-W-GSC-1998,Grand Slam Cup,Hard,8,W,19980928,3,200748,,,Venus Williams,R,185,USA,18.2806297057,200017,4,,Arantxa Sanchez Vicario,R,,ESP,26.7789185489,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,5,3015,4,3743
