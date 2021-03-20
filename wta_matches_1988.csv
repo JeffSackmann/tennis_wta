@@ -1,15 +1,15 @@
 tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
-1988-D001,Fed Cup WG ConR: IRL vs YUG,,4,D,19881204,1,203829,,,Jo Griffiths,U,,IRL,26.0862422998,212788,,,Tanja Cerne,,,YUG,17.6536618754,4-6 7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1988-D001,Fed Cup WG ConR: IRL vs YUG,,4,D,19881204,2,201904,,,Karmen Skulj,U,,YUG,21.0266940452,212505,,,Lesley OHalloran,,,IRL,23.0910335387,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1988-D001,Fed Cup WG ConR: IRL vs YUG,,4,D,19881204,1,203829,,,Jo Griffiths,U,,IRL,26.0862422998,212788,,,Tanja Cerne,U,,YUG,17.6536618754,4-6 7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1988-D001,Fed Cup WG ConR: IRL vs YUG,,4,D,19881204,2,201904,,,Karmen Skulj,U,,YUG,21.0266940452,212505,,,Lesley OHalloran,U,,IRL,23.0910335387,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1988-D002,Fed Cup WG ConR: BEL vs GRE,,4,D,19881204,1,200037,,,Sabine Appelmans,L,,BEL,16.6187542779,200523,,,Olga Tsarbopoulou,U,,GRE,20.4599589322,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,213,2,146,5
 1988-D002,Fed Cup WG ConR: BEL vs GRE,,4,D,19881204,2,200484,,,Ann Devries,U,,BEL,18.7679671458,201017,,,Angelika Kanellopoulou,R,,GRE,22.9623545517,3-6 6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,78,10,70,11
 1988-D003,Fed Cup WG ConR: BEL vs KOR,,4,D,19881204,1,200037,,,Sabine Appelmans,L,,BEL,16.6187542779,202045,,,Il Soon Kim,U,,KOR,19.8603696099,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,213,2,,
-1988-D003,Fed Cup WG ConR: BEL vs KOR,,4,D,19881204,2,200484,,,Ann Devries,U,,BEL,18.7679671458,212694,,,Mal Sim Park,,,KOR,23.3894592745,3-6 7-6(10) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,78,10,,
+1988-D003,Fed Cup WG ConR: BEL vs KOR,,4,D,19881204,2,200484,,,Ann Devries,U,,BEL,18.7679671458,212694,,,Mal Sim Park,U,,KOR,23.3894592745,3-6 7-6(10) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,78,10,,
 1988-D004,Fed Cup WG R1: FRG vs MEX,,4,D,19881204,1,200366,,,Sylvia Hanika,U,,GER,29.0130047912,201890,,,Xochitl Escobedo,U,,MEX,20.2135523614,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,17,43,,
 1988-D004,Fed Cup WG R1: FRG vs MEX,,4,D,19881204,2,200354,,,Claudia Kohde Kilsch,R,,GER,24.9828884326,202518,,,Claudia Hernandez Salas,U,,MEX,22.8747433265,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,12,57,348,0
 1988-D005,Fed Cup WG ConR: NED vs BRA,,4,D,19881204,1,200485,,,Manon Bollegraf,U,,NED,24.6516084873,200962,,,Patricia Medrado,U,,BRA,32.0219028063,7-6(1) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,119,7,114,7
 1988-D005,Fed Cup WG ConR: NED vs BRA,,4,D,19881204,2,200554,,,Brenda Schultz Mccarthy,R,,NED,17.9356605065,201025,,,Neige Dias,U,,BRA,21.9986310746,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,40,24,31,27
-1988-D006,Fed Cup WG R1: URS vs YUG,,4,D,19881204,1,200450,,,Larisa Savchenko,U,,URS,22.3737166324,212788,,,Tanja Cerne,,,YUG,17.6536618754,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,16,45,,
+1988-D006,Fed Cup WG R1: URS vs YUG,,4,D,19881204,1,200450,,,Larisa Savchenko,U,,URS,22.3737166324,212788,,,Tanja Cerne,U,,YUG,17.6536618754,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,16,45,,
 1988-D006,Fed Cup WG R1: URS vs YUG,,4,D,19881204,2,200116,,,Natalia Zvereva,R,,BLR,17.6372347707,201904,,,Karmen Skulj,U,,YUG,21.0266940452,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,7,82,,
 1988-D007,Fed Cup WG QF: URS vs ESP,,4,D,19881204,1,200450,,,Larisa Savchenko,U,,URS,22.3737166324,200049,,,Conchita Martinez,R,170,ESP,16.6351813826,7-6(4) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,16,45,41,24
 1988-D007,Fed Cup WG QF: URS vs ESP,,4,D,19881204,2,200017,,,Arantxa Sanchez Vicario,R,,ESP,16.9637234771,200116,,,Natalia Zvereva,R,,BLR,17.6372347707,7-6(3) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,18,42,7,82
@@ -23,27 +23,27 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1988-D011,Fed Cup WG R1: SUI vs USA,,4,D,19881204,2,200375,,,Barbara Potter,U,,USA,27.1184120465,200487,,,Eva Krapl,U,,SUI,22.8829568789,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,10,60,117,7
 1988-D012,Fed Cup WG QF: AUS vs FRG,,4,D,19881204,1,200366,,,Sylvia Hanika,U,,GER,29.0130047912,200469,,,Nicole Bradtke,U,,AUS,19.2005475702,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,17,43,34,26
 1988-D012,Fed Cup WG QF: AUS vs FRG,,4,D,19881204,2,200354,,,Claudia Kohde Kilsch,R,,GER,24.9828884326,200346,,,Anne Minter,U,,AUS,25.6728268309,1-6 6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,12,57,26,32
-1988-D013,Fed Cup WG R2: INA vs ESP,,4,D,19881204,1,200049,,,Conchita Martinez,R,170,ESP,16.6351813826,212796,,,Waya Walalangi,,,INA,17.8288843258,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,41,24,,
+1988-D013,Fed Cup WG R2: INA vs ESP,,4,D,19881204,1,200049,,,Conchita Martinez,R,170,ESP,16.6351813826,212796,,,Waya Walalangi,U,,INA,17.8288843258,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,41,24,,
 1988-D013,Fed Cup WG R2: INA vs ESP,,4,D,19881204,2,200017,,,Arantxa Sanchez Vicario,R,,ESP,16.9637234771,200653,,,Yayuk Basuki,R,,INA,18.0123203285,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,18,42,281,1
 1988-D014,Fed Cup WG R2: FRG vs FRA,,4,D,19881204,1,200366,,,Sylvia Hanika,U,,GER,29.0130047912,200593,,,Karine Quentrec,U,,FRA,19.1211498973,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,17,43,145,5
 1988-D014,Fed Cup WG R2: FRG vs FRA,,4,D,19881204,2,200354,,,Claudia Kohde Kilsch,R,,GER,24.9828884326,200395,,,Catherine Tanvier,U,,FRA,23.5208761123,7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,,12,57,77,10
 1988-D015,Fed Cup WG R2: NZL vs TCH,,4,D,19881204,1,200530,,,Radomira Zrubakova,R,,SVK,17.9411362081,200510,,,Julie Richardson,U,,NZL,21.6837782341,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,32,27,103,8
 1988-D015,Fed Cup WG R2: NZL vs TCH,,4,D,19881204,2,200377,,,Helena Sukova,R,,CZE,23.7782340862,200462,,,Belinda Cordwell,U,,NZL,23.2032854209,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,8,80,61,13
-1988-D016,Fed Cup WG ConR: TPE vs CHN,,4,D,19881204,1,202199,,,Su Lin Lai,U,,TPE,21.8097193703,212797,,,Yu Yu Zhu,,,CHN,20.8240930869,2-6 7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1988-D016,Fed Cup WG ConR: TPE vs CHN,,4,D,19881204,1,202199,,,Su Lin Lai,U,,TPE,21.8097193703,212797,,,Yu Yu Zhu,U,,CHN,20.8240930869,2-6 7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1988-D016,Fed Cup WG ConR: TPE vs CHN,,4,D,19881204,2,200684,,,Shi Ting Wang,R,,TPE,15.1266255989,200730,,,Min Tang,U,,HKG,17.8562628337,3-6 6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1988-D017,Fed Cup WG ConR: GBR vs BEL,,4,D,19881204,1,200037,,,Sabine Appelmans,L,,BEL,16.6187542779,200542,,,Clare Wood,R,,GBR,20.7419575633,7-5 3-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,213,2,143,6
 1988-D017,Fed Cup WG ConR: GBR vs BEL,,4,D,19881204,2,200443,,,Sara Gomer,U,,GBR,24.5612594114,200484,,,Ann Devries,U,,BEL,18.7679671458,6-7(4) 6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,51,18,78,10
-1988-D018,Fed Cup WG R1: CHN vs NZL,,4,D,19881204,1,200510,,,Julie Richardson,U,,NZL,21.6837782341,212797,,,Yu Yu Zhu,,,CHN,20.8240930869,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,103,8,,
+1988-D018,Fed Cup WG R1: CHN vs NZL,,4,D,19881204,1,200510,,,Julie Richardson,U,,NZL,21.6837782341,212797,,,Yu Yu Zhu,U,,CHN,20.8240930869,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,103,8,,
 1988-D018,Fed Cup WG R1: CHN vs NZL,,4,D,19881204,2,200462,,,Belinda Cordwell,U,,NZL,23.2032854209,200730,,,Min Tang,U,,HKG,17.8562628337,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,61,13,,
 1988-D019,Fed Cup WG ConR: ISR vs POL,,4,D,19881204,1,201629,,,Yael Segal,U,,ISR,16.372347707,200710,,,Magdalena Feistel,U,,POL,18.2861054073,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,357,0,,
-1988-D019,Fed Cup WG ConR: ISR vs POL,,4,D,19881204,2,202187,,,Ilana Berger,U,,ISR,22.9267624914,212435,,,Ewa Zerdecka,,,POL,21.1882272416,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,304,1,,
-1988-D020,Fed Cup WG PO: MLT vs CHN,,4,D,19881204,1,212081,,,Helen Asciak,,,MLT,25.8480492813,206780,,,Li Hua Yang,U,,CHN,19.4223134839,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1988-D020,Fed Cup WG PO: MLT vs CHN,,4,D,19881204,2,200730,,,Min Tang,U,,HKG,17.8562628337,212125,,,Carol Cassar Torreggiani,,,MLT,20.3613963039,7-6(4) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1988-D019,Fed Cup WG ConR: ISR vs POL,,4,D,19881204,2,202187,,,Ilana Berger,U,,ISR,22.9267624914,212435,,,Ewa Zerdecka,U,,POL,21.1882272416,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,304,1,,
+1988-D020,Fed Cup WG PO: MLT vs CHN,,4,D,19881204,1,212081,,,Helen Asciak,U,,MLT,25.8480492813,206780,,,Li Hua Yang,U,,CHN,19.4223134839,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1988-D020,Fed Cup WG PO: MLT vs CHN,,4,D,19881204,2,200730,,,Min Tang,U,,HKG,17.8562628337,212125,,,Carol Cassar Torreggiani,U,,MLT,20.3613963039,7-6(4) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1988-D021,Fed Cup WG ConR: TPE vs MEX,,4,D,19881204,1,201890,,,Xochitl Escobedo,U,,MEX,20.2135523614,202199,,,Su Lin Lai,U,,TPE,21.8097193703,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1988-D021,Fed Cup WG ConR: TPE vs MEX,,4,D,19881204,2,200684,,,Shi Ting Wang,R,,TPE,15.1266255989,202518,,,Claudia Hernandez Salas,U,,MEX,22.8747433265,5-7 6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,348,0
 1988-D022,Fed Cup WG ConR: ISR vs BRA,,4,D,19881204,1,200962,,,Patricia Medrado,U,,BRA,32.0219028063,201629,,,Yael Segal,U,,ISR,16.372347707,7-6(4) 1-0 RET,5,RR,,,,,,,,,,,,,,,,,,,,114,7,357,0
 1988-D022,Fed Cup WG ConR: ISR vs BRA,,4,D,19881204,2,201025,,,Neige Dias,U,,BRA,21.9986310746,202187,,,Ilana Berger,U,,ISR,22.9267624914,6-2 7-5,3,RR,,,,,,,,,,,,,,,,,,,,31,27,304,1
-1988-D023,Fed Cup WG PO: LUX vs TPE,,4,D,19881204,1,202199,,,Su Lin Lai,U,,TPE,21.8097193703,212402,,,Ginette Huberty,,,LUX,25.9520876112,6-2 1-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1988-D023,Fed Cup WG PO: LUX vs TPE,,4,D,19881204,1,202199,,,Su Lin Lai,U,,TPE,21.8097193703,212402,,,Ginette Huberty,U,,LUX,25.9520876112,6-2 1-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1988-D023,Fed Cup WG PO: LUX vs TPE,,4,D,19881204,2,200579,,,Karin Kschwendt,R,,AUT,20.2217659138,200684,,,Shi Ting Wang,R,,TPE,15.1266255989,4-6 6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,202,3,,
 1988-D024,Fed Cup WG R2: URS vs AUT,,4,D,19881204,1,201760,,,Heidi Sprung,U,,AUT,19.8986995209,200450,,,Larisa Savchenko,U,,URS,22.3737166324,2-6 6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,251,1,16,45
 1988-D024,Fed Cup WG R2: URS vs AUT,,4,D,19881204,2,200116,,,Natalia Zvereva,R,,BLR,17.6372347707,200482,,,Judith Wiesner,R,,AUT,22.7597535934,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,7,82,35,25
@@ -51,14 +51,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1988-D025,Fed Cup WG SF: TCH vs CAN,,4,D,19881204,2,200377,,,Helena Sukova,R,,CZE,23.7782340862,200472,,,Helen Kelesi,U,,CAN,19.0527036277,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,8,80,19,40
 1988-D026,Fed Cup WG QF: CAN vs SWE,,4,D,19881204,1,200543,,,Jill Hetherington,U,,CAN,24.1040383299,200582,,,Maria Strandlund Tomsvik,U,,SWE,19.2991101985,6-3 7-6(7),3,RR,,,,,,,,,,,,,,,,,,,,81,10,107,8
 1988-D026,Fed Cup WG QF: CAN vs SWE,,4,D,19881204,2,200472,,,Helen Kelesi,U,,CAN,19.0527036277,200453,,,Catarina Lindqvist Ryan,U,,SWE,25.4784394251,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,19,40,42,23
-1988-D027,Fed Cup WG ConR: KOR vs LUX,,4,D,19881204,1,202517,,,Jeong Myung Lee,U,,KOR,21.2402464066,212402,,,Ginette Huberty,,,LUX,25.9520876112,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1988-D027,Fed Cup WG ConR: KOR vs LUX,,4,D,19881204,1,202517,,,Jeong Myung Lee,U,,KOR,21.2402464066,212402,,,Ginette Huberty,U,,LUX,25.9520876112,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1988-D027,Fed Cup WG ConR: KOR vs LUX,,4,D,19881204,2,200579,,,Karin Kschwendt,R,,AUT,20.2217659138,202045,,,Il Soon Kim,U,,KOR,19.8603696099,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,202,3,,
 1988-D028,Fed Cup WG R2: ARG vs DEN,,4,D,19881204,1,200640,,,Mercedes Paz,U,,ARG,22.4394250513,201969,,,Karin Ptaszek,U,,DEN,16.9472963723,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,44,23,,
 1988-D028,Fed Cup WG R2: ARG vs DEN,,4,D,19881204,2,200452,,,Tine Scheuer Larsen,U,,DEN,22.7296372348,200674,,,Bettina Fulco Villella,R,,ARG,20.1149897331,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,120,7,24,32
-1988-D029,Fed Cup WG ConR: IRL vs PHI,,4,D,19881204,1,212434,,,Dyan Castillejo,,,PHI,23.2197125257,203829,,,Jo Griffiths,U,,IRL,26.0862422998,2-6 6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1988-D029,Fed Cup WG ConR: IRL vs PHI,,4,D,19881204,2,203816,,,Siobhan Nicholson,R,,GBR,22.4832306639,212790,,,Sarah Rafael,,,PHI,18.8774811773,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1988-D029,Fed Cup WG ConR: IRL vs PHI,,4,D,19881204,1,212434,,,Dyan Castillejo,U,,PHI,23.2197125257,203829,,,Jo Griffiths,U,,IRL,26.0862422998,2-6 6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1988-D029,Fed Cup WG ConR: IRL vs PHI,,4,D,19881204,2,203816,,,Siobhan Nicholson,R,,GBR,22.4832306639,212790,,,Sarah Rafael,U,,PHI,18.8774811773,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1988-D030,Fed Cup WG PO: KOR vs IRL,,4,D,19881204,1,202045,,,Il Soon Kim,U,,KOR,19.8603696099,203829,,,Jo Griffiths,U,,IRL,26.0862422998,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1988-D030,Fed Cup WG PO: KOR vs IRL,,4,D,19881204,2,212694,,,Mal Sim Park,,,KOR,23.3894592745,203816,,,Siobhan Nicholson,R,,GBR,22.4832306639,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1988-D030,Fed Cup WG PO: KOR vs IRL,,4,D,19881204,2,212694,,,Mal Sim Park,U,,KOR,23.3894592745,203816,,,Siobhan Nicholson,R,,GBR,22.4832306639,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1988-D031,Fed Cup WG QF: DEN vs TCH,,4,D,19881204,1,200530,,,Radomira Zrubakova,R,,SVK,17.9411362081,201969,,,Karin Ptaszek,U,,DEN,16.9472963723,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,32,27,,
 1988-D031,Fed Cup WG QF: DEN vs TCH,,4,D,19881204,2,200377,,,Helena Sukova,R,,CZE,23.7782340862,200452,,,Tine Scheuer Larsen,U,,DEN,22.7296372348,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,8,80,120,7
 1988-D032,Fed Cup WG R1: BEL vs AUT,,4,D,19881204,1,200037,,,Sabine Appelmans,L,,BEL,16.6187542779,200627,,,Petra Schwarz,U,,AUT,16.5311430527,6-4 4-2 RET,5,RR,,,,,,,,,,,,,,,,,,,,213,2,181,3
@@ -67,7 +67,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1988-D033,Fed Cup WG R2: AUS vs ITA,,4,D,19881204,2,200346,,,Anne Minter,U,,AUS,25.6728268309,201021,,,Laura Garrone,U,,ITA,21.054072553,7-6(0) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,26,32,63,13
 1988-D034,Fed Cup WG R1: AUS vs ISR,,4,D,19881204,1,200469,,,Nicole Bradtke,U,,AUS,19.2005475702,201629,,,Yael Segal,U,,ISR,16.372347707,4-6 6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,34,26,357,0
 1988-D034,Fed Cup WG R1: AUS vs ISR,,4,D,19881204,2,200346,,,Anne Minter,U,,AUS,25.6728268309,202187,,,Ilana Berger,U,,ISR,22.9267624914,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,26,32,304,1
-1988-D035,Fed Cup WG R1: DEN vs LUX,,4,D,19881204,1,201969,,,Karin Ptaszek,U,,DEN,16.9472963723,212402,,,Ginette Huberty,,,LUX,25.9520876112,6-3 7-6(3),3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1988-D035,Fed Cup WG R1: DEN vs LUX,,4,D,19881204,1,201969,,,Karin Ptaszek,U,,DEN,16.9472963723,212402,,,Ginette Huberty,U,,LUX,25.9520876112,6-3 7-6(3),3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1988-D035,Fed Cup WG R1: DEN vs LUX,,4,D,19881204,2,200452,,,Tine Scheuer Larsen,U,,DEN,22.7296372348,200579,,,Karin Kschwendt,R,,AUT,20.2217659138,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,120,7,202,3
 1988-D036,Fed Cup WG R1: ARG vs GRE,,4,D,19881204,1,200640,,,Mercedes Paz,U,,ARG,22.4394250513,200523,,,Olga Tsarbopoulou,U,,GRE,20.4599589322,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,44,23,146,5
 1988-D036,Fed Cup WG R1: ARG vs GRE,,4,D,19881204,2,200674,,,Bettina Fulco Villella,R,,ARG,20.1149897331,201017,,,Angelika Kanellopoulou,R,,GRE,22.9623545517,1-6 7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,24,32,70,11
@@ -75,85 +75,85 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1988-D037,Fed Cup WG R1: BRA vs TCH,,4,D,19881204,2,200377,,,Helena Sukova,R,,CZE,23.7782340862,201025,,,Neige Dias,U,,BRA,21.9986310746,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,8,80,31,27
 1988-D038,Fed Cup WG SF: URS vs FRG,,4,D,19881204,1,200450,,,Larisa Savchenko,U,,URS,22.3737166324,200366,,,Sylvia Hanika,U,,GER,29.0130047912,5-7 7-6(5) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,16,45,17,43
 1988-D038,Fed Cup WG SF: URS vs FRG,,4,D,19881204,2,200354,,,Claudia Kohde Kilsch,R,,GER,24.9828884326,200116,,,Natalia Zvereva,R,,BLR,17.6372347707,7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,12,57,7,82
-1988-D039,Fed Cup WG R1: BUL vs SWE,,4,D,19881204,1,200582,,,Maria Strandlund Tomsvik,U,,SWE,19.2991101985,212773,,,Galia Angelova,,,BUL,16.0657084189,6-4 5-7 6-3,3,RR,,,,,,,,,,,,,,,,,,,,107,8,,
+1988-D039,Fed Cup WG R1: BUL vs SWE,,4,D,19881204,1,200582,,,Maria Strandlund Tomsvik,U,,SWE,19.2991101985,212773,,,Galia Angelova,U,,BUL,16.0657084189,6-4 5-7 6-3,3,RR,,,,,,,,,,,,,,,,,,,,107,8,,
 1988-D039,Fed Cup WG R1: BUL vs SWE,,4,D,19881204,2,200453,,,Catarina Lindqvist Ryan,U,,SWE,25.4784394251,200614,,,Elena Pampoulova,U,,BUL,16.5503080082,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,42,23,,
 1988-D040,Fed Cup WG R2: SWE vs USA,,4,D,19881204,1,200582,,,Maria Strandlund Tomsvik,U,,SWE,19.2991101985,200548,,,Patty Fendick,U,,USA,23.6796714579,6-2 7-6(3),3,RR,,,,,,,,,,,,,,,,,,,,107,8,22,36
 1988-D040,Fed Cup WG R2: SWE vs USA,,4,D,19881204,2,200453,,,Catarina Lindqvist Ryan,U,,SWE,25.4784394251,200428,,,Lori Mcneil,U,,USA,24.9637234771,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,42,23,13,54
-1988-D041,Fed Cup WG PO: PHI vs BUL,,4,D,19881204,1,212773,,,Galia Angelova,,,BUL,16.0657084189,212434,,,Dyan Castillejo,,,PHI,23.2197125257,7-5 3-6 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1988-D041,Fed Cup WG PO: PHI vs BUL,,4,D,19881204,2,200614,,,Elena Pampoulova,U,,BUL,16.5503080082,212790,,,Sarah Rafael,,,PHI,18.8774811773,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1988-D042,Fed Cup WG ConR: NED vs BUL,,4,D,19881204,1,200485,,,Manon Bollegraf,U,,NED,24.6516084873,212773,,,Galia Angelova,,,BUL,16.0657084189,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,119,7,,
+1988-D041,Fed Cup WG PO: PHI vs BUL,,4,D,19881204,1,212773,,,Galia Angelova,U,,BUL,16.0657084189,212434,,,Dyan Castillejo,U,,PHI,23.2197125257,7-5 3-6 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1988-D041,Fed Cup WG PO: PHI vs BUL,,4,D,19881204,2,200614,,,Elena Pampoulova,U,,BUL,16.5503080082,212790,,,Sarah Rafael,U,,PHI,18.8774811773,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1988-D042,Fed Cup WG ConR: NED vs BUL,,4,D,19881204,1,200485,,,Manon Bollegraf,U,,NED,24.6516084873,212773,,,Galia Angelova,U,,BUL,16.0657084189,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,119,7,,
 1988-D042,Fed Cup WG ConR: NED vs BUL,,4,D,19881204,2,200554,,,Brenda Schultz Mccarthy,R,,NED,17.9356605065,200614,,,Elena Pampoulova,U,,BUL,16.5503080082,4-6 7-6(5) 7-5,3,RR,,,,,,,,,,,,,,,,,,,,40,24,,
 1988-D043,Fed Cup WG ConR: GBR vs TPE,,4,D,19881204,1,200542,,,Clare Wood,R,,GBR,20.7419575633,202199,,,Su Lin Lai,U,,TPE,21.8097193703,4-6 6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,143,6,,
 1988-D043,Fed Cup WG ConR: GBR vs TPE,,4,D,19881204,2,200443,,,Sara Gomer,U,,GBR,24.5612594114,200684,,,Shi Ting Wang,R,,TPE,15.1266255989,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,51,18,,
-1988-D044,Fed Cup WG ConR: MLT vs BUL,,4,D,19881204,1,212773,,,Galia Angelova,,,BUL,16.0657084189,212514,,,Alexia Gera,,,MLT,19.613963039,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1988-D044,Fed Cup WG ConR: MLT vs BUL,,4,D,19881204,2,200614,,,Elena Pampoulova,U,,BUL,16.5503080082,212125,,,Carol Cassar Torreggiani,,,MLT,20.3613963039,7-6(5) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1988-D044,Fed Cup WG ConR: MLT vs BUL,,4,D,19881204,1,212773,,,Galia Angelova,U,,BUL,16.0657084189,212514,,,Alexia Gera,U,,MLT,19.613963039,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+1988-D044,Fed Cup WG ConR: MLT vs BUL,,4,D,19881204,2,200614,,,Elena Pampoulova,U,,BUL,16.5503080082,212125,,,Carol Cassar Torreggiani,U,,MLT,20.3613963039,7-6(5) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 1988-D045,Fed Cup WG ConR: GBR vs SUI,,4,D,19881204,1,200626,,,Emanuela Zardo,U,,SUI,18.6146475017,200542,,,Clare Wood,R,,GBR,20.7419575633,2-6 6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,279,1,143,6
 1988-D045,Fed Cup WG ConR: GBR vs SUI,,4,D,19881204,2,200443,,,Sara Gomer,U,,GBR,24.5612594114,200487,,,Eva Krapl,U,,SUI,22.8829568789,4-6 7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,51,18,117,7
 1988-D046,Fed Cup WG ConR: GBR vs NED,,4,D,19881204,1,200542,,,Clare Wood,R,,GBR,20.7419575633,200485,,,Manon Bollegraf,U,,NED,24.6516084873,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,143,6,119,7
 1988-D046,Fed Cup WG ConR: GBR vs NED,,4,D,19881204,2,200554,,,Brenda Schultz Mccarthy,R,,NED,17.9356605065,200443,,,Sara Gomer,U,,GBR,24.5612594114,3-6 5-4 RET,5,RR,,,,,,,,,,,,,,,,,,,,40,24,51,18
-1988-D047,Fed Cup WG R1: GBR vs INA,,4,D,19881204,1,200542,,,Clare Wood,R,,GBR,20.7419575633,212796,,,Waya Walalangi,,,INA,17.8288843258,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,143,6,,
+1988-D047,Fed Cup WG R1: GBR vs INA,,4,D,19881204,1,200542,,,Clare Wood,R,,GBR,20.7419575633,212796,,,Waya Walalangi,U,,INA,17.8288843258,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,143,6,,
 1988-D047,Fed Cup WG R1: GBR vs INA,,4,D,19881204,2,200653,,,Yayuk Basuki,R,,INA,18.0123203285,200443,,,Sara Gomer,U,,GBR,24.5612594114,6-2 7-6(6),3,RR,,,,,,,,,,,,,,,,,,,,281,1,51,18
 1988-D048,Fed Cup WG R1: JPN vs FRA,,4,D,19881204,1,200593,,,Karine Quentrec,U,,FRA,19.1211498973,200495,,,Akiko Kijimuta,U,,JPN,20.5941136208,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,145,5,112,7
 1988-D048,Fed Cup WG R1: JPN vs FRA,,4,D,19881204,2,200395,,,Catherine Tanvier,U,,FRA,23.5208761123,200424,,,Etsuko Inoue,U,,JPN,24.128678987,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,77,10,52,17
 1988-D049,Fed Cup WG ConR: HUN vs BRA,,4,D,19881204,1,200962,,,Patricia Medrado,U,,BRA,32.0219028063,201771,,,Virag Csurgo,U,,HUN,16.0657084189,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,114,7,,
 1988-D049,Fed Cup WG ConR: HUN vs BRA,,4,D,19881204,2,201025,,,Neige Dias,U,,BRA,21.9986310746,202087,,,Reeka Szikszay,U,,HUN,23.3374401095,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,31,27,386,0
 1988-D050,Fed Cup WG R1: CAN vs KOR,,4,D,19881204,1,200543,,,Jill Hetherington,U,,CAN,24.1040383299,202045,,,Il Soon Kim,U,,KOR,19.8603696099,3-6 6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,81,10,,
-1988-D050,Fed Cup WG R1: CAN vs KOR,,4,D,19881204,2,200472,,,Helen Kelesi,U,,CAN,19.0527036277,212694,,,Mal Sim Park,,,KOR,23.3894592745,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,19,40,,
+1988-D050,Fed Cup WG R1: CAN vs KOR,,4,D,19881204,2,200472,,,Helen Kelesi,U,,CAN,19.0527036277,212694,,,Mal Sim Park,U,,KOR,23.3894592745,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,19,40,,
 1988-D051,Fed Cup WG ConR: KOR vs JPN,,4,D,19881204,1,200644,,,Naoko Sawamatsu,U,,JPN,15.7015742642,202517,,,Jeong Myung Lee,U,,KOR,21.2402464066,7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-1988-D051,Fed Cup WG ConR: KOR vs JPN,,4,D,19881204,2,212694,,,Mal Sim Park,,,KOR,23.3894592745,200424,,,Etsuko Inoue,U,,JPN,24.128678987,6-4 2-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,52,17
+1988-D051,Fed Cup WG ConR: KOR vs JPN,,4,D,19881204,2,212694,,,Mal Sim Park,U,,KOR,23.3894592745,200424,,,Etsuko Inoue,U,,JPN,24.128678987,6-4 2-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,52,17
 1988-D052,Fed Cup WG R2: CAN vs FIN,,4,D,19881204,1,200543,,,Jill Hetherington,U,,CAN,24.1040383299,201985,,,Anne Aallonen,U,,HKG,21.3908281999,6-1 7-6(6),3,RR,,,,,,,,,,,,,,,,,,,,81,10,289,1
 1988-D052,Fed Cup WG R2: CAN vs FIN,,4,D,19881204,2,200472,,,Helen Kelesi,U,,CAN,19.0527036277,200623,,,Petra Thoren,U,,FIN,19.3237508556,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,19,40,330,0
 1988-D053,Fed Cup WG R1: ITA vs POL,,4,D,19881204,1,201051,,,Laura Lapi,U,,ITA,18.2340862423,200710,,,Magdalena Feistel,U,,POL,18.2861054073,6-1 7-6(2),3,RR,,,,,,,,,,,,,,,,,,,,92,9,,
 1988-D053,Fed Cup WG R1: ITA vs POL,,4,D,19881204,2,200687,,,Katarzyna Nowak,U,,POL,19.8904859685,201021,,,Laura Garrone,U,,ITA,21.054072553,0-6 6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,258,1,63,13
-1988-D054,Fed Cup WG ConR: NED vs YUG,,4,D,19881204,1,200485,,,Manon Bollegraf,U,,NED,24.6516084873,212788,,,Tanja Cerne,,,YUG,17.6536618754,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,119,7,,
+1988-D054,Fed Cup WG ConR: NED vs YUG,,4,D,19881204,1,200485,,,Manon Bollegraf,U,,NED,24.6516084873,212788,,,Tanja Cerne,U,,YUG,17.6536618754,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,119,7,,
 1988-D054,Fed Cup WG ConR: NED vs YUG,,4,D,19881204,2,200554,,,Brenda Schultz Mccarthy,R,,NED,17.9356605065,201904,,,Karmen Skulj,U,,YUG,21.0266940452,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,40,24,,
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,1,200601,,Q,Leila Meskhi,U,,GEO,20.7091033539,200605,,,Regina Rajchrtova,U,,TCH,20.6242299795,7-5 7-5,3,R64,,,,,,,,,,,,,,,,,,,,35,23,145,5
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,2,200415,,LL,Catherine Suire,U,,FRA,29.015742642,200653,,,Yayuk Basuki,R,,INA,17.8069815195,6-3 3-6 6-0,3,R64,,,,,,,,,,,,,,,,,,,,123,6,326,0
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,3,200443,,,Sara Gomer,U,,GBR,24.3559206023,200462,,,Belinda Cordwell,U,,NZL,22.9979466119,4-6 7-5 6-2,3,R64,,,,,,,,,,,,,,,,,,,,48,18,56,15
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,4,202045,,,Il Soon Kim,U,,KOR,19.6550308008,200424,,WC,Etsuko Inoue,U,,JPN,23.923340178,6-3 3-6 7-5,3,R64,,,,,,,,,,,,,,,,,,,,385,0,42,21
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,5,200543,,,Jill Hetherington,U,,CAN,23.8986995209,202187,,Q,Ilana Berger,U,,ISR,22.7214236824,6-1 6-4,3,R64,,,,,,,,,,,,,,,,,,,,93,9,299,1
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,6,200590,,Q,Gisele Miro,U,,BRA,19.8850102669,200472,,,Helen Kelesi,U,,CAN,18.8473648186,7-5 7-5,3,R64,,,,,,,,,,,,,,,,,,,,137,6,22,37
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,7,200539,,,Jana Novotna,R,,CZE,19.9671457906,200621,,Q,Isabelle Demongeot,U,,FRA,22.006844627,6-4 6-3,3,R64,,,,,,,,,,,,,,,,,,,,46,19,43,20
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,8,200604,,Q,Barbara Paulus,U,,AUT,18.0533880903,200674,,,Bettina Fulco Villella,R,,ARG,19.909650924,7-6(5) 6-4,3,R64,,,,,,,,,,,,,,,,,,,,34,25,26,32
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,9,200346,,,Anne Minter,U,,AUS,25.4674880219,201890,,Q,Xochitl Escobedo,U,,MEX,20.0082135524,6-1 6-3,3,R64,,,,,,,,,,,,,,,,,,,,29,28,,
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,10,200209,,,Wendy Turnbull,U,,AUS,35.8165639973,200542,,,Clare Wood,R,,GBR,20.5366187543,6-1 6-3,3,R64,,,,,,,,,,,,,,,,,,,,66,12,158,4
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,11,200452,,,Tine Scheuer Larsen,U,,DEN,22.5242984257,202519,,,Ouarda Bouchabou,U,,ALG,18.3080082136,6-0 6-1,3,R64,,,,,,,,,,,,,,,,,,,,161,4,,
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,12,200628,,,Sabrina Goles,U,,YUG,23.2991101985,200017,,,Arantxa Sanchez Vicario,R,,ESP,16.758384668,6-4 6-2,3,R64,,,,,,,,,,,,,,,,,,,,44,19,20,39
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,13,200640,,,Mercedes Paz,U,,ARG,22.2340862423,200523,,Q,Olga Tsarbopoulou,U,,GRE,20.2546201232,7-6(7) 6-3,3,R64,,,,,,,,,,,,,,,,,,,,54,16,122,6
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,14,200453,,WC,Catarina Lindqvist Ryan,U,,SWE,25.273100616,200483,,Q,Kumiko Okamoto,U,,JPN,23.5838466804,7-6(3) 7-5,3,R64,,,,,,,,,,,,,,,,,,,,31,27,187,3
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,15,200097,,,Nathalie Tauziat,R,,FRA,20.9281314168,200423,,,Carling Bassett Seguso,U,,CAN,20.9500342231,7-6(5) 6-1,3,R64,,,,,,,,,,,,,,,,,,,,27,31,143,5
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,16,200422,,,Raffaella Reggi Concato,U,,ITA,22.8145106092,200362,,,Liz Smylie,U,,AUS,25.4455852156,7-6(3) 6-0,3,R64,,,,,,,,,,,,,,,,,,,,24,33,168,4
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,17,200414,1,,Steffi Graf,R,,GER,19.2689938398,200601,,Q,Leila Meskhi,U,,GEO,20.7091033539,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1,316,35,23
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,18,200415,,LL,Catherine Suire,U,,FRA,29.015742642,202517,,Q,Jeong Myung Lee,U,,KOR,21.0349075975,7-5 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,123,6,,
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,19,200450,11,,Larisa Savchenko,U,,URS,22.1683778234,200443,,,Sara Gomer,U,,GBR,24.3559206023,6-7(3) 7-6(3) 9-7,3,R32,,,,,,,,,,,,,,,,,,,,17,44,48,18
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,20,202045,,,Il Soon Kim,U,,KOR,19.6550308008,200377,5,,Helena Sukova,R,,CZE,23.5728952772,6-2 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,385,0,6,81
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,21,200360,4,,Pam Shriver,R,,USA,26.2149212868,200543,,,Jill Hetherington,U,,CAN,23.8986995209,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,5,126,93,9
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,22,200455,10,,Katerina Maleeva,U,,BUL,19.3730321697,200590,,Q,Gisele Miro,U,,BRA,19.8850102669,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,13,55,137,6
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,23,200604,,Q,Barbara Paulus,U,,AUT,18.0533880903,200539,,,Jana Novotna,R,,CZE,19.9671457906,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,34,25,46,19
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,24,200404,8,,Zina Garrison,U,,USA,24.8459958932,202518,,Q,Claudia Hernandez Salas,U,,MEX,22.6694045175,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,9,64,335,0
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,25,200116,6,,Natalia Zvereva,R,,BLR,17.4318959617,200346,,,Anne Minter,U,,AUS,25.4674880219,6-4 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,7,78,29,28
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,26,200452,,,Tine Scheuer Larsen,U,,DEN,22.5242984257,200209,,,Wendy Turnbull,U,,AUS,35.8165639973,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,161,4,66,12
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,27,200366,12,,Sylvia Hanika,U,,GER,28.8076659822,202520,,Q,Julia Muir,U,,ZIM,17.8453114305,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,18,42,,
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,28,200572,3,,Gabriela Sabatini,R,,ARG,18.3490759754,200628,,,Sabrina Goles,U,,YUG,23.2991101985,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,4,161,44,19
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,29,200401,7,,Manuela Maleeva Fragniere,R,,SUI,21.5989048597,200640,,,Mercedes Paz,U,,ARG,22.2340862423,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,8,78,54,16
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,30,200453,,WC,Catarina Lindqvist Ryan,U,,SWE,25.273100616,200097,,,Nathalie Tauziat,R,,FRA,20.9281314168,2-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,31,27,27,31
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,31,200422,,,Raffaella Reggi Concato,U,,ITA,22.8145106092,200354,9,,Claudia Kohde Kilsch,R,,GER,24.7775496235,4-6 7-6(6) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,24,33,12,58
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,32,200259,2,,Chris Evert,R,,USA,33.749486653,200725,,WC,Sandra Cecchini,U,,ITA,23.5619438741,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,3,170,19,41
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,33,200414,1,,Steffi Graf,R,,GER,19.2689938398,200415,,LL,Catherine Suire,U,,FRA,29.015742642,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1,316,123,6
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,34,200450,11,,Larisa Savchenko,U,,URS,22.1683778234,202045,,,Il Soon Kim,U,,KOR,19.6550308008,6-3 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,17,44,385,0
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,35,200360,4,,Pam Shriver,R,,USA,26.2149212868,200455,10,,Katerina Maleeva,U,,BUL,19.3730321697,6-3 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,5,126,13,55
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,36,200404,8,,Zina Garrison,U,,USA,24.8459958932,200604,,Q,Barbara Paulus,U,,AUT,18.0533880903,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,9,64,34,25
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,37,200116,6,,Natalia Zvereva,R,,BLR,17.4318959617,200452,,,Tine Scheuer Larsen,U,,DEN,22.5242984257,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,7,78,161,4
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,38,200572,3,,Gabriela Sabatini,R,,ARG,18.3490759754,200366,12,,Sylvia Hanika,U,,GER,28.8076659822,1-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,4,161,18,42
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,39,200401,7,,Manuela Maleeva Fragniere,R,,SUI,21.5989048597,200453,,WC,Catarina Lindqvist Ryan,U,,SWE,25.273100616,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,8,78,31,27
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,40,200422,,,Raffaella Reggi Concato,U,,ITA,22.8145106092,200259,2,,Chris Evert,R,,USA,33.749486653,2-6 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,24,33,3,170
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,41,200414,1,,Steffi Graf,R,,GER,19.2689938398,200450,11,,Larisa Savchenko,U,,URS,22.1683778234,6-2 4-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,1,316,17,44
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,42,200404,8,,Zina Garrison,U,,USA,24.8459958932,200360,4,,Pam Shriver,R,,USA,26.2149212868,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,9,64,5,126
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,43,200572,3,,Gabriela Sabatini,R,,ARG,18.3490759754,200116,6,,Natalia Zvereva,R,,BLR,17.4318959617,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,4,161,7,78
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,44,200401,7,,Manuela Maleeva Fragniere,R,,SUI,21.5989048597,200422,,,Raffaella Reggi Concato,U,,ITA,22.8145106092,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,8,78,24,33
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,45,200414,1,,Steffi Graf,R,,GER,19.2689938398,200404,8,,Zina Garrison,U,,USA,24.8459958932,6-2 6-0,3,SF,,,,,,,,,,,,,,,,,,,,1,316,9,64
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,46,200572,3,,Gabriela Sabatini,R,,ARG,18.3490759754,200401,7,,Manuela Maleeva Fragniere,R,,SUI,21.5989048597,6-1 6-1,3,SF,,,,,,,,,,,,,,,,,,,,4,161,8,78
-1988-W-OL-KOR-01A-1988,Seoul,Hard,48,O,19880920,47,200414,1,,Steffi Graf,R,,GER,19.2689938398,200572,3,,Gabriela Sabatini,R,,ARG,18.3490759754,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,1,316,4,161
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,1,200601,,Q,Leila Meskhi,U,,GEO,20.7091033539,200605,,,Regina Rajchrtova,U,,TCH,20.6242299795,7-5 7-5,3,R64,,,,,,,,,,,,,,,,,,,,35,23,145,5
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,2,200415,,LL,Catherine Suire,U,,FRA,29.015742642,200653,,,Yayuk Basuki,R,,INA,17.8069815195,6-3 3-6 6-0,3,R64,,,,,,,,,,,,,,,,,,,,123,6,326,0
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,3,200443,,,Sara Gomer,U,,GBR,24.3559206023,200462,,,Belinda Cordwell,U,,NZL,22.9979466119,4-6 7-5 6-2,3,R64,,,,,,,,,,,,,,,,,,,,48,18,56,15
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,4,202045,,,Il Soon Kim,U,,KOR,19.6550308008,200424,,WC,Etsuko Inoue,U,,JPN,23.923340178,6-3 3-6 7-5,3,R64,,,,,,,,,,,,,,,,,,,,385,0,42,21
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,5,200543,,,Jill Hetherington,U,,CAN,23.8986995209,202187,,Q,Ilana Berger,U,,ISR,22.7214236824,6-1 6-4,3,R64,,,,,,,,,,,,,,,,,,,,93,9,299,1
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,6,200590,,Q,Gisele Miro,U,,BRA,19.8850102669,200472,,,Helen Kelesi,U,,CAN,18.8473648186,7-5 7-5,3,R64,,,,,,,,,,,,,,,,,,,,137,6,22,37
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,7,200539,,,Jana Novotna,R,,CZE,19.9671457906,200621,,Q,Isabelle Demongeot,U,,FRA,22.006844627,6-4 6-3,3,R64,,,,,,,,,,,,,,,,,,,,46,19,43,20
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,8,200604,,Q,Barbara Paulus,U,,AUT,18.0533880903,200674,,,Bettina Fulco Villella,R,,ARG,19.909650924,7-6(5) 6-4,3,R64,,,,,,,,,,,,,,,,,,,,34,25,26,32
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,9,200346,,,Anne Minter,U,,AUS,25.4674880219,201890,,Q,Xochitl Escobedo,U,,MEX,20.0082135524,6-1 6-3,3,R64,,,,,,,,,,,,,,,,,,,,29,28,,
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,10,200209,,,Wendy Turnbull,U,,AUS,35.8165639973,200542,,,Clare Wood,R,,GBR,20.5366187543,6-1 6-3,3,R64,,,,,,,,,,,,,,,,,,,,66,12,158,4
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,11,200452,,,Tine Scheuer Larsen,U,,DEN,22.5242984257,202519,,,Ouarda Bouchabou,U,,ALG,18.3080082136,6-0 6-1,3,R64,,,,,,,,,,,,,,,,,,,,161,4,,
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,12,200628,,,Sabrina Goles,U,,YUG,23.2991101985,200017,,,Arantxa Sanchez Vicario,R,,ESP,16.758384668,6-4 6-2,3,R64,,,,,,,,,,,,,,,,,,,,44,19,20,39
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,13,200640,,,Mercedes Paz,U,,ARG,22.2340862423,200523,,Q,Olga Tsarbopoulou,U,,GRE,20.2546201232,7-6(7) 6-3,3,R64,,,,,,,,,,,,,,,,,,,,54,16,122,6
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,14,200453,,WC,Catarina Lindqvist Ryan,U,,SWE,25.273100616,200483,,Q,Kumiko Okamoto,U,,JPN,23.5838466804,7-6(3) 7-5,3,R64,,,,,,,,,,,,,,,,,,,,31,27,187,3
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,15,200097,,,Nathalie Tauziat,R,,FRA,20.9281314168,200423,,,Carling Bassett Seguso,U,,CAN,20.9500342231,7-6(5) 6-1,3,R64,,,,,,,,,,,,,,,,,,,,27,31,143,5
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,16,200422,,,Raffaella Reggi Concato,U,,ITA,22.8145106092,200362,,,Liz Smylie,U,,AUS,25.4455852156,7-6(3) 6-0,3,R64,,,,,,,,,,,,,,,,,,,,24,33,168,4
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,17,200414,1,,Steffi Graf,R,,GER,19.2689938398,200601,,Q,Leila Meskhi,U,,GEO,20.7091033539,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1,316,35,23
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,18,200415,,LL,Catherine Suire,U,,FRA,29.015742642,202517,,Q,Jeong Myung Lee,U,,KOR,21.0349075975,7-5 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,123,6,,
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,19,200450,11,,Larisa Savchenko,U,,URS,22.1683778234,200443,,,Sara Gomer,U,,GBR,24.3559206023,6-7(3) 7-6(3) 9-7,3,R32,,,,,,,,,,,,,,,,,,,,17,44,48,18
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,20,202045,,,Il Soon Kim,U,,KOR,19.6550308008,200377,5,,Helena Sukova,R,,CZE,23.5728952772,6-2 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,385,0,6,81
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,21,200360,4,,Pam Shriver,R,,USA,26.2149212868,200543,,,Jill Hetherington,U,,CAN,23.8986995209,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,5,126,93,9
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,22,200455,10,,Katerina Maleeva,U,,BUL,19.3730321697,200590,,Q,Gisele Miro,U,,BRA,19.8850102669,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,13,55,137,6
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,23,200604,,Q,Barbara Paulus,U,,AUT,18.0533880903,200539,,,Jana Novotna,R,,CZE,19.9671457906,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,34,25,46,19
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,24,200404,8,,Zina Garrison,U,,USA,24.8459958932,202518,,Q,Claudia Hernandez Salas,U,,MEX,22.6694045175,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,9,64,335,0
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,25,200116,6,,Natalia Zvereva,R,,BLR,17.4318959617,200346,,,Anne Minter,U,,AUS,25.4674880219,6-4 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,7,78,29,28
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,26,200452,,,Tine Scheuer Larsen,U,,DEN,22.5242984257,200209,,,Wendy Turnbull,U,,AUS,35.8165639973,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,161,4,66,12
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,27,200366,12,,Sylvia Hanika,U,,GER,28.8076659822,202520,,Q,Julia Muir,U,,ZIM,17.8453114305,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,18,42,,
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,28,200572,3,,Gabriela Sabatini,R,,ARG,18.3490759754,200628,,,Sabrina Goles,U,,YUG,23.2991101985,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,4,161,44,19
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,29,200401,7,,Manuela Maleeva Fragniere,R,,SUI,21.5989048597,200640,,,Mercedes Paz,U,,ARG,22.2340862423,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,8,78,54,16
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,30,200453,,WC,Catarina Lindqvist Ryan,U,,SWE,25.273100616,200097,,,Nathalie Tauziat,R,,FRA,20.9281314168,2-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,31,27,27,31
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,31,200422,,,Raffaella Reggi Concato,U,,ITA,22.8145106092,200354,9,,Claudia Kohde Kilsch,R,,GER,24.7775496235,4-6 7-6(6) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,24,33,12,58
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,32,200259,2,,Chris Evert,R,,USA,33.749486653,200725,,WC,Sandra Cecchini,U,,ITA,23.5619438741,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,3,170,19,41
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,33,200414,1,,Steffi Graf,R,,GER,19.2689938398,200415,,LL,Catherine Suire,U,,FRA,29.015742642,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1,316,123,6
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,34,200450,11,,Larisa Savchenko,U,,URS,22.1683778234,202045,,,Il Soon Kim,U,,KOR,19.6550308008,6-3 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,17,44,385,0
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,35,200360,4,,Pam Shriver,R,,USA,26.2149212868,200455,10,,Katerina Maleeva,U,,BUL,19.3730321697,6-3 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,5,126,13,55
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,36,200404,8,,Zina Garrison,U,,USA,24.8459958932,200604,,Q,Barbara Paulus,U,,AUT,18.0533880903,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,9,64,34,25
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,37,200116,6,,Natalia Zvereva,R,,BLR,17.4318959617,200452,,,Tine Scheuer Larsen,U,,DEN,22.5242984257,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,7,78,161,4
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,38,200572,3,,Gabriela Sabatini,R,,ARG,18.3490759754,200366,12,,Sylvia Hanika,U,,GER,28.8076659822,1-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,4,161,18,42
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,39,200401,7,,Manuela Maleeva Fragniere,R,,SUI,21.5989048597,200453,,WC,Catarina Lindqvist Ryan,U,,SWE,25.273100616,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,8,78,31,27
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,40,200422,,,Raffaella Reggi Concato,U,,ITA,22.8145106092,200259,2,,Chris Evert,R,,USA,33.749486653,2-6 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,24,33,3,170
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,41,200414,1,,Steffi Graf,R,,GER,19.2689938398,200450,11,,Larisa Savchenko,U,,URS,22.1683778234,6-2 4-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,1,316,17,44
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,42,200404,8,,Zina Garrison,U,,USA,24.8459958932,200360,4,,Pam Shriver,R,,USA,26.2149212868,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,9,64,5,126
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,43,200572,3,,Gabriela Sabatini,R,,ARG,18.3490759754,200116,6,,Natalia Zvereva,R,,BLR,17.4318959617,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,4,161,7,78
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,44,200401,7,,Manuela Maleeva Fragniere,R,,SUI,21.5989048597,200422,,,Raffaella Reggi Concato,U,,ITA,22.8145106092,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,8,78,24,33
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,45,200414,1,,Steffi Graf,R,,GER,19.2689938398,200404,8,,Zina Garrison,U,,USA,24.8459958932,6-2 6-0,3,SF,,,,,,,,,,,,,,,,,,,,1,316,9,64
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,46,200572,3,,Gabriela Sabatini,R,,ARG,18.3490759754,200401,7,,Manuela Maleeva Fragniere,R,,SUI,21.5989048597,6-1 6-1,3,SF,,,,,,,,,,,,,,,,,,,,4,161,8,78
+1988-W-OL-KOR-01A-1988,Seoul Olympics,Hard,48,O,19880920,47,200414,1,,Steffi Graf,R,,GER,19.2689938398,200572,3,,Gabriela Sabatini,R,,ARG,18.3490759754,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,1,316,4,161
 1988-W-SL-AUS-01A-1988,Australian Open,Hard,128,G,19880111,1,200414,1,,Steffi Graf,R,,GER,18.5763175907,200511,,,Amy Jonsson Raaholt,U,,NOR,20.5941136208,6-3 6-1,3,R128,,,,,,,,,,,,,,,,,,,,1,280,178,2
 1988-W-SL-AUS-01A-1988,Australian Open,Hard,128,G,19880111,2,200467,,,Janine Tremelling,U,,AUS,20.3312799452,200512,,WC,Clare Thompson,U,,AUS,24.5886379192,6-0 4-6 6-4,3,R128,,,,,,,,,,,,,,,,,,,,97,8,,
 1988-W-SL-AUS-01A-1988,Australian Open,Hard,128,G,19880111,3,200514,,,Monique Javer,R,,GBR,20.4736481862,200513,,Q,Pamela Jung,U,,USA,24.5256673511,6-3 4-6 6-3,3,R128,,,,,,,,,,,,,,,,,,,,161,3,276,0
@@ -281,133 +281,133 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1988-W-SL-AUS-01A-1988,Australian Open,Hard,128,G,19880111,125,200414,1,,Steffi Graf,R,,GER,18.5763175907,200354,8,,Claudia Kohde Kilsch,R,,GER,24.0848733744,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,1,280,10,65
 1988-W-SL-AUS-01A-1988,Australian Open,Hard,128,G,19880111,126,200259,3,,Chris Evert,R,,USA,33.0568104038,200293,2,,Martina Navratilova,L,173,USA,31.2306639288,6-2 7-5,3,SF,,,,,,,,,,,,,,,,,,,,3,165,2,231
 1988-W-SL-AUS-01A-1988,Australian Open,Hard,128,G,19880111,127,200414,1,,Steffi Graf,R,,GER,18.5763175907,200259,3,,Chris Evert,R,,USA,33.0568104038,6-1 7-6(3),3,F,,,,,,,,,,,,,,,,,,,,1,280,3,165
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,1,200414,1,,Steffi Graf,R,,GER,18.9404517454,200565,,wc,Nathalie Guerree Spitzer,U,,FRA,19.8767967146,6-0 6-4,3,R128,,,,,,,,,,,,,,,,,,,,1,287,224,1
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,2,200591,,,Ronni Reis,U,,USA,22.0369609856,201031,,,Niurka Sodupe,U,,USA,19.0937713895,6-3 6-3,3,R128,,,,,,,,,,,,,,,,,,,,185,2,139,5
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,3,200384,,,Eva Pfaff,U,,GER,27.279945243,200041,,,Amy Frazier,R,,USA,15.6741957563,6-3 6-2,3,R128,,,,,,,,,,,,,,,,,,,,62,13,120,6
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,4,200673,,,Susan Sloane Lundy,R,,USA,17.4647501711,200407,,,Camille Benjamin,U,,USA,21.9739904175,6-2 0-6 6-1,3,R128,,,,,,,,,,,,,,,,,,,,106,8,87,10
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,5,200439,,,Jenny Byrne,U,,AUS,21.2402464066,200421,,,Pascale Paradis Mangon,R,,FRA,22.0807665982,6-1 1-6 6-4,3,R128,,,,,,,,,,,,,,,,,,,,146,4,52,16
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,6,200494,,,Dianne Van Rensburg,U,,RSA,20.219028063,200419,,,Kathy Rinaldi Stunkel,U,,USA,21.1663244353,4-6 7-5 7-5,3,R128,,,,,,,,,,,,,,,,,,,,91,9,,
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,7,200097,,,Nathalie Tauziat,R,,FRA,20.5995893224,200485,,,Manon Bollegraf,U,,NED,24.1177275838,6-3 6-2,3,R128,,,,,,,,,,,,,,,,,,,,29,27,96,8
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,8,201040,,LL,Luciana Corsato Owsianka,U,,BRA,22.3353867214,200589,,,Halle Cioffi,U,,USA,18.7980835044,6-0 6-4,3,R128,,,,,,,,,,,,,,,,,,,,217,2,38,21
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,9,200428,9,,Lori Mcneil,U,,USA,24.4298425736,200694,,,Elly Hakami,U,,USA,18.7433264887,6-3 6-2,3,R128,,,,,,,,,,,,,,,,,,,,10,58,34,23
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,10,200359,,,Christiane Jolissaint,U,,SUI,26.6940451745,201041,,,Cristina Casale,U,,ITA,15.3319644079,6-7(5) 6-1 6-1,3,R128,,,,,,,,,,,,,,,,,,,,121,6,,
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,11,200452,,,Tine Scheuer Larsen,U,,DEN,22.1957563313,200415,,,Catherine Suire,U,,FRA,28.6872005476,6-3 6-2,3,R128,,,,,,,,,,,,,,,,,,,,127,6,115,7
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,12,200049,,Q,Conchita Martinez,R,170,ESP,16.1013004791,200021,,,Alexia Dechaume Balleret,R,,FRA,18.0561259411,6-0 6-2,3,R128,,,,,,,,,,,,,,,,,,,,279,1,90,9
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,13,200530,,,Radomira Zrubakova,R,,SVK,17.4072553046,200514,,,Monique Javer,R,,GBR,20.8377823409,6-0 6-0,3,R128,,,,,,,,,,,,,,,,,,,,56,15,97,8
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,14,200641,,,Patricia Tarabini,R,,ARG,19.794661191,200539,,,Jana Novotna,R,,CZE,19.6386036961,1-6 6-3 6-2,3,R128,,,,,,,,,,,,,,,,,,,,36,22,33,23
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,15,200674,,,Bettina Fulco Villella,R,,ARG,19.5811088296,200527,,Q,Maria Christine Damas,U,,FRA,21.453798768,6-0 6-2,3,R128,,,,,,,,,,,,,,,,,,,,37,21,231,1
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,16,200348,8,,Hana Mandlikova,R,,AUS,26.2559890486,200429,,,Elizabeth Minter,U,,AUS,22.7488021903,6-2 6-1,3,R128,,,,,,,,,,,,,,,,,,,,8,62,104,8
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,17,200572,4,,Gabriela Sabatini,R,,ARG,18.0205338809,200532,,WC,Maider Laval,U,,FRA,18.0150581793,6-1 7-5,3,R128,,,,,,,,,,,,,,,,,,,,5,138,207,2
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,18,201038,,,Karen Schimper,U,,RSA,20.9938398357,200552,,,Maria Lindstrom,U,,SWE,25.2128678987,6-7(4) 6-3 6-1,3,R128,,,,,,,,,,,,,,,,,,,,75,11,113,7
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,19,200959,,,Mareen Louie Harper,R,,USA,27.7700205339,200465,,,Lisa Bonder Kreiss,R,,USA,22.6009582478,1-6 6-3 6-4,3,R128,,,,,,,,,,,,,,,,,,,,54,16,89,9
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,20,200456,,,Masako Yanagi,U,,JPN,28.5311430527,200498,,,Michelle Jaggard Lai,U,,AUS,19.0472279261,6-3 6-3,3,R128,,,,,,,,,,,,,,,,,,,,131,5,116,7
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,21,201030,,,Mariana Perez Roldan,U,,ARG,20.6269678303,200405,,,Susan Mascarin,U,,USA,23.9014373717,7-6(2) 4-6 6-4,3,R128,,,,,,,,,,,,,,,,,,,,55,15,135,5
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,22,200554,,,Brenda Schultz Mccarthy,R,,NED,17.401779603,200547,,,Sandra Wasserman,U,,BEL,18.2039698836,7-5 6-0,3,R128,,,,,,,,,,,,,,,,,,,,49,17,81,10
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,23,200625,,Q,Jana Pospisilova,U,,CZE,18.1683778234,200357,,,Rosalyn Nideffer,R,,USA,27.5537303217,7-6(3) 7-6(3),3,R128,,,,,,,,,,,,,,,,,,,,161,3,43,19
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,24,200725,14,,Sandra Cecchini,U,,ITA,23.2334017796,200483,,,Kumiko Okamoto,U,,JPN,23.2553045859,6-1 6-3,3,R128,,,,,,,,,,,,,,,,,,,,19,41,145,4
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,25,200422,12,,Raffaella Reggi Concato,U,,ITA,22.4859685147,200628,,,Sabrina Goles,U,,YUG,22.970568104,6-4 6-2,3,R128,,,,,,,,,,,,,,,,,,,,16,43,45,19
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,26,200582,,Q,Maria Strandlund Tomsvik,U,,SWE,18.765229295,200491,,,Christina Singer,U,,GER,19.8220396988,1-6 6-2 6-2,3,R128,,,,,,,,,,,,,,,,,,,,216,2,101,8
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,27,200522,,LL,Nicole Krijger Jagerman,U,,NED,20.8350444901,200340,,,Marcella Mesker,U,,NED,29.0020533881,6-3 6-1,3,R128,,,,,,,,,,,,,,,,,,,,153,4,138,5
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,28,200112,,,Julie Halard Decugis,R,,FRA,17.7002053388,200590,,,Gisele Miro,U,,BRA,19.5564681725,6-3 6-2,3,R128,,,,,,,,,,,,,,,,,,,,51,16,117,7
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,29,200472,,,Helen Kelesi,U,,CAN,18.5188227242,200370,,WC,Marie Christine Calleja,U,,FRA,24.3559206023,4-6 6-2 6-4,3,R128,,,,,,,,,,,,,,,,,,,,25,30,150,4
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,30,200457,,,Andrea Holikova,U,,TCH,20.3531827515,200576,,,Nathalie Herreman,U,,FRA,22.1546885695,6-2 6-2,3,R128,,,,,,,,,,,,,,,,,,,,118,6,59,15
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,31,200705,,,Linda Ferrando,U,,ITA,22.3600273785,200585,,,Kathy Horvath,U,,USA,22.7433264887,6-2 2-6 6-3,3,R128,,,,,,,,,,,,,,,,,,,,79,10,39,21
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,32,200401,5,,Manuela Maleeva Fragniere,R,,SUI,21.2703627652,201020,,,Petra Huber,U,,AUT,22.2669404517,6-3 6-1,3,R128,,,,,,,,,,,,,,,,,,,,6,89,105,8
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,33,200354,7,,Claudia Kohde Kilsch,R,,GER,24.4490075291,201017,,,Angelika Kanellopoulou,R,,GRE,22.4284736482,6-2 6-4,3,R128,,,,,,,,,,,,,,,,,,,,9,62,99,8
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,34,200586,,,Federica Bonsignori,U,,ITA,20.5065023956,200468,,,Hu Na,U,,USA,25.1033538672,5-7 6-4 6-3,3,R128,,,,,,,,,,,,,,,,,,,,73,12,63,13
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,35,200469,,,Nicole Bradtke,U,,AUS,18.6666666667,200519,,WC,Sybille Niox Chateau,U,,FRA,18.5927446954,6-0 6-3,3,R128,,,,,,,,,,,,,,,,,,,,53,16,164,3
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,36,200550,,WC,Emmanuelle Derly,U,,FRA,18.0643394935,200460,,,Regina Marsikova,U,,CZE,29.4483230664,6-2 6-2,3,R128,,,,,,,,,,,,,,,,,,,,140,5,132,5
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,37,200506,,,Wiltrud Probst,R,,GER,18.984257358,200651,,Q,Sabine Hack,U,,GER,18.8637919233,6-4 6-1,3,R128,,,,,,,,,,,,,,,,,,,,68,12,255,1
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,38,200621,,,Isabelle Demongeot,U,,FRA,21.6783025325,200495,,,Akiko Kijimuta,U,,JPN,20.0602327173,4-6 6-3 6-2,3,R128,,,,,,,,,,,,,,,,,,,,35,23,76,11
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,39,200593,,WC,Karine Quentrec,U,,FRA,18.5872689938,200447,,,Adriana Villagran Reami,U,,ARG,31.7919233402,2-6 6-3 6-3,3,R128,,,,,,,,,,,,,,,,,,,,202,2,102,8
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,40,200366,15,,Sylvia Hanika,U,,GER,28.4791238877,200480,,,Claudia Porwik,U,,GER,19.5208761123,6-1 6-3,3,R128,,,,,,,,,,,,,,,,,,,,14,45,70,12
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,41,200395,,,Catherine Tanvier,U,,FRA,22.9869952088,200455,11,,Katerina Maleeva,U,,BUL,19.0444900753,6-4 7-5,3,R128,,,,,,,,,,,,,,,,,,,,133,5,12,49
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,42,200564,,,Hester Witvoet,U,,NED,20.8788501027,201042,,Q,Andrea Tiezzi,U,,ARG,23.4880219028,7-6(6) 6-3,3,R128,,,,,,,,,,,,,,,,,,,,95,9,229,1
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,43,200392,,,Jo Durie,R,,GBR,27.8220396988,200496,,,Terry Phelps,U,,USA,21.4291581109,7-6(3) 6-2,3,R128,,,,,,,,,,,,,,,,,,,,80,10,65,12
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,44,200481,,,Elna Reinach,U,,RSA,19.4715947981,200423,,,Carling Bassett Seguso,U,,CAN,20.6214921287,6-3 6-0,3,R128,,,,,,,,,,,,,,,,,,,,47,18,114,7
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,45,200587,,,Silke Meier,U,,GER,19.8603696099,200346,,,Anne Minter,U,,AUS,25.1389459274,6-1 6-3,3,R128,,,,,,,,,,,,,,,,,,,,92,9,27,28
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,46,200017,,,Arantxa Sanchez Vicario,R,,ESP,16.4298425736,200594,,,Iwona Kuczynska,U,,POL,27.2470910335,6-2 6-0,3,R128,,,,,,,,,,,,,,,,,,,,22,33,71,12
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,47,201043,,Q,Barbara Romano,U,,ITA,23.3538672142,200571,,Q,Jonna Jonerup,U,,SWE,18.8364134155,6-2 6-0,3,R128,,,,,,,,,,,,,,,,,,,,142,4,203,2
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,48,200259,3,,Chris Evert,R,,USA,33.4209445585,200482,,,Judith Wiesner,R,,AUT,22.2258726899,6-1 6-4,3,R128,,,,,,,,,,,,,,,,,,,,4,162,26,28
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,49,200377,6,,Helena Sukova,R,,CZE,23.2443531828,200650,,,Isabel Cueto,U,,GER,19.4688569473,6-2 6-0,3,R128,,,,,,,,,,,,,,,,,,,,7,88,31,26
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,50,200037,,LL,Sabine Appelmans,L,,BEL,16.0848733744,200444,,,Elise Burgin,U,,USA,26.2176591376,6-4 6-7(4) 6-0,3,R128,,,,,,,,,,,,,,,,,,,,218,2,84,10
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,51,200640,,,Mercedes Paz,U,,ARG,21.9055441478,200453,,,Catarina Lindqvist Ryan,U,,SWE,24.9445585216,5-7 6-4 6-3,3,R128,,,,,,,,,,,,,,,,,,,,67,12,24,31
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,52,200566,,,Donna Faber,U,,USA,16.8843258042,201044,,WC,Catherine Mothes Jobkel,U,,FRA,17.9603011636,6-0 6-4,3,R128,,,,,,,,,,,,,,,,,,,,141,5,334,0
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,53,201021,,,Laura Garrone,U,,ITA,20.5201916496,200557,,,Katrina Adams,U,,USA,19.7973990418,7-5 1-6 6-3,3,R128,,,,,,,,,,,,,,,,,,,,66,12,122,6
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,54,200994,,,Michelle Torres,U,,USA,20.9062286105,201045,,,Natalia Egorova,U,,RUS,21.6919917864,6-1 6-2,3,R128,,,,,,,,,,,,,,,,,,,,85,10,88,9
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,55,200398,,,Iva Budarova,U,,TCH,27.8110882957,201025,,,Neige Dias,U,,BRA,21.4647501711,6-7(6) 6-3 7-5,3,R128,,,,,,,,,,,,,,,,,,,,130,5,44,19
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,56,200404,10,,Zina Garrison,U,,USA,24.5174537988,200664,,,Stephanie Rehe,U,,USA,18.546201232,6-2 4-6 6-1,3,R128,,,,,,,,,,,,,,,,,,,,11,54,21,37
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,57,200116,13,,Natalia Zvereva,R,,BLR,17.1033538672,200584,,,Laura Golarsa,R,,ITA,20.4873374401,7-6(5) 6-0,3,R128,,,,,,,,,,,,,,,,,,,,15,44,94,9
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,58,200441,,,Louise Field,U,,AUS,21.2402464066,200526,,,Carol Christian,U,,USA,25.620807666,6-1 4-6 6-1,3,R128,,,,,,,,,,,,,,,,,,,,172,3,136,5
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,59,201019,,,Melissa Gurney,U,,USA,18.9130732375,200596,,,Sabine Krein Auer,U,,GER,21.6399726215,7-5 7-5,3,R128,,,,,,,,,,,,,,,,,,,,93,9,129,6
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,60,200647,,WC,Noelle Van Lottum,U,,FRA,15.8631074606,200544,,,Celine Cohen,U,,SUI,21.2183436003,7-5 6-3,3,R128,,,,,,,,,,,,,,,,,,,,,,125,6
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,61,200604,,,Barbara Paulus,U,,AUT,17.7248459959,200542,,LL,Clare Wood,R,,GBR,20.2080766598,6-1 7-6(3),3,R128,,,,,,,,,,,,,,,,,,,,41,19,148,4
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,62,200484,,,Ann Devries,U,,BEL,18.2340862423,200487,,,Eva Krapl,U,,SUI,22.3490759754,6-3 4-6 7-5,3,R128,,,,,,,,,,,,,,,,,,,,100,8,111,7
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,63,200521,,,Hellas Ter Riet,U,,NED,19.9206023272,200427,,,Beth Herr,U,,USA,23.9863107461,6-0 7-5,3,R128,,,,,,,,,,,,,,,,,,,,128,6,124,6
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,64,200293,2,,Martina Navratilova,L,173,USA,31.5947980835,200962,,,Patricia Medrado,U,,BRA,31.4880219028,6-0 6-3,3,R128,,,,,,,,,,,,,,,,,,,,2,251,108,8
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,65,200414,1,,Steffi Graf,R,,GER,18.9404517454,200591,,,Ronni Reis,U,,USA,22.0369609856,6-1 6-0,3,R64,,,,,,,,,,,,,,,,,,,,1,287,185,2
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,66,200673,,,Susan Sloane Lundy,R,,USA,17.4647501711,200384,,,Eva Pfaff,U,,GER,27.279945243,6-3 3-6 6-3,3,R64,,,,,,,,,,,,,,,,,,,,106,8,62,13
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,67,200439,,,Jenny Byrne,U,,AUS,21.2402464066,200494,,,Dianne Van Rensburg,U,,RSA,20.219028063,7-5 7-6(3),3,R64,,,,,,,,,,,,,,,,,,,,146,4,91,9
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,68,200097,,,Nathalie Tauziat,R,,FRA,20.5995893224,201040,,LL,Luciana Corsato Owsianka,U,,BRA,22.3353867214,6-3 6-0,3,R64,,,,,,,,,,,,,,,,,,,,29,27,217,2
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,69,200428,9,,Lori Mcneil,U,,USA,24.4298425736,200359,,,Christiane Jolissaint,U,,SUI,26.6940451745,6-1 4-6 6-2,3,R64,,,,,,,,,,,,,,,,,,,,10,58,121,6
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,70,200049,,Q,Conchita Martinez,R,170,ESP,16.1013004791,200452,,,Tine Scheuer Larsen,U,,DEN,22.1957563313,6-2 6-0,3,R64,,,,,,,,,,,,,,,,,,,,279,1,127,6
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,71,200530,,,Radomira Zrubakova,R,,SVK,17.4072553046,200641,,,Patricia Tarabini,R,,ARG,19.794661191,6-4 6-4,3,R64,,,,,,,,,,,,,,,,,,,,56,15,36,22
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,72,200674,,,Bettina Fulco Villella,R,,ARG,19.5811088296,200348,8,,Hana Mandlikova,R,,AUS,26.2559890486,6-4 6-3,3,R64,,,,,,,,,,,,,,,,,,,,37,21,8,62
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,73,200572,4,,Gabriela Sabatini,R,,ARG,18.0205338809,201038,,,Karen Schimper,U,,RSA,20.9938398357,6-3 6-0,3,R64,,,,,,,,,,,,,,,,,,,,5,138,75,11
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,74,200456,,,Masako Yanagi,U,,JPN,28.5311430527,200959,,,Mareen Louie Harper,R,,USA,27.7700205339,4-6 6-1 6-2,3,R64,,,,,,,,,,,,,,,,,,,,131,5,54,16
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,75,200554,,,Brenda Schultz Mccarthy,R,,NED,17.401779603,201030,,,Mariana Perez Roldan,U,,ARG,20.6269678303,W/O,3,R64,,,,,,,,,,,,,,,,,,,,49,17,55,15
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,76,200725,14,,Sandra Cecchini,U,,ITA,23.2334017796,200625,,Q,Jana Pospisilova,U,,CZE,18.1683778234,6-1 6-0,3,R64,,,,,,,,,,,,,,,,,,,,19,41,161,3
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,77,200582,,Q,Maria Strandlund Tomsvik,U,,SWE,18.765229295,200422,12,,Raffaella Reggi Concato,U,,ITA,22.4859685147,3-6 6-1 6-3,3,R64,,,,,,,,,,,,,,,,,,,,216,2,16,43
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,78,200522,,LL,Nicole Krijger Jagerman,U,,NED,20.8350444901,200112,,,Julie Halard Decugis,R,,FRA,17.7002053388,7-6(5) 7-6(2),3,R64,,,,,,,,,,,,,,,,,,,,153,4,51,16
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,79,200472,,,Helen Kelesi,U,,CAN,18.5188227242,200457,,,Andrea Holikova,U,,TCH,20.3531827515,6-2 6-2,3,R64,,,,,,,,,,,,,,,,,,,,25,30,118,6
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,80,200401,5,,Manuela Maleeva Fragniere,R,,SUI,21.2703627652,200705,,,Linda Ferrando,U,,ITA,22.3600273785,6-0 6-2,3,R64,,,,,,,,,,,,,,,,,,,,6,89,79,10
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,81,200354,7,,Claudia Kohde Kilsch,R,,GER,24.4490075291,200586,,,Federica Bonsignori,U,,ITA,20.5065023956,6-4 6-0,3,R64,,,,,,,,,,,,,,,,,,,,9,62,73,12
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,82,200469,,,Nicole Bradtke,U,,AUS,18.6666666667,200550,,WC,Emmanuelle Derly,U,,FRA,18.0643394935,5-7 6-3 6-1,3,R64,,,,,,,,,,,,,,,,,,,,53,16,140,5
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,83,200621,,,Isabelle Demongeot,U,,FRA,21.6783025325,200506,,,Wiltrud Probst,R,,GER,18.984257358,6-4 6-1,3,R64,,,,,,,,,,,,,,,,,,,,35,23,68,12
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,84,200366,15,,Sylvia Hanika,U,,GER,28.4791238877,200593,,WC,Karine Quentrec,U,,FRA,18.5872689938,5-7 6-2 6-2,3,R64,,,,,,,,,,,,,,,,,,,,14,45,202,2
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,85,200395,,,Catherine Tanvier,U,,FRA,22.9869952088,200564,,,Hester Witvoet,U,,NED,20.8788501027,6-1 6-1,3,R64,,,,,,,,,,,,,,,,,,,,133,5,95,9
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,86,200481,,,Elna Reinach,U,,RSA,19.4715947981,200392,,,Jo Durie,R,,GBR,27.8220396988,6-1 6-4,3,R64,,,,,,,,,,,,,,,,,,,,47,18,80,10
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,87,200017,,,Arantxa Sanchez Vicario,R,,ESP,16.4298425736,200587,,,Silke Meier,U,,GER,19.8603696099,7-5 6-0,3,R64,,,,,,,,,,,,,,,,,,,,22,33,92,9
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,88,200259,3,,Chris Evert,R,,USA,33.4209445585,201043,,Q,Barbara Romano,U,,ITA,23.3538672142,7-5 6-2,3,R64,,,,,,,,,,,,,,,,,,,,4,162,142,4
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,89,200377,6,,Helena Sukova,R,,CZE,23.2443531828,200037,,LL,Sabine Appelmans,L,,BEL,16.0848733744,6-1 6-4,3,R64,,,,,,,,,,,,,,,,,,,,7,88,218,2
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,90,200640,,,Mercedes Paz,U,,ARG,21.9055441478,200566,,,Donna Faber,U,,USA,16.8843258042,7-6(4) 6-4,3,R64,,,,,,,,,,,,,,,,,,,,67,12,141,5
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,91,200994,,,Michelle Torres,U,,USA,20.9062286105,201021,,,Laura Garrone,U,,ITA,20.5201916496,6-1 2-6 6-4,3,R64,,,,,,,,,,,,,,,,,,,,85,10,66,12
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,92,200404,10,,Zina Garrison,U,,USA,24.5174537988,200398,,,Iva Budarova,U,,TCH,27.8110882957,6-0 6-7(4) 6-2,3,R64,,,,,,,,,,,,,,,,,,,,11,54,130,5
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,93,200116,13,,Natalia Zvereva,R,,BLR,17.1033538672,200441,,,Louise Field,U,,AUS,21.2402464066,6-2 6-0,3,R64,,,,,,,,,,,,,,,,,,,,15,44,172,3
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,94,201019,,,Melissa Gurney,U,,USA,18.9130732375,200647,,WC,Noelle Van Lottum,U,,FRA,15.8631074606,2-6 6-2 7-5,3,R64,,,,,,,,,,,,,,,,,,,,93,9,,
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,95,200604,,,Barbara Paulus,U,,AUT,17.7248459959,200484,,,Ann Devries,U,,BEL,18.2340862423,6-3 6-2,3,R64,,,,,,,,,,,,,,,,,,,,41,19,100,8
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,96,200293,2,,Martina Navratilova,L,173,USA,31.5947980835,200521,,,Hellas Ter Riet,U,,NED,19.9206023272,6-1 2-0 RET,3,R64,,,,,,,,,,,,,,,,,,,,2,251,128,6
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,97,200414,1,,Steffi Graf,R,,GER,18.9404517454,200673,,,Susan Sloane Lundy,R,,USA,17.4647501711,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1,287,106,8
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,98,200097,,,Nathalie Tauziat,R,,FRA,20.5995893224,200439,,,Jenny Byrne,U,,AUS,21.2402464066,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,29,27,146,4
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,99,200049,,Q,Conchita Martinez,R,170,ESP,16.1013004791,200428,9,,Lori Mcneil,U,,USA,24.4298425736,1-6 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,279,1,10,58
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,100,200674,,,Bettina Fulco Villella,R,,ARG,19.5811088296,200530,,,Radomira Zrubakova,R,,SVK,17.4072553046,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,37,21,56,15
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,101,200572,4,,Gabriela Sabatini,R,,ARG,18.0205338809,200456,,,Masako Yanagi,U,,JPN,28.5311430527,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,5,138,131,5
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,102,200554,,,Brenda Schultz Mccarthy,R,,NED,17.401779603,200725,14,,Sandra Cecchini,U,,ITA,23.2334017796,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,49,17,19,41
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,103,200522,,LL,Nicole Krijger Jagerman,U,,NED,20.8350444901,200582,,Q,Maria Strandlund Tomsvik,U,,SWE,18.765229295,4-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,153,4,216,2
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,104,200472,,,Helen Kelesi,U,,CAN,18.5188227242,200401,5,,Manuela Maleeva Fragniere,R,,SUI,21.2703627652,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,25,30,6,89
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,105,200469,,,Nicole Bradtke,U,,AUS,18.6666666667,200354,7,,Claudia Kohde Kilsch,R,,GER,24.4490075291,1-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,53,16,9,62
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,106,200366,15,,Sylvia Hanika,U,,GER,28.4791238877,200621,,,Isabelle Demongeot,U,,FRA,21.6783025325,3-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,14,45,35,23
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,107,200395,,,Catherine Tanvier,U,,FRA,22.9869952088,200481,,,Elna Reinach,U,,RSA,19.4715947981,3-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,133,5,47,18
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,108,200017,,,Arantxa Sanchez Vicario,R,,ESP,16.4298425736,200259,3,,Chris Evert,R,,USA,33.4209445585,6-1 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,22,33,4,162
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,109,200377,6,,Helena Sukova,R,,CZE,23.2443531828,200640,,,Mercedes Paz,U,,ARG,21.9055441478,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,7,88,67,12
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,110,200404,10,,Zina Garrison,U,,USA,24.5174537988,200994,,,Michelle Torres,U,,USA,20.9062286105,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,11,54,85,10
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,111,200116,13,,Natalia Zvereva,R,,BLR,17.1033538672,201019,,,Melissa Gurney,U,,USA,18.9130732375,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,15,44,93,9
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,112,200293,2,,Martina Navratilova,L,173,USA,31.5947980835,200604,,,Barbara Paulus,U,,AUT,17.7248459959,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,2,251,41,19
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,113,200414,1,,Steffi Graf,R,,GER,18.9404517454,200097,,,Nathalie Tauziat,R,,FRA,20.5995893224,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1,287,29,27
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,114,200674,,,Bettina Fulco Villella,R,,ARG,19.5811088296,200049,,Q,Conchita Martinez,R,170,ESP,16.1013004791,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,37,21,279,1
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,115,200572,4,,Gabriela Sabatini,R,,ARG,18.0205338809,200554,,,Brenda Schultz Mccarthy,R,,NED,17.401779603,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,5,138,49,17
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,116,200472,,,Helen Kelesi,U,,CAN,18.5188227242,200522,,LL,Nicole Krijger Jagerman,U,,NED,20.8350444901,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,25,30,153,4
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,117,200469,,,Nicole Bradtke,U,,AUS,18.6666666667,200366,15,,Sylvia Hanika,U,,GER,28.4791238877,7-6(1) 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,53,16,14,45
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,118,200017,,,Arantxa Sanchez Vicario,R,,ESP,16.4298425736,200395,,,Catherine Tanvier,U,,FRA,22.9869952088,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,22,33,133,5
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,119,200377,6,,Helena Sukova,R,,CZE,23.2443531828,200404,10,,Zina Garrison,U,,USA,24.5174537988,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,7,88,11,54
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,120,200116,13,,Natalia Zvereva,R,,BLR,17.1033538672,200293,2,,Martina Navratilova,L,173,USA,31.5947980835,6-3 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,15,44,2,251
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,121,200414,1,,Steffi Graf,R,,GER,18.9404517454,200674,,,Bettina Fulco Villella,R,,ARG,19.5811088296,6-0 6-1,3,QF,,,,,,,,,,,,,,,,,,,,1,287,37,21
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,122,200572,4,,Gabriela Sabatini,R,,ARG,18.0205338809,200472,,,Helen Kelesi,U,,CAN,18.5188227242,4-6 6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,5,138,25,30
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,123,200469,,,Nicole Bradtke,U,,AUS,18.6666666667,200017,,,Arantxa Sanchez Vicario,R,,ESP,16.4298425736,7-5 3-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,53,16,22,33
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,124,200116,13,,Natalia Zvereva,R,,BLR,17.1033538672,200377,6,,Helena Sukova,R,,CZE,23.2443531828,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,15,44,7,88
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,125,200414,1,,Steffi Graf,R,,GER,18.9404517454,200572,4,,Gabriela Sabatini,R,,ARG,18.0205338809,6-3 7-6(3),3,SF,,,,,,,,,,,,,,,,,,,,1,287,5,138
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,126,200116,13,,Natalia Zvereva,R,,BLR,17.1033538672,200469,,,Nicole Bradtke,U,,AUS,18.6666666667,6-3 6-7(3) 7-5,3,SF,,,,,,,,,,,,,,,,,,,,15,44,53,16
-1988-W-SL-FRA-01A-1988,French Open,Clay,128,G,19880523,127,200414,1,,Steffi Graf,R,,GER,18.9404517454,200116,13,,Natalia Zvereva,R,,BLR,17.1033538672,6-0 6-0,3,F,,,,,,,,,,,,,,,,,,,,1,287,15,44
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,1,200414,1,,Steffi Graf,R,,GER,18.9404517454,200565,,wc,Nathalie Guerree Spitzer,U,,FRA,19.8767967146,6-0 6-4,3,R128,,,,,,,,,,,,,,,,,,,,1,287,224,1
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,2,200591,,,Ronni Reis,U,,USA,22.0369609856,201031,,,Niurka Sodupe,U,,USA,19.0937713895,6-3 6-3,3,R128,,,,,,,,,,,,,,,,,,,,185,2,139,5
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,3,200384,,,Eva Pfaff,U,,GER,27.279945243,200041,,,Amy Frazier,R,,USA,15.6741957563,6-3 6-2,3,R128,,,,,,,,,,,,,,,,,,,,62,13,120,6
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,4,200673,,,Susan Sloane Lundy,R,,USA,17.4647501711,200407,,,Camille Benjamin,U,,USA,21.9739904175,6-2 0-6 6-1,3,R128,,,,,,,,,,,,,,,,,,,,106,8,87,10
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,5,200439,,,Jenny Byrne,U,,AUS,21.2402464066,200421,,,Pascale Paradis Mangon,R,,FRA,22.0807665982,6-1 1-6 6-4,3,R128,,,,,,,,,,,,,,,,,,,,146,4,52,16
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,6,200494,,,Dianne Van Rensburg,U,,RSA,20.219028063,200419,,,Kathy Rinaldi Stunkel,U,,USA,21.1663244353,4-6 7-5 7-5,3,R128,,,,,,,,,,,,,,,,,,,,91,9,,
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,7,200097,,,Nathalie Tauziat,R,,FRA,20.5995893224,200485,,,Manon Bollegraf,U,,NED,24.1177275838,6-3 6-2,3,R128,,,,,,,,,,,,,,,,,,,,29,27,96,8
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,8,201040,,LL,Luciana Corsato Owsianka,U,,BRA,22.3353867214,200589,,,Halle Cioffi,U,,USA,18.7980835044,6-0 6-4,3,R128,,,,,,,,,,,,,,,,,,,,217,2,38,21
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,9,200428,9,,Lori Mcneil,U,,USA,24.4298425736,200694,,,Elly Hakami,U,,USA,18.7433264887,6-3 6-2,3,R128,,,,,,,,,,,,,,,,,,,,10,58,34,23
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,10,200359,,,Christiane Jolissaint,U,,SUI,26.6940451745,201041,,,Cristina Casale,U,,ITA,15.3319644079,6-7(5) 6-1 6-1,3,R128,,,,,,,,,,,,,,,,,,,,121,6,,
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,11,200452,,,Tine Scheuer Larsen,U,,DEN,22.1957563313,200415,,,Catherine Suire,U,,FRA,28.6872005476,6-3 6-2,3,R128,,,,,,,,,,,,,,,,,,,,127,6,115,7
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,12,200049,,Q,Conchita Martinez,R,170,ESP,16.1013004791,200021,,,Alexia Dechaume Balleret,R,,FRA,18.0561259411,6-0 6-2,3,R128,,,,,,,,,,,,,,,,,,,,279,1,90,9
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,13,200530,,,Radomira Zrubakova,R,,SVK,17.4072553046,200514,,,Monique Javer,R,,GBR,20.8377823409,6-0 6-0,3,R128,,,,,,,,,,,,,,,,,,,,56,15,97,8
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,14,200641,,,Patricia Tarabini,R,,ARG,19.794661191,200539,,,Jana Novotna,R,,CZE,19.6386036961,1-6 6-3 6-2,3,R128,,,,,,,,,,,,,,,,,,,,36,22,33,23
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,15,200674,,,Bettina Fulco Villella,R,,ARG,19.5811088296,200527,,Q,Maria Christine Damas,U,,FRA,21.453798768,6-0 6-2,3,R128,,,,,,,,,,,,,,,,,,,,37,21,231,1
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,16,200348,8,,Hana Mandlikova,R,,AUS,26.2559890486,200429,,,Elizabeth Minter,U,,AUS,22.7488021903,6-2 6-1,3,R128,,,,,,,,,,,,,,,,,,,,8,62,104,8
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,17,200572,4,,Gabriela Sabatini,R,,ARG,18.0205338809,200532,,WC,Maider Laval,U,,FRA,18.0150581793,6-1 7-5,3,R128,,,,,,,,,,,,,,,,,,,,5,138,207,2
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,18,201038,,,Karen Schimper,U,,RSA,20.9938398357,200552,,,Maria Lindstrom,U,,SWE,25.2128678987,6-7(4) 6-3 6-1,3,R128,,,,,,,,,,,,,,,,,,,,75,11,113,7
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,19,200959,,,Mareen Louie Harper,R,,USA,27.7700205339,200465,,,Lisa Bonder Kreiss,R,,USA,22.6009582478,1-6 6-3 6-4,3,R128,,,,,,,,,,,,,,,,,,,,54,16,89,9
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,20,200456,,,Masako Yanagi,U,,JPN,28.5311430527,200498,,,Michelle Jaggard Lai,U,,AUS,19.0472279261,6-3 6-3,3,R128,,,,,,,,,,,,,,,,,,,,131,5,116,7
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,21,201030,,,Mariana Perez Roldan,U,,ARG,20.6269678303,200405,,,Susan Mascarin,U,,USA,23.9014373717,7-6(2) 4-6 6-4,3,R128,,,,,,,,,,,,,,,,,,,,55,15,135,5
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,22,200554,,,Brenda Schultz Mccarthy,R,,NED,17.401779603,200547,,,Sandra Wasserman,U,,BEL,18.2039698836,7-5 6-0,3,R128,,,,,,,,,,,,,,,,,,,,49,17,81,10
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,23,200625,,Q,Jana Pospisilova,U,,CZE,18.1683778234,200357,,,Rosalyn Nideffer,R,,USA,27.5537303217,7-6(3) 7-6(3),3,R128,,,,,,,,,,,,,,,,,,,,161,3,43,19
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,24,200725,14,,Sandra Cecchini,U,,ITA,23.2334017796,200483,,,Kumiko Okamoto,U,,JPN,23.2553045859,6-1 6-3,3,R128,,,,,,,,,,,,,,,,,,,,19,41,145,4
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,25,200422,12,,Raffaella Reggi Concato,U,,ITA,22.4859685147,200628,,,Sabrina Goles,U,,YUG,22.970568104,6-4 6-2,3,R128,,,,,,,,,,,,,,,,,,,,16,43,45,19
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,26,200582,,Q,Maria Strandlund Tomsvik,U,,SWE,18.765229295,200491,,,Christina Singer,U,,GER,19.8220396988,1-6 6-2 6-2,3,R128,,,,,,,,,,,,,,,,,,,,216,2,101,8
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,27,200522,,LL,Nicole Krijger Jagerman,U,,NED,20.8350444901,200340,,,Marcella Mesker,U,,NED,29.0020533881,6-3 6-1,3,R128,,,,,,,,,,,,,,,,,,,,153,4,138,5
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,28,200112,,,Julie Halard Decugis,R,,FRA,17.7002053388,200590,,,Gisele Miro,U,,BRA,19.5564681725,6-3 6-2,3,R128,,,,,,,,,,,,,,,,,,,,51,16,117,7
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,29,200472,,,Helen Kelesi,U,,CAN,18.5188227242,200370,,WC,Marie Christine Calleja,U,,FRA,24.3559206023,4-6 6-2 6-4,3,R128,,,,,,,,,,,,,,,,,,,,25,30,150,4
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,30,200457,,,Andrea Holikova,U,,TCH,20.3531827515,200576,,,Nathalie Herreman,U,,FRA,22.1546885695,6-2 6-2,3,R128,,,,,,,,,,,,,,,,,,,,118,6,59,15
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,31,200705,,,Linda Ferrando,U,,ITA,22.3600273785,200585,,,Kathy Horvath,U,,USA,22.7433264887,6-2 2-6 6-3,3,R128,,,,,,,,,,,,,,,,,,,,79,10,39,21
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,32,200401,5,,Manuela Maleeva Fragniere,R,,SUI,21.2703627652,201020,,,Petra Huber,U,,AUT,22.2669404517,6-3 6-1,3,R128,,,,,,,,,,,,,,,,,,,,6,89,105,8
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,33,200354,7,,Claudia Kohde Kilsch,R,,GER,24.4490075291,201017,,,Angelika Kanellopoulou,R,,GRE,22.4284736482,6-2 6-4,3,R128,,,,,,,,,,,,,,,,,,,,9,62,99,8
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,34,200586,,,Federica Bonsignori,U,,ITA,20.5065023956,200468,,,Hu Na,U,,USA,25.1033538672,5-7 6-4 6-3,3,R128,,,,,,,,,,,,,,,,,,,,73,12,63,13
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,35,200469,,,Nicole Bradtke,U,,AUS,18.6666666667,200519,,WC,Sybille Niox Chateau,U,,FRA,18.5927446954,6-0 6-3,3,R128,,,,,,,,,,,,,,,,,,,,53,16,164,3
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,36,200550,,WC,Emmanuelle Derly,U,,FRA,18.0643394935,200460,,,Regina Marsikova,U,,CZE,29.4483230664,6-2 6-2,3,R128,,,,,,,,,,,,,,,,,,,,140,5,132,5
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,37,200506,,,Wiltrud Probst,R,,GER,18.984257358,200651,,Q,Sabine Hack,U,,GER,18.8637919233,6-4 6-1,3,R128,,,,,,,,,,,,,,,,,,,,68,12,255,1
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,38,200621,,,Isabelle Demongeot,U,,FRA,21.6783025325,200495,,,Akiko Kijimuta,U,,JPN,20.0602327173,4-6 6-3 6-2,3,R128,,,,,,,,,,,,,,,,,,,,35,23,76,11
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,39,200593,,WC,Karine Quentrec,U,,FRA,18.5872689938,200447,,,Adriana Villagran Reami,U,,ARG,31.7919233402,2-6 6-3 6-3,3,R128,,,,,,,,,,,,,,,,,,,,202,2,102,8
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,40,200366,15,,Sylvia Hanika,U,,GER,28.4791238877,200480,,,Claudia Porwik,U,,GER,19.5208761123,6-1 6-3,3,R128,,,,,,,,,,,,,,,,,,,,14,45,70,12
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,41,200395,,,Catherine Tanvier,U,,FRA,22.9869952088,200455,11,,Katerina Maleeva,U,,BUL,19.0444900753,6-4 7-5,3,R128,,,,,,,,,,,,,,,,,,,,133,5,12,49
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,42,200564,,,Hester Witvoet,U,,NED,20.8788501027,201042,,Q,Andrea Tiezzi,U,,ARG,23.4880219028,7-6(6) 6-3,3,R128,,,,,,,,,,,,,,,,,,,,95,9,229,1
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,43,200392,,,Jo Durie,R,,GBR,27.8220396988,200496,,,Terry Phelps,U,,USA,21.4291581109,7-6(3) 6-2,3,R128,,,,,,,,,,,,,,,,,,,,80,10,65,12
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,44,200481,,,Elna Reinach,U,,RSA,19.4715947981,200423,,,Carling Bassett Seguso,U,,CAN,20.6214921287,6-3 6-0,3,R128,,,,,,,,,,,,,,,,,,,,47,18,114,7
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,45,200587,,,Silke Meier,U,,GER,19.8603696099,200346,,,Anne Minter,U,,AUS,25.1389459274,6-1 6-3,3,R128,,,,,,,,,,,,,,,,,,,,92,9,27,28
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,46,200017,,,Arantxa Sanchez Vicario,R,,ESP,16.4298425736,200594,,,Iwona Kuczynska,U,,POL,27.2470910335,6-2 6-0,3,R128,,,,,,,,,,,,,,,,,,,,22,33,71,12
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,47,201043,,Q,Barbara Romano,U,,ITA,23.3538672142,200571,,Q,Jonna Jonerup,U,,SWE,18.8364134155,6-2 6-0,3,R128,,,,,,,,,,,,,,,,,,,,142,4,203,2
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,48,200259,3,,Chris Evert,R,,USA,33.4209445585,200482,,,Judith Wiesner,R,,AUT,22.2258726899,6-1 6-4,3,R128,,,,,,,,,,,,,,,,,,,,4,162,26,28
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,49,200377,6,,Helena Sukova,R,,CZE,23.2443531828,200650,,,Isabel Cueto,U,,GER,19.4688569473,6-2 6-0,3,R128,,,,,,,,,,,,,,,,,,,,7,88,31,26
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,50,200037,,LL,Sabine Appelmans,L,,BEL,16.0848733744,200444,,,Elise Burgin,U,,USA,26.2176591376,6-4 6-7(4) 6-0,3,R128,,,,,,,,,,,,,,,,,,,,218,2,84,10
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,51,200640,,,Mercedes Paz,U,,ARG,21.9055441478,200453,,,Catarina Lindqvist Ryan,U,,SWE,24.9445585216,5-7 6-4 6-3,3,R128,,,,,,,,,,,,,,,,,,,,67,12,24,31
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,52,200566,,,Donna Faber,U,,USA,16.8843258042,201044,,WC,Catherine Mothes Jobkel,U,,FRA,17.9603011636,6-0 6-4,3,R128,,,,,,,,,,,,,,,,,,,,141,5,334,0
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,53,201021,,,Laura Garrone,U,,ITA,20.5201916496,200557,,,Katrina Adams,U,,USA,19.7973990418,7-5 1-6 6-3,3,R128,,,,,,,,,,,,,,,,,,,,66,12,122,6
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,54,200994,,,Michelle Torres,U,,USA,20.9062286105,201045,,,Natalia Egorova,U,,RUS,21.6919917864,6-1 6-2,3,R128,,,,,,,,,,,,,,,,,,,,85,10,88,9
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,55,200398,,,Iva Budarova,U,,TCH,27.8110882957,201025,,,Neige Dias,U,,BRA,21.4647501711,6-7(6) 6-3 7-5,3,R128,,,,,,,,,,,,,,,,,,,,130,5,44,19
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,56,200404,10,,Zina Garrison,U,,USA,24.5174537988,200664,,,Stephanie Rehe,U,,USA,18.546201232,6-2 4-6 6-1,3,R128,,,,,,,,,,,,,,,,,,,,11,54,21,37
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,57,200116,13,,Natalia Zvereva,R,,BLR,17.1033538672,200584,,,Laura Golarsa,R,,ITA,20.4873374401,7-6(5) 6-0,3,R128,,,,,,,,,,,,,,,,,,,,15,44,94,9
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,58,200441,,,Louise Field,U,,AUS,21.2402464066,200526,,,Carol Christian,U,,USA,25.620807666,6-1 4-6 6-1,3,R128,,,,,,,,,,,,,,,,,,,,172,3,136,5
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,59,201019,,,Melissa Gurney,U,,USA,18.9130732375,200596,,,Sabine Krein Auer,U,,GER,21.6399726215,7-5 7-5,3,R128,,,,,,,,,,,,,,,,,,,,93,9,129,6
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,60,200647,,WC,Noelle Van Lottum,U,,FRA,15.8631074606,200544,,,Celine Cohen,U,,SUI,21.2183436003,7-5 6-3,3,R128,,,,,,,,,,,,,,,,,,,,,,125,6
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,61,200604,,,Barbara Paulus,U,,AUT,17.7248459959,200542,,LL,Clare Wood,R,,GBR,20.2080766598,6-1 7-6(3),3,R128,,,,,,,,,,,,,,,,,,,,41,19,148,4
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,62,200484,,,Ann Devries,U,,BEL,18.2340862423,200487,,,Eva Krapl,U,,SUI,22.3490759754,6-3 4-6 7-5,3,R128,,,,,,,,,,,,,,,,,,,,100,8,111,7
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,63,200521,,,Hellas Ter Riet,U,,NED,19.9206023272,200427,,,Beth Herr,U,,USA,23.9863107461,6-0 7-5,3,R128,,,,,,,,,,,,,,,,,,,,128,6,124,6
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,64,200293,2,,Martina Navratilova,L,173,USA,31.5947980835,200962,,,Patricia Medrado,U,,BRA,31.4880219028,6-0 6-3,3,R128,,,,,,,,,,,,,,,,,,,,2,251,108,8
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,65,200414,1,,Steffi Graf,R,,GER,18.9404517454,200591,,,Ronni Reis,U,,USA,22.0369609856,6-1 6-0,3,R64,,,,,,,,,,,,,,,,,,,,1,287,185,2
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,66,200673,,,Susan Sloane Lundy,R,,USA,17.4647501711,200384,,,Eva Pfaff,U,,GER,27.279945243,6-3 3-6 6-3,3,R64,,,,,,,,,,,,,,,,,,,,106,8,62,13
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,67,200439,,,Jenny Byrne,U,,AUS,21.2402464066,200494,,,Dianne Van Rensburg,U,,RSA,20.219028063,7-5 7-6(3),3,R64,,,,,,,,,,,,,,,,,,,,146,4,91,9
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,68,200097,,,Nathalie Tauziat,R,,FRA,20.5995893224,201040,,LL,Luciana Corsato Owsianka,U,,BRA,22.3353867214,6-3 6-0,3,R64,,,,,,,,,,,,,,,,,,,,29,27,217,2
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,69,200428,9,,Lori Mcneil,U,,USA,24.4298425736,200359,,,Christiane Jolissaint,U,,SUI,26.6940451745,6-1 4-6 6-2,3,R64,,,,,,,,,,,,,,,,,,,,10,58,121,6
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,70,200049,,Q,Conchita Martinez,R,170,ESP,16.1013004791,200452,,,Tine Scheuer Larsen,U,,DEN,22.1957563313,6-2 6-0,3,R64,,,,,,,,,,,,,,,,,,,,279,1,127,6
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,71,200530,,,Radomira Zrubakova,R,,SVK,17.4072553046,200641,,,Patricia Tarabini,R,,ARG,19.794661191,6-4 6-4,3,R64,,,,,,,,,,,,,,,,,,,,56,15,36,22
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,72,200674,,,Bettina Fulco Villella,R,,ARG,19.5811088296,200348,8,,Hana Mandlikova,R,,AUS,26.2559890486,6-4 6-3,3,R64,,,,,,,,,,,,,,,,,,,,37,21,8,62
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,73,200572,4,,Gabriela Sabatini,R,,ARG,18.0205338809,201038,,,Karen Schimper,U,,RSA,20.9938398357,6-3 6-0,3,R64,,,,,,,,,,,,,,,,,,,,5,138,75,11
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,74,200456,,,Masako Yanagi,U,,JPN,28.5311430527,200959,,,Mareen Louie Harper,R,,USA,27.7700205339,4-6 6-1 6-2,3,R64,,,,,,,,,,,,,,,,,,,,131,5,54,16
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,75,200554,,,Brenda Schultz Mccarthy,R,,NED,17.401779603,201030,,,Mariana Perez Roldan,U,,ARG,20.6269678303,W/O,3,R64,,,,,,,,,,,,,,,,,,,,49,17,55,15
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,76,200725,14,,Sandra Cecchini,U,,ITA,23.2334017796,200625,,Q,Jana Pospisilova,U,,CZE,18.1683778234,6-1 6-0,3,R64,,,,,,,,,,,,,,,,,,,,19,41,161,3
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,77,200582,,Q,Maria Strandlund Tomsvik,U,,SWE,18.765229295,200422,12,,Raffaella Reggi Concato,U,,ITA,22.4859685147,3-6 6-1 6-3,3,R64,,,,,,,,,,,,,,,,,,,,216,2,16,43
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,78,200522,,LL,Nicole Krijger Jagerman,U,,NED,20.8350444901,200112,,,Julie Halard Decugis,R,,FRA,17.7002053388,7-6(5) 7-6(2),3,R64,,,,,,,,,,,,,,,,,,,,153,4,51,16
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,79,200472,,,Helen Kelesi,U,,CAN,18.5188227242,200457,,,Andrea Holikova,U,,TCH,20.3531827515,6-2 6-2,3,R64,,,,,,,,,,,,,,,,,,,,25,30,118,6
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,80,200401,5,,Manuela Maleeva Fragniere,R,,SUI,21.2703627652,200705,,,Linda Ferrando,U,,ITA,22.3600273785,6-0 6-2,3,R64,,,,,,,,,,,,,,,,,,,,6,89,79,10
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,81,200354,7,,Claudia Kohde Kilsch,R,,GER,24.4490075291,200586,,,Federica Bonsignori,U,,ITA,20.5065023956,6-4 6-0,3,R64,,,,,,,,,,,,,,,,,,,,9,62,73,12
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,82,200469,,,Nicole Bradtke,U,,AUS,18.6666666667,200550,,WC,Emmanuelle Derly,U,,FRA,18.0643394935,5-7 6-3 6-1,3,R64,,,,,,,,,,,,,,,,,,,,53,16,140,5
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,83,200621,,,Isabelle Demongeot,U,,FRA,21.6783025325,200506,,,Wiltrud Probst,R,,GER,18.984257358,6-4 6-1,3,R64,,,,,,,,,,,,,,,,,,,,35,23,68,12
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,84,200366,15,,Sylvia Hanika,U,,GER,28.4791238877,200593,,WC,Karine Quentrec,U,,FRA,18.5872689938,5-7 6-2 6-2,3,R64,,,,,,,,,,,,,,,,,,,,14,45,202,2
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,85,200395,,,Catherine Tanvier,U,,FRA,22.9869952088,200564,,,Hester Witvoet,U,,NED,20.8788501027,6-1 6-1,3,R64,,,,,,,,,,,,,,,,,,,,133,5,95,9
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,86,200481,,,Elna Reinach,U,,RSA,19.4715947981,200392,,,Jo Durie,R,,GBR,27.8220396988,6-1 6-4,3,R64,,,,,,,,,,,,,,,,,,,,47,18,80,10
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,87,200017,,,Arantxa Sanchez Vicario,R,,ESP,16.4298425736,200587,,,Silke Meier,U,,GER,19.8603696099,7-5 6-0,3,R64,,,,,,,,,,,,,,,,,,,,22,33,92,9
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,88,200259,3,,Chris Evert,R,,USA,33.4209445585,201043,,Q,Barbara Romano,U,,ITA,23.3538672142,7-5 6-2,3,R64,,,,,,,,,,,,,,,,,,,,4,162,142,4
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,89,200377,6,,Helena Sukova,R,,CZE,23.2443531828,200037,,LL,Sabine Appelmans,L,,BEL,16.0848733744,6-1 6-4,3,R64,,,,,,,,,,,,,,,,,,,,7,88,218,2
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,90,200640,,,Mercedes Paz,U,,ARG,21.9055441478,200566,,,Donna Faber,U,,USA,16.8843258042,7-6(4) 6-4,3,R64,,,,,,,,,,,,,,,,,,,,67,12,141,5
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,91,200994,,,Michelle Torres,U,,USA,20.9062286105,201021,,,Laura Garrone,U,,ITA,20.5201916496,6-1 2-6 6-4,3,R64,,,,,,,,,,,,,,,,,,,,85,10,66,12
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,92,200404,10,,Zina Garrison,U,,USA,24.5174537988,200398,,,Iva Budarova,U,,TCH,27.8110882957,6-0 6-7(4) 6-2,3,R64,,,,,,,,,,,,,,,,,,,,11,54,130,5
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,93,200116,13,,Natalia Zvereva,R,,BLR,17.1033538672,200441,,,Louise Field,U,,AUS,21.2402464066,6-2 6-0,3,R64,,,,,,,,,,,,,,,,,,,,15,44,172,3
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,94,201019,,,Melissa Gurney,U,,USA,18.9130732375,200647,,WC,Noelle Van Lottum,U,,FRA,15.8631074606,2-6 6-2 7-5,3,R64,,,,,,,,,,,,,,,,,,,,93,9,,
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,95,200604,,,Barbara Paulus,U,,AUT,17.7248459959,200484,,,Ann Devries,U,,BEL,18.2340862423,6-3 6-2,3,R64,,,,,,,,,,,,,,,,,,,,41,19,100,8
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,96,200293,2,,Martina Navratilova,L,173,USA,31.5947980835,200521,,,Hellas Ter Riet,U,,NED,19.9206023272,6-1 2-0 RET,3,R64,,,,,,,,,,,,,,,,,,,,2,251,128,6
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,97,200414,1,,Steffi Graf,R,,GER,18.9404517454,200673,,,Susan Sloane Lundy,R,,USA,17.4647501711,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1,287,106,8
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,98,200097,,,Nathalie Tauziat,R,,FRA,20.5995893224,200439,,,Jenny Byrne,U,,AUS,21.2402464066,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,29,27,146,4
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,99,200049,,Q,Conchita Martinez,R,170,ESP,16.1013004791,200428,9,,Lori Mcneil,U,,USA,24.4298425736,1-6 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,279,1,10,58
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,100,200674,,,Bettina Fulco Villella,R,,ARG,19.5811088296,200530,,,Radomira Zrubakova,R,,SVK,17.4072553046,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,37,21,56,15
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,101,200572,4,,Gabriela Sabatini,R,,ARG,18.0205338809,200456,,,Masako Yanagi,U,,JPN,28.5311430527,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,5,138,131,5
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,102,200554,,,Brenda Schultz Mccarthy,R,,NED,17.401779603,200725,14,,Sandra Cecchini,U,,ITA,23.2334017796,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,49,17,19,41
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,103,200522,,LL,Nicole Krijger Jagerman,U,,NED,20.8350444901,200582,,Q,Maria Strandlund Tomsvik,U,,SWE,18.765229295,4-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,153,4,216,2
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,104,200472,,,Helen Kelesi,U,,CAN,18.5188227242,200401,5,,Manuela Maleeva Fragniere,R,,SUI,21.2703627652,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,25,30,6,89
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,105,200469,,,Nicole Bradtke,U,,AUS,18.6666666667,200354,7,,Claudia Kohde Kilsch,R,,GER,24.4490075291,1-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,53,16,9,62
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,106,200366,15,,Sylvia Hanika,U,,GER,28.4791238877,200621,,,Isabelle Demongeot,U,,FRA,21.6783025325,3-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,14,45,35,23
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,107,200395,,,Catherine Tanvier,U,,FRA,22.9869952088,200481,,,Elna Reinach,U,,RSA,19.4715947981,3-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,133,5,47,18
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,108,200017,,,Arantxa Sanchez Vicario,R,,ESP,16.4298425736,200259,3,,Chris Evert,R,,USA,33.4209445585,6-1 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,22,33,4,162
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,109,200377,6,,Helena Sukova,R,,CZE,23.2443531828,200640,,,Mercedes Paz,U,,ARG,21.9055441478,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,7,88,67,12
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,110,200404,10,,Zina Garrison,U,,USA,24.5174537988,200994,,,Michelle Torres,U,,USA,20.9062286105,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,11,54,85,10
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,111,200116,13,,Natalia Zvereva,R,,BLR,17.1033538672,201019,,,Melissa Gurney,U,,USA,18.9130732375,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,15,44,93,9
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,112,200293,2,,Martina Navratilova,L,173,USA,31.5947980835,200604,,,Barbara Paulus,U,,AUT,17.7248459959,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,2,251,41,19
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,113,200414,1,,Steffi Graf,R,,GER,18.9404517454,200097,,,Nathalie Tauziat,R,,FRA,20.5995893224,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1,287,29,27
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,114,200674,,,Bettina Fulco Villella,R,,ARG,19.5811088296,200049,,Q,Conchita Martinez,R,170,ESP,16.1013004791,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,37,21,279,1
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,115,200572,4,,Gabriela Sabatini,R,,ARG,18.0205338809,200554,,,Brenda Schultz Mccarthy,R,,NED,17.401779603,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,5,138,49,17
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,116,200472,,,Helen Kelesi,U,,CAN,18.5188227242,200522,,LL,Nicole Krijger Jagerman,U,,NED,20.8350444901,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,25,30,153,4
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,117,200469,,,Nicole Bradtke,U,,AUS,18.6666666667,200366,15,,Sylvia Hanika,U,,GER,28.4791238877,7-6(1) 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,53,16,14,45
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,118,200017,,,Arantxa Sanchez Vicario,R,,ESP,16.4298425736,200395,,,Catherine Tanvier,U,,FRA,22.9869952088,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,22,33,133,5
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,119,200377,6,,Helena Sukova,R,,CZE,23.2443531828,200404,10,,Zina Garrison,U,,USA,24.5174537988,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,7,88,11,54
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,120,200116,13,,Natalia Zvereva,R,,BLR,17.1033538672,200293,2,,Martina Navratilova,L,173,USA,31.5947980835,6-3 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,15,44,2,251
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,121,200414,1,,Steffi Graf,R,,GER,18.9404517454,200674,,,Bettina Fulco Villella,R,,ARG,19.5811088296,6-0 6-1,3,QF,,,,,,,,,,,,,,,,,,,,1,287,37,21
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,122,200572,4,,Gabriela Sabatini,R,,ARG,18.0205338809,200472,,,Helen Kelesi,U,,CAN,18.5188227242,4-6 6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,5,138,25,30
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,123,200469,,,Nicole Bradtke,U,,AUS,18.6666666667,200017,,,Arantxa Sanchez Vicario,R,,ESP,16.4298425736,7-5 3-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,53,16,22,33
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,124,200116,13,,Natalia Zvereva,R,,BLR,17.1033538672,200377,6,,Helena Sukova,R,,CZE,23.2443531828,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,15,44,7,88
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,125,200414,1,,Steffi Graf,R,,GER,18.9404517454,200572,4,,Gabriela Sabatini,R,,ARG,18.0205338809,6-3 7-6(3),3,SF,,,,,,,,,,,,,,,,,,,,1,287,5,138
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,126,200116,13,,Natalia Zvereva,R,,BLR,17.1033538672,200469,,,Nicole Bradtke,U,,AUS,18.6666666667,6-3 6-7(3) 7-5,3,SF,,,,,,,,,,,,,,,,,,,,15,44,53,16
+1988-W-SL-FRA-01A-1988,Roland Garros,Clay,128,G,19880523,127,200414,1,,Steffi Graf,R,,GER,18.9404517454,200116,13,,Natalia Zvereva,R,,BLR,17.1033538672,6-0 6-0,3,F,,,,,,,,,,,,,,,,,,,,1,287,15,44
 1988-W-SL-GBR-01A-1988,Wimbledon,Grass,128,G,19880620,1,200414,1,,Steffi Graf,R,,GER,19.0171115674,200468,,,Hu Na,U,,USA,25.1800136893,6-0 6-0,3,R128,,,,,,,,,,,,,,,,,,,,1,288,76,11
 1988-W-SL-GBR-01A-1988,Wimbledon,Grass,128,G,19880620,2,200593,,,Karine Quentrec,U,,FRA,18.6639288159,200112,,,Julie Halard Decugis,R,,FRA,17.7768651608,7-6 6-1,3,R128,,,,,,,,,,,,,,,,,,,,168,3,55,15
 1988-W-SL-GBR-01A-1988,Wimbledon,Grass,128,G,19880620,3,200520,,,Sarah Loosemore,U,,GBR,17.015742642,200959,,,Mareen Louie Harper,R,,USA,27.8466803559,6-7 6-3 6-4,3,R128,,,,,,,,,,,,,,,,,,,,193,2,52,16
@@ -781,7 +781,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1988-W-WT-AUS-02A-1988,Adelaide,Hard,32,W,19881128,7,200362,,,Liz Smylie,U,,AUS,25.6344969199,201713,,,Caroline Van Renterghem,U,,BEL,16.8268309377,5-7 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,172,4,,
 1988-W-WT-AUS-02A-1988,Adelaide,Hard,32,W,19881128,8,200582,,,Maria Strandlund Tomsvik,U,,SWE,19.2826830938,200473,,,Beverly Bowes Hackney,R,,USA,23.2197125257,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,150,5,59,14
 1988-W-WT-AUS-02A-1988,Adelaide,Hard,32,W,19881128,9,200105,,,Rachel Mcquillan,U,,AUS,16.9911019849,201021,,,Laura Garrone,U,,ITA,21.0376454483,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,202,3,60,14
-1988-W-WT-AUS-02A-1988,Adelaide,Hard,32,W,19881128,10,200629,,,Cristina Tessi,U,,ARG,16.3586584531,200441,,,Louise Field,U,,AUS,21.7577002053,7-Jun,3,R32,,,,,,,,,,,,,,,,,,,,286,1,179,4
+1988-W-WT-AUS-02A-1988,Adelaide,Hard,32,W,19881128,10,200629,,,Cristina Tessi,U,,ARG,16.3586584531,200441,,,Louise Field,U,,AUS,21.7577002053,6-7,3,R32,,,,,,,,,,,,,,,,,,,,286,1,179,4
 1988-W-WT-AUS-02A-1988,Adelaide,Hard,32,W,19881128,11,200571,,,Jonna Jonerup,U,,SWE,19.3538672142,200552,,,Maria Lindstrom,U,,SWE,25.7303216975,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,157,5,131,6
 1988-W-WT-AUS-02A-1988,Adelaide,Hard,32,W,19881128,12,200530,,,Radomira Zrubakova,R,,SVK,17.9247091034,200498,,,Michelle Jaggard Lai,U,,AUS,19.5646817248,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,35,26,135,6
 1988-W-WT-AUS-02A-1988,Adelaide,Hard,32,W,19881128,13,200539,,,Jana Novotna,R,,CZE,20.1560574949,200037,,,Sabine Appelmans,L,,BEL,16.6023271732,1-6 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,45,20,215,2
@@ -803,37 +803,37 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1988-W-WT-AUS-02A-1988,Adelaide,Hard,32,W,19881128,29,200625,,,Jana Pospisilova,U,,CZE,18.6858316222,200582,,,Maria Strandlund Tomsvik,U,,SWE,19.2826830938,6-1 1-6 7-5,3,SF,,,,,,,,,,,,,,,,,,,,64,13,150,5
 1988-W-WT-AUS-02A-1988,Adelaide,Hard,32,W,19881128,30,200539,,,Jana Novotna,R,,CZE,20.1560574949,200530,,,Radomira Zrubakova,R,,SVK,17.9247091034,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,45,20,35,26
 1988-W-WT-AUS-02A-1988,Adelaide,Hard,32,W,19881128,31,200539,,,Jana Novotna,R,,CZE,20.1560574949,200625,,,Jana Pospisilova,U,,CZE,18.6858316222,7-5 6-4,3,F,,,,,,,,,,,,,,,,,,,,45,20,64,13
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,1,200404,1,,Zina Garrison,U,,USA,24.6516084873,201713,,,Caroline Van Renterghem,U,,BEL,16.4435318275,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,12,57,,
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,2,200544,,,Celine Cohen,U,,SUI,21.3524982888,201047,,,Andrea Vieira,U,,BRA,17.4291581109,3-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,124,6,158,3
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,3,201050,,Q,Immaculada Varas Caro,U,,ESP,23.5893223819,200475,,,Lisa Oneill,U,,AUS,19.923340178,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,208,2,145,4
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,4,200650,5,,Isabel Cueto,U,,GER,19.6030116359,200582,,,Maria Strandlund Tomsvik,U,,SWE,18.8993839836,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,31,25,137,5
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,5,200017,4,,Arantxa Sanchez Vicario,R,,ESP,16.5639972621,200587,,,Silke Meier,U,,GER,19.9945242984,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,21,37,77,10
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,6,200522,,,Nicole Krijger Jagerman,U,,NED,20.9691991786,200484,,,Ann Devries,U,,BEL,18.3682409309,5-7 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,107,8,86,9
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,7,200523,,,Olga Tsarbopoulou,U,,GRE,20.0602327173,201043,,,Barbara Romano,U,,ITA,23.4880219028,4-6 6-3 4-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,147,4,133,5
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,8,200640,8,,Mercedes Paz,U,,ARG,22.0396988364,200547,,,Sandra Wasserman,U,,BEL,18.3381245722,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,54,15,101,8
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,9,201046,,,Silvia La Fratta,U,,ITA,20.681724846,200585,7,,Kathy Horvath,U,,USA,22.8774811773,7-5 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,185,3,39,21
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,10,200962,,,Patricia Medrado,U,,BRA,31.6221765914,200600,,,Simone Schilder,U,,NED,21.2621492129,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,106,8,164,3
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,11,200519,,Q,Sybille Niox Chateau,U,,FRA,18.726899384,200037,,,Sabine Appelmans,L,,BEL,16.219028063,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,183,3,173,3
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,12,200422,3,,Raffaella Reggi Concato,U,,ITA,22.6201232033,200570,,,Veronika Martinek,U,,GER,16.2710472279,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,20,38,146,4
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,13,201025,6,,Neige Dias,U,,BRA,21.5989048597,200571,,Q,Jonna Jonerup,U,,SWE,18.970568104,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,36,22,192,2
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,14,200542,,,Clare Wood,R,,GBR,20.3422313484,201737,,Q,Stefania Dalla Valle,U,,ITA,21.9986310746,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,152,4,288,1
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,15,201017,,,Angelika Kanellopoulou,R,,GRE,22.5626283368,200452,,,Tine Scheuer Larsen,U,,DEN,22.3299110198,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,119,6,138,5
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,16,200455,2,,Katerina Maleeva,U,,BUL,19.1786447639,200584,,,Laura Golarsa,R,,ITA,20.6214921287,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,14,49,89,9
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,17,200404,1,,Zina Garrison,U,,USA,24.6516084873,200544,,,Celine Cohen,U,,SUI,21.3524982888,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,12,57,124,6
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,18,200650,5,,Isabel Cueto,U,,GER,19.6030116359,201050,,Q,Immaculada Varas Caro,U,,ESP,23.5893223819,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,31,25,208,2
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,19,200017,4,,Arantxa Sanchez Vicario,R,,ESP,16.5639972621,200522,,,Nicole Krijger Jagerman,U,,NED,20.9691991786,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,21,37,107,8
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,20,200640,8,,Mercedes Paz,U,,ARG,22.0396988364,200523,,,Olga Tsarbopoulou,U,,GRE,20.0602327173,7-5 2-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,54,15,147,4
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,21,201046,,,Silvia La Fratta,U,,ITA,20.681724846,200962,,,Patricia Medrado,U,,BRA,31.6221765914,7-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,185,3,106,8
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,22,200422,3,,Raffaella Reggi Concato,U,,ITA,22.6201232033,200519,,Q,Sybille Niox Chateau,U,,FRA,18.726899384,6-4 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,20,38,183,3
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,23,201025,6,,Neige Dias,U,,BRA,21.5989048597,200542,,,Clare Wood,R,,GBR,20.3422313484,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,36,22,152,4
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,24,201017,,,Angelika Kanellopoulou,R,,GRE,22.5626283368,200455,2,,Katerina Maleeva,U,,BUL,19.1786447639,1-6 6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,119,6,14,49
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,25,200650,5,,Isabel Cueto,U,,GER,19.6030116359,200404,1,,Zina Garrison,U,,USA,24.6516084873,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,31,25,12,57
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,26,200017,4,,Arantxa Sanchez Vicario,R,,ESP,16.5639972621,200640,8,,Mercedes Paz,U,,ARG,22.0396988364,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,21,37,54,15
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,27,200422,3,,Raffaella Reggi Concato,U,,ITA,22.6201232033,201046,,,Silvia La Fratta,U,,ITA,20.681724846,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,20,38,185,3
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,28,201017,,,Angelika Kanellopoulou,R,,GRE,22.5626283368,201025,6,,Neige Dias,U,,BRA,21.5989048597,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,119,6,36,22
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,29,200017,4,,Arantxa Sanchez Vicario,R,,ESP,16.5639972621,200650,5,,Isabel Cueto,U,,GER,19.6030116359,6-0 6-4,3,SF,,,,,,,,,,,,,,,,,,,,21,37,31,25
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,30,200422,3,,Raffaella Reggi Concato,U,,ITA,22.6201232033,201017,,,Angelika Kanellopoulou,R,,GRE,22.5626283368,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,20,38,119,6
-1988-W-WT-BEL-01A-1988,Belgian Open,Clay,32,W,19880711,31,200017,4,,Arantxa Sanchez Vicario,R,,ESP,16.5639972621,200422,3,,Raffaella Reggi Concato,U,,ITA,22.6201232033,6-0 7-5,3,F,,,,,,,,,,,,,,,,,,,,21,37,20,38
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,1,200404,1,,Zina Garrison,U,,USA,24.6516084873,201713,,,Caroline Van Renterghem,U,,BEL,16.4435318275,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,12,57,,
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,2,200544,,,Celine Cohen,U,,SUI,21.3524982888,201047,,,Andrea Vieira,U,,BRA,17.4291581109,3-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,124,6,158,3
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,3,201050,,Q,Immaculada Varas Caro,U,,ESP,23.5893223819,200475,,,Lisa Oneill,U,,AUS,19.923340178,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,208,2,145,4
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,4,200650,5,,Isabel Cueto,U,,GER,19.6030116359,200582,,,Maria Strandlund Tomsvik,U,,SWE,18.8993839836,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,31,25,137,5
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,5,200017,4,,Arantxa Sanchez Vicario,R,,ESP,16.5639972621,200587,,,Silke Meier,U,,GER,19.9945242984,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,21,37,77,10
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,6,200522,,,Nicole Krijger Jagerman,U,,NED,20.9691991786,200484,,,Ann Devries,U,,BEL,18.3682409309,5-7 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,107,8,86,9
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,7,200523,,,Olga Tsarbopoulou,U,,GRE,20.0602327173,201043,,,Barbara Romano,U,,ITA,23.4880219028,4-6 6-3 4-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,147,4,133,5
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,8,200640,8,,Mercedes Paz,U,,ARG,22.0396988364,200547,,,Sandra Wasserman,U,,BEL,18.3381245722,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,54,15,101,8
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,9,201046,,,Silvia La Fratta,U,,ITA,20.681724846,200585,7,,Kathy Horvath,U,,USA,22.8774811773,7-5 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,185,3,39,21
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,10,200962,,,Patricia Medrado,U,,BRA,31.6221765914,200600,,,Simone Schilder,U,,NED,21.2621492129,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,106,8,164,3
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,11,200519,,Q,Sybille Niox Chateau,U,,FRA,18.726899384,200037,,,Sabine Appelmans,L,,BEL,16.219028063,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,183,3,173,3
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,12,200422,3,,Raffaella Reggi Concato,U,,ITA,22.6201232033,200570,,,Veronika Martinek,U,,GER,16.2710472279,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,20,38,146,4
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,13,201025,6,,Neige Dias,U,,BRA,21.5989048597,200571,,Q,Jonna Jonerup,U,,SWE,18.970568104,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,36,22,192,2
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,14,200542,,,Clare Wood,R,,GBR,20.3422313484,201737,,Q,Stefania Dalla Valle,U,,ITA,21.9986310746,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,152,4,288,1
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,15,201017,,,Angelika Kanellopoulou,R,,GRE,22.5626283368,200452,,,Tine Scheuer Larsen,U,,DEN,22.3299110198,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,119,6,138,5
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,16,200455,2,,Katerina Maleeva,U,,BUL,19.1786447639,200584,,,Laura Golarsa,R,,ITA,20.6214921287,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,14,49,89,9
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,17,200404,1,,Zina Garrison,U,,USA,24.6516084873,200544,,,Celine Cohen,U,,SUI,21.3524982888,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,12,57,124,6
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,18,200650,5,,Isabel Cueto,U,,GER,19.6030116359,201050,,Q,Immaculada Varas Caro,U,,ESP,23.5893223819,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,31,25,208,2
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,19,200017,4,,Arantxa Sanchez Vicario,R,,ESP,16.5639972621,200522,,,Nicole Krijger Jagerman,U,,NED,20.9691991786,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,21,37,107,8
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,20,200640,8,,Mercedes Paz,U,,ARG,22.0396988364,200523,,,Olga Tsarbopoulou,U,,GRE,20.0602327173,7-5 2-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,54,15,147,4
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,21,201046,,,Silvia La Fratta,U,,ITA,20.681724846,200962,,,Patricia Medrado,U,,BRA,31.6221765914,7-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,185,3,106,8
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,22,200422,3,,Raffaella Reggi Concato,U,,ITA,22.6201232033,200519,,Q,Sybille Niox Chateau,U,,FRA,18.726899384,6-4 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,20,38,183,3
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,23,201025,6,,Neige Dias,U,,BRA,21.5989048597,200542,,,Clare Wood,R,,GBR,20.3422313484,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,36,22,152,4
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,24,201017,,,Angelika Kanellopoulou,R,,GRE,22.5626283368,200455,2,,Katerina Maleeva,U,,BUL,19.1786447639,1-6 6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,119,6,14,49
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,25,200650,5,,Isabel Cueto,U,,GER,19.6030116359,200404,1,,Zina Garrison,U,,USA,24.6516084873,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,31,25,12,57
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,26,200017,4,,Arantxa Sanchez Vicario,R,,ESP,16.5639972621,200640,8,,Mercedes Paz,U,,ARG,22.0396988364,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,21,37,54,15
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,27,200422,3,,Raffaella Reggi Concato,U,,ITA,22.6201232033,201046,,,Silvia La Fratta,U,,ITA,20.681724846,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,20,38,185,3
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,28,201017,,,Angelika Kanellopoulou,R,,GRE,22.5626283368,201025,6,,Neige Dias,U,,BRA,21.5989048597,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,119,6,36,22
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,29,200017,4,,Arantxa Sanchez Vicario,R,,ESP,16.5639972621,200650,5,,Isabel Cueto,U,,GER,19.6030116359,6-0 6-4,3,SF,,,,,,,,,,,,,,,,,,,,21,37,31,25
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,30,200422,3,,Raffaella Reggi Concato,U,,ITA,22.6201232033,201017,,,Angelika Kanellopoulou,R,,GRE,22.5626283368,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,20,38,119,6
+1988-W-WT-BEL-01A-1988,Brussels,Clay,32,W,19880711,31,200017,4,,Arantxa Sanchez Vicario,R,,ESP,16.5639972621,200422,3,,Raffaella Reggi Concato,U,,ITA,22.6201232033,6-0 7-5,3,F,,,,,,,,,,,,,,,,,,,,21,37,20,38
 1988-W-WT-BRA-01A-1988,Guaruja,Hard,32,W,19881107,1,200674,1,,Bettina Fulco Villella,R,,ARG,20.0410677618,201722,,,Luanne Spadea,U,,USA,15.8603696099,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,25,33,246,1
 1988-W-WT-BRA-01A-1988,Guaruja,Hard,32,W,19881107,2,201923,,Q,Alix Creek,U,,USA,16.0438056126,201979,,,Luciana Della Casa,U,,BRA,17.7029431896,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1988-W-WT-BRA-01A-1988,Guaruja,Hard,32,W,19881107,3,201040,,,Luciana Corsato Owsianka,U,,BRA,22.7953456537,200482,,,Judith Wiesner,R,,AUT,22.6858316222,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,190,3,34,26
@@ -896,61 +896,61 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1988-W-WT-BUL-01A-1988,Sofia,Hard,32,W,19880808,29,200049,6,,Conchita Martinez,R,170,ESP,16.3121149897,200455,1,,Katerina Maleeva,U,,BUL,19.2553045859,7-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,88,9,14,51
 1988-W-WT-BUL-01A-1988,Sofia,Hard,32,W,19880808,30,200604,2,,Barbara Paulus,U,,AUT,17.9356605065,200484,7,,Ann Devries,U,,BEL,18.4449007529,6-7 6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,38,22,107,8
 1988-W-WT-BUL-01A-1988,Sofia,Hard,32,W,19880808,31,200049,6,,Conchita Martinez,R,170,ESP,16.3121149897,200604,2,,Barbara Paulus,U,,AUT,17.9356605065,6-1 6-2,3,F,,,,,,,,,,,,,,,,,,,,88,9,38,22
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,1,200405,,,Susan Mascarin,U,,USA,24.1314168378,200598,,Q,Jeri Ingram,U,,USA,17.6783025325,6-2 6-2,3,R64,,,,,,,,,,,,,,,,,,,,146,5,177,3
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,2,200510,,LL,Julie Richardson,U,,NZL,21.3798767967,201045,,,Natalia Egorova,U,,RUS,21.9219712526,6-0 6-3,3,R64,,,,,,,,,,,,,,,,,,,,142,5,101,9
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,3,200366,11,,Sylvia Hanika,U,,GER,28.7091033539,200601,,,Leila Meskhi,U,,GEO,20.6105407255,6-1 7-5,3,R64,,,,,,,,,,,,,,,,,,,,16,46,37,24
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,4,200466,,Q,Molly Van Nostrand,U,,USA,23.4277891855,201270,,,Jane Young,U,,CAN,23.2087611225,6-2 6-4,3,R64,,,,,,,,,,,,,,,,,,,,225,2,,
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,5,200469,,,Nicole Bradtke,U,,AUS,18.8966461328,200028,,,Maureen Drake,R,,CAN,17.4045174538,7-5 6-2,3,R64,,,,,,,,,,,,,,,,,,,,32,25,278,1
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,6,200594,,,Iwona Kuczynska,U,,POL,27.4770704997,200362,,,Liz Smylie,U,,AUS,25.3470225873,6-1 6-4,3,R64,,,,,,,,,,,,,,,,,,,,72,11,130,6
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,7,200487,,,Eva Krapl,U,,SUI,22.5790554415,201915,,Q,Carrie Lynn Cohen,U,,CAN,21.4428473648,6-1 6-3,3,R64,,,,,,,,,,,,,,,,,,,,132,6,,
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,8,200994,,,Michelle Torres,U,,USA,21.1362080767,200333,,,Betsy Nagelsen,R,,USA,31.8110882957,6-4 6-0,3,R64,,,,,,,,,,,,,,,,,,,,83,10,114,7
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,9,200097,,,Nathalie Tauziat,R,,FRA,20.8295687885,200346,14,,Anne Minter,U,,AUS,25.3689253936,6-1 5-7 6-2,3,R64,,,,,,,,,,,,,,,,,,,,34,25,25,30
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,10,200375,10,,Barbara Potter,U,,USA,26.8145106092,200491,,,Christina Singer,U,,GER,20.052019165,6-1 6-4,3,R64,,,,,,,,,,,,,,,,,,,,13,59,89,10
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,11,200423,,,Carling Bassett Seguso,U,,CAN,20.8514715948,200557,,,Katrina Adams,U,,USA,20.0273785079,6-2 6-1,3,R64,,,,,,,,,,,,,,,,,,,,183,3,96,9
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,12,200496,,,Terry Phelps,U,,USA,21.659137577,200384,,,Eva Pfaff,U,,GER,27.5099247091,6-2 6-2,3,R64,,,,,,,,,,,,,,,,,,,,65,12,90,10
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,13,200448,,Q,Sandy Collins,U,,USA,29.839835729,200535,,Q,Jo Anne Faull,U,,AUS,17.5879534565,7-6 6-2,3,R64,,,,,,,,,,,,,,,,,,,,175,3,173,3
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,14,200112,,,Julie Halard Decugis,R,,FRA,17.9301848049,200443,,,Sara Gomer,U,,GBR,24.257357974,6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,53,16,49,18
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,15,200472,13,,Helen Kelesi,U,,CAN,18.7488021903,200415,,,Catherine Suire,U,,FRA,28.9171800137,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,20,39,126,6
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,16,200404,9,,Zina Garrison,U,,USA,24.7474332649,200590,,,Gisele Miro,U,,BRA,19.7864476386,6-1 6-2,3,R64,,,,,,,,,,,,,,,,,,,,12,59,121,7
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,17,200462,,,Belinda Cordwell,U,,NZL,22.8993839836,200473,,,Beverly Bowes Hackney,R,,USA,22.932238193,3-6 6-3 6-1,3,R64,,,,,,,,,,,,,,,,,,,,60,13,80,10
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,18,200610,,Q,Stacey Martin,U,,USA,17.7549623546,200589,,,Halle Cioffi,U,,USA,19.0280629706,6-4 6-3,3,R64,,,,,,,,,,,,,,,,,,,,159,4,31,26
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,19,200501,,,Marianne Werdel Witmeyer,U,,USA,20.8295687885,200439,,,Jenny Byrne,U,,AUS,21.4702258727,7-6 6-1,3,R64,,,,,,,,,,,,,,,,,,,,64,12,139,6
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,20,200456,,,Masako Yanagi,U,,JPN,28.7611225188,200500,,,Pilar Vasquez,U,,PER,25.2539356605,6-2 6-2,3,R64,,,,,,,,,,,,,,,,,,,,111,8,160,4
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,21,200453,,,Catarina Lindqvist Ryan,U,,SWE,25.1745379877,200464,,,Ann Henricksson,U,,USA,28.7912388775,5-7 6-3 7-6,3,R64,,,,,,,,,,,,,,,,,,,,28,29,69,11
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,22,200450,12,,Larisa Savchenko,U,,URS,22.0698151951,200479,,Q,Emiko Okagawa,U,,JPN,23.6358658453,6-1 6-3,3,R64,,,,,,,,,,,,,,,,,,,,17,43,,
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,23,200621,,,Isabelle Demongeot,U,,FRA,21.9082819986,200543,,,Jill Hetherington,U,,CAN,23.8001368925,6-4 6-2,3,R64,,,,,,,,,,,,,,,,,,,,46,18,110,8
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,24,200560,,,Rene Collins,L,,CAN,22.5845311431,200495,,,Akiko Kijimuta,U,,JPN,20.2902121834,1-6 6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,79,10
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,25,200293,1,,Martina Navratilova,L,173,USA,31.8247775496,200405,,,Susan Mascarin,U,,USA,24.1314168378,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,2,244,146,5
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,26,200366,11,,Sylvia Hanika,U,,GER,28.7091033539,200510,,LL,Julie Richardson,U,,NZL,21.3798767967,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,16,46,142,5
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,27,200469,,,Nicole Bradtke,U,,AUS,18.8966461328,200466,,Q,Molly Van Nostrand,U,,USA,23.4277891855,6-2 6-7 7-5,3,R32,,,,,,,,,,,,,,,,,,,,32,25,225,2
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,28,200116,6,,Natalia Zvereva,R,,BLR,17.3333333333,200594,,,Iwona Kuczynska,U,,POL,27.4770704997,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,8,73,72,11
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,29,200360,3,,Pam Shriver,R,,USA,26.1163586585,200487,,,Eva Krapl,U,,SUI,22.5790554415,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,4,140,132,6
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,30,200097,,,Nathalie Tauziat,R,,FRA,20.8295687885,200994,,,Michelle Torres,U,,USA,21.1362080767,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,34,25,83,10
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,31,200375,10,,Barbara Potter,U,,USA,26.8145106092,200423,,,Carling Bassett Seguso,U,,CAN,20.8514715948,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,13,59,183,3
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,32,200496,,,Terry Phelps,U,,USA,21.659137577,200538,,LL,Akemi Nishiya,R,,JPN,23.4305270363,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,65,12,169,4
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,33,200428,7,,Lori Mcneil,U,,USA,24.6598220397,200448,,Q,Sandy Collins,U,,USA,29.839835729,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,9,70,175,3
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,34,200472,13,,Helen Kelesi,U,,CAN,18.7488021903,200112,,,Julie Halard Decugis,R,,FRA,17.9301848049,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,20,39,53,16
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,35,200404,9,,Zina Garrison,U,,USA,24.7474332649,200462,,,Belinda Cordwell,U,,NZL,22.8993839836,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,12,59,60,13
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,36,200572,4,,Gabriela Sabatini,R,,ARG,18.250513347,200610,,Q,Stacey Martin,U,,USA,17.7549623546,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,5,139,159,4
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,37,200377,5,,Helena Sukova,R,,CZE,23.4743326489,200501,,,Marianne Werdel Witmeyer,U,,USA,20.8295687885,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,7,82,64,12
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,38,200453,,,Catarina Lindqvist Ryan,U,,SWE,25.1745379877,200456,,,Masako Yanagi,U,,JPN,28.7611225188,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,28,29,111,8
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,39,200621,,,Isabelle Demongeot,U,,FRA,21.9082819986,200450,12,,Larisa Savchenko,U,,URS,22.0698151951,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,46,18,17,43
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,40,200259,2,,Chris Evert,R,,USA,33.6509240246,200560,,,Rene Collins,L,,CAN,22.5845311431,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,3,162,,
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,41,200293,1,,Martina Navratilova,L,173,USA,31.8247775496,200366,11,,Sylvia Hanika,U,,GER,28.7091033539,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,2,244,16,46
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,42,200116,6,,Natalia Zvereva,R,,BLR,17.3333333333,200469,,,Nicole Bradtke,U,,AUS,18.8966461328,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,8,73,32,25
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,43,200360,3,,Pam Shriver,R,,USA,26.1163586585,200097,,,Nathalie Tauziat,R,,FRA,20.8295687885,7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,4,140,34,25
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,44,200496,,,Terry Phelps,U,,USA,21.659137577,200375,10,,Barbara Potter,U,,USA,26.8145106092,6-0 3-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,65,12,13,59
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,45,200428,7,,Lori Mcneil,U,,USA,24.6598220397,200472,13,,Helen Kelesi,U,,CAN,18.7488021903,2-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,9,70,20,39
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,46,200572,4,,Gabriela Sabatini,R,,ARG,18.250513347,200404,9,,Zina Garrison,U,,USA,24.7474332649,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,5,139,12,59
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,47,200377,5,,Helena Sukova,R,,CZE,23.4743326489,200453,,,Catarina Lindqvist Ryan,U,,SWE,25.1745379877,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,7,82,28,29
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,48,200259,2,,Chris Evert,R,,USA,33.6509240246,200621,,,Isabelle Demongeot,U,,FRA,21.9082819986,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,3,162,46,18
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,49,200116,6,,Natalia Zvereva,R,,BLR,17.3333333333,200293,1,,Martina Navratilova,L,173,USA,31.8247775496,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,8,73,2,244
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,50,200360,3,,Pam Shriver,R,,USA,26.1163586585,200496,,,Terry Phelps,U,,USA,21.659137577,7-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,4,140,65,12
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,51,200572,4,,Gabriela Sabatini,R,,ARG,18.250513347,200428,7,,Lori Mcneil,U,,USA,24.6598220397,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,5,139,9,70
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,52,200259,2,,Chris Evert,R,,USA,33.6509240246,200377,5,,Helena Sukova,R,,CZE,23.4743326489,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,3,162,7,82
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,53,200116,6,,Natalia Zvereva,R,,BLR,17.3333333333,200360,3,,Pam Shriver,R,,USA,26.1163586585,7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,8,73,4,140
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,54,200572,4,,Gabriela Sabatini,R,,ARG,18.250513347,200259,2,,Chris Evert,R,,USA,33.6509240246,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,5,139,3,162
-1988-W-WT-CAN-01A-1988,Canadian Open,Hard,56,W,19880815,55,200572,4,,Gabriela Sabatini,R,,ARG,18.250513347,200116,6,,Natalia Zvereva,R,,BLR,17.3333333333,6-1 6-2,3,F,,,,,,,,,,,,,,,,,,,,5,139,8,73
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,1,200405,,,Susan Mascarin,U,,USA,24.1314168378,200598,,Q,Jeri Ingram,U,,USA,17.6783025325,6-2 6-2,3,R64,,,,,,,,,,,,,,,,,,,,146,5,177,3
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,2,200510,,LL,Julie Richardson,U,,NZL,21.3798767967,201045,,,Natalia Egorova,U,,RUS,21.9219712526,6-0 6-3,3,R64,,,,,,,,,,,,,,,,,,,,142,5,101,9
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,3,200366,11,,Sylvia Hanika,U,,GER,28.7091033539,200601,,,Leila Meskhi,U,,GEO,20.6105407255,6-1 7-5,3,R64,,,,,,,,,,,,,,,,,,,,16,46,37,24
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,4,200466,,Q,Molly Van Nostrand,U,,USA,23.4277891855,201270,,,Jane Young,U,,CAN,23.2087611225,6-2 6-4,3,R64,,,,,,,,,,,,,,,,,,,,225,2,,
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,5,200469,,,Nicole Bradtke,U,,AUS,18.8966461328,200028,,,Maureen Drake,R,,CAN,17.4045174538,7-5 6-2,3,R64,,,,,,,,,,,,,,,,,,,,32,25,278,1
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,6,200594,,,Iwona Kuczynska,U,,POL,27.4770704997,200362,,,Liz Smylie,U,,AUS,25.3470225873,6-1 6-4,3,R64,,,,,,,,,,,,,,,,,,,,72,11,130,6
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,7,200487,,,Eva Krapl,U,,SUI,22.5790554415,201915,,Q,Carrie Lynn Cohen,U,,CAN,21.4428473648,6-1 6-3,3,R64,,,,,,,,,,,,,,,,,,,,132,6,,
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,8,200994,,,Michelle Torres,U,,USA,21.1362080767,200333,,,Betsy Nagelsen,R,,USA,31.8110882957,6-4 6-0,3,R64,,,,,,,,,,,,,,,,,,,,83,10,114,7
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,9,200097,,,Nathalie Tauziat,R,,FRA,20.8295687885,200346,14,,Anne Minter,U,,AUS,25.3689253936,6-1 5-7 6-2,3,R64,,,,,,,,,,,,,,,,,,,,34,25,25,30
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,10,200375,10,,Barbara Potter,U,,USA,26.8145106092,200491,,,Christina Singer,U,,GER,20.052019165,6-1 6-4,3,R64,,,,,,,,,,,,,,,,,,,,13,59,89,10
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,11,200423,,,Carling Bassett Seguso,U,,CAN,20.8514715948,200557,,,Katrina Adams,U,,USA,20.0273785079,6-2 6-1,3,R64,,,,,,,,,,,,,,,,,,,,183,3,96,9
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,12,200496,,,Terry Phelps,U,,USA,21.659137577,200384,,,Eva Pfaff,U,,GER,27.5099247091,6-2 6-2,3,R64,,,,,,,,,,,,,,,,,,,,65,12,90,10
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,13,200448,,Q,Sandy Collins,U,,USA,29.839835729,200535,,Q,Jo Anne Faull,U,,AUS,17.5879534565,7-6 6-2,3,R64,,,,,,,,,,,,,,,,,,,,175,3,173,3
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,14,200112,,,Julie Halard Decugis,R,,FRA,17.9301848049,200443,,,Sara Gomer,U,,GBR,24.257357974,6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,53,16,49,18
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,15,200472,13,,Helen Kelesi,U,,CAN,18.7488021903,200415,,,Catherine Suire,U,,FRA,28.9171800137,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,20,39,126,6
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,16,200404,9,,Zina Garrison,U,,USA,24.7474332649,200590,,,Gisele Miro,U,,BRA,19.7864476386,6-1 6-2,3,R64,,,,,,,,,,,,,,,,,,,,12,59,121,7
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,17,200462,,,Belinda Cordwell,U,,NZL,22.8993839836,200473,,,Beverly Bowes Hackney,R,,USA,22.932238193,3-6 6-3 6-1,3,R64,,,,,,,,,,,,,,,,,,,,60,13,80,10
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,18,200610,,Q,Stacey Martin,U,,USA,17.7549623546,200589,,,Halle Cioffi,U,,USA,19.0280629706,6-4 6-3,3,R64,,,,,,,,,,,,,,,,,,,,159,4,31,26
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,19,200501,,,Marianne Werdel Witmeyer,U,,USA,20.8295687885,200439,,,Jenny Byrne,U,,AUS,21.4702258727,7-6 6-1,3,R64,,,,,,,,,,,,,,,,,,,,64,12,139,6
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,20,200456,,,Masako Yanagi,U,,JPN,28.7611225188,200500,,,Pilar Vasquez,U,,PER,25.2539356605,6-2 6-2,3,R64,,,,,,,,,,,,,,,,,,,,111,8,160,4
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,21,200453,,,Catarina Lindqvist Ryan,U,,SWE,25.1745379877,200464,,,Ann Henricksson,U,,USA,28.7912388775,5-7 6-3 7-6,3,R64,,,,,,,,,,,,,,,,,,,,28,29,69,11
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,22,200450,12,,Larisa Savchenko,U,,URS,22.0698151951,200479,,Q,Emiko Okagawa,U,,JPN,23.6358658453,6-1 6-3,3,R64,,,,,,,,,,,,,,,,,,,,17,43,,
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,23,200621,,,Isabelle Demongeot,U,,FRA,21.9082819986,200543,,,Jill Hetherington,U,,CAN,23.8001368925,6-4 6-2,3,R64,,,,,,,,,,,,,,,,,,,,46,18,110,8
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,24,200560,,,Rene Collins,L,,CAN,22.5845311431,200495,,,Akiko Kijimuta,U,,JPN,20.2902121834,1-6 6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,79,10
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,25,200293,1,,Martina Navratilova,L,173,USA,31.8247775496,200405,,,Susan Mascarin,U,,USA,24.1314168378,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,2,244,146,5
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,26,200366,11,,Sylvia Hanika,U,,GER,28.7091033539,200510,,LL,Julie Richardson,U,,NZL,21.3798767967,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,16,46,142,5
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,27,200469,,,Nicole Bradtke,U,,AUS,18.8966461328,200466,,Q,Molly Van Nostrand,U,,USA,23.4277891855,6-2 6-7 7-5,3,R32,,,,,,,,,,,,,,,,,,,,32,25,225,2
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,28,200116,6,,Natalia Zvereva,R,,BLR,17.3333333333,200594,,,Iwona Kuczynska,U,,POL,27.4770704997,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,8,73,72,11
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,29,200360,3,,Pam Shriver,R,,USA,26.1163586585,200487,,,Eva Krapl,U,,SUI,22.5790554415,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,4,140,132,6
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,30,200097,,,Nathalie Tauziat,R,,FRA,20.8295687885,200994,,,Michelle Torres,U,,USA,21.1362080767,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,34,25,83,10
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,31,200375,10,,Barbara Potter,U,,USA,26.8145106092,200423,,,Carling Bassett Seguso,U,,CAN,20.8514715948,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,13,59,183,3
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,32,200496,,,Terry Phelps,U,,USA,21.659137577,200538,,LL,Akemi Nishiya,R,,JPN,23.4305270363,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,65,12,169,4
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,33,200428,7,,Lori Mcneil,U,,USA,24.6598220397,200448,,Q,Sandy Collins,U,,USA,29.839835729,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,9,70,175,3
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,34,200472,13,,Helen Kelesi,U,,CAN,18.7488021903,200112,,,Julie Halard Decugis,R,,FRA,17.9301848049,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,20,39,53,16
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,35,200404,9,,Zina Garrison,U,,USA,24.7474332649,200462,,,Belinda Cordwell,U,,NZL,22.8993839836,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,12,59,60,13
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,36,200572,4,,Gabriela Sabatini,R,,ARG,18.250513347,200610,,Q,Stacey Martin,U,,USA,17.7549623546,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,5,139,159,4
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,37,200377,5,,Helena Sukova,R,,CZE,23.4743326489,200501,,,Marianne Werdel Witmeyer,U,,USA,20.8295687885,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,7,82,64,12
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,38,200453,,,Catarina Lindqvist Ryan,U,,SWE,25.1745379877,200456,,,Masako Yanagi,U,,JPN,28.7611225188,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,28,29,111,8
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,39,200621,,,Isabelle Demongeot,U,,FRA,21.9082819986,200450,12,,Larisa Savchenko,U,,URS,22.0698151951,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,46,18,17,43
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,40,200259,2,,Chris Evert,R,,USA,33.6509240246,200560,,,Rene Collins,L,,CAN,22.5845311431,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,3,162,,
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,41,200293,1,,Martina Navratilova,L,173,USA,31.8247775496,200366,11,,Sylvia Hanika,U,,GER,28.7091033539,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,2,244,16,46
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,42,200116,6,,Natalia Zvereva,R,,BLR,17.3333333333,200469,,,Nicole Bradtke,U,,AUS,18.8966461328,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,8,73,32,25
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,43,200360,3,,Pam Shriver,R,,USA,26.1163586585,200097,,,Nathalie Tauziat,R,,FRA,20.8295687885,7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,4,140,34,25
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,44,200496,,,Terry Phelps,U,,USA,21.659137577,200375,10,,Barbara Potter,U,,USA,26.8145106092,6-0 3-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,65,12,13,59
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,45,200428,7,,Lori Mcneil,U,,USA,24.6598220397,200472,13,,Helen Kelesi,U,,CAN,18.7488021903,2-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,9,70,20,39
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,46,200572,4,,Gabriela Sabatini,R,,ARG,18.250513347,200404,9,,Zina Garrison,U,,USA,24.7474332649,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,5,139,12,59
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,47,200377,5,,Helena Sukova,R,,CZE,23.4743326489,200453,,,Catarina Lindqvist Ryan,U,,SWE,25.1745379877,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,7,82,28,29
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,48,200259,2,,Chris Evert,R,,USA,33.6509240246,200621,,,Isabelle Demongeot,U,,FRA,21.9082819986,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,3,162,46,18
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,49,200116,6,,Natalia Zvereva,R,,BLR,17.3333333333,200293,1,,Martina Navratilova,L,173,USA,31.8247775496,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,8,73,2,244
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,50,200360,3,,Pam Shriver,R,,USA,26.1163586585,200496,,,Terry Phelps,U,,USA,21.659137577,7-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,4,140,65,12
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,51,200572,4,,Gabriela Sabatini,R,,ARG,18.250513347,200428,7,,Lori Mcneil,U,,USA,24.6598220397,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,5,139,9,70
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,52,200259,2,,Chris Evert,R,,USA,33.6509240246,200377,5,,Helena Sukova,R,,CZE,23.4743326489,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,3,162,7,82
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,53,200116,6,,Natalia Zvereva,R,,BLR,17.3333333333,200360,3,,Pam Shriver,R,,USA,26.1163586585,7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,8,73,4,140
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,54,200572,4,,Gabriela Sabatini,R,,ARG,18.250513347,200259,2,,Chris Evert,R,,USA,33.6509240246,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,5,139,3,162
+1988-W-WT-CAN-01A-1988,Montreal,Hard,56,W,19880815,55,200572,4,,Gabriela Sabatini,R,,ARG,18.250513347,200116,6,,Natalia Zvereva,R,,BLR,17.3333333333,6-1 6-2,3,F,,,,,,,,,,,,,,,,,,,,5,139,8,73
 1988-W-WT-ESP-01A-1988,Barcelona,Clay,32,W,19880425,1,200366,1,,Sylvia Hanika,U,,GER,28.4024640657,202018,,Q,Anna Karin Olsson,U,,SWE,20.9609856263,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,16,41,336,0
 1988-W-WT-ESP-01A-1988,Barcelona,Clay,32,W,19880425,2,200600,,,Simone Schilder,U,,NED,21.0513347023,201980,,,Nicolette Rooimans,U,,NED,19.742642026,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,199,2,264,1
 1988-W-WT-ESP-01A-1988,Barcelona,Clay,32,W,19880425,3,200370,,,Marie Christine Calleja,U,,FRA,24.2792607803,201960,,Q,Rosa Bielsa Hierro,U,,ESP,22.2915811088,6-7 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,149,4,334,0
@@ -1130,61 +1130,61 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1988-W-WT-FRA-04A-1988,Paris,Clay,32,W,19880919,29,200569,,Q,Petra Pichalova Langrova,U,,TCH,18.2313483915,201051,,,Laura Lapi,U,,ITA,18.0260095825,6-4 6-7 7-6,3,SF,,,,,,,,,,,,,,,,,,,,201,3,114,7
 1988-W-WT-FRA-04A-1988,Paris,Clay,32,W,19880919,30,200547,2,,Sandra Wasserman,U,,BEL,18.5297741273,200561,,,Cathy Caverzasio,U,,SUI,15.9753593429,6-7 6-4 7-6,3,SF,,,,,,,,,,,,,,,,,,,,67,12,162,4
 1988-W-WT-FRA-04A-1988,Paris,Clay,32,W,19880919,31,200569,,Q,Petra Pichalova Langrova,U,,TCH,18.2313483915,200547,2,,Sandra Wasserman,U,,BEL,18.5297741273,7-6 6-2,3,F,,,,,,,,,,,,,,,,,,,,201,3,67,12
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,1,200112,,,Julie Halard Decugis,R,,FRA,17.6618754278,200392,,,Jo Durie,R,,GBR,27.7837097878,7-6 6-1,3,R64,,,,,,,,,,,,,,,,,,,,51,16,69,12
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,2,200587,,,Silke Meier,U,,GER,19.8220396988,200439,,,Jenny Byrne,U,,AUS,21.2019164956,6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,82,11,126,6
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,3,200097,10,,Nathalie Tauziat,R,,FRA,20.5612594114,200573,,Q,Cecilia Dahlman,U,,SWE,19.7919233402,6-4 1-6 6-1,3,R64,,,,,,,,,,,,,,,,,,,,24,31,318,0
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,4,200494,,,Dianne Van Rensburg,U,,RSA,20.180698152,200705,,,Linda Ferrando,U,,ITA,22.3216974675,7-5 6-2,3,R64,,,,,,,,,,,,,,,,,,,,104,8,81,11
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,5,200469,,,Nicole Bradtke,U,,AUS,18.6283367556,200441,,LL,Louise Field,U,,AUS,21.2019164956,7-6 6-2,3,R64,,,,,,,,,,,,,,,,,,,,57,14,139,5
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,6,200621,,,Isabelle Demongeot,U,,FRA,21.6399726215,200485,,,Manon Bollegraf,U,,NED,24.0793976728,7-5 6-1,3,R64,,,,,,,,,,,,,,,,,,,,50,16,98,9
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,7,201715,,Q,Heike Thoms,U,,GER,19.5181382615,200586,,,Federica Bonsignori,U,,ITA,20.4681724846,7-6 6-2,3,R64,,,,,,,,,,,,,,,,,,,,213,2,67,12
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,8,200640,,,Mercedes Paz,U,,ARG,21.8672142368,201047,,Q,Andrea Vieira,U,,BRA,17.2566735113,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,96,9,158,3
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,9,201051,,Q,Laura Lapi,U,,ITA,17.6618754278,200539,13,,Jana Novotna,R,,CZE,19.6002737851,7-6 6-7 6-2,3,R64,,,,,,,,,,,,,,,,,,,,146,4,35,23
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,10,200641,12,,Patricia Tarabini,R,,ARG,19.7563312799,200590,,,Gisele Miro,U,,BRA,19.5181382615,6-2 6-2,3,R64,,,,,,,,,,,,,,,,,,,,29,27,134,5
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,11,200542,,Q,Clare Wood,R,,GBR,20.1697467488,200398,,,Iva Budarova,U,,TCH,27.7727583847,6-7 7-6 6-3,3,R64,,,,,,,,,,,,,,,,,,,,144,5,110,8
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,12,200452,,Q,Tine Scheuer Larsen,U,,DEN,22.1574264203,200609,,Q,Steffi Menning,U,,GER,17.3497604381,6-1 6-0,3,R64,,,,,,,,,,,,,,,,,,,,129,6,,
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,13,201760,,,Heidi Sprung,U,,AUT,19.3264887064,201830,,,Katharina Duell,U,,GER,15.0828199863,6-4 6-4,3,R64,,,,,,,,,,,,,,,,,,,,273,1,229,1
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,14,200544,,LL,Celine Cohen,U,,SUI,21.1800136893,200421,,,Pascale Paradis Mangon,R,,FRA,22.0424366872,4-6 6-3 6-1,3,R64,,,,,,,,,,,,,,,,,,,,124,6,46,18
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,15,200650,11,,Isabel Cueto,U,,GER,19.4305270363,201021,,,Laura Garrone,U,,ITA,20.4818617385,6-1 6-4,3,R64,,,,,,,,,,,,,,,,,,,,30,26,62,13
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,16,200017,9,,Arantxa Sanchez Vicario,R,,ESP,16.3915126626,200384,,,Eva Pfaff,U,,GER,27.241615332,6-1 6-4,3,R64,,,,,,,,,,,,,,,,,,,,22,34,61,13
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,17,200530,,,Radomira Zrubakova,R,,SVK,17.3689253936,200564,,,Hester Witvoet,U,,NED,20.8405201916,7-5 6-3,3,R64,,,,,,,,,,,,,,,,,,,,72,11,88,10
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,18,200570,,,Veronika Martinek,U,,GER,16.0985626283,200596,,,Sabine Krein Auer,U,,GER,21.6016427105,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,166,3,131,5
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,19,200668,,,Silke Frankl,U,,GER,17.9466119097,201020,,,Petra Huber,U,,AUT,22.2286105407,1-6 6-4 6-2,3,R64,,,,,,,,,,,,,,,,,,,,262,1,86,10
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,20,200473,,,Beverly Bowes Hackney,R,,USA,22.6639288159,200480,,,Claudia Porwik,U,,GER,19.4825462012,7-6 6-4,3,R64,,,,,,,,,,,,,,,,,,,,113,7,59,14
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,21,200585,14,,Kathy Horvath,U,,USA,22.7049965777,200447,,,Adriana Villagran Reami,U,,ARG,31.7535934292,6-4 6-7 6-3,3,R64,,,,,,,,,,,,,,,,,,,,37,21,108,8
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,22,200994,,,Michelle Torres,U,,USA,20.8678986995,200506,,,Wiltrud Probst,R,,GER,18.945927447,6-2 6-2,3,R64,,,,,,,,,,,,,,,,,,,,93,9,74,11
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,23,200628,,,Sabrina Goles,U,,YUG,22.932238193,200554,,,Brenda Schultz Mccarthy,R,,NED,17.363449692,7-6 7-5,3,R64,,,,,,,,,,,,,,,,,,,,48,16,47,17
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,24,200674,,,Bettina Fulco Villella,R,,ARG,19.5427789185,200604,,,Barbara Paulus,U,,AUT,17.6865160849,6-1 6-2,3,R64,,,,,,,,,,,,,,,,,,,,38,20,91,9
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,25,200414,1,,Steffi Graf,R,,GER,18.9021218344,200112,,,Julie Halard Decugis,R,,FRA,17.6618754278,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1,283,51,16
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,26,200587,,,Silke Meier,U,,GER,19.8220396988,200097,10,,Nathalie Tauziat,R,,FRA,20.5612594114,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,82,11,24,31
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,27,200469,,,Nicole Bradtke,U,,AUS,18.6283367556,200494,,,Dianne Van Rensburg,U,,RSA,20.180698152,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,57,14,104,8
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,28,200621,,,Isabelle Demongeot,U,,FRA,21.6399726215,200422,5,,Raffaella Reggi Concato,U,,ITA,22.4476386037,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,50,16,13,46
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,29,200354,3,,Claudia Kohde Kilsch,R,,GER,24.4106776181,201715,,Q,Heike Thoms,U,,GER,19.5181382615,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,8,64,213,2
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,30,200640,,,Mercedes Paz,U,,ARG,21.8672142368,201051,,Q,Laura Lapi,U,,ITA,17.6618754278,6-0 7-6,3,R32,,,,,,,,,,,,,,,,,,,,96,9,146,4
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,31,200641,12,,Patricia Tarabini,R,,ARG,19.7563312799,200542,,Q,Clare Wood,R,,GBR,20.1697467488,6-3 5-7 7-6,3,R32,,,,,,,,,,,,,,,,,,,,29,27,144,5
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,32,200725,6,,Sandra Cecchini,U,,ITA,23.1950718686,200452,,Q,Tine Scheuer Larsen,U,,DEN,22.1574264203,2-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,18,42,129,6
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,33,200366,7,,Sylvia Hanika,U,,GER,28.4407939767,201760,,,Heidi Sprung,U,,AUT,19.3264887064,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,19,41,273,1
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,34,200650,11,,Isabel Cueto,U,,GER,19.4305270363,200544,,LL,Celine Cohen,U,,SUI,21.1800136893,0-6 6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,30,26,124,6
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,35,200530,,,Radomira Zrubakova,R,,SVK,17.3689253936,200017,9,,Arantxa Sanchez Vicario,R,,ESP,16.3915126626,7-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,72,11,22,34
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,36,200348,4,,Hana Mandlikova,R,,AUS,26.2176591376,200570,,,Veronika Martinek,U,,GER,16.0985626283,2-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,9,60,166,3
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,37,200597,8,,Mary Joe Fernandez,R,,USA,16.7227926078,200668,,,Silke Frankl,U,,GER,17.9466119097,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,20,41,262,1
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,38,200473,,,Beverly Bowes Hackney,R,,USA,22.6639288159,200585,14,,Kathy Horvath,U,,USA,22.7049965777,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,113,7,37,21
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,39,200628,,,Sabrina Goles,U,,YUG,22.932238193,200994,,,Michelle Torres,U,,USA,20.8678986995,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,48,16,93,9
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,40,200377,2,,Helena Sukova,R,,CZE,23.2060232717,200674,,,Bettina Fulco Villella,R,,ARG,19.5427789185,7-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,7,80,38,20
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,41,200414,1,,Steffi Graf,R,,GER,18.9021218344,200587,,,Silke Meier,U,,GER,19.8220396988,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1,283,82,11
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,42,200469,,,Nicole Bradtke,U,,AUS,18.6283367556,200621,,,Isabelle Demongeot,U,,FRA,21.6399726215,6-2 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,57,14,50,16
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,43,200354,3,,Claudia Kohde Kilsch,R,,GER,24.4106776181,200640,,,Mercedes Paz,U,,ARG,21.8672142368,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,8,64,96,9
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,44,200725,6,,Sandra Cecchini,U,,ITA,23.1950718686,200641,12,,Patricia Tarabini,R,,ARG,19.7563312799,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,18,42,29,27
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,45,200366,7,,Sylvia Hanika,U,,GER,28.4407939767,200650,11,,Isabel Cueto,U,,GER,19.4305270363,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,19,41,30,26
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,46,200530,,,Radomira Zrubakova,R,,SVK,17.3689253936,200348,4,,Hana Mandlikova,R,,AUS,26.2176591376,7-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,72,11,9,60
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,47,200597,8,,Mary Joe Fernandez,R,,USA,16.7227926078,200473,,,Beverly Bowes Hackney,R,,USA,22.6639288159,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,20,41,113,7
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,48,200377,2,,Helena Sukova,R,,CZE,23.2060232717,200628,,,Sabrina Goles,U,,YUG,22.932238193,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,7,80,48,16
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,49,200414,1,,Steffi Graf,R,,GER,18.9021218344,200469,,,Nicole Bradtke,U,,AUS,18.6283367556,6-0 6-2,3,QF,,,,,,,,,,,,,,,,,,,,1,283,57,14
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,50,200354,3,,Claudia Kohde Kilsch,R,,GER,24.4106776181,200725,6,,Sandra Cecchini,U,,ITA,23.1950718686,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,8,64,18,42
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,51,200366,7,,Sylvia Hanika,U,,GER,28.4407939767,200530,,,Radomira Zrubakova,R,,SVK,17.3689253936,6-4 3-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,19,41,72,11
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,52,200377,2,,Helena Sukova,R,,CZE,23.2060232717,200597,8,,Mary Joe Fernandez,R,,USA,16.7227926078,7-6 6-0,3,QF,,,,,,,,,,,,,,,,,,,,7,80,20,41
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,53,200414,1,,Steffi Graf,R,,GER,18.9021218344,200354,3,,Claudia Kohde Kilsch,R,,GER,24.4106776181,6-1 6-0,3,SF,,,,,,,,,,,,,,,,,,,,1,283,8,64
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,54,200377,2,,Helena Sukova,R,,CZE,23.2060232717,200366,7,,Sylvia Hanika,U,,GER,28.4407939767,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,7,80,19,41
-1988-W-WT-FRG-01A-1988,German Open,Clay,56,W,19880509,55,200414,1,,Steffi Graf,R,,GER,18.9021218344,200377,2,,Helena Sukova,R,,CZE,23.2060232717,6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,1,283,7,80
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,1,200112,,,Julie Halard Decugis,R,,FRA,17.6618754278,200392,,,Jo Durie,R,,GBR,27.7837097878,7-6 6-1,3,R64,,,,,,,,,,,,,,,,,,,,51,16,69,12
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,2,200587,,,Silke Meier,U,,GER,19.8220396988,200439,,,Jenny Byrne,U,,AUS,21.2019164956,6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,82,11,126,6
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,3,200097,10,,Nathalie Tauziat,R,,FRA,20.5612594114,200573,,Q,Cecilia Dahlman,U,,SWE,19.7919233402,6-4 1-6 6-1,3,R64,,,,,,,,,,,,,,,,,,,,24,31,318,0
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,4,200494,,,Dianne Van Rensburg,U,,RSA,20.180698152,200705,,,Linda Ferrando,U,,ITA,22.3216974675,7-5 6-2,3,R64,,,,,,,,,,,,,,,,,,,,104,8,81,11
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,5,200469,,,Nicole Bradtke,U,,AUS,18.6283367556,200441,,LL,Louise Field,U,,AUS,21.2019164956,7-6 6-2,3,R64,,,,,,,,,,,,,,,,,,,,57,14,139,5
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,6,200621,,,Isabelle Demongeot,U,,FRA,21.6399726215,200485,,,Manon Bollegraf,U,,NED,24.0793976728,7-5 6-1,3,R64,,,,,,,,,,,,,,,,,,,,50,16,98,9
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,7,201715,,Q,Heike Thoms,U,,GER,19.5181382615,200586,,,Federica Bonsignori,U,,ITA,20.4681724846,7-6 6-2,3,R64,,,,,,,,,,,,,,,,,,,,213,2,67,12
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,8,200640,,,Mercedes Paz,U,,ARG,21.8672142368,201047,,Q,Andrea Vieira,U,,BRA,17.2566735113,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,96,9,158,3
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,9,201051,,Q,Laura Lapi,U,,ITA,17.6618754278,200539,13,,Jana Novotna,R,,CZE,19.6002737851,7-6 6-7 6-2,3,R64,,,,,,,,,,,,,,,,,,,,146,4,35,23
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,10,200641,12,,Patricia Tarabini,R,,ARG,19.7563312799,200590,,,Gisele Miro,U,,BRA,19.5181382615,6-2 6-2,3,R64,,,,,,,,,,,,,,,,,,,,29,27,134,5
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,11,200542,,Q,Clare Wood,R,,GBR,20.1697467488,200398,,,Iva Budarova,U,,TCH,27.7727583847,6-7 7-6 6-3,3,R64,,,,,,,,,,,,,,,,,,,,144,5,110,8
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,12,200452,,Q,Tine Scheuer Larsen,U,,DEN,22.1574264203,200609,,Q,Steffi Menning,U,,GER,17.3497604381,6-1 6-0,3,R64,,,,,,,,,,,,,,,,,,,,129,6,,
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,13,201760,,,Heidi Sprung,U,,AUT,19.3264887064,201830,,,Katharina Duell,U,,GER,15.0828199863,6-4 6-4,3,R64,,,,,,,,,,,,,,,,,,,,273,1,229,1
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,14,200544,,LL,Celine Cohen,U,,SUI,21.1800136893,200421,,,Pascale Paradis Mangon,R,,FRA,22.0424366872,4-6 6-3 6-1,3,R64,,,,,,,,,,,,,,,,,,,,124,6,46,18
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,15,200650,11,,Isabel Cueto,U,,GER,19.4305270363,201021,,,Laura Garrone,U,,ITA,20.4818617385,6-1 6-4,3,R64,,,,,,,,,,,,,,,,,,,,30,26,62,13
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,16,200017,9,,Arantxa Sanchez Vicario,R,,ESP,16.3915126626,200384,,,Eva Pfaff,U,,GER,27.241615332,6-1 6-4,3,R64,,,,,,,,,,,,,,,,,,,,22,34,61,13
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,17,200530,,,Radomira Zrubakova,R,,SVK,17.3689253936,200564,,,Hester Witvoet,U,,NED,20.8405201916,7-5 6-3,3,R64,,,,,,,,,,,,,,,,,,,,72,11,88,10
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,18,200570,,,Veronika Martinek,U,,GER,16.0985626283,200596,,,Sabine Krein Auer,U,,GER,21.6016427105,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,166,3,131,5
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,19,200668,,,Silke Frankl,U,,GER,17.9466119097,201020,,,Petra Huber,U,,AUT,22.2286105407,1-6 6-4 6-2,3,R64,,,,,,,,,,,,,,,,,,,,262,1,86,10
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,20,200473,,,Beverly Bowes Hackney,R,,USA,22.6639288159,200480,,,Claudia Porwik,U,,GER,19.4825462012,7-6 6-4,3,R64,,,,,,,,,,,,,,,,,,,,113,7,59,14
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,21,200585,14,,Kathy Horvath,U,,USA,22.7049965777,200447,,,Adriana Villagran Reami,U,,ARG,31.7535934292,6-4 6-7 6-3,3,R64,,,,,,,,,,,,,,,,,,,,37,21,108,8
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,22,200994,,,Michelle Torres,U,,USA,20.8678986995,200506,,,Wiltrud Probst,R,,GER,18.945927447,6-2 6-2,3,R64,,,,,,,,,,,,,,,,,,,,93,9,74,11
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,23,200628,,,Sabrina Goles,U,,YUG,22.932238193,200554,,,Brenda Schultz Mccarthy,R,,NED,17.363449692,7-6 7-5,3,R64,,,,,,,,,,,,,,,,,,,,48,16,47,17
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,24,200674,,,Bettina Fulco Villella,R,,ARG,19.5427789185,200604,,,Barbara Paulus,U,,AUT,17.6865160849,6-1 6-2,3,R64,,,,,,,,,,,,,,,,,,,,38,20,91,9
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,25,200414,1,,Steffi Graf,R,,GER,18.9021218344,200112,,,Julie Halard Decugis,R,,FRA,17.6618754278,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1,283,51,16
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,26,200587,,,Silke Meier,U,,GER,19.8220396988,200097,10,,Nathalie Tauziat,R,,FRA,20.5612594114,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,82,11,24,31
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,27,200469,,,Nicole Bradtke,U,,AUS,18.6283367556,200494,,,Dianne Van Rensburg,U,,RSA,20.180698152,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,57,14,104,8
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,28,200621,,,Isabelle Demongeot,U,,FRA,21.6399726215,200422,5,,Raffaella Reggi Concato,U,,ITA,22.4476386037,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,50,16,13,46
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,29,200354,3,,Claudia Kohde Kilsch,R,,GER,24.4106776181,201715,,Q,Heike Thoms,U,,GER,19.5181382615,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,8,64,213,2
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,30,200640,,,Mercedes Paz,U,,ARG,21.8672142368,201051,,Q,Laura Lapi,U,,ITA,17.6618754278,6-0 7-6,3,R32,,,,,,,,,,,,,,,,,,,,96,9,146,4
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,31,200641,12,,Patricia Tarabini,R,,ARG,19.7563312799,200542,,Q,Clare Wood,R,,GBR,20.1697467488,6-3 5-7 7-6,3,R32,,,,,,,,,,,,,,,,,,,,29,27,144,5
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,32,200725,6,,Sandra Cecchini,U,,ITA,23.1950718686,200452,,Q,Tine Scheuer Larsen,U,,DEN,22.1574264203,2-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,18,42,129,6
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,33,200366,7,,Sylvia Hanika,U,,GER,28.4407939767,201760,,,Heidi Sprung,U,,AUT,19.3264887064,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,19,41,273,1
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,34,200650,11,,Isabel Cueto,U,,GER,19.4305270363,200544,,LL,Celine Cohen,U,,SUI,21.1800136893,0-6 6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,30,26,124,6
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,35,200530,,,Radomira Zrubakova,R,,SVK,17.3689253936,200017,9,,Arantxa Sanchez Vicario,R,,ESP,16.3915126626,7-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,72,11,22,34
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,36,200348,4,,Hana Mandlikova,R,,AUS,26.2176591376,200570,,,Veronika Martinek,U,,GER,16.0985626283,2-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,9,60,166,3
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,37,200597,8,,Mary Joe Fernandez,R,,USA,16.7227926078,200668,,,Silke Frankl,U,,GER,17.9466119097,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,20,41,262,1
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,38,200473,,,Beverly Bowes Hackney,R,,USA,22.6639288159,200585,14,,Kathy Horvath,U,,USA,22.7049965777,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,113,7,37,21
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,39,200628,,,Sabrina Goles,U,,YUG,22.932238193,200994,,,Michelle Torres,U,,USA,20.8678986995,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,48,16,93,9
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,40,200377,2,,Helena Sukova,R,,CZE,23.2060232717,200674,,,Bettina Fulco Villella,R,,ARG,19.5427789185,7-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,7,80,38,20
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,41,200414,1,,Steffi Graf,R,,GER,18.9021218344,200587,,,Silke Meier,U,,GER,19.8220396988,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1,283,82,11
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,42,200469,,,Nicole Bradtke,U,,AUS,18.6283367556,200621,,,Isabelle Demongeot,U,,FRA,21.6399726215,6-2 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,57,14,50,16
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,43,200354,3,,Claudia Kohde Kilsch,R,,GER,24.4106776181,200640,,,Mercedes Paz,U,,ARG,21.8672142368,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,8,64,96,9
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,44,200725,6,,Sandra Cecchini,U,,ITA,23.1950718686,200641,12,,Patricia Tarabini,R,,ARG,19.7563312799,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,18,42,29,27
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,45,200366,7,,Sylvia Hanika,U,,GER,28.4407939767,200650,11,,Isabel Cueto,U,,GER,19.4305270363,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,19,41,30,26
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,46,200530,,,Radomira Zrubakova,R,,SVK,17.3689253936,200348,4,,Hana Mandlikova,R,,AUS,26.2176591376,7-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,72,11,9,60
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,47,200597,8,,Mary Joe Fernandez,R,,USA,16.7227926078,200473,,,Beverly Bowes Hackney,R,,USA,22.6639288159,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,20,41,113,7
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,48,200377,2,,Helena Sukova,R,,CZE,23.2060232717,200628,,,Sabrina Goles,U,,YUG,22.932238193,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,7,80,48,16
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,49,200414,1,,Steffi Graf,R,,GER,18.9021218344,200469,,,Nicole Bradtke,U,,AUS,18.6283367556,6-0 6-2,3,QF,,,,,,,,,,,,,,,,,,,,1,283,57,14
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,50,200354,3,,Claudia Kohde Kilsch,R,,GER,24.4106776181,200725,6,,Sandra Cecchini,U,,ITA,23.1950718686,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,8,64,18,42
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,51,200366,7,,Sylvia Hanika,U,,GER,28.4407939767,200530,,,Radomira Zrubakova,R,,SVK,17.3689253936,6-4 3-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,19,41,72,11
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,52,200377,2,,Helena Sukova,R,,CZE,23.2060232717,200597,8,,Mary Joe Fernandez,R,,USA,16.7227926078,7-6 6-0,3,QF,,,,,,,,,,,,,,,,,,,,7,80,20,41
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,53,200414,1,,Steffi Graf,R,,GER,18.9021218344,200354,3,,Claudia Kohde Kilsch,R,,GER,24.4106776181,6-1 6-0,3,SF,,,,,,,,,,,,,,,,,,,,1,283,8,64
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,54,200377,2,,Helena Sukova,R,,CZE,23.2060232717,200366,7,,Sylvia Hanika,U,,GER,28.4407939767,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,7,80,19,41
+1988-W-WT-FRG-01A-1988,Berlin,Clay,56,W,19880509,55,200414,1,,Steffi Graf,R,,GER,18.9021218344,200377,2,,Helena Sukova,R,,CZE,23.2060232717,6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,1,283,7,80
 1988-W-WT-FRG-02A-1988,Hamburg,Clay,56,W,19880725,1,200460,,,Regina Marsikova,U,,CZE,29.620807666,201714,,,Michaela Frimmelova,U,,TCH,17.8535249829,6-4 3-6 7-6,3,R64,,,,,,,,,,,,,,,,,,,,172,3,209,2
 1988-W-WT-FRG-02A-1988,Hamburg,Clay,56,W,19880725,2,200584,,,Laura Golarsa,R,,ITA,20.6598220397,200452,,,Tine Scheuer Larsen,U,,DEN,22.3682409309,7-5 7-5,3,R64,,,,,,,,,,,,,,,,,,,,99,8,157,3
 1988-W-WT-FRG-02A-1988,Hamburg,Clay,56,W,19880725,3,200628,13,,Sabrina Goles,U,,YUG,23.1430527036,200576,,,Nathalie Herreman,U,,FRA,22.3271731691,6-3 3-6 6-2,3,R64,,,,,,,,,,,,,,,,,,,,46,18,74,10
@@ -1537,64 +1537,64 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1988-W-WT-ITA-02A-1988,Rome,Clay,56,W,19880502,53,200472,14,,Helen Kelesi,U,,CAN,18.4613278576,200017,8,,Arantxa Sanchez Vicario,R,,ESP,16.372347707,6-3 7-5,3,SF,,,,,,,,,,,,,,,,,,,,40,19,23,33
 1988-W-WT-ITA-02A-1988,Rome,Clay,56,W,19880502,54,200572,2,,Gabriela Sabatini,R,,ARG,17.9630390144,200482,13,,Judith Wiesner,R,,AUT,22.1683778234,7-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,5,139,37,21
 1988-W-WT-ITA-02A-1988,Rome,Clay,56,W,19880502,55,200572,2,,Gabriela Sabatini,R,,ARG,17.9630390144,200472,14,,Helen Kelesi,U,,CAN,18.4613278576,6-1 6-7 6-1,3,F,,,,,,,,,,,,,,,,,,,,5,139,40,19
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,1,200116,1,,Natalia Zvereva,R,,BLR,16.9911019849,200456,,,Masako Yanagi,U,,JPN,28.4188911704,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,13,46,160,3
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,2,200514,,Q,Monique Javer,R,,GBR,20.7255304586,200435,,,Barbara Gerken,U,,USA,23.7754962355,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,162,3,66,12
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,3,200484,,,Ann Devries,U,,BEL,18.12183436,200362,,,Liz Smylie,U,,AUS,25.0047912389,6-2 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,102,9,72,12
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,4,200664,6,,Stephanie Rehe,U,,USA,18.4339493498,200622,,,Maya Kidowaki,U,,JPN,18.9048596851,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,28,27,233,1
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,5,200554,,,Brenda Schultz Mccarthy,R,,NED,17.2895277207,200453,3,,Catarina Lindqvist Ryan,U,,SWE,24.8323066393,1-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,54,15,23,30
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,6,200333,,,Betsy Nagelsen,R,,USA,31.4688569473,200495,,,Akiko Kijimuta,U,,JPN,19.947980835,3-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,108,8,76,11
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,7,200501,,,Marianne Werdel Witmeyer,U,,USA,20.4873374401,200465,,,Lisa Bonder Kreiss,R,,USA,22.4887063655,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,94,9,100,9
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,8,200417,8,,Gigi Fernandez,U,,USA,24.1368925394,200466,,,Molly Van Nostrand,U,,USA,23.0855578371,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,41,19,197,2
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,9,200346,5,,Anne Minter,U,,AUS,25.0266940452,200498,,Q,Michelle Jaggard Lai,U,,AUS,18.9349760438,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,24,30,141,5
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,10,200564,,,Hester Witvoet,U,,NED,20.7665982204,200587,,,Silke Meier,U,,GER,19.7481177276,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,86,10,90,10
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,11,200673,,Q,Susan Sloane Lundy,R,,USA,17.3524982888,200445,,,Svetlana Cherneva,U,,RUS,25.5112936345,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,125,6,88,10
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,12,200548,4,,Patty Fendick,U,,USA,23.0335386721,200612,,Q,Natalia Medvedeva,U,,UKR,16.4079397673,6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,25,30,203,2
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,13,201045,,,Natalia Egorova,U,,RUS,21.5797399042,200424,7,,Etsuko Inoue,U,,JPN,23.4825462012,0-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,112,8,29,25
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,14,200601,,,Leila Meskhi,U,,GEO,20.2683093771,200464,,,Ann Henricksson,U,,USA,28.4490075291,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,40,20,97,9
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,15,200416,,,Robin White,U,,USA,24.3394934976,200462,,,Belinda Cordwell,U,,NZL,22.5571526352,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,43,18,89,10
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,16,200450,2,,Larisa Savchenko,U,,URS,21.7275838467,200483,,,Kumiko Okamoto,U,,JPN,23.1430527036,6-4 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,20,40,119,7
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,17,200514,,Q,Monique Javer,R,,GBR,20.7255304586,200116,1,,Natalia Zvereva,R,,BLR,16.9911019849,7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,162,3,13,46
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,18,200664,6,,Stephanie Rehe,U,,USA,18.4339493498,200484,,,Ann Devries,U,,BEL,18.12183436,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,28,27,102,9
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,19,200554,,,Brenda Schultz Mccarthy,R,,NED,17.2895277207,200333,,,Betsy Nagelsen,R,,USA,31.4688569473,7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,54,15,108,8
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,20,200501,,,Marianne Werdel Witmeyer,U,,USA,20.4873374401,200417,8,,Gigi Fernandez,U,,USA,24.1368925394,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,94,9,41,19
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,21,200346,5,,Anne Minter,U,,AUS,25.0266940452,200564,,,Hester Witvoet,U,,NED,20.7665982204,4-6 7-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,24,30,86,10
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,22,200548,4,,Patty Fendick,U,,USA,23.0335386721,200673,,Q,Susan Sloane Lundy,R,,USA,17.3524982888,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,25,30,125,6
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,23,200601,,,Leila Meskhi,U,,GEO,20.2683093771,201045,,,Natalia Egorova,U,,RUS,21.5797399042,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,40,20,112,8
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,24,200450,2,,Larisa Savchenko,U,,URS,21.7275838467,200416,,,Robin White,U,,USA,24.3394934976,3-6 7-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,20,40,43,18
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,25,200664,6,,Stephanie Rehe,U,,USA,18.4339493498,200514,,Q,Monique Javer,R,,GBR,20.7255304586,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,28,27,162,3
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,26,200501,,,Marianne Werdel Witmeyer,U,,USA,20.4873374401,200554,,,Brenda Schultz Mccarthy,R,,NED,17.2895277207,6-4 7-6,3,QF,,,,,,,,,,,,,,,,,,,,94,9,54,15
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,27,200548,4,,Patty Fendick,U,,USA,23.0335386721,200346,5,,Anne Minter,U,,AUS,25.0266940452,6-0 3-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,25,30,24,30
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,28,200601,,,Leila Meskhi,U,,GEO,20.2683093771,200450,2,,Larisa Savchenko,U,,URS,21.7275838467,6-3 2-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,40,20,20,40
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,29,200664,6,,Stephanie Rehe,U,,USA,18.4339493498,200501,,,Marianne Werdel Witmeyer,U,,USA,20.4873374401,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,28,27,94,9
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,30,200548,4,,Patty Fendick,U,,USA,23.0335386721,200601,,,Leila Meskhi,U,,GEO,20.2683093771,6-0 6-3,3,SF,,,,,,,,,,,,,,,,,,,,25,30,40,20
-1988-W-WT-JPN-01A-1988,Tokyo Outdoor,Hard,32,W,19880412,31,200548,4,,Patty Fendick,U,,USA,23.0335386721,200664,6,,Stephanie Rehe,U,,USA,18.4339493498,6-3 7-5,3,F,,,,,,,,,,,,,,,,,,,,25,30,28,27
-1988-W-WT-JPN-02A-1988,Tokyo Indoor,Carpet,28,W,19880425,1,200601,,,Leila Meskhi,U,,GEO,20.3039014374,200554,,,Brenda Schultz Mccarthy,R,,NED,17.325119781,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,30,24,43,18
-1988-W-WT-JPN-02A-1988,Tokyo Indoor,Carpet,28,W,19880425,2,200959,,,Mareen Louie Harper,R,,USA,27.6933607118,200362,,,Liz Smylie,U,,AUS,25.0403832991,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,62,13,67,12
-1988-W-WT-JPN-02A-1988,Tokyo Indoor,Carpet,28,W,19880425,3,200548,8,,Patty Fendick,U,,USA,23.0691307324,200606,,Q,Nana Smith,R,,JPN,17.0431211499,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,22,34,,
-1988-W-WT-JPN-02A-1988,Tokyo Indoor,Carpet,28,W,19880425,4,200464,,,Ann Henricksson,U,,USA,28.4845995893,200483,,,Kumiko Okamoto,U,,JPN,23.1786447639,5-7 6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,98,9,142,5
-1988-W-WT-JPN-02A-1988,Tokyo Indoor,Carpet,28,W,19880425,5,200465,,,Lisa Bonder Kreiss,R,,USA,22.5242984257,200564,,,Hester Witvoet,U,,NED,20.8021902806,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,103,8,86,10
-1988-W-WT-JPN-02A-1988,Tokyo Indoor,Carpet,28,W,19880425,6,200450,5,,Larisa Savchenko,U,,URS,21.7631759069,200416,,,Robin White,U,,USA,24.3750855578,1-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,20,39,46,17
-1988-W-WT-JPN-02A-1988,Tokyo Indoor,Carpet,28,W,19880425,7,200221,,,Dianne Balestrat,U,,AUS,31.7070499658,200453,6,,Catarina Lindqvist Ryan,U,,SWE,24.8678986995,6-3 1-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,29,25,26,29
-1988-W-WT-JPN-02A-1988,Tokyo Indoor,Carpet,28,W,19880425,8,200424,,,Etsuko Inoue,U,,JPN,23.5181382615,202235,,Q,Fukiko Osawa,U,,JPN,21.029431896,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,35,22,,
-1988-W-WT-JPN-02A-1988,Tokyo Indoor,Carpet,28,W,19880425,9,200435,,,Barbara Gerken,U,,USA,23.8110882957,200492,,Q,Tina Mochizuki,R,,USA,35.4168377823,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,102,9,172,3
-1988-W-WT-JPN-02A-1988,Tokyo Indoor,Carpet,28,W,19880425,10,200346,7,,Anne Minter,U,,AUS,25.0622861054,200393,,LL,Lea Antonoplis,U,,USA,29.2621492129,6-0 3-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,27,29,159,4
-1988-W-WT-JPN-02A-1988,Tokyo Indoor,Carpet,28,W,19880425,11,200417,,,Gigi Fernandez,U,,USA,24.1724845996,200209,,,Wendy Turnbull,U,,AUS,35.4113620808,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,44,18,48,16
-1988-W-WT-JPN-02A-1988,Tokyo Indoor,Carpet,28,W,19880425,12,200495,,,Akiko Kijimuta,U,,JPN,19.9835728953,200659,,Q,Rika Hiraki,U,,JPN,16.386036961,7-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,84,11,277,1
-1988-W-WT-JPN-02A-1988,Tokyo Indoor,Carpet,28,W,19880425,13,200360,1,,Pam Shriver,R,,USA,25.8097193703,200601,,,Leila Meskhi,U,,GEO,20.3039014374,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,4,161,30,24
-1988-W-WT-JPN-02A-1988,Tokyo Indoor,Carpet,28,W,19880425,14,200959,,,Mareen Louie Harper,R,,USA,27.6933607118,200548,8,,Patty Fendick,U,,USA,23.0691307324,3-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,62,13,22,34
-1988-W-WT-JPN-02A-1988,Tokyo Indoor,Carpet,28,W,19880425,15,200116,4,,Natalia Zvereva,R,,BLR,17.0266940452,200464,,,Ann Henricksson,U,,USA,28.4845995893,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,17,40,98,9
-1988-W-WT-JPN-02A-1988,Tokyo Indoor,Carpet,28,W,19880425,16,200450,5,,Larisa Savchenko,U,,URS,21.7631759069,200465,,,Lisa Bonder Kreiss,R,,USA,22.5242984257,2-6 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,20,39,103,8
-1988-W-WT-JPN-02A-1988,Tokyo Indoor,Carpet,28,W,19880425,17,200424,,,Etsuko Inoue,U,,JPN,23.5181382615,200221,,,Dianne Balestrat,U,,AUS,31.7070499658,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,35,22,29,25
-1988-W-WT-JPN-02A-1988,Tokyo Indoor,Carpet,28,W,19880425,18,200377,3,,Helena Sukova,R,,CZE,23.1676933607,200435,,,Barbara Gerken,U,,USA,23.8110882957,3-6 7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,7,78,102,9
-1988-W-WT-JPN-02A-1988,Tokyo Indoor,Carpet,28,W,19880425,19,200346,7,,Anne Minter,U,,AUS,25.0622861054,200417,,,Gigi Fernandez,U,,USA,24.1724845996,1-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,27,29,44,18
-1988-W-WT-JPN-02A-1988,Tokyo Indoor,Carpet,28,W,19880425,20,200401,2,,Manuela Maleeva Fragniere,R,,SUI,21.1937029432,200495,,,Akiko Kijimuta,U,,JPN,19.9835728953,6-7 6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,6,94,84,11
-1988-W-WT-JPN-02A-1988,Tokyo Indoor,Carpet,28,W,19880425,21,200360,1,,Pam Shriver,R,,USA,25.8097193703,200959,,,Mareen Louie Harper,R,,USA,27.6933607118,6-1 7-5,3,QF,,,,,,,,,,,,,,,,,,,,4,161,62,13
-1988-W-WT-JPN-02A-1988,Tokyo Indoor,Carpet,28,W,19880425,22,200450,5,,Larisa Savchenko,U,,URS,21.7631759069,200116,4,,Natalia Zvereva,R,,BLR,17.0266940452,7-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,20,39,17,40
-1988-W-WT-JPN-02A-1988,Tokyo Indoor,Carpet,28,W,19880425,23,200377,3,,Helena Sukova,R,,CZE,23.1676933607,200424,,,Etsuko Inoue,U,,JPN,23.5181382615,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,7,78,35,22
-1988-W-WT-JPN-02A-1988,Tokyo Indoor,Carpet,28,W,19880425,24,200401,2,,Manuela Maleeva Fragniere,R,,SUI,21.1937029432,200346,7,,Anne Minter,U,,AUS,25.0622861054,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,6,94,27,29
-1988-W-WT-JPN-02A-1988,Tokyo Indoor,Carpet,28,W,19880425,25,200360,1,,Pam Shriver,R,,USA,25.8097193703,200450,5,,Larisa Savchenko,U,,URS,21.7631759069,6-7 6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,4,161,20,39
-1988-W-WT-JPN-02A-1988,Tokyo Indoor,Carpet,28,W,19880425,26,200377,3,,Helena Sukova,R,,CZE,23.1676933607,200401,2,,Manuela Maleeva Fragniere,R,,SUI,21.1937029432,7-6 4-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,7,78,6,94
-1988-W-WT-JPN-02A-1988,Tokyo Indoor,Carpet,28,W,19880425,27,200360,1,,Pam Shriver,R,,USA,25.8097193703,200377,3,,Helena Sukova,R,,CZE,23.1676933607,7-5 6-1,3,F,,,,,,,,,,,,,,,,,,,,4,161,7,78
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,1,200116,1,,Natalia Zvereva,R,,BLR,16.9911019849,200456,,,Masako Yanagi,U,,JPN,28.4188911704,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,13,46,160,3
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,2,200514,,Q,Monique Javer,R,,GBR,20.7255304586,200435,,,Barbara Gerken,U,,USA,23.7754962355,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,162,3,66,12
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,3,200484,,,Ann Devries,U,,BEL,18.12183436,200362,,,Liz Smylie,U,,AUS,25.0047912389,6-2 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,102,9,72,12
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,4,200664,6,,Stephanie Rehe,U,,USA,18.4339493498,200622,,,Maya Kidowaki,U,,JPN,18.9048596851,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,28,27,233,1
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,5,200554,,,Brenda Schultz Mccarthy,R,,NED,17.2895277207,200453,3,,Catarina Lindqvist Ryan,U,,SWE,24.8323066393,1-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,54,15,23,30
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,6,200333,,,Betsy Nagelsen,R,,USA,31.4688569473,200495,,,Akiko Kijimuta,U,,JPN,19.947980835,3-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,108,8,76,11
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,7,200501,,,Marianne Werdel Witmeyer,U,,USA,20.4873374401,200465,,,Lisa Bonder Kreiss,R,,USA,22.4887063655,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,94,9,100,9
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,8,200417,8,,Gigi Fernandez,U,,USA,24.1368925394,200466,,,Molly Van Nostrand,U,,USA,23.0855578371,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,41,19,197,2
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,9,200346,5,,Anne Minter,U,,AUS,25.0266940452,200498,,Q,Michelle Jaggard Lai,U,,AUS,18.9349760438,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,24,30,141,5
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,10,200564,,,Hester Witvoet,U,,NED,20.7665982204,200587,,,Silke Meier,U,,GER,19.7481177276,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,86,10,90,10
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,11,200673,,Q,Susan Sloane Lundy,R,,USA,17.3524982888,200445,,,Svetlana Cherneva,U,,RUS,25.5112936345,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,125,6,88,10
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,12,200548,4,,Patty Fendick,U,,USA,23.0335386721,200612,,Q,Natalia Medvedeva,U,,UKR,16.4079397673,6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,25,30,203,2
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,13,201045,,,Natalia Egorova,U,,RUS,21.5797399042,200424,7,,Etsuko Inoue,U,,JPN,23.4825462012,0-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,112,8,29,25
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,14,200601,,,Leila Meskhi,U,,GEO,20.2683093771,200464,,,Ann Henricksson,U,,USA,28.4490075291,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,40,20,97,9
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,15,200416,,,Robin White,U,,USA,24.3394934976,200462,,,Belinda Cordwell,U,,NZL,22.5571526352,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,43,18,89,10
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,16,200450,2,,Larisa Savchenko,U,,URS,21.7275838467,200483,,,Kumiko Okamoto,U,,JPN,23.1430527036,6-4 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,20,40,119,7
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,17,200514,,Q,Monique Javer,R,,GBR,20.7255304586,200116,1,,Natalia Zvereva,R,,BLR,16.9911019849,7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,162,3,13,46
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,18,200664,6,,Stephanie Rehe,U,,USA,18.4339493498,200484,,,Ann Devries,U,,BEL,18.12183436,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,28,27,102,9
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,19,200554,,,Brenda Schultz Mccarthy,R,,NED,17.2895277207,200333,,,Betsy Nagelsen,R,,USA,31.4688569473,7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,54,15,108,8
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,20,200501,,,Marianne Werdel Witmeyer,U,,USA,20.4873374401,200417,8,,Gigi Fernandez,U,,USA,24.1368925394,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,94,9,41,19
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,21,200346,5,,Anne Minter,U,,AUS,25.0266940452,200564,,,Hester Witvoet,U,,NED,20.7665982204,4-6 7-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,24,30,86,10
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,22,200548,4,,Patty Fendick,U,,USA,23.0335386721,200673,,Q,Susan Sloane Lundy,R,,USA,17.3524982888,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,25,30,125,6
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,23,200601,,,Leila Meskhi,U,,GEO,20.2683093771,201045,,,Natalia Egorova,U,,RUS,21.5797399042,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,40,20,112,8
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,24,200450,2,,Larisa Savchenko,U,,URS,21.7275838467,200416,,,Robin White,U,,USA,24.3394934976,3-6 7-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,20,40,43,18
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,25,200664,6,,Stephanie Rehe,U,,USA,18.4339493498,200514,,Q,Monique Javer,R,,GBR,20.7255304586,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,28,27,162,3
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,26,200501,,,Marianne Werdel Witmeyer,U,,USA,20.4873374401,200554,,,Brenda Schultz Mccarthy,R,,NED,17.2895277207,6-4 7-6,3,QF,,,,,,,,,,,,,,,,,,,,94,9,54,15
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,27,200548,4,,Patty Fendick,U,,USA,23.0335386721,200346,5,,Anne Minter,U,,AUS,25.0266940452,6-0 3-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,25,30,24,30
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,28,200601,,,Leila Meskhi,U,,GEO,20.2683093771,200450,2,,Larisa Savchenko,U,,URS,21.7275838467,6-3 2-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,40,20,20,40
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,29,200664,6,,Stephanie Rehe,U,,USA,18.4339493498,200501,,,Marianne Werdel Witmeyer,U,,USA,20.4873374401,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,28,27,94,9
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,30,200548,4,,Patty Fendick,U,,USA,23.0335386721,200601,,,Leila Meskhi,U,,GEO,20.2683093771,6-0 6-3,3,SF,,,,,,,,,,,,,,,,,,,,25,30,40,20
+1988-W-WT-JPN-01A-1988,Tokyo Japan Open,Hard,32,W,19880412,31,200548,4,,Patty Fendick,U,,USA,23.0335386721,200664,6,,Stephanie Rehe,U,,USA,18.4339493498,6-3 7-5,3,F,,,,,,,,,,,,,,,,,,,,25,30,28,27
+1988-W-WT-JPN-02A-1988,Tokyo Pan Pacific,Carpet,28,W,19880425,1,200601,,,Leila Meskhi,U,,GEO,20.3039014374,200554,,,Brenda Schultz Mccarthy,R,,NED,17.325119781,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,30,24,43,18
+1988-W-WT-JPN-02A-1988,Tokyo Pan Pacific,Carpet,28,W,19880425,2,200959,,,Mareen Louie Harper,R,,USA,27.6933607118,200362,,,Liz Smylie,U,,AUS,25.0403832991,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,62,13,67,12
+1988-W-WT-JPN-02A-1988,Tokyo Pan Pacific,Carpet,28,W,19880425,3,200548,8,,Patty Fendick,U,,USA,23.0691307324,200606,,Q,Nana Smith,R,,JPN,17.0431211499,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,22,34,,
+1988-W-WT-JPN-02A-1988,Tokyo Pan Pacific,Carpet,28,W,19880425,4,200464,,,Ann Henricksson,U,,USA,28.4845995893,200483,,,Kumiko Okamoto,U,,JPN,23.1786447639,5-7 6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,98,9,142,5
+1988-W-WT-JPN-02A-1988,Tokyo Pan Pacific,Carpet,28,W,19880425,5,200465,,,Lisa Bonder Kreiss,R,,USA,22.5242984257,200564,,,Hester Witvoet,U,,NED,20.8021902806,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,103,8,86,10
+1988-W-WT-JPN-02A-1988,Tokyo Pan Pacific,Carpet,28,W,19880425,6,200450,5,,Larisa Savchenko,U,,URS,21.7631759069,200416,,,Robin White,U,,USA,24.3750855578,1-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,20,39,46,17
+1988-W-WT-JPN-02A-1988,Tokyo Pan Pacific,Carpet,28,W,19880425,7,200221,,,Dianne Balestrat,U,,AUS,31.7070499658,200453,6,,Catarina Lindqvist Ryan,U,,SWE,24.8678986995,6-3 1-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,29,25,26,29
+1988-W-WT-JPN-02A-1988,Tokyo Pan Pacific,Carpet,28,W,19880425,8,200424,,,Etsuko Inoue,U,,JPN,23.5181382615,202235,,Q,Fukiko Osawa,U,,JPN,21.029431896,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,35,22,,
+1988-W-WT-JPN-02A-1988,Tokyo Pan Pacific,Carpet,28,W,19880425,9,200435,,,Barbara Gerken,U,,USA,23.8110882957,200492,,Q,Tina Mochizuki,R,,USA,35.4168377823,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,102,9,172,3
+1988-W-WT-JPN-02A-1988,Tokyo Pan Pacific,Carpet,28,W,19880425,10,200346,7,,Anne Minter,U,,AUS,25.0622861054,200393,,LL,Lea Antonoplis,U,,USA,29.2621492129,6-0 3-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,27,29,159,4
+1988-W-WT-JPN-02A-1988,Tokyo Pan Pacific,Carpet,28,W,19880425,11,200417,,,Gigi Fernandez,U,,USA,24.1724845996,200209,,,Wendy Turnbull,U,,AUS,35.4113620808,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,44,18,48,16
+1988-W-WT-JPN-02A-1988,Tokyo Pan Pacific,Carpet,28,W,19880425,12,200495,,,Akiko Kijimuta,U,,JPN,19.9835728953,200659,,Q,Rika Hiraki,U,,JPN,16.386036961,7-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,84,11,277,1
+1988-W-WT-JPN-02A-1988,Tokyo Pan Pacific,Carpet,28,W,19880425,13,200360,1,,Pam Shriver,R,,USA,25.8097193703,200601,,,Leila Meskhi,U,,GEO,20.3039014374,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,4,161,30,24
+1988-W-WT-JPN-02A-1988,Tokyo Pan Pacific,Carpet,28,W,19880425,14,200959,,,Mareen Louie Harper,R,,USA,27.6933607118,200548,8,,Patty Fendick,U,,USA,23.0691307324,3-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,62,13,22,34
+1988-W-WT-JPN-02A-1988,Tokyo Pan Pacific,Carpet,28,W,19880425,15,200116,4,,Natalia Zvereva,R,,BLR,17.0266940452,200464,,,Ann Henricksson,U,,USA,28.4845995893,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,17,40,98,9
+1988-W-WT-JPN-02A-1988,Tokyo Pan Pacific,Carpet,28,W,19880425,16,200450,5,,Larisa Savchenko,U,,URS,21.7631759069,200465,,,Lisa Bonder Kreiss,R,,USA,22.5242984257,2-6 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,20,39,103,8
+1988-W-WT-JPN-02A-1988,Tokyo Pan Pacific,Carpet,28,W,19880425,17,200424,,,Etsuko Inoue,U,,JPN,23.5181382615,200221,,,Dianne Balestrat,U,,AUS,31.7070499658,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,35,22,29,25
+1988-W-WT-JPN-02A-1988,Tokyo Pan Pacific,Carpet,28,W,19880425,18,200377,3,,Helena Sukova,R,,CZE,23.1676933607,200435,,,Barbara Gerken,U,,USA,23.8110882957,3-6 7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,7,78,102,9
+1988-W-WT-JPN-02A-1988,Tokyo Pan Pacific,Carpet,28,W,19880425,19,200346,7,,Anne Minter,U,,AUS,25.0622861054,200417,,,Gigi Fernandez,U,,USA,24.1724845996,1-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,27,29,44,18
+1988-W-WT-JPN-02A-1988,Tokyo Pan Pacific,Carpet,28,W,19880425,20,200401,2,,Manuela Maleeva Fragniere,R,,SUI,21.1937029432,200495,,,Akiko Kijimuta,U,,JPN,19.9835728953,6-7 6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,6,94,84,11
+1988-W-WT-JPN-02A-1988,Tokyo Pan Pacific,Carpet,28,W,19880425,21,200360,1,,Pam Shriver,R,,USA,25.8097193703,200959,,,Mareen Louie Harper,R,,USA,27.6933607118,6-1 7-5,3,QF,,,,,,,,,,,,,,,,,,,,4,161,62,13
+1988-W-WT-JPN-02A-1988,Tokyo Pan Pacific,Carpet,28,W,19880425,22,200450,5,,Larisa Savchenko,U,,URS,21.7631759069,200116,4,,Natalia Zvereva,R,,BLR,17.0266940452,7-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,20,39,17,40
+1988-W-WT-JPN-02A-1988,Tokyo Pan Pacific,Carpet,28,W,19880425,23,200377,3,,Helena Sukova,R,,CZE,23.1676933607,200424,,,Etsuko Inoue,U,,JPN,23.5181382615,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,7,78,35,22
+1988-W-WT-JPN-02A-1988,Tokyo Pan Pacific,Carpet,28,W,19880425,24,200401,2,,Manuela Maleeva Fragniere,R,,SUI,21.1937029432,200346,7,,Anne Minter,U,,AUS,25.0622861054,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,6,94,27,29
+1988-W-WT-JPN-02A-1988,Tokyo Pan Pacific,Carpet,28,W,19880425,25,200360,1,,Pam Shriver,R,,USA,25.8097193703,200450,5,,Larisa Savchenko,U,,URS,21.7631759069,6-7 6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,4,161,20,39
+1988-W-WT-JPN-02A-1988,Tokyo Pan Pacific,Carpet,28,W,19880425,26,200377,3,,Helena Sukova,R,,CZE,23.1676933607,200401,2,,Manuela Maleeva Fragniere,R,,SUI,21.1937029432,7-6 4-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,7,78,6,94
+1988-W-WT-JPN-02A-1988,Tokyo Pan Pacific,Carpet,28,W,19880425,27,200360,1,,Pam Shriver,R,,USA,25.8097193703,200377,3,,Helena Sukova,R,,CZE,23.1676933607,7-5 6-1,3,F,,,,,,,,,,,,,,,,,,,,4,161,7,78
 1988-W-WT-NZL-01A-1988,Auckland,Hard,56,W,19880125,1,200510,,,Julie Richardson,U,,NZL,20.8240930869,200553,,,Carin Bakkum,U,,NED,25.5030800821,6-4 6-1,3,R64,,,,,,,,,,,,,,,,,,,,168,3,199,1
 1988-W-WT-NZL-01A-1988,Auckland,Hard,56,W,19880125,2,200555,,,Valda Lake,U,,GBR,19.2881587953,200471,,,Jamie Golder,U,,USA,26.0095824778,6-2 3-6 7-6,3,R64,,,,,,,,,,,,,,,,,,,,186,2,209,1
 1988-W-WT-NZL-01A-1988,Auckland,Hard,56,W,19880125,3,201017,13,,Angelika Kanellopoulou,R,,GRE,22.1026694045,200369,,,Candy Reynolds,U,,USA,32.8405201916,6-1 6-3,3,R64,,,,,,,,,,,,,,,,,,,,123,6,185,2
@@ -1767,37 +1767,37 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1988-W-WT-SIN-01A-1988,Singapore,Hard,32,W,19880418,29,200514,,,Monique Javer,R,,GBR,20.7419575633,200221,3,,Dianne Balestrat,U,,AUS,31.6878850103,6-0 6-1,3,SF,,,,,,,,,,,,,,,,,,,,162,3,30,24
 1988-W-WT-SIN-01A-1988,Singapore,Hard,32,W,19880418,30,200601,4,,Leila Meskhi,U,,GEO,20.2847364819,201045,,,Natalia Egorova,U,,RUS,21.5961670089,4-6 6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,40,20,112,8
 1988-W-WT-SIN-01A-1988,Singapore,Hard,32,W,19880418,31,200514,,,Monique Javer,R,,GBR,20.7419575633,200601,4,,Leila Meskhi,U,,GEO,20.2847364819,7-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,162,3,40,20
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,1,200401,1,,Manuela Maleeva Fragniere,R,,SUI,21.2511978097,200544,,,Celine Cohen,U,,SUI,21.1991786448,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,6,94,124,6
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,2,201051,,Q,Laura Lapi,U,,ITA,17.6810403833,200487,,,Eva Krapl,U,,SUI,22.3299110198,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,146,4,107,8
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,3,200494,,,Dianne Van Rensburg,U,,RSA,20.1998631075,200586,,,Federica Bonsignori,U,,ITA,20.4873374401,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,104,8,67,12
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,4,200621,,,Isabelle Demongeot,U,,FRA,21.659137577,200641,6,,Patricia Tarabini,R,,ARG,19.7754962355,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,50,16,29,27
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,5,200590,,,Gisele Miro,U,,BRA,19.537303217,200097,4,,Nathalie Tauziat,R,,FRA,20.5804243669,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,134,5,24,31
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,6,200398,,,Iva Budarova,U,,TCH,27.7919233402,200547,,,Sandra Wasserman,U,,BEL,18.1848049281,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,110,8,83,10
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,7,200604,,,Barbara Paulus,U,,AUT,17.7056810404,201038,,,Karen Schimper,U,,RSA,20.9746748802,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,91,9,80,11
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,8,201025,7,,Neige Dias,U,,BRA,21.4455852156,201047,,Q,Andrea Vieira,U,,BRA,17.2758384668,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,44,18,158,3
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,9,200453,5,,Catarina Lindqvist Ryan,U,,SWE,24.9253935661,200584,,,Laura Golarsa,R,,ITA,20.4681724846,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,25,29,103,8
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,10,200447,,,Adriana Villagran Reami,U,,ARG,31.7727583847,200484,,,Ann Devries,U,,BEL,18.2149212868,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,108,8,97,9
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,11,201030,,,Mariana Perez Roldan,U,,ARG,20.6078028747,200592,,Q,Sandrine Jaquet,U,,SUI,17.0896646133,5-7 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,58,14,259,1
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,12,200597,3,,Mary Joe Fernandez,R,,USA,16.7419575633,200552,,,Maria Lindstrom,U,,SWE,25.1937029432,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,20,41,114,7
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,13,200554,8,,Brenda Schultz Mccarthy,R,,NED,17.3826146475,200480,,,Claudia Porwik,U,,GER,19.5017111567,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,47,17,59,14
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,14,200640,,,Mercedes Paz,U,,ARG,21.8863791923,200049,,,Conchita Martinez,R,170,ESP,16.0821355236,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,96,9,284,
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,15,200705,,,Linda Ferrando,U,,ITA,22.340862423,201017,,Q,Angelika Kanellopoulou,R,,GRE,22.4093086927,7-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,81,11,116,7
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,16,200428,2,,Lori Mcneil,U,,USA,24.4106776181,200564,,,Hester Witvoet,U,,NED,20.8596851472,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,10,56,88,10
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,17,200401,1,,Manuela Maleeva Fragniere,R,,SUI,21.2511978097,201051,,Q,Laura Lapi,U,,ITA,17.6810403833,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,6,94,146,4
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,18,200621,,,Isabelle Demongeot,U,,FRA,21.659137577,200494,,,Dianne Van Rensburg,U,,RSA,20.1998631075,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,50,16,104,8
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,19,200398,,,Iva Budarova,U,,TCH,27.7919233402,200590,,,Gisele Miro,U,,BRA,19.537303217,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,110,8,134,5
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,20,200604,,,Barbara Paulus,U,,AUT,17.7056810404,201025,7,,Neige Dias,U,,BRA,21.4455852156,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,91,9,44,18
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,21,200453,5,,Catarina Lindqvist Ryan,U,,SWE,24.9253935661,200447,,,Adriana Villagran Reami,U,,ARG,31.7727583847,6-1 7-6,3,R16,,,,,,,,,,,,,,,,,,,,25,29,108,8
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,22,201030,,,Mariana Perez Roldan,U,,ARG,20.6078028747,200597,3,,Mary Joe Fernandez,R,,USA,16.7419575633,6-6 RET,3,R16,,,,,,,,,,,,,,,,,,,,58,14,20,41
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,23,200640,,,Mercedes Paz,U,,ARG,21.8863791923,200554,8,,Brenda Schultz Mccarthy,R,,NED,17.3826146475,6-4 5-7 6-3,3,R16,,,,,,,,,,,,,,,,,,,,96,9,47,17
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,24,200428,2,,Lori Mcneil,U,,USA,24.4106776181,200705,,,Linda Ferrando,U,,ITA,22.340862423,6-4 5-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,10,56,81,11
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,25,200621,,,Isabelle Demongeot,U,,FRA,21.659137577,200401,1,,Manuela Maleeva Fragniere,R,,SUI,21.2511978097,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,50,16,6,94
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,26,200604,,,Barbara Paulus,U,,AUT,17.7056810404,200398,,,Iva Budarova,U,,TCH,27.7919233402,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,91,9,110,8
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,27,201030,,,Mariana Perez Roldan,U,,ARG,20.6078028747,200453,5,,Catarina Lindqvist Ryan,U,,SWE,24.9253935661,6-2 0-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,58,14,25,29
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,28,200428,2,,Lori Mcneil,U,,USA,24.4106776181,200640,,,Mercedes Paz,U,,ARG,21.8863791923,7-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,10,56,96,9
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,29,200604,,,Barbara Paulus,U,,AUT,17.7056810404,200621,,,Isabelle Demongeot,U,,FRA,21.659137577,4-6 6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,91,9,50,16
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,30,200428,2,,Lori Mcneil,U,,USA,24.4106776181,201030,,,Mariana Perez Roldan,U,,ARG,20.6078028747,6-2 3-0 RET,3,SF,,,,,,,,,,,,,,,,,,,,10,56,58,14
-1988-W-WT-SUI-01A-1988,European Open,Clay,32,W,19880516,31,200604,,,Barbara Paulus,U,,AUT,17.7056810404,200428,2,,Lori Mcneil,U,,USA,24.4106776181,6-4 5-7 6-1,3,F,,,,,,,,,,,,,,,,,,,,91,9,10,56
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,1,200401,1,,Manuela Maleeva Fragniere,R,,SUI,21.2511978097,200544,,,Celine Cohen,U,,SUI,21.1991786448,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,6,94,124,6
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,2,201051,,Q,Laura Lapi,U,,ITA,17.6810403833,200487,,,Eva Krapl,U,,SUI,22.3299110198,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,146,4,107,8
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,3,200494,,,Dianne Van Rensburg,U,,RSA,20.1998631075,200586,,,Federica Bonsignori,U,,ITA,20.4873374401,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,104,8,67,12
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,4,200621,,,Isabelle Demongeot,U,,FRA,21.659137577,200641,6,,Patricia Tarabini,R,,ARG,19.7754962355,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,50,16,29,27
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,5,200590,,,Gisele Miro,U,,BRA,19.537303217,200097,4,,Nathalie Tauziat,R,,FRA,20.5804243669,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,134,5,24,31
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,6,200398,,,Iva Budarova,U,,TCH,27.7919233402,200547,,,Sandra Wasserman,U,,BEL,18.1848049281,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,110,8,83,10
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,7,200604,,,Barbara Paulus,U,,AUT,17.7056810404,201038,,,Karen Schimper,U,,RSA,20.9746748802,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,91,9,80,11
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,8,201025,7,,Neige Dias,U,,BRA,21.4455852156,201047,,Q,Andrea Vieira,U,,BRA,17.2758384668,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,44,18,158,3
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,9,200453,5,,Catarina Lindqvist Ryan,U,,SWE,24.9253935661,200584,,,Laura Golarsa,R,,ITA,20.4681724846,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,25,29,103,8
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,10,200447,,,Adriana Villagran Reami,U,,ARG,31.7727583847,200484,,,Ann Devries,U,,BEL,18.2149212868,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,108,8,97,9
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,11,201030,,,Mariana Perez Roldan,U,,ARG,20.6078028747,200592,,Q,Sandrine Jaquet,U,,SUI,17.0896646133,5-7 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,58,14,259,1
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,12,200597,3,,Mary Joe Fernandez,R,,USA,16.7419575633,200552,,,Maria Lindstrom,U,,SWE,25.1937029432,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,20,41,114,7
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,13,200554,8,,Brenda Schultz Mccarthy,R,,NED,17.3826146475,200480,,,Claudia Porwik,U,,GER,19.5017111567,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,47,17,59,14
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,14,200640,,,Mercedes Paz,U,,ARG,21.8863791923,200049,,,Conchita Martinez,R,170,ESP,16.0821355236,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,96,9,284,
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,15,200705,,,Linda Ferrando,U,,ITA,22.340862423,201017,,Q,Angelika Kanellopoulou,R,,GRE,22.4093086927,7-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,81,11,116,7
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,16,200428,2,,Lori Mcneil,U,,USA,24.4106776181,200564,,,Hester Witvoet,U,,NED,20.8596851472,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,10,56,88,10
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,17,200401,1,,Manuela Maleeva Fragniere,R,,SUI,21.2511978097,201051,,Q,Laura Lapi,U,,ITA,17.6810403833,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,6,94,146,4
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,18,200621,,,Isabelle Demongeot,U,,FRA,21.659137577,200494,,,Dianne Van Rensburg,U,,RSA,20.1998631075,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,50,16,104,8
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,19,200398,,,Iva Budarova,U,,TCH,27.7919233402,200590,,,Gisele Miro,U,,BRA,19.537303217,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,110,8,134,5
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,20,200604,,,Barbara Paulus,U,,AUT,17.7056810404,201025,7,,Neige Dias,U,,BRA,21.4455852156,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,91,9,44,18
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,21,200453,5,,Catarina Lindqvist Ryan,U,,SWE,24.9253935661,200447,,,Adriana Villagran Reami,U,,ARG,31.7727583847,6-1 7-6,3,R16,,,,,,,,,,,,,,,,,,,,25,29,108,8
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,22,201030,,,Mariana Perez Roldan,U,,ARG,20.6078028747,200597,3,,Mary Joe Fernandez,R,,USA,16.7419575633,6-6 RET,3,R16,,,,,,,,,,,,,,,,,,,,58,14,20,41
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,23,200640,,,Mercedes Paz,U,,ARG,21.8863791923,200554,8,,Brenda Schultz Mccarthy,R,,NED,17.3826146475,6-4 5-7 6-3,3,R16,,,,,,,,,,,,,,,,,,,,96,9,47,17
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,24,200428,2,,Lori Mcneil,U,,USA,24.4106776181,200705,,,Linda Ferrando,U,,ITA,22.340862423,6-4 5-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,10,56,81,11
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,25,200621,,,Isabelle Demongeot,U,,FRA,21.659137577,200401,1,,Manuela Maleeva Fragniere,R,,SUI,21.2511978097,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,50,16,6,94
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,26,200604,,,Barbara Paulus,U,,AUT,17.7056810404,200398,,,Iva Budarova,U,,TCH,27.7919233402,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,91,9,110,8
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,27,201030,,,Mariana Perez Roldan,U,,ARG,20.6078028747,200453,5,,Catarina Lindqvist Ryan,U,,SWE,24.9253935661,6-2 0-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,58,14,25,29
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,28,200428,2,,Lori Mcneil,U,,USA,24.4106776181,200640,,,Mercedes Paz,U,,ARG,21.8863791923,7-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,10,56,96,9
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,29,200604,,,Barbara Paulus,U,,AUT,17.7056810404,200621,,,Isabelle Demongeot,U,,FRA,21.659137577,4-6 6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,91,9,50,16
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,30,200428,2,,Lori Mcneil,U,,USA,24.4106776181,201030,,,Mariana Perez Roldan,U,,ARG,20.6078028747,6-2 3-0 RET,3,SF,,,,,,,,,,,,,,,,,,,,10,56,58,14
+1988-W-WT-SUI-01A-1988,Geneva,Clay,32,W,19880516,31,200604,,,Barbara Paulus,U,,AUT,17.7056810404,200428,2,,Lori Mcneil,U,,USA,24.4106776181,6-4 5-7 6-1,3,F,,,,,,,,,,,,,,,,,,,,91,9,10,56
 1988-W-WT-SUI-02A-1988,Zurich,Carpet,32,W,19881017,1,200360,1,,Pam Shriver,R,,USA,26.288843258,200482,,,Judith Wiesner,R,,AUT,22.6283367556,4-6 7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,5,126,29,28
 1988-W-WT-SUI-02A-1988,Zurich,Carpet,32,W,19881017,2,200571,,Q,Jonna Jonerup,U,,SWE,19.2388774812,200539,,,Jana Novotna,R,,CZE,20.0410677618,7-5 7-6,3,R32,,,,,,,,,,,,,,,,,,,,216,2,46,19
 1988-W-WT-SUI-02A-1988,Zurich,Carpet,32,W,19881017,3,200554,,,Brenda Schultz Mccarthy,R,,NED,17.8042436687,200668,,LL,Silke Frankl,U,,GER,18.3874058864,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,44,20,122,7
