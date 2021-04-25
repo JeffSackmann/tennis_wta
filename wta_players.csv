@@ -23349,7 +23349,7 @@
 223357,Greta,Maric,U,,CRO
 223358,Klaudie,Hutkova,U,,CZE
 223359,Amelie,Smejkalova,U,,CZE
-223360,Nikola,Bartunkova,U,,CZE
+223360,Nikola,Bartunkova,R,20060225,CZE
 223361,Viktoriia,Naumenko,U,,UKR
 223362,Rina,Hosni,U,,EGY
 223363,Carla,Nokes,U,,GBR
@@ -36791,7 +36791,7 @@
 236797,Nancy,Burke,U,,USA
 236798,Jennifer,Bruce,U,,USA
 236799,Pauline,Bruce,U,,USA
-236800,,Stroud,U,,USA
+236800,E C,Stroud,U,,USA
 236801,,Hamm,U,,USA
 236802,Billy Ann,Niland,U,,USA
 236803,Ernestine,Schissler,U,,USA
@@ -36888,7 +36888,7 @@
 236894,Cecily,Ray,U,,USA
 236895,Tony,Smith,U,,USA
 236896,Janet,Busse,U,,USA
-236897,F,Wilson,U,,USA
+236897,Florence,Wilson,U,,USA
 236898,Ester,Alliata,U,,ITA
 236899,M G,Labarga,U,,CUB
 236900,Mrs T K,De Eisenberg,U,,ARG
@@ -36995,7 +36995,7 @@
 237001,Mrs,Pudnim,U,,RSA
 237002,Joy,Ryan,U,,AUS
 237003,,Wylie,U,,AUS
-237004,,Easton,U,,AUS
+237004,Vi,Easton,U,,AUS
 237005,Valerie,Watts,U,,AUS
 237006,Mrs,Cooke,U,,AUS
 237007,Elizabeth,Groetsch,U,,USA
@@ -37081,7 +37081,7 @@
 237087,Mary Lou,Johnson,U,,USA
 237088,Dorothy,Royce,U,,USA
 237089,Nora,Davidson,U,,USA
-237090,S,West,U,,BER
+237090,Sheila,West,U,,BER
 237091,Iris,Thurling Blackwell,U,,BER
 237092,,Steinova,U,,SVK
 237093,,Kregarova,U,,SVK
@@ -37284,7 +37284,7 @@
 237290,Mrs Elliott,Coleman,U,,USA
 237291,,Candrian,U,,SUI
 237292,,Lacarde,U,,FRA
-237293,,Bertrand,U,,FRA
+237293,Cecile,Bertrand,U,,FRA
 237294,Jacqueline,Vives,U,,FRA
 237295,,Morane,U,,FRA
 237296,Kath,Hayes,U,,AUS
@@ -37374,7 +37374,7 @@
 237380,Laura,Shellenberger,U,,USA
 237381,Betty,Plum,U,,USA
 237382,Mary,Reynolds,U,,USA
-237383,Els,Berkel,U,,USA
+237383,Els,Berkel,U,,NED
 237384,Jean,Wright,U,,CAN
 237385,Frances,Woodbury,U,,CAN
 237386,Mrs W W,Flett,U,,CAN
@@ -37382,7 +37382,7 @@
 237388,,Berry,U,,CAN
 237389,Mrs C H,Mitchell,U,,CAN
 237390,A,Boettger,U,,USA
-237391,L,Martin,U,,USA
+237391,Louise,Martin,U,,USA
 237392,,Ashwill,U,,USA
 237393,Jeannette,Richter,U,,USA
 237394,,Debenham,U,,USA
@@ -37476,3 +37476,582 @@
 237482,Dilnaz,Mashabayeva,U,,KAZ
 237483,Isabella,Lynch,U,,GBR
 237484,Luise,Reisel,U,,DEU
+237485,Joan,Walters,U,,AUS
+237486,B,Cooper,U,,AUS
+237487,May,Blick,U,,AUS
+237488,E,Parsons,U,,AUS
+237489,Yvette,Wilson,U,,AUS
+237490,Barbara,Welbourne,U,,AUS
+237491,Mrs,Trembling,U,,RSA
+237492,I,Michau,U,,RSA
+237493,Mrs I,Baikie,U,,RSA
+237494,H,Duncan Brown,U,,RSA
+237495,Mary,Paterson,U,,AUS
+237496,Nellie,Trewhella,U,,AUS
+237497,Josie,Mcnamara,U,,AUS
+237498,Judith,Fitzhardinge,U,,AUS
+237499,Mavis,Cooke,U,,AUS
+237500,Noreen,Mckinley,U,,AUS
+237501,Beth,Peach,U,,AUS
+237502,Ruth,Resell,U,,USA
+237503,Ruth,Riley,U,,USA
+237504,Gail,Ball,U,,USA
+237505,Alice,Kingsbury,U,,USA
+237506,Ruth,Resch,U,,USA
+237507,Mrs Al,Bowen,U,,USA
+237508,Sara,Staff,U,,USA
+237509,Marjorie,Lauderbach,U,,USA
+237510,Kay,Larkin,U,,USA
+237511,Peggy,Hakes,U,,USA
+237512,Mrs K,Thaw,U,,USA
+237513,Edith,Wood,U,,USA
+237514,May,Doeg,U,,USA
+237515,Louise,King,U,,USA
+237516,Margaret,Currie,U,,RSA
+237517,Mrs Bruce,Barnes,U,,USA
+237518,Belle,Farrar,U,,USA
+237519,Gladys,Fisher,U,,USA
+237520,Virginia,Hollins,U,,USA
+237521,Marguerite,Stahlmidt,U,,USA
+237522,M,Manzie,U,,AUS
+237523,Mrs K,Gosbell,U,,AUS
+237524,B,Griffiths,U,,AUS
+237525,Meg,Brooker,U,,AUS
+237526,Audrey,Lewin,U,,AUS
+237527,Joan,Burke,U,,AUS
+237528,Joyce,Lack,U,,AUS
+237529,Gladys,Fischer,U,,AUS
+237530,Mrs M S,Murdoch,U,,SRI
+237531,Mrs,Hollinger,U,,USA
+237532,Alice,Clarke,U,,USA
+237533,Frances,Hulling,U,,USA
+237534,V K,Nicholls,U,,USA
+237535,Neva,Chillingworth,U,,USA
+237536,Lora,Newton,U,,USA
+237537,Francesca,Rospigliosi,U,,USA
+237538,K,Jordahn,U,,USA
+237539,Dorothy,Payne,U,,USA
+237540,M,Block,U,,USA
+237541,C,Ward,U,,USA
+237542,V,Cleveland,U,,USA
+237543,G,Paspernak,U,,USA
+237544,Rebe,Wilson,U,,NZL
+237545,Dora,Miller,U,,NZL
+237546,Eileen,France,U,,NZL
+237547,Nessie,Beverley,U,,NZL
+237548,Freda,Milburn,U,,NZL
+237549,Mavis,Howe,U,,NZL
+237550,Joyce,Douthett,U,,NZL
+237551,Z,Castle,U,,NZL
+237552,Thelma,Poole,U,,NZL
+237553,Pam,Cooke,U,,NZL
+237554,Arita,Adams,U,,NZL
+237555,Jimmie,Walcott,U,,USA
+237556,Evelyn,Peyre,U,,USA
+237557,Virginia,Hein,U,,USA
+237558,Helen,Hollett,U,,USA
+237559,Carmel,St John,U,,USA
+237560,Dot,Matz,U,,USA
+237561,Betty,Lipscombe,U,,AUS
+237562,Mrs William N,Hubbard,U,,USA
+237563,Jane,Kalkman,U,,USA
+237564,Anne,Freeman,U,,USA
+237565,Phyllis,Richard,U,,USA
+237566,Molla,Archer,U,,USA
+237567,Margaret,Alfaro,U,,USA
+237568,Mary,Bostwick,U,,USA
+237569,Dorothy,Relyea,U,,USA
+237570,Ingrid,Lakatos,U,,USA
+237571,Rose,Taubele,U,,USA
+237572,Lois,Kempe,U,,USA
+237573,Olga,Markey,U,,USA
+237574,Inge,Schroeder,U,,SWE
+237575,Kerstin,Nilsson,U,,SWE
+237576,M,Fethers,U,,AUS
+237577,,Dockendorff,U,,AUS
+237578,V C,Woods,U,,AUS
+237579,Ruth,Herft,U,,SRI
+237580,C,Hermon,U,,SRI
+237581,Jean,Baker,U,,SRI
+237582,Mrs C B,Fernando,U,,SRI
+237583,Florrie,Blackhall,U,,AUS
+237584,Gladys,Trimingham,U,,BER
+237585,Mrs,Herapath,U,,BER
+237586,M,Bertels,U,,BER
+237587,Vera,Richards,U,,BER
+237588,J,Mead,U,,BER
+237589,Pauline,Richards,U,,BER
+237590,Mrs E W,Harte,U,,BER
+237591,Margot,Powell,U,,BER
+237592,A,Mann,U,,BER
+237593,Mrs,Mcdaniel,U,,BER
+237594,Lucia,Valerio,U,,ITA
+237595,Mrs Harry,Brunie,U,,USA
+237596,Florence,Gilmore,U,,USA
+237597,Glenice,Pascoe,U,,AUS
+237598,Agnes,Ryan,U,,AUS
+237599,Mrs A,Odgaard,U,,AUS
+237600,,Scott,U,,AUS
+237601,Valmai,Du Feu,U,,AUS
+237602,Pearl,Jamieson,U,,AUS
+237603,Enid,Veryard,U,,AUS
+237604,Lois,Weir,U,,AUS
+237605,J,Bone,U,,AUS
+237606,L,Franklin,U,,RHO
+237607,D,Gumpertz,U,,RHO
+237608,Dagmar,Schilf,U,,GER
+237609,M,Greenwood,U,,AUS
+237610,Gwen,Farrell,U,,AUS
+237611,D,Jackson,U,,AUS
+237612,Vivienne,Berg,U,,AUS
+237613,Mrs L,Wilson,U,,AUS
+237614,Mrs A O,Burrows,U,,AUS
+237615,Mrs P,Lewis,U,,AUS
+237616,Mrs,Grahm Jones,U,,AUS
+237617,Phyllis,Newton,U,,AUS
+237618,N,Mckenzie,U,,AUS
+237619,,Vivalda,U,,ITA
+237620,,De Bruyn Kops,U,,NED
+237621,,Trecanni,U,,ITA
+237622,,Martinenghi,U,,ITA
+237623,Franca,Arosio,U,,ITA
+237624,,Alfonso,U,,ITA
+237625,,Profumo,U,,ITA
+237626,Edith,Szilvassy,U,,HUN
+237627,Magda,Berescu,U,,ROU
+237628,Klara,Somogyi,U,,HUN
+237629,Amelia,Maffei,U,,ITA
+237630,Junko,Kamo,U,,JPN
+237631,,Plaja,U,,YUG
+237632,Ucci,Manzutto,U,,ITA
+237633,Esther,Clarke,U,,USA
+237634,Barbara,Duncan,U,,USA
+237635,Patti,Mora,U,,USA
+237636,Donna,Goodheart,U,,USA
+237637,Barbara,Tuttle Lafayette,U,,USA
+237638,Bennie,Musto Martin,U,,USA
+237639,Betty,Blethen,U,,USA
+237640,M,Curtin,U,,AUS
+237641,B,Melville,U,,AUS
+237642,Enid,Irwin,U,,AUS
+237643,B,Healey,U,,AUS
+237644,Eva,Edwards,U,,AUS
+237645,Claudia,Guidi,U,,ITA
+237646,Frances,Heyck,U,,USA
+237647,Nancy,Moulton,U,,USA
+237648,Frances,Morris,U,,USA
+237649,,Aliotti,U,,ITA
+237650,Ruth,Birch,U,,AUS
+237651,Emily,Westacott,U,,AUS
+237652,Eliza,Coxe,U,,USA
+237653,Lila,Porter,U,,USA
+237654,Sarah,Rushton,U,,USA
+237655,,Serena,U,,ITA
+237656,Nini,Mancini,U,,ITA
+237657,,Scipiones,U,,ESP
+237658,,Busch,U,,GER
+237659,J,Reinke,U,,AUS
+237660,Betty,Corbiere,U,,USA
+237661,Mrs T Richard,Madden,U,,USA
+237662,Luisita,Leland,U,,USA
+237663,Evelyn,Soule,U,,USA
+237664,Mrs Robert,Morris,U,,USA
+237665,Mrs H P,Gray,U,,USA
+237666,Betty,Allen,U,,USA
+237667,J A,Keller,U,,USA
+237668,P,Miller,U,,USA
+237669,Mrs L M,Heflin,U,,USA
+237670,Mrs A L,Bruneau,U,,USA
+237671,Mrs,Bunney,U,,AUS
+237672,P,Brady,U,,AUS
+237673,R,Cunningham,U,,AUS
+237674,K,Tindal,U,,AUS
+237675,Joyce,Hunter,U,,AUS
+237676,Mrs W,Clarke,U,,AUS
+237677,P,Harnett,U,,AUS
+237678,Evangeline,Mclennan,U,,USA
+237679,M,Ingram,U,,USA
+237680,H,Wood,U,,USA
+237681,Gladys,Atkinson,U,,USA
+237682,,Jones,U,,USA
+237683,Marian,Williamson,U,,USA
+237684,Helen,Bachland,U,,USA
+237685,Cary,Lamb,U,,USA
+237686,Maxine,Taft,U,,USA
+237687,Thora,Bado,U,,JAM
+237688,Mrs N H,Levien,U,,NZL
+237689,Mrs Michael G,Eber,U,,SIN
+237690,Alice,Pennefeather,U,,SIN
+237691,Nellie,Chia,U,,CHN
+237692,Joan,Herrick,U,,SIN
+237693,M,Mcrae,U,,USA
+237694,J,Darrow,U,,USA
+237695,,Halbauer,U,,GER
+237696,,Kurowski,U,,GER
+237697,,Teudt,U,,GER
+237698,,Schreeb,U,,GER
+237699,Betty,Jabs,U,,USA
+237700,Sallie,Hermansen,U,,USA
+237701,Grace,Mcsheffry,U,,USA
+237702,Lucille,Winslow,U,,USA
+237703,Sylvia,Kaplan,U,,USA
+237704,Shirley L,Childs,U,,USA
+237705,Virginia,Pillar,U,,USA
+237706,Betty Ann,Cook,U,,USA
+237707,Marguerite,Letts,U,,USA
+237708,Helen,Dyer,U,,USA
+237709,Nancy,Poindexter,U,,USA
+237710,Berta,Thompson,U,,USA
+237711,Jean,Evans,U,,USA
+237712,Frances,Jacobson,U,,USA
+237713,Opal,Odonohue,U,,USA
+237714,Marjorie,Yetman,U,,USA
+237715,Janey,Mcdonald,U,,USA
+237716,Margaret,Carey,U,,USA
+237717,Colleen,Gutterson,U,,USA
+237718,Pat,Bigelow,U,,USA
+237719,Mrs Robert,Leith,U,,USA
+237720,Mrs Joseph F,Park,U,,USA
+237721,Jarvis,Gilbert,U,,USA
+237722,Mrs Lars,Ecklund,U,,USA
+237723,Mrs Linton,Foster,U,,USA
+237724,Mrs Percy,Fuller,U,,USA
+237725,Mrs Martin,Fenton,U,,USA
+237726,Mrs Jerome R,Allen,U,,USA
+237727,Lindsay,Rand,U,,USA
+237728,Mary,Prosser,U,,USA
+237729,Mrs Robert,Merrill,U,,USA
+237730,Mrs Nathaniel,Marsh,U,,USA
+237731,Mrs Charles,Hewitt,U,,USA
+237732,Mrs Roger,Wolcott,U,,USA
+237733,Mrs John J,Schieffelin,U,,USA
+237734,Lila,Rand,U,,USA
+237735,Mrs Waring,Park,U,,USA
+237736,Mrs William,Corwin,U,,USA
+237737,Mrs Robert,Fulton,U,,USA
+237738,Dorothy,Schierenberg,U,,USA
+237739,Mrs John,Parsons,U,,USA
+237740,Sally,Childress,U,,USA
+237741,Anne,Meyer,U,,USA
+237742,Mrs William,Crow,U,,USA
+237743,Mrs Henry,Harcourt,U,,USA
+237744,Margo,Lee,U,,USA
+237745,Elizabeth,Lyman,U,,USA
+237746,Mrs William,Bagley,U,,USA
+237747,Mrs J Basil,Macguire,U,,USA
+237748,Betsy,White,U,,USA
+237749,Mrs Edward E,Post,U,,USA
+237750,Mrs William,Spaulding,U,,USA
+237751,Eleanor,Crow,U,,USA
+237752,Eleanor,Ballard,U,,USA
+237753,E,Smith,U,,USA
+237754,,Graham,U,,USA
+237755,,Watson,U,,USA
+237756,Eloise,Stephens,U,,USA
+237757,Marcella,Kranzberg,U,,USA
+237758,Ella,Dietz Felbinger,U,,USA
+237759,La Verne,Kapps,U,,USA
+237760,Julie,Hoblitzel,U,,USA
+237761,Theresa,Mangace,U,,USA
+237762,Eva,Kelley,U,,USA
+237763,Billie,Hall,U,,USA
+237764,Jessie,Grossnickle,U,,USA
+237765,Mrs David,Jones,U,,USA
+237766,Dolly,Hamby,U,,USA
+237767,Thelma,Smith,U,,USA
+237768,Mrs Bob,Moseley,U,,USA
+237769,Mrs Charles,Palfrey Woodrow,U,,USA
+237770,Mrs,Mae,U,,USA
+237771,Anne,Miller,U,,USA
+237772,N,Hammonds,U,,USA
+237773,Mrs,May,U,,USA
+237774,Janet,Middleton,U,,USA
+237775,Mrs,Sharpies,U,,USA
+237776,Elizabeth,Townsend,U,,USA
+237777,Emmy Lou,Richards,U,,USA
+237778,Anne,Page,U,,USA
+237779,Mrs,Richardson,U,,USA
+237780,Katharine,Bingan,U,,USA
+237781,Dorothy,Andrus,U,,USA
+237782,Eliza,Disston,U,,USA
+237783,Anne,Strohbar,U,,USA
+237784,Edith,Clarke,U,,USA
+237785,Sylvia,Henrotin,U,,FRA
+237786,Sophia,Morris,U,,USA
+237787,M,Redgrave,U,,AUS
+237788,B,White,U,,AUS
+237789,D,Graham,U,,AUS
+237790,J,Jewel,U,,AUS
+237791,L,Booth,U,,AUS
+237792,A,Mcgilvray,U,,AUS
+237793,Kitty,Lawrence,U,,USA
+237794,Virginia,Hollinger,U,,USA
+237795,Rose,Dowling,U,,USA
+237796,Josephine,Otter,U,,USA
+237797,Virginia,Hitt,U,,USA
+237798,Louise,Hofmeister,U,,USA
+237799,Florence,Wittleder,U,,USA
+237800,Katharine,Bogan,U,,USA
+237801,Masie,Howard,U,,USA
+237802,Julia,Allen,U,,USA
+237803,Mrs Fred,Casanave,U,,USA
+237804,Jeanne,Irwin,U,,USA
+237805,Marie,Ahern,U,,USA
+237806,Ruth,Valentin,U,,USA
+237807,Laura,Biddle,U,,USA
+237808,Elizabeth,Rivinus,U,,USA
+237809,Rose,Hofkin,U,,USA
+237810,Jane,Norris,U,,USA
+237811,Christine,Waples,U,,USA
+237812,Ethel,Anders,U,,USA
+237813,Ruth,Schoenwald,U,,USA
+237814,Ellen,Robinson,U,,USA
+237815,Agnes,Maescher,U,,USA
+237816,Sylvia,Taft,U,,USA
+237817,Dorothy,Whitaker,U,,USA
+237818,Eleanor,Goodman,U,,USA
+237819,Norma,Glosh,U,,USA
+237820,Roselin,Mitchell,U,,USA
+237821,Betty Jo,Buck,U,,USA
+237822,Ruth,Haerr,U,,USA
+237823,Dorothy,Huffman,U,,USA
+237824,Mary,Carabin,U,,USA
+237825,Marjorie,Gantenberg,U,,USA
+237826,Martha,Cherrington,U,,USA
+237827,Angela,Mitchell,U,,USA
+237828,Mary,Whittaker,U,,USA
+237829,Helen,Decoursey,U,,USA
+237830,Caroline,Wright,U,,USA
+237831,Jane,Randall,U,,USA
+237832,Louise,Hock Goshen,U,,USA
+237833,Jean,Morris,U,,USA
+237834,Mrs M T,Boutmey,U,,USA
+237835,Nethe,Feldman,U,,USA
+237836,Virginia,Wandell,U,,USA
+237837,Barbara,Scott,U,,USA
+237838,Mrs M,Ingrid,U,,USA
+237839,Muriel,Bering,U,,USA
+237840,Mrs George,Levison,U,,USA
+237841,Joyce,Signan,U,,USA
+237842,Peg,Dolly,U,,USA
+237843,June,Murphy,U,,USA
+237844,Erva,Hamilton,U,,USA
+237845,Betty Lou,Kauffman,U,,USA
+237846,Vera,Selwin Berg,U,,AUS
+237847,Elizabeth,Bunnell,U,,USA
+237848,Virginia,Brandt,U,,USA
+237849,Lois,Hixon,U,,USA
+237850,Evelyn,Bouscaren,U,,USA
+237851,Jean,Mourak,U,,USA
+237852,Lois,Von Gehr,U,,USA
+237853,Sarah,Hinde,U,,USA
+237854,Charlotte,Obrien,U,,USA
+237855,Nita,Arnold,U,,USA
+237856,Julia,Siebold,U,,USA
+237857,Dorothy,Wilbury,U,,USA
+237858,Peggy,Nielson,U,,USA
+237859,Margaret,Walker,U,,USA
+237860,Lee,Mutti,U,,USA
+237861,Marion,Haegele,U,,USA
+237862,Kay,Mayers,U,,USA
+237863,Virginia,Burrell,U,,USA
+237864,Thelma,Ahrens,U,,USA
+237865,Mrs H,Rode,U,,AUS
+237866,J,Hanlon,U,,AUS
+237867,Winnifred,Mcconnell,U,,CAN
+237868,Pauline,Bolte,U,,CAN
+237869,Barbara,Barnard,U,,CAN
+237870,Mrs A R,Porter,U,,CAN
+237871,Rosette,Renshaw,U,,CAN
+237872,Mrs,Mcdowell,U,,USA
+237873,Mrs,Stull,U,,USA
+237874,Mrs,Greenfield,U,,USA
+237875,Judy,Norris,U,,USA
+237876,Diana,Disston,U,,USA
+237877,Mrs,Houlton,U,,USA
+237878,Carol,Lewis,U,,USA
+237879,Marguerite,Lillus,U,,USA
+237880,Nancy,Cloghorn,U,,USA
+237881,Lucille,Daugherty,U,,USA
+237882,Mary,Solis Cohen,U,,USA
+237883,Barbara,Rossmassler,U,,USA
+237884,P,Cowdy,U,,IRL
+237885,Brenda,Scroope,U,,IRL
+237886,M,Mcswiney,U,,IRL
+237887,Mrs E C,Goddard,U,,IRL
+237888,B,Campbell,U,,IRL
+237889,T,Pym,U,,IRL
+237890,W,Moore,U,,IRL
+237891,Betty,Roth,U,,USA
+237892,Peggy,Lockwood,U,,USA
+237893,Mary,Lauck,U,,USA
+237894,Mrs William,Dorgan,U,,USA
+237895,Jane,Johnston,U,,USA
+237896,Betty,Weiss,U,,USA
+237897,Mildred,Millikin,U,,USA
+237898,Martha Lois,Adams,U,,USA
+237899,Louanna,Mccreary,U,,USA
+237900,Virginia,Brown,U,,USA
+237901,Peggy,Kendall,U,,USA
+237902,Jane,Cox,U,,USA
+237903,Beatrice,Brittain,U,,USA
+237904,Emmy,Pantier,U,,USA
+237905,,Garcia,U,,USA
+237906,,Herrick,U,,USA
+237907,,Van Hefting,U,,NED
+237908,Anna,Knottenbelt,U,,NED
+237909,Annie,Kerckhoff,U,,NED
+237910,Frances,Mutthal,U,,USA
+237911,Hazel,Bishop,U,,USA
+237912,,Kahn,U,,USA
+237913,Anna,Dayett,U,,USA
+237914,,Lamm,U,,USA
+237915,Isabel,Harvey,U,,USA
+237916,Ann,Harrison,U,,USA
+237917,Eleanor,Colitor,U,,USA
+237918,Ellen,Chaney,U,,USA
+237919,Kay,Lovejoy,U,,USA
+237920,Grace,Surber,U,,USA
+237921,Mrs William,Demuth,U,,USA
+237922,Helen,Rowley,U,,USA
+237923,Betty,Brandstrom,U,,USA
+237924,Helen,Brunstead,U,,USA
+237925,Ariel,Stout,U,,USA
+237926,June,Igou,U,,USA
+237927,Peggy,Hawkins,U,,USA
+237928,,Frost,U,,USA
+237929,,Deymase,U,,USA
+237930,E,Henry,U,,USA
+237931,Ruth,Kayser,U,,USA
+237932,Frances,Lodge,U,,USA
+237933,Betty,Wolff,U,,USA
+237934,Barbara,Gaines,U,,USA
+237935,O,Herron,U,,USA
+237936,E,Hendry,U,,USA
+237937,E,Crawford,U,,USA
+237938,D,Bromfield,U,,USA
+237939,N,Williams,U,,USA
+237940,M,Tenny,U,,USA
+237941,J,Crowe,U,,USA
+237942,P,Duque,U,,USA
+237943,K,Williams,U,,USA
+237944,Mary,Stubbs,U,,CAN
+237945,M,Palmer,U,,CAN
+237946,Pat,Britton,U,,CAN
+237947,Anne,Cooke,U,,CAN
+237948,Lavelle,Kelly,U,,CAN
+237949,Anne Cathrine,Hals,U,,SWE
+237950,,Wettlaufer,U,,GER
+237951,,Kautter,U,,GER
+237952,Mrs Roger,Mankins,U,,USA
+237953,Mrs Philip,Watts,U,,USA
+237954,Elizabeth,Firestone,U,,USA
+237955,Virginia,Adler,U,,USA
+237956,Katherine,Gips,U,,USA
+237957,Marjory,Mcandrews,U,,USA
+237958,Lulu,Ballard,U,,USA
+237959,Jean,Strode,U,,USA
+237960,,Moelk,U,,GER
+237961,Irma,Bartels,U,,GER
+237962,,Schmuecking,U,,GER
+237963,,Klockow,U,,GER
+237964,Anni,Boehm,U,,GER
+237965,,Mauhbach,U,,GER
+237966,Anna,Koopman,U,,NED
+237967,Joan,Humphrey,U,,USA
+237968,Molly,Poole,U,,USA
+237969,Isabel,Seyburn,U,,USA
+237970,Barbara,Brandt,U,,USA
+237971,,Markowic,U,,SVK
+237972,,Teny,U,,SVK
+237973,Betty,Haupt,U,,AUS
+237974,Ivy,Killer,U,,AUS
+237975,M,Donald,U,,AUS
+237976,Mrs T W,Thomson,U,,CAN
+237977,Helen,Mcgrady,U,,CAN
+237978,Mrs Gordon,Lewis,U,,CAN
+237979,Bernardine,Schreiner,U,,USA
+237980,Lili,De Alvarez,U,,ESP
+237981,,Courvoisier,U,,SUI
+237982,Charlotte,Reilly,U,,USA
+237983,Eliza,Jackson,U,,USA
+237984,Ruth,Chalmers,U,,USA
+237985,Suzanne,Walther,U,,USA
+237986,Keo,England,U,,USA
+237987,Dorothy,Harris,U,,USA
+237988,Lucia,Lhamon,U,,USA
+237989,Ann,Banick,U,,USA
+237990,Natalie,Hoagland,U,,USA
+237991,Emily,Aberle,U,,USA
+237992,Posie,Romeyn,U,,USA
+237993,Marjorie,Holmes,U,,USA
+237994,Pat,Kenworthy,U,,USA
+237995,Edith,Dinlocker,U,,USA
+237996,Irene,Rieger,U,,USA
+237997,Mrs E,Foster,U,,USA
+237998,Molly,Mathieson,U,,USA
+237999,Joy,Thomas,U,,USA
+238000,Virginia,Nash,U,,USA
+238001,Lilian,Scharman,U,,USA
+238002,Penelope,Mcbride,U,,USA
+238003,Dorothy,Demarest,U,,USA
+238004,,Weihe,U,,GER
+238005,M,Reed,U,,USA
+238006,B,Bradford,U,,USA
+238007,D,Brown,U,,USA
+238008,N,Hill,U,,USA
+238009,W,Case,U,,USA
+238010,,Ellena,U,,ITA
+238011,,Cantone,U,,ITA
+238012,,Fasola,U,,ITA
+238013,,Tosi,U,,ITA
+238014,,Rosenblatt,U,,GER
+238015,,Langloh,U,,GER
+238016,,Borghi,U,,ITA
+238017,,Schmitz Otto,U,,SUI
+238018,,Lerwill,U,,RSA
+238019,Susie,Van Niekerk,U,,RSA
+238020,Frances,Farquharson,U,,RSA
+238021,C,Mulcahy,U,,RSA
+238022,E,Whittaker,U,,RSA
+238023,Norma,Simmons,U,,USA
+238024,Mrs J,Jones,U,,USA
+238025,Evelyn,Hurley,U,,USA
+238026,Pearl,Carrino,U,,USA
+238027,J,Nowin,U,,USA
+238028,Mrs Clyde,Whelden,U,,USA
+238029,B,Dursan,U,,USA
+238030,Doris,Kossing,U,,USA
+238031,Peggy,Salisbury,U,,USA
+238032,Barbara,Milley,U,,USA
+238033,,Dumuid,U,,SUI
+238034,Pearl,Stern,U,,AUS
+238035,Victoria M,De Rodriguez,U,,URU
+238036,Dot,Waddell,U,,AUS
+238037,Doris,Mauger,U,,AUS
+238038,E,May,U,,USA
+238039,M,Jacobson,U,,USA
+238040,Marly,Barros,U,,BRA
+238041,Dorothy,Frelleson,U,,USA
+238042,Genevieve,Grant,U,,USA
+238043,Alice,Brady,U,,USA
+238044,Elizabeth,Ansolm,U,,USA
+238045,Mary,Lick,U,,USA
+238046,Pat,Donovan,U,,USA
+238047,Alison,Harrison,U,,USA
+238048,F,Matthai,U,,USA
+238049,G,Parker,U,,USA
+238050,Sally,Abbott,U,,USA
+238051,Judy,Mandell,U,,USA
+238052,Frances,Nicholls,U,,USA
+238053,Helen,Carroll,U,,USA
+238054,Kay,Driscoll,U,,USA
+238055,Betty,Howe,U,,USA
+238056,Nancy,Hanson,U,,USA
+238057,Betty,Surbeck,U,,USA
+238058,Betty,Riggs,U,,USA
+238059,,Myrtle,U,,USA
+238060,Mary,Radcliffs,U,,USA
+238061,Ora,Washington,U,,USA
+238062,Roda,Smith,U,,USA
+238063,Phyllis,Willis,U,,USA
