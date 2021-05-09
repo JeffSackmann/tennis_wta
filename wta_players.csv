@@ -422,7 +422,7 @@
 200420,Anna Maria,Fernandez,U,19601022,USA
 200421,Pascale,Paradis Mangon,R,19660424,FRA
 200422,Raffaella,Reggi Concato,U,19651127,ITA
-200423,Carling,Bassett Seguso,U,19671009,CAN
+200423,Carling,Bassett Seguso,R,19671009,CAN
 200424,Etsuko,Inoue,U,19641018,JPN
 200425,Sophie,Amiach,R,19631110,FRA
 200426,Kim,Staunton,U,19660324,AUS
@@ -680,7 +680,7 @@
 200678,Gloria,Pizzichini,R,19750724,ITA
 200679,Caroline,Kuhlman,U,19660825,USA
 200680,Nadin,Ercegovic,U,19730202,CRO
-200681,Natalia,Baudone Furlan,U,19720712,ITA
+200681,Natalia,Baudone,U,19720712,ITA
 200682,Joannette,Kruger,R,19730903,RSA
 200683,Monique,Kiene,U,19740805,NED
 200684,Shi Ting,Wang,R,19731019,TPE
@@ -1062,7 +1062,7 @@
 201060,Carole,Lucarelli,U,19721126,FRA
 201061,Eva,Martincova,U,19750304,CZE
 201062,Amelie,Castera,L,19780409,FRA
-201063,Maria Francesca,Bentivoglio,U,19770127,ITA
+201063,Maria Francesca,Bentivoglio,R,19770127,ITA
 201064,Audrey,Sidot,U,19770307,FRA
 201065,Virginie,Buisson,U,19690820,FRA
 201066,Neus,Avila Bonastre,U,19710726,ESP
@@ -1095,7 +1095,7 @@
 201093,Alex,Cowie,U,19470511,GBR
 201094,Lucia,Bassi,U,19361212,ITA
 201095,Jennifer,Hoad,U,19340303,AUS
-201096,Rita,Lauder,U,19310716,GBR
+201096,Rita,Bentley,U,19310716,GBR
 201097,Marilyn,Aschner,L,19480308,USA
 201098,Mimi,Wheeler,U,19390227,USA
 201099,Jean,Drysdale,U,19390923,RSA
@@ -12481,7 +12481,7 @@
 212479,Silvana,Casaretto,U,19650130,URU
 212480,Andrea,Ritecz,U,19651103,HUN
 212481,Anna,Nemeth,U,19530806,HUN
-212482,Norma,Baylon,U,19421109,ARG
+212482,Norma,Baylon,R,19421109,ARG
 212483,Anne,Moller,U,19630423,DEN
 212484,Alexandra,Kleffel,U,19780308,HKG
 212485,Harisa,Delic,R,19810211,BIH
@@ -12638,7 +12638,7 @@
 212636,Kyeong Mi,Choi,U,19550401,KOR
 212637,Deidre,Keller,U,19400704,GBR
 212638,Andrea,Winkler,U,19400917,AUT
-212639,Elza,Bellens,U,,BEL
+212639,Elza,Bellens,U,19320514,BEL
 212640,Benita,Senn,U,19310823,CAN
 212641,Ulla,Pontoppidan,U,,DEN
 212642,Alice,Wavre,U,,SUI
@@ -30328,7 +30328,7 @@
 230336,Helen,Angwin,U,,AUS
 230337,June,Harrison,U,,AUS
 230338,Joyce,Traeger,U,,AUS
-230339,Sadie,Newcombe,U,,AUS
+230339,Sadie,Berryman,R,19181012,AUS
 230340,M,Potter,U,,AUS
 230341,Barbara,Warby,U,,AUS
 230342,,Leoni,U,,GER
@@ -30396,7 +30396,7 @@
 230404,Joan,Ross Dilley,U,19280602,GBR
 230405,,Watinne,U,,BEL
 230406,H,Lund,U,,NOR
-230407,Nadezhda,Belonenko,U,,URS
+230407,Nadezhda,Belonenko,U,19111122,URS
 230408,Elisabeta,Chuvryrina,U,,URS
 230409,Maria,Javori,U,,HUN
 230410,Rebekah,Colberg,U,19181225,PUR
@@ -30562,7 +30562,7 @@
 230570,Janine,Geranton,U,,FRA
 230571,C,Labesse,U,,FRA
 230572,A,Baxter,U,,GBR
-230573,M,Bernard,U,,FRA
+230573,Colette,Bernard,U,,FRA
 230574,,Savage,U,,GBR
 230575,,Oboyle,U,,GBR
 230576,E,Abraham,U,,IRL
@@ -31837,7 +31837,7 @@
 231845,Dorothy,Paxson,U,,USA
 231846,Dorothy,Robinson,U,,USA
 231847,,Hake,U,,USA
-231848,Ruby,Bixler,U,,USA
+231848,Ruby,Bixler,U,19130906,USA
 231849,Betsy,Ballack,U,,USA
 231850,Phyllis,Wellford,U,,USA
 231851,Sara,Watson,U,,USA
@@ -37372,7 +37372,7 @@
 237380,Laura,Shellenberger,U,,USA
 237381,Betty,Plum,U,,USA
 237382,Mary,Reynolds,U,,USA
-237383,Els,Berkel,U,,NED
+237383,Els,Belzer,U,19090510,NED
 237384,Jean,Wright,U,,CAN
 237385,Frances,Woodbury,U,,CAN
 237386,Mrs W W,Flett,U,,CAN
@@ -37536,7 +37536,7 @@
 237544,Rebe,Wilson,U,,NZL
 237545,Dora,Miller,U,,NZL
 237546,Eileen,France,U,,NZL
-237547,Nessie,Beverley,U,,NZL
+237547,Nessie,Beverly,U,,NZL
 237548,Freda,Milburn,U,,NZL
 237549,Mavis,Howe,U,,NZL
 237550,Joyce,Douthett,U,,NZL
@@ -38139,3 +38139,32 @@
 238147,Ethel,Barker,U,,AUS
 238148,Helen,Barr,U,19090415,GBR
 238149,Adelaide,Barry,U,18700528,IRL
+238150,Vera,De Bavay,R,,AUS
+238151,Martha,Bayard,U,19020915,USA
+238152,Geraldine,Beamish,U,18850623,GBR
+238153,Orea,Beatty,U,,AUS
+238154,Marcelle,Beauge,U,,FRA
+238155,Emma,Beaumont,U,,AUS
+238156,Dora,Beazley,U,19110910,GBR
+238157,Claire,Beckingham,U,,GBR
+238158,Mildred,Beckingham,U,,GBR
+238159,Marie,Beegling,U,,AUS
+238160,Alice,Bell,U,,AUS
+238161,Dora,Armstrong,U,18760225,GBR
+238162,Dot,Bellamy,U,,AUS
+238163,Britt,Bellander,U,,SWE
+238164,Rhoda,Bellegarde,R,18900808,ITA
+238165,Edith,Belliard,U,,FRA
+238166,Karin,Forsell,U,,SWE
+238167,Eileen,Bennett,U,19070716,GBR
+238168,Ursula,Bere,U,,AUS
+238169,Annie,Bergh,U,,NOR
+238170,Rosie,Berthet,U,,FRA
+238171,Luise,Berton,U,,GER
+238172,Kathleen,Bevir,U,18921210,GBR
+238173,Dorothy,Bickerton,U,,AUS
+238174,Louie,Bickerton,U,19020811,AUS
+238175,Dorothy,Biddle,U,19070816,GBR
+238176,Jane,Billington,U,,GBR
+238177,Ellen,Stawell Brown,U,,GBR
+238178,Berta,Binzer,U,,AUT
