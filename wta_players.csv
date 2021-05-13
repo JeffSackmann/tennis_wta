@@ -83,7 +83,7 @@
 200081,Anke,Huber,R,19741204,GER
 200082,Kristie,Boogert,R,19731216,NED
 200083,Alexandra,Stevenson,R,19801215,USA
-200084,Asa,Svensson,R,19750616,SWE
+200084,Asa,Carlsson,R,19750616,SWE
 200085,Ai,Sugiyama,R,19750705,JPN
 200086,Magdalena,Maleeva,R,19750401,BUL
 200087,Seda,Noorlander,R,19740522,NED
@@ -406,7 +406,7 @@
 200404,Zina,Garrison,U,19631116,USA
 200405,Susan,Mascarin,U,19640628,USA
 200406,Claudia,Monteiro,U,19610508,BRA
-200407,Camille,Benjamin,U,19660602,USA
+200407,Camille,Benjamin,L,19660602,USA
 200408,Alycia,Moulton,U,19610218,USA
 200409,Petra,Delhees Jauch,L,19590328,SUI
 200410,Yvonne,Vermaak,R,19561218,RSA
@@ -780,7 +780,7 @@
 200778,Irene,Fraisse,U,19360629,FRA
 200779,Maryna,Proctor,R,19440909,RSA
 200780,Irena,Skulj,U,19460117,YUG
-200781,Edda,Buding,U,19361113,FRG
+200781,Edda,Buding,R,19361113,FRG
 200782,Esme,Emanuel,U,19470614,RSA
 200783,Jitka,Volavkova,U,,TCH
 200784,Fay,Moore,U,19431218,AUS
@@ -821,7 +821,7 @@
 200819,Nicole,Niox Chateau,L,,FRA
 200820,Eugenia,Isopaitis,U,,URS
 200821,Monica,Giorgi,U,19460103,ITA
-200822,Ilse,Buding,U,,FRG
+200822,Ilse,Buding,U,19391122,FRG
 200823,Eva,Lundquist,U,19441216,SWE
 200824,Galina,Baksheeva,U,19450712,URS
 200825,Maylis,Burel,U,19430701,FRA
@@ -875,7 +875,7 @@
 200873,Ana Maria,Arias,U,19460724,CHI
 200874,Jill,Cooper,U,19490414,GBR
 200875,Pamela,Austin,U,19500312,USA
-200876,Denise,Carter Triolo,U,19500731,USA
+200876,Denise,Carter,U,19500731,USA
 200877,Helga,Hosl,U,19400202,GER
 200878,Katalin,Borka,U,19520127,HUN
 200879,Wendy,Overton,U,19470331,USA
@@ -1109,7 +1109,7 @@
 201107,Nadine,Netter,U,19441026,USA
 201108,Florence,De La Courtie Billat,U,19321113,FRA
 201109,Pauline,Roberts,U,,GBR
-201110,Bernice,Vukovich,U,19380101,RSA
+201110,Bernice,Carr,U,19380112,RSA
 201111,Lorna,Greville Collins,U,19330103,GBR
 201112,Wendy,Hall,U,,GBR
 201113,Shirley,Bloomer,R,19340613,GBR
@@ -23755,7 +23755,7 @@
 223763,H,Panea,U,,IRL
 223764,Jennifer,Cronin,U,,IRL
 223765,M,Richens,U,,GBR
-223766,Carolyn,Camp Battrick,U,,GBR
+223766,Carolyn,Camp,U,,GBR
 223767,Joanne,Haye,U,,GBR
 223768,F,Henniker,U,,GBR
 223769,Ann Charlotte,Dahlberg,U,,SWE
@@ -26718,7 +26718,7 @@
 226726,Marie,Burke,U,,AUS
 226727,Flo,Blanchard,U,,USA
 226728,Veronika,Katilius,U,19100814,LTU
-226729,Angela,Buxton,U,19340816,GBR
+226729,Angela,Buxton,R,19340816,GBR
 226730,R,Isterloh,U,,GER
 226731,Edith,Blake,U,,USA
 226732,Marie Odile,Bouchet,U,,FRA
@@ -27128,7 +27128,7 @@
 227136,Gretchen,Sommerfield,U,,USA
 227137,Inge,Schulz,U,,GER
 227138,Annegerd,Banse,U,,GER
-227139,Judy,Tinnock,U,,NZL
+227139,Judy,Tinnock,U,19310221,NZL
 227140,Leila,Punjabi,U,,IND
 227141,June,Harbert,U,,USA
 227142,Evelyn,Fulton,U,,GBR
@@ -29957,7 +29957,7 @@
 229965,Irene,Rawcliffe,U,,USA
 229966,Betty,Polvere,U,,USA
 229967,Anne,Gilliford,U,,USA
-229968,Alison,Baker,U,,AUS
+229968,Alison,Baker,L,19211103,AUS
 229969,Wendy,Morris,U,,GBR
 229970,Madeleine,Redling,U,,USA
 229971,Jean,Mcintosh,U,,USA
@@ -38242,3 +38242,27 @@
 238250,Natalie,Browning,U,18960915,USA
 238251,Anita,Brunou,U,,FIN
 238252,Melanie,Achenbach,U,18880831,GER
+238253,Cherie,Bubb,U,,AUS
+238254,Valentina,Bugaeva,U,19300914,URS
+238255,Elizabeth,Bunce,U,,USA
+238256,Annie,Burdette,U,,USA
+238257,Helen,Burr,U,,GBR
+238258,Mary,Burrows,U,,GBR
+238259,Robina,Bushby,U,18910727,AUS
+238260,Edith,Butcherine,U,,AUS
+238261,Connie,Butler,U,,IRL
+238262,Hattie,Butler,U,18730525,USA
+238263,Coral,Buttsworth,R,19000607,AUS
+238264,Marjorie,Byram,U,18951217,AUS
+238265,Lesley,Cadle,U,18890704,GBR
+238266,Mabel,Cahill,R,18630402,IRL
+238267,Ailsa,Carcary,U,,AUS
+238268,Flora,Cameron,U,18880212,AUS
+238269,Josephine,Campbell,U,,GBR
+238270,Lavender,Campbell,U,,GBR
+238271,Mence,Canters,R,19000305,NED
+238272,Joan,Capel,U,,AUS
+238273,Louise,Candee,U,18790906,USA
+238274,Petronella,Cargill,U,19110502,GBR
+238275,Claire,De Caritat,U,,BEL
+238276,Phyllis,Satterthwaite,R,18860126,GBR
