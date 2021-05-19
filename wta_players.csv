@@ -436,7 +436,7 @@
 200434,Shelley,Solomon,U,19630619,USA
 200435,Barbara,Gerken,U,19640703,USA
 200436,Carina,Karlsson,U,19630911,SWE
-200437,Annabel,Croft,U,19660712,GBR
+200437,Annabel,Croft,R,19660712,GBR
 200438,Michaela,Washington,U,19660227,USA
 200439,Jenny,Byrne,U,19670225,AUS
 200440,Shawn,Foltz,U,19671221,USA
@@ -1107,7 +1107,7 @@
 201105,Margaret,Lee,U,,GBR
 201106,Betty,Pratt,U,19250415,USA
 201107,Nadine,Netter,U,19441026,USA
-201108,Florence,De La Courtie Billat,U,19321113,FRA
+201108,Florence,De La Courtie,U,19321113,FRA
 201109,Pauline,Roberts,U,,GBR
 201110,Bernice,Carr,U,19380112,RSA
 201111,Lorna,Greville Collins,U,19330103,GBR
@@ -1770,7 +1770,7 @@
 201768,Gail,Falkenberg,U,19470116,USA
 201769,Ruth,Seeman,U,19630414,NZL
 201770,Yvonne,Der Kinderen,U,19651026,NED
-201771,Virag,Csurgo,U,19721110,HUN
+201771,Virag,Csurgo,R,19721110,HUN
 201772,Aranzazu,Gallardo,U,19730930,MEX
 201773,Diedre,Herman,U,19711011,USA
 201774,Caroline,Hagey,U,19651129,USA
@@ -26140,7 +26140,7 @@
 226148,J,Langdon,U,,GBR
 226149,J,Foley,U,,GBR
 226150,M K,Scarlett,U,,GBR
-226151,Joan,Hughesman,U,,GBR
+226151,Joan,Curry,U,,GBR
 226152,Mrs W K,Shearing,U,,GBR
 226153,M E,Neal,U,,GBR
 226154,Aprille,Oneill,U,,GBR
@@ -28929,7 +28929,7 @@
 228937,Betty,Bradfield,U,,AUS
 228938,Dorn,Mcgill,U,19221022,AUS
 228939,Anne,Lonergan,U,,AUS
-228940,Madzy,Rollin Couquerque,U,19030414,NED
+228940,Madzy,Rollin Couquerque,R,19030414,NED
 228941,,Pags,U,,GER
 228942,Yolanda,Huszty,U,,USA
 228943,Ann,Verity,U,,USA
@@ -30875,7 +30875,7 @@
 230883,Lidiia,Rasskovskaia,U,,RUS
 230884,Ottavia,Massetti,U,,ITA
 230885,Masa,Viriant ,U,,SLO
-230886,Patricia,Cunningham,U,,AUS
+230886,Pat,Cunningham,U,,AUS
 230887,Maureen,Ussher,U,,RSA
 230888,,Van Blommenstein,U,,RSA
 230889,Mrs K,Bowyer,U,,RSA
@@ -32304,7 +32304,7 @@
 232312,Ann,Dyre,U,,USA
 232313,Jewell,Plummer,U,,USA
 232314,D,Lazslo,U,,YUG
-232315,Patricia,Stuhler,U,19190420,USA
+232315,Patricia,Cumming,U,19190420,USA
 232316,Yvonne,De Kageneck,U,,SUI
 232317,Anna,Staeger,U,,SUI
 232318,M,Graham,U,,GBR
@@ -32648,7 +32648,7 @@
 232656,Bonnie,Jackson,U,,RSA
 232657,J,Demos,U,,RSA
 232658,Lily,Oleary,U,,RSA
-232659,Olive,Plessis,U,,RSA
+232659,Olive,Craze,U,,RSA
 232660,B,Hale,U,,RSA
 232661,Betty,Slater,U,,RSA
 232662,P,Van Der Vyver,U,,RSA
@@ -38323,3 +38323,33 @@
 238331,Camilia,Samel Druz,U,,FRA
 238332,Noa,Minzari,U,,ISR
 238333,Laure,Razet,U,,FRA
+238334,Erla,Corrigan,U,,AUS
+238335,Joan,Couchman,U,19090225,GBR
+238336,Genevieve,Cousin,U,,FRA
+238337,Phyllis,Covell,U,18950522,GBR
+238338,Maria,Covi,U,,ITA
+238339,Nancy,Cowley,U,,AUS
+238340,Elizabeth,Cox,U,18790403,AUS
+238341,Marjorie,Cox Crawford,U,,AUS
+238342,Truda,Cox,U,,AUS
+238343,Irene,Cozens,U,,AUS
+238344,Doris,Craddock,U,18850226,GBR
+238345,Lottie,Crawford,U,19110402,AUS
+238346,Marjorie,Crawford,U,19040516,AUS
+238347,Weeta,Crawshay Williams,U,,GBR
+238348,Ellen,Cressy,U,,GBR
+238349,Ida,Cressy,U,,GBR
+238350,Lilian,Cressy,U,,GBR
+238351,Dorothy,Crichton,U,19050104,GBR
+238352,Marlies,Weber,U,,SUI
+238353,Ellinore,Crisp,U,,AUS
+238354,Domini,Crosfield,U,,GRE
+238355,Edith,Cross,U,19070802,USA
+238356,Bertha,Crouch,U,18740816,USA
+238357,Josephine,Cruickshank,U,19090118,USA
+238358,Katalin,Csery,U,18870301,HUN
+238359,Sarolta,Csery,U,18950117,HUN
+238360,Lucette,Culbert,U,18960620,FRA
+238361,Diana,Curtis,U,,GBR
+238362,Gaby,Curtis,U,19090731,GBR
+238363,Nancy,Curtis,U,18940505,NZL
