@@ -2,7 +2,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-1001,ITF Chicago,Hard,,C,19870105,1,200028,,,Maureen Drake,R,,CAN,15.794661191,203891,,,Trisha Laux,U,,USA,17.9192334018,6-3 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1987-1001,ITF Chicago,Hard,,C,19870105,2,200600,,,Simone Schilder,U,,NED,19.7481177276,201759,,,Jan Blackstad,U,,USA,33.0349075975,6-1 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,276,0,,
 1987-1001,ITF Chicago,Hard,,C,19870105,3,203795,,,Digna Ketelaar,U,,NED,19.3976728268,232895,,,Chris Seiffert,U,,USA,,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,294,0,,
-1987-1001,ITF Chicago,Hard,,C,19870105,4,201760,,,Heidi Sprung,U,,AUT,17.9849418207,200557,,,Katrina Adams,U,,USA,18.417522245,4-6 7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1987-1001,ITF Chicago,Hard,,C,19870105,4,201760,,,Heidi Sprung,U,,AUT,17.9849418207,200557,,,Katrina Adams,R,165,USA,18.417522245,4-6 7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1987-1001,ITF Chicago,Hard,,C,19870105,5,213049,,,Mara Eijkenboom,U,,NED,28.900752909,213089,,,Vincenza Procacci,U,,USA,20.3778234086,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1987-1001,ITF Chicago,Hard,,C,19870105,6,201916,,,Anne Grousbeck,U,,USA,20.9144421629,200534,,,Melissa Brown,U,,USA,18.7351129363,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1987-1001,ITF Chicago,Hard,,C,19870105,7,200095,,,Linda Wild,R,,USA,15.8986995209,200410,,,Yvonne Vermaak,R,,RSA,30.0479123888,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,104,7
@@ -30,7 +30,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-1001,ITF Chicago,Hard,,C,19870105,29,201916,,,Anne Grousbeck,U,,USA,20.9144421629,200600,,,Simone Schilder,U,,NED,19.7481177276,6-1 5-7 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,276,0
 1987-1001,ITF Chicago,Hard,,C,19870105,30,200554,,,Brenda Schultz Mccarthy,R,,NED,16.0219028063,200515,,,Lindsay Bartlett,U,,USA,24.4325804244,6-7 6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,,
 1987-1001,ITF Chicago,Hard,,C,19870105,31,200554,,,Brenda Schultz Mccarthy,R,,NED,16.0219028063,201916,,,Anne Grousbeck,U,,USA,20.9144421629,6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,,,,,
-1987-1002,ITF Key Biscayne 1,Hard,,C,19870112,1,203648,,Q,Lisa Seemann,U,,RSA,25.0102669405,200549,1,,Penny Barg Mager,R,,USA,22.7542778919,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,150,3
+1987-1002,ITF Key Biscayne 1,Hard,,C,19870112,1,203648,,Q,Lisa Seemann,U,,RSA,25.0102669405,200549,1,,Penny Barg,R,,USA,22.7542778919,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,150,3
 1987-1002,ITF Key Biscayne 1,Hard,,C,19870112,2,200531,,,Elizabeth Galphin,U,,USA,18.379192334,200515,,Q,Lindsay Bartlett,U,,USA,24.4517453799,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1987-1002,ITF Key Biscayne 1,Hard,,C,19870112,3,201970,,,Vicki Beggs,U,,USA,29.8015058179,201760,,,Heidi Sprung,U,,AUT,18.0041067762,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1987-1002,ITF Key Biscayne 1,Hard,,C,19870112,4,201042,8,,Andrea Tiezzi,U,,ARG,22.1273100616,201047,,,Andrea Vieira,U,,BRA,15.9342915811,6-7 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,250,1,,
@@ -1036,7 +1036,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-1037,ITF Birmingham,Hard,,C,19870615,13,200588,5,,Renata Baranski,U,,POL,22.302532512,203893,,,Sonya Hahn,U,,USA,19.8056125941,2-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,270,0,,
 1987-1037,ITF Birmingham,Hard,,C,19870615,14,202019,,,Kim Labuschagne,U,,RSA,19.7590691307,213043,,,Cinda Gurney,U,,USA,16.180698152,7-5 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1987-1037,ITF Birmingham,Hard,,C,19870615,15,200689,,,Tessa Price,U,,RSA,20.2245037645,212370,,,Jennifer Thornton,U,,IRL,21.9520876112,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-1987-1037,ITF Birmingham,Hard,,C,19870615,16,200557,,,Katrina Adams,U,,USA,18.8583162218,200536,2,,Stephanie Faulkner,U,,AUS,18.0944558522,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,218,1
+1987-1037,ITF Birmingham,Hard,,C,19870615,16,200557,,,Katrina Adams,R,165,USA,18.8583162218,200536,2,,Stephanie Faulkner,U,,AUS,18.0944558522,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,218,1
 1987-1037,ITF Birmingham,Hard,,C,19870615,17,201009,1,,Ginny Purdy,U,,USA,20.5804243669,201766,,,Sharon Mcnamara,U,,AUS,20.7227926078,7-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,204,1,,
 1987-1037,ITF Birmingham,Hard,,C,19870615,18,202146,,,Allyson Ingram,U,,USA,23.6878850103,200515,6,,Lindsay Bartlett,U,,USA,24.8733744011,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,279,0
 1987-1037,ITF Birmingham,Hard,,C,19870615,19,201194,,,Tammy Whittington,U,,USA,21.6728268309,201270,,,Jane Young,U,,CAN,22.0396988364,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
@@ -1044,7 +1044,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-1037,ITF Birmingham,Hard,,C,19870615,21,201954,7,,Kirsten Dreyer,U,,USA,18.2176591376,231977,,,Mary Dinneen,U,,USA,,3-6 6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,293,0,,
 1987-1037,ITF Birmingham,Hard,,C,19870615,22,200613,,,Lise Gregory,L,,RSA,23.794661191,200526,4,,Carol Christian,U,,USA,24.681724846,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,268,0
 1987-1037,ITF Birmingham,Hard,,C,19870615,23,202019,,,Kim Labuschagne,U,,RSA,19.7590691307,200588,5,,Renata Baranski,U,,POL,22.302532512,2-6 7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,270,0
-1987-1037,ITF Birmingham,Hard,,C,19870615,24,200689,,,Tessa Price,U,,RSA,20.2245037645,200557,,,Katrina Adams,U,,USA,18.8583162218,0-6 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+1987-1037,ITF Birmingham,Hard,,C,19870615,24,200689,,,Tessa Price,U,,RSA,20.2245037645,200557,,,Katrina Adams,R,165,USA,18.8583162218,0-6 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1987-1037,ITF Birmingham,Hard,,C,19870615,25,201009,1,,Ginny Purdy,U,,USA,20.5804243669,202146,,,Allyson Ingram,U,,USA,23.6878850103,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,204,1,,
 1987-1037,ITF Birmingham,Hard,,C,19870615,26,201194,,,Tammy Whittington,U,,USA,21.6728268309,203835,,,Kathy Foxworth,U,,USA,22.6091718001,7-6 7-6,3,QF,,,,,,,,,,,,,,,,,,,,,,,
 1987-1037,ITF Birmingham,Hard,,C,19870615,27,201954,7,,Kirsten Dreyer,U,,USA,18.2176591376,200613,,,Lise Gregory,L,,RSA,23.794661191,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,293,0,,
@@ -1455,7 +1455,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-1050,ITF Leon,Hard,,C,19870713,29,201900,,,Natasha Marcucci,U,,ARG,16.7939767283,202055,,,Themis Zambrzycki,U,,BRA,26.726899384,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,,
 1987-1050,ITF Leon,Hard,,C,19870713,30,203631,,,Jackie Masters,U,,AUS,19.1457905544,202177,,,Titia Wilmink,U,,NED,18.7789185489,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,,
 1987-1050,ITF Leon,Hard,,C,19870713,31,201900,,,Natasha Marcucci,U,,ARG,16.7939767283,203631,,,Jackie Masters,U,,AUS,19.1457905544,7-6 6-2,3,F,,,,,,,,,,,,,,,,,,,,,,,
-1987-1051,ITF Schenectady,Hard,,C,19870720,22,200407,1,,Camille Benjamin,U,,USA,21.1307323751,200541,,,Sherri Norris,U,,USA,23.4606433949,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,82,10,240,1
+1987-1051,ITF Schenectady,Hard,,C,19870720,22,200407,1,,Camille Benjamin,L,175,USA,21.1307323751,200541,,,Sherri Norris,U,,USA,23.4606433949,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,82,10,240,1
 1987-1051,ITF Schenectady,Hard,,C,19870720,23,200525,,LL,Jennifer Goodling,U,,USA,25.2320328542,201898,,,Isabelle Crudo,U,,FRA,19.3757700205,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,246,1
 1987-1051,ITF Schenectady,Hard,,C,19870720,24,200962,,,Patricia Medrado,U,,BRA,30.6447638604,200553,,,Carin Bakkum,U,,NED,24.9856262834,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,154,3,212,1
 1987-1051,ITF Schenectady,Hard,,C,19870720,25,212370,,LL,Jennifer Thornton,U,,IRL,22.0479123888,200556,,,Wendy Wood,U,,USA,23.2470910335,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,257,1
@@ -1471,7 +1471,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-1051,ITF Schenectady,Hard,,C,19870720,35,200369,,,Candy Reynolds,U,,USA,32.3230663929,232951,,LL,Kay Tittle,U,,USA,,7-5 0-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,198,2,,
 1987-1051,ITF Schenectady,Hard,,C,19870720,36,200028,,Q,Maureen Drake,R,,CAN,16.3312799452,200334,,,Sabina Simmonds,R,,ITA,27.2553045859,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,211,1
 1987-1051,ITF Schenectady,Hard,,C,19870720,37,200403,,,Andrea Leand,U,,USA,23.5017111567,200447,2,,Adriana Villagran Reami,U,,ARG,30.9486652977,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,115,6
-1987-1051,ITF Schenectady,Hard,,C,19870720,38,200407,1,,Camille Benjamin,U,,USA,21.1307323751,200525,,LL,Jennifer Goodling,U,,USA,25.2320328542,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,82,10,,
+1987-1051,ITF Schenectady,Hard,,C,19870720,38,200407,1,,Camille Benjamin,L,175,USA,21.1307323751,200525,,LL,Jennifer Goodling,U,,USA,25.2320328542,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,82,10,,
 1987-1051,ITF Schenectady,Hard,,C,19870720,39,200962,,,Patricia Medrado,U,,BRA,30.6447638604,212370,,LL,Jennifer Thornton,U,,IRL,22.0479123888,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,154,3,,
 1987-1051,ITF Schenectady,Hard,,C,19870720,40,202019,,,Kim Labuschagne,U,,RSA,19.8548939083,201027,4,,Gabriela Dinu,U,,FRG,27.2580424367,3-6 6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,256,1,148,4
 1987-1051,ITF Schenectady,Hard,,C,19870720,41,201032,,,Cecilia Fernandez Parker,U,,USA,24.0602327173,200516,,LL,Jennifer Fuchs,U,,USA,20.0492813142,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,157,3,,
@@ -1479,16 +1479,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-1051,ITF Schenectady,Hard,,C,19870720,43,200412,3,,Vicki Nelson Dunbar,U,,USA,24.8158795346,200602,,,Shaun Stafford,U,,USA,18.598220397,3-6 6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,112,7,232,1
 1987-1051,ITF Schenectady,Hard,,C,19870720,44,200369,,,Candy Reynolds,U,,USA,32.3230663929,200457,5,,Andrea Holikova,U,,TCH,19.5099247091,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,198,2,131,5
 1987-1051,ITF Schenectady,Hard,,C,19870720,45,200403,,,Andrea Leand,U,,USA,23.5017111567,200028,,Q,Maureen Drake,R,,CAN,16.3312799452,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
-1987-1051,ITF Schenectady,Hard,,C,19870720,46,200407,1,,Camille Benjamin,U,,USA,21.1307323751,200962,,,Patricia Medrado,U,,BRA,30.6447638604,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,82,10,154,3
+1987-1051,ITF Schenectady,Hard,,C,19870720,46,200407,1,,Camille Benjamin,L,175,USA,21.1307323751,200962,,,Patricia Medrado,U,,BRA,30.6447638604,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,82,10,154,3
 1987-1051,ITF Schenectady,Hard,,C,19870720,47,201032,,,Cecilia Fernandez Parker,U,,USA,24.0602327173,202019,,,Kim Labuschagne,U,,RSA,19.8548939083,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,157,3,256,1
 1987-1051,ITF Schenectady,Hard,,C,19870720,48,200412,3,,Vicki Nelson Dunbar,U,,USA,24.8158795346,202214,,Q,Holly Ann Lloyd,U,,USA,16.5859000684,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,112,7,,
 1987-1051,ITF Schenectady,Hard,,C,19870720,49,200369,,,Candy Reynolds,U,,USA,32.3230663929,200403,,,Andrea Leand,U,,USA,23.5017111567,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,198,2,,
-1987-1051,ITF Schenectady,Hard,,C,19870720,50,200407,1,,Camille Benjamin,U,,USA,21.1307323751,201032,,,Cecilia Fernandez Parker,U,,USA,24.0602327173,6-1 6-1,3,SF,,,,,,,,,,,,,,,,,,,,82,10,157,3
+1987-1051,ITF Schenectady,Hard,,C,19870720,50,200407,1,,Camille Benjamin,L,175,USA,21.1307323751,201032,,,Cecilia Fernandez Parker,U,,USA,24.0602327173,6-1 6-1,3,SF,,,,,,,,,,,,,,,,,,,,82,10,157,3
 1987-1051,ITF Schenectady,Hard,,C,19870720,51,200412,3,,Vicki Nelson Dunbar,U,,USA,24.8158795346,200369,,,Candy Reynolds,U,,USA,32.3230663929,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,112,7,198,2
-1987-1051,ITF Schenectady,Hard,,C,19870720,52,200407,1,,Camille Benjamin,U,,USA,21.1307323751,200412,3,,Vicki Nelson Dunbar,U,,USA,24.8158795346,6-2 6-3,3,F,,,,,,,,,,,,,,,,,,,,82,10,112,7
+1987-1051,ITF Schenectady,Hard,,C,19870720,52,200407,1,,Camille Benjamin,L,175,USA,21.1307323751,200412,3,,Vicki Nelson Dunbar,U,,USA,24.8158795346,6-2 6-3,3,F,,,,,,,,,,,,,,,,,,,,82,10,112,7
 1987-1052,ITF Philadelphia,Hard,,C,19870720,29,200501,1,,Marianne Werdel Witmeyer,U,,USA,19.7563312799,201042,,,Andrea Tiezzi,U,,ARG,22.6447638604,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,40,19,224,1
 1987-1052,ITF Philadelphia,Hard,,C,19870720,30,203891,,Q,Trisha Laux,U,,USA,18.4558521561,201901,,,Cheryl Jones,U,,USA,23.2114989733,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,251,1
-1987-1052,ITF Philadelphia,Hard,,C,19870720,31,200557,,Q,Katrina Adams,U,,USA,18.9541409993,201271,,,Lisa Green,U,,USA,19.0034223135,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1987-1052,ITF Philadelphia,Hard,,C,19870720,31,200557,,Q,Katrina Adams,R,165,USA,18.9541409993,201271,,,Lisa Green,U,,USA,19.0034223135,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1987-1052,ITF Philadelphia,Hard,,C,19870720,32,201829,5,,Heliane Steden,U,,MEX,23.0034223135,200526,,,Carol Christian,U,,USA,24.7775496235,6-2 1-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,190,2,264,1
 1987-1052,ITF Philadelphia,Hard,,C,19870720,33,200655,3,,Nicole Arendt,L,,USA,17.8973305955,200558,,,Leigh Anne Eldredge,U,,USA,22.5954825462,6-2 3-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,170,2,225,1
 1987-1052,ITF Philadelphia,Hard,,C,19870720,34,200567,,Q,Jennifer Santrock,U,,USA,18.392881588,213034,,,Jane Holden,U,,USA,20.5749486653,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -1503,7 +1503,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-1052,ITF Philadelphia,Hard,,C,19870720,43,201832,,,Gabriela Mosca,U,,ARG,17.9356605065,202109,,,Kerri Reiter,U,,USA,18.7980835044,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,227,1,,
 1987-1052,ITF Philadelphia,Hard,,C,19870720,44,200613,,LL,Lise Gregory,L,,RSA,23.8904859685,200389,2,,Kathy Jordan,U,,USA,27.627652293,1-6 7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,261,1,59,14
 1987-1052,ITF Philadelphia,Hard,,C,19870720,45,200501,1,,Marianne Werdel Witmeyer,U,,USA,19.7563312799,203891,,Q,Trisha Laux,U,,USA,18.4558521561,4-6 6-4 7-6,3,R16,,,,,,,,,,,,,,,,,,,,40,19,,
-1987-1052,ITF Philadelphia,Hard,,C,19870720,46,201829,5,,Heliane Steden,U,,MEX,23.0034223135,200557,,Q,Katrina Adams,U,,USA,18.9541409993,7-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,190,2,,
+1987-1052,ITF Philadelphia,Hard,,C,19870720,46,201829,5,,Heliane Steden,U,,MEX,23.0034223135,200557,,Q,Katrina Adams,R,165,USA,18.9541409993,7-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,190,2,,
 1987-1052,ITF Philadelphia,Hard,,C,19870720,47,200567,,Q,Jennifer Santrock,U,,USA,18.392881588,200655,3,,Nicole Arendt,L,,USA,17.8973305955,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,170,2
 1987-1052,ITF Philadelphia,Hard,,C,19870720,48,200534,7,,Melissa Brown,U,,USA,19.2717316906,200622,,,Maya Kidowaki,U,,JPN,18.173853525,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,203,1,283,0
 1987-1052,ITF Philadelphia,Hard,,C,19870720,49,200538,,,Akemi Nishiya,R,,JPN,22.3572895277,202034,,,Jane Thomas,U,,USA,21.3223819302,7-5 2-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,239,1,,
@@ -1626,7 +1626,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-1056,ITF Neumunster,Clay,,C,19870727,104,200554,,,Brenda Schultz Mccarthy,R,,NED,16.5776865161,201043,,,Barbara Romano,U,,ITA,22.5297741273,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,192,2,205,1
 1987-1056,ITF Neumunster,Clay,,C,19870727,105,200112,,,Julie Halard Decugis,R,,FRA,16.8761122519,200554,,,Brenda Schultz Mccarthy,R,,NED,16.5776865161,6-2 6-4,3,F,,,,,,,,,,,,,,,,,,,,252,1,192,2
 1987-1057,ITF Chatham,Hard,,C,19870727,1,200536,1,,Stephanie Faulkner,U,,AUS,18.2094455852,202054,,Q,Linda Barnard,U,,RSA,18.9596167009,3-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,221,1,,
-1987-1057,ITF Chatham,Hard,,C,19870727,2,200557,,Q,Katrina Adams,U,,USA,18.9733059548,203787,,,Holly Danforth,U,,USA,17.9575633128,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1987-1057,ITF Chatham,Hard,,C,19870727,2,200557,,Q,Katrina Adams,R,165,USA,18.9733059548,203787,,,Holly Danforth,U,,USA,17.9575633128,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1987-1057,ITF Chatham,Hard,,C,19870727,3,203891,,Q,Trisha Laux,U,,USA,18.4750171116,201759,,Q,Jan Blackstad,U,,USA,33.5906913073,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1987-1057,ITF Chatham,Hard,,C,19870727,4,200602,,,Shaun Stafford,U,,USA,18.6173853525,201916,7,,Anne Grousbeck,U,,USA,21.4702258727,3-6 6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,232,1,284,0
 1987-1057,ITF Chatham,Hard,,C,19870727,5,202019,4,,Kim Labuschagne,U,,RSA,19.8740588638,202146,,,Allyson Ingram,U,,USA,23.8028747433,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,256,1,,
@@ -1641,7 +1641,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-1057,ITF Chatham,Hard,,C,19870727,14,200403,,,Andrea Leand,U,,USA,23.5208761123,200528,,,Katie Rickett,U,,GBR,18.9349760438,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1987-1057,ITF Chatham,Hard,,C,19870727,15,203835,,,Kathy Foxworth,U,,USA,22.7241615332,231647,,,Julie Kaczmarek,U,,USA,,7-6 2-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1987-1057,ITF Chatham,Hard,,C,19870727,16,203883,2,,Shandra Livingston,U,,USA,19.1868583162,203888,,Q,Jennifer Prah,U,,USA,21.1143052704,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,243,1,,
-1987-1057,ITF Chatham,Hard,,C,19870727,17,200557,,Q,Katrina Adams,U,,USA,18.9733059548,200536,1,,Stephanie Faulkner,U,,AUS,18.2094455852,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,221,1
+1987-1057,ITF Chatham,Hard,,C,19870727,17,200557,,Q,Katrina Adams,R,165,USA,18.9733059548,200536,1,,Stephanie Faulkner,U,,AUS,18.2094455852,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,221,1
 1987-1057,ITF Chatham,Hard,,C,19870727,18,200602,,,Shaun Stafford,U,,USA,18.6173853525,203891,,,Trisha Laux,U,,USA,18.4750171116,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,232,1,,
 1987-1057,ITF Chatham,Hard,,C,19870727,19,202019,4,,Kim Labuschagne,U,,RSA,19.8740588638,200324,,,Beth Norton,U,,USA,30.1190965092,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,256,1,,
 1987-1057,ITF Chatham,Hard,,C,19870727,20,200622,6,,Maya Kidowaki,U,,JPN,18.1930184805,213198,,,Betsy Somerville,U,,USA,19.6632443532,4-6 6-1 7-6,3,R16,,,,,,,,,,,,,,,,,,,,283,0,,
@@ -1649,7 +1649,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-1057,ITF Chatham,Hard,,C,19870727,22,203893,,,Sonya Hahn,U,,USA,19.9206023272,213045,,,Jillian Alexander Brower,U,,CAN,19.3155373032,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1987-1057,ITF Chatham,Hard,,C,19870727,23,200403,,,Andrea Leand,U,,USA,23.5208761123,200567,8,,Jennifer Santrock,U,,USA,18.4120465435,3-6 7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1987-1057,ITF Chatham,Hard,,C,19870727,24,203835,,,Kathy Foxworth,U,,USA,22.7241615332,203883,2,,Shandra Livingston,U,,USA,19.1868583162,2-6 6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,243,1
-1987-1057,ITF Chatham,Hard,,C,19870727,25,200602,,,Shaun Stafford,U,,USA,18.6173853525,200557,,Q,Katrina Adams,U,,USA,18.9733059548,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,232,1,,
+1987-1057,ITF Chatham,Hard,,C,19870727,25,200602,,,Shaun Stafford,U,,USA,18.6173853525,200557,,Q,Katrina Adams,R,165,USA,18.9733059548,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,232,1,,
 1987-1057,ITF Chatham,Hard,,C,19870727,26,202019,4,,Kim Labuschagne,U,,RSA,19.8740588638,200622,6,,Maya Kidowaki,U,,JPN,18.1930184805,7-6 6-0,3,QF,,,,,,,,,,,,,,,,,,,,256,1,283,0
 1987-1057,ITF Chatham,Hard,,C,19870727,27,203893,,,Sonya Hahn,U,,USA,19.9206023272,200028,,,Maureen Drake,R,,CAN,16.3504449008,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,,
 1987-1057,ITF Chatham,Hard,,C,19870727,28,200403,,,Andrea Leand,U,,USA,23.5208761123,203835,,,Kathy Foxworth,U,,USA,22.7241615332,7-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,,
@@ -1697,7 +1697,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-1059,ITF Lebanon,Hard,,C,19870803,8,200622,8,,Maya Kidowaki,U,,JPN,18.212183436,232896,,,Anne Marie Watson,U,,USA,,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,263,1,,
 1987-1059,ITF Lebanon,Hard,,C,19870803,9,200588,5,,Renata Baranski,U,,POL,22.4366872005,213050,,,Jane Yates,U,,CAN,16.887063655,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,246,1,,
 1987-1059,ITF Lebanon,Hard,,C,19870803,10,202146,,,Allyson Ingram,U,,USA,23.8220396988,200528,,,Katie Rickett,U,,GBR,18.9541409993,6-1 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-1987-1059,ITF Lebanon,Hard,,C,19870803,11,200557,,,Katrina Adams,U,,USA,18.9924709103,213045,,,Jillian Alexander Brower,U,,CAN,19.3347022587,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1987-1059,ITF Lebanon,Hard,,C,19870803,11,200557,,,Katrina Adams,R,165,USA,18.9924709103,213045,,,Jillian Alexander Brower,U,,CAN,19.3347022587,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1987-1059,ITF Lebanon,Hard,,C,19870803,12,200558,4,,Leigh Anne Eldredge,U,,USA,22.6338124572,202109,,,Kerri Reiter,U,,USA,18.8364134155,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,240,1,,
 1987-1059,ITF Lebanon,Hard,,C,19870803,13,202034,,,Jane Thomas,U,,USA,21.3607118412,202187,7,,Ilana Berger,U,,ISR,21.5879534565,6-7 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,260,1
 1987-1059,ITF Lebanon,Hard,,C,19870803,14,203835,,,Kathy Foxworth,U,,USA,22.7433264887,231300,,,Sylvia Schenck,U,,USA,,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -1708,16 +1708,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-1059,ITF Lebanon,Hard,,C,19870803,19,201916,,,Anne Grousbeck,U,,USA,21.4893908282,231980,,,Stephanie Harges,U,,USA,,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,278,0,,
 1987-1059,ITF Lebanon,Hard,,C,19870803,20,200622,8,,Maya Kidowaki,U,,JPN,18.212183436,203787,,Q,Holly Danforth,U,,USA,17.9767282683,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,263,1,,
 1987-1059,ITF Lebanon,Hard,,C,19870803,21,200588,5,,Renata Baranski,U,,POL,22.4366872005,202146,,,Allyson Ingram,U,,USA,23.8220396988,4-6 6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,246,1,,
-1987-1059,ITF Lebanon,Hard,,C,19870803,22,200557,,,Katrina Adams,U,,USA,18.9924709103,200558,4,,Leigh Anne Eldredge,U,,USA,22.6338124572,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,240,1
+1987-1059,ITF Lebanon,Hard,,C,19870803,22,200557,,,Katrina Adams,R,165,USA,18.9924709103,200558,4,,Leigh Anne Eldredge,U,,USA,22.6338124572,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,240,1
 1987-1059,ITF Lebanon,Hard,,C,19870803,23,203835,,,Kathy Foxworth,U,,USA,22.7433264887,202034,,,Jane Thomas,U,,USA,21.3607118412,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1987-1059,ITF Lebanon,Hard,,C,19870803,24,200567,2,,Jennifer Santrock,U,,USA,18.431211499,200028,,,Maureen Drake,R,,CAN,16.3696098563,6-7 6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,224,1,,
 1987-1059,ITF Lebanon,Hard,,C,19870803,25,200602,1,,Shaun Stafford,U,,USA,18.636550308,203883,6,,Shandra Livingston,U,,USA,19.2060232717,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,205,1,250,1
 1987-1059,ITF Lebanon,Hard,,C,19870803,26,200622,8,,Maya Kidowaki,U,,JPN,18.212183436,201916,,,Anne Grousbeck,U,,USA,21.4893908282,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,263,1,278,0
-1987-1059,ITF Lebanon,Hard,,C,19870803,27,200557,,,Katrina Adams,U,,USA,18.9924709103,200588,5,,Renata Baranski,U,,POL,22.4366872005,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,246,1
+1987-1059,ITF Lebanon,Hard,,C,19870803,27,200557,,,Katrina Adams,R,165,USA,18.9924709103,200588,5,,Renata Baranski,U,,POL,22.4366872005,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,246,1
 1987-1059,ITF Lebanon,Hard,,C,19870803,28,200567,2,,Jennifer Santrock,U,,USA,18.431211499,203835,,,Kathy Foxworth,U,,USA,22.7433264887,7-5 7-6,3,QF,,,,,,,,,,,,,,,,,,,,224,1,,
 1987-1059,ITF Lebanon,Hard,,C,19870803,29,200602,1,,Shaun Stafford,U,,USA,18.636550308,200622,8,,Maya Kidowaki,U,,JPN,18.212183436,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,205,1,263,1
-1987-1059,ITF Lebanon,Hard,,C,19870803,30,200557,,,Katrina Adams,U,,USA,18.9924709103,200567,2,,Jennifer Santrock,U,,USA,18.431211499,6-3 3-6 6-1,3,SF,,,,,,,,,,,,,,,,,,,,,,224,1
-1987-1059,ITF Lebanon,Hard,,C,19870803,31,200602,1,,Shaun Stafford,U,,USA,18.636550308,200557,,,Katrina Adams,U,,USA,18.9924709103,6-3 6-1,3,F,,,,,,,,,,,,,,,,,,,,205,1,,
+1987-1059,ITF Lebanon,Hard,,C,19870803,30,200557,,,Katrina Adams,R,165,USA,18.9924709103,200567,2,,Jennifer Santrock,U,,USA,18.431211499,6-3 3-6 6-1,3,SF,,,,,,,,,,,,,,,,,,,,,,224,1
+1987-1059,ITF Lebanon,Hard,,C,19870803,31,200602,1,,Shaun Stafford,U,,USA,18.636550308,200557,,,Katrina Adams,R,165,USA,18.9924709103,6-3 6-1,3,F,,,,,,,,,,,,,,,,,,,,205,1,,
 1987-1060,ITF Rheda Wiedenbruck,Clay,,C,19870803,1,201016,1,,Hana Fukarkova,U,,TCH,23.485284052,201000,,,Nathalie Phan Thanh,U,,FRA,20.3367556468,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,204,1,,
 1987-1060,ITF Rheda Wiedenbruck,Clay,,C,19870803,2,200625,,,Jana Pospisilova,U,,CZE,17.363449692,201740,,,Christiane Hofmann,U,,GER,18.6392881588,3-6 6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,295,0
 1987-1060,ITF Rheda Wiedenbruck,Clay,,C,19870803,3,201895,,,Mahela Gartner Ockernahl,U,,GER,18.1409993155,213061,,,Gudrun Levers,U,,GER,16.9719370294,6-4 2-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,255,1,,
@@ -1783,7 +1783,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-1062,ITF Koksijde,Clay,,C,19870810,1,201818,1,,Ilse De Ruysscher,U,,BEL,25.0759753593,233014,,,Kristel Van Inpe,U,,BEL,,2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1987-1062,ITF Koksijde,Clay,,C,19870810,2,212861,,,Sandra Begijn,U,,NED,15.4688569473,232955,,,Saskia Hermans,U,,BEL,,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1987-1062,ITF Koksijde,Clay,,C,19870810,3,233015,,,Birgit Diemer,U,,NED,,233016,,,Marianne Van Damme,U,,BEL,,6-3 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-1987-1062,ITF Koksijde,Clay,,C,19870810,4,213056,5,,Lisa Low,U,,RSA,15.819301848,200037,,,Sabine Appelmans,L,,BEL,15.2991101985,1-6 6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+1987-1062,ITF Koksijde,Clay,,C,19870810,4,213056,5,,Lisa Low,U,,RSA,15.819301848,200037,,,Sabine Appelmans,L,168,BEL,15.2991101985,1-6 6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1987-1062,ITF Koksijde,Clay,,C,19870810,5,201065,,,Virginie Buisson,U,,FRA,17.9712525667,201966,,,Natalie Tschan,U,,SUI,15.8247775496,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1987-1062,ITF Koksijde,Clay,,C,19870810,6,213073,,,Nathalie Van Dierendonck,U,,NED,16.205338809,201190,,,Kaye Marfini Hand,U,,GBR,18.8473648186,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1987-1062,ITF Koksijde,Clay,,C,19870810,7,213055,,,Andrea Martinelli,U,,SUI,18.4969199179,232954,,,Karin Van Damme,U,,BEL,,6-7 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -1819,7 +1819,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-1063,ITF Manhasset,Clay,,C,19870817,34,200622,,,Maya Kidowaki,U,,JPN,18.250513347,202187,,,Ilana Berger,U,,ISR,21.6262833676,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,256,1,265,1
 1987-1063,ITF Manhasset,Clay,,C,19870817,35,202019,,,Kim Labuschagne,U,,RSA,19.9315537303,201040,,,Luciana Corsato Owsianka,U,,BRA,21.568788501,6-2 1-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,207,1,210,1
 1987-1063,ITF Manhasset,Clay,,C,19870817,36,200567,,Q,Jennifer Santrock,U,,USA,18.46954141,201033,7,,Kristin Kinney,U,,USA,27.9726214921,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,219,1,218,1
-1987-1063,ITF Manhasset,Clay,,C,19870817,37,200534,6,,Melissa Brown,U,,USA,19.3483915127,200557,,,Katrina Adams,U,,USA,19.0308008214,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,194,2,,
+1987-1063,ITF Manhasset,Clay,,C,19870817,37,200534,6,,Melissa Brown,U,,USA,19.3483915127,200557,,,Katrina Adams,R,165,USA,19.0308008214,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,194,2,,
 1987-1063,ITF Manhasset,Clay,,C,19870817,38,200527,,,Maria Christine Damas,U,,FRA,20.6872005476,201897,,,Helena Manset,U,,USA,26.5379876797,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,223,1,216,1
 1987-1063,ITF Manhasset,Clay,,C,19870817,39,200566,,Q,Donna Faber,U,,USA,16.1177275838,202214,,Q,Holly Ann Lloyd,U,,USA,16.6625598905,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,277,0
 1987-1063,ITF Manhasset,Clay,,C,19870817,40,200613,4,,Lise Gregory,L,,RSA,23.9671457906,233029,,,Meredith Lukoff,U,,USA,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,186,2,,
@@ -1904,8 +1904,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-1065,ITF Porto,Clay,,C,19870824,29,213044,,,Mirijam Schweda,U,,AUT,16.3613963039,201044,,,Catherine Mothes Jobkel,U,,FRA,17.2128678987,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,,
 1987-1065,ITF Porto,Clay,,C,19870824,30,201051,,,Laura Lapi,U,,ITA,16.9527720739,201737,,,Stefania Dalla Valle,U,,ITA,21.1170431211,7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,209,1,,
 1987-1065,ITF Porto,Clay,,C,19870824,31,213044,,,Mirijam Schweda,U,,AUT,16.3613963039,201051,,,Laura Lapi,U,,ITA,16.9527720739,6-4 6-0,3,F,,,,,,,,,,,,,,,,,,,,,,209,1
-1987-1067,ITF Bethesda,Hard,,C,19870928,29,200533,1,,Pam Casale Telford,R,,USA,23.7727583847,202034,,,Jane Thomas,U,,USA,21.5140314853,1-6 7-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,106,7,,
-1987-1067,ITF Bethesda,Hard,,C,19870928,30,200557,,,Katrina Adams,U,,USA,19.1457905544,201908,,,Karen Dewis,U,,CAN,25.0239561944,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,278,0,,
+1987-1067,ITF Bethesda,Hard,,C,19870928,29,200533,1,,Pam Casale,R,,USA,23.7727583847,202034,,,Jane Thomas,U,,USA,21.5140314853,1-6 7-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,106,7,,
+1987-1067,ITF Bethesda,Hard,,C,19870928,30,200557,,,Katrina Adams,R,165,USA,19.1457905544,201908,,,Karen Dewis,U,,CAN,25.0239561944,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,278,0,,
 1987-1067,ITF Bethesda,Hard,,C,19870928,31,202247,,,Erika Smith,U,,USA,23.9753593429,213042,,,Elizabeth Burger,U,,USA,24.1314168378,3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1987-1067,ITF Bethesda,Hard,,C,19870928,32,201194,6,,Tammy Whittington,U,,USA,21.9603011636,200989,,Q,Leigh Anne Thompson,U,,USA,23.7207392197,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,235,1,,
 1987-1067,ITF Bethesda,Hard,,C,19870928,33,201040,3,,Luciana Corsato Owsianka,U,,BRA,21.6837782341,200525,,,Jennifer Goodling,U,,USA,25.4236824093,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,213,1,,
@@ -1920,7 +1920,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-1067,ITF Bethesda,Hard,,C,19870928,42,200526,,,Carol Christian,U,,USA,24.9691991786,200513,,,Pamela Jung,U,,USA,24.2381930185,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,285,0,280,0
 1987-1067,ITF Bethesda,Hard,,C,19870928,43,203835,,,Kathy Foxworth,U,,USA,22.8966461328,200531,,,Elizabeth Galphin,U,,USA,19.0882956879,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,290,0,273,0
 1987-1067,ITF Bethesda,Hard,,C,19870928,44,200498,2,,Michelle Jaggard Lai,U,,AUS,18.3956194387,200558,,,Leigh Anne Eldredge,U,,USA,22.7871321013,6-1 5-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,144,4,293,0
-1987-1067,ITF Bethesda,Hard,,C,19870928,45,200557,,,Katrina Adams,U,,USA,19.1457905544,200533,1,,Pam Casale Telford,R,,USA,23.7727583847,6-4 5-7 6-3,3,R16,,,,,,,,,,,,,,,,,,,,278,0,106,7
+1987-1067,ITF Bethesda,Hard,,C,19870928,45,200557,,,Katrina Adams,R,165,USA,19.1457905544,200533,1,,Pam Casale,R,,USA,23.7727583847,6-4 5-7 6-3,3,R16,,,,,,,,,,,,,,,,,,,,278,0,106,7
 1987-1067,ITF Bethesda,Hard,,C,19870928,46,201194,6,,Tammy Whittington,U,,USA,21.9603011636,202247,,,Erika Smith,U,,USA,23.9753593429,7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,235,1,,
 1987-1067,ITF Bethesda,Hard,,C,19870928,47,201040,3,,Luciana Corsato Owsianka,U,,BRA,21.6837782341,200541,,,Sherri Norris,U,,USA,23.65229295,6-7 6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,213,1,249,1
 1987-1067,ITF Bethesda,Hard,,C,19870928,48,200543,,Q,Jill Hetherington,U,,CAN,22.9185489391,200635,,,Ingelise Driehuis,U,,NED,20.0301163587,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,297,0
@@ -1928,11 +1928,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-1067,ITF Bethesda,Hard,,C,19870928,50,213043,,,Cinda Gurney,U,,USA,16.4681724846,200598,,Q,Jeri Ingram,U,,USA,16.7967145791,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 1987-1067,ITF Bethesda,Hard,,C,19870928,51,200526,,,Carol Christian,U,,USA,24.9691991786,201900,,,Natasha Marcucci,U,,ARG,17.0047912389,6-1 1-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,285,0,260,1
 1987-1067,ITF Bethesda,Hard,,C,19870928,52,200498,2,,Michelle Jaggard Lai,U,,AUS,18.3956194387,203835,,,Kathy Foxworth,U,,USA,22.8966461328,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,144,4,290,0
-1987-1067,ITF Bethesda,Hard,,C,19870928,53,200557,,,Katrina Adams,U,,USA,19.1457905544,201194,6,,Tammy Whittington,U,,USA,21.9603011636,7-6 3-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,278,0,235,1
+1987-1067,ITF Bethesda,Hard,,C,19870928,53,200557,,,Katrina Adams,R,165,USA,19.1457905544,201194,6,,Tammy Whittington,U,,USA,21.9603011636,7-6 3-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,278,0,235,1
 1987-1067,ITF Bethesda,Hard,,C,19870928,54,200543,,Q,Jill Hetherington,U,,CAN,22.9185489391,201040,3,,Luciana Corsato Owsianka,U,,BRA,21.6837782341,6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,,,213,1
 1987-1067,ITF Bethesda,Hard,,C,19870928,55,213043,,,Cinda Gurney,U,,USA,16.4681724846,200515,,,Lindsay Bartlett,U,,USA,25.1608487337,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,270,0
 1987-1067,ITF Bethesda,Hard,,C,19870928,56,200526,,,Carol Christian,U,,USA,24.9691991786,200498,2,,Michelle Jaggard Lai,U,,AUS,18.3956194387,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,285,0,144,4
-1987-1067,ITF Bethesda,Hard,,C,19870928,57,200543,,Q,Jill Hetherington,U,,CAN,22.9185489391,200557,,,Katrina Adams,U,,USA,19.1457905544,6-1 7-6,3,SF,,,,,,,,,,,,,,,,,,,,,,278,0
+1987-1067,ITF Bethesda,Hard,,C,19870928,57,200543,,Q,Jill Hetherington,U,,CAN,22.9185489391,200557,,,Katrina Adams,R,165,USA,19.1457905544,6-1 7-6,3,SF,,,,,,,,,,,,,,,,,,,,,,278,0
 1987-1067,ITF Bethesda,Hard,,C,19870928,58,200526,,,Carol Christian,U,,USA,24.9691991786,213043,,,Cinda Gurney,U,,USA,16.4681724846,6-3 7-5,3,SF,,,,,,,,,,,,,,,,,,,,285,0,,
 1987-1067,ITF Bethesda,Hard,,C,19870928,59,200543,,Q,Jill Hetherington,U,,CAN,22.9185489391,200526,,,Carol Christian,U,,USA,24.9691991786,6-1 6-4,3,F,,,,,,,,,,,,,,,,,,,,,,285,0
 1987-1068,ITF Chiba,Hard,,C,19871005,36,200622,1,,Maya Kidowaki,U,,JPN,18.3846680356,200488,,,Alison Scott,U,,AUS,19.6550308008,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,239,1,298,0
@@ -2167,7 +2167,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-1026,ITF Taranto,Clay,,C,19870427,223,200530,,,Radomira Zrubakova,R,,SVK,16.334017796,201801,,,Ana Maria Segura Perez,U,,ESP,18.2203969884,6-3 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,247,1,,
 1987-1026,ITF Taranto,Clay,,C,19870427,224,201043,,,Barbara Romano,U,,ITA,22.2806297057,200626,,,Emanuela Zardo,U,,SUI,17.0075290897,6-2 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,279,0,,
 1987-1039,ITF Augusta,Hard,,C,19870622,201,202055,1,,Themis Zambrzycki,U,,BRA,26.6694045175,203635,,,Angel Cobbs,U,,USA,25.8097193703,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
-1987-1039,ITF Augusta,Hard,,C,19870622,202,203837,,,Rita Winebarger,U,,USA,21.1115674196,200557,,,Katrina Adams,U,,USA,18.8774811773,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+1987-1039,ITF Augusta,Hard,,C,19870622,202,203837,,,Rita Winebarger,U,,USA,21.1115674196,200557,,,Katrina Adams,R,165,USA,18.8774811773,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 1987-1039,ITF Augusta,Hard,,C,19870622,203,203893,,,Sonya Hahn,U,,USA,19.8247775496,232946,,,Margaret Faughnan,U,,USA,,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 1987-1039,ITF Augusta,Hard,,C,19870622,204,203636,6,,Kazuko Ito,U,,JPN,23.8357289528,213096,,,Lisa Bobby,U,,USA,22.8829568789,7-5 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 1987-1039,ITF Augusta,Hard,,C,19870622,205,231300,2,,Sylvia Schenck,U,,USA,,201761,,,Annette Smith,U,,AUS,27.9507186858,6-2 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
@@ -2221,7 +2221,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-1052,ITF Philadelphia,Hard,,C,19870720,204,203636,8,,Kazuko Ito,U,,JPN,23.9123887748,203833,,,Sally Timms,U,,GBR,17.9685147159,7-6 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 1987-1052,ITF Philadelphia,Hard,,C,19870720,205,200613,2,,Lise Gregory,L,,RSA,23.8904859685,201766,,,Sharon Mcnamara,U,,AUS,20.8186173854,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,261,1,,
 1987-1052,ITF Philadelphia,Hard,,C,19870720,206,232983,,,Daniela Klurman,U,,USA,,201763,,,Annette Patchen,U,,AUS,19.022587269,6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
-1987-1052,ITF Philadelphia,Hard,,C,19870720,207,200557,,,Katrina Adams,U,,USA,18.9541409993,232550,,,Florita Gomez,U,,VEN,,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+1987-1052,ITF Philadelphia,Hard,,C,19870720,207,200557,,,Katrina Adams,R,165,USA,18.9541409993,232550,,,Florita Gomez,U,,VEN,,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 1987-1052,ITF Philadelphia,Hard,,C,19870720,208,200528,5,,Katie Rickett,U,,GBR,18.9158110883,203787,,,Holly Danforth,U,,USA,17.9383983573,4-6 6-1 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 1987-1052,ITF Philadelphia,Hard,,C,19870720,209,203893,,,Sonya Hahn,U,,USA,19.9014373717,213045,3,,Jillian Alexander Brower,U,,CAN,19.2963723477,7-5 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 1987-1052,ITF Philadelphia,Hard,,C,19870720,210,203609,,,Tracey Moyle,U,,AUS,18.4421629021,202184,,,Jackie Joseph,U,,USA,23.5400410678,6-4 3-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
@@ -2234,13 +2234,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-1052,ITF Philadelphia,Hard,,C,19870720,217,200567,1,,Jennifer Santrock,U,,USA,18.392881588,202051,,,Shelby Torrance,U,,USA,37.0650239562,6-4-6-3,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 1987-1052,ITF Philadelphia,Hard,,C,19870720,218,203636,8,,Kazuko Ito,U,,JPN,23.9123887748,232922,,,Vanne Akagi,U,,USA,,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 1987-1052,ITF Philadelphia,Hard,,C,19870720,219,200613,2,,Lise Gregory,L,,RSA,23.8904859685,232983,,,Daniela Klurman,U,,USA,,6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,261,1,,
-1987-1052,ITF Philadelphia,Hard,,C,19870720,220,200557,,,Katrina Adams,U,,USA,18.9541409993,200528,5,,Katie Rickett,U,,GBR,18.9158110883,6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
+1987-1052,ITF Philadelphia,Hard,,C,19870720,220,200557,,,Katrina Adams,R,165,USA,18.9541409993,200528,5,,Katie Rickett,U,,GBR,18.9158110883,6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 1987-1052,ITF Philadelphia,Hard,,C,19870720,221,203893,,,Sonya Hahn,U,,USA,19.9014373717,203609,,,Tracey Moyle,U,,AUS,18.4421629021,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 1987-1052,ITF Philadelphia,Hard,,C,19870720,222,201743,,,Laura Glitz,U,,USA,20.1752224504,231300,,,Sylvia Schenck,U,,USA,,6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 1987-1052,ITF Philadelphia,Hard,,C,19870720,223,213038,,,Paulette Roux,U,,RSA,18.4750171116,202146,,,Allyson Ingram,U,,USA,23.7837097878,6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 1987-1052,ITF Philadelphia,Hard,,C,19870720,224,203891,,,Trisha Laux,U,,USA,18.4558521561,213043,,,Cinda Gurney,U,,USA,16.2765229295,6-2 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 1987-1052,ITF Philadelphia,Hard,,C,19870720,225,200567,1,,Jennifer Santrock,U,,USA,18.392881588,203636,8,,Kazuko Ito,U,,JPN,23.9123887748,6-2 7-6,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
-1987-1052,ITF Philadelphia,Hard,,C,19870720,226,200557,,,Katrina Adams,U,,USA,18.9541409993,200613,2,,Lise Gregory,L,,RSA,23.8904859685,6-2 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,,,261,1
+1987-1052,ITF Philadelphia,Hard,,C,19870720,226,200557,,,Katrina Adams,R,165,USA,18.9541409993,200613,2,,Lise Gregory,L,,RSA,23.8904859685,6-2 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,,,261,1
 1987-1052,ITF Philadelphia,Hard,,C,19870720,227,203893,,,Sonya Hahn,U,,USA,19.9014373717,201743,,,Laura Glitz,U,,USA,20.1752224504,6-3 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
 1987-1052,ITF Philadelphia,Hard,,C,19870720,228,203891,,,Trisha Laux,U,,USA,18.4558521561,213038,,,Paulette Roux,U,,RSA,18.4750171116,6-2 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
 1987-1056,ITF Neumunster,Clay,,C,19870727,201,201048,,,Leona Laskova,U,,CZE,17.3032169747,232992,,,Sandra Helbig,U,,GER,,6-3 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
@@ -2446,7 +2446,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-SL-AUS-01A-1987,Australian Open,Grass,96,G,19870112,24,200493,2,,Marianne Van Der Torre,U,,NED,25.401779603,200619,,WC,Kate Mcdonald,U,,AUS,16.8131416838,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,187,2,,
 1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,1,200590,1,,Gisele Miro,U,,BRA,18.559890486,203793,,,Natalie Rodriguez,U,,CHI,17.916495551,6-0 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,142,4,,
 1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,2,200541,,,Sherri Norris,U,,USA,23.3073237509,200565,,,Nathalie Guerree Spitzer,U,,FRA,18.8802190281,6-3 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,240,1,,
-1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,3,203794,,,Annika Karlsson,U,,SWE,20.6379192334,200425,,,Sophie Amiach,U,,FRA,23.537303217,5-7 6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,263,1,,
+1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,3,203794,,,Annika Karlsson,U,,SWE,20.6379192334,200425,,,Sophie Amiach,R,165,FRA,23.537303217,5-7 6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,263,1,,
 1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,4,200605,15,,Regina Rajchrtova,U,,TCH,19.2991101985,200593,,,Karine Quentrec,U,,FRA,17.5906913073,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,185,2,,
 1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,5,200489,13,,Yukie Koizumi,U,,JPN,29.3305954825,201734,,,Barbara Pollet,U,,AUT,24.0219028063,6-2 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,178,2,203,2
 1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,6,201037,,,Karolina Karlsson,R,,SWE,20.9938398357,201828,,,Olga Votavova,U,,TCH,20.8733744011,6-4 3-6 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,182,2,199,2
@@ -2467,7 +2467,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,21,200502,8,,Andrea Betzner,U,,GER,20.8733744011,201898,,,Isabelle Crudo,U,,FRA,19.2224503765,6-2 7-6(3),3,Q1,,,,,,,,,,,,,,,,,,,,179,2,267,1
 1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,22,200534,,,Melissa Brown,U,,USA,19.1184120465,200321,,,Elisabeth Ekblom,U,,SWE,29.2840520192,7-5 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,207,1,206,1
 1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,23,203789,,,Frederique Martin,U,,FRA,18.3189596167,201891,,,Rona Daniels,U,,USA,17.87816564,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,248,1
-1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,24,200549,3,,Penny Barg Mager,R,,USA,23.1184120465,200651,,,Sabine Hack,U,,GER,17.8672142368,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,140,5,216,1
+1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,24,200549,3,,Penny Barg,R,,USA,23.1184120465,200651,,,Sabine Hack,U,,GER,17.8672142368,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,140,5,216,1
 1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,25,200530,5,,Radomira Zrubakova,R,,SVK,16.4106776181,201829,,,Heliane Steden,U,,MEX,22.8501026694,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,157,3,188,2
 1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,26,200670,,,Nathalie Housset Gilbert,U,,FRA,18.8199863107,203796,,,Monica Reinach,U,,RSA,20.6516084873,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,279,0
 1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,27,200511,,,Amy Jonsson Raaholt,U,,NOR,19.961670089,200454,,,Myriam Schropp,U,,GER,21.0704996578,6-4 4-6 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,244,1,252,1
@@ -2487,7 +2487,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,41,201038,7,,Karen Schimper,U,,RSA,19.9972621492,200607,,,Beate Reinstadler,U,,AUT,20.0136892539,6-1 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,165,3,,
 1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,42,201042,,,Andrea Tiezzi,U,,ARG,22.4914442163,200041,,,Amy Frazier,R,,USA,14.6776180698,6-3 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,237,1,214,1
 1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,43,200534,,,Melissa Brown,U,,USA,19.1184120465,200502,8,,Andrea Betzner,U,,GER,20.8733744011,6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,207,1,179,2
-1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,44,200549,3,,Penny Barg Mager,R,,USA,23.1184120465,203789,,,Frederique Martin,U,,FRA,18.3189596167,6-0 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,140,5,,
+1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,44,200549,3,,Penny Barg,R,,USA,23.1184120465,203789,,,Frederique Martin,U,,FRA,18.3189596167,6-0 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,140,5,,
 1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,45,200530,5,,Radomira Zrubakova,R,,SVK,16.4106776181,200670,,,Nathalie Housset Gilbert,U,,FRA,18.8199863107,6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,157,3,,
 1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,46,200493,16,,Marianne Van Der Torre,U,,NED,25.7659137577,200511,,,Amy Jonsson Raaholt,U,,NOR,19.961670089,6-1 4-6 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,180,2,244,1
 1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,47,201016,14,,Hana Fukarkova,U,,TCH,23.2936344969,201735,,,Monika Lundqvist,U,,SWE,20.1013004791,6-1 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,180,2,,
@@ -2497,7 +2497,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,51,200705,,,Linda Ferrando,U,,ITA,21.363449692,200554,,,Brenda Schultz Mccarthy,R,,NED,16.4052019165,7-6(4) 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,175,2,253,1
 1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,52,200547,,,Sandra Wasserman,U,,BEL,17.2073921971,200491,6,,Christina Singer,U,,GER,18.8254620123,6-2 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,213,1,133,5
 1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,53,201038,7,,Karen Schimper,U,,RSA,19.9972621492,201042,,,Andrea Tiezzi,U,,ARG,22.4914442163,6-0 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,165,3,237,1
-1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,54,200549,3,,Penny Barg Mager,R,,USA,23.1184120465,200534,,,Melissa Brown,U,,USA,19.1184120465,4-6 6-2 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,140,5,207,1
+1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,54,200549,3,,Penny Barg,R,,USA,23.1184120465,200534,,,Melissa Brown,U,,USA,19.1184120465,4-6 6-2 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,140,5,207,1
 1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,55,200530,5,,Radomira Zrubakova,R,,SVK,16.4106776181,200493,16,,Marianne Van Der Torre,U,,NED,25.7659137577,6-4 4-6 7-5,3,Q3,,,,,,,,,,,,,,,,,,,,157,3,180,2
 1987-W-SL-FRA-01A-1987,Roland Garros,Clay,128,G,19870525,56,201016,14,,Hana Fukarkova,U,,TCH,23.2936344969,200334,,,Sabina Simmonds,R,,ITA,27.1019849418,6-4 6-7(5) 8-6,3,Q3,,,,,,,,,,,,,,,,,,,,180,2,228,1
 1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,1,200474,,,Louise Allen,U,,USA,25.453798768,200479,,,Emiko Okagawa,U,,JPN,22.4859685147,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,150,4,,
@@ -2518,8 +2518,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,16,200491,,,Christina Singer,U,,GER,18.9021218344,201184,,,Karen Hunter,U,,GBR,18.8199863107,4-6 6-0 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,141,5,,
 1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,17,200470,,,Dee Ann Hansel,U,,USA,25.029431896,200343,,,Susan Leo,U,,AUS,24.8651608487,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,216,1,134,5
 1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,18,200498,,,Michelle Jaggard Lai,U,,AUS,18.1273100616,200405,,,Susan Mascarin,U,,USA,22.9815195072,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,153,4,160,3
-1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,19,200369,,,Candy Reynolds,U,,USA,32.2464065708,200243,,,Glynis Coles,U,,GBR,33.3333333333,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,175,2,,
-1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,20,200549,,,Penny Barg Mager,R,,USA,23.1950718686,200541,,,Sherri Norris,U,,USA,23.3839835729,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,140,5,239,1
+1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,19,200369,,,Candy Reynolds,U,,USA,32.2464065708,200243,,,Glynis Coles,R,,GBR,33.3333333333,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,175,2,,
+1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,20,200549,,,Penny Barg,R,,USA,23.1950718686,200541,,,Sherri Norris,U,,USA,23.3839835729,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,140,5,239,1
 1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,21,200448,,,Sandy Collins,U,,USA,28.6899383984,200550,,,Emmanuelle Derly,U,,FRA,17.144421629,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,193,2,145,4
 1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,22,200502,,,Andrea Betzner,U,,GER,20.9500342231,203832,,,Caroline Billingham,U,,GBR,19.9452429843,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,176,2,,
 1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,23,200475,,,Lisa Oneill,U,,AUS,18.8692676249,201841,,,Sally Godman,U,,GBR,18.3874058864,6-1 5-7 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,195,2,,
@@ -2528,7 +2528,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,26,200511,,,Amy Jonsson Raaholt,U,,NOR,20.038329911,203834,,,Jenny Reeves,U,,GBR,19.2224503765,6-1 3-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,243,1,,
 1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,27,200456,,,Masako Yanagi,U,,JPN,27.6112251882,200521,,,Hellas Ter Riet,U,,NED,19.0006844627,6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,159,3,156,3
 1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,28,201034,,,Helena Dahlstrom,U,,SWE,19.1074606434,200530,,,Radomira Zrubakova,R,,SVK,16.4873374401,7-5 4-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,201,2,142,5
-1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,29,200393,,,Lea Antonoplis,U,,USA,28.4188911704,200514,,,Monique Javer,R,,GBR,19.9178644764,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,186,2,146,4
+1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,29,200393,,,Lea Antonoplis,R,165,USA,28.4188911704,200514,,,Monique Javer,R,,GBR,19.9178644764,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,186,2,146,4
 1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,30,200396,,,Kim Steinmetz,U,,USA,29.4976043806,200605,,,Regina Rajchrtova,U,,TCH,19.3757700205,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,235,1,173,3
 1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,31,200489,,,Yukie Koizumi,U,,JPN,29.4072553046,200528,,,Katie Rickett,U,,GBR,18.8391512663,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,174,2,,
 1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,32,200483,,,Kumiko Okamoto,U,,JPN,22.3353867214,200471,,,Jamie Golder,U,,USA,25.4154688569,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,122,6,171,3
@@ -2541,21 +2541,21 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,39,200590,,,Gisele Miro,U,,BRA,18.636550308,200534,,,Melissa Brown,U,,USA,19.1950718686,6-2 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,143,5,207,1
 1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,40,200491,,,Christina Singer,U,,GER,18.9021218344,201735,,,Monika Lundqvist,U,,SWE,20.1779603012,3-6 6-0 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,141,5,,
 1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,41,200498,,,Michelle Jaggard Lai,U,,AUS,18.1273100616,200470,,,Dee Ann Hansel,U,,USA,25.029431896,7-6(2) 2-6 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,153,4,216,1
-1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,42,200549,,,Penny Barg Mager,R,,USA,23.1950718686,200369,,,Candy Reynolds,U,,USA,32.2464065708,6-4 2-6 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,140,5,175,2
+1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,42,200549,,,Penny Barg,R,,USA,23.1950718686,200369,,,Candy Reynolds,U,,USA,32.2464065708,6-4 2-6 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,140,5,175,2
 1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,43,200448,,,Sandy Collins,U,,USA,28.6899383984,200502,,,Andrea Betzner,U,,GER,20.9500342231,3-6 6-2 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,193,2,176,2
 1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,44,201038,,,Karen Schimper,U,,RSA,20.0739219713,200475,,,Lisa Oneill,U,,AUS,18.8692676249,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,131,5,195,2
 1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,45,200462,,,Belinda Cordwell,U,,NZL,21.749486653,200511,,,Amy Jonsson Raaholt,U,,NOR,20.038329911,6-1 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,157,3,243,1
 1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,46,200456,,,Masako Yanagi,U,,JPN,27.6112251882,201034,,,Helena Dahlstrom,U,,SWE,19.1074606434,6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,159,3,201,2
-1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,47,200393,,,Lea Antonoplis,U,,USA,28.4188911704,200396,,,Kim Steinmetz,U,,USA,29.4976043806,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,186,2,235,1
+1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,47,200393,,,Lea Antonoplis,R,165,USA,28.4188911704,200396,,,Kim Steinmetz,U,,USA,29.4976043806,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,186,2,235,1
 1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,48,200483,,,Kumiko Okamoto,U,,JPN,22.3353867214,200489,,,Yukie Koizumi,U,,JPN,29.4072553046,6-0 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,122,6,174,2
 1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,49,200594,,,Iwona Kuczynska,U,,POL,26.3271731691,200474,,,Louise Allen,U,,USA,25.453798768,7-5 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,172,3,150,4
 1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,50,200612,,,Natalia Medvedeva,U,,UKR,15.6002737851,200485,,,Manon Bollegraf,U,,NED,23.1978097194,6-4 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,,,139,5
 1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,51,200584,,,Laura Golarsa,R,,ITA,19.5674195756,200420,,,Anna Maria Fernandez,U,,USA,26.6639288159,6-0 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,147,4,133,5
 1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,52,200590,,,Gisele Miro,U,,BRA,18.636550308,200491,,,Christina Singer,U,,GER,18.9021218344,6-4 7-5,3,Q3,,,,,,,,,,,,,,,,,,,,143,5,141,5
-1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,53,200498,,,Michelle Jaggard Lai,U,,AUS,18.1273100616,200549,,,Penny Barg Mager,R,,USA,23.1950718686,6-7(3) 7-6(7) 10-8,3,Q3,,,,,,,,,,,,,,,,,,,,153,4,140,5
+1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,53,200498,,,Michelle Jaggard Lai,U,,AUS,18.1273100616,200549,,,Penny Barg,R,,USA,23.1950718686,6-7(3) 7-6(7) 10-8,3,Q3,,,,,,,,,,,,,,,,,,,,153,4,140,5
 1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,54,201038,,,Karen Schimper,U,,RSA,20.0739219713,200448,,,Sandy Collins,U,,USA,28.6899383984,3-6 6-4 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,131,5,193,2
 1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,55,200462,,,Belinda Cordwell,U,,NZL,21.749486653,200456,,,Masako Yanagi,U,,JPN,27.6112251882,1-6 6-3 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,157,3,159,3
-1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,56,200483,,,Kumiko Okamoto,U,,JPN,22.3353867214,200393,,,Lea Antonoplis,U,,USA,28.4188911704,6-4 7-6(3),3,Q3,,,,,,,,,,,,,,,,,,,,122,6,186,2
+1987-W-SL-GBR-01A-1987,Wimbledon,Grass,128,G,19870622,56,200483,,,Kumiko Okamoto,U,,JPN,22.3353867214,200393,,,Lea Antonoplis,R,165,USA,28.4188911704,6-4 7-6(3),3,Q3,,,,,,,,,,,,,,,,,,,,122,6,186,2
 1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,1,200112,,,Julie Halard Decugis,R,,FRA,16.9746748802,200552,1,,Maria Lindstrom,U,,SWE,24.4873374401,7-5 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,164,3,118,6
 1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,2,200534,,,Melissa Brown,U,,USA,19.3894592745,201176,,,Jane Forman,U,,USA,25.6098562628,6-3 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,182,2,167,3
 1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,3,200605,,,Regina Rajchrtova,U,,TCH,19.5701574264,200988,,,Jenny Klitch,U,,USA,22.3682409309,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,124,6,156,3
@@ -2563,7 +2563,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,5,200370,9,,Marie Christine Calleja,U,,FRA,23.6303901437,201799,,,Marie Jose Llorca,U,,ESP,17.4127310062,6-2 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,134,5,,
 1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,6,201916,,,Anne Grousbeck,U,,USA,21.568788501,200510,,,Julie Richardson,U,,NZL,20.424366872,4-6 6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,296,0,152,3
 1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,7,200962,,,Patricia Medrado,U,,BRA,30.7624914442,200405,,,Susan Mascarin,U,,USA,23.1759069131,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,168,3,198,2
-1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,8,200557,,,Katrina Adams,U,,USA,19.0718685832,200415,6,,Catherine Suire,U,,FRA,27.961670089,6-3 1-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,121,6
+1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,8,200557,,,Katrina Adams,R,165,USA,19.0718685832,200415,6,,Catherine Suire,U,,FRA,27.961670089,6-3 1-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,121,6
 1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,9,200436,3,,Carina Karlsson,U,,SWE,23.9726214921,201032,,,Cecilia Fernandez Parker,U,,USA,24.1779603012,7-6(4) 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,119,6,151,3
 1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,10,203835,,,Kathy Foxworth,U,,USA,22.8227241615,201732,,,Noelle Porter,U,,USA,16.7036276523,6-4 5-7 7-6(6),3,Q1,,,,,,,,,,,,,,,,,,,,,,217,1
 1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,11,200554,,,Brenda Schultz Mccarthy,R,,NED,16.6762491444,200519,,,Sybille Niox Chateau,U,,FRA,17.8672142368,2-6 6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,169,3,191,2
@@ -2583,15 +2583,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,25,200476,5,,Cammy Macgregor,U,,USA,18.8884325804,201033,,,Kristin Kinney,U,,USA,28.0136892539,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,123,6,226,1
 1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,26,200555,,,Valda Lake,U,,GBR,18.8884325804,201034,,,Helena Dahlstrom,U,,SWE,19.3018480493,6-0 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,201,2,180,2
 1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,27,200474,,,Louise Allen,U,,USA,25.6481861739,200613,,,Lise Gregory,L,,RSA,24.0082135524,7-5 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,144,4,179,2
-1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,28,200549,10,,Penny Barg Mager,R,,USA,23.3894592745,201914,,,Elizabeth Alexander,U,,USA,21.4045174538,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,125,6,,
+1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,28,200549,10,,Penny Barg,R,,USA,23.3894592745,201914,,,Elizabeth Alexander,U,,USA,21.4045174538,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,125,6,,
 1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,29,200705,,,Linda Ferrando,U,,ITA,21.6344969199,200420,12,,Anna Maria Fernandez,U,,USA,26.8583162218,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,155,3,133,5
 1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,30,200493,,,Marianne Van Der Torre,U,,NED,26.0369609856,200470,,,Dee Ann Hansel,U,,USA,25.2238193018,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,176,2,163,3
-1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,31,200393,,,Lea Antonoplis,U,,USA,28.6132785763,200669,,,Debbie Graham,R,,USA,17.0184804928,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,171,2,,
+1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,31,200393,,,Lea Antonoplis,R,165,USA,28.6132785763,200669,,,Debbie Graham,R,,USA,17.0184804928,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,171,2,,
 1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,32,200506,2,,Wiltrud Probst,R,,GER,18.2587268994,200369,,,Candy Reynolds,U,,USA,32.4407939767,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,122,6,189,2
 1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,33,200112,,,Julie Halard Decugis,R,,FRA,16.9746748802,200534,,,Melissa Brown,U,,USA,19.3894592745,6-2 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,164,3,182,2
 1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,34,200439,14,,Jenny Byrne,U,,AUS,20.514715948,200605,,,Regina Rajchrtova,U,,TCH,19.5701574264,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,137,5,124,6
 1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,35,200370,9,,Marie Christine Calleja,U,,FRA,23.6303901437,201916,,,Anne Grousbeck,U,,USA,21.568788501,6-1 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,134,5,296,0
-1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,36,200962,,,Patricia Medrado,U,,BRA,30.7624914442,200557,,,Katrina Adams,U,,USA,19.0718685832,6-1 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,168,3,,
+1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,36,200962,,,Patricia Medrado,U,,BRA,30.7624914442,200557,,,Katrina Adams,R,165,USA,19.0718685832,6-1 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,168,3,,
 1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,37,203835,,,Kathy Foxworth,U,,USA,22.8227241615,200436,3,,Carina Karlsson,U,,SWE,23.9726214921,3-6 6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,,,119,6
 1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,38,200554,,,Brenda Schultz Mccarthy,R,,NED,16.6762491444,200540,,,Amy Schwartz,U,,USA,17.9958932238,3-6 7-5 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,169,3,186,2
 1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,39,200462,11,,Belinda Cordwell,U,,NZL,21.9438740589,200021,,,Alexia Dechaume Balleret,R,,FRA,17.3305954825,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,135,5,147,4
@@ -2601,9 +2601,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,43,200550,15,,Emmanuelle Derly,U,,FRA,17.3388090349,200340,,,Marcella Mesker,U,,NED,28.2765229295,3-6 6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,141,4,153,3
 1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,44,201046,,,Silvia La Fratta,U,,ITA,19.8220396988,200479,4,,Emiko Okagawa,U,,JPN,22.6803559206,7-5 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,160,3,,
 1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,45,200476,5,,Cammy Macgregor,U,,USA,18.8884325804,200555,,,Valda Lake,U,,GBR,18.8884325804,7-5 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,123,6,201,2
-1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,46,200474,,,Louise Allen,U,,USA,25.6481861739,200549,10,,Penny Barg Mager,R,,USA,23.3894592745,6-4 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,144,4,125,6
+1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,46,200474,,,Louise Allen,U,,USA,25.6481861739,200549,10,,Penny Barg,R,,USA,23.3894592745,6-4 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,144,4,125,6
 1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,47,200493,,,Marianne Van Der Torre,U,,NED,26.0369609856,200705,,,Linda Ferrando,U,,ITA,21.6344969199,6-2 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,176,2,155,3
-1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,48,200506,2,,Wiltrud Probst,R,,GER,18.2587268994,200393,,,Lea Antonoplis,U,,USA,28.6132785763,6-7(1) 6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,122,6,171,2
+1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,48,200506,2,,Wiltrud Probst,R,,GER,18.2587268994,200393,,,Lea Antonoplis,R,165,USA,28.6132785763,6-7(1) 6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,122,6,171,2
 1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,49,200112,,,Julie Halard Decugis,R,,FRA,16.9746748802,200439,14,,Jenny Byrne,U,,AUS,20.514715948,6-4 7-5,3,Q3,,,,,,,,,,,,,,,,,,,,164,3,137,5
 1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,50,200962,,,Patricia Medrado,U,,BRA,30.7624914442,200370,9,,Marie Christine Calleja,U,,FRA,23.6303901437,6-4 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,168,3,134,5
 1987-W-SL-USA-01A-1987,US Open,Hard,128,G,19870901,51,200554,,,Brenda Schultz Mccarthy,R,,NED,16.6762491444,203835,,,Kathy Foxworth,U,,USA,22.8227241615,6-3 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,169,3,,
@@ -2618,7 +2618,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-AUS-01A-1986,Brisbane,Grass,56,W,19861229,204,200553,,,Carin Bakkum,U,,NED,24.4298425736,200505,,,Michelle Bowrey,R,,AUS,16.4654346338,6-2 3-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 1987-W-WT-AUS-01A-1986,Brisbane,Grass,56,W,19861229,205,200636,,WC,Danielle Jones,U,,AUS,17.8206707734,200484,3,,Ann Devries,U,,BEL,16.8350444901,7-5 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,174,2
 1987-W-WT-AUS-01A-1986,Brisbane,Grass,56,W,19861229,206,200326,,,Naoko Sato,U,,JPN,31.9890485969,200509,,,Michelle Turk,U,,AUS,19.266255989,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
-1987-W-WT-AUS-01A-1986,Brisbane,Grass,56,W,19861229,207,200559,,,Kristine Kunce,U,,AUS,16.8240930869,200393,4,,Lea Antonoplis,U,,USA,27.9397672827,3-6 6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,176,2
+1987-W-WT-AUS-01A-1986,Brisbane,Grass,56,W,19861229,207,200559,,,Kristine Kunce,U,,AUS,16.8240930869,200393,4,,Lea Antonoplis,R,165,USA,27.9397672827,3-6 6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,176,2
 1987-W-WT-AUS-01A-1986,Brisbane,Grass,56,W,19861229,208,200536,,,Stephanie Faulkner,U,,AUS,17.6344969199,201769,,,Ruth Seeman,U,,NZL,23.7097878166,7-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 1987-W-WT-AUS-01A-1986,Brisbane,Grass,56,W,19861229,209,200504,,,Julie Salmon,U,,GBR,21.4757015743,200478,5,,Caryn Copeland Wilson,U,,USA,25.7932922656,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,178,2
 1987-W-WT-AUS-01A-1986,Brisbane,Grass,56,W,19861229,210,200413,,,Heather Ludloff,U,,USA,25.5496235455,200488,,,Alison Scott,U,,AUS,18.8884325804,6-4 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
@@ -2643,7 +2643,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-AUS-01A-1987,Sydney,Grass,56,W,19870105,205,200488,,,Alison Scott,U,,AUS,18.9075975359,200406,3,,Claudia Monteiro,U,,BRA,25.6618754278,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,122,5
 1987-W-WT-AUS-01A-1987,Sydney,Grass,56,W,19870105,206,200448,,,Sandy Collins,U,,USA,28.2299794661,200475,,,Lisa Oneill,U,,AUS,18.4093086927,6-3 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,205,1,185,2
 1987-W-WT-AUS-01A-1987,Sydney,Grass,56,W,19870105,207,200502,4,,Andrea Betzner,U,,GER,20.4900752909,200482,,,Judith Wiesner,R,,AUT,20.8459958932,6-4 3-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,115,6,139,4
-1987-W-WT-AUS-01A-1987,Sydney,Grass,56,W,19870105,208,200393,,,Lea Antonoplis,U,,USA,27.9589322382,200474,,,Louise Allen,U,,USA,24.9938398357,3-6 6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,182,2,156,3
+1987-W-WT-AUS-01A-1987,Sydney,Grass,56,W,19870105,208,200393,,,Lea Antonoplis,R,165,USA,27.9589322382,200474,,,Louise Allen,U,,USA,24.9938398357,3-6 6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,182,2,156,3
 1987-W-WT-AUS-01A-1987,Sydney,Grass,56,W,19870105,209,200332,,,Amanda Tobin Dingwall,R,,AUS,26.5763175907,200495,5,,Akiko Kijimuta,U,,JPN,18.6803559206,6-2 6-7 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,146,4,126,5
 1987-W-WT-AUS-01A-1987,Sydney,Grass,56,W,19870105,210,200478,,,Caryn Copeland Wilson,U,,USA,25.8124572211,200446,,,Colleen Carney,U,,AUS,19.9507186858,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,183,2,262,1
 1987-W-WT-AUS-01A-1987,Sydney,Grass,56,W,19870105,211,200510,,,Julie Richardson,U,,NZL,19.7700205339,200457,6,,Andrea Holikova,U,,TCH,18.9733059548,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,162,3,129,5
@@ -2655,7 +2655,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-AUS-01A-1987,Sydney,Grass,56,W,19870105,217,200484,,,Ann Devries,U,,BEL,16.8542094456,200458,,,Rebecca Bryant,U,,AUS,23.0444900753,6-2 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,175,2,173,2
 1987-W-WT-AUS-01A-1987,Sydney,Grass,56,W,19870105,218,200420,,,Anna Maria Fernandez,U,,USA,26.2039698836,200506,,,Wiltrud Probst,R,,GER,17.6043805613,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,135,4,137,4
 1987-W-WT-AUS-01A-1987,Sydney,Grass,56,W,19870105,219,200448,,,Sandy Collins,U,,USA,28.2299794661,200488,,,Alison Scott,U,,AUS,18.9075975359,2-6 6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,205,1,,
-1987-W-WT-AUS-01A-1987,Sydney,Grass,56,W,19870105,220,200502,4,,Andrea Betzner,U,,GER,20.4900752909,200393,,,Lea Antonoplis,U,,USA,27.9589322382,6-2 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,115,6,182,2
+1987-W-WT-AUS-01A-1987,Sydney,Grass,56,W,19870105,220,200502,4,,Andrea Betzner,U,,GER,20.4900752909,200393,,,Lea Antonoplis,R,165,USA,27.9589322382,6-2 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,115,6,182,2
 1987-W-WT-AUS-01A-1987,Sydney,Grass,56,W,19870105,221,200332,,,Amanda Tobin Dingwall,R,,AUS,26.5763175907,200478,,,Caryn Copeland Wilson,U,,USA,25.8124572211,6-3 7-6,3,Q2,,,,,,,,,,,,,,,,,,,,146,4,183,2
 1987-W-WT-AUS-01A-1987,Sydney,Grass,56,W,19870105,222,200510,,,Julie Richardson,U,,NZL,19.7700205339,213035,,,Sally McCann,U,,AUS,17.7577002053,6-2 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,162,3,234,1
 1987-W-WT-AUS-01A-1987,Sydney,Grass,56,W,19870105,223,200487,7,,Eva Krapl,U,,SUI,20.9691991786,200485,,,Manon Bollegraf,U,,NED,22.7378507871,6-2 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,128,5,123,5
@@ -2692,7 +2692,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-USA-01A-1987,Wichita,Carpet,32,W,19870202,202,200550,,,Emmanuelle Derly,U,,FRA,16.7611225188,200556,,,Wendy Wood,U,,USA,22.7871321013,3-6 6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,219,1,225,1
 1987-W-WT-USA-01A-1987,Wichita,Carpet,32,W,19870202,203,200589,,,Halle Cioffi,U,,USA,17.4948665298,200541,,WC,Sherri Norris,U,,USA,23.0006844627,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,156,3,220,1
 1987-W-WT-USA-01A-1987,Wichita,Carpet,32,W,19870202,204,200591,,,Ronni Reis,U,,USA,20.733744011,213032,7,,Monica Lundqvist,U,,SWE,19.8110882957,6-3 7-6,3,Q1,,,,,,,,,,,,,,,,,,,,166,3,152,3
-1987-W-WT-USA-01A-1987,Wichita,Carpet,32,W,19870202,205,200485,2,,Manon Bollegraf,U,,NED,22.8145106092,213033,,,Kay McDaniel,U,,USA,29.3497604381,7-5 4-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,127,5,196,2
+1987-W-WT-USA-01A-1987,Wichita,Carpet,32,W,19870202,205,200485,2,,Manon Bollegraf,U,,NED,22.8145106092,213033,,,Kay Mcdaniel,U,,USA,29.3497604381,7-5 4-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,127,5,196,2
 1987-W-WT-USA-01A-1987,Wichita,Carpet,32,W,19870202,206,202109,,,Kerri Reiter,U,,USA,18.3381245722,200367,,,Nanette Schutte,U,,NED,24.8268309377,3-6 6-3 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,256,1,198,2
 1987-W-WT-USA-01A-1987,Wichita,Carpet,32,W,19870202,207,201045,,,Natalia Egorova,U,,RUS,20.3887748118,200988,,,Jenny Klitch,U,,USA,21.7905544148,6-7 7-5 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,239,1,153,3
 1987-W-WT-USA-01A-1987,Wichita,Carpet,32,W,19870202,208,200552,8,,Maria Lindstrom,U,,SWE,23.909650924,200521,,,Hellas Ter Riet,U,,NED,18.6173853525,6-4 7-6,3,Q1,,,,,,,,,,,,,,,,,,,,141,4,148,3
@@ -2721,12 +2721,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-USA-03A-1987,Oklahoma,Hard,32,W,19870209,203,200588,,,Renata Baranski,U,,POL,21.9575633128,203796,,,Monica Reinach,U,,RSA,20.3641341547,6-1 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,246,1,288,0
 1987-W-WT-USA-03A-1987,Oklahoma,Hard,32,W,19870209,204,200487,6,,Eva Krapl,U,,SUI,21.0650239562,200991,,,Joanne Russell,U,,USA,32.2792607803,6-1 3-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,134,5,203,2
 1987-W-WT-USA-03A-1987,Oklahoma,Hard,32,W,19870209,205,200601,,,Leila Meskhi,U,,GEO,19.0965092402,200369,2,,Candy Reynolds,U,,USA,31.8822724162,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,205,2,126,5
-1987-W-WT-USA-03A-1987,Oklahoma,Hard,32,W,19870209,206,200542,,,Clare Wood,R,,GBR,18.9240246407,200388,,,Leslie Allen,U,,USA,29.9137577002,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,228,1,197,2
+1987-W-WT-USA-03A-1987,Oklahoma,Hard,32,W,19870209,206,200542,,,Clare Wood,R,,GBR,18.9240246407,200388,,,Leslie Allen,R,,USA,29.9137577002,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,228,1,197,2
 1987-W-WT-USA-03A-1987,Oklahoma,Hard,32,W,19870209,207,203026,,,Meredith Geiger,U,,USA,14.6830937714,200589,,,Halle Cioffi,U,,USA,17.5140314853,1-6 6-3 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,,,156,3
 1987-W-WT-USA-03A-1987,Oklahoma,Hard,32,W,19870209,208,200506,7,,Wiltrud Probst,R,,GER,17.7002053388,201040,,,Luciana Corsato Owsianka,U,,BRA,21.0513347023,7-6 7-6,3,Q1,,,,,,,,,,,,,,,,,,,,136,4,210,1
 1987-W-WT-USA-03A-1987,Oklahoma,Hard,32,W,19870209,209,200485,3,,Manon Bollegraf,U,,NED,22.8336755647,200552,,,Maria Lindstrom,U,,SWE,23.9288158795,2-6 6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,127,5,141,4
 1987-W-WT-USA-03A-1987,Oklahoma,Hard,32,W,19870209,210,200988,,,Jenny Klitch,U,,USA,21.8097193703,200474,,,Louise Allen,U,,USA,25.0896646133,6-2 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,153,3,161,3
-1987-W-WT-USA-03A-1987,Oklahoma,Hard,32,W,19870209,211,201045,,,Natalia Egorova,U,,RUS,20.4079397673,213033,,,Kay McDaniel,U,,USA,29.3689253936,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,239,1,196,2
+1987-W-WT-USA-03A-1987,Oklahoma,Hard,32,W,19870209,211,201045,,,Natalia Egorova,U,,RUS,20.4079397673,213033,,,Kay Mcdaniel,U,,USA,29.3689253936,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,239,1,196,2
 1987-W-WT-USA-03A-1987,Oklahoma,Hard,32,W,19870209,212,200331,5,,Kim Sands,U,,USA,30.3299110198,201176,,,Jane Forman,U,,USA,25.0513347023,5-7 6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,130,5,172,2
 1987-W-WT-USA-03A-1987,Oklahoma,Hard,32,W,19870209,213,200539,,,Jana Novotna,R,,CZE,18.3545516769,200456,4,,Masako Yanagi,U,,JPN,27.2470910335,6-3 7-6,3,Q1,,,,,,,,,,,,,,,,,,,,180,2,128,5
 1987-W-WT-USA-03A-1987,Oklahoma,Hard,32,W,19870209,214,200448,,,Sandy Collins,U,,USA,28.3258042437,200550,,,Emmanuelle Derly,U,,FRA,16.7802874743,W/O,3,Q1,,,,,,,,,,,,,,,,,,,,199,2,219,1
@@ -2751,7 +2751,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-USA-04A-1987,Boca Raton,Hard,56,W,19870216,205,200674,,,Bettina Fulco Villella,R,,ARG,18.3162217659,200424,2,,Etsuko Inoue,U,,JPN,22.3299110198,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,112,,67,
 1987-W-WT-USA-04A-1987,Boca Raton,Hard,56,W,19870216,206,200421,,,Pascale Paradis Mangon,R,,FRA,20.8158795346,200521,,,Hellas Ter Riet,U,,NED,18.6557152635,6-4 7-6,3,Q1,,,,,,,,,,,,,,,,,,,,130,,156,
 1987-W-WT-USA-04A-1987,Boca Raton,Hard,56,W,19870216,207,200485,,,Manon Bollegraf,U,,NED,22.8528405202,200398,,,Iva Budarova,U,,TCH,26.546201232,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,132,,106,
-1987-W-WT-USA-04A-1987,Boca Raton,Hard,56,W,19870216,208,200437,,,Annabel Croft,U,,GBR,20.5995893224,200725,7,,Sandra Cecchini,U,,ITA,21.9685147159,7-6 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,92,,91,
+1987-W-WT-USA-04A-1987,Boca Raton,Hard,56,W,19870216,208,200437,,,Annabel Croft,R,,GBR,20.5995893224,200725,7,,Sandra Cecchini,U,,ITA,21.9685147159,7-6 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,92,,91,
 1987-W-WT-USA-04A-1987,Boca Raton,Hard,56,W,19870216,209,200548,,,Patty Fendick,U,,USA,21.8809034908,201025,3,,Neige Dias,U,,BRA,20.1998631075,6-0 5-7 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,98,,76,
 1987-W-WT-USA-04A-1987,Boca Raton,Hard,56,W,19870216,210,200495,,,Akiko Kijimuta,U,,JPN,18.7953456537,200456,,,Masako Yanagi,U,,JPN,27.266255989,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,133,,131,
 1987-W-WT-USA-04A-1987,Boca Raton,Hard,56,W,19870216,211,200589,,,Halle Cioffi,U,,USA,17.5331964408,201033,,,Kristin Kinney,U,,USA,27.4743326489,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,157,,127,
@@ -2763,7 +2763,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-USA-04A-1987,Boca Raton,Hard,56,W,19870216,217,200500,,,Pilar Vasquez,U,,PER,23.7590691307,202214,,,Holly Ann Lloyd,U,,USA,16.1642710472,6-2 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,145,,,
 1987-W-WT-USA-04A-1987,Boca Raton,Hard,56,W,19870216,218,200962,6,,Patricia Medrado,U,,BRA,30.2231348392,200447,,,Adriana Villagran Reami,U,,ARG,30.5270362765,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,81,,110,
 1987-W-WT-USA-04A-1987,Boca Raton,Hard,56,W,19870216,219,200674,,,Bettina Fulco Villella,R,,ARG,18.3162217659,200421,,,Pascale Paradis Mangon,R,,FRA,20.8158795346,6-4 1-6 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,112,,130,
-1987-W-WT-USA-04A-1987,Boca Raton,Hard,56,W,19870216,220,200485,,,Manon Bollegraf,U,,NED,22.8528405202,200437,,,Annabel Croft,U,,GBR,20.5995893224,7-5 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,132,,92,
+1987-W-WT-USA-04A-1987,Boca Raton,Hard,56,W,19870216,220,200485,,,Manon Bollegraf,U,,NED,22.8528405202,200437,,,Annabel Croft,R,,GBR,20.5995893224,7-5 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,132,,92,
 1987-W-WT-USA-04A-1987,Boca Raton,Hard,56,W,19870216,221,200548,,,Patty Fendick,U,,USA,21.8809034908,200495,,,Akiko Kijimuta,U,,JPN,18.7953456537,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,98,,133,
 1987-W-WT-USA-04A-1987,Boca Raton,Hard,56,W,19870216,222,200589,,,Halle Cioffi,U,,USA,17.5331964408,200439,,,Jenny Byrne,U,,AUS,19.9753593429,7-6 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,157,,109,
 1987-W-WT-USA-04A-1987,Boca Raton,Hard,56,W,19870216,223,200469,,,Nicole Bradtke,U,,AUS,17.401779603,200522,,,Nicole Krijger Jagerman,U,,NED,19.5701574264,7-5 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,120,,108,
@@ -2781,13 +2781,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,211,200474,,,Louise Allen,U,,USA,25.1279945243,200515,,,Lindsay Bartlett,U,,USA,24.5667351129,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,176,,286,
 1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,212,200521,12,,Hellas Ter Riet,U,,NED,18.674880219,200493,,,Marianne Van Der Torre,U,,NED,25.5167693361,6-2 6-7 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,156,,188,
 1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,213,200510,4,,Julie Richardson,U,,NZL,19.9041752225,200588,,,Renata Baranski,U,,POL,21.9958932238,6-7 6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,139,,249,
-1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,214,200393,,,Lea Antonoplis,U,,USA,28.0930869268,200525,,,Jennifer Goodling,U,,USA,24.8295687885,6-4 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,191,,285,
+1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,214,200393,,,Lea Antonoplis,R,165,USA,28.0930869268,200525,,,Jennifer Goodling,U,,USA,24.8295687885,6-4 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,191,,285,
 1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,215,201032,,,Cecilia Fernandez Parker,U,,USA,23.6577686516,200323,,,Rene Blount,U,,USA,29.7850787132,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,193,,169,
 1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,216,201038,,,Karen Schimper,U,,RSA,19.7481177276,200988,16,,Jenny Klitch,U,,USA,21.8480492813,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,195,,160,
 1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,217,200550,5,,Emmanuelle Derly,U,,FRA,16.8186173854,200477,,,Susan Rimes,U,,USA,27.8603696099,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,140,,196,
 1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,218,200448,,,Sandy Collins,U,,USA,28.3641341547,200334,,,Sabina Simmonds,R,,ITA,26.8528405202,1-6 6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,205,,215,
 1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,219,200471,,,Jamie Golder,U,,USA,25.0896646133,213032,,,Monica Lundqvist,U,,SWE,19.8685831622,6-2 3-6 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,190,,165,
-1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,220,200021,,,Alexia Dechaume Balleret,R,,FRA,16.810403833,200549,10,,Penny Barg Mager,R,,USA,22.8692676249,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,170,,152,
+1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,220,200021,,,Alexia Dechaume Balleret,R,,FRA,16.810403833,200549,10,,Penny Barg,R,,USA,22.8692676249,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,170,,152,
 1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,221,200539,6,,Jana Novotna,R,,CZE,18.392881588,200396,,,Kim Steinmetz,U,,USA,29.1718001369,7-5 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,142,,211,
 1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,222,200556,,,Wendy Wood,U,,USA,22.8446269678,200513,,,Pamela Jung,U,,USA,23.6440793977,6-3 4-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,230,,280,
 1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,223,200590,,,Gisele Miro,U,,BRA,18.3107460643,201040,,,Luciana Corsato Owsianka,U,,BRA,21.0896646133,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,238,,216,
@@ -2806,7 +2806,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,236,200601,,,Leila Meskhi,U,,GEO,19.1348391513,201169,,,Heather Crowe,U,,USA,25.6180698152,6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,197,,274,
 1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,237,200506,3,,Wiltrud Probst,R,,GER,17.7385352498,213037,,,Tracie Blumentritt,U,,USA,26.1026694045,3-6 6-3 7-6,3,Q2,,,,,,,,,,,,,,,,,,,,138,,241,
 1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,238,200474,,,Louise Allen,U,,USA,25.1279945243,200521,12,,Hellas Ter Riet,U,,NED,18.674880219,7-5 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,176,,156,
-1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,239,200393,,,Lea Antonoplis,U,,USA,28.0930869268,200510,4,,Julie Richardson,U,,NZL,19.9041752225,4-6 7-5 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,191,,139,
+1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,239,200393,,,Lea Antonoplis,R,165,USA,28.0930869268,200510,4,,Julie Richardson,U,,NZL,19.9041752225,4-6 7-5 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,191,,139,
 1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,240,201038,,,Karen Schimper,U,,RSA,19.7481177276,201032,,,Cecilia Fernandez Parker,U,,USA,23.6577686516,6-3 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,195,,193,
 1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,241,200448,,,Sandy Collins,U,,USA,28.3641341547,200550,5,,Emmanuelle Derly,U,,FRA,16.8186173854,6-3 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,205,,140,
 1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,242,200021,,,Alexia Dechaume Balleret,R,,FRA,16.810403833,200471,,,Jamie Golder,U,,USA,25.0896646133,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,170,,190,
@@ -2819,7 +2819,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,249,200589,13,,Halle Cioffi,U,,USA,17.5523613963,201045,1,,Natalia Egorova,U,,RUS,20.4462696783,7-6 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,157,,118,
 1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,250,200601,,,Leila Meskhi,U,,GEO,19.1348391513,200538,,,Akemi Nishiya,R,,JPN,21.954825462,6-3 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,197,,246,
 1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,251,200474,,,Louise Allen,U,,USA,25.1279945243,200506,3,,Wiltrud Probst,R,,GER,17.7385352498,5-7 6-1 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,176,,138,
-1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,252,201038,,,Karen Schimper,U,,RSA,19.7481177276,200393,,,Lea Antonoplis,U,,USA,28.0930869268,6-4 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,195,,191,
+1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,252,201038,,,Karen Schimper,U,,RSA,19.7481177276,200393,,,Lea Antonoplis,R,165,USA,28.0930869268,6-4 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,195,,191,
 1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,253,200021,,,Alexia Dechaume Balleret,R,,FRA,16.810403833,200448,,,Sandy Collins,U,,USA,28.3641341547,6-3 7-6,3,Q3,,,,,,,,,,,,,,,,,,,,170,,205,
 1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,254,200539,6,,Jana Novotna,R,,CZE,18.392881588,200483,15,,Kumiko Okamoto,U,,JPN,22.0095824778,6-3 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,142,,159,
 1987-W-WT-USA-05A-1987,Key Biscayne,Hard,128,W,19870223,255,200534,,,Melissa Brown,U,,USA,18.8692676249,200965,,,Emilse Rapponi Longo,U,,USA,29.1800136893,6-4 7-6,3,Q3,,,,,,,,,,,,,,,,,,,,229,,204,
@@ -2831,7 +2831,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-USA-08A-1987,Dallas,Carpet,32,W,19870316,205,200492,,,Tina Mochizuki,R,,USA,34.3052703628,200457,,,Andrea Holikova,U,,TCH,19.1649555099,6-1 2-6 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,100,,134,
 1987-W-WT-USA-08A-1987,Dallas,Carpet,32,W,19870316,206,200448,,,Sandy Collins,U,,USA,28.4216290212,200340,,,Marcella Mesker,U,,NED,27.8138261465,6-4 1-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,199,,87,
 1987-W-WT-USA-08A-1987,Dallas,Carpet,32,W,19870316,207,200521,,,Hellas Ter Riet,U,,NED,18.7323750856,200396,,,Kim Steinmetz,U,,USA,29.2292950034,UNK,3,Q1,,,,,,,,,,,,,,,,,,,,158,,220,
-1987-W-WT-USA-08A-1987,Dallas,Carpet,32,W,19870316,208,200474,,,Louise Allen,U,,USA,25.1854893908,200437,,,Annabel Croft,U,,GBR,20.6762491444,5-7 6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,166,,92,
+1987-W-WT-USA-08A-1987,Dallas,Carpet,32,W,19870316,208,200474,,,Louise Allen,U,,USA,25.1854893908,200437,,,Annabel Croft,R,,GBR,20.6762491444,5-7 6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,166,,92,
 1987-W-WT-USA-08A-1987,Dallas,Carpet,32,W,19870316,209,200435,,,Barbara Gerken,U,,USA,22.6995208761,201176,,,Jane Forman,U,,USA,25.1471594798,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,102,,179,
 1987-W-WT-USA-08A-1987,Dallas,Carpet,32,W,19870316,210,201032,,,Cecilia Fernandez Parker,U,,USA,23.7152635181,231300,,,Sylvia Schenck,U,,USA,,6-2 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,181,,,
 1987-W-WT-USA-08A-1987,Dallas,Carpet,32,W,19870316,211,201038,,,Karen Schimper,U,,RSA,19.8056125941,200494,,,Dianne Van Rensburg,U,,RSA,19.0308008214,6-3 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,188,,62,
@@ -2849,7 +2849,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-USA-09A-1987,Washington,Carpet,32,W,19870323,203,201038,,,Karen Schimper,U,,RSA,19.8247775496,232905,,,Kristina Soderquist,U,,USA,,6-0 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,188,,,
 1987-W-WT-USA-09A-1987,Washington,Carpet,32,W,19870323,204,200346,7,,Anne Minter,U,,AUS,23.9698836413,200540,,,Amy Schwartz,U,,USA,17.5523613963,6-0 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,77,,165,
 1987-W-WT-USA-09A-1987,Washington,Carpet,32,W,19870323,205,200464,2,,Ann Henricksson,U,,USA,27.3921971253,201169,,,Heather Crowe,U,,USA,25.6947296372,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,52,,272,
-1987-W-WT-USA-09A-1987,Washington,Carpet,32,W,19870323,206,200388,,,Leslie Allen,U,,USA,30.0287474333,200399,,,Jennifer Mundel,U,,RSA,25.1690622861,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,201,,110,
+1987-W-WT-USA-09A-1987,Washington,Carpet,32,W,19870323,206,200388,,,Leslie Allen,R,,USA,30.0287474333,200399,,,Jennifer Mundel,U,,RSA,25.1690622861,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,201,,110,
 1987-W-WT-USA-09A-1987,Washington,Carpet,32,W,19870323,207,201176,,,Jane Forman,U,,USA,25.1663244353,200521,,,Hellas Ter Riet,U,,NED,18.7515400411,4-6 6-1 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,179,,158,
 1987-W-WT-USA-09A-1987,Washington,Carpet,32,W,19870323,208,200497,6,,Patricia Hy Boulais,U,,CAN,21.582477755,231300,,,Sylvia Schenck,U,,USA,,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,68,,,
 1987-W-WT-USA-09A-1987,Washington,Carpet,32,W,19870323,209,200417,3,,Gigi Fernandez,U,,USA,23.0800821355,200556,,,Wendy Wood,U,,USA,22.9212867899,7-6 6-7 7-6,3,Q1,,,,,,,,,,,,,,,,,,,,56,,228,
@@ -2981,7 +2981,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-USA-12A-1987,Hilton Head,Clay,56,W,19870406,210,200506,,,Wiltrud Probst,R,,GER,17.8535249829,201829,,,Heliane Steden,U,,MEX,22.7159479808,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,139,4,171,2
 1987-W-WT-USA-12A-1987,Hilton Head,Clay,56,W,19870406,211,200485,6,,Manon Bollegraf,U,,NED,22.9869952088,200379,,,Paula Smith,U,,USA,30.2340862423,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,129,5,255,1
 1987-W-WT-USA-12A-1987,Hilton Head,Clay,56,W,19870406,212,200521,,,Hellas Ter Riet,U,,NED,18.7898699521,200540,,,Amy Schwartz,U,,USA,17.5906913073,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,157,3,176,2
-1987-W-WT-USA-12A-1987,Hilton Head,Clay,56,W,19870406,213,200549,,,Penny Barg Mager,R,,USA,22.984257358,201027,7,,Gabriela Dinu,U,,FRG,26.970568104,7-5 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,148,4,132,5
+1987-W-WT-USA-12A-1987,Hilton Head,Clay,56,W,19870406,213,200549,,,Penny Barg,R,,USA,22.984257358,201027,7,,Gabriela Dinu,U,,FRG,26.970568104,7-5 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,148,4,132,5
 1987-W-WT-USA-12A-1987,Hilton Head,Clay,56,W,19870406,214,203796,,,Monica Reinach,U,,RSA,20.5174537988,200323,,,Rene Blount,U,,USA,29.9000684463,6-0 5-7 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,289,0,187,2
 1987-W-WT-USA-12A-1987,Hilton Head,Clay,56,W,19870406,215,200457,8,,Andrea Holikova,U,,TCH,19.2224503765,200477,,,Susan Rimes,U,,USA,27.9753593429,4-6 6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,134,4,190,2
 1987-W-WT-USA-12A-1987,Hilton Head,Clay,56,W,19870406,216,200988,,,Jenny Klitch,U,,USA,21.9630390144,201894,,,Kylie Copeland,U,,USA,25.8809034908,7-6 2-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,155,3,,
@@ -2991,7 +2991,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-USA-12A-1987,Hilton Head,Clay,56,W,19870406,220,200965,,,Emilse Rapponi Longo,U,,USA,29.2950034223,200398,4,,Iva Budarova,U,,TCH,26.6803559206,6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,198,2,121,6
 1987-W-WT-USA-12A-1987,Hilton Head,Clay,56,W,19870406,221,200506,,,Wiltrud Probst,R,,GER,17.8535249829,200415,5,,Catherine Suire,U,,FRA,27.5564681725,4-6 6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,139,4,122,6
 1987-W-WT-USA-12A-1987,Hilton Head,Clay,56,W,19870406,222,200485,6,,Manon Bollegraf,U,,NED,22.9869952088,200521,,,Hellas Ter Riet,U,,NED,18.7898699521,6-1 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,129,5,157,3
-1987-W-WT-USA-12A-1987,Hilton Head,Clay,56,W,19870406,223,200549,,,Penny Barg Mager,R,,USA,22.984257358,203796,,,Monica Reinach,U,,RSA,20.5174537988,6-2 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,148,4,289,0
+1987-W-WT-USA-12A-1987,Hilton Head,Clay,56,W,19870406,223,200549,,,Penny Barg,R,,USA,22.984257358,203796,,,Monica Reinach,U,,RSA,20.5174537988,6-2 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,148,4,289,0
 1987-W-WT-USA-12A-1987,Hilton Head,Clay,56,W,19870406,224,200457,8,,Andrea Holikova,U,,TCH,19.2224503765,200988,,,Jenny Klitch,U,,USA,21.9630390144,6-2 5-7 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,134,4,155,3
 1987-1021,ITF Kona,Hard,,C,19870406,201,200958,,,Helle Viragh,U,,DEN,30.765229295,224389,,,Ann Young,U,,USA,,6-4 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 1987-1021,ITF Kona,Hard,,C,19870406,202,202184,,,Jackie Joseph,U,,USA,23.2525667351,232018,,,Eloise Woods,U,,USA,,4-6 6-0 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
@@ -3028,7 +3028,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-USA-13A-1987,Amelia Island,Clay,56,W,19870413,213,200988,,,Jenny Klitch,U,,USA,21.9822039699,200415,4,,Catherine Suire,U,,FRA,27.575633128,3-6 6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,161,3,116,6
 1987-W-WT-USA-13A-1987,Amelia Island,Clay,56,W,19870413,214,201032,,,Cecilia Fernandez Parker,U,,USA,23.7919233402,201033,,,Kristin Kinney,U,,USA,27.627652293,6-2 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,175,2,143,4
 1987-W-WT-USA-13A-1987,Amelia Island,Clay,56,W,19870413,215,200539,,,Jana Novotna,R,,CZE,18.5270362765,200965,,,Emilse Rapponi Longo,U,,USA,29.3141683778,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,100,7,191,2
-1987-W-WT-USA-13A-1987,Amelia Island,Clay,56,W,19870413,216,200485,6,,Manon Bollegraf,U,,NED,23.0061601643,200549,,,Penny Barg Mager,R,,USA,23.0034223135,7-6 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,135,5,136,5
+1987-W-WT-USA-13A-1987,Amelia Island,Clay,56,W,19870413,216,200485,6,,Manon Bollegraf,U,,NED,23.0061601643,200549,,,Penny Barg,R,,USA,23.0034223135,7-6 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,135,5,136,5
 1987-W-WT-USA-13A-1987,Amelia Island,Clay,56,W,19870413,217,200674,1,,Bettina Fulco Villella,R,,ARG,18.46954141,216657,,,Shelley Aguero,U,,USA,23.394934976,UNK,3,Q2,,,,,,,,,,,,,,,,,,,,82,10,,
 1987-W-WT-USA-13A-1987,Amelia Island,Clay,56,W,19870413,218,201721,,,Caryn Moss,U,,USA,15.5208761123,200379,,,Paula Smith,U,,USA,30.2532511978,6-0 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,,,256,1
 1987-W-WT-USA-13A-1987,Amelia Island,Clay,56,W,19870413,219,200506,,,Wiltrud Probst,R,,GER,17.8726899384,200641,2,,Patricia Tarabini,R,,ARG,18.6830937714,6-7 6-2 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,121,6,113,6
@@ -3046,7 +3046,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-JPN-02A-1987,Tokyo Japan Open,Hard,32,W,19870414,207,200462,,,Belinda Cordwell,U,,NZL,21.5605749487,200622,,,Maya Kidowaki,U,,JPN,17.9082819986,6-1 4-6 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,173,2,,
 1987-W-WT-JPN-02A-1987,Tokyo Japan Open,Hard,32,W,19870414,208,200332,,,Amanda Tobin Dingwall,R,,AUS,26.8473648186,200616,5,,Pascale Etchemendy,U,,FRA,20.8542094456,6-3 5-1 RET,3,Q1,,,,,,,,,,,,,,,,,,,,168,3,148,4
 1987-W-WT-JPN-02A-1987,Tokyo Japan Open,Hard,32,W,19870414,209,200550,3,,Emmanuelle Derly,U,,FRA,16.9555099247,200021,,,Alexia Dechaume Balleret,R,,FRA,16.9472963723,6-3 2-6 7-6,3,Q1,,,,,,,,,,,,,,,,,,,,139,4,154,3
-1987-W-WT-JPN-02A-1987,Tokyo Japan Open,Hard,32,W,19870414,210,200393,,,Lea Antonoplis,U,,USA,28.2299794661,200508,,,Virginie Paquet,U,,FRA,19.9397672827,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,182,2,218,1
+1987-W-WT-JPN-02A-1987,Tokyo Japan Open,Hard,32,W,19870414,210,200393,,,Lea Antonoplis,R,165,USA,28.2299794661,200508,,,Virginie Paquet,U,,FRA,19.9397672827,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,182,2,218,1
 1987-W-WT-JPN-02A-1987,Tokyo Japan Open,Hard,32,W,19870414,211,201810,,,Yuko Hosoki,U,,JPN,18.417522245,201769,,,Ruth Seeman,U,,NZL,24.0,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,244,1
 1987-W-WT-JPN-02A-1987,Tokyo Japan Open,Hard,32,W,19870414,212,200584,,,Laura Golarsa,R,,ITA,19.3785078713,200510,6,,Julie Richardson,U,,NZL,20.0410677618,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,158,3,147,4
 1987-W-WT-JPN-02A-1987,Tokyo Japan Open,Hard,32,W,19870414,213,200448,,,Sandy Collins,U,,USA,28.501026694,200406,4,,Claudia Monteiro,U,,BRA,25.9329226557,6-4 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,196,2,142,4
@@ -3057,13 +3057,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-JPN-02A-1987,Tokyo Japan Open,Hard,32,W,19870414,218,200483,,,Kumiko Okamoto,U,,JPN,22.1464750171,200498,7,,Michelle Jaggard Lai,U,,AUS,17.9383983573,7-5 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,159,3,152,3
 1987-W-WT-JPN-02A-1987,Tokyo Japan Open,Hard,32,W,19870414,219,200489,,,Yukie Koizumi,U,,JPN,29.2183436003,200538,,,Akemi Nishiya,R,,JPN,22.0917180014,6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,189,2,226,1
 1987-W-WT-JPN-02A-1987,Tokyo Japan Open,Hard,32,W,19870414,220,200462,,,Belinda Cordwell,U,,NZL,21.5605749487,200332,,,Amanda Tobin Dingwall,R,,AUS,26.8473648186,6-3 0-6 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,173,2,168,3
-1987-W-WT-JPN-02A-1987,Tokyo Japan Open,Hard,32,W,19870414,221,200393,,,Lea Antonoplis,U,,USA,28.2299794661,200550,3,,Emmanuelle Derly,U,,FRA,16.9555099247,6-2 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,182,2,139,4
+1987-W-WT-JPN-02A-1987,Tokyo Japan Open,Hard,32,W,19870414,221,200393,,,Lea Antonoplis,R,165,USA,28.2299794661,200550,3,,Emmanuelle Derly,U,,FRA,16.9555099247,6-2 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,182,2,139,4
 1987-W-WT-JPN-02A-1987,Tokyo Japan Open,Hard,32,W,19870414,222,200584,,,Laura Golarsa,R,,ITA,19.3785078713,201810,,,Yuko Hosoki,U,,JPN,18.417522245,6-3 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,158,3,,
 1987-W-WT-JPN-02A-1987,Tokyo Japan Open,Hard,32,W,19870414,223,200448,,,Sandy Collins,U,,USA,28.501026694,200475,,,Lisa Oneill,U,,AUS,18.6803559206,6-2 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,196,2,174,2
 1987-W-WT-JPN-02A-1987,Tokyo Japan Open,Hard,32,W,19870414,224,201039,8,,Caterina Nozzoli,U,,ITA,19.7919233402,200511,,,Amy Jonsson Raaholt,U,,NOR,19.8494182067,7-6 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,149,4,227,1
 1987-W-WT-JPN-02A-1987,Tokyo Japan Open,Hard,32,W,19870414,225,200483,,,Kumiko Okamoto,U,,JPN,22.1464750171,200484,1,,Ann Devries,U,,BEL,17.1252566735,3-6 6-1 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,159,3,128,5
 1987-W-WT-JPN-02A-1987,Tokyo Japan Open,Hard,32,W,19870414,226,200462,,,Belinda Cordwell,U,,NZL,21.5605749487,200489,,,Yukie Koizumi,U,,JPN,29.2183436003,2-6 6-2 7-5,3,Q3,,,,,,,,,,,,,,,,,,,,173,2,189,2
-1987-W-WT-JPN-02A-1987,Tokyo Japan Open,Hard,32,W,19870414,227,200393,,,Lea Antonoplis,U,,USA,28.2299794661,200584,,,Laura Golarsa,R,,ITA,19.3785078713,6-1 2-6 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,182,2,158,3
+1987-W-WT-JPN-02A-1987,Tokyo Japan Open,Hard,32,W,19870414,227,200393,,,Lea Antonoplis,R,165,USA,28.2299794661,200584,,,Laura Golarsa,R,,ITA,19.3785078713,6-1 2-6 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,182,2,158,3
 1987-W-WT-JPN-02A-1987,Tokyo Japan Open,Hard,32,W,19870414,228,200448,,,Sandy Collins,U,,USA,28.501026694,201039,8,,Caterina Nozzoli,U,,ITA,19.7919233402,6-2 7-5,3,Q3,,,,,,,,,,,,,,,,,,,,196,2,149,4
 1987-W-WT-USA-14A-1987,Houston,Clay,32,W,19870420,201,200674,1,,Bettina Fulco Villella,R,,ARG,18.4887063655,203619,,,Janet Craig,U,,USA,20.0410677618,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,82,10,,
 1987-W-WT-USA-14A-1987,Houston,Clay,32,W,19870420,202,202019,,,Kim Labuschagne,U,,RSA,19.6057494867,200590,,,Gisele Miro,U,,BRA,18.4640657084,7-5 4-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,267,0
@@ -3100,7 +3100,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-TPE-01A-1987,Taipei,Carpet,32,W,19870420,205,200332,2,,Amanda Tobin Dingwall,R,,AUS,26.8637919233,201816,,,Kathleen Schuurmans,U,,BEL,20.7967145791,6-3 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,168,3,,
 1987-W-WT-TPE-01A-1987,Taipei,Carpet,32,W,19870420,206,200334,,,Sabina Simmonds,R,,ITA,27.0061601643,200326,,,Naoko Sato,U,,JPN,32.295687885,3-6 6-2 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,224,1,,
 1987-W-WT-TPE-01A-1987,Taipei,Carpet,32,W,19870420,207,201901,,,Cheryl Jones,U,,USA,22.9623545517,212355,,,Chiu Mei Ho,U,,TPE,24.6078028747,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,287,0,,
-1987-W-WT-TPE-01A-1987,Taipei,Carpet,32,W,19870420,208,200393,7,,Lea Antonoplis,U,,USA,28.2464065708,201761,,,Annette Smith,U,,AUS,27.7782340862,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,182,2,,
+1987-W-WT-TPE-01A-1987,Taipei,Carpet,32,W,19870420,208,200393,7,,Lea Antonoplis,R,165,USA,28.2464065708,201761,,,Annette Smith,U,,AUS,27.7782340862,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,182,2,,
 1987-W-WT-TPE-01A-1987,Taipei,Carpet,32,W,19870420,209,201046,3,,Silvia La Fratta,U,,ITA,19.4551676934,213048,,,Mayumi Yamada,U,,JPN,22.9678302533,7-6 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,169,2,,
 1987-W-WT-TPE-01A-1987,Taipei,Carpet,32,W,19870420,210,200607,,,Beate Reinstadler,U,,AUT,19.9178644764,200537,,,Cynthia Macgregor,U,,USA,23.0663928816,7-5 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,283,0
 1987-W-WT-TPE-01A-1987,Taipei,Carpet,32,W,19870420,211,200545,,,Ei Iida,U,,JPN,19.6112251882,200511,,,Amy Jonsson Raaholt,U,,NOR,19.8658453114,7-6 2-6 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,,,227,1
@@ -3112,20 +3112,20 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-TPE-01A-1987,Taipei,Carpet,32,W,19870420,217,200584,1,,Laura Golarsa,R,,ITA,19.394934976,200553,,,Carin Bakkum,U,,NED,24.7364818617,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,158,3,249,1
 1987-W-WT-TPE-01A-1987,Taipei,Carpet,32,W,19870420,218,200508,,,Virginie Paquet,U,,FRA,19.9561943874,200538,,,Akemi Nishiya,R,,JPN,22.1081451061,2-6 7-6 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,218,1,226,1
 1987-W-WT-TPE-01A-1987,Taipei,Carpet,32,W,19870420,219,200334,,,Sabina Simmonds,R,,ITA,27.0061601643,200332,2,,Amanda Tobin Dingwall,R,,AUS,26.8637919233,6-2 3-6 7-6,3,Q2,,,,,,,,,,,,,,,,,,,,224,1,168,3
-1987-W-WT-TPE-01A-1987,Taipei,Carpet,32,W,19870420,220,200393,7,,Lea Antonoplis,U,,USA,28.2464065708,201901,,,Cheryl Jones,U,,USA,22.9623545517,6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,182,2,287,0
+1987-W-WT-TPE-01A-1987,Taipei,Carpet,32,W,19870420,220,200393,7,,Lea Antonoplis,R,165,USA,28.2464065708,201901,,,Cheryl Jones,U,,USA,22.9623545517,6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,182,2,287,0
 1987-W-WT-TPE-01A-1987,Taipei,Carpet,32,W,19870420,221,201046,3,,Silvia La Fratta,U,,ITA,19.4551676934,200607,,,Beate Reinstadler,U,,AUT,19.9178644764,6-4 7-6,3,Q2,,,,,,,,,,,,,,,,,,,,169,2,,
 1987-W-WT-TPE-01A-1987,Taipei,Carpet,32,W,19870420,222,200489,8,,Yukie Koizumi,U,,JPN,29.234770705,200545,,,Ei Iida,U,,JPN,19.6112251882,6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,189,2,,
 1987-W-WT-TPE-01A-1987,Taipei,Carpet,32,W,19870420,223,200462,4,,Belinda Cordwell,U,,NZL,21.5770020534,202200,,,Miki Mizokuchi,U,,JPN,21.9356605065,6-2 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,173,2,,
 1987-W-WT-TPE-01A-1987,Taipei,Carpet,32,W,19870420,224,200547,,,Sandra Wasserman,U,,BEL,17.1115674196,201769,,,Ruth Seeman,U,,NZL,24.0164271047,5-7 7-6 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,204,2,244,1
 1987-W-WT-TPE-01A-1987,Taipei,Carpet,32,W,19870420,225,200584,1,,Laura Golarsa,R,,ITA,19.394934976,200508,,,Virginie Paquet,U,,FRA,19.9561943874,6-3 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,158,3,218,1
-1987-W-WT-TPE-01A-1987,Taipei,Carpet,32,W,19870420,226,200393,7,,Lea Antonoplis,U,,USA,28.2464065708,200334,,,Sabina Simmonds,R,,ITA,27.0061601643,6-4 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,182,2,224,1
+1987-W-WT-TPE-01A-1987,Taipei,Carpet,32,W,19870420,226,200393,7,,Lea Antonoplis,R,165,USA,28.2464065708,200334,,,Sabina Simmonds,R,,ITA,27.0061601643,6-4 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,182,2,224,1
 1987-W-WT-TPE-01A-1987,Taipei,Carpet,32,W,19870420,227,200489,8,,Yukie Koizumi,U,,JPN,29.234770705,201046,3,,Silvia La Fratta,U,,ITA,19.4551676934,6-2 6-0,3,Q3,,,,,,,,,,,,,,,,,,,,189,2,169,2
 1987-W-WT-TPE-01A-1987,Taipei,Carpet,32,W,19870420,228,200462,4,,Belinda Cordwell,U,,NZL,21.5770020534,200547,,,Sandra Wasserman,U,,BEL,17.1115674196,6-1 6-7 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,173,2,204,2
 1987-W-WT-USA-15A-1987,Tampa,Clay,32,W,19870427,201,202215,,,Amy Mascotti,U,,USA,14.4531143053,200399,1,,Jennifer Mundel,U,,RSA,25.2648870637,6-0 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,134,5
 1987-W-WT-USA-15A-1987,Tampa,Clay,32,W,19870427,202,201894,,,Kylie Copeland,U,,USA,25.9383983573,232497,,,Stephanie Rauch,U,,USA,,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 1987-W-WT-USA-15A-1987,Tampa,Clay,32,W,19870427,203,200965,,,Emilse Rapponi Longo,U,,USA,29.3524982888,200396,,,Kim Steinmetz,U,,USA,29.3442847365,6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,166,3,239,1
 1987-W-WT-USA-15A-1987,Tampa,Clay,32,W,19870427,204,200526,,,Carol Christian,U,,USA,24.5475701574,200513,,,Pamela Jung,U,,USA,23.8165639973,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,291,0,283,0
-1987-W-WT-USA-15A-1987,Tampa,Clay,32,W,19870427,205,200566,,,Donna Faber,U,,USA,15.8110882957,200549,2,,Penny Barg Mager,R,,USA,23.0417522245,6-4 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,,,141,5
+1987-W-WT-USA-15A-1987,Tampa,Clay,32,W,19870427,205,200566,,,Donna Faber,U,,USA,15.8110882957,200549,2,,Penny Barg,R,,USA,23.0417522245,6-4 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,,,141,5
 1987-W-WT-USA-15A-1987,Tampa,Clay,32,W,19870427,206,200540,,,Amy Schwartz,U,,USA,17.6481861739,200541,,,Sherri Norris,U,,USA,23.2306639288,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,177,2,234,1
 1987-W-WT-USA-15A-1987,Tampa,Clay,32,W,19870427,207,202037,,,Linley Tanner,U,,USA,24.9883641342,213037,,,Tracie Blumentritt,U,,USA,26.2751540041,2-6 7-5 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,281,0,246,1
 1987-W-WT-USA-15A-1987,Tampa,Clay,32,W,19870427,208,201031,7,,Niurka Sodupe,U,,USA,18.0205338809,200515,,,Lindsay Bartlett,U,,USA,24.7392197125,7-5 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,164,3,275,0
@@ -3134,7 +3134,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-USA-15A-1987,Tampa,Clay,32,W,19870427,211,201267,,,Karen Huebner,U,,USA,23.0937713895,201832,,,Gabriela Mosca,U,,ARG,17.7056810404,6-4 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,295,0,224,1
 1987-W-WT-USA-15A-1987,Tampa,Clay,32,W,19870427,212,200591,,,Ronni Reis,U,,USA,20.9637234771,200331,5,,Kim Sands,U,,USA,30.5407255305,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,168,3,150,4
 1987-W-WT-USA-15A-1987,Tampa,Clay,32,W,19870427,213,201032,,,Cecilia Fernandez Parker,U,,USA,23.8302532512,201033,4,,Kristin Kinney,U,,USA,27.665982204,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,154,3,144,4
-1987-W-WT-USA-15A-1987,Tampa,Clay,32,W,19870427,214,200379,,,Paula Smith,U,,USA,30.2915811088,200388,,,Leslie Allen,U,,USA,30.1245722108,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,251,1,196,2
+1987-W-WT-USA-15A-1987,Tampa,Clay,32,W,19870427,214,200379,,,Paula Smith,U,,USA,30.2915811088,200388,,,Leslie Allen,R,,USA,30.1245722108,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,251,1,196,2
 1987-W-WT-USA-15A-1987,Tampa,Clay,32,W,19870427,215,200590,,,Gisele Miro,U,,BRA,18.4832306639,200470,,,Dee Ann Hansel,U,,USA,24.8761122519,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,273,0,221,1
 1987-W-WT-USA-15A-1987,Tampa,Clay,32,W,19870427,216,200988,8,,Jenny Klitch,U,,USA,22.0205338809,201829,,,Heliane Steden,U,,MEX,22.7734428474,4-6 6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,160,3,183,2
 1987-W-WT-USA-15A-1987,Tampa,Clay,32,W,19870427,217,202215,,,Amy Mascotti,U,,USA,14.4531143053,201894,,,Kylie Copeland,U,,USA,25.9383983573,3-6 6-0 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
@@ -3160,14 +3160,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-SIN-01A-1987,Singapore,Hard,32,W,19870427,209,200556,,,Wendy Wood,U,,USA,23.0171115674,200508,5,,Virginie Paquet,U,,FRA,19.9753593429,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,240,1,212,1
 1987-W-WT-SIN-01A-1987,Singapore,Hard,32,W,19870427,210,201034,1,,Helena Dahlstrom,U,,SWE,18.9541409993,201765,,,Brenda Perry,U,,NZL,29.5605749487,6-1 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,186,2,,
 1987-W-WT-SIN-01A-1987,Singapore,Hard,32,W,19870427,211,213048,,,Mayumi Yamada,U,,JPN,22.9869952088,203637,,,Bilynda Potter,U,,AUS,16.2984257358,6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
-1987-W-WT-SIN-01A-1987,Singapore,Hard,32,W,19870427,212,200393,2,,Lea Antonoplis,U,,USA,28.2655715264,212434,,,Dyan Castillejo,U,,PHI,21.6125941136,6-2 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,169,3,,
+1987-W-WT-SIN-01A-1987,Singapore,Hard,32,W,19870427,212,200393,2,,Lea Antonoplis,R,165,USA,28.2655715264,212434,,,Dyan Castillejo,U,,PHI,21.6125941136,6-2 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,169,3,,
 1987-W-WT-SIN-01A-1987,Singapore,Hard,32,W,19870427,213,200607,,,Beate Reinstadler,U,,AUT,19.9370294319,200525,,,Jennifer Goodling,U,,USA,25.0020533881,6-7 7-5 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,297,0,,
 1987-W-WT-SIN-01A-1987,Singapore,Hard,32,W,19870427,214,201901,,,Cheryl Jones,U,,USA,22.9815195072,203614,,,Robyn Lamb,U,,AUS,23.318275154,6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,280,0,,
 1987-W-WT-SIN-01A-1987,Singapore,Hard,32,W,19870427,215,200553,,,Carin Bakkum,U,,NED,24.7556468172,202181,,,Lela Zainal,U,,SIN,15.0417522245,6-0 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,249,1,,
 1987-W-WT-SIN-01A-1987,Singapore,Hard,32,W,19870427,216,200547,4,,Sandra Wasserman,U,,BEL,17.1307323751,201816,,,Kathleen Schuurmans,U,,BEL,20.8158795346,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,204,1,,
 1987-W-WT-SIN-01A-1987,Singapore,Hard,32,W,19870427,217,201843,,,Suzanna Anggarkusuma,U,,INA,23.4195756331,200556,,,Wendy Wood,U,,USA,23.0171115674,6-1 3-6 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,,,240,1
 1987-W-WT-SIN-01A-1987,Singapore,Hard,32,W,19870427,218,201034,1,,Helena Dahlstrom,U,,SWE,18.9541409993,213048,,,Mayumi Yamada,U,,JPN,22.9869952088,6-2 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,186,2,,
-1987-W-WT-SIN-01A-1987,Singapore,Hard,32,W,19870427,219,200393,2,,Lea Antonoplis,U,,USA,28.2655715264,200607,,,Beate Reinstadler,U,,AUT,19.9370294319,6-4 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,169,3,297,0
+1987-W-WT-SIN-01A-1987,Singapore,Hard,32,W,19870427,219,200393,2,,Lea Antonoplis,R,165,USA,28.2655715264,200607,,,Beate Reinstadler,U,,AUT,19.9370294319,6-4 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,169,3,297,0
 1987-W-WT-SIN-01A-1987,Singapore,Hard,32,W,19870427,220,201901,,,Cheryl Jones,U,,USA,22.9815195072,200553,,,Carin Bakkum,U,,NED,24.7556468172,6-2 0-6 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,280,0,249,1
 1987-W-WT-SIN-01A-1987,Singapore,Hard,32,W,19870427,221,201843,,,Suzanna Anggarkusuma,U,,INA,23.4195756331,200547,4,,Sandra Wasserman,U,,BEL,17.1307323751,6-3 7-6,3,Q3,,,,,,,,,,,,,,,,,,,,,,204,1
 1987-1026,ITF Taranto,Clay,,C,19870427,201,203797,,,Laura Murgo,U,,ITA,24.4572210815,201760,,,Heidi Sprung,U,,AUT,18.2915811088,6-0 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,265,0,,
@@ -3212,7 +3212,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-ITA-01A-1987,Rome,Clay,56,W,19870504,216,200502,8,,Andrea Betzner,U,,GER,20.8158795346,200490,,,Michaela Pazderova,U,,TCH,24.2819986311,6-4 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,157,3,217,1
 1987-W-WT-FRA-01A-1987,Strasbourg,Clay,32,W,19870518,201,200495,1,,Akiko Kijimuta,U,,JPN,19.0444900753,200540,,,Amy Schwartz,U,,USA,17.7056810404,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,117,6,174,3
 1987-W-WT-FRA-01A-1987,Strasbourg,Clay,32,W,19870518,202,201038,,,Karen Schimper,U,,RSA,19.9780971937,200449,,,Petra Keppeler,U,,GER,22.1546885695,6-3 6-7 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,165,3,229,1
-1987-W-WT-FRA-01A-1987,Strasbourg,Clay,32,W,19870518,203,200425,,,Sophie Amiach,U,,FRA,23.5181382615,200600,,,Simone Schilder,U,,NED,20.1122518823,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,250,1
+1987-W-WT-FRA-01A-1987,Strasbourg,Clay,32,W,19870518,203,200425,,,Sophie Amiach,R,165,FRA,23.5181382615,200600,,,Simone Schilder,U,,NED,20.1122518823,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,250,1
 1987-W-WT-FRA-01A-1987,Strasbourg,Clay,32,W,19870518,204,201016,,,Hana Fukarkova,U,,TCH,23.2744695414,200485,6,,Manon Bollegraf,U,,NED,23.1019849418,6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,181,2,137,5
 1987-W-WT-FRA-01A-1987,Strasbourg,Clay,32,W,19870518,205,200479,2,,Emiko Okagawa,U,,JPN,22.3901437372,200616,,,Pascale Etchemendy,U,,FRA,20.9472963723,6-4 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,,,163,3
 1987-W-WT-FRA-01A-1987,Strasbourg,Clay,32,W,19870518,206,200542,,,Clare Wood,R,,GBR,19.1923340178,201040,,,Luciana Corsato Owsianka,U,,BRA,21.3196440794,6-3 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,226,1,208,1
@@ -3227,7 +3227,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-FRA-01A-1987,Strasbourg,Clay,32,W,19870518,215,200553,,,Carin Bakkum,U,,NED,24.8131416838,216766,,,Ann Ehrmann,U,,FRA,21.3524982888,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,246,1,,
 1987-W-WT-FRA-01A-1987,Strasbourg,Clay,32,W,19870518,216,203795,,,Digna Ketelaar,U,,NED,19.7618069815,201898,,,Isabelle Crudo,U,,FRA,19.2032854209,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,287,0,255,1
 1987-W-WT-FRA-01A-1987,Strasbourg,Clay,32,W,19870518,217,200495,1,,Akiko Kijimuta,U,,JPN,19.0444900753,201038,,,Karen Schimper,U,,RSA,19.9780971937,4-6 6-3 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,117,6,165,3
-1987-W-WT-FRA-01A-1987,Strasbourg,Clay,32,W,19870518,218,201016,,,Hana Fukarkova,U,,TCH,23.2744695414,200425,,,Sophie Amiach,U,,FRA,23.5181382615,6-2 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,181,2,,
+1987-W-WT-FRA-01A-1987,Strasbourg,Clay,32,W,19870518,218,201016,,,Hana Fukarkova,U,,TCH,23.2744695414,200425,,,Sophie Amiach,R,165,FRA,23.5181382615,6-2 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,181,2,,
 1987-W-WT-FRA-01A-1987,Strasbourg,Clay,32,W,19870518,219,200542,,,Clare Wood,R,,GBR,19.1923340178,200479,2,,Emiko Okagawa,U,,JPN,22.3901437372,3-6 6-1 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,226,1,,
 1987-W-WT-FRA-01A-1987,Strasbourg,Clay,32,W,19870518,220,200988,,,Jenny Klitch,U,,USA,22.0780287474,200367,,,Nanette Schutte,U,,NED,25.1143052704,2-6 6-0 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,161,3,205,1
 1987-W-WT-FRA-01A-1987,Strasbourg,Clay,32,W,19870518,221,200604,3,,Barbara Paulus,U,,AUT,16.7091033539,200534,,,Melissa Brown,U,,USA,19.099247091,7-6 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,124,6,210,1
@@ -3239,7 +3239,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-FRA-01A-1987,Strasbourg,Clay,32,W,19870518,227,200604,3,,Barbara Paulus,U,,AUT,16.7091033539,200521,7,,Hellas Ter Riet,U,,NED,18.9048596851,6-3 3-6 6-0,3,Q3,,,,,,,,,,,,,,,,,,,,124,6,141,4
 1987-W-WT-FRA-01A-1987,Strasbourg,Clay,32,W,19870518,228,200553,,,Carin Bakkum,U,,NED,24.8131416838,200552,4,,Maria Lindstrom,U,,SWE,24.1971252567,7-6 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,246,1,132,5
 1987-W-WT-GBR-01A-1987,Birmingham,Grass,56,W,19870608,201,200555,,,Valda Lake,U,,GBR,18.6557152635,200591,1,,Ronni Reis,U,,USA,21.0787132101,6-2 3-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,115,7
-1987-W-WT-GBR-01A-1987,Birmingham,Grass,56,W,19870608,202,200399,,,Jennifer Mundel,U,,RSA,25.3798767967,200393,,,Lea Antonoplis,U,,USA,28.3805612594,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,140,5,170,3
+1987-W-WT-GBR-01A-1987,Birmingham,Grass,56,W,19870608,202,200399,,,Jennifer Mundel,U,,RSA,25.3798767967,200393,,,Lea Antonoplis,R,165,USA,28.3805612594,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,140,5,170,3
 1987-W-WT-GBR-01A-1987,Birmingham,Grass,56,W,19870608,203,201033,,,Kristin Kinney,U,,USA,27.780971937,203832,,,Caroline Billingham,U,,GBR,19.9069130732,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,147,4,,
 1987-W-WT-GBR-01A-1987,Birmingham,Grass,56,W,19870608,204,200483,6,,Kumiko Okamoto,U,,JPN,22.2970568104,200485,,,Manon Bollegraf,U,,NED,23.1594798084,6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,131,6,138,5
 1987-W-WT-GBR-01A-1987,Birmingham,Grass,56,W,19870608,205,200441,2,,Louise Field,U,,AUS,20.2819986311,200456,,,Masako Yanagi,U,,JPN,27.5728952772,6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,123,6,159,3
@@ -3287,7 +3287,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-GBR-02A-1987,Eastbourne,Grass,64,W,19870615,223,200223,7,,Sharon Walsh Pete,R,,USA,35.3045859001,200537,,,Cynthia Macgregor,U,,USA,23.2197125257,6-2 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,93,8,289,0
 1987-W-WT-GBR-02A-1987,Eastbourne,Grass,64,W,19870615,224,200340,,,Marcella Mesker,U,,NED,28.0629705681,200378,,,Anne Smith,R,,USA,27.9561943874,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,126,6,145,5
 1987-1039,ITF Augusta,Hard,,C,19870622,201,202055,1,,Themis Zambrzycki,U,,BRA,26.6694045175,203635,,,Angel Cobbs,U,,USA,25.8097193703,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
-1987-1039,ITF Augusta,Hard,,C,19870622,202,203837,,,Rita Winebarger,U,,USA,21.1115674196,200557,,,Katrina Adams,U,,USA,18.8774811773,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+1987-1039,ITF Augusta,Hard,,C,19870622,202,203837,,,Rita Winebarger,U,,USA,21.1115674196,200557,,,Katrina Adams,R,165,USA,18.8774811773,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 1987-1039,ITF Augusta,Hard,,C,19870622,203,203893,,,Sonya Hahn,U,,USA,19.8247775496,232946,,,Margaret Faughnan,U,,USA,,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 1987-1039,ITF Augusta,Hard,,C,19870622,204,203636,6,,Kazuko Ito,U,,JPN,23.8357289528,213096,,,Lisa Bobby,U,,USA,22.8829568789,7-5 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 1987-1039,ITF Augusta,Hard,,C,19870622,205,231300,2,,Sylvia Schenck,U,,USA,,201761,,,Annette Smith,U,,AUS,27.9507186858,6-2 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
@@ -3353,7 +3353,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-SWE-01A-1987,Bastad,Clay,32,W,19870706,209,216665,,,Malin Nilsson,U,,SWE,18.3490759754,232962,,,Anneli Oehrnstett,U,,SWE,,7-5 4-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 1987-W-WT-SWE-01A-1987,Bastad,Clay,32,W,19870706,210,232558,,,Camilla Ohrman,U,,SWE,,212812,,,Andrea Vopat,U,,GER,18.1519507187,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 1987-W-WT-SWE-01A-1987,Bastad,Clay,32,W,19870706,211,202077,6,,Annelie Bjork,U,,SWE,22.2614647502,232963,,,Panilla Toersless,U,,SWE,,7-5 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
-1987-W-WT-SWE-01A-1987,Bastad,Clay,32,W,19870706,212,200527,4,,Maria Christine Damas,U,,FRA,20.5722108145,200425,,,Sophie Amiach,U,,FRA,23.65229295,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,239,1,,
+1987-W-WT-SWE-01A-1987,Bastad,Clay,32,W,19870706,212,200527,4,,Maria Christine Damas,U,,FRA,20.5722108145,200425,,,Sophie Amiach,R,165,FRA,23.65229295,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,239,1,,
 1987-W-WT-SWE-01A-1987,Bastad,Clay,32,W,19870706,213,213283,,,Eva Lena Olsson,U,,SWE,17.9876796715,232964,,,Isabelle Mattiasson,U,,SWE,,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 1987-W-WT-SWE-01A-1987,Bastad,Clay,32,W,19870706,214,200631,,,Maria Ekstrand,U,,SWE,17.4182067077,232965,,,Anna Hallgren,U,,SWE,,6-0 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 1987-W-WT-SWE-01A-1987,Bastad,Clay,32,W,19870706,215,203794,7,,Annika Karlsson,U,,SWE,20.7529089665,232966,,,Annika Dunstroen,U,,SWE,,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,268,1,,
@@ -3370,7 +3370,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-SWE-01A-1987,Bastad,Clay,32,W,19870706,226,200554,3,,Brenda Schultz Mccarthy,R,,NED,16.5201916496,202077,6,,Annelie Bjork,U,,SWE,22.2614647502,6-4 6-0,3,Q3,,,,,,,,,,,,,,,,,,,,243,1,,
 1987-W-WT-SWE-01A-1987,Bastad,Clay,32,W,19870706,227,200527,4,,Maria Christine Damas,U,,FRA,20.5722108145,200631,,,Maria Ekstrand,U,,SWE,17.4182067077,6-1 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,239,1,,
 1987-W-WT-USA-16A-1987,Newport,Grass,32,W,19870713,201,200462,1,,Belinda Cordwell,U,,NZL,21.8069815195,200526,,,Carol Christian,U,,USA,24.758384668,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,139,5,276,0
-1987-W-WT-USA-16A-1987,Newport,Grass,32,W,19870713,202,200393,,,Lea Antonoplis,U,,USA,28.476386037,201169,,,Heather Crowe,U,,USA,26.0013689254,6-0 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,179,2,225,1
+1987-W-WT-USA-16A-1987,Newport,Grass,32,W,19870713,202,200393,,,Lea Antonoplis,R,165,USA,28.476386037,201169,,,Heather Crowe,U,,USA,26.0013689254,6-0 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,179,2,225,1
 1987-W-WT-USA-16A-1987,Newport,Grass,32,W,19870713,203,200396,,,Kim Steinmetz,U,,USA,29.5550992471,200534,,,Melissa Brown,U,,USA,19.2525667351,6-3 7-6,3,Q1,,,,,,,,,,,,,,,,,,,,269,1,208,1
 1987-W-WT-USA-16A-1987,Newport,Grass,32,W,19870713,204,200498,6,,Michelle Jaggard Lai,U,,AUS,18.1848049281,201194,,,Tammy Whittington,U,,USA,21.749486653,6-2 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,151,4,272,1
 1987-W-WT-USA-16A-1987,Newport,Grass,32,W,19870713,205,200399,2,,Jennifer Mundel,U,,RSA,25.4757015743,200324,,,Beth Norton,U,,USA,30.0807665982,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,146,4,,
@@ -3385,7 +3385,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-USA-16A-1987,Newport,Grass,32,W,19870713,214,200369,,,Candy Reynolds,U,,USA,32.3039014374,202032,,,Jane Holdren,U,,USA,,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,195,2,,
 1987-W-WT-USA-16A-1987,Newport,Grass,32,W,19870713,215,200525,,,Jennifer Goodling,U,,USA,25.2128678987,200537,,,Cynthia Macgregor,U,,USA,23.2963723477,3-6 6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,274,0
 1987-W-WT-USA-16A-1987,Newport,Grass,32,W,19870713,216,200478,,,Caryn Copeland Wilson,U,,USA,26.3299110198,201033,7,,Kristin Kinney,U,,USA,27.8767967146,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,168,3,158,3
-1987-W-WT-USA-16A-1987,Newport,Grass,32,W,19870713,217,200393,,,Lea Antonoplis,U,,USA,28.476386037,200462,1,,Belinda Cordwell,U,,NZL,21.8069815195,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,179,2,139,5
+1987-W-WT-USA-16A-1987,Newport,Grass,32,W,19870713,217,200393,,,Lea Antonoplis,R,165,USA,28.476386037,200462,1,,Belinda Cordwell,U,,NZL,21.8069815195,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,179,2,139,5
 1987-W-WT-USA-16A-1987,Newport,Grass,32,W,19870713,218,200396,,,Kim Steinmetz,U,,USA,29.5550992471,200498,6,,Michelle Jaggard Lai,U,,AUS,18.1848049281,4-6 6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,269,1,151,4
 1987-W-WT-USA-16A-1987,Newport,Grass,32,W,19870713,219,200399,2,,Jennifer Mundel,U,,RSA,25.4757015743,201769,,,Ruth Seeman,U,,NZL,24.2464065708,6-2 3-6 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,146,4,267,1
 1987-W-WT-USA-16A-1987,Newport,Grass,32,W,19870713,220,200379,,,Paula Smith,U,,USA,30.5023956194,200553,,,Carin Bakkum,U,,NED,24.9664613279,6-3 2-6 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,236,1,222,1
@@ -3393,7 +3393,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-USA-16A-1987,Newport,Grass,32,W,19870713,222,200273,,,Nerida Gregory,U,,AUS,31.1649555099,200558,,,Leigh Anne Eldredge,U,,USA,22.5763175907,6-4 1-6 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,,,256,1
 1987-W-WT-USA-16A-1987,Newport,Grass,32,W,19870713,223,200406,4,,Claudia Monteiro,U,,BRA,26.1793292266,200369,,,Candy Reynolds,U,,USA,32.3039014374,6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,149,4,195,2
 1987-W-WT-USA-16A-1987,Newport,Grass,32,W,19870713,224,200478,,,Caryn Copeland Wilson,U,,USA,26.3299110198,200525,,,Jennifer Goodling,U,,USA,25.2128678987,6-4 1-6 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,168,3,,
-1987-W-WT-USA-16A-1987,Newport,Grass,32,W,19870713,225,200396,,,Kim Steinmetz,U,,USA,29.5550992471,200393,,,Lea Antonoplis,U,,USA,28.476386037,7-6 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,269,1,179,2
+1987-W-WT-USA-16A-1987,Newport,Grass,32,W,19870713,225,200396,,,Kim Steinmetz,U,,USA,29.5550992471,200393,,,Lea Antonoplis,R,165,USA,28.476386037,7-6 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,269,1,179,2
 1987-W-WT-USA-16A-1987,Newport,Grass,32,W,19870713,226,200379,,,Paula Smith,U,,USA,30.5023956194,200399,2,,Jennifer Mundel,U,,RSA,25.4757015743,3-6 0-2 RET,3,Q3,,,,,,,,,,,,,,,,,,,,236,1,146,4
 1987-W-WT-USA-16A-1987,Newport,Grass,32,W,19870713,227,200470,,,Dee Ann Hansel,U,,USA,25.0869267625,200273,,,Nerida Gregory,U,,AUS,31.1649555099,7-6 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,214,1,,
 1987-W-WT-USA-16A-1987,Newport,Grass,32,W,19870713,228,200406,4,,Claudia Monteiro,U,,BRA,26.1793292266,200478,,,Caryn Copeland Wilson,U,,USA,26.3299110198,6-2 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,149,4,168,3
@@ -3424,7 +3424,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-1052,ITF Philadelphia,Hard,,C,19870720,204,203636,8,,Kazuko Ito,U,,JPN,23.9123887748,203833,,,Sally Timms,U,,GBR,17.9685147159,7-6 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 1987-1052,ITF Philadelphia,Hard,,C,19870720,205,200613,2,,Lise Gregory,L,,RSA,23.8904859685,201766,,,Sharon Mcnamara,U,,AUS,20.8186173854,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,261,1,,
 1987-1052,ITF Philadelphia,Hard,,C,19870720,206,232983,,,Daniela Klurman,U,,USA,,201763,,,Annette Patchen,U,,AUS,19.022587269,6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
-1987-1052,ITF Philadelphia,Hard,,C,19870720,207,200557,,,Katrina Adams,U,,USA,18.9541409993,232550,,,Florita Gomez,U,,VEN,,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+1987-1052,ITF Philadelphia,Hard,,C,19870720,207,200557,,,Katrina Adams,R,165,USA,18.9541409993,232550,,,Florita Gomez,U,,VEN,,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 1987-1052,ITF Philadelphia,Hard,,C,19870720,208,200528,5,,Katie Rickett,U,,GBR,18.9158110883,203787,,,Holly Danforth,U,,USA,17.9383983573,4-6 6-1 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 1987-1052,ITF Philadelphia,Hard,,C,19870720,209,203893,,,Sonya Hahn,U,,USA,19.9014373717,213045,3,,Jillian Alexander Brower,U,,CAN,19.2963723477,7-5 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 1987-1052,ITF Philadelphia,Hard,,C,19870720,210,203609,,,Tracey Moyle,U,,AUS,18.4421629021,202184,,,Jackie Joseph,U,,USA,23.5400410678,6-4 3-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
@@ -3437,13 +3437,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-1052,ITF Philadelphia,Hard,,C,19870720,217,200567,1,,Jennifer Santrock,U,,USA,18.392881588,202051,,,Shelby Torrance,U,,USA,37.0650239562,6-4-6-3,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 1987-1052,ITF Philadelphia,Hard,,C,19870720,218,203636,8,,Kazuko Ito,U,,JPN,23.9123887748,232922,,,Vanne Akagi,U,,USA,,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 1987-1052,ITF Philadelphia,Hard,,C,19870720,219,200613,2,,Lise Gregory,L,,RSA,23.8904859685,232983,,,Daniela Klurman,U,,USA,,6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,261,1,,
-1987-1052,ITF Philadelphia,Hard,,C,19870720,220,200557,,,Katrina Adams,U,,USA,18.9541409993,200528,5,,Katie Rickett,U,,GBR,18.9158110883,6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
+1987-1052,ITF Philadelphia,Hard,,C,19870720,220,200557,,,Katrina Adams,R,165,USA,18.9541409993,200528,5,,Katie Rickett,U,,GBR,18.9158110883,6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 1987-1052,ITF Philadelphia,Hard,,C,19870720,221,203893,,,Sonya Hahn,U,,USA,19.9014373717,203609,,,Tracey Moyle,U,,AUS,18.4421629021,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 1987-1052,ITF Philadelphia,Hard,,C,19870720,222,201743,,,Laura Glitz,U,,USA,20.1752224504,231300,,,Sylvia Schenck,U,,USA,,6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 1987-1052,ITF Philadelphia,Hard,,C,19870720,223,213038,,,Paulette Roux,U,,RSA,18.4750171116,202146,,,Allyson Ingram,U,,USA,23.7837097878,6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 1987-1052,ITF Philadelphia,Hard,,C,19870720,224,203891,,,Trisha Laux,U,,USA,18.4558521561,213043,,,Cinda Gurney,U,,USA,16.2765229295,6-2 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 1987-1052,ITF Philadelphia,Hard,,C,19870720,225,200567,1,,Jennifer Santrock,U,,USA,18.392881588,203636,8,,Kazuko Ito,U,,JPN,23.9123887748,6-2 7-6,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
-1987-1052,ITF Philadelphia,Hard,,C,19870720,226,200557,,,Katrina Adams,U,,USA,18.9541409993,200613,2,,Lise Gregory,L,,RSA,23.8904859685,6-2 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,,,261,1
+1987-1052,ITF Philadelphia,Hard,,C,19870720,226,200557,,,Katrina Adams,R,165,USA,18.9541409993,200613,2,,Lise Gregory,L,,RSA,23.8904859685,6-2 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,,,261,1
 1987-1052,ITF Philadelphia,Hard,,C,19870720,227,203893,,,Sonya Hahn,U,,USA,19.9014373717,201743,,,Laura Glitz,U,,USA,20.1752224504,6-3 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
 1987-1052,ITF Philadelphia,Hard,,C,19870720,228,203891,,,Trisha Laux,U,,USA,18.4558521561,213038,,,Paulette Roux,U,,RSA,18.4750171116,6-2 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
 1987-W-WT-USA-17A-1987,Aptos,Hard,32,W,19870727,201,200500,1,,Pilar Vasquez,U,,PER,24.1998631075,200546,,,Stephanie Savides,U,,USA,22.4668035592,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,146,4,,
@@ -3453,7 +3453,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-USA-17A-1987,Aptos,Hard,32,W,19870727,205,200504,2,,Julie Salmon,U,,GBR,22.0506502396,200478,,,Caryn Copeland Wilson,U,,USA,26.3682409309,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,193,2,216,1
 1987-W-WT-USA-17A-1987,Aptos,Hard,32,W,19870727,206,200958,,,Helle Viragh,U,,DEN,31.0718685832,200432,,,Laura Bernstein,U,,USA,24.3613963039,6-4 7-6,3,Q1,,,,,,,,,,,,,,,,,,,,,,208,1
 1987-W-WT-USA-17A-1987,Aptos,Hard,32,W,19870727,207,202037,,,Linley Tanner,U,,USA,25.2375085558,216660,,,Tiffany Silveria,U,,USA,27.2744695414,7-5 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,291,0,,
-1987-W-WT-USA-17A-1987,Aptos,Hard,32,W,19870727,208,200393,7,,Lea Antonoplis,U,,USA,28.514715948,200541,,,Sherri Norris,U,,USA,23.4798083504,6-0 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,172,2,240,1
+1987-W-WT-USA-17A-1987,Aptos,Hard,32,W,19870727,208,200393,7,,Lea Antonoplis,R,165,USA,28.514715948,200541,,,Sherri Norris,U,,USA,23.4798083504,6-0 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,172,2,240,1
 1987-W-WT-USA-17A-1987,Aptos,Hard,32,W,19870727,209,200555,,,Valda Lake,U,,GBR,18.7898699521,200988,3,,Jenny Klitch,U,,USA,22.2696783025,4-6 7-5 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,196,2,160,3
 1987-W-WT-USA-17A-1987,Aptos,Hard,32,W,19870727,210,203892,,,Stephanie London,U,,USA,17.9383983573,201901,,,Cheryl Jones,U,,USA,23.2306639288,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,242,1,251,1
 1987-W-WT-USA-17A-1987,Aptos,Hard,32,W,19870727,211,200669,,WC,Debbie Graham,R,,USA,16.9199178645,202032,,,Jane Holdren,U,,USA,,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
@@ -3465,13 +3465,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-USA-17A-1987,Aptos,Hard,32,W,19870727,217,200500,1,,Pilar Vasquez,U,,PER,24.1998631075,200537,,,Cynthia Macgregor,U,,USA,23.3347022587,6-3 1-6 7-6,3,Q2,,,,,,,,,,,,,,,,,,,,146,4,271,0
 1987-W-WT-USA-17A-1987,Aptos,Hard,32,W,19870727,218,201732,,WC,Noelle Porter,U,,USA,16.605065024,200334,,,Sabina Simmonds,R,,ITA,27.2744695414,6-3 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,,,211,1
 1987-W-WT-USA-17A-1987,Aptos,Hard,32,W,19870727,219,200958,,,Helle Viragh,U,,DEN,31.0718685832,200504,2,,Julie Salmon,U,,GBR,22.0506502396,6-1 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,,,193,2
-1987-W-WT-USA-17A-1987,Aptos,Hard,32,W,19870727,220,200393,7,,Lea Antonoplis,U,,USA,28.514715948,202037,,,Linley Tanner,U,,USA,25.2375085558,6-3 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,172,2,291,0
+1987-W-WT-USA-17A-1987,Aptos,Hard,32,W,19870727,220,200393,7,,Lea Antonoplis,R,165,USA,28.514715948,202037,,,Linley Tanner,U,,USA,25.2375085558,6-3 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,172,2,291,0
 1987-W-WT-USA-17A-1987,Aptos,Hard,32,W,19870727,221,203892,,,Stephanie London,U,,USA,17.9383983573,200555,,,Valda Lake,U,,GBR,18.7898699521,4-6 6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,242,1,196,2
 1987-W-WT-USA-17A-1987,Aptos,Hard,32,W,19870727,222,200669,,WC,Debbie Graham,R,,USA,16.9199178645,201829,8,,Heliane Steden,U,,MEX,23.022587269,7-5 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,,,190,2
 1987-W-WT-USA-17A-1987,Aptos,Hard,32,W,19870727,223,200405,4,,Susan Mascarin,U,,USA,23.0773442847,202144,,,Wendy Ouwendijk,U,,USA,19.0308008214,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,169,2,,
 1987-W-WT-USA-17A-1987,Aptos,Hard,32,W,19870727,224,200489,6,,Yukie Koizumi,U,,JPN,29.5030800821,213043,,,Cinda Gurney,U,,USA,16.295687885,6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,171,2,,
 1987-W-WT-USA-17A-1987,Aptos,Hard,32,W,19870727,225,201732,,WC,Noelle Porter,U,,USA,16.605065024,200500,1,,Pilar Vasquez,U,,PER,24.1998631075,5-7 6-3 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,,,146,4
-1987-W-WT-USA-17A-1987,Aptos,Hard,32,W,19870727,226,200393,7,,Lea Antonoplis,U,,USA,28.514715948,200958,,,Helle Viragh,U,,DEN,31.0718685832,6-4 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,172,2,,
+1987-W-WT-USA-17A-1987,Aptos,Hard,32,W,19870727,226,200393,7,,Lea Antonoplis,R,165,USA,28.514715948,200958,,,Helle Viragh,U,,DEN,31.0718685832,6-4 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,172,2,,
 1987-W-WT-USA-17A-1987,Aptos,Hard,32,W,19870727,227,200669,,WC,Debbie Graham,R,,USA,16.9199178645,203892,,,Stephanie London,U,,USA,17.9383983573,6-4 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,,,242,1
 1987-W-WT-USA-17A-1987,Aptos,Hard,32,W,19870727,228,200405,4,,Susan Mascarin,U,,USA,23.0773442847,200489,6,,Yukie Koizumi,U,,JPN,29.5030800821,6-1 5-7 7-5,3,Q3,,,,,,,,,,,,,,,,,,,,169,2,171,2
 1987-1056,ITF Neumunster,Clay,,C,19870727,201,201048,,,Leona Laskova,U,,CZE,17.3032169747,232992,,,Sandra Helbig,U,,GER,,6-3 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
@@ -3554,7 +3554,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-USA-19A-1987,Los Angeles,Hard,56,W,19870810,204,200421,,,Pascale Paradis Mangon,R,,FRA,21.2950034223,200420,,,Anna Maria Fernandez,U,,USA,26.7980835044,7-6 7-6,3,Q1,,,,,,,,,,,,,,,,,,,,112,7,134,5
 1987-W-WT-USA-19A-1987,Los Angeles,Hard,56,W,19870810,205,200462,,,Belinda Cordwell,U,,NZL,21.8836413415,201015,3,,Grace Kim,U,,USA,19.3155373032,7-6 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,138,5,81,10
 1987-W-WT-USA-19A-1987,Los Angeles,Hard,56,W,19870810,206,200492,,,Tina Mochizuki,R,,USA,34.7077344285,200552,,,Maria Lindstrom,U,,SWE,24.4271047228,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,110,7,128,5
-1987-W-WT-USA-19A-1987,Los Angeles,Hard,56,W,19870810,207,200407,4,,Camille Benjamin,U,,USA,21.1882272416,200550,,,Emmanuelle Derly,U,,FRA,17.2785763176,6-3 3-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,84,10,136,5
+1987-W-WT-USA-19A-1987,Los Angeles,Hard,56,W,19870810,207,200407,4,,Camille Benjamin,L,175,USA,21.1882272416,200550,,,Emmanuelle Derly,U,,FRA,17.2785763176,6-3 3-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,84,10,136,5
 1987-W-WT-USA-19A-1987,Los Angeles,Hard,56,W,19870810,208,200439,,,Jenny Byrne,U,,AUS,20.4544832307,200513,,,Pamela Jung,U,,USA,24.1040383299,4-6 6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,127,6,,
 1987-W-WT-USA-19A-1987,Los Angeles,Hard,56,W,19870810,209,200548,5,,Patty Fendick,U,,USA,22.3600273785,200500,,,Pilar Vasquez,U,,PER,24.2381930185,6-4 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,86,10,145,4
 1987-W-WT-USA-19A-1987,Los Angeles,Hard,56,W,19870810,210,201027,,,Gabriela Dinu,U,,FRG,27.3155373032,213052,,,Dena Levy,U,,USA,21.864476386,6-1 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,149,4,,
@@ -3562,12 +3562,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-USA-19A-1987,Los Angeles,Hard,56,W,19870810,212,200370,,,Marie Christine Calleja,U,,FRA,23.5701574264,200405,,,Susan Mascarin,U,,USA,23.1156741958,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,132,5,146,4
 1987-W-WT-USA-19A-1987,Los Angeles,Hard,56,W,19870810,213,201025,7,,Neige Dias,U,,BRA,20.6789869952,200476,,,Cammy Macgregor,U,,USA,18.8281998631,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,104,8,124,6
 1987-W-WT-USA-19A-1987,Los Angeles,Hard,56,W,19870810,214,200457,,,Andrea Holikova,U,,TCH,19.5674195756,200594,,,Iwona Kuczynska,U,,POL,26.4613278576,6-2 3-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,137,5,131,5
-1987-W-WT-USA-19A-1987,Los Angeles,Hard,56,W,19870810,215,201032,,,Cecilia Fernandez Parker,U,,USA,24.1177275838,200437,8,,Annabel Croft,U,,GBR,21.0787132101,6-3 4-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,158,3,109,7
+1987-W-WT-USA-19A-1987,Los Angeles,Hard,56,W,19870810,215,201032,,,Cecilia Fernandez Parker,U,,USA,24.1177275838,200437,8,,Annabel Croft,R,,GBR,21.0787132101,6-3 4-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,158,3,109,7
 1987-W-WT-USA-19A-1987,Los Angeles,Hard,56,W,19870810,216,201038,,,Karen Schimper,U,,RSA,20.2080766598,200436,,,Carina Karlsson,U,,SWE,23.9123887748,7-5 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,118,6,121,6
 1987-W-WT-USA-19A-1987,Los Angeles,Hard,56,W,19870810,217,200694,1,,Elly Hakami,U,,USA,17.9575633128,200474,,,Louise Allen,U,,USA,25.5879534565,6-1 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,65,13,147,4
 1987-W-WT-USA-19A-1987,Los Angeles,Hard,56,W,19870810,218,200421,,,Pascale Paradis Mangon,R,,FRA,21.2950034223,200497,2,,Patricia Hy Boulais,U,,CAN,21.9657768652,6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,112,7,80,10
 1987-W-WT-USA-19A-1987,Los Angeles,Hard,56,W,19870810,219,200492,,,Tina Mochizuki,R,,USA,34.7077344285,200462,,,Belinda Cordwell,U,,NZL,21.8836413415,3-6 6-4 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,110,7,138,5
-1987-W-WT-USA-19A-1987,Los Angeles,Hard,56,W,19870810,220,200407,4,,Camille Benjamin,U,,USA,21.1882272416,200439,,,Jenny Byrne,U,,AUS,20.4544832307,6-2 7-6,3,Q2,,,,,,,,,,,,,,,,,,,,84,10,127,6
+1987-W-WT-USA-19A-1987,Los Angeles,Hard,56,W,19870810,220,200407,4,,Camille Benjamin,L,175,USA,21.1882272416,200439,,,Jenny Byrne,U,,AUS,20.4544832307,6-2 7-6,3,Q2,,,,,,,,,,,,,,,,,,,,84,10,127,6
 1987-W-WT-USA-19A-1987,Los Angeles,Hard,56,W,19870810,221,200548,5,,Patty Fendick,U,,USA,22.3600273785,201027,,,Gabriela Dinu,U,,FRG,27.3155373032,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,86,10,149,4
 1987-W-WT-USA-19A-1987,Los Angeles,Hard,56,W,19870810,222,200370,,,Marie Christine Calleja,U,,FRA,23.5701574264,200506,,,Wiltrud Probst,R,,GER,18.1984941821,3-6 6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,132,5,125,6
 1987-W-WT-USA-19A-1987,Los Angeles,Hard,56,W,19870810,223,201025,,,Neige Dias,U,,BRA,20.6789869952,200457,,,Andrea Holikova,U,,TCH,19.5674195756,4-6 6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,104,8,137,5
@@ -3584,7 +3584,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-CAN-01A-1987,Toronto,Hard,56,W,19870817,210,200506,,,Wiltrud Probst,R,,GER,18.2176591376,201270,,,Jane Young,U,,CAN,22.212183436,7-5 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,121,6,,
 1987-W-WT-CAN-01A-1987,Toronto,Hard,56,W,19870817,211,200510,,,Julie Richardson,U,,NZL,20.3832991102,200673,6,,Susan Sloane Lundy,R,,USA,16.6981519507,7-6 2-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,155,3,108,7
 1987-W-WT-CAN-01A-1987,Toronto,Hard,56,W,19870817,212,200605,,,Regina Rajchrtova,U,,TCH,19.5290896646,200479,,,Emiko Okagawa,U,,JPN,22.6392881588,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,165,3,,
-1987-W-WT-CAN-01A-1987,Toronto,Hard,56,W,19870817,213,200437,7,,Annabel Croft,U,,GBR,21.0978781656,201174,,,Marianne Groat,U,,CAN,22.1984941821,6-3 6-7 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,111,7,,
+1987-W-WT-CAN-01A-1987,Toronto,Hard,56,W,19870817,213,200437,7,,Annabel Croft,R,,GBR,21.0978781656,201174,,,Marianne Groat,U,,CAN,22.1984941821,6-3 6-7 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,111,7,,
 1987-W-WT-CAN-01A-1987,Toronto,Hard,56,W,19870817,214,200705,,,Linda Ferrando,U,,ITA,21.5934291581,200471,,,Jamie Golder,U,,USA,25.568788501,6-3 1-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,159,3,168,3
 1987-W-WT-CAN-01A-1987,Toronto,Hard,56,W,19870817,215,200492,8,,Tina Mochizuki,R,,USA,34.726899384,200457,,,Andrea Holikova,U,,TCH,19.5865845311,6-1 6-7 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,115,6,128,5
 1987-W-WT-CAN-01A-1987,Toronto,Hard,56,W,19870817,216,200550,,,Emmanuelle Derly,U,,FRA,17.2977412731,200538,,,Akemi Nishiya,R,,JPN,22.4339493498,6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,140,5,211,1
@@ -3594,7 +3594,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-CAN-01A-1987,Toronto,Hard,56,W,19870817,220,200640,4,,Mercedes Paz,U,,ARG,21.1389459274,200988,,,Jenny Klitch,U,,USA,22.3271731691,6-1 3-6 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,100,8,153,3
 1987-W-WT-CAN-01A-1987,Toronto,Hard,56,W,19870817,221,201025,5,,Neige Dias,U,,BRA,20.6981519507,200506,,,Wiltrud Probst,R,,GER,18.2176591376,7-5 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,109,7,121,6
 1987-W-WT-CAN-01A-1987,Toronto,Hard,56,W,19870817,222,200605,,,Regina Rajchrtova,U,,TCH,19.5290896646,200510,,,Julie Richardson,U,,NZL,20.3832991102,7-6 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,165,3,155,3
-1987-W-WT-CAN-01A-1987,Toronto,Hard,56,W,19870817,223,200437,7,,Annabel Croft,U,,GBR,21.0978781656,200705,,,Linda Ferrando,U,,ITA,21.5934291581,2-6 6-4 3-1 RET,3,Q2,,,,,,,,,,,,,,,,,,,,111,7,159,3
+1987-W-WT-CAN-01A-1987,Toronto,Hard,56,W,19870817,223,200437,7,,Annabel Croft,R,,GBR,21.0978781656,200705,,,Linda Ferrando,U,,ITA,21.5934291581,2-6 6-4 3-1 RET,3,Q2,,,,,,,,,,,,,,,,,,,,111,7,159,3
 1987-W-WT-CAN-01A-1987,Toronto,Hard,56,W,19870817,224,200492,8,,Tina Mochizuki,R,,USA,34.726899384,200550,,,Emmanuelle Derly,U,,FRA,17.2977412731,6-3 0-6 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,115,6,140,5
 1987-1063,ITF Manhasset,Clay,,C,19870817,201,200567,1,,Jennifer Santrock,U,,USA,18.46954141,230245,,,Suzanne Lippe,U,,USA,,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,219,1,,
 1987-1063,ITF Manhasset,Clay,,C,19870817,202,201177,,,Amanda Grunfeld,U,,GBR,20.462696783,201755,,,Michelle Parun,U,,NZL,20.7885010267,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
@@ -3627,47 +3627,47 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,201,200370,,,Marie Christine Calleja,U,,FRA,23.6084873374,213024,,,Alissa Finerman,U,,USA,19.7070499658,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,130,5,,
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,202,201038,,,Karen Schimper,U,,RSA,20.2464065708,200640,,,Mercedes Paz,U,,ARG,21.158110883,6-0 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,118,6,100,8
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,203,201046,,,Silvia La Fratta,U,,ITA,19.8001368925,200988,,,Jenny Klitch,U,,USA,22.3463381246,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,154,3,153,3
-1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,204,200437,,,Annabel Croft,U,,GBR,21.1170431211,200470,,,Dee Ann Hansel,U,,USA,25.2019164956,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,111,7,156,3
+1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,204,200437,,,Annabel Croft,R,,GBR,21.1170431211,200470,,,Dee Ann Hansel,U,,USA,25.2019164956,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,111,7,156,3
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,205,200340,,,Marcella Mesker,U,,NED,28.2546201232,200500,,,Pilar Vasquez,U,,PER,24.2765229295,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,167,3,146,4
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,206,200550,,,Emmanuelle Derly,U,,FRA,17.3169062286,200403,,,Andrea Leand,U,,USA,23.5975359343,3-6 6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,140,5,,
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,207,200479,,,Emiko Okagawa,U,,JPN,22.6584531143,213096,,,Lisa Bobby,U,,USA,23.0554414784,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,208,200605,,,Regina Rajchrtova,U,,TCH,19.5482546201,200538,,,Akemi Nishiya,R,,JPN,22.4531143053,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,165,3,211,1
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,209,200448,,,Sandy Collins,U,,USA,28.8624229979,201176,,,Jane Forman,U,,USA,25.5879534565,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,192,2,163,3
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,210,200456,,,Masako Yanagi,U,,JPN,27.7837097878,200480,,,Claudia Porwik,U,,GER,18.7734428474,1-6 6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,148,4,97,8
-1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,211,200393,,,Lea Antonoplis,U,,USA,28.59137577,200343,,,Susan Leo,U,,AUS,25.0376454483,2-6 6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,174,2,143,4
+1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,211,200393,,,Lea Antonoplis,R,165,USA,28.59137577,200343,,,Susan Leo,U,,AUS,25.0376454483,2-6 6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,174,2,143,4
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,212,200439,,,Jenny Byrne,U,,AUS,20.4928131417,200962,,,Patricia Medrado,U,,BRA,30.7405886379,4-6 6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,139,5,152,3
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,213,200705,,,Linda Ferrando,U,,ITA,21.6125941136,201040,,,Luciana Corsato Owsianka,U,,BRA,21.5879534565,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,159,3,210,1
-1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,214,200425,,,Sophie Amiach,U,,FRA,23.7864476386,200541,,,Sherri Norris,U,,USA,23.5564681725,6-3 5-7 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,253,1
+1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,214,200425,,,Sophie Amiach,R,165,FRA,23.7864476386,200541,,,Sherri Norris,U,,USA,23.5564681725,6-3 5-7 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,253,1
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,215,200540,,,Amy Schwartz,U,,USA,17.9739904175,201759,,,Jan Blackstad,U,,USA,33.6673511294,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,181,2,,
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,216,200462,,,Belinda Cordwell,U,,NZL,21.9219712526,200594,,,Iwona Kuczynska,U,,POL,26.4996577687,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,133,5,127,5
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,217,200674,1,,Bettina Fulco Villella,R,,ARG,18.8336755647,200370,,,Marie Christine Calleja,U,,FRA,23.6084873374,7-5 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,54,15,130,5
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,218,201038,,,Karen Schimper,U,,RSA,20.2464065708,200398,,,Iva Budarova,U,,TCH,27.0636550308,6-0 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,118,6,114,6
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,219,201020,12,,Petra Huber,U,,AUT,21.5195071869,201046,,,Silvia La Fratta,U,,ITA,19.8001368925,6-1 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,91,9,154,3
-1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,220,200494,,,Dianne Van Rensburg,U,,RSA,19.4715947981,200437,,,Annabel Croft,U,,GBR,21.1170431211,6-4 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,76,10,111,7
+1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,220,200494,,,Dianne Van Rensburg,U,,RSA,19.4715947981,200437,,,Annabel Croft,R,,GBR,21.1170431211,6-4 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,76,10,111,7
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,221,200340,,,Marcella Mesker,U,,NED,28.2546201232,200543,,,Jill Hetherington,U,,CAN,22.8227241615,5-7 6-4 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,167,3,,
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,222,200550,,,Emmanuelle Derly,U,,FRA,17.3169062286,201015,10,,Grace Kim,U,,USA,19.3538672142,2-6 6-2 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,140,5,82,10
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,223,200495,11,,Akiko Kijimuta,U,,JPN,19.3127994524,200479,,,Emiko Okagawa,U,,JPN,22.6584531143,6-2 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,85,9,,
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,224,200605,,,Regina Rajchrtova,U,,TCH,19.5482546201,200427,6,,Beth Herr,U,,USA,23.2388774812,6-2 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,165,3,71,11
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,225,200621,3,,Isabelle Demongeot,U,,FRA,20.9308692676,200448,,,Sandy Collins,U,,USA,28.8624229979,6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,58,15,192,2
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,226,200456,,,Masako Yanagi,U,,JPN,27.7837097878,203796,,,Monica Reinach,U,,RSA,20.900752909,6-0 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,148,4,282,0
-1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,227,200393,,,Lea Antonoplis,U,,USA,28.59137577,200406,,,Claudia Monteiro,U,,BRA,26.2943189596,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,174,2,173,2
+1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,227,200393,,,Lea Antonoplis,R,165,USA,28.59137577,200406,,,Claudia Monteiro,U,,BRA,26.2943189596,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,174,2,173,2
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,228,200439,,,Jenny Byrne,U,,AUS,20.4928131417,201030,6,,Mariana Perez Roldan,U,,ARG,19.8795345654,3-6 6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,139,5,65,13
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,229,200705,,,Linda Ferrando,U,,ITA,21.6125941136,200443,4,,Sara Gomer,U,,GBR,23.279945243,2-6 6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,159,3,62,14
-1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,230,200421,,,Pascale Paradis Mangon,R,,FRA,21.3333333333,200425,,,Sophie Amiach,U,,FRA,23.7864476386,6-1 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,94,9,,
+1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,230,200421,,,Pascale Paradis Mangon,R,,FRA,21.3333333333,200425,,,Sophie Amiach,R,165,FRA,23.7864476386,6-1 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,94,9,,
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,231,200510,,,Julie Richardson,U,,NZL,20.4024640657,200540,,,Amy Schwartz,U,,USA,17.9739904175,7-6 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,155,3,181,2
-1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,232,200473,7,,Beverly Bowes Hackney,R,,USA,21.954825462,200462,,,Belinda Cordwell,U,,NZL,21.9219712526,3-6 7-6 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,68,12,133,5
+1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,232,200473,7,,Beverly Bowes,R,,USA,21.954825462,200462,,,Belinda Cordwell,U,,NZL,21.9219712526,3-6 7-6 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,68,12,133,5
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,233,201038,,,Karen Schimper,U,,RSA,20.2464065708,200674,1,,Bettina Fulco Villella,R,,ARG,18.8336755647,7-6 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,118,6,54,15
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,234,201020,12,,Petra Huber,U,,AUT,21.5195071869,200494,,,Dianne Van Rensburg,U,,RSA,19.4715947981,7-6 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,91,9,76,10
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,235,200340,,,Marcella Mesker,U,,NED,28.2546201232,200550,,,Emmanuelle Derly,U,,FRA,17.3169062286,6-4 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,167,3,140,5
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,236,200605,,,Regina Rajchrtova,U,,TCH,19.5482546201,200495,11,,Akiko Kijimuta,U,,JPN,19.3127994524,6-4 6-0,3,Q3,,,,,,,,,,,,,,,,,,,,165,3,85,9
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,237,200621,3,,Isabelle Demongeot,U,,FRA,20.9308692676,200456,,,Masako Yanagi,U,,JPN,27.7837097878,6-2 3-6 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,58,15,148,4
-1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,238,200439,,,Jenny Byrne,U,,AUS,20.4928131417,200393,,,Lea Antonoplis,U,,USA,28.59137577,6-2 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,139,5,174,2
+1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,238,200439,,,Jenny Byrne,U,,AUS,20.4928131417,200393,,,Lea Antonoplis,R,165,USA,28.59137577,6-2 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,139,5,174,2
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,239,200421,,,Pascale Paradis Mangon,R,,FRA,21.3333333333,200705,,,Linda Ferrando,U,,ITA,21.6125941136,6-2 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,94,9,159,3
-1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,240,200473,7,,Beverly Bowes Hackney,R,,USA,21.954825462,200510,,,Julie Richardson,U,,NZL,20.4024640657,6-0 6-0,3,Q3,,,,,,,,,,,,,,,,,,,,68,12,155,3
+1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,240,200473,7,,Beverly Bowes,R,,USA,21.954825462,200510,,,Julie Richardson,U,,NZL,20.4024640657,6-0 6-0,3,Q3,,,,,,,,,,,,,,,,,,,,68,12,155,3
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,241,201020,12,,Petra Huber,U,,AUT,21.5195071869,201038,,,Karen Schimper,U,,RSA,20.2464065708,6-1 4-6 6-4,3,Q4,,,,,,,,,,,,,,,,,,,,91,9,118,6
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,242,200605,,,Regina Rajchrtova,U,,TCH,19.5482546201,200340,,,Marcella Mesker,U,,NED,28.2546201232,6-4 3-6 7-5,3,Q4,,,,,,,,,,,,,,,,,,,,165,3,167,3
 1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,243,200621,3,,Isabelle Demongeot,U,,FRA,20.9308692676,200439,,,Jenny Byrne,U,,AUS,20.4928131417,6-1 6-3,3,Q4,,,,,,,,,,,,,,,,,,,,58,15,139,5
-1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,244,200421,,,Pascale Paradis Mangon,R,,FRA,21.3333333333,200473,7,,Beverly Bowes Hackney,R,,USA,21.954825462,6-3 4-6 6-1,3,Q4,,,,,,,,,,,,,,,,,,,,94,9,68,12
+1987-W-WT-USA-20A-1987,Mahwah,Hard,28,W,19870824,244,200421,,,Pascale Paradis Mangon,R,,FRA,21.3333333333,200473,7,,Beverly Bowes,R,,USA,21.954825462,6-3 4-6 6-1,3,Q4,,,,,,,,,,,,,,,,,,,,94,9,68,12
 1987-W-WT-JPN-03A-1987,Tokyo Pan Pacific,Carpet,28,W,19870914,201,200483,1,,Kumiko Okamoto,U,,JPN,22.5653661875,213064,,WC,Ryoko Yamaguchi,U,,JPN,17.4784394251,7-5 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,84,9,,
 1987-W-WT-JPN-03A-1987,Tokyo Pan Pacific,Carpet,28,W,19870914,202,203636,,,Kazuko Ito,U,,JPN,24.0657084189,202037,,,Linley Tanner,U,,USA,25.3716632444,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 1987-W-WT-JPN-03A-1987,Tokyo Pan Pacific,Carpet,28,W,19870914,203,200544,,,Celine Cohen,U,,SUI,20.5284052019,200513,,,Pamela Jung,U,,USA,24.1998631075,5-7 7-6 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,210,1,288,0
@@ -3706,7 +3706,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-USA-21A-1987,New Orleans,Carpet,32,W,19870928,208,200595,,WC,Ann Wunderlich,U,,USA,16.9582477755,202019,,,Kim Labuschagne,U,,RSA,20.0465434634,6-4 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,,,200,1
 1987-W-WT-USA-21A-1987,New Orleans,Carpet,32,W,19870928,209,231321,,,Anat Shachmon,U,,ISR,,233032,,,Michelle Cho Chu,U,,,,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 1987-W-WT-USA-21A-1987,New Orleans,Carpet,32,W,19870928,210,200988,6,,Jenny Klitch,U,,USA,22.4421629021,233033,,,Tonda Stovall,U,,USA,,6-0 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,152,3,,
-1987-W-WT-USA-21A-1987,New Orleans,Carpet,32,W,19870928,211,200549,4,,Penny Barg Mager,R,,USA,23.4633812457,201901,,,Cheryl Jones,U,,USA,23.4031485284,2-6 6-0 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,127,5,250,1
+1987-W-WT-USA-21A-1987,New Orleans,Carpet,32,W,19870928,211,200549,4,,Penny Barg,R,,USA,23.4633812457,201901,,,Cheryl Jones,U,,USA,23.4031485284,2-6 6-0 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,127,5,250,1
 1987-W-WT-USA-21A-1987,New Orleans,Carpet,32,W,19870928,212,200537,,,Cynthia Macgregor,U,,USA,23.5071868583,200556,,,Wendy Wood,U,,USA,23.4387405886,4-6 6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,263,1,254,1
 1987-W-WT-USA-21A-1987,New Orleans,Carpet,32,W,19870928,213,200534,,,Melissa Brown,U,,USA,19.4633812457,233034,,,Debbie Jackson,U,,USA,,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,176,2,,
 1987-W-WT-USA-21A-1987,New Orleans,Carpet,32,W,19870928,214,200474,5,,Louise Allen,U,,USA,25.7221081451,232494,,,Leticia Herrera,U,,MEX,,6-0 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,146,4,,
@@ -3716,12 +3716,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-USA-21A-1987,New Orleans,Carpet,32,W,19870928,218,200396,,,Kim Steinmetz,U,,USA,29.7659137577,201176,,,Jane Forman,U,,USA,25.6837782341,2-6 6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,220,1,165,3
 1987-W-WT-USA-21A-1987,New Orleans,Carpet,32,W,19870928,219,200378,3,,Anne Smith,R,,USA,28.2436687201,200595,,WC,Ann Wunderlich,U,,USA,16.9582477755,6-3 7-6,3,Q2,,,,,,,,,,,,,,,,,,,,119,6,,
 1987-W-WT-USA-21A-1987,New Orleans,Carpet,32,W,19870928,220,200988,6,,Jenny Klitch,U,,USA,22.4421629021,231321,,,Anat Shachmon,U,,ISR,,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,152,3,,
-1987-W-WT-USA-21A-1987,New Orleans,Carpet,32,W,19870928,221,200549,4,,Penny Barg Mager,R,,USA,23.4633812457,200537,,,Cynthia Macgregor,U,,USA,23.5071868583,7-6 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,127,5,263,1
+1987-W-WT-USA-21A-1987,New Orleans,Carpet,32,W,19870928,221,200549,4,,Penny Barg,R,,USA,23.4633812457,200537,,,Cynthia Macgregor,U,,USA,23.5071868583,7-6 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,127,5,263,1
 1987-W-WT-USA-21A-1987,New Orleans,Carpet,32,W,19870928,222,200474,5,,Louise Allen,U,,USA,25.7221081451,200534,,,Melissa Brown,U,,USA,19.4633812457,6-2 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,146,4,176,2
 1987-W-WT-USA-21A-1987,New Orleans,Carpet,32,W,19870928,223,200470,8,,Dee Ann Hansel,U,,USA,25.2977412731,200492,1,,Tina Mochizuki,R,,USA,34.841889117,6-4 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,158,3,120,6
 1987-W-WT-USA-21A-1987,New Orleans,Carpet,32,W,19870928,224,200552,2,,Maria Lindstrom,U,,SWE,24.5612594114,200396,,,Kim Steinmetz,U,,USA,29.7659137577,6-4 7-6,3,Q3,,,,,,,,,,,,,,,,,,,,117,6,220,1
 1987-W-WT-USA-21A-1987,New Orleans,Carpet,32,W,19870928,225,200378,3,,Anne Smith,R,,USA,28.2436687201,200988,6,,Jenny Klitch,U,,USA,22.4421629021,6-1 6-0,3,Q3,,,,,,,,,,,,,,,,,,,,119,6,152,3
-1987-W-WT-USA-21A-1987,New Orleans,Carpet,32,W,19870928,226,200474,5,,Louise Allen,U,,USA,25.7221081451,200549,4,,Penny Barg Mager,R,,USA,23.4633812457,6-4 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,146,4,127,5
+1987-W-WT-USA-21A-1987,New Orleans,Carpet,32,W,19870928,226,200474,5,,Louise Allen,U,,USA,25.7221081451,200549,4,,Penny Barg,R,,USA,23.4633812457,6-4 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,146,4,127,5
 1987-W-WT-FRA-02A-1987,Paris,Clay,32,W,19870928,201,201038,1,,Karen Schimper,U,,RSA,20.3422313484,201026,,WC,Cecille Calmette,U,,FRA,19.2388774812,4-6 6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,112,6,,
 1987-W-WT-FRA-02A-1987,Paris,Clay,32,W,19870928,202,201832,,,Gabriela Mosca,U,,ARG,18.1273100616,200616,,,Pascale Etchemendy,U,,FRA,21.311430527,4-6 6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,225,1,206,1
 1987-W-WT-FRA-02A-1987,Paris,Clay,32,W,19870928,203,200475,,,Lisa Oneill,U,,AUS,19.1375770021,233035,,, Franklin,U,,,,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,189,2,,
@@ -3927,20 +3927,20 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-USA-22A-1987,Indianapolis,Hard,56,W,19871025,204,200543,5,,Jill Hetherington,U,,CAN,22.9924709103,233062,,,Laura Moss,U,,USA,,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,241,1,,
 1987-W-WT-USA-22A-1987,Indianapolis,Hard,56,W,19871025,205,200566,1,,Donna Faber,U,,USA,16.3066392882,229492,,,Valerie Block,U,,USA,,W/O,3,Q2,,,,,,,,,,,,,,,,,,,,268,0,,
 1987-W-WT-USA-22A-1987,Indianapolis,Hard,56,W,19871025,206,201926,,,Stephanie Reece,U,,USA,17.5030800821,204019,,,Rebecca Jensen,U,,USA,14.9295003422,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
-1987-W-WT-USA-22A-1987,Indianapolis,Hard,56,W,19871025,207,200557,2,,Katrina Adams,U,,USA,19.2197125257,233057,,,Shannon Poskoh,U,,USA,,6-1 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,224,1,,
+1987-W-WT-USA-22A-1987,Indianapolis,Hard,56,W,19871025,207,200557,2,,Katrina Adams,R,165,USA,19.2197125257,233057,,,Shannon Poskoh,U,,USA,,6-1 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,224,1,,
 1987-W-WT-USA-22A-1987,Indianapolis,Hard,56,W,19871025,208,233058,,,Linda Steele,U,,USA,,233059,,,Ann Bradshaw,U,,USA,,6-3 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 1987-W-WT-USA-22A-1987,Indianapolis,Hard,56,W,19871025,209,202034,3,,Jane Thomas,U,,USA,21.5879534565,232588,,,Andrea Calvert,U,,USA,,6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,309,0,,
 1987-W-WT-USA-22A-1987,Indianapolis,Hard,56,W,19871025,210,200057,,,Erika De Lone,R,,USA,15.0280629706,232023,,,Allison Turner,U,,AUS,,6-4 5-7 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 1987-W-WT-USA-22A-1987,Indianapolis,Hard,56,W,19871025,211,201759,4,,Jan Blackstad,U,,USA,33.8370978782,231977,,,Mary Dinneen,U,,USA,,W/O,3,Q2,,,,,,,,,,,,,,,,,,,,354,0,,
 1987-W-WT-USA-22A-1987,Indianapolis,Hard,56,W,19871025,212,200543,5,,Jill Hetherington,U,,CAN,22.9924709103,204019,,,Rebecca Jensen,U,,USA,14.9295003422,6-0 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,241,1,,
 1987-W-WT-USA-22A-1987,Indianapolis,Hard,56,W,19871025,213,200566,1,,Donna Faber,U,,USA,16.3066392882,201926,,,Stephanie Reece,U,,USA,17.5030800821,4-6 6-0 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,268,0,,
-1987-W-WT-USA-22A-1987,Indianapolis,Hard,56,W,19871025,214,200557,2,,Katrina Adams,U,,USA,19.2197125257,233058,,,Linda Steele,U,,USA,,6-2 6-0,3,Q3,,,,,,,,,,,,,,,,,,,,224,1,,
+1987-W-WT-USA-22A-1987,Indianapolis,Hard,56,W,19871025,214,200557,2,,Katrina Adams,R,165,USA,19.2197125257,233058,,,Linda Steele,U,,USA,,6-2 6-0,3,Q3,,,,,,,,,,,,,,,,,,,,224,1,,
 1987-W-WT-USA-22A-1987,Indianapolis,Hard,56,W,19871025,215,202034,3,,Jane Thomas,U,,USA,21.5879534565,200057,,,Erika De Lone,R,,USA,15.0280629706,6-3 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,309,0,,
 1987-W-WT-USA-22A-1987,Indianapolis,Hard,56,W,19871025,216,200543,5,,Jill Hetherington,U,,CAN,22.9924709103,201759,4,,Jan Blackstad,U,,USA,33.8370978782,6-4 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,241,1,354,0
-1987-W-WT-USA-23A-1987,Little Rock,Hard,32,W,19871102,201,200583,,,Laxmi Poruri,U,,USA,14.9787816564,200393,,,Lea Antonoplis,U,,USA,28.7830253251,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,167,3
+1987-W-WT-USA-23A-1987,Little Rock,Hard,32,W,19871102,201,200583,,,Laxmi Poruri,U,,USA,14.9787816564,200393,,,Lea Antonoplis,R,165,USA,28.7830253251,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,167,3
 1987-W-WT-USA-23A-1987,Little Rock,Hard,32,W,19871102,202,202214,,,Holly Ann Lloyd,U,,USA,16.8733744011,200566,,,Donna Faber,U,,USA,16.3285420945,6-2 5-7 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,257,1,268,0
 1987-W-WT-USA-23A-1987,Little Rock,Hard,32,W,19871102,203,201031,7,,Niurka Sodupe,U,,USA,18.5379876797,232473,,,Gail Gibson,U,,USA,,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,155,3,,
-1987-W-WT-USA-23A-1987,Little Rock,Hard,32,W,19871102,204,200557,,,Katrina Adams,U,,USA,19.241615332,203626,,,Jaime Kaplan,U,,USA,26.0862422998,0-6 6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,224,1,349,0
+1987-W-WT-USA-23A-1987,Little Rock,Hard,32,W,19871102,204,200557,,,Katrina Adams,R,165,USA,19.241615332,203626,,,Jaime Kaplan,U,,USA,26.0862422998,0-6 6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,224,1,349,0
 1987-W-WT-USA-23A-1987,Little Rock,Hard,32,W,19871102,205,200526,,,Carol Christian,U,,USA,25.0650239562,200588,,,Renata Baranski,U,,POL,22.6858316222,6-3 7-6,3,Q1,,,,,,,,,,,,,,,,,,,,220,1,215,1
 1987-W-WT-USA-23A-1987,Little Rock,Hard,32,W,19871102,206,200521,6,,Hellas Ter Riet,U,,NED,19.3648186174,201732,,,Noelle Porter,U,,USA,16.8733744011,7-5 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,150,4,219,1
 1987-W-WT-USA-23A-1987,Little Rock,Hard,32,W,19871102,207,200537,,,Cynthia Macgregor,U,,USA,23.6030116359,233063,,,Paula Juels,U,,USA,,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,222,1,,
@@ -3951,19 +3951,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-USA-23A-1987,Little Rock,Hard,32,W,19871102,212,203614,,,Robyn Lamb,U,,AUS,23.8357289528,200474,5,,Louise Allen,U,,USA,25.8179329227,W/O,3,Q1,,,,,,,,,,,,,,,,,,,,,,149,4
 1987-W-WT-USA-23A-1987,Little Rock,Hard,32,W,19871102,213,200476,1,,Cammy Macgregor,U,,USA,19.0581793292,200583,,,Laxmi Poruri,U,,USA,14.9787816564,7-5 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,134,5,,
 1987-W-WT-USA-23A-1987,Little Rock,Hard,32,W,19871102,214,201031,,,Niurka Sodupe,U,,USA,18.5379876797,202214,,,Holly Ann Lloyd,U,,USA,16.8733744011,6-2 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,155,3,257,1
-1987-W-WT-USA-23A-1987,Little Rock,Hard,32,W,19871102,215,200557,,,Katrina Adams,U,,USA,19.241615332,200439,2,,Jenny Byrne,U,,AUS,20.6844626968,W/O,3,Q2,,,,,,,,,,,,,,,,,,,,224,1,139,5
+1987-W-WT-USA-23A-1987,Little Rock,Hard,32,W,19871102,215,200557,,,Katrina Adams,R,165,USA,19.241615332,200439,2,,Jenny Byrne,U,,AUS,20.6844626968,W/O,3,Q2,,,,,,,,,,,,,,,,,,,,224,1,139,5
 1987-W-WT-USA-23A-1987,Little Rock,Hard,32,W,19871102,216,200521,6,,Hellas Ter Riet,U,,NED,19.3648186174,200526,,,Carol Christian,U,,USA,25.0650239562,7-6 4-6 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,150,4,220,1
 1987-W-WT-USA-23A-1987,Little Rock,Hard,32,W,19871102,217,200476,,,Cammy Macgregor,U,,USA,19.0581793292,200498,3,,Michelle Jaggard Lai,U,,AUS,18.4914442163,W/O,3,Q2,,,,,,,,,,,,,,,,,,,,134,5,146,4
 1987-W-WT-USA-23A-1987,Little Rock,Hard,32,W,19871102,218,200595,,,Ann Wunderlich,U,,USA,17.054072553,200399,8,,Jennifer Mundel,U,,RSA,25.7823408624,6-1 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,,,166,3
 1987-W-WT-USA-23A-1987,Little Rock,Hard,32,W,19871102,219,200543,,,Jill Hetherington,U,,CAN,23.0143737166,200500,4,,Pilar Vasquez,U,,PER,24.4681724846,6-2 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,241,1,148,4
 1987-W-WT-USA-23A-1987,Little Rock,Hard,32,W,19871102,220,200515,,,Lindsay Bartlett,U,,USA,25.2566735113,203614,,,Robyn Lamb,U,,AUS,23.8357289528,6-1 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,249,1,,
 1987-W-WT-USA-23A-1987,Little Rock,Hard,32,W,19871102,221,200476,1,,Cammy Macgregor,U,,USA,19.0581793292,201031,,,Niurka Sodupe,U,,USA,18.5379876797,6-4 3-6 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,134,5,155,3
-1987-W-WT-USA-23A-1987,Little Rock,Hard,32,W,19871102,222,200521,6,,Hellas Ter Riet,U,,NED,19.3648186174,200557,,,Katrina Adams,U,,USA,19.241615332,6-3 3-6 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,150,4,224,1
+1987-W-WT-USA-23A-1987,Little Rock,Hard,32,W,19871102,222,200521,6,,Hellas Ter Riet,U,,NED,19.3648186174,200557,,,Katrina Adams,R,165,USA,19.241615332,6-3 3-6 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,150,4,224,1
 1987-W-WT-USA-23A-1987,Little Rock,Hard,32,W,19871102,223,200476,,,Cammy Macgregor,U,,USA,19.0581793292,200595,,,Ann Wunderlich,U,,USA,17.054072553,7-5 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,134,5,,
 1987-W-WT-USA-23A-1987,Little Rock,Hard,32,W,19871102,224,200543,,,Jill Hetherington,U,,CAN,23.0143737166,200515,,,Lindsay Bartlett,U,,USA,25.2566735113,2-6 6-3 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,241,1,249,1
-1987-W-WT-USA-25A-1987,Chicago,Carpet,32,W,19871109,201,200041,,,Amy Frazier,R,,USA,15.1375770021,200393,,,Lea Antonoplis,U,,USA,28.8021902806,W/O,3,Q1,,,,,,,,,,,,,,,,,,,,202,1,162,3
+1987-W-WT-USA-25A-1987,Chicago,Carpet,32,W,19871109,201,200041,,,Amy Frazier,R,,USA,15.1375770021,200393,,,Lea Antonoplis,R,165,USA,28.8021902806,W/O,3,Q1,,,,,,,,,,,,,,,,,,,,202,1,162,3
 1987-W-WT-USA-25A-1987,Chicago,Carpet,32,W,19871109,202,202214,,,Holly Ann Lloyd,U,,USA,16.8925393566,200514,,,Monique Javer,R,,GBR,20.3011635866,6-2 3-6 7-6,3,Q1,,,,,,,,,,,,,,,,,,,,252,1,158,3
-1987-W-WT-USA-25A-1987,Chicago,Carpet,32,W,19871109,203,200533,6,,Pam Casale Telford,R,,USA,23.8877481177,203626,,,Jaime Kaplan,U,,USA,26.1054072553,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,117,7,342,0
+1987-W-WT-USA-25A-1987,Chicago,Carpet,32,W,19871109,203,200533,6,,Pam Casale,R,,USA,23.8877481177,203626,,,Jaime Kaplan,U,,USA,26.1054072553,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,117,7,342,0
 1987-W-WT-USA-25A-1987,Chicago,Carpet,32,W,19871109,204,200543,,,Jill Hetherington,U,,CAN,23.0335386721,200095,,,Linda Wild,R,,USA,16.7419575633,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,208,1,,
 1987-W-WT-USA-25A-1987,Chicago,Carpet,32,W,19871109,205,200601,7,,Leila Meskhi,U,,GEO,19.8439425051,202169,,,Christine Neuman,U,,USA,15.3210130048,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,66,12,,
 1987-W-WT-USA-25A-1987,Chicago,Carpet,32,W,19871109,206,200415,8,,Catherine Suire,U,,FRA,28.1505817933,202102,,,Kaoru Shibata,U,,JPN,14.3737166324,7-5 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,139,5,,
@@ -3973,14 +3973,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1987-W-WT-USA-25A-1987,Chicago,Carpet,32,W,19871109,210,200526,,,Carol Christian,U,,USA,25.0841889117,200534,,,Melissa Brown,U,,USA,19.5783709788,6-1 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,210,1,174,2
 1987-W-WT-USA-25A-1987,Chicago,Carpet,32,W,19871109,211,200537,,,Cynthia Macgregor,U,,USA,23.6221765914,204713,,,Mindy Weiner,U,,USA,15.6331279945,7-5 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,187,2,,
 1987-W-WT-USA-25A-1987,Chicago,Carpet,32,W,19871109,212,200594,1,,Iwona Kuczynska,U,,POL,26.7104722793,200041,,,Amy Frazier,R,,USA,15.1375770021,6-7 6-2 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,81,10,202,1
-1987-W-WT-USA-25A-1987,Chicago,Carpet,32,W,19871109,213,200533,6,,Pam Casale Telford,R,,USA,23.8877481177,202214,,,Holly Ann Lloyd,U,,USA,16.8925393566,5-7 6-2 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,117,7,252,1
+1987-W-WT-USA-25A-1987,Chicago,Carpet,32,W,19871109,213,200533,6,,Pam Casale,R,,USA,23.8877481177,202214,,,Holly Ann Lloyd,U,,USA,16.8925393566,5-7 6-2 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,117,7,252,1
 1987-W-WT-USA-25A-1987,Chicago,Carpet,32,W,19871109,214,200457,4,,Andrea Holikova,U,,TCH,19.8165639973,200500,,,Pilar Vasquez,U,,PER,24.4873374401,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,124,6,151,4
 1987-W-WT-USA-25A-1987,Chicago,Carpet,32,W,19871109,215,200601,7,,Leila Meskhi,U,,GEO,19.8439425051,200543,,,Jill Hetherington,U,,CAN,23.0335386721,6-1 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,66,12,208,1
 1987-W-WT-USA-25A-1987,Chicago,Carpet,32,W,19871109,216,200415,8,,Catherine Suire,U,,FRA,28.1505817933,200399,,,Jennifer Mundel,U,,RSA,25.8015058179,6-3 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,139,5,161,3
 1987-W-WT-USA-25A-1987,Chicago,Carpet,32,W,19871109,217,201045,3,,Natalia Egorova,U,,RUS,21.1553730322,213122,,,Julie McKeon,U,,USA,16.4188911704,6-2 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,89,8,,
 1987-W-WT-USA-25A-1987,Chicago,Carpet,32,W,19871109,218,200526,,,Carol Christian,U,,USA,25.0841889117,200445,5,,Svetlana Cherneva,U,,RUS,25.0869267625,6-4 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,210,1,103,7
 1987-W-WT-USA-25A-1987,Chicago,Carpet,32,W,19871109,219,200589,2,,Halle Cioffi,U,,USA,18.2614647502,200537,,,Cynthia Macgregor,U,,USA,23.6221765914,2-6 7-6 7-6,3,Q2,,,,,,,,,,,,,,,,,,,,55,15,187,2
-1987-W-WT-USA-25A-1987,Chicago,Carpet,32,W,19871109,220,200594,1,,Iwona Kuczynska,U,,POL,26.7104722793,200533,6,,Pam Casale Telford,R,,USA,23.8877481177,6-3 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,81,10,117,7
+1987-W-WT-USA-25A-1987,Chicago,Carpet,32,W,19871109,220,200594,1,,Iwona Kuczynska,U,,POL,26.7104722793,200533,6,,Pam Casale,R,,USA,23.8877481177,6-3 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,81,10,117,7
 1987-W-WT-USA-25A-1987,Chicago,Carpet,32,W,19871109,221,200601,7,,Leila Meskhi,U,,GEO,19.8439425051,200457,4,,Andrea Holikova,U,,TCH,19.8165639973,6-0 7-5,3,Q3,,,,,,,,,,,,,,,,,,,,66,12,124,6
 1987-W-WT-USA-25A-1987,Chicago,Carpet,32,W,19871109,222,201045,3,,Natalia Egorova,U,,RUS,21.1553730322,200415,8,,Catherine Suire,U,,FRA,28.1505817933,6-2 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,89,8,139,5
 1987-W-WT-USA-25A-1987,Chicago,Carpet,32,W,19871109,223,200589,2,,Halle Cioffi,U,,USA,18.2614647502,200526,,,Carol Christian,U,,USA,25.0841889117,6-2 7-6,3,Q3,,,,,,,,,,,,,,,,,,,,55,15,210,1
