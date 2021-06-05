@@ -99,7 +99,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-CRO-01A-2021,W60 Zagreb,Clay,32,60,20210426,106,202659,,Q,Tereza Mrdeza,R,,CRO,30.4476386037,214653,,Q,Andreea Prisacariu,U,,ROU,21.2101300479,2-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,238,290,536,75
 2021-W-ITF-CRO-01A-2021,W60 Zagreb,Clay,32,60,20210426,107,213544,,WC,Jana Fett,R,,CRO,24.4791238877,214521,,WC,Lea Boskovic,U,,CRO,21.5934291581,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,202,351,300,216
 2021-W-ITF-CRO-01A-2021,W60 Zagreb,Clay,32,60,20210426,108,202436,,Q,Reka Luca Jani,R,,HUN,29.7385352498,211260,,LL,Marie Benoit,L,,BEL,26.1136208077,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,223,313,230,302
-2021-W-ITF-CRO-01A-2021,W60 Zagreb,Clay,32,60,20210426,109,238075,,WC,Petra Marcinko,U,,HRV,,201597,6,,Kurumi Nara,R,,JPN,29.3223819302,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,153,514
+2021-W-ITF-CRO-01A-2021,W60 Zagreb,Clay,32,60,20210426,109,238075,,WC,Petra Marcinko,U,,CRO,15.3921971253,201597,6,,Kurumi Nara,R,,JPN,29.3223819302,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,153,514
 2021-W-ITF-CRO-01A-2021,W60 Zagreb,Clay,32,60,20210426,110,215898,,Q,Jule Niemeier,U,,GER,21.7056810404,203435,,Q,Dalila Jakupovic,R,,SLO,30.0917180014,6-4 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,263,256,296,219
 2021-W-ITF-CRO-01A-2021,W60 Zagreb,Clay,32,60,20210426,111,211843,,,Anhelina Kalinina,R,,UKR,24.2135523614,213734,,,Mariam Bolkvadze,L,,GEO,23.3155373032,6-3 6-7(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,165,462,214,328
 2021-W-ITF-CRO-01A-2021,W60 Zagreb,Clay,32,60,20210426,112,220348,,JE,Diane Parry,R,,FRA,18.6502395619,203514,3,,Katarzyna Kawa,R,,POL,28.4380561259,6-4 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,308,198,134,610
@@ -111,7 +111,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-CRO-01A-2021,W60 Zagreb,Clay,32,60,20210426,202,201568,5,,Kristina Kucova,R,,SVK,30.9267624914,214181,,,Anastasia Gasanova,U,,RUS,21.9493497604,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,151,523,173,418
 2021-W-ITF-CRO-01A-2021,W60 Zagreb,Clay,32,60,20210426,203,215872,4,,Kamilla Rakhimova,U,,RUS,19.6605065024,202659,,Q,Tereza Mrdeza,R,,CRO,30.4476386037,6-4 2-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,139,582,238,290
 2021-W-ITF-CRO-01A-2021,W60 Zagreb,Clay,32,60,20210426,204,213544,,WC,Jana Fett,R,,CRO,24.4791238877,202436,,Q,Reka Luca Jani,R,,HUN,29.7385352498,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,202,351,223,313
-2021-W-ITF-CRO-01A-2021,W60 Zagreb,Clay,32,60,20210426,205,215898,,Q,Jule Niemeier,U,,GER,21.7056810404,238075,,WC,Petra Marcinko,U,,HRV,,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,263,256,,
+2021-W-ITF-CRO-01A-2021,W60 Zagreb,Clay,32,60,20210426,205,215898,,Q,Jule Niemeier,U,,GER,21.7056810404,238075,,WC,Petra Marcinko,U,,CRO,15.3921971253,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,263,256,,
 2021-W-ITF-CRO-01A-2021,W60 Zagreb,Clay,32,60,20210426,206,211843,,,Anhelina Kalinina,R,,UKR,24.2135523614,220348,,JE,Diane Parry,R,,FRA,18.6502395619,6-7(0) 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,165,462,308,198
 2021-W-ITF-CRO-01A-2021,W60 Zagreb,Clay,32,60,20210426,207,202482,7,,Barbara Haas,R,,AUT,25.1033538672,223087,,Q,Tara Wurth ,U,,CRO,18.5708418891,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,156,508,766,33
 2021-W-ITF-CRO-01A-2021,W60 Zagreb,Clay,32,60,20210426,208,213620,,Q,Jessica Pieri,U,,ITA,24.0054757016,211817,,,Elena Gabriela Ruse,U,,ROU,23.4688569473,4-6 7-6(5) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,287,230,175,417
@@ -127,7 +127,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-CRO-02A-2021,W15 Sibenik,Clay,32,15,20210517,103,222045,,WC,Antonia Ruzic,R,,CRO,18.3216974675,214460,,,Manca Pislak,L,,SLO,23.6851471595,6-7(5) 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,832,27,632,54
 2021-W-ITF-CRO-02A-2021,W15 Sibenik,Clay,32,15,20210517,104,220716,,Q,Oleksandra Oliynykova,R,,CRO,20.3668720055,205723,5,,Anna Zaja,R,,GER,29.8945927447,4-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,652,51,449,101
 2021-W-ITF-CRO-02A-2021,W15 Sibenik,Clay,32,15,20210517,105,206075,3,,Hiroko Kuwata,R,,JPN,30.4120465435,214299,,,Lucie Wargnier,U,,FRA,22.2532511978,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,422,112,637,53
-2021-W-ITF-CRO-02A-2021,W15 Sibenik,Clay,32,15,20210517,106,238075,,,Petra Marcinko,U,,HRV,,201505,,,Ekaterina Makarova,L,178,RUS,32.9418206708,6-3 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2021-W-ITF-CRO-02A-2021,W15 Sibenik,Clay,32,15,20210517,106,238075,,,Petra Marcinko,U,,CRO,15.4496919918,201505,,,Ekaterina Makarova,L,178,RUS,32.9418206708,6-3 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-CRO-02A-2021,W15 Sibenik,Clay,32,15,20210517,107,221307,,Q,Darja Vidmanova,R,,CZE,18.3518138261,221746,,,Oceane Babel,U,,FRA,17.2210814511,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,846,25,1108,11
 2021-W-ITF-CRO-02A-2021,W15 Sibenik,Clay,32,15,20210517,108,214301,8,,Tatiana Pieri,U,,ITA,22.135523614,215002,,Q,Anna Gabric,R,,GER,22.9787816564,6-4 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,506,84,975,18
 2021-W-ITF-CRO-02A-2021,W15 Sibenik,Clay,32,15,20210517,109,206248,,,Iva Primorac,U,,CRO,25.1006160164,221178,7,,Darya Astakhova,R,,RUS,19.3045859001,6-1 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,617,56,501,85
@@ -139,14 +139,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-CRO-02A-2021,W15 Sibenik,Clay,32,15,20210517,115,223436,,Q,Xenia Lipiec,U,,POL,,238076,,WC,Ana Prso,U,,AUS,,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-CRO-02A-2021,W15 Sibenik,Clay,32,15,20210517,201,215520,1,,Johana Markova,U,,CZE,22.006844627,220701,,Q,Dorka Drahota Szabo,R,,HUN,19.2908966461,1-6 6-2 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,404,118,677,46
 2021-W-ITF-CRO-02A-2021,W15 Sibenik,Clay,32,15,20210517,202,220716,,Q,Oleksandra Oliynykova,R,,CRO,20.3668720055,222045,,WC,Antonia Ruzic,R,,CRO,18.3216974675,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,652,51,832,27
-2021-W-ITF-CRO-02A-2021,W15 Sibenik,Clay,32,15,20210517,203,238075,,,Petra Marcinko,U,,HRV,,206075,3,,Hiroko Kuwata,R,,JPN,30.4120465435,6-1 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,422,112
+2021-W-ITF-CRO-02A-2021,W15 Sibenik,Clay,32,15,20210517,203,238075,,,Petra Marcinko,U,,CRO,15.4496919918,206075,3,,Hiroko Kuwata,R,,JPN,30.4120465435,6-1 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,422,112
 2021-W-ITF-CRO-02A-2021,W15 Sibenik,Clay,32,15,20210517,204,221307,,Q,Darja Vidmanova,R,,CZE,18.3518138261,214301,8,,Tatiana Pieri,U,,ITA,22.135523614,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,846,25,506,84
 2021-W-ITF-CRO-02A-2021,W15 Sibenik,Clay,32,15,20210517,205,206248,,,Iva Primorac,U,,CRO,25.1006160164,215131,,,Nefisa Berberovic,U,,BIH,21.8726899384,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,617,56,548,71
 2021-W-ITF-CRO-02A-2021,W15 Sibenik,Clay,32,15,20210517,206,211296,4,,Dea Herdzelas,R,,BIH,24.5229295003,222259,,,Natalia Szabanin,L,,HUN,17.5989048597,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,429,109,,
 2021-W-ITF-CRO-02A-2021,W15 Sibenik,Clay,32,15,20210517,207,220715,,Q,Federica Rossi,U,,ITA,19.9425051335,215566,6,,Gergana Topalova,U,,BUL,21.2320328542,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,878,23,468,93
 2021-W-ITF-CRO-02A-2021,W15 Sibenik,Clay,32,15,20210517,208,206417,,Q,Leolia Jeanjean,R,,FRA,25.7577002053,223436,,Q,Xenia Lipiec,U,,POL,,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,841,26,,
 2021-W-ITF-CRO-02A-2021,W15 Sibenik,Clay,32,15,20210517,301,215520,1,,Johana Markova,U,,CZE,22.006844627,220716,,Q,Oleksandra Oliynykova,R,,CRO,20.3668720055,6-2 4-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,404,118,652,51
-2021-W-ITF-CRO-02A-2021,W15 Sibenik,Clay,32,15,20210517,302,221307,,Q,Darja Vidmanova,R,,CZE,18.3518138261,238075,,,Petra Marcinko,U,,HRV,,4-6 6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,846,25,,
+2021-W-ITF-CRO-02A-2021,W15 Sibenik,Clay,32,15,20210517,302,221307,,Q,Darja Vidmanova,R,,CZE,18.3518138261,238075,,,Petra Marcinko,U,,CRO,15.4496919918,4-6 6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,846,25,,
 2021-W-ITF-CRO-02A-2021,W15 Sibenik,Clay,32,15,20210517,303,211296,4,,Dea Herdzelas,R,,BIH,24.5229295003,206248,,,Iva Primorac,U,,CRO,25.1006160164,7-5 6-0,3,QF,,,,,,,,,,,,,,,,,,,,429,109,617,56
 2021-W-ITF-CRO-02A-2021,W15 Sibenik,Clay,32,15,20210517,304,206417,,Q,Leolia Jeanjean,R,,FRA,25.7577002053,220715,,Q,Federica Rossi,U,,ITA,19.9425051335,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,841,26,878,23
 2021-W-ITF-CRO-02A-2021,W15 Sibenik,Clay,32,15,20210517,401,221307,,Q,Darja Vidmanova,R,,CZE,18.3518138261,215520,1,,Johana Markova,U,,CZE,22.006844627,6-4 3-6 6-1,3,SF,,,,,,,,,,,,,,,,,,,,846,25,404,118
@@ -154,7 +154,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-CRO-02A-2021,W15 Sibenik,Clay,32,15,20210517,501,211296,4,,Dea Herdzelas,R,,BIH,24.5229295003,221307,,Q,Darja Vidmanova,R,,CZE,18.3518138261,6-2 3-6 6-4,3,F,,,,,,,,,,,,,,,,,,,,429,109,846,25
 2021-W-ITF-CRO-03A-2021,W15 Sibenik (MOVED from Tucepi),Clay,32,15,20210524,101,211967,1,,Nina Potocnik,R,,SLO,24.3613963039,221153,,Q,Sophie Luescher,U,,SUI,18.7159479808,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,402,118,,
 2021-W-ITF-CRO-03A-2021,W15 Sibenik (MOVED from Tucepi),Clay,32,15,20210524,102,221257,,,Sinja Kraus,U,,AUT,19.0691307324,220431,,WC,Noa Krznaric,L,,CRO,18.0971937029,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,666,48,,
-2021-W-ITF-CRO-03A-2021,W15 Sibenik (MOVED from Tucepi),Clay,32,15,20210524,103,238075,,,Petra Marcinko,U,,HRV,,221468,,Q,Lucie Nguyen Tan,U,,FRA,17.9849418207,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,995,16
+2021-W-ITF-CRO-03A-2021,W15 Sibenik (MOVED from Tucepi),Clay,32,15,20210524,103,238075,,,Petra Marcinko,U,,CRO,15.4688569473,221468,,Q,Lucie Nguyen Tan,U,,FRA,17.9849418207,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,995,16
 2021-W-ITF-CRO-03A-2021,W15 Sibenik (MOVED from Tucepi),Clay,32,15,20210524,104,223087,,,Tara Wurth ,U,,CRO,18.6475017112,211557,5,,Nina Stadler,U,,SUI,25.6180698152,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,669,47,576,64
 2021-W-ITF-CRO-03A-2021,W15 Sibenik (MOVED from Tucepi),Clay,32,15,20210524,105,215131,4,,Nefisa Berberovic,U,,BIH,21.8918548939,210742,,WC,Mariana Drazic,R,,CRO,26.3737166324,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,550,71,946,20
 2021-W-ITF-CRO-03A-2021,W15 Sibenik (MOVED from Tucepi),Clay,32,15,20210524,106,213849,,,Nicole Fossa Huergo,U,,ITA,25.9958932238,222259,,,Natalia Szabanin,L,,HUN,17.6180698152,6-4 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,689,44,,
@@ -169,18 +169,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-CRO-03A-2021,W15 Sibenik (MOVED from Tucepi),Clay,32,15,20210524,115,239156,,WC,Lucija Ciric Bagaric,U,,HRV,,211412,,,Bojana Marinkovic,U,,SRB,24.5639972621,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,834,27
 2021-W-ITF-CRO-03A-2021,W15 Sibenik (MOVED from Tucepi),Clay,32,15,20210524,116,214301,2,,Tatiana Pieri,U,,ITA,22.1546885695,221165,,,Raphaelle Lacasse,R,,CAN,20.7693360712,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,506,84,765,34
 2021-W-ITF-CRO-03A-2021,W15 Sibenik (MOVED from Tucepi),Clay,32,15,20210524,201,211967,1,,Nina Potocnik,R,,SLO,24.3613963039,221257,,,Sinja Kraus,U,,AUT,19.0691307324,7-6(4) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,402,118,666,48
-2021-W-ITF-CRO-03A-2021,W15 Sibenik (MOVED from Tucepi),Clay,32,15,20210524,202,238075,,,Petra Marcinko,U,,HRV,,223087,,,Tara Wurth ,U,,CRO,18.6475017112,2-6 6-4 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,,,669,47
+2021-W-ITF-CRO-03A-2021,W15 Sibenik (MOVED from Tucepi),Clay,32,15,20210524,202,238075,,,Petra Marcinko,U,,CRO,15.4688569473,223087,,,Tara Wurth ,U,,CRO,18.6475017112,2-6 6-4 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,,,669,47
 2021-W-ITF-CRO-03A-2021,W15 Sibenik (MOVED from Tucepi),Clay,32,15,20210524,203,215131,4,,Nefisa Berberovic,U,,BIH,21.8918548939,213849,,,Nicole Fossa Huergo,U,,ITA,25.9958932238,1-6 7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,550,71,689,44
 2021-W-ITF-CRO-03A-2021,W15 Sibenik (MOVED from Tucepi),Clay,32,15,20210524,204,214299,6,,Lucie Wargnier,U,,FRA,22.2724161533,220822,,Q,Andjela Jocovic,U,,SRB,20.3641341547,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,634,53,1039,14
 2021-W-ITF-CRO-03A-2021,W15 Sibenik (MOVED from Tucepi),Clay,32,15,20210524,205,215802,,,Emeline Dartron,U,,FRA,21.1143052704,214751,8,,Barbora Miklova,R,,CZE,23.1540041068,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,766,34,623,55
 2021-W-ITF-CRO-03A-2021,W15 Sibenik (MOVED from Tucepi),Clay,32,15,20210524,206,221307,,,Darja Vidmanova,R,,CZE,18.3709787817,214238,3,,Verena Meliss,U,,ITA,23.8412046543,6-2 2-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,842,25,507,84
 2021-W-ITF-CRO-03A-2021,W15 Sibenik (MOVED from Tucepi),Clay,32,15,20210524,207,206417,,,Leolia Jeanjean,R,,FRA,25.7768651608,213533,7,,Maria Marfutina,U,,RUS,23.9644079398,7-5 2-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,838,26,622,55
 2021-W-ITF-CRO-03A-2021,W15 Sibenik (MOVED from Tucepi),Clay,32,15,20210524,208,214301,2,,Tatiana Pieri,U,,ITA,22.1546885695,239156,,WC,Lucija Ciric Bagaric,U,,HRV,,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,506,84,,
-2021-W-ITF-CRO-03A-2021,W15 Sibenik (MOVED from Tucepi),Clay,32,15,20210524,301,238075,,,Petra Marcinko,U,,HRV,,211967,1,,Nina Potocnik,R,,SLO,24.3613963039,6-1 3-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,,,402,118
+2021-W-ITF-CRO-03A-2021,W15 Sibenik (MOVED from Tucepi),Clay,32,15,20210524,301,238075,,,Petra Marcinko,U,,CRO,15.4688569473,211967,1,,Nina Potocnik,R,,SLO,24.3613963039,6-1 3-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,,,402,118
 2021-W-ITF-CRO-03A-2021,W15 Sibenik (MOVED from Tucepi),Clay,32,15,20210524,302,215131,4,,Nefisa Berberovic,U,,BIH,21.8918548939,214299,6,,Lucie Wargnier,U,,FRA,22.2724161533,3-6 6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,550,71,634,53
 2021-W-ITF-CRO-03A-2021,W15 Sibenik (MOVED from Tucepi),Clay,32,15,20210524,303,221307,,,Darja Vidmanova,R,,CZE,18.3709787817,215802,,,Emeline Dartron,U,,FRA,21.1143052704,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,842,25,766,34
 2021-W-ITF-CRO-03A-2021,W15 Sibenik (MOVED from Tucepi),Clay,32,15,20210524,304,206417,,,Leolia Jeanjean,R,,FRA,25.7768651608,214301,2,,Tatiana Pieri,U,,ITA,22.1546885695,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,838,26,506,84
-2021-W-ITF-CRO-03A-2021,W15 Sibenik (MOVED from Tucepi),Clay,32,15,20210524,401,215131,4,,Nefisa Berberovic,U,,BIH,21.8918548939,238075,,,Petra Marcinko,U,,HRV,,7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,550,71,,
+2021-W-ITF-CRO-03A-2021,W15 Sibenik (MOVED from Tucepi),Clay,32,15,20210524,401,215131,4,,Nefisa Berberovic,U,,BIH,21.8918548939,238075,,,Petra Marcinko,U,,CRO,15.4688569473,7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,550,71,,
 2021-W-ITF-CRO-03A-2021,W15 Sibenik (MOVED from Tucepi),Clay,32,15,20210524,402,206417,,,Leolia Jeanjean,R,,FRA,25.7768651608,221307,,,Darja Vidmanova,R,,CZE,18.3709787817,6-0 6-2,3,SF,,,,,,,,,,,,,,,,,,,,838,26,842,25
 2021-W-ITF-CRO-03A-2021,W15 Sibenik (MOVED from Tucepi),Clay,32,15,20210524,501,206417,,,Leolia Jeanjean,R,,FRA,25.7768651608,215131,4,,Nefisa Berberovic,U,,BIH,21.8918548939,6-2 6-4,3,F,,,,,,,,,,,,,,,,,,,,838,26,550,71
 2021-W-ITF-CZE-01A-2021,W25 Prague,Clay,32,25,20210503,101,214149,1,SR,Viktoria Kuzmova,R,,SVK,22.9787816564,204377,,,Indy De Vroome,R,,NED,24.9500342231,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,106,770,207,345
@@ -513,7 +513,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-EGY-08A-2021,W15 Sharm El Sheikh,Hard,32,15,20210222,401,216045,,,Svenja Ochsner,R,,SUI,21.0349075975,222328,,,Linda Noskova,R,,CZE,16.2655715264,7-5 3-6 7-5,3,SF,,,,,,,,,,,,,,,,,,,,736,37,1055,12
 2021-W-ITF-EGY-08A-2021,W15 Sharm El Sheikh,Hard,32,15,20210222,402,223404,,Q,Sabine Rutlauka,U,,LAT,18.3682409309,222965,,,Erika Andreeva,R,,RUS,16.6652977413,7-6(4) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,762,32
 2021-W-ITF-EGY-08A-2021,W15 Sharm El Sheikh,Hard,32,15,20210222,501,223404,,Q,Sabine Rutlauka,U,,LAT,18.3682409309,216045,,,Svenja Ochsner,R,,SUI,21.0349075975,6-7(4) 7-5 7-5,3,F,,,,,,,,,,,,,,,,,,,,,,736,37
-2021-W-ITF-EGY-09A-2021,W15 Sharm El Sheikh,Hard,32,15,20210301,101,215550,1,,Ayano Shimizu,U,,JPN,22.8884325804,222507,,WC,Tamari Gagoshidze,U,,GEO,,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,298,213,,
+2021-W-ITF-EGY-09A-2021,W15 Sharm El Sheikh,Hard,32,15,20210301,101,215550,1,,Ayano Shimizu,U,,JPN,22.8884325804,222507,,WC,Tamari Gagoshidze,U,,GEO,17.3524982888,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,298,213,,
 2021-W-ITF-EGY-09A-2021,W15 Sharm El Sheikh,Hard,32,15,20210301,102,222350,,Q,Lissi Kubre,U,,EST,,216045,,,Svenja Ochsner,R,,SUI,21.054072553,7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,736,37
 2021-W-ITF-EGY-09A-2021,W15 Sharm El Sheikh,Hard,32,15,20210301,103,223404,,SE,Sabine Rutlauka,U,,LAT,18.3874058864,216181,,Q,Mariam Dalakishvili,R,,GEO,19.3127994524,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,855,24
 2021-W-ITF-EGY-09A-2021,W15 Sharm El Sheikh,Hard,32,15,20210301,104,216074,6,,Anna Siskova,U,,CZE,19.665982204,219792,,,Anastasia Sukhotina,L,,RUS,20.9664613279,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,514,82,737,37
@@ -683,7 +683,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-EGY-14A-2021,W15 Sharm El Sheikh,Hard,32,15,20210405,113,211031,8,Q,Sarah Beth Askew,L,,GBR,25.6536618754,203553,,Q,Riko Sawayanagi,R,,JPN,26.4449007529,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,641,52,,
 2021-W-ITF-EGY-14A-2021,W15 Sharm El Sheikh,Hard,32,15,20210405,114,216260,,,Funa Kozaki,U,,JPN,19.7727583847,223203,,WC,Dasha Plekhanova,U,,CAN,,7-6(5) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,716,39,,
 2021-W-ITF-EGY-14A-2021,W15 Sharm El Sheikh,Hard,32,15,20210405,115,222156,,,Silvia Ambrosio,R,,GER,24.1943874059,221083,,WC,Aya El Sayed,U,,EGY,19.8466803559,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1032,14,1052,13
-2021-W-ITF-EGY-14A-2021,W15 Sharm El Sheikh,Hard,32,15,20210405,116,211107,2,,Katie Boulter,R,,GBR,24.6762491444,223018,,LL,Anastasia Kovaleva,U,,RUS,,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,292,221,,
+2021-W-ITF-EGY-14A-2021,W15 Sharm El Sheikh,Hard,32,15,20210405,116,211107,2,,Katie Boulter,R,180,GBR,24.6762491444,223018,,LL,Anastasia Kovaleva,U,,RUS,,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,292,221,,
 2021-W-ITF-EGY-14A-2021,W15 Sharm El Sheikh,Hard,32,15,20210405,201,202693,1,,Ya Hsuan Lee,R,,TPE,25.711156742,221497,,Q,Andre Lukosiute,U,,LTU,19.7837097878,1-6 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,309,200,1360,3
 2021-W-ITF-EGY-14A-2021,W15 Sharm El Sheikh,Hard,32,15,20210405,202,220494,,,Arina Gabriela Vasilescu,U,,ROU,24.0821355236,215592,,,Eri Shimizu,U,,JPN,22.855578371,7-5 5-7 6-2,3,R16,,,,,,,,,,,,,,,,,,,,793,30,869,23
 2021-W-ITF-EGY-14A-2021,W15 Sharm El Sheikh,Hard,32,15,20210405,203,212805,4,,Paige Mary Hourigan,R,,NZL,24.167008898,210645,,,Elena Teodora Cadar,L,,ROU,27.1101984942,4-6 6-3 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,458,96,813,28
@@ -691,11 +691,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-EGY-14A-2021,W15 Sharm El Sheikh,Hard,32,15,20210405,205,216265,7,,Olivia Gadecki,R,,AUS,18.9486652977,215151,,,Lina Glushko,U,,ISR,21.2292950034,7-5 2-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,620,56,692,43
 2021-W-ITF-EGY-14A-2021,W15 Sharm El Sheikh,Hard,32,15,20210405,206,211216,3,,Cristiana Ferrando,R,,ITA,25.6536618754,221914,,WC,Jenna Defalco,U,,USA,18.392881588,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,383,127,1212,7
 2021-W-ITF-EGY-14A-2021,W15 Sharm El Sheikh,Hard,32,15,20210405,207,211031,8,Q,Sarah Beth Askew,L,,GBR,25.6536618754,216260,,,Funa Kozaki,U,,JPN,19.7727583847,4-6 6-4 7-6(9),3,R16,,,,,,,,,,,,,,,,,,,,641,52,716,39
-2021-W-ITF-EGY-14A-2021,W15 Sharm El Sheikh,Hard,32,15,20210405,208,211107,2,,Katie Boulter,R,,GBR,24.6762491444,222156,,,Silvia Ambrosio,R,,GER,24.1943874059,6-1 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,292,221,1032,14
+2021-W-ITF-EGY-14A-2021,W15 Sharm El Sheikh,Hard,32,15,20210405,208,211107,2,,Katie Boulter,R,180,GBR,24.6762491444,222156,,,Silvia Ambrosio,R,,GER,24.1943874059,6-1 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,292,221,1032,14
 2021-W-ITF-EGY-14A-2021,W15 Sharm El Sheikh,Hard,32,15,20210405,301,202693,1,,Ya Hsuan Lee,R,,TPE,25.711156742,220494,,,Arina Gabriela Vasilescu,U,,ROU,24.0821355236,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,309,200,793,30
 2021-W-ITF-EGY-14A-2021,W15 Sharm El Sheikh,Hard,32,15,20210405,302,216074,5,,Anna Siskova,U,,CZE,19.7618069815,212805,4,,Paige Mary Hourigan,R,,NZL,24.167008898,6-1 4-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,511,82,458,96
 2021-W-ITF-EGY-14A-2021,W15 Sharm El Sheikh,Hard,32,15,20210405,303,216265,7,,Olivia Gadecki,R,,AUS,18.9486652977,211216,3,,Cristiana Ferrando,R,,ITA,25.6536618754,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,620,56,383,127
-2021-W-ITF-EGY-14A-2021,W15 Sharm El Sheikh,Hard,32,15,20210405,304,211031,8,Q,Sarah Beth Askew,L,,GBR,25.6536618754,211107,2,,Katie Boulter,R,,GBR,24.6762491444,W/O,3,QF,,,,,,,,,,,,,,,,,,,,641,52,292,221
+2021-W-ITF-EGY-14A-2021,W15 Sharm El Sheikh,Hard,32,15,20210405,304,211031,8,Q,Sarah Beth Askew,L,,GBR,25.6536618754,211107,2,,Katie Boulter,R,180,GBR,24.6762491444,W/O,3,QF,,,,,,,,,,,,,,,,,,,,641,52,292,221
 2021-W-ITF-EGY-14A-2021,W15 Sharm El Sheikh,Hard,32,15,20210405,401,202693,1,,Ya Hsuan Lee,R,,TPE,25.711156742,216074,5,,Anna Siskova,U,,CZE,19.7618069815,0-6 6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,309,200,511,82
 2021-W-ITF-EGY-14A-2021,W15 Sharm El Sheikh,Hard,32,15,20210405,402,216265,7,,Olivia Gadecki,R,,AUS,18.9486652977,211031,8,Q,Sarah Beth Askew,L,,GBR,25.6536618754,6-0 7-6(3),3,SF,,,,,,,,,,,,,,,,,,,,620,56,641,52
 2021-W-ITF-EGY-14A-2021,W15 Sharm El Sheikh,Hard,32,15,20210405,501,202693,1,,Ya Hsuan Lee,R,,TPE,25.711156742,216265,7,,Olivia Gadecki,R,,AUS,18.9486652977,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,309,200,620,56
@@ -1336,7 +1336,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-FRA-11A-2021,W60 Saint-Gaudens,Clay,32,60,20210510,402,216262,7,,Clara Burel,U,,FRA,20.128678987,214388,,Q,Anna Bondar,R,,HUN,23.9534565366,6-3 6-7(6) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,166,467,267,254
 2021-W-ITF-GEO-01A-2021,W15 Tbilisi,Hard,32,15,20210517,101,214868,1,,Valeriya Yushchenko,R,,RUS,21.8918548939,222019,,WC,Nino Natsvlishvili,U,,GEO,,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,379,127,,
 2021-W-ITF-GEO-01A-2021,W15 Tbilisi,Hard,32,15,20210517,102,215431,,,Emily Appleton,U,,GBR,21.7084188912,214800,,,Sabastiani Leon,R,,MEX,29.1498973306,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,756,35,1018,15
-2021-W-ITF-GEO-01A-2021,W15 Tbilisi,Hard,32,15,20210517,103,222507,,WC,Tamari Gagoshidze,U,,GEO,,220644,,Q,Arina Solomatina,U,,RUS,19.8576317591,4-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2021-W-ITF-GEO-01A-2021,W15 Tbilisi,Hard,32,15,20210517,103,222507,,WC,Tamari Gagoshidze,U,,GEO,17.5633127995,220644,,Q,Arina Solomatina,U,,RUS,19.8576317591,4-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-GEO-01A-2021,W15 Tbilisi,Hard,32,15,20210517,104,213541,8,SR,Alexandra Osborne,U,,AUS,26.1081451061,223336,,,Weronika Baszak,U,,POL,18.6529774127,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,694,43,1262,6
 2021-W-ITF-GEO-01A-2021,W15 Tbilisi,Hard,32,15,20210517,105,215111,4,,Joanne Zuger,U,,SUI,20.4955509925,220592,,Q,Emily Welker,U,,GER,20.7939767283,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,482,90,1346,4
 2021-W-ITF-GEO-01A-2021,W15 Tbilisi,Hard,32,15,20210517,106,232873,,WC,Sopiko Tsitskishvili,U,,GEO,,220593,,LL,Kristina Milenkovic,R,,SUI,19.9315537303,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1329,4,1286,5
@@ -1351,18 +1351,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-GEO-01A-2021,W15 Tbilisi,Hard,32,15,20210517,115,222036,,Q,Zoe Howard,R,,USA,19.909650924,216319,,,Anastasiya Poplavska,U,,UKR,19.523613963,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1145,10,943,20
 2021-W-ITF-GEO-01A-2021,W15 Tbilisi,Hard,32,15,20210517,116,201657,2,,Nastja Kolar,R,,SLO,26.8391512663,219965,,,Laetitia Pulchartova,R,,CZE,20.3258042437,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,452,100,875,24
 2021-W-ITF-GEO-01A-2021,W15 Tbilisi,Hard,32,15,20210517,201,215431,,,Emily Appleton,U,,GBR,21.7084188912,214868,1,,Valeriya Yushchenko,R,,RUS,21.8918548939,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,756,35,379,127
-2021-W-ITF-GEO-01A-2021,W15 Tbilisi,Hard,32,15,20210517,202,222507,,WC,Tamari Gagoshidze,U,,GEO,,213541,8,SR,Alexandra Osborne,U,,AUS,26.1081451061,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,694,43
+2021-W-ITF-GEO-01A-2021,W15 Tbilisi,Hard,32,15,20210517,202,222507,,WC,Tamari Gagoshidze,U,,GEO,17.5633127995,213541,8,SR,Alexandra Osborne,U,,AUS,26.1081451061,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,694,43
 2021-W-ITF-GEO-01A-2021,W15 Tbilisi,Hard,32,15,20210517,203,215111,4,,Joanne Zuger,U,,SUI,20.4955509925,232873,,WC,Sopiko Tsitskishvili,U,,GEO,,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,482,90,1329,4
 2021-W-ITF-GEO-01A-2021,W15 Tbilisi,Hard,32,15,20210517,204,216579,6,,Weronika Falkowska,R,,POL,20.9144421629,221116,,,Jana Kolodynska,R,,BLR,17.7686516085,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,567,67,985,17
 2021-W-ITF-GEO-01A-2021,W15 Tbilisi,Hard,32,15,20210517,205,202672,5,Q,Ekaterina Yashina,R,,RUS,27.7782340862,215260,,,Shelly Bereznyak,U,,ISR,20.8514715948,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,502,85,873,24
 2021-W-ITF-GEO-01A-2021,W15 Tbilisi,Hard,32,15,20210517,206,216179,,,Valeriya Olyanovskaya,U,,RUS,20.180698152,216181,,,Mariam Dalakishvili,R,,GEO,19.523613963,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,772,33,834,27
 2021-W-ITF-GEO-01A-2021,W15 Tbilisi,Hard,32,15,20210517,207,233718,,,Maria Sholokhova,U,,RUS,,206230,7,,Alicia Barnett,U,,GBR,27.5783709788,2-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,614,58
 2021-W-ITF-GEO-01A-2021,W15 Tbilisi,Hard,32,15,20210517,208,222036,,Q,Zoe Howard,R,,USA,19.909650924,201657,2,,Nastja Kolar,R,,SLO,26.8391512663,4-6 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1145,10,452,100
-2021-W-ITF-GEO-01A-2021,W15 Tbilisi,Hard,32,15,20210517,301,222507,,WC,Tamari Gagoshidze,U,,GEO,,215431,,,Emily Appleton,U,,GBR,21.7084188912,6-3 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,756,35
+2021-W-ITF-GEO-01A-2021,W15 Tbilisi,Hard,32,15,20210517,301,222507,,WC,Tamari Gagoshidze,U,,GEO,17.5633127995,215431,,,Emily Appleton,U,,GBR,21.7084188912,6-3 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,756,35
 2021-W-ITF-GEO-01A-2021,W15 Tbilisi,Hard,32,15,20210517,302,216579,6,,Weronika Falkowska,R,,POL,20.9144421629,215111,4,,Joanne Zuger,U,,SUI,20.4955509925,4-6 6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,567,67,482,90
 2021-W-ITF-GEO-01A-2021,W15 Tbilisi,Hard,32,15,20210517,303,216179,,,Valeriya Olyanovskaya,U,,RUS,20.180698152,202672,5,Q,Ekaterina Yashina,R,,RUS,27.7782340862,0-6 6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,772,33,502,85
 2021-W-ITF-GEO-01A-2021,W15 Tbilisi,Hard,32,15,20210517,304,222036,,Q,Zoe Howard,R,,USA,19.909650924,233718,,,Maria Sholokhova,U,,RUS,,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1145,10,,
-2021-W-ITF-GEO-01A-2021,W15 Tbilisi,Hard,32,15,20210517,401,216579,6,,Weronika Falkowska,R,,POL,20.9144421629,222507,,WC,Tamari Gagoshidze,U,,GEO,,6-1 6-7(4) 7-5,3,SF,,,,,,,,,,,,,,,,,,,,567,67,,
+2021-W-ITF-GEO-01A-2021,W15 Tbilisi,Hard,32,15,20210517,401,216579,6,,Weronika Falkowska,R,,POL,20.9144421629,222507,,WC,Tamari Gagoshidze,U,,GEO,17.5633127995,6-1 6-7(4) 7-5,3,SF,,,,,,,,,,,,,,,,,,,,567,67,,
 2021-W-ITF-GEO-01A-2021,W15 Tbilisi,Hard,32,15,20210517,402,216179,,,Valeriya Olyanovskaya,U,,RUS,20.180698152,222036,,Q,Zoe Howard,R,,USA,19.909650924,6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,772,33,1145,10
 2021-W-ITF-GEO-01A-2021,W15 Tbilisi,Hard,32,15,20210517,501,216579,6,,Weronika Falkowska,R,,POL,20.9144421629,216179,,,Valeriya Olyanovskaya,U,,RUS,20.180698152,6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,,567,67,772,33
 2021-W-ITF-GER-02A-2021,W25 Altenkirchen,Carpet,32,25,20210215,101,215259,,,Leonie Kung,R,,SUI,20.3203285421,206219,1,,Oceane Dodin,R,,FRA,24.3121149897,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,155,472,107,706
@@ -1755,7 +1755,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-KAZ-05A-2021,W15 Shymkent,Clay,32,15,20210524,205,221243,6,,Martyna Kubka,R,,POL,20.0958247775,206371,,,Alina Silich,U,,RUS,24.8706365503,2-6 7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,745,36,977,18
 2021-W-ITF-KAZ-05A-2021,W15 Shymkent,Clay,32,15,20210524,206,220808,,,Kristina Dmitruk,R,,BLR,17.6618754278,211809,4,,Daria Lodikova,R,,RUS,24.9965776865,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1145,10,624,55
 2021-W-ITF-KAZ-05A-2021,W15 Shymkent,Clay,32,15,20210524,207,216243,,,Yekaterina Dmitrichenko,R,,KAZ,19.6030116359,216179,8,,Valeriya Olyanovskaya,U,,RUS,20.1998631075,7-6(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,853,25,772,33
-2021-W-ITF-KAZ-05A-2021,W15 Shymkent,Clay,32,15,20210524,208,203429,2,,Tamara Curovic,R,,SRB,26.5626283368,222507,,Q,Tamari Gagoshidze,U,,GEO,,6-1 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,536,76,,
+2021-W-ITF-KAZ-05A-2021,W15 Shymkent,Clay,32,15,20210524,208,203429,2,,Tamara Curovic,R,,SRB,26.5626283368,222507,,Q,Tamari Gagoshidze,U,,GEO,17.582477755,6-1 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,536,76,,
 2021-W-ITF-KAZ-05A-2021,W15 Shymkent,Clay,32,15,20210524,301,215218,7,,Anna Ukolova,U,,RUS,22.1656399726,201674,1,,Sabina Sharipova,R,,UZB,26.7186858316,6-2 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,757,35,373,130
 2021-W-ITF-KAZ-05A-2021,W15 Shymkent,Clay,32,15,20210524,302,214992,3,,Zhibek Kulambayeva,U,,KAZ,21.1608487337,216287,5,,Ekaterina Shalimova,U,,RUS,20.977412731,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,578,64,668,47
 2021-W-ITF-KAZ-05A-2021,W15 Shymkent,Clay,32,15,20210524,303,220808,,,Kristina Dmitruk,R,,BLR,17.6618754278,221243,6,,Martyna Kubka,R,,POL,20.0958247775,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,1145,10,745,36
@@ -3551,7 +3551,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,108,211279,7,,Harriet Dart,R,,GBR,24.7446954141,202705,,,Veronica Cepede Royg,R,,PAR,29.2621492129,3-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,150,529,183,393
 2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,109,219917,,WC,Alycia Parks,U,,USA,20.3175906913,201501,5,,Olga Govortsova,R,182,BLR,32.6735112936,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,276,240,142,579
 2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,110,205918,,Q,Ulrikke Eikeri,U,,NOR,28.3586584531,206349,,,Mayo Hibi,R,,JPN,25.0622861054,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,255,265,180,406
-2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,111,211107,,Q,Katie Boulter,R,,GBR,24.733744011,203564,,,Chloe Paquet,R,,FRA,26.8199863107,7-6(5) 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,293,223,187,384
+2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,111,211107,,Q,Katie Boulter,R,180,GBR,24.733744011,203564,,,Chloe Paquet,R,,FRA,26.8199863107,7-6(5) 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,293,223,187,384
 2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,112,215064,,Q,Maria Mateas,U,,USA,21.7659137577,201529,3,,Kristie Ahn,R,,USA,28.8624229979,3-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,432,106,124,693
 2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,113,216133,6,,Xin Yu Wang,U,,CHN,19.5811088296,213672,,,Usue Maitane Arconada,R,,USA,22.4941820671,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,145,558,163,472
 2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,114,220465,,WC,Katie Volynets,U,,USA,19.318275154,203398,,,Danielle Lao,R,,USA,29.9137577002,6-2 1-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,316,190,216,325
@@ -3562,15 +3562,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,203,214906,,,Claire Liu,U,,USA,20.9199178645,210705,4,,Irina Maria Bara,R,,ROU,26.1081451061,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,172,419,133,625
 2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,204,211279,7,,Harriet Dart,R,,GBR,24.7446954141,210738,,Q,Aldila Sutjiadi,R,,INA,25.9849418207,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,150,529,401,119
 2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,205,219917,,WC,Alycia Parks,U,,USA,20.3175906913,205918,,Q,Ulrikke Eikeri,U,,NOR,28.3586584531,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,276,240,255,265
-2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,206,211107,,Q,Katie Boulter,R,,GBR,24.733744011,215064,,Q,Maria Mateas,U,,USA,21.7659137577,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,293,223,432,106
+2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,206,211107,,Q,Katie Boulter,R,180,GBR,24.733744011,215064,,Q,Maria Mateas,U,,USA,21.7659137577,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,293,223,432,106
 2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,207,216133,6,,Xin Yu Wang,U,,CHN,19.5811088296,220465,,WC,Katie Volynets,U,,USA,19.318275154,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,145,558,316,190
 2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,208,221024,,,Hailey Baptiste,R,,USA,19.4770704997,210886,2,,Mayar Sherif,U,,EGY,24.9746748802,6-3 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,211,337,123,696
 2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,301,203500,,,Sachia Vickery,R,,USA,25.9603011636,213530,,,Allie Kiick,R,,USA,25.8234086242,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,192,367,189,382
 2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,302,214906,,,Claire Liu,U,,USA,20.9199178645,211279,7,,Harriet Dart,R,,GBR,24.7446954141,W/O,3,QF,,,,,,,,,,,,,,,,,,,,172,419,150,529
-2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,303,211107,,Q,Katie Boulter,R,,GBR,24.733744011,219917,,WC,Alycia Parks,U,,USA,20.3175906913,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,293,223,276,240
+2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,303,211107,,Q,Katie Boulter,R,180,GBR,24.733744011,219917,,WC,Alycia Parks,U,,USA,20.3175906913,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,293,223,276,240
 2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,304,216133,6,,Xin Yu Wang,U,,CHN,19.5811088296,221024,,,Hailey Baptiste,R,,USA,19.4770704997,6-1 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,145,558,211,337
 2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,401,214906,,,Claire Liu,U,,USA,20.9199178645,203500,,,Sachia Vickery,R,,USA,25.9603011636,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,172,419,192,367
-2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,402,216133,6,,Xin Yu Wang,U,,CHN,19.5811088296,211107,,Q,Katie Boulter,R,,GBR,24.733744011,6-3 RET,3,SF,,,,,,,,,,,,,,,,,,,,145,558,293,223
+2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,402,216133,6,,Xin Yu Wang,U,,CHN,19.5811088296,211107,,Q,Katie Boulter,R,180,GBR,24.733744011,6-3 RET,3,SF,,,,,,,,,,,,,,,,,,,,145,558,293,223
 2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,501,214906,,,Claire Liu,U,,USA,20.9199178645,216133,6,,Xin Yu Wang,U,,CHN,19.5811088296,3-6 6-4 4-1 RET,3,F,,,,,,,,,,,,,,,,,,,,172,419,145,558
 2021-W-ITF-USA-08A-2021,W100 Charleston SC,Clay,32,100,20210503,101,201483,1,,Madison Brengle,R,,USA,31.0828199863,215992,,,Whitney Osuigwe,R,,USA,19.0444900753,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,86,956,184,391
 2021-W-ITF-USA-08A-2021,W100 Charleston SC,Clay,32,100,20210503,102,202705,,,Veronica Cepede Royg,R,,PAR,29.2813141684,215371,,,Francesca Di Lorenzo,L,,USA,23.780971937,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,183,393,154,513
@@ -4261,7 +4261,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-EGY-05A-2021,W15 Sharm El Sheikh,Hard,32,15,20210201,120,205492,12,,Ashmitha Easwaramurthi,R,,IND,31.5455167693,232875,,WC,Valerie Griffejoen,U,,NED,,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,1103,10,,
 2021-W-ITF-EGY-05A-2021,W15 Sharm El Sheikh,Hard,32,15,20210201,121,221192,6,,Sophia Biolay,U,,FRA,19.5838466804,222615,,,Sharannya Gaware,L,,IND,,6-3 6-7(5) 10-2,3,Q1,,,,,,,,,,,,,,,,,,,,1065,12,,
 2021-W-ITF-EGY-05A-2021,W15 Sharm El Sheikh,Hard,32,15,20210201,122,223178,,WC,Aleksandra Melnikova,U,,RUS,,221371,,,Lyubov Kostenko,R,,UKR,17.8507871321,7-6(1) 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,1114,10
-2021-W-ITF-EGY-05A-2021,W15 Sharm El Sheikh,Hard,32,15,20210201,123,215301,,,Irene Lavino,U,,ITA,22.3107460643,222507,,,Tamari Gagoshidze,U,,GEO,,7-5 6-7(4) 10-2,3,Q1,,,,,,,,,,,,,,,,,,,,1109,10,,
+2021-W-ITF-EGY-05A-2021,W15 Sharm El Sheikh,Hard,32,15,20210201,123,215301,,,Irene Lavino,U,,ITA,22.3107460643,222507,,,Tamari Gagoshidze,U,,GEO,17.2758384668,7-5 6-7(4) 10-2,3,Q1,,,,,,,,,,,,,,,,,,,,1109,10,,
 2021-W-ITF-EGY-05A-2021,W15 Sharm El Sheikh,Hard,32,15,20210201,124,215873,11,,Tanysha Dissanayake,U,,GBR,19.4880219028,220343,,,Matilde Mariani,L,,ITA,19.0253251198,4-6 6-3 10-4,3,Q1,,,,,,,,,,,,,,,,,,,,1103,10,,
 2021-W-ITF-EGY-05A-2021,W15 Sharm El Sheikh,Hard,32,15,20210201,201,215909,1,,Adrienn Nagy,R,,HUN,19.8603696099,221198,,,Anne Sophie Morandais,U,,GUD,21.5140314853,6-3 7-6(2),3,Q2,,,,,,,,,,,,,,,,,,,,814,26,1157,9
 2021-W-ITF-EGY-05A-2021,W15 Sharm El Sheikh,Hard,32,15,20210201,202,221018,7,,Julie Belgraver,U,,FRA,18.5817932923,221153,,,Sophie Luescher,U,,SUI,18.4093086927,7-5 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,1009,14,,
@@ -4366,7 +4366,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-EGY-07A-2021,W15 Sharm El Sheikh,Hard,32,15,20210215,305,223404,,WC,Sabine Rutlauka,U,,LAT,18.3490759754,210645,8,,Elena Teodora Cadar,L,,ROU,26.9760438056,5-7 6-4 10-5,3,Q3,,,,,,,,,,,,,,,,,,,,,,896,21
 2021-W-ITF-EGY-07A-2021,W15 Sharm El Sheikh,Hard,32,15,20210215,306,220560,9,,Lian Tran,R,,NED,18.5790554415,222470,,WC,Amelia Bissett,U,,GBR,,6-7(5) 6-4 10-8,3,Q3,,,,,,,,,,,,,,,,,,,,897,21,,
 2021-W-ITF-EGY-08A-2021,W15 Sharm El Sheikh,Hard,32,15,20210222,101,221165,1,,Raphaelle Lacasse,R,,CAN,20.5201916496,221336,,,Amira Badawi,U,,EGY,19.4770704997,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,778,31,,
-2021-W-ITF-EGY-08A-2021,W15 Sharm El Sheikh,Hard,32,15,20210222,102,222036,,,Zoe Howard,R,,USA,19.6796714579,222507,,WC,Tamari Gagoshidze,U,,GEO,,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,1301,4,,
+2021-W-ITF-EGY-08A-2021,W15 Sharm El Sheikh,Hard,32,15,20210222,102,222036,,,Zoe Howard,R,,USA,19.6796714579,222507,,WC,Tamari Gagoshidze,U,,GEO,17.3333333333,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,1301,4,,
 2021-W-ITF-EGY-08A-2021,W15 Sharm El Sheikh,Hard,32,15,20210222,103,233744,,WC,Sara Donnini,U,,ITA,,215645,,,Paulina Jastrzebska,U,,POL,23.189596167,6-0 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-08A-2021,W15 Sharm El Sheikh,Hard,32,15,20210222,104,211743,,,Sveva Mazzari,U,,ITA,26.5544147844,222716,,A,Sashi Kempster,R,,GBR,,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-EGY-08A-2021,W15 Sharm El Sheikh,Hard,32,15,20210222,105,216181,2,,Mariam Dalakishvili,R,,GEO,19.2936344969,223289,,,Anastasiya Apalikhina,U,,RUS,,2-6 7-6(5) 10-8,3,Q1,,,,,,,,,,,,,,,,,,,,854,24,,
@@ -5784,7 +5784,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-KAZ-05A-2021,W15 Shymkent,Clay,32,15,20210524,116,232886,,,Sophia Natalya Baranov,U,,USA,,232888,14,,Yuliya Klimova,U,,KAZ,,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-KAZ-05A-2021,W15 Shymkent,Clay,32,15,20210524,201,220048,1,,Elena Jamshidi,R,,DEN,20.1889117043,239170,,,Alisa Baranovska,U,,UKR,,6-4 5-7 10-7,3,Q2,,,,,,,,,,,,,,,,,,,,1235,7,,
 2021-W-ITF-KAZ-05A-2021,W15 Shymkent,Clay,32,15,20210524,202,223153,,,Maria Mikhailova,U,,RUS,,220175,2,,Maria Manilova,R,,RUS,20.9555099247,6-4 5-7 10-5,3,Q2,,,,,,,,,,,,,,,,,,,,,,1312,5
-2021-W-ITF-KAZ-05A-2021,W15 Shymkent,Clay,32,15,20210524,203,222507,12,,Tamari Gagoshidze,U,,GEO,,219872,3,,Milana Maslenkova,U,,UZB,19.7782340862,6-1 2-6 13-11,3,Q2,,,,,,,,,,,,,,,,,,,,,,1330,4
+2021-W-ITF-KAZ-05A-2021,W15 Shymkent,Clay,32,15,20210524,203,222507,12,,Tamari Gagoshidze,U,,GEO,17.582477755,219872,3,,Milana Maslenkova,U,,UZB,19.7782340862,6-1 2-6 13-11,3,Q2,,,,,,,,,,,,,,,,,,,,,,1330,4
 2021-W-ITF-KAZ-05A-2021,W15 Shymkent,Clay,32,15,20210524,204,222924,4,,Anna Chekanskaya,U,,RUS,,215950,11,,Yasmina Karimjanova,L,,UZB,19.7563312799,6-2 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-KAZ-05A-2021,W15 Shymkent,Clay,32,15,20210524,205,217988,5,,Larisa Bekmetova,U,,UZB,34.4421629021,221180,13,,Mariya Sinitsyna,U,,KAZ,18.1492128679,7-5 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2021-W-ITF-KAZ-05A-2021,W15 Shymkent,Clay,32,15,20210524,206,221951,10,,Sofiya Chursina,U,,KAZ,,221392,6,,Angelina Graovac,U,,AUS,19.5455167693,6-2 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
@@ -7806,7 +7806,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,103,201435,2,,Kateryna Bondarenko,R,175,UKR,34.7159479808,220722,,WC,Elvina Kalieva,U,,USA,17.749486653,6-0 2-6 10-7,3,Q1,,,,,,,,,,,,,,,,,,,,227,305,1233,7
 2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,104,210738,,,Aldila Sutjiadi,R,,INA,25.9849418207,201443,12,,Alexa Glatch,R,,USA,31.6249144422,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,401,119,304,210
 2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,105,215910,,,Panna Udvardy,R,,HUN,22.5763175907,215042,3,,Katie Swan,R,,GBR,22.0917180014,7-5 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,325,172,249,268
-2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,106,211107,10,,Katie Boulter,R,,GBR,24.733744011,220724,,WC,Alexandra Yepifanova,U,,USA,18.1519507187,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,293,223,1098,11
+2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,106,211107,10,,Katie Boulter,R,180,GBR,24.733744011,220724,,WC,Alexandra Yepifanova,U,,USA,18.1519507187,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,293,223,1098,11
 2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,107,215064,,,Maria Mateas,U,,USA,21.7659137577,214684,4,,Katherine Sebov,U,,CAN,22.3052703628,7-6(5) 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,432,106,254,266
 2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,108,214020,15,,Amina Anshba,U,,RUS,21.6290212183,215833,,,Erina Hayashi,U,,JPN,26.765229295,6-4 3-6 10-4,3,Q1,,,,,,,,,,,,,,,,,,,,315,192,345,155
 2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,109,215996,,,Arianne Hartono,R,,NED,25.0130047912,211846,5,,Kyoka Okamura,R,,JPN,25.5550992471,5-7 6-1 10-5,3,Q1,,,,,,,,,,,,,,,,,,,,371,131,260,261
@@ -7819,7 +7819,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,116,215037,,WC,Kayla Day,L,,USA,21.5770020534,211854,13,,Katerina Stewart,R,,USA,23.7754962355,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,530,76,306,207
 2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,201,202479,1,,Grace Min,R,,USA,26.9733059548,214453,,,Sophie Chang,U,,USA,23.9123887748,2-6 6-4 10-6,3,Q2,,,,,,,,,,,,,,,,,,,,193,365,437,105
 2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,202,210738,,,Aldila Sutjiadi,R,,INA,25.9849418207,201435,2,,Kateryna Bondarenko,R,175,UKR,34.7159479808,6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,401,119,227,305
-2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,203,211107,10,,Katie Boulter,R,,GBR,24.733744011,215910,,,Panna Udvardy,R,,HUN,22.5763175907,7-6(7) 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,293,223,325,172
+2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,203,211107,10,,Katie Boulter,R,180,GBR,24.733744011,215910,,,Panna Udvardy,R,,HUN,22.5763175907,7-6(7) 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,293,223,325,172
 2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,204,215064,,,Maria Mateas,U,,USA,21.7659137577,214020,15,,Amina Anshba,U,,RUS,21.6290212183,6-2 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,432,106,315,192
 2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,205,215996,,,Arianne Hartono,R,,NED,25.0130047912,211765,,,Emina Bektas,U,,USA,28.0739219713,6-2 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,371,131,366,137
 2021-W-ITF-USA-07A-2021,W60 Charlottesville VA,Clay,32,60,20210426,206,211222,6,,Jamie Loeb,R,,USA,26.135523614,202414,11,,Catherine Harrison,U,,USA,27.0472279261,6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,267,252,299,218
