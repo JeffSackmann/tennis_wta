@@ -125,7 +125,7 @@
 200123,Marlene,Weingartner,R,19800130,GER
 200124,Anne,Kremer,R,19751017,LUX
 200125,Corina,Morariu,R,19780126,USA
-200126,Marissa,Gould,R,19800623,USA
+200126,Marissa,Irvin,R,19800623,USA
 200127,Sarah,Pitkowski Malcor,R,19751113,FRA
 200128,Lindsay,Davenport,R,19760608,USA
 200129,Lesley,Bowrey,R,19420816,AUS
@@ -358,7 +358,7 @@
 200356,Betty,Stove,U,19450624,NED
 200357,Rosalyn,Fairbank,R,19601102,USA
 200358,Marcie,Louie,U,19530910,USA
-200359,Christiane,Jolissaint,U,19610912,SUI
+200359,Christiane,Jolissaint,R,19610912,SUI
 200360,Pam,Shriver,R,19620704,USA
 200361,Marie,Pinterova,U,19460816,HUN
 200362,Liz,Smylie,U,19630411,AUS
@@ -432,7 +432,7 @@
 200430,Marcela,Skuherska,U,19610214,TCH
 200431,Lilian,Drescher,U,19650523,SUI
 200432,Laura,Bernstein,U,19630317,USA
-200433,Kim,Jones Shaefer,R,19570928,USA
+200433,Kim,Jones,R,19570928,USA
 200434,Shelley,Solomon,U,19630619,USA
 200435,Barbara,Gerken,U,19640703,USA
 200436,Carina,Karlsson,U,19630911,SWE
@@ -496,8 +496,8 @@
 200494,Dianne,Van Rensburg,U,19680304,RSA
 200495,Akiko,Kijimuta,U,19680501,JPN
 200496,Terry,Phelps,U,19661218,USA
-200497,Patricia,Hy Boulais,U,19650822,CAN
-200498,Michelle,Jaggard Lai,U,19690506,AUS
+200497,Patricia,Hy Boulais,R,19650822,CAN
+200498,Michelle,Jaggard Lai,R,19690506,AUS
 200499,Sally,Mccann,U,19690430,AUS
 200500,Pilar,Vasquez,U,19630515,PER
 200501,Marianne,Werdel Witmeyer,U,19671017,USA
@@ -521,7 +521,7 @@
 200519,Sybille,Niox Chateau,U,19691019,FRA
 200520,Sarah,Loosemore,U,19710615,GBR
 200521,Hellas,Ter Riet,U,19680621,NED
-200522,Nicole,Krijger Jagerman,U,19670723,NED
+200522,Nicole,Jagerman,R,19670723,NED
 200523,Olga,Tsarbopoulou,U,19680619,GRE
 200524,Karen,Deed,U,19681029,AUS
 200525,Jennifer,Goodling,U,19620426,USA
@@ -883,7 +883,7 @@
 200881,Edith,Winkens,U,19470505,FRG
 200882,Alena,Palmeova West,U,19450107,TCH
 200883,Marianna,Brummer,U,19491124,RSA
-200884,Marijke,Schaar,U,19441112,NED
+200884,Marijke,Jansen,U,19441112,NED
 200885,Sharon,Van Brandis,U,,RSA
 200886,Becky,Vest,U,,USA
 200887,Trudy,Groenman,L,19440115,NED
@@ -905,7 +905,7 @@
 200903,Hideko,Goto,U,19490330,JPN
 200904,Kristien,Shaw,U,19520725,USA
 200905,Mariana,Simionescu,R,19561127,ROU
-200906,Carmen,Ibarra,U,,CHI
+200906,DUPE Carmen,Ibarra,U,,CHI
 200907,Carmen,Perea Alcala,U,19520503,ESP
 200908,Miroslava,Bendlova,U,19511216,CZE
 200909,Florence,Guedy,U,19541207,FRA
@@ -25258,7 +25258,7 @@
 225266,Janet,Bergman,U,,USA
 225267,Bonnie,Mencher,U,19410404,USA
 225268,Diana,Mosgofian,U,,USA
-225269,Thelma,Lister,U,19140208,GBR
+225269,Thelma,Jarvis,U,19140208,GBR
 225270,J,Cridland,U,,GBR
 225271,Shirley,Hannah,U,,GBR
 225272,Mrs E D S,Smith,U,,GBR
@@ -26420,7 +26420,7 @@
 226428,J,Mason,U,,GBR
 226429,R,Cook,U,,GBR
 226430,Mrs,Cole,U,,GBR
-226431,Carmen,Ibarra,U,,ESP
+226431,Carmen,Ibarra,U,19391212,CHI
 226432,S,Fets,U,,SUI
 226433,F,Ricou,U,,SUI
 226434,G,Matinacci,U,,SUI
@@ -27105,7 +27105,7 @@
 227113,Jill,Nitschke,U,,AUS
 227114,L,Stevens,U,,AUS
 227115,Maggie,Beeland,U,19210922,USA
-227116,Laura Lou,Jahn,U,19330517,USA
+227116,Laura Lou,Jahn,R,19330517,USA
 227117,Laura,Woodbridge,U,,GBR
 227118,Dechu,Appiah,R,,IND
 227119,M,Khesha,U,,IND
@@ -30756,7 +30756,7 @@
 230764,J,Davies,U,,GBR
 230765,A,Darbishire,U,,GBR
 230766,D,Flynn,U,,GBR
-230767,Margaret,Warren,U,,USA
+230767,Margaret,Jessee,U,,USA
 230768,R,Wooller,U,,GBR
 230769,G,Shepherd,U,,GBR
 230770,Daphne,Triphon,U,,USA
@@ -32258,7 +32258,7 @@
 232266,Cecile,Bowes,U,19140511,USA
 232267,Hope,Rawls,U,,USA
 232268,Ruth,Marshall,U,,USA
-232269,Galina,Korovina,U,,URS
+232269,Galina,Ivanova,U,19090921,URS
 232270,Doris,Amundsen,U,,USA
 232271,Helen,Bartavis,U,,USA
 232272,Margaret,Stiel,U,,USA
@@ -33240,7 +33240,7 @@
 233248,Con,Christopolis,U,,USA
 233249,Janet,Walker,U,,USA
 233250,Virginia,Simmons,U,,USA
-233251,Nancy,Pearce,U,19280716,USA
+233251,Nancy,Jeffett,U,19280716,USA
 233252,Jean,Dalstrom,U,,USA
 233253,Mrs,Garvin,U,,AUS
 233254,Mrs C,Johnstone,U,,AUS
@@ -35794,7 +35794,7 @@
 235802,,Pfister,U,,FRA
 235803,,Garnier,U,,FRA
 235804,Evelyn,Donaldson,U,,USA
-235805,Marion,Jessup,U,,USA
+235805,Marion,Jessup,R,18960506,USA
 235806,Jane,Morrison,U,,USA
 235807,Mrs William,Cocke,U,,USA
 235808,Kitty,Coxe,U,,USA
@@ -35881,7 +35881,7 @@
 235889,Giorgia,Bersani,U,,ITA
 235890,Aulia,Yunita,U,,INA
 235891,Stefanie,Lansdorf,U,,USA
-235892,Dina,Birch,U,,USA
+235892,Dina,Birch,U,19711211,USA
 235893,Tiffany,Brant,U,,GBR
 235894,Karen,Brunyee,U,,RSA
 235895,Tara,Harvey,U,,ZIM
@@ -37130,7 +37130,7 @@
 237138,Helen,Tomlinson,U,,USA
 237139,Edith,Earle Lee,U,,USA
 237140,Libbie,Davison,U,,USA
-237141,Helen,Jacobs,U,19080806,USA
+237141,Helen,Jacobs,R,19080806,USA
 237142,Marion,Woolhiser,U,,USA
 237143,Marjory,Stafford,U,,USA
 237144,Frances,Engelmann,U,,USA
@@ -39355,3 +39355,20 @@
 239363,Eileen,Hughes,U,,AUS
 239364,Linda,Hughes,U,,AUS
 239365,Minnie,Hunter,U,,GBR
+239366,Edwina,Hensel,U,18911202,USA
+239367,Keyden,Irving,U,18940118,AUS
+239368,Ludmilla,Isnard,U,18921114,RUS
+239369,May,Jacks,U,,GBR
+239370,Florence,Jackson,U,,AUS
+239371,Helen,Jackson,U,18671219,GBR
+239372,Janet,Jackson,U,18910929,IRL
+239373,Maude,Jackson,U,18980912,GBR
+239374,Friedel,Jacobiny,U,,GER
+239375,Phyllis,Jillett,U,19100327,AUS
+239376,Edith,Johnson,U,18740131,GBR
+239377,Sybil,Johnson,U,,GBR
+239378,Lucy,Johnstone,U,19051209,GBR
+239379,Ida,Joly,U,19001027,BEL
+239380,Georgina,Jones,U,18820901,USA
+239381,Marion,Jones,R,18791102,USA
+239382,Hete,Kaeber,U,,GER
