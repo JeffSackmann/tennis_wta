@@ -27,9 +27,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-D007,Fed Cup WG R1: ESP vs SUI,Clay,4,D,20040424,2,200049,,,Conchita Martinez,R,170,ESP,32.0219028063,200022,,,Emmanuelle Gagliardi,R,,SUI,27.7919233402,2-6 6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,18,1457,96,397
 2004-D007,Fed Cup WG R1: ESP vs SUI,Clay,4,D,20040424,3,200049,,,Conchita Martinez,R,170,ESP,32.0219028063,200067,,,Patty Schnyder,L,168,SUI,25.3607118412,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,18,1457,17,1599
 2004-D007,Fed Cup WG R1: ESP vs SUI,Clay,4,D,20040424,4,201335,,,Myriam Casanova,R,,SUI,18.8446269678,200777,,,Marta Marrero,R,,ESP,21.2703627652,6-7(4) 6-4 6-0,3,RR,,,,,,,,,,,,,,,,,,,,87,429,80,456
-2004-D008,Fed Cup WG R1: BEL vs CRO,Clay,4,D,20040424,1,200079,,,Kim Clijsters,R,,BEL,20.8788501027,200056,,,Jelena Kostanic Tosic,L,168,CRO,22.8008213552,6-1 4-6 6-1,3,RR,,,,,,,,,,,,,,,,,,,,2,6280,43,752
+2004-D008,Fed Cup WG R1: BEL vs CRO,Clay,4,D,20040424,1,200079,,,Kim Clijsters,R,175,BEL,20.8788501027,200056,,,Jelena Kostanic Tosic,L,168,CRO,22.8008213552,6-1 4-6 6-1,3,RR,,,,,,,,,,,,,,,,,,,,2,6280,43,752
 2004-D008,Fed Cup WG R1: BEL vs CRO,Clay,4,D,20040424,2,201368,,,Karolina Sprem,R,174,CRO,19.4962354552,201465,,,Kirsten Flipkens,R,165,BEL,18.2861054073,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,28,1003,,
-2004-D008,Fed Cup WG R1: BEL vs CRO,Clay,4,D,20040424,3,200079,,,Kim Clijsters,R,,BEL,20.8788501027,201368,,,Karolina Sprem,R,174,CRO,19.4962354552,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,2,6280,28,1003
+2004-D008,Fed Cup WG R1: BEL vs CRO,Clay,4,D,20040424,3,200079,,,Kim Clijsters,R,175,BEL,20.8788501027,201368,,,Karolina Sprem,R,174,CRO,19.4962354552,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,2,6280,28,1003
 2004-D008,Fed Cup WG R1: BEL vs CRO,Clay,4,D,20040424,4,200042,,,Els Callens,R,,BEL,33.6783025325,200056,,,Jelena Kostanic Tosic,L,168,CRO,22.8008213552,6-2 3-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,84,436,43,752
 2004-D009,Fed Cup WG QF: AUT vs USA,Clay,4,D,20040710,1,200039,,,Chanda Rubin,R,168,USA,28.3915126626,200078,,,Barbara Schwartz,L,,AUT,25.4510609172,6-1 5-7 6-4,3,RR,,,,,,,,,,,,,,,,,,,,24,1145,324,67
 2004-D009,Fed Cup WG QF: AUT vs USA,Clay,4,D,20040710,2,200032,,,Barbara Schett,R,176,AUT,28.334017796,200020,,,Lisa Raymond,R,165,USA,30.9158110883,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,89,418,30,945
@@ -131,13 +131,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-D050,Fed Cup G1 RRA: COL vs ESA,Clay,4,D,20040422,2,207003,,,Liz Cruz,R,,ESA,18.7542778919,202462,,,Karen Castiblanco,L,,COL,16.2847364819,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D051,Fed Cup G1 RRA: COL vs MEX,Clay,4,D,20040420,1,203216,,,Marcela Arroyo Vergara,R,,MEX,19.3511293634,208828,,,Andrea Giraldo,U,,COL,16.2518822724,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D051,Fed Cup G1 RRA: COL vs MEX,Clay,4,D,20040420,2,202352,,,Daniela Munoz Gallegos,R,,MEX,20.2217659138,202462,,,Karen Castiblanco,L,,COL,16.2792607803,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D052,Fed Cup G1 RRA: COL vs PUR,Clay,4,D,20040421,1,208828,,,Andrea Giraldo,U,,COL,16.2546201232,212154,,,Maria Calbeto,,,PUR,17.0020533881,6-2 3-6 11-9,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D052,Fed Cup G1 RRA: COL vs PUR,Clay,4,D,20040421,1,208828,,,Andrea Giraldo,U,,COL,16.2546201232,212154,,,Maria Calbeto,U,,PUR,17.0020533881,6-2 3-6 11-9,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D052,Fed Cup G1 RRA: COL vs PUR,Clay,4,D,20040421,2,202331,,,Vilmarie Castellvi,U,,PUR,23.0855578371,202462,,,Karen Castiblanco,L,,COL,16.2819986311,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,176,166,,
 2004-D053,Fed Cup G1 RRA: ESA vs MEX,Clay,4,D,20040421,1,203216,,,Marcela Arroyo Vergara,R,,MEX,19.3538672142,207004,,,Miriam Cruz,R,,ESA,18.7515400411,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D053,Fed Cup G1 RRA: ESA vs MEX,Clay,4,D,20040421,2,202352,,,Daniela Munoz Gallegos,R,,MEX,20.2245037645,207003,,,Liz Cruz,R,,ESA,18.7515400411,7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D054,Fed Cup G1 RRA: ESA vs PUR,Clay,4,D,20040420,1,207004,,,Miriam Cruz,R,,ESA,18.7488021903,212181,,,Bianca Gorbea,,,PUR,17.3388090349,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D054,Fed Cup G1 RRA: ESA vs PUR,Clay,4,D,20040420,1,207004,,,Miriam Cruz,R,,ESA,18.7488021903,212181,,,Bianca Gorbea,U,,PUR,17.3388090349,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D054,Fed Cup G1 RRA: ESA vs PUR,Clay,4,D,20040420,2,202331,,,Vilmarie Castellvi,U,,PUR,23.0828199863,207003,,,Liz Cruz,R,,ESA,18.7488021903,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,176,166,,
-2004-D055,Fed Cup G1 RRA: MEX vs PUR,Clay,4,D,20040422,1,201637,,,Melissa Torres Sandoval,R,,MEX,20.2162902122,212181,,,Bianca Gorbea,,,PUR,17.3442847365,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D055,Fed Cup G1 RRA: MEX vs PUR,Clay,4,D,20040422,1,201637,,,Melissa Torres Sandoval,R,,MEX,20.2162902122,212181,,,Bianca Gorbea,U,,PUR,17.3442847365,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D055,Fed Cup G1 RRA: MEX vs PUR,Clay,4,D,20040422,2,202352,,,Daniela Munoz Gallegos,R,,MEX,20.2272416153,202331,,,Vilmarie Castellvi,U,,PUR,23.0882956879,7-6(2) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,176,166
 2004-D056,Fed Cup G1 RRB: BRA vs CAN,Clay,4,D,20040422,1,201486,,,Aleksandra Wozniak,R,175,CAN,16.6242299795,202303,,,Carla Tiene,L,,BRA,22.9377138946,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,273,86
 2004-D056,Fed Cup G1 RRB: BRA vs CAN,Clay,4,D,20040422,2,201383,,,Marie Eve Pelletier,R,,CAN,21.9301848049,202302,,,Maria Fernanda Alves,L,,BRA,21.015742642,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,206,127,221,115
@@ -159,16 +159,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-D064,Fed Cup G1 RRB: CHI vs URU,Clay,4,D,20040419,2,202309,,,Ana Lucia Migliarini De Leon,L,,URU,20.3422313484,202393,,,Andrea Koch Benvenuto,R,,CHI,18.9815195072,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D065,Fed Cup G1 RRB: CUB vs URU,Clay,4,D,20040422,1,207947,,,Yamile Fors Guerra,U,,CUB,26.9486652977,205467,,,Maria Eugenia Roca Recarey,L,,URU,14.9678302533,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D065,Fed Cup G1 RRB: CUB vs URU,Clay,4,D,20040422,2,202309,,,Ana Lucia Migliarini De Leon,L,,URU,20.3504449008,207956,,,Yanet Nunez Mojarena,U,,CUB,22.8062970568,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D066,Fed Cup G2 RRA: ECU vs GUA,Clay,4,D,20040421,1,208147,,,Pamela Duran Vinueza,U,,ECU,17.1745379877,212119,,,Luisa Elfride Lopez,,,GUA,23.1813826146,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D066,Fed Cup G2 RRA: ECU vs GUA,Clay,4,D,20040421,2,205003,,,Estefania Balda Alvarez,R,,ECU,16.810403833,212117,,,Lucia Henkle Gomez,,,GUA,19.8603696099,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D066,Fed Cup G2 RRA: ECU vs GUA,Clay,4,D,20040421,1,208147,,,Pamela Duran Vinueza,U,,ECU,17.1745379877,212119,,,Luisa Elfride Lopez,U,,GUA,23.1813826146,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D066,Fed Cup G2 RRA: ECU vs GUA,Clay,4,D,20040421,2,205003,,,Estefania Balda Alvarez,R,,ECU,16.810403833,212117,,,Lucia Henkle Gomez,U,,GUA,19.8603696099,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D067,Fed Cup G2 RRA: ECU vs JAM,Clay,4,D,20040422,1,202583,,,Megan Moulton Levy,R,,USA,19.1156741958,208147,,,Pamela Duran Vinueza,U,,ECU,17.1772758385,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D067,Fed Cup G2 RRA: ECU vs JAM,Clay,4,D,20040422,2,205003,,,Estefania Balda Alvarez,R,,ECU,16.8131416838,205195,,,Alanna Broderick,R,,JAM,23.6769336071,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D068,Fed Cup G2 RRA: ECU vs PAR,Clay,4,D,20040420,1,206579,,,Sarah Tami Masi,R,,PAR,19.8466803559,208147,,,Pamela Duran Vinueza,U,,ECU,17.1718001369,3-6 6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D068,Fed Cup G2 RRA: ECU vs PAR,Clay,4,D,20040420,2,201729,,,Larissa Schaerer,R,,PAR,29.015742642,205003,,,Estefania Balda Alvarez,R,,ECU,16.8076659822,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D069,Fed Cup G2 RRA: GUA vs JAM,Clay,4,D,20040420,1,202583,,,Megan Moulton Levy,R,,USA,19.1101984942,212119,,,Luisa Elfride Lopez,,,GUA,23.1786447639,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D069,Fed Cup G2 RRA: GUA vs JAM,Clay,4,D,20040420,2,205195,,,Alanna Broderick,R,,JAM,23.6714579055,212117,,,Lucia Henkle Gomez,,,GUA,19.8576317591,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D070,Fed Cup G2 RRA: GUA vs PAR,Clay,4,D,20040422,1,212119,,,Luisa Elfride Lopez,,,GUA,23.1841204654,208251,,,Maria Rossana Vega Saguier,R,,PAR,17.8015058179,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D070,Fed Cup G2 RRA: GUA vs PAR,Clay,4,D,20040422,2,201729,,,Larissa Schaerer,R,,PAR,29.0212183436,212117,,,Lucia Henkle Gomez,,,GUA,19.8631074606,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D069,Fed Cup G2 RRA: GUA vs JAM,Clay,4,D,20040420,1,202583,,,Megan Moulton Levy,R,,USA,19.1101984942,212119,,,Luisa Elfride Lopez,U,,GUA,23.1786447639,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D069,Fed Cup G2 RRA: GUA vs JAM,Clay,4,D,20040420,2,205195,,,Alanna Broderick,R,,JAM,23.6714579055,212117,,,Lucia Henkle Gomez,U,,GUA,19.8576317591,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D070,Fed Cup G2 RRA: GUA vs PAR,Clay,4,D,20040422,1,212119,,,Luisa Elfride Lopez,U,,GUA,23.1841204654,208251,,,Maria Rossana Vega Saguier,R,,PAR,17.8015058179,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D070,Fed Cup G2 RRA: GUA vs PAR,Clay,4,D,20040422,2,201729,,,Larissa Schaerer,R,,PAR,29.0212183436,212117,,,Lucia Henkle Gomez,U,,GUA,19.8631074606,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D071,Fed Cup G2 RRA: JAM vs PAR,Clay,4,D,20040421,1,206579,,,Sarah Tami Masi,R,,PAR,19.8494182067,202583,,,Megan Moulton Levy,R,,USA,19.112936345,1-6 6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D071,Fed Cup G2 RRA: JAM vs PAR,Clay,4,D,20040421,2,201729,,,Larissa Schaerer,R,,PAR,29.0184804928,205195,,,Alanna Broderick,R,,JAM,23.6741957563,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D072,Fed Cup G2 RRB: BOL vs DOM,Clay,4,D,20040421,1,207943,,,Monica Hoz De Vila,U,,BOL,18.8309377139,208093,,,Chandra Capozzi,R,,DOM,17.0704996578,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
@@ -177,26 +177,26 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-D073,Fed Cup G2 RRB: BOL vs VEN,Clay,4,D,20040420,2,202900,,,Maria Fernanda Alvarez Teran,R,,BOL,15.1403148528,202823,,,Mariana Muci Torres,R,,VEN,16.1779603012,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D074,Fed Cup G2 RRB: DOM vs VEN,Clay,4,D,20040422,1,207914,,,Paola Iovino,R,,VEN,18.0780287474,208297,,,Natalia Baez,U,,DOM,16.9965776865,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D074,Fed Cup G2 RRB: DOM vs VEN,Clay,4,D,20040422,2,202823,,,Mariana Muci Torres,R,,VEN,16.1834360027,208093,,,Chandra Capozzi,R,,DOM,17.0732375086,7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D075,Fed Cup G2 RR: SIN vs SYR,Hard,4,D,20040421,1,205348,,,Wei Ping Lee,R,,SIN,14.4120465435,212182,,,Hazar Sidki,,,SYR,20.0355920602,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D075,Fed Cup G2 RR: SIN vs SYR,Hard,4,D,20040421,1,205348,,,Wei Ping Lee,R,,SIN,14.4120465435,212182,,,Hazar Sidki,U,,SYR,20.0355920602,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D075,Fed Cup G2 RR: SIN vs SYR,Hard,4,D,20040421,2,207784,,,Rui Jing Wong,U,,SIN,21.9986310746,209992,,,Lara Alsamman,U,,SYR,17.0239561944,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D076,Fed Cup G2 RR: SIN vs TKM,Hard,4,D,20040420,1,205348,,,Wei Ping Lee,R,,SIN,14.4093086927,212183,,,Ummarahmat Hummetova,,,TKM,18.932238193,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D076,Fed Cup G2 RR: SIN vs TKM,Hard,4,D,20040420,2,207784,,,Rui Jing Wong,U,,SIN,21.9958932238,212184,,,Jenneta Halliyeva,,,TKM,21.2210814511,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D077,Fed Cup G2 RR: SIN vs POC,Hard,4,D,20040423,1,205348,,,Wei Ping Lee,R,,SIN,14.417522245,212185,,,Irene George,,,POC,20.4517453799,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D077,Fed Cup G2 RR: SIN vs POC,Hard,4,D,20040423,2,207784,,,Rui Jing Wong,U,,SIN,22.0041067762,212145,,,Gurianna Korinihona,,,POC,19.4661190965,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D078,Fed Cup G2 RR: SIN vs KAZ,Hard,4,D,20040424,1,212186,,,Yekaterina Morozova,,,KAZ,16.2217659138,212187,,,Pei Ling Tong,,,SIN,14.8692676249,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D078,Fed Cup G2 RR: SIN vs KAZ,Hard,4,D,20040424,2,202864,,,Amina Rakhim,R,,KAZ,15.1676933607,212188,,,Yun Ling Ng,,,SIN,15.3593429158,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D079,Fed Cup G2 RR: SYR vs TKM,Hard,4,D,20040424,1,212182,,,Hazar Sidki,,,SYR,20.0438056126,212183,,,Ummarahmat Hummetova,,,TKM,18.9431895962,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D079,Fed Cup G2 RR: SYR vs TKM,Hard,4,D,20040424,2,209992,,,Lara Alsamman,U,,SYR,17.0321697467,212184,,,Jenneta Halliyeva,,,TKM,21.2320328542,6-2 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D080,Fed Cup G2 RR: SYR vs POC,Hard,4,D,20040422,1,212185,,,Irene George,,,POC,20.4490075291,212182,,,Hazar Sidki,,,SYR,20.038329911,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D080,Fed Cup G2 RR: SYR vs POC,Hard,4,D,20040422,2,212145,,,Gurianna Korinihona,,,POC,19.4633812457,209992,,,Lara Alsamman,U,,SYR,17.0266940452,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D081,Fed Cup G2 RR: SYR vs KAZ,Hard,4,D,20040423,1,212186,,,Yekaterina Morozova,,,KAZ,16.219028063,212189,,,Nivin Kezbari,,,SYR,19.2689938398,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D076,Fed Cup G2 RR: SIN vs TKM,Hard,4,D,20040420,1,205348,,,Wei Ping Lee,R,,SIN,14.4093086927,212183,,,Ummarahmat Hummetova,U,,TKM,18.932238193,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D076,Fed Cup G2 RR: SIN vs TKM,Hard,4,D,20040420,2,207784,,,Rui Jing Wong,U,,SIN,21.9958932238,212184,,,Jenneta Halliyeva,U,,TKM,21.2210814511,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D077,Fed Cup G2 RR: SIN vs POC,Hard,4,D,20040423,1,205348,,,Wei Ping Lee,R,,SIN,14.417522245,212185,,,Irene George,U,,POC,20.4517453799,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D077,Fed Cup G2 RR: SIN vs POC,Hard,4,D,20040423,2,207784,,,Rui Jing Wong,U,,SIN,22.0041067762,212145,,,Gurianna Korinihona,U,,POC,19.4661190965,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D078,Fed Cup G2 RR: SIN vs KAZ,Hard,4,D,20040424,1,212186,,,Yekaterina Morozova,U,,KAZ,16.2217659138,212187,,,Pei Ling Tong,U,,SIN,14.8692676249,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D078,Fed Cup G2 RR: SIN vs KAZ,Hard,4,D,20040424,2,202864,,,Amina Rakhim,R,,KAZ,15.1676933607,212188,,,Yun Ling Ng,U,,SIN,15.3593429158,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D079,Fed Cup G2 RR: SYR vs TKM,Hard,4,D,20040424,1,212182,,,Hazar Sidki,U,,SYR,20.0438056126,212183,,,Ummarahmat Hummetova,U,,TKM,18.9431895962,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D079,Fed Cup G2 RR: SYR vs TKM,Hard,4,D,20040424,2,209992,,,Lara Alsamman,U,,SYR,17.0321697467,212184,,,Jenneta Halliyeva,U,,TKM,21.2320328542,6-2 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D080,Fed Cup G2 RR: SYR vs POC,Hard,4,D,20040422,1,212185,,,Irene George,U,,POC,20.4490075291,212182,,,Hazar Sidki,U,,SYR,20.038329911,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D080,Fed Cup G2 RR: SYR vs POC,Hard,4,D,20040422,2,212145,,,Gurianna Korinihona,U,,POC,19.4633812457,209992,,,Lara Alsamman,U,,SYR,17.0266940452,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D081,Fed Cup G2 RR: SYR vs KAZ,Hard,4,D,20040423,1,212186,,,Yekaterina Morozova,U,,KAZ,16.219028063,212189,,,Nivin Kezbari,U,,SYR,19.2689938398,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D081,Fed Cup G2 RR: SYR vs KAZ,Hard,4,D,20040423,2,209433,,,Madina Rakhim,U,,KAZ,18.9568788501,209992,,,Lara Alsamman,U,,SYR,17.029431896,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D082,Fed Cup G2 RR: TKM vs POC,Hard,4,D,20040421,1,212185,,,Irene George,,,POC,20.4462696783,212190,,,Almira Hallyeva,,,TKM,18.2559890486,6-3 7-6(10),3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D082,Fed Cup G2 RR: TKM vs POC,Hard,4,D,20040421,2,212145,,,Gurianna Korinihona,,,POC,19.4606433949,212184,,,Jenneta Halliyeva,,,TKM,21.2238193018,6-3 7-6(14),3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D083,Fed Cup G2 RR: TKM vs KAZ,Hard,4,D,20040422,1,212186,,,Yekaterina Morozova,,,KAZ,16.2162902122,212183,,,Ummarahmat Hummetova,,,TKM,18.9377138946,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D083,Fed Cup G2 RR: TKM vs KAZ,Hard,4,D,20040422,2,202864,,,Amina Rakhim,R,,KAZ,15.1622176591,212191,,,Veronika Babayan,,,TKM,15.9260780287,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D084,Fed Cup G2 RR: POC vs KAZ,Hard,4,D,20040420,1,202864,,,Amina Rakhim,R,,KAZ,15.1567419576,212185,,,Irene George,,,POC,20.4435318275,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D084,Fed Cup G2 RR: POC vs KAZ,Hard,4,D,20040420,2,209433,,,Madina Rakhim,U,,KAZ,18.9486652977,212145,,,Gurianna Korinihona,,,POC,19.4579055441,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D082,Fed Cup G2 RR: TKM vs POC,Hard,4,D,20040421,1,212185,,,Irene George,U,,POC,20.4462696783,212190,,,Almira Hallyeva,U,,TKM,18.2559890486,6-3 7-6(10),3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D082,Fed Cup G2 RR: TKM vs POC,Hard,4,D,20040421,2,212145,,,Gurianna Korinihona,U,,POC,19.4606433949,212184,,,Jenneta Halliyeva,U,,TKM,21.2238193018,6-3 7-6(14),3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D083,Fed Cup G2 RR: TKM vs KAZ,Hard,4,D,20040422,1,212186,,,Yekaterina Morozova,U,,KAZ,16.2162902122,212183,,,Ummarahmat Hummetova,U,,TKM,18.9377138946,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D083,Fed Cup G2 RR: TKM vs KAZ,Hard,4,D,20040422,2,202864,,,Amina Rakhim,R,,KAZ,15.1622176591,212191,,,Veronika Babayan,U,,TKM,15.9260780287,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D084,Fed Cup G2 RR: POC vs KAZ,Hard,4,D,20040420,1,202864,,,Amina Rakhim,R,,KAZ,15.1567419576,212185,,,Irene George,U,,POC,20.4435318275,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D084,Fed Cup G2 RR: POC vs KAZ,Hard,4,D,20040420,2,209433,,,Madina Rakhim,U,,KAZ,18.9486652977,212145,,,Gurianna Korinihona,U,,POC,19.4579055441,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D085,Fed Cup G1 PO: CHN vs UZB,Hard,4,D,20040424,1,203148,,,Shu Jing Yang,U,,CHN,19.5509924709,202387,,,Vlada Ekshibarova,R,,UZB,15.112936345,3-6 6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D085,Fed Cup G1 PO: CHN vs UZB,Hard,4,D,20040424,2,202281,,,Ivanna Israilova,R,,RUS,18.2176591376,202293,,,Jie Hao,U,,CHN,19.5208761123,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D086,Fed Cup G1 PO: PHI vs TPE,Hard,4,D,20040424,1,202572,,,I Hsuan Hwang,R,,TPE,15.5893223819,207551,,,Anna Patricia Santos,U,,PHI,24.2984257358,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
@@ -211,7 +211,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-D090,Fed Cup G1 PO: CAN vs ESA,Clay,4,D,20040424,2,201383,,,Marie Eve Pelletier,R,,CAN,21.9356605065,207003,,,Liz Cruz,R,,ESA,18.7597535934,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,206,127,,
 2004-D091,Fed Cup G1 PO: COL vs URU,Clay,4,D,20040424,1,205467,,,Maria Eugenia Roca Recarey,L,,URU,14.9733059548,205611,,,Gabriela Mejia Tenorio,U,,COL,15.1759069131,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D091,Fed Cup G1 PO: COL vs URU,Clay,4,D,20040424,2,202309,,,Ana Lucia Migliarini De Leon,L,,URU,20.3559206023,202462,,,Karen Castiblanco,L,,COL,16.2902121834,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D092,Fed Cup G1 PO: PUR vs CHI,Clay,4,D,20040424,1,205143,,,Valentina Castro,U,,CHI,22.7707049966,212154,,,Maria Calbeto,,,PUR,17.0102669405,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D092,Fed Cup G1 PO: PUR vs CHI,Clay,4,D,20040424,1,205143,,,Valentina Castro,U,,CHI,22.7707049966,212154,,,Maria Calbeto,U,,PUR,17.0102669405,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D092,Fed Cup G1 PO: PUR vs CHI,Clay,4,D,20040424,2,202331,,,Vilmarie Castellvi,U,,PUR,23.0937713895,202393,,,Andrea Koch Benvenuto,R,,CHI,18.9952087611,7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,,176,166,,
 2004-D093,Fed Cup G1 PO: GRE vs LTU,Clay,4,D,20040424,1,202946,,,Christina Zachariadou,R,,GRE,29.6563997262,204969,,,Edita Liachoviciute,U,,LTU,28.0465434634,3-6 6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D093,Fed Cup G1 PO: GRE vs LTU,Clay,4,D,20040424,2,201305,,,Eleni Daniilidou,R,182,GRE,21.5961670089,202348,,,Lina Stanciute,R,,LTU,18.2094455852,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,26,1093,244,100
@@ -238,7 +238,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-D104,Fed Cup G2 PO: BOL vs JAM,Clay,4,D,20040424,1,202583,,,Megan Moulton Levy,R,,USA,19.1211498973,207943,,,Monica Hoz De Vila,U,,BOL,18.8391512663,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D104,Fed Cup G2 PO: BOL vs JAM,Clay,4,D,20040424,2,202900,,,Maria Fernanda Alvarez Teran,R,,BOL,15.151266256,205195,,,Alanna Broderick,R,,JAM,23.6824093087,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D105,Fed Cup G2 PO: DOM vs GUA,Clay,4,D,20040423,1,208093,,,Chandra Capozzi,R,,DOM,17.0759753593,208521,,,Karen Saravia,U,,GUA,18.8254620123,6-1 6-7(1) 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D105,Fed Cup G2 PO: DOM vs GUA,Clay,4,D,20040423,2,212119,,,Luisa Elfride Lopez,,,GUA,23.1868583162,208297,,,Natalia Baez,U,,DOM,16.9993155373,6-3 3-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D105,Fed Cup G2 PO: DOM vs GUA,Clay,4,D,20040423,2,212119,,,Luisa Elfride Lopez,U,,GUA,23.1868583162,208297,,,Natalia Baez,U,,DOM,16.9993155373,6-3 3-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D106,Fed Cup WG PO: THA vs AUS,Hard,4,D,20040710,1,201681,,,Suchanun Viratprasert,R,,THA,21.5222450376,200036,,,Nicole Pratt,R,,AUS,31.3483915127,6-2 1-6 6-1,3,RR,,,,,,,,,,,,,,,,,,,,174,168,41,793
 2004-D106,Fed Cup WG PO: THA vs AUS,Hard,4,D,20040710,2,200009,,,Tamarine Tanasugarn,R,165,THA,27.1293634497,201325,,,Samantha Stosur,R,172,AUS,20.2792607803,5-7 6-2 8-6,3,RR,,,,,,,,,,,,,,,,,,,,51,693,90,414
 2004-D106,Fed Cup WG PO: THA vs AUS,Hard,4,D,20040710,3,200009,,,Tamarine Tanasugarn,R,165,THA,27.1293634497,200036,,,Nicole Pratt,R,,AUS,31.3483915127,1-6 6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,51,693,41,793
@@ -255,9 +255,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-D109,Fed Cup WG PO: UKR vs GER,Clay,4,D,20040710,2,201385,,,Yuliana Fedak,R,166,UKR,21.0896646133,201394,,,Anna Lena Groenefeld,R,180,GER,19.099247091,2-6 6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,108,350,93,395
 2004-D109,Fed Cup WG PO: UKR vs GER,Clay,4,D,20040710,3,201309,,,Tatiana Perebiynis,R,,UKR,21.568788501,201394,,,Anna Lena Groenefeld,R,180,GER,19.099247091,4-6 6-4 11-9,3,RR,,,,,,,,,,,,,,,,,,,,88,418,93,395
 2004-D109,Fed Cup WG PO: UKR vs GER,Clay,4,D,20040710,4,200094,,,Barbara Rittner,R,,GER,31.2087611225,201385,,,Yuliana Fedak,R,166,UKR,21.0896646133,6-3 4-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,161,191,108,350
-2004-D110,Fed Cup WG PO: BUL vs JPN,Clay,4,D,20040710,1,201085,,,Shinobu Asagoe,R,,JPN,28.0328542094,201450,,,Tsvetana Pironkova,R,180,BUL,16.8240930869,7-6(6) 3-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,67,548,289,83
+2004-D110,Fed Cup WG PO: BUL vs JPN,Clay,4,D,20040710,1,201085,,,Shinobu Asagoe,R,170,JPN,28.0328542094,201450,,,Tsvetana Pironkova,R,180,BUL,16.8240930869,7-6(6) 3-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,67,548,289,83
 2004-D110,Fed Cup WG PO: BUL vs JPN,Clay,4,D,20040710,2,202245,,,Desislava Topalova,U,,BUL,26.0889801506,201323,,,Saori Obata,L,,JPN,26.2149212868,7-5 3-0 RET,5,RR,,,,,,,,,,,,,,,,,,,,230,118,46,724
-2004-D110,Fed Cup WG PO: BUL vs JPN,Clay,4,D,20040710,3,201085,,,Shinobu Asagoe,R,,JPN,28.0328542094,202245,,,Desislava Topalova,U,,BUL,26.0889801506,6-1 6-7(3) 6-4,3,RR,,,,,,,,,,,,,,,,,,,,67,548,230,118
+2004-D110,Fed Cup WG PO: BUL vs JPN,Clay,4,D,20040710,3,201085,,,Shinobu Asagoe,R,170,JPN,28.0328542094,202245,,,Desislava Topalova,U,,BUL,26.0889801506,6-1 6-7(3) 6-4,3,RR,,,,,,,,,,,,,,,,,,,,67,548,230,118
 2004-D110,Fed Cup WG PO: BUL vs JPN,Clay,4,D,20040710,4,201450,,,Tsvetana Pironkova,R,180,BUL,16.8240930869,200713,,,Yuka Yoshida,R,,JPN,28.2737850787,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,289,83,150,226
 2004-D111,Fed Cup WG PO: SVK vs BLR,Clay,4,D,20040710,1,201346,,,Lubomira Kurhajcova,R,,SVK,20.7474332649,202787,,,Tatsiana Uvarova,U,,BLR,18.9596167009,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,74,499,284,85
 2004-D111,Fed Cup WG PO: SVK vs BLR,Clay,4,D,20040710,2,201292,,,Martina Sucha,R,,SVK,23.6358658453,201412,,,Anastasia Yakimova,R,165,BLR,17.6892539357,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,78,466,199,140
@@ -292,28 +292,28 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-D123,Fed Cup G2 RRB: GEO vs FIN,Hard,4,D,20040430,1,202813,,,Sofia Melikishvili,U,,GEO,16.9719370294,208426,,,Carina Bjornstrom,U,,FIN,18.6009582478,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,521,23,842,6
 2004-D123,Fed Cup G2 RRB: GEO vs FIN,Hard,4,D,20040430,2,201441,,,Emma Laine,L,,FIN,18.0971937029,202789,,,Salome Devidze,R,,GEO,18.3244353183,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,315,67,254,94
 2004-D124,Fed Cup G3 RR: TUN vs BOT,Hard,4,D,20040429,1,210539,,,Tapiwa Marobela,L,,BOT,16.9993155373,204553,,,Ines Zouabi,U,,TUN,24.3942505133,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D124,Fed Cup G3 RR: TUN vs BOT,Hard,4,D,20040429,2,201209,,,Selima Sfar,R,,TUN,26.8090349076,212151,,,Lesedi Ramocha,,,BOT,23.4168377823,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,133,243,,
-2004-D125,Fed Cup G3 RR: TUN vs KEN,Hard,4,D,20040428,1,204553,,,Ines Zouabi,U,,TUN,24.3915126626,212192,,,Meera Kantaria,,,KEN,15.1731690623,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D125,Fed Cup G3 RR: TUN vs KEN,Hard,4,D,20040428,2,201209,,,Selima Sfar,R,,TUN,26.8062970568,212193,,,Wanjika Ngaruiya,,,KEN,14.9267624914,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,133,243,,
-2004-D126,Fed Cup G3 RR: MLT vs TUN,Hard,4,D,20040427,1,212082,,,Lisa Camenzuli,,,MLT,27.279945243,204553,,,Ines Zouabi,U,,TUN,24.3887748118,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D126,Fed Cup G3 RR: MLT vs TUN,Hard,4,D,20040427,2,201209,,,Selima Sfar,R,,TUN,26.803559206,212146,,,Sarah Wetz,,,MLT,23.794661191,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,133,243,,
-2004-D127,Fed Cup G3 RR: BOT vs KEN,Hard,4,D,20040427,1,210539,,,Tapiwa Marobela,L,,BOT,16.9938398357,212130,,,Evelyn Otula,,,KEN,29.3333333333,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D127,Fed Cup G3 RR: BOT vs KEN,Hard,4,D,20040427,2,212193,,,Wanjika Ngaruiya,,,KEN,14.9240246407,212151,,,Lesedi Ramocha,,,BOT,23.4113620808,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D128,Fed Cup G3 RR: MLT vs BOT,Hard,4,D,20040428,1,212082,,,Lisa Camenzuli,,,MLT,27.2826830938,212194,,,Laone Botshoma,,,BOT,16.7857631759,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D124,Fed Cup G3 RR: TUN vs BOT,Hard,4,D,20040429,2,201209,,,Selima Sfar,R,,TUN,26.8090349076,212151,,,Lesedi Ramocha,U,,BOT,23.4168377823,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,133,243,,
+2004-D125,Fed Cup G3 RR: TUN vs KEN,Hard,4,D,20040428,1,204553,,,Ines Zouabi,U,,TUN,24.3915126626,212192,,,Meera Kantaria,U,,KEN,15.1731690623,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D125,Fed Cup G3 RR: TUN vs KEN,Hard,4,D,20040428,2,201209,,,Selima Sfar,R,,TUN,26.8062970568,212193,,,Wanjika Ngaruiya,U,,KEN,14.9267624914,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,133,243,,
+2004-D126,Fed Cup G3 RR: MLT vs TUN,Hard,4,D,20040427,1,212082,,,Lisa Camenzuli,U,,MLT,27.279945243,204553,,,Ines Zouabi,U,,TUN,24.3887748118,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D126,Fed Cup G3 RR: MLT vs TUN,Hard,4,D,20040427,2,201209,,,Selima Sfar,R,,TUN,26.803559206,212146,,,Sarah Wetz,U,,MLT,23.794661191,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,133,243,,
+2004-D127,Fed Cup G3 RR: BOT vs KEN,Hard,4,D,20040427,1,210539,,,Tapiwa Marobela,L,,BOT,16.9938398357,212130,,,Evelyn Otula,U,,KEN,29.3333333333,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D127,Fed Cup G3 RR: BOT vs KEN,Hard,4,D,20040427,2,212193,,,Wanjika Ngaruiya,U,,KEN,14.9240246407,212151,,,Lesedi Ramocha,U,,BOT,23.4113620808,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D128,Fed Cup G3 RR: MLT vs BOT,Hard,4,D,20040428,1,212082,,,Lisa Camenzuli,U,,MLT,27.2826830938,212194,,,Laone Botshoma,U,,BOT,16.7857631759,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D128,Fed Cup G3 RR: MLT vs BOT,Hard,4,D,20040428,2,212147,,,Rosanne Dimech,R,,MLT,18.5023956194,210539,,,Tapiwa Marobela,L,,BOT,16.9965776865,7-6(5) 1-6 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D129,Fed Cup G3 RR: MLT vs KEN,Hard,4,D,20040429,1,212082,,,Lisa Camenzuli,,,MLT,27.2854209446,212192,,,Meera Kantaria,,,KEN,15.1759069131,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D129,Fed Cup G3 RR: MLT vs KEN,Hard,4,D,20040429,2,212146,,,Sarah Wetz,,,MLT,23.8001368925,212193,,,Wanjika Ngaruiya,,,KEN,14.9295003422,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D129,Fed Cup G3 RR: MLT vs KEN,Hard,4,D,20040429,1,212082,,,Lisa Camenzuli,U,,MLT,27.2854209446,212192,,,Meera Kantaria,U,,KEN,15.1759069131,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D129,Fed Cup G3 RR: MLT vs KEN,Hard,4,D,20040429,2,212146,,,Sarah Wetz,U,,MLT,23.8001368925,212193,,,Wanjika Ngaruiya,U,,KEN,14.9295003422,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D130,Fed Cup G3 RR: NOR vs ALG,Hard,4,D,20040429,1,203217,,,Karoline Borgersen,R,,NOR,27.8275154004,207933,,,Sana Ben Salah,R,,ALG,20.3668720055,2-6 7-6(5) 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D130,Fed Cup G3 RR: NOR vs ALG,Hard,4,D,20040429,2,202818,,,Samia Medjahdi,U,,ALG,19.3100616016,208207,,,Ina Sartz,U,,NOR,22.6119096509,6-0 7-5,3,RR,,,,,,,,,,,,,,,,,,,,922,4,828,7
 2004-D131,Fed Cup G3 RR: NOR vs BIH,Hard,4,D,20040428,1,203217,,,Karoline Borgersen,R,,NOR,27.8247775496,209026,,,Selma Babic,U,,BIH,15.7700205339,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D131,Fed Cup G3 RR: NOR vs BIH,Hard,4,D,20040428,2,208207,,,Ina Sartz,U,,NOR,22.6091718001,208686,,,Sanja Racic,R,,BIH,16.0793976728,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,828,7,,
-2004-D132,Fed Cup G3 RR: NOR vs NAM,Hard,4,D,20040427,1,203217,,,Karoline Borgersen,R,,NOR,27.8220396988,212195,,,Elna De Villiers,,,NAM,17.87816564,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D132,Fed Cup G3 RR: NOR vs NAM,Hard,4,D,20040427,1,203217,,,Karoline Borgersen,R,,NOR,27.8220396988,212195,,,Elna De Villiers,U,,NAM,17.87816564,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D132,Fed Cup G3 RR: NOR vs NAM,Hard,4,D,20040427,2,208207,,,Ina Sartz,U,,NOR,22.6064339493,212196,,,Alet Boonzaaier,R,,NAM,21.2183436003,6-4 7-6(4),3,RR,,,,,,,,,,,,,,,,,,,,828,7,,
 2004-D133,Fed Cup G3 RR: ALG vs BIH,Hard,4,D,20040427,1,207933,,,Sana Ben Salah,R,,ALG,20.3613963039,209026,,,Selma Babic,U,,BIH,15.7672826831,6-0 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D133,Fed Cup G3 RR: ALG vs BIH,Hard,4,D,20040427,2,202818,,,Samia Medjahdi,U,,ALG,19.3045859001,208686,,,Sanja Racic,R,,BIH,16.076659822,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,922,4,,
-2004-D134,Fed Cup G3 RR: ALG vs NAM,Hard,4,D,20040428,1,207933,,,Sana Ben Salah,R,,ALG,20.3641341547,212195,,,Elna De Villiers,,,NAM,17.8809034908,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D134,Fed Cup G3 RR: ALG vs NAM,Hard,4,D,20040428,1,207933,,,Sana Ben Salah,R,,ALG,20.3641341547,212195,,,Elna De Villiers,U,,NAM,17.8809034908,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D134,Fed Cup G3 RR: ALG vs NAM,Hard,4,D,20040428,2,202818,,,Samia Medjahdi,U,,ALG,19.3073237509,212196,,,Alet Boonzaaier,R,,NAM,21.2210814511,6-2 7-6(6),3,RR,,,,,,,,,,,,,,,,,,,,922,4,,
-2004-D135,Fed Cup G3 RR: BIH vs NAM,Hard,4,D,20040429,1,209026,,,Selma Babic,U,,BIH,15.7727583847,212197,,,Elrien De Villiers,,,NAM,15.794661191,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D135,Fed Cup G3 RR: BIH vs NAM,Hard,4,D,20040429,1,209026,,,Selma Babic,U,,BIH,15.7727583847,212197,,,Elrien De Villiers,U,,NAM,15.794661191,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D135,Fed Cup G3 RR: BIH vs NAM,Hard,4,D,20040429,2,212196,,,Alet Boonzaaier,R,,NAM,21.2238193018,208686,,,Sanja Racic,R,,BIH,16.0821355236,7-5 6-7(3) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D136,Fed Cup G2 RRA: GBR vs ROU,Hard,4,D,20040429,1,201304,,,Elena Baltacha,R,,GBR,20.7091033539,201512,,,Monica Niculescu,R,168,ROU,16.5941136208,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,322,63,444,33
 2004-D136,Fed Cup G2 RRA: GBR vs ROU,Hard,4,D,20040429,2,201303,,,Anne Keothavong,R,175,GBR,20.6187542779,202817,,,Simona Iulia Matei,R,,ROU,18.8117727584,3-6 6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,175,168,373,48
@@ -327,14 +327,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-D140,Fed Cup G2 RRA: ROU vs TUR,Hard,4,D,20040426,2,202817,,,Simona Iulia Matei,R,,ROU,18.803559206,201664,,,Pemra Ozgen,R,,TUR,17.9685147159,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,373,48,716,10
 2004-D141,Fed Cup G2 RRA: EGY vs TUR,Hard,4,D,20040428,1,207893,,,Cigdem Duru,U,,TUR,17.9767282683,204898,,,Noha Mohsen,R,,EGY,19.5920602327,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D141,Fed Cup G2 RRA: EGY vs TUR,Hard,4,D,20040428,2,201664,,,Pemra Ozgen,R,,TUR,17.9739904175,203969,,,Yomna Farid,R,,EGY,20.8350444901,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,716,10,694,11
-2004-D142,Fed Cup G3 PO: TUN vs ALG,Hard,4,D,20040430,1,207933,,,Sana Ben Salah,R,,ALG,20.3696098563,212198,,,Selima Frioui,,,TUN,16.7611225188,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D142,Fed Cup G3 PO: TUN vs ALG,Hard,4,D,20040430,1,207933,,,Sana Ben Salah,R,,ALG,20.3696098563,212198,,,Selima Frioui,U,,TUN,16.7611225188,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D142,Fed Cup G3 PO: TUN vs ALG,Hard,4,D,20040430,2,201209,,,Selima Sfar,R,,TUN,26.8117727584,202818,,,Samia Medjahdi,U,,ALG,19.3127994524,7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,133,243,922,4
-2004-D143,Fed Cup G3 PO: MLT vs NOR,Hard,4,D,20040430,1,212082,,,Lisa Camenzuli,,,MLT,27.2881587953,203217,,,Karoline Borgersen,R,,NOR,27.8302532512,6-4 6-7(3) 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D143,Fed Cup G3 PO: MLT vs NOR,Hard,4,D,20040430,1,212082,,,Lisa Camenzuli,U,,MLT,27.2881587953,203217,,,Karoline Borgersen,R,,NOR,27.8302532512,6-4 6-7(3) 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-D143,Fed Cup G3 PO: MLT vs NOR,Hard,4,D,20040430,2,208207,,,Ina Sartz,U,,NOR,22.6146475017,212147,,,Rosanne Dimech,R,,MLT,18.507871321,6-3 4-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,828,7,,
-2004-D144,Fed Cup G3 PO: BOT vs NAM,Hard,4,D,20040430,1,212197,,,Elrien De Villiers,,,NAM,15.7973990418,212194,,,Laone Botshoma,,,BOT,16.7912388775,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D144,Fed Cup G3 PO: BOT vs NAM,Hard,4,D,20040430,2,210539,,,Tapiwa Marobela,L,,BOT,17.0020533881,212195,,,Elna De Villiers,,,NAM,17.8863791923,7-5 7-6(1),3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D145,Fed Cup G3 PO: BIH vs KEN,Hard,4,D,20040430,1,209026,,,Selma Babic,U,,BIH,15.7754962355,212130,,,Evelyn Otula,,,KEN,29.3415468857,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2004-D145,Fed Cup G3 PO: BIH vs KEN,Hard,4,D,20040430,2,208686,,,Sanja Racic,R,,BIH,16.0848733744,212129,,,Caroline Oduor,,,KEN,17.9822039699,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D144,Fed Cup G3 PO: BOT vs NAM,Hard,4,D,20040430,1,212197,,,Elrien De Villiers,U,,NAM,15.7973990418,212194,,,Laone Botshoma,U,,BOT,16.7912388775,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D144,Fed Cup G3 PO: BOT vs NAM,Hard,4,D,20040430,2,210539,,,Tapiwa Marobela,L,,BOT,17.0020533881,212195,,,Elna De Villiers,U,,NAM,17.8863791923,7-5 7-6(1),3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D145,Fed Cup G3 PO: BIH vs KEN,Hard,4,D,20040430,1,209026,,,Selma Babic,U,,BIH,15.7754962355,212130,,,Evelyn Otula,U,,KEN,29.3415468857,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2004-D145,Fed Cup G3 PO: BIH vs KEN,Hard,4,D,20040430,2,208686,,,Sanja Racic,R,,BIH,16.0848733744,212129,,,Caroline Oduor,U,,KEN,17.9822039699,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2004-W-OL-GRE-01A-2004,Olympics,Hard,64,O,20040815,1,200003,1,,Justine Henin,R,167,BEL,22.2067077344,201366,,,Barbora Zahlavova Strycova,R,164,CZE,18.3846680356,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,1,4515,66,570
 2004-W-OL-GRE-01A-2004,Olympics,Hard,64,O,20040815,2,200024,,,Maria Vento Kabchi,R,,VEN,30.2286105407,200124,,,Anne Kremer,R,,LUX,28.8295687885,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,31,899,122,301
 2004-W-OL-GRE-01A-2004,Olympics,Hard,64,O,20040815,3,200036,,,Nicole Pratt,R,,AUS,31.446954141,201335,,,Myriam Casanova,R,,SUI,19.1540041068,6-3 7-5,3,R64,,,,,,,,,,,,,,,,,,,,51,686,77,483
@@ -347,7 +347,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-OL-GRE-01A-2004,Olympics,Hard,64,O,20040815,10,200062,,,Kristina Brandi,R,168,PUR,27.3812457221,200056,,,Jelena Kostanic Tosic,L,168,CRO,23.1101984942,7-5 6-1,3,R64,,,,,,,,,,,,,,,,,,,,47,718,39,781
 2004-W-OL-GRE-01A-2004,Olympics,Hard,64,O,20040815,11,201305,,,Eleni Daniilidou,R,182,GRE,21.9055441478,201293,,A,Catalina Castano,R,171,COL,25.1088295688,6-2 6-1,3,R64,,,,,,,,,,,,,,,,,,,,35,864,101,370
 2004-W-OL-GRE-01A-2004,Olympics,Hard,64,O,20040815,12,200086,15,,Magdalena Maleeva,R,168,BUL,29.3744010951,201344,,,Klara Koukalova,R,166,CZE,22.4722792608,6-1 6-4,3,R64,,,,,,,,,,,,,,,,,,,,21,1221,55,639
-2004-W-OL-GRE-01A-2004,Olympics,Hard,64,O,20040815,13,201212,11,,Francesca Schiavone,R,166,ITA,24.1451060917,201085,,,Shinobu Asagoe,R,,JPN,28.1314168378,6-3 7-6(4),3,R64,,,,,,,,,,,,,,,,,,,,17,1384,59,584
+2004-W-OL-GRE-01A-2004,Olympics,Hard,64,O,20040815,13,201212,11,,Francesca Schiavone,R,166,ITA,24.1451060917,201085,,,Shinobu Asagoe,R,170,JPN,28.1314168378,6-3 7-6(4),3,R64,,,,,,,,,,,,,,,,,,,,17,1384,59,584
 2004-W-OL-GRE-01A-2004,Olympics,Hard,64,O,20040815,14,201313,,,Yoon Jeong Cho,R,,KOR,25.3716632444,201466,,WC,Kaia Kanepi,R,181,EST,19.1813826146,7-6(1) 6-1,3,R64,,,,,,,,,,,,,,,,,,,,299,80,152,221
 2004-W-OL-GRE-01A-2004,Olympics,Hard,64,O,20040815,15,200110,,,Fabiola Zuluaga,R,,COL,25.6043805613,201347,,,Jelena Jankovic,R,177,SRB,19.4606433949,6-4 6-1,3,R64,,,,,,,,,,,,,,,,,,,,27,1102,42,767
 2004-W-OL-GRE-01A-2004,Olympics,Hard,64,O,20040815,16,200107,7,,Paola Suarez,R,170,ARG,28.1451060917,200109,,,Nathalie Dechy,R,177,FRA,25.4811772758,6-7(1) 7-6(5) 9-7,3,R64,,,,,,,,,,,,,,,,,,,,15,1704,29,953
@@ -402,7 +402,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,2,201301,,Q,Camille Pin,U,162,FRA,22.4010951403,200060,,,Tathiana Garbin,R,172,ITA,26.5544147844,6-4 6-7(3) 6-4,3,R128,,0,0,87,69,48,8,,4,8,5,7,114,68,44,21,,5,11,168,183,78,463
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,3,201321,,,Antonella Serra Zanetti,R,,ITA,23.485284052,201355,,,Flavia Pennetta,R,172,ITA,21.8973305955,7-5 6-4,3,R128,,0,1,67,50,27,8,,4,9,3,11,71,32,15,16,,12,19,105,338,72,498
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,4,201320,30,,Svetlana Kuznetsova,R,174,RUS,18.5626283368,201375,,Q,Shenay Perry,R,,USA,19.537303217,6-3 6-3,3,R128,,3,2,69,46,27,12,,8,11,3,3,73,35,15,16,,7,13,33,1001,126,268
-2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,5,201305,19,,Eleni Daniilidou,R,182,GRE,21.3333333333,200766,,Q,Jennifer Hopkins,R,,USA,22.9377138946,6-1 6-3,3,R128,,2,6,58,39,27,7,,4,6,0,3,43,28,13,4,,3,9,24,1158,159,199
+2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,5,201305,19,,Eleni Daniilidou,R,182,GRE,21.3333333333,200766,,Q,Jennifer Hopkins,R,170,USA,22.9377138946,6-1 6-3,3,R128,,2,6,58,39,27,7,,4,6,0,3,43,28,13,4,,3,9,24,1158,159,199
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,6,200072,,,Cara Black,R,167,ZIM,24.9199178645,200042,,,Els Callens,R,,BEL,33.4154688569,2-6 6-3 6-3,3,R128,,2,2,95,68,43,14,,9,12,1,2,68,42,26,12,,0,4,53,688,74,469
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,7,200032,,,Barbara Schett,R,176,AUT,27.8603696099,201302,,,Clarisa Fernandez,L,179,ARG,22.392881588,4-6 6-3 6-4,3,R128,,1,3,86,58,45,10,,3,7,3,6,96,52,35,17,,14,19,87,435,96,382
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,8,201379,,Q,Mara Santangelo,R,181,ITA,22.559890486,200027,16,,Magui Serna,L,,ESP,24.887063655,6-7(3) 7-5 6-4,3,R128,,3,3,119,88,55,20,,8,11,8,8,121,70,51,23,,9,14,129,265,22,1199
@@ -413,7 +413,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,13,201281,,,Laura Granville,R,175,USA,22.688569473,200009,31,,Tamarine Tanasugarn,R,165,THA,26.6557152635,6-1 6-3,3,R128,,1,0,45,26,19,13,,3,4,2,4,64,36,22,8,,6,11,54,685,35,942
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,14,200103,,WC,Evie Dominikovic,R,,AUS,23.6413415469,200733,,WC,Trudi Musgrave,U,,AUS,26.3572895277,4-6 7-5 6-3,3,R128,,6,2,101,71,48,15,,6,10,9,2,125,72,45,24,,11,16,138,240,265,88
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,15,200104,,,Emilie Loit,L,,FRA,24.6132785763,200777,,,Marta Marrero,R,,ESP,21.0075290897,7-5 6-4,3,R128,,1,2,63,45,34,8,,5,7,2,5,84,46,31,17,,8,12,45,754,99,373
-2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,16,200128,5,,Lindsay Davenport,R,189,USA,27.613963039,200059,,SR,Ruxandra Dragomir Ilie,R,,ROU,31.2361396304,6-2 6-3,3,R128,,3,5,54,30,25,9,,2,3,2,5,60,36,20,7,,6,11,5,2936,489,27
+2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,16,200128,5,,Lindsay Davenport,R,189,USA,27.613963039,200059,,SR,Ruxandra Dragomir Ilie,R,168,ROU,31.2361396304,6-2 6-3,3,R128,,3,5,54,30,25,9,,2,3,2,5,60,36,20,7,,6,11,5,2936,489,27
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,17,200065,4,,Amelie Mauresmo,R,175,FRA,24.5420944559,201384,,WC,Chia Jung Chuang,R,,TPE,19.022587269,6-1 6-0,3,R128,,6,0,44,32,26,6,,2,2,2,7,41,24,15,1,,4,9,4,3419,300,71
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,18,200025,,,Ludmila Cervanova,R,,SVK,24.2628336756,201348,,WC,Casey Dellacqua,L,,AUS,18.9349760438,6-4 6-4,3,R128,,0,2,73,58,34,7,,5,8,2,6,73,39,22,14,,10,15,64,552,295,73
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,19,201286,,,Anabel Medina Garrigues,R,169,ESP,21.4702258727,201207,,,Ansley Cargill,L,,USA,22.0369609856,6-3 6-4,3,R128,,4,0,47,35,26,10,,0,0,1,0,64,51,32,4,,5,8,70,517,107,336
@@ -426,7 +426,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,26,201325,,WC,Samantha Stosur,R,172,AUS,19.8056125941,200007,,,Silvija Talaja,R,,CRO,26.0123203285,6-3 6-2,3,R128,,2,1,49,19,15,23,,1,1,2,1,44,28,17,8,,4,7,114,309,93,392
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,27,200015,,,Petra Mandula,R,,HUN,26.0041067762,200061,,,Gala Leon Garcia,L,,ESP,30.0725530459,6-4 4-6 6-4,3,R128,,0,9,108,65,39,16,,15,23,2,4,89,63,33,8,,4,13,39,798,95,385
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,28,200086,24,,Magdalena Maleeva,R,168,BUL,28.8021902806,200749,,,Samantha Reeves,R,,USA,25.0047912389,6-1 6-0,3,R128,,1,2,45,35,25,4,,4,5,0,7,32,20,4,2,,2,8,29,1054,75,468
-2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,29,200110,32,,Fabiola Zuluaga,R,,COL,25.0321697467,201085,,,Shinobu Asagoe,R,,JPN,27.5592060233,6-3 6-2,3,R128,,1,2,54,38,27,10,,1,2,0,0,40,34,18,3,,1,5,36,867,41,783
+2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,29,200110,32,,Fabiola Zuluaga,R,,COL,25.0321697467,201085,,,Shinobu Asagoe,R,170,JPN,27.5592060233,6-3 6-2,3,R128,,1,2,54,38,27,10,,1,2,0,0,40,34,18,3,,1,5,36,867,41,783
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,30,200055,,Q,Mariana Diaz Oliva,R,,ARG,27.8576317591,200121,,,Alina Jidkova,R,,RUS,27.0006844627,6-2 7-6(5),3,R128,,1,4,86,59,36,13,,9,12,3,2,75,49,28,10,,9,14,169,178,98,377
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,31,200754,,,Jill Craybas,R,160,USA,29.5441478439,200010,,,Rita Grande,R,,ITA,28.8268309377,6-2 6-1,3,R128,,0,0,49,30,25,12,,2,2,0,0,51,34,14,9,,3,7,113,315,69,524
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,32,201347,,,Jelena Jankovic,R,177,SRB,18.8884325804,200108,7,,Elena Dementieva,R,180,RUS,22.2614647502,6-1 6-4,3,R128,,0,5,51,34,20,8,,1,4,0,8,59,33,19,6,,3,9,79,453,8,2417
@@ -453,7 +453,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,53,201212,18,,Francesca Schiavone,R,166,ITA,23.5728952772,200066,,,Cristina Torrens Valero,R,,ESP,29.3524982888,7-5 6-1,3,R128,,1,3,67,32,27,19,,6,7,1,3,56,33,15,14,,2,6,18,1297,108,326
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,54,200048,,,Elena Likhovtseva,R,,RUS,28.3641341547,200720,,,Dally Randriantefy,R,,MAD,26.9021218344,3-6 6-1 6-1,3,R128,,4,3,60,38,30,8,,1,4,1,3,97,72,35,9,,5,12,38,807,97,379
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,55,200044,,,Denisa Chladkova,R,,CZE,24.9445585216,200773,,,Stephanie Foretz Gacon,R,166,FRA,22.71321013,6-4 6-2,3,R128,,1,1,62,45,31,7,,4,6,3,5,60,27,16,13,,2,7,43,769,102,349
-2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,56,200039,9,,Chanda Rubin,R,168,USA,27.9178644764,200084,,SR,Asa Svensson,R,,SWE,28.5941136208,6-3 4-6 6-3,3,R128,,1,6,84,51,34,15,,2,7,0,4,85,49,28,17,,5,12,10,2297,294,73
+2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,56,200039,9,,Chanda Rubin,R,168,USA,27.9178644764,200084,,SR,Asa Carlsson,R,,SWE,28.5941136208,6-3 4-6 6-3,3,R128,,1,6,84,51,34,15,,2,7,0,4,85,49,28,17,,5,12,10,2297,294,73
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,57,200062,,,Kristina Brandi,R,168,PUR,26.8090349076,200049,13,,Conchita Martinez,R,170,ESP,31.7590691307,7-6(7) 6-1,3,R128,,0,1,74,65,43,7,,5,6,6,3,61,34,20,15,,4,7,63,556,16,1372
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,58,200041,,,Amy Frazier,R,,USA,31.3319644079,200770,,,Stephanie Cohen Aloro,R,175,FRA,20.8405201916,4-6 7-5 6-3,3,R128,,2,7,98,61,32,20,,9,16,4,9,101,60,31,17,,7,16,57,626,67,536
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,59,200118,,,Virginia Ruano Pascual,R,169,ESP,30.3271731691,200011,,,Katarina Srebotnik,R,180,SLO,22.855578371,6-4 6-3,3,R128,,2,1,55,41,23,5,,2,6,4,9,71,42,20,10,,8,15,56,670,37,832
@@ -461,7 +461,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,61,200064,27,,Amanda Coetzer,R,158,RSA,32.2436687201,200045,,,Tara Snyder,R,,USA,26.6502395619,6-3 6-1,3,R128,,0,1,72,52,30,10,,4,6,2,3,45,31,13,4,,0,6,27,1080,104,345
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,62,201336,,,Dinara Safina,R,182,RUS,17.7303216975,201346,,,Lubomira Kurhajcova,R,,SVK,20.2737850787,6-3 7-6(1),3,R128,,5,7,74,36,29,23,,4,5,3,3,58,27,22,17,,2,4,48,737,89,422
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,63,201308,,,Maria Elena Camerin,R,164,ITA,21.8316221766,201328,,,Milagros Sequera,R,,VEN,23.3018480493,6-2 6-2,3,R128,,1,0,45,33,20,7,,2,4,0,5,58,31,16,8,,5,11,92,400,73,472
-2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,64,200079,2,,Kim Clijsters,R,,BEL,20.6160164271,200123,,,Marlene Weingartner,R,,GER,23.9698836413,6-3 6-2,3,R128,,0,5,62,42,31,9,,4,5,2,0,54,31,15,11,,6,10,2,6373,51,703
+2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,64,200079,2,,Kim Clijsters,R,175,BEL,20.6160164271,200123,,,Marlene Weingartner,R,,GER,23.9698836413,6-3 6-2,3,R128,,0,5,62,42,31,9,,4,5,2,0,54,31,15,11,,6,10,2,6373,51,703
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,65,200003,1,,Justine Henin,R,167,BEL,21.6344969199,201301,,Q,Camille Pin,U,162,FRA,22.4010951403,6-1 6-4,3,R64,,4,2,48,23,17,18,,1,2,0,1,44,35,17,3,,1,5,1,6830,168,183
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,66,201320,30,,Svetlana Kuznetsova,R,174,RUS,18.5626283368,201321,,,Antonella Serra Zanetti,R,,ITA,23.485284052,7-6(0) 6-4,3,R64,,6,1,70,41,32,15,,1,3,1,2,66,53,32,6,,2,5,33,1001,105,338
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,67,201305,19,,Eleni Daniilidou,R,182,GRE,21.3333333333,200072,,,Cara Black,R,167,ZIM,24.9199178645,3-6 6-0 6-1,3,R64,,1,3,67,49,37,8,,6,7,1,2,84,52,27,14,,7,12,24,1158,53,688
@@ -493,7 +493,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,93,200041,,,Amy Frazier,R,,USA,31.3319644079,200062,,,Kristina Brandi,R,168,PUR,26.8090349076,2-6 6-0 7-5,3,R64,,0,12,99,63,40,14,,10,14,0,0,88,56,35,12,,5,11,57,626,63,556
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,94,200700,20,,Silvia Farina Elia,R,,ITA,31.7289527721,200118,,,Virginia Ruano Pascual,R,169,ESP,30.3271731691,5-7 6-4 6-4,3,R64,,0,4,104,79,49,11,,8,13,1,3,106,83,44,13,,8,14,19,1226,56,670
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,95,201336,,,Dinara Safina,R,182,RUS,17.7303216975,200064,27,,Amanda Coetzer,R,158,RSA,32.2436687201,7-5 6-3,3,R64,,4,4,82,44,29,15,,4,8,0,1,65,46,21,9,,4,10,48,737,27,1080
-2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,96,200079,2,,Kim Clijsters,R,,BEL,20.6160164271,201308,,,Maria Elena Camerin,R,164,ITA,21.8316221766,6-0 6-0,3,R64,,1,0,31,20,14,10,,0,0,1,2,46,26,12,4,,6,12,2,6373,92,400
+2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,96,200079,2,,Kim Clijsters,R,175,BEL,20.6160164271,201308,,,Maria Elena Camerin,R,164,ITA,21.8316221766,6-0 6-0,3,R64,,1,0,31,20,14,10,,0,0,1,2,46,26,12,4,,6,12,2,6373,92,400
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,97,200003,1,,Justine Henin,R,167,BEL,21.6344969199,201320,30,,Svetlana Kuznetsova,R,174,RUS,18.5626283368,6-2 7-5,3,R32,,3,2,57,27,18,19,,3,5,2,4,68,36,18,16,,7,12,1,6830,33,1001
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,98,201379,,Q,Mara Santangelo,R,181,ITA,22.559890486,201305,19,,Eleni Daniilidou,R,182,GRE,21.3333333333,6-4 5-7 6-3,3,R32,,3,3,92,62,39,14,,8,13,1,7,108,80,49,8,,8,15,129,265,24,1158
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,99,201329,11,,Vera Zvonareva,R,172,RUS,19.3648186174,200036,,,Nicole Pratt,R,,AUS,30.8747433265,7-5 2-6 6-1,3,R32,,1,5,85,49,29,17,,4,10,0,5,100,74,42,7,,12,19,13,1780,52,693
@@ -509,7 +509,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,109,200772,6,,Anastasia Myskina,R,174,RUS,22.5325119781,201345,28,,Maria Sharapova,R,,RUS,16.7529089665,6-4 1-6 6-2,3,R32,,3,5,80,44,26,16,,3,8,6,2,81,48,24,17,,6,12,7,2629,32,1024
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,110,200039,9,,Chanda Rubin,R,168,USA,27.9178644764,200048,,,Elena Likhovtseva,R,,RUS,28.3641341547,6-3 6-2,3,R32,,1,0,52,34,22,10,,1,3,1,5,45,26,15,6,,2,7,10,2297,38,807
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,111,200700,20,,Silvia Farina Elia,R,,ITA,31.7289527721,200041,,,Amy Frazier,R,,USA,31.3319644079,4-6 6-1 7-5,3,R32,,1,2,116,88,47,11,,12,18,2,12,118,77,40,15,,9,18,19,1226,57,626
-2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,112,200079,2,,Kim Clijsters,R,,BEL,20.6160164271,201336,,,Dinara Safina,R,182,RUS,17.7303216975,6-2 6-1,3,R32,,3,4,63,39,25,11,,5,7,0,3,36,17,7,4,,2,8,2,6373,48,737
+2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,112,200079,2,,Kim Clijsters,R,175,BEL,20.6160164271,201336,,,Dinara Safina,R,182,RUS,17.7303216975,6-2 6-1,3,R32,,3,4,63,39,25,11,,5,7,0,3,36,17,7,4,,2,8,2,6373,48,737
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,113,200003,1,,Justine Henin,R,167,BEL,21.6344969199,201379,,Q,Mara Santangelo,R,181,ITA,22.559890486,6-1 7-6(5),3,R16,,6,5,75,34,24,23,,7,9,1,1,64,40,25,8,,4,9,1,6830,129,265
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,114,200128,5,,Lindsay Davenport,R,189,USA,27.613963039,201329,11,,Vera Zvonareva,R,172,RUS,19.3648186174,6-1 6-3,3,R16,,4,2,43,26,23,11,,2,2,4,2,46,25,16,7,,4,8,5,2936,13,1780
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,115,200065,4,,Amelie Mauresmo,R,175,FRA,24.5420944559,200008,,,Alicia Molik,R,182,AUS,22.9760438056,7-5 7-5,3,R16,,9,1,72,41,29,14,,1,4,3,2,73,38,23,18,,2,7,4,3419,40,785
@@ -517,14 +517,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,117,200067,22,,Patty Schnyder,L,168,SUI,25.0978781656,200109,29,,Nathalie Dechy,R,177,FRA,24.9089664613,6-2 6-4,3,R16,,2,3,49,28,23,8,,0,3,0,2,58,41,18,6,,3,9,26,1096,28,1077
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,118,200020,25,,Lisa Raymond,R,165,USA,30.4421629021,201364,,WC,Tatiana Golovin,R,175,FRA,15.9835728953,6-2 6-0,3,R16,,7,0,37,23,18,11,,1,1,2,6,43,21,13,5,,5,10,30,1045,354,53
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,119,200772,6,,Anastasia Myskina,R,174,RUS,22.5325119781,200039,9,,Chanda Rubin,R,168,USA,27.9178644764,6-7(3) 6-2 6-2,3,R16,,1,5,88,32,28,28,,2,5,0,3,99,65,33,17,,5,12,7,2629,10,2297
-2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,120,200079,2,,Kim Clijsters,R,,BEL,20.6160164271,200700,20,,Silvia Farina Elia,R,,ITA,31.7289527721,6-3 6-3,3,R16,,1,5,61,37,25,13,,2,4,2,1,54,34,18,9,,3,8,2,6373,19,1226
+2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,120,200079,2,,Kim Clijsters,R,175,BEL,20.6160164271,200700,20,,Silvia Farina Elia,R,,ITA,31.7289527721,6-3 6-3,3,R16,,1,5,61,37,25,13,,2,4,2,1,54,34,18,9,,3,8,2,6373,19,1226
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,121,200003,1,,Justine Henin,R,167,BEL,21.6344969199,200128,5,,Lindsay Davenport,R,189,USA,27.613963039,7-5 6-3,3,QF,,5,6,69,36,25,11,,8,12,3,4,72,43,28,8,,8,15,1,6830,5,2936
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,122,200110,32,,Fabiola Zuluaga,R,,COL,25.0321697467,200065,4,,Amelie Mauresmo,R,175,FRA,24.5420944559,W/O,3,QF,,,,,,,,,,,,,,,,,,,,36,867,4,3419
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,123,200067,22,,Patty Schnyder,L,168,SUI,25.0978781656,200020,25,,Lisa Raymond,R,165,USA,30.4421629021,7-6(2) 6-3,3,QF,,4,3,71,39,24,21,,7,9,3,4,67,41,25,10,,3,7,26,1096,30,1045
-2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,124,200079,2,,Kim Clijsters,R,,BEL,20.6160164271,200772,6,,Anastasia Myskina,R,174,RUS,22.5325119781,6-2 7-6(9),3,QF,,0,9,82,44,32,14,,6,9,1,4,81,43,23,15,,6,11,2,6373,7,2629
+2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,124,200079,2,,Kim Clijsters,R,175,BEL,20.6160164271,200772,6,,Anastasia Myskina,R,174,RUS,22.5325119781,6-2 7-6(9),3,QF,,0,9,82,44,32,14,,6,9,1,4,81,43,23,15,,6,11,2,6373,7,2629
 2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,125,200003,1,,Justine Henin,R,167,BEL,21.6344969199,200110,32,,Fabiola Zuluaga,R,,COL,25.0321697467,6-2 6-2,3,SF,,3,3,57,32,22,14,,3,4,0,2,57,30,15,12,,5,10,1,6830,36,867
-2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,126,200079,2,,Kim Clijsters,R,,BEL,20.6160164271,200067,22,,Patty Schnyder,L,168,SUI,25.0978781656,6-2 7-6(2),3,SF,,1,4,73,43,30,18,,3,5,2,3,65,37,21,12,,0,4,2,6373,26,1096
-2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,127,200003,1,,Justine Henin,R,167,BEL,21.6344969199,200079,2,,Kim Clijsters,R,,BEL,20.6160164271,6-3 4-6 6-3,3,F,,4,6,77,38,31,17,,2,6,1,6,91,60,37,11,,2,8,1,6830,2,6373
+2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,126,200079,2,,Kim Clijsters,R,175,BEL,20.6160164271,200067,22,,Patty Schnyder,L,168,SUI,25.0978781656,6-2 7-6(2),3,SF,,1,4,73,43,30,18,,3,5,2,3,65,37,21,12,,0,4,2,6373,26,1096
+2004-W-SL-AUS-01A-2004,Australian Open,Hard,128,G,20040119,127,200003,1,,Justine Henin,R,167,BEL,21.6344969199,200079,2,,Kim Clijsters,R,175,BEL,20.6160164271,6-3 4-6 6-3,3,F,,4,6,77,38,31,17,,2,6,1,6,91,60,37,11,,2,8,1,6830,2,6373
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,1,200003,1,,Justine Henin,R,167,BEL,21.9794661191,200016,,WC,Sandrine Testud,R,,FRA,32.1396303901,6-4 6-4,3,R128,,2,8,62,37,22,14,,4,7,0,4,70,45,27,7,,8,13,1,6913,310,71
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,2,200060,,,Tathiana Garbin,R,172,ITA,26.8993839836,200751,,,Conchita Martinez Granados,R,,ESP,28.3422313484,6-1 6-2,3,R128,,3,3,53,25,16,18,,3,4,0,2,45,28,11,8,,4,9,86,418,122,268
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,3,201386,,,Jie Zheng,R,164,CHN,20.887063655,200720,,,Dally Randriantefy,R,,MAD,27.2470910335,6-1 5-7 6-4,3,R128,,,,,,,,,,,,,,,,,,,,58,561,81,444
@@ -554,7 +554,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,27,201344,,,Klara Koukalova,R,166,CZE,22.2450376454,201364,,,Tatiana Golovin,R,175,FRA,16.3285420945,7-6(4) 7-6(2),3,R128,,,,,,,,,,,,,,,,,,,,79,462,65,531
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,28,200040,19,,Anna Smashnova,R,,ISR,27.8548939083,201355,,,Flavia Pennetta,R,172,ITA,22.2422997947,6-1 6-4,3,R128,,,,,,,,,,,,,,,,,,,,18,1496,60,556
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,29,201336,32,,Dinara Safina,R,182,RUS,18.0752908966,201361,,Q,Julia Schruff,R,,GER,21.7713894593,7-5 6-7(4) 6-3,3,R128,,21,5,105,62,45,19,,3,8,17,2,95,73,44,10,,5,13,36,885,117,292
-2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,30,200126,,Q,Marissa Gould,R,,USA,23.9178644764,200045,,,Tara Snyder,R,,USA,26.9952087611,6-2 6-0,3,R128,,,,,,,,,,,,,,,,,,,,104,345,99,358
+2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,30,200126,,Q,Marissa Irvin,R,,USA,23.9178644764,200045,,,Tara Snyder,R,,USA,26.9952087611,6-2 6-0,3,R128,,,,,,,,,,,,,,,,,,,,104,345,99,358
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,31,200035,,,Maria Sanchez Lorenzo,R,,ESP,26.5434633812,201391,,Q,Sanda Mamic,U,,CRO,19.1731690623,6-4 7-5,3,R128,,5,6,62,27,19,20,,3,6,6,5,90,45,25,20,,5,10,47,722,171,167
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,32,200128,5,,Lindsay Davenport,R,189,USA,27.9589322382,201357,,WC,Virginie Pichet,R,,FRA,21.3196440794,6-4 6-2,3,R128,,4,8,71,44,28,10,,8,12,0,9,63,32,14,12,,11,18,4,3132,123,267
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,33,200772,6,,Anastasia Myskina,R,174,RUS,22.8774811773,200008,,,Alicia Molik,R,182,AUS,23.3210130048,4-6 6-3 6-4,3,R128,,4,6,102,52,36,29,,9,12,4,1,92,48,33,20,,8,12,5,2824,32,918
@@ -582,7 +582,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,55,200118,,,Virginia Ruano Pascual,R,169,ESP,30.6721423682,201349,,,Melinda Czink,L,178,HUN,21.5879534565,6-4 6-2,3,R128,,2,3,54,39,26,7,,1,3,1,1,48,35,17,6,,0,5,90,403,77,477
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,56,200085,12,,Ai Sugiyama,R,163,JPN,28.887063655,201294,,,Marion Bartoli,R,170,FRA,19.6413415469,6-4 6-3,3,R128,,1,5,64,31,17,11,,6,12,1,3,56,36,10,5,,9,18,12,1954,72,499
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,57,200067,16,,Patty Schnyder,L,168,SUI,25.4428473648,201317,,,Aniko Kapros,R,,HUN,20.5338809035,6-4 6-1,3,R128,,3,0,58,38,25,13,,2,3,0,2,54,32,17,10,,3,7,17,1614,46,722
-2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,58,201085,,,Shinobu Asagoe,R,,JPN,27.9041752225,201290,,,Daniela Hantuchova,R,181,SVK,21.0869267625,6-1 6-3,3,R128,,0,1,48,30,17,11,,1,3,2,4,57,33,14,10,,6,12,52,645,50,669
+2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,58,201085,,,Shinobu Asagoe,R,170,JPN,27.9041752225,201290,,,Daniela Hantuchova,R,181,SVK,21.0869267625,6-1 6-3,3,R128,,0,1,48,30,17,11,,1,3,2,4,57,33,14,10,,6,12,52,645,50,669
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,59,201363,,,Gisela Dulko,R,170,ARG,19.3127994524,200293,,WC,Martina Navratilova,L,173,USA,47.5975359343,6-1 6-3,3,R128,,3,5,56,27,17,19,,5,6,1,3,49,27,15,8,,3,8,64,545,,
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,60,200049,20,,Conchita Martinez,R,170,ESP,32.1040383299,201395,,Q,Teryn Ashley,U,,USA,25.4483230664,6-2 6-4,3,R128,,2,4,53,32,24,12,,3,4,4,5,74,36,19,19,,4,8,21,1365,111,318
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,61,200773,,WC,Stephanie Foretz Gacon,R,166,FRA,23.0581793292,200109,26,,Nathalie Dechy,R,177,FRA,25.2539356605,1-6 7-5 6-1,3,R128,,2,6,102,58,38,17,,8,13,1,7,92,62,39,9,,6,12,124,263,26,1055
@@ -603,7 +603,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,76,200046,,,Meghann Shaughnessy,R,,USA,25.1143052704,200700,15,,Silvia Farina Elia,R,,ITA,32.0739219713,6-3 3-6 9-7,3,R64,,3,8,113,54,40,25,,3,8,0,4,112,85,51,13,,10,16,38,839,16,1624
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,77,200108,9,,Elena Dementieva,R,180,RUS,22.6064339493,200036,,,Nicole Pratt,R,,AUS,31.2197125257,6-2 6-2,3,R64,,2,8,51,24,15,16,,3,5,0,3,55,34,16,7,,6,12,10,2236,44,743
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,78,200040,19,,Anna Smashnova,R,,ISR,27.8548939083,201344,,,Klara Koukalova,R,166,CZE,22.2450376454,6-1 7-5,3,R64,,,,,,,,,,,,,,,,,,,,18,1496,79,462
-2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,79,200126,,Q,Marissa Gould,R,,USA,23.9178644764,201336,32,,Dinara Safina,R,182,RUS,18.0752908966,7-6(5) 6-2,3,R64,,,,,,,,,,,,,,,,,,,,104,345,36,885
+2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,79,200126,,Q,Marissa Irvin,R,,USA,23.9178644764,201336,32,,Dinara Safina,R,182,RUS,18.0752908966,7-6(5) 6-2,3,R64,,,,,,,,,,,,,,,,,,,,104,345,36,885
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,80,200128,5,,Lindsay Davenport,R,189,USA,27.9589322382,200035,,,Maria Sanchez Lorenzo,R,,ESP,26.5434633812,6-4 6-1,3,R64,,1,3,51,33,26,8,,1,2,4,5,59,23,14,13,,6,11,4,3132,47,722
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,81,200772,6,,Anastasia Myskina,R,174,RUS,22.8774811773,201366,,,Barbora Zahlavova Strycova,R,164,CZE,18.1574264203,6-0 6-4,3,R64,,1,7,53,26,16,15,,2,4,0,2,41,25,11,3,,2,8,5,2824,68,523
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,82,200044,,,Denisa Chladkova,R,,CZE,25.2895277207,200015,29,,Petra Mandula,R,,HUN,26.3490759754,6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,70,510,30,963
@@ -617,7 +617,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,90,200764,25,,Elena Bovina,R,189,RUS,21.2073921971,201394,,,Anna Lena Groenefeld,R,180,GER,18.970568104,3-2 RET,3,R64,,3,2,21,13,9,3,,4,5,1,0,12,7,4,3,,0,1,25,1115,97,382
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,91,201212,17,,Francesca Schiavone,R,166,ITA,23.9178644764,200043,,WC,Virginie Razzano,R,173,FRA,21.0349075975,6-1 4-6 6-3,3,R64,,3,3,78,42,27,16,,2,7,1,5,79,42,21,14,,5,13,19,1436,120,279
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,92,200118,,,Virginia Ruano Pascual,R,169,ESP,30.6721423682,200085,12,,Ai Sugiyama,R,163,JPN,28.887063655,6-7(4) 6-2 6-1,3,R64,,0,4,107,66,34,25,,10,14,1,6,93,58,28,15,,7,15,90,403,12,1954
-2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,93,201085,,,Shinobu Asagoe,R,,JPN,27.9041752225,200067,16,,Patty Schnyder,L,168,SUI,25.4428473648,7-5 3-6 6-4,3,R64,,0,2,99,76,43,11,,10,16,2,7,111,56,33,26,,6,13,52,645,17,1614
+2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,93,201085,,,Shinobu Asagoe,R,170,JPN,27.9041752225,200067,16,,Patty Schnyder,L,168,SUI,25.4428473648,7-5 3-6 6-4,3,R64,,0,2,99,76,43,11,,10,16,2,7,111,56,33,26,,6,13,52,645,17,1614
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,94,201363,,,Gisela Dulko,R,170,ARG,19.3127994524,200049,20,,Conchita Martinez,R,170,ESP,32.1040383299,6-4 7-5,3,R64,,2,4,77,51,32,14,,13,16,2,3,66,37,22,13,,2,7,64,545,21,1365
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,95,200007,,,Silvija Talaja,R,,CRO,26.3572895277,200773,,WC,Stephanie Foretz Gacon,R,166,FRA,23.0581793292,2-6 7-6(8) 6-2,3,R64,,1,5,100,57,34,16,,5,13,1,3,93,55,27,15,,5,13,106,337,124,263
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,96,200033,2,,Serena Williams,R,175,USA,22.6584531143,201373,,,Maria Kirilenko,R,173,RUS,17.3278576318,4-6 6-2 6-4,3,R64,,3,3,82,50,32,19,,3,7,1,6,92,55,32,20,,8,14,7,2351,100,357
@@ -628,14 +628,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,101,200065,3,,Amelie Mauresmo,R,175,FRA,24.887063655,201367,,,Arantxa Parra Santonja,R,,ESP,21.5386721424,6-3 6-2,3,R32,,2,5,42,21,15,13,,0,2,4,3,60,24,13,13,,1,7,3,3484,66,528
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,102,200086,21,,Magdalena Maleeva,R,168,BUL,29.1471594798,200046,,,Meghann Shaughnessy,R,,USA,25.1143052704,6-3 7-6(3),3,R32,,2,2,79,52,36,12,,6,8,8,8,79,42,31,13,,10,13,22,1255,38,839
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,103,200108,9,,Elena Dementieva,R,180,RUS,22.6064339493,200040,19,,Anna Smashnova,R,,ISR,27.8548939083,0-6 7-6(2) 0-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,10,2236,18,1496
-2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,104,200128,5,,Lindsay Davenport,R,189,USA,27.9589322382,200126,,Q,Marissa Gould,R,,USA,23.9178644764,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,4,3132,104,345
+2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,104,200128,5,,Lindsay Davenport,R,189,USA,27.9589322382,200126,,Q,Marissa Irvin,R,,USA,23.9178644764,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,4,3132,104,345
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,105,200772,6,,Anastasia Myskina,R,174,RUS,22.8774811773,200044,,,Denisa Chladkova,R,,CZE,25.2895277207,6-3 7-6(3),3,R32,,0,12,88,46,31,21,,3,6,2,2,75,37,20,21,,4,8,5,2824,70,510
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,106,201320,11,,Svetlana Kuznetsova,R,174,RUS,18.9075975359,201335,,,Myriam Casanova,R,,SUI,18.9267624914,3-6 6-3 6-4,3,R32,,9,4,96,49,33,17,,5,11,2,7,94,57,34,15,,3,10,11,1965,93,396
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,107,200110,23,,Fabiola Zuluaga,R,,COL,25.3771389459,200011,,,Katarina Srebotnik,R,180,SLO,23.2005475702,5-7 6-2 6-3,3,R32,,4,6,91,51,37,20,,4,7,2,2,96,63,39,12,,8,14,24,1167,56,580
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,108,200748,4,,Venus Williams,R,185,USA,23.9342915811,200096,30,,Mary Pierce,R,178,FRA,29.3552361396,6-3 6-1,3,R32,,3,4,52,33,24,11,,7,8,1,1,64,34,16,13,,6,11,9,2268,31,937
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,109,200077,7,,Jennifer Capriati,R,170,USA,28.1533196441,200764,25,,Elena Bovina,R,189,RUS,21.2073921971,6-2 3-6 6-4,3,R32,,2,7,76,50,32,7,,2,8,2,3,89,60,32,10,,7,15,6,2519,25,1115
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,110,201212,17,,Francesca Schiavone,R,166,ITA,23.9178644764,200118,,,Virginia Ruano Pascual,R,169,ESP,30.6721423682,6-2 6-3,3,R32,,3,2,57,23,18,18,,7,8,0,5,51,37,17,7,,3,8,19,1436,90,403
-2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,111,201085,,,Shinobu Asagoe,R,,JPN,27.9041752225,201363,,,Gisela Dulko,R,170,ARG,19.3127994524,7-5 4-6 6-4,3,R32,,0,3,130,80,48,25,,13,18,1,8,117,74,48,16,,7,13,52,645,64,545
+2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,111,201085,,,Shinobu Asagoe,R,170,JPN,27.9041752225,201363,,,Gisela Dulko,R,170,ARG,19.3127994524,7-5 4-6 6-4,3,R32,,0,3,130,80,48,25,,13,18,1,8,117,74,48,16,,7,13,52,645,64,545
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,112,200033,2,,Serena Williams,R,175,USA,22.6584531143,200007,,,Silvija Talaja,R,,CRO,26.3572895277,6-0 6-4,3,R32,,7,9,67,37,28,10,,7,9,0,6,49,26,15,4,,4,10,7,2351,106,337
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,113,200107,14,,Paola Suarez,R,170,ARG,27.9178644764,201386,,,Jie Zheng,R,164,CHN,20.887063655,6-4 7-5,3,R16,,1,7,74,46,29,9,,2,7,0,5,76,54,26,8,,4,11,14,1765,58,561
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,114,201345,18,,Maria Sharapova,R,,RUS,17.0978781656,200123,,,Marlene Weingartner,R,,GER,24.3148528405,6-3 6-1,3,R16,,2,3,50,36,23,6,,1,3,1,3,58,38,18,6,,7,13,20,1412,94,389
@@ -644,7 +644,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,117,200772,6,,Anastasia Myskina,R,174,RUS,22.8774811773,201320,11,,Svetlana Kuznetsova,R,174,RUS,18.9075975359,1-6 6-4 8-6,3,R16,,1,3,93,53,30,19,,5,12,1,3,106,59,29,27,,5,12,5,2824,11,1965
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,118,200748,4,,Venus Williams,R,185,USA,23.9342915811,200110,23,,Fabiola Zuluaga,R,,COL,25.3771389459,6-1 7-6(3),3,R16,,1,5,72,42,31,12,,1,4,0,3,63,38,24,5,,4,9,9,2268,24,1167
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,119,200077,7,,Jennifer Capriati,R,170,USA,28.1533196441,201212,17,,Francesca Schiavone,R,166,ITA,23.9178644764,7-5 6-1,3,R16,,2,5,45,24,22,12,,0,1,2,6,65,35,20,10,,6,11,6,2519,19,1436
-2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,120,200033,2,,Serena Williams,R,175,USA,22.6584531143,201085,,,Shinobu Asagoe,R,,JPN,27.9041752225,6-3 6-1,3,R16,,1,2,45,32,25,4,,0,2,0,5,54,42,18,3,,4,10,7,2351,52,645
+2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,120,200033,2,,Serena Williams,R,175,USA,22.6584531143,201085,,,Shinobu Asagoe,R,170,JPN,27.9041752225,6-3 6-1,3,R16,,1,2,45,32,25,4,,0,2,0,5,54,42,18,3,,4,10,7,2351,52,645
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,121,200107,14,,Paola Suarez,R,170,ARG,27.9178644764,201345,18,,Maria Sharapova,R,,RUS,17.0978781656,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,14,1765,20,1412
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,122,200108,9,,Elena Dementieva,R,180,RUS,22.6064339493,200065,3,,Amelie Mauresmo,R,175,FRA,24.887063655,6-4 6-3,3,QF,,0,15,121,67,41,24,,12,19,3,9,107,55,36,18,,10,17,10,2236,3,3484
 2004-W-SL-FRA-01A-2004,Roland Garros,Clay,128,G,20040524,123,200772,6,,Anastasia Myskina,R,174,RUS,22.8774811773,200748,4,,Venus Williams,R,185,USA,23.9342915811,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,5,2824,9,2268
@@ -669,9 +669,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-SL-GBR-01A-2004,Wimbledon,Grass,128,G,20040621,15,201304,,WC,Elena Baltacha,R,,GBR,20.8542094456,200777,,,Marta Marrero,R,,ESP,21.4291581109,6-1 6-3,3,R128,,5,4,66,38,29,11,,4,5,0,4,51,27,16,8,,5,10,331,63,61,583
 2004-W-SL-GBR-01A-2004,Wimbledon,Grass,128,G,20040621,16,200077,7,,Jennifer Capriati,R,170,USA,28.2299794661,201380,,,Claudine Schaul,R,,LUX,20.8377823409,6-2 6-2,3,R128,,2,1,48,28,17,14,,1,2,2,8,54,28,19,6,,5,10,7,2766,43,757
 2004-W-SL-GBR-01A-2004,Wimbledon,Grass,128,G,20040621,17,200065,4,,Amelie Mauresmo,R,175,FRA,24.9637234771,200056,,,Jelena Kostanic Tosic,L,168,CRO,22.9596167009,6-2 6-3,3,R128,,2,5,43,29,22,5,,1,3,0,2,59,44,17,7,,6,12,4,3591,37,835
-2004-W-SL-GBR-01A-2004,Wimbledon,Grass,128,G,20040621,18,200766,,Q,Jennifer Hopkins,R,,USA,23.3593429158,201360,,,Julia Vakulenko,R,183,UKR,20.9500342231,7-6(5) 6-2,3,R128,,,,,,,,,,,,,,,,,,,,149,216,96,371
+2004-W-SL-GBR-01A-2004,Wimbledon,Grass,128,G,20040621,18,200766,,Q,Jennifer Hopkins,R,170,USA,23.3593429158,201360,,,Julia Vakulenko,R,183,UKR,20.9500342231,7-6(5) 6-2,3,R128,,,,,,,,,,,,,,,,,,,,149,216,96,371
 2004-W-SL-GBR-01A-2004,Wimbledon,Grass,128,G,20040621,19,200025,,,Ludmila Cervanova,R,,SVK,24.6844626968,200032,,,Barbara Schett,R,176,AUT,28.2819986311,3-6 6-4 6-4,3,R128,,1,1,99,66,42,13,,8,13,7,4,104,61,34,22,,13,19,87,407,82,456
-2004-W-SL-GBR-01A-2004,Wimbledon,Grass,128,G,20040621,20,200020,26,,Lisa Raymond,R,165,USA,30.8637919233,201085,,,Shinobu Asagoe,R,,JPN,27.9808350445,6-3 7-6(4),3,R128,,7,1,71,40,33,16,,5,6,4,1,62,42,26,11,,0,2,27,973,44,746
+2004-W-SL-GBR-01A-2004,Wimbledon,Grass,128,G,20040621,20,200020,26,,Lisa Raymond,R,165,USA,30.8637919233,201085,,,Shinobu Asagoe,R,170,JPN,27.9808350445,6-3 7-6(4),3,R128,,7,1,71,40,33,16,,5,6,4,1,62,42,26,11,,0,2,27,973,44,746
 2004-W-SL-GBR-01A-2004,Wimbledon,Grass,128,G,20040621,21,200118,,,Virginia Ruano Pascual,R,169,ESP,30.7488021903,200096,24,,Mary Pierce,R,178,FRA,29.4318959617,6-2 7-5,3,R128,,4,4,73,49,34,13,,1,2,0,3,66,50,28,7,,7,11,67,558,23,1163
 2004-W-SL-GBR-01A-2004,Wimbledon,Grass,128,G,20040621,22,200098,,,Henrieta Nagyova,R,,SVK,25.5167693361,200111,,,Lina Krasnoroutskaya,R,,RUS,20.1451060917,3-6 6-4 6-3,3,R128,,,,,,,,,,,,,,,,,,,,91,386,42,791
 2004-W-SL-GBR-01A-2004,Wimbledon,Grass,128,G,20040621,23,200007,,,Silvija Talaja,R,,CRO,26.4339493498,201366,,,Barbora Zahlavova Strycova,R,164,CZE,18.2340862423,6-3 6-4,3,R128,,,,,,,,,,,,,,,,,,,,109,330,62,580
@@ -696,7 +696,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-SL-GBR-01A-2004,Wimbledon,Grass,128,G,20040621,42,200044,,,Denisa Chladkova,R,,CZE,25.3661875428,200123,,,Marlene Weingartner,R,,GER,24.3915126626,6-3 6-1,3,R128,,,,,,,,,,,,,,,,,,,,69,554,70,546
 2004-W-SL-GBR-01A-2004,Wimbledon,Grass,128,G,20040621,43,200754,,,Jill Craybas,R,160,USA,29.9657768652,200072,,,Cara Black,R,167,ZIM,25.3415468857,6-4 6-3,3,R128,,,,,,,,,,,,,,,,,,,,64,566,83,454
 2004-W-SL-GBR-01A-2004,Wimbledon,Grass,128,G,20040621,44,200086,21,,Magdalena Maleeva,R,168,BUL,29.2238193018,201371,,,Vera Dushevina,R,180,RUS,17.7084188912,6-1 7-5,3,R128,,6,3,56,39,34,8,,2,2,3,3,53,30,20,12,,6,9,24,1112,75,513
-2004-W-SL-GBR-01A-2004,Wimbledon,Grass,128,G,20040621,45,200046,32,,Meghann Shaughnessy,R,,USA,25.1909650924,200126,,,Marissa Gould,R,,USA,23.9945242984,7-6(3) 7-6(0),3,R128,,,,,,,,,,,,,,,,,,,,35,889,93,383
+2004-W-SL-GBR-01A-2004,Wimbledon,Grass,128,G,20040621,45,200046,32,,Meghann Shaughnessy,R,,USA,25.1909650924,200126,,,Marissa Irvin,R,,USA,23.9945242984,7-6(3) 7-6(0),3,R128,,,,,,,,,,,,,,,,,,,,35,889,93,383
 2004-W-SL-GBR-01A-2004,Wimbledon,Grass,128,G,20040621,46,201291,,Q,Nuria Llagostera Vives,R,156,ESP,24.0985626283,200015,,,Petra Mandula,R,,HUN,26.4257357974,6-3 6-3,3,R128,,,,,,,,,,,,,,,,,,,,142,236,40,799
 2004-W-SL-GBR-01A-2004,Wimbledon,Grass,128,G,20040621,47,201368,,,Karolina Sprem,R,174,CRO,19.6550308008,201281,,,Laura Granville,R,175,USA,23.1101984942,2-6 6-1 6-4,3,R128,,,,,,,,,,,,,,,,,,,,30,924,72,526
 2004-W-SL-GBR-01A-2004,Wimbledon,Grass,128,G,20040621,48,200748,3,,Venus Williams,R,185,USA,24.0109514031,201306,,,Marie Gaiane Mikaelian,R,,SUI,20.3011635866,6-3 6-0,3,R128,,7,1,46,29,26,10,,3,3,0,3,47,38,18,4,,3,7,8,2406,106,334
@@ -724,7 +724,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-SL-GBR-01A-2004,Wimbledon,Grass,128,G,20040621,70,201309,,,Tatiana Perebiynis,R,,UKR,21.5167693361,201328,,,Milagros Sequera,R,,VEN,23.7234770705,6-2 7-5,3,R64,,,,,,,,,,,,,,,,,,,,90,386,79,466
 2004-W-SL-GBR-01A-2004,Wimbledon,Grass,128,G,20040621,71,200109,25,,Nathalie Dechy,R,177,FRA,25.3305954825,200035,,,Maria Sanchez Lorenzo,R,,ESP,26.6201232033,6-1 6-1,3,R64,,,,,,,,,,,,,,,,,,,,29,930,48,691
 2004-W-SL-GBR-01A-2004,Wimbledon,Grass,128,G,20040621,72,200077,7,,Jennifer Capriati,R,170,USA,28.2299794661,201304,,WC,Elena Baltacha,R,,GBR,20.8542094456,6-4 6-4,3,R64,,6,2,53,33,27,9,,1,3,1,1,69,46,26,10,,6,10,7,2766,331,63
-2004-W-SL-GBR-01A-2004,Wimbledon,Grass,128,G,20040621,73,200065,4,,Amelie Mauresmo,R,175,FRA,24.9637234771,200766,,Q,Jennifer Hopkins,R,,USA,23.3593429158,6-3 6-3,3,R64,,3,3,53,30,24,16,,2,2,2,6,70,39,25,12,,7,10,4,3591,149,216
+2004-W-SL-GBR-01A-2004,Wimbledon,Grass,128,G,20040621,73,200065,4,,Amelie Mauresmo,R,175,FRA,24.9637234771,200766,,Q,Jennifer Hopkins,R,170,USA,23.3593429158,6-3 6-3,3,R64,,3,3,53,30,24,16,,2,2,2,6,70,39,25,12,,7,10,4,3591,149,216
 2004-W-SL-GBR-01A-2004,Wimbledon,Grass,128,G,20040621,74,200025,,,Ludmila Cervanova,R,,SVK,24.6844626968,200020,26,,Lisa Raymond,R,165,USA,30.8637919233,6-4 6-3,3,R64,,3,0,56,37,25,10,,3,4,5,2,70,44,29,10,,4,8,87,407,27,973
 2004-W-SL-GBR-01A-2004,Wimbledon,Grass,128,G,20040621,75,200118,,,Virginia Ruano Pascual,R,169,ESP,30.7488021903,200098,,,Henrieta Nagyova,R,,SVK,25.5167693361,6-4 6-4,3,R64,,,,,,,,,,,,,,,,,,,,67,558,91,386
 2004-W-SL-GBR-01A-2004,Wimbledon,Grass,128,G,20040621,76,200700,14,,Silvia Farina Elia,R,,ITA,32.1505817933,200007,,,Silvija Talaja,R,,CRO,26.4339493498,6-3 6-3,3,R64,,,,,,,,,,,,,,,,,,,,19,1412,109,330
@@ -799,7 +799,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,18,201403,,Q,Anna Chakvetadze,R,170,RUS,17.4893908282,200032,,,Barbara Schett,R,176,AUT,28.4736481862,1-6 6-4 6-2,3,R128,,5,8,74,44,29,11,,4,9,6,4,89,54,30,15,,9,15,175,179,80,467
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,19,201286,,,Anabel Medina Garrigues,R,169,ESP,22.083504449,201366,,,Barbora Zahlavova Strycova,R,164,CZE,18.4257357974,7-5 6-3,3,R128,,2,0,76,63,35,6,,6,10,1,5,56,32,20,6,,0,6,45,748,66,570
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,20,201305,29,,Eleni Daniilidou,R,182,GRE,21.9466119097,200007,,,Silvija Talaja,R,,CRO,26.6255989049,3-6 6-3 7-5,3,R128,,4,4,97,61,43,19,,9,12,6,2,106,66,42,20,,8,12,33,924,108,357
-2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,21,201085,,,Shinobu Asagoe,R,,JPN,28.1724845996,200040,24,,Anna Smashnova,R,,ISR,28.1232032854,3-6 6-4 6-1,3,R128,,3,3,92,69,38,9,,10,16,0,7,79,51,26,9,,6,14,62,584,27,1159
+2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,21,201085,,,Shinobu Asagoe,R,170,JPN,28.1724845996,200040,24,,Anna Smashnova,R,,ISR,28.1232032854,3-6 6-4 6-1,3,R128,,3,3,92,69,38,9,,10,16,0,7,79,51,26,9,,6,14,62,584,27,1159
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,22,200754,,,Jill Craybas,R,160,USA,30.1574264203,200122,,,Tina Pisnik,R,,SLO,23.5263518138,6-2 6-1,3,R128,,1,4,42,31,18,6,,3,5,0,6,65,47,19,5,,7,14,65,577,51,700
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,23,200720,,,Dally Randriantefy,R,,MAD,27.5154004107,201404,,WC,Jessica Kirkland,R,,USA,16.8049281314,6-4 6-4,3,R128,,1,2,70,45,30,10,,6,9,2,5,56,32,21,5,,1,6,96,395,253,105
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,24,200107,13,,Paola Suarez,R,170,ARG,28.1861738535,201405,,Q,Nan Nan Liu,U,,CHN,21.1991786448,6-1 7-5,3,R128,,0,5,56,36,25,9,,4,6,2,0,71,49,24,9,,6,12,15,1738,198,153
@@ -840,9 +840,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,59,201376,,WC,Angela Haynes,L,,USA,19.923340178,201309,,,Tatiana Perebiynis,R,,UKR,21.7084188912,6-7(4) 6-1 7-6(5),3,R128,,5,3,120,86,56,14,,10,14,4,5,108,64,40,18,,9,15,185,170,78,476
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,60,200086,22,,Magdalena Maleeva,R,168,BUL,29.4154688569,201355,,,Flavia Pennetta,R,172,ITA,22.5106091718,2-6 6-4 6-4,3,R128,,3,4,86,54,31,16,,6,12,10,8,102,63,41,13,,6,12,25,1214,44,755
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,61,200024,31,,Maria Vento Kabchi,R,,VEN,30.2696783025,200049,,,Conchita Martinez,R,170,ESP,32.372347707,0-6 6-2 6-3,3,R128,,1,8,79,50,28,12,,3,8,2,5,78,44,28,14,,6,12,34,920,36,851
-2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,62,201361,,Q,Julia Schruff,R,,GER,22.0396988364,200766,,WC,Jennifer Hopkins,R,,USA,23.5509924709,6-3 6-7(4) 6-1,3,R128,,4,4,86,48,36,21,,1,2,3,8,93,45,29,22,,3,9,136,257,117,327
+2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,62,201361,,Q,Julia Schruff,R,,GER,22.0396988364,200766,,WC,Jennifer Hopkins,R,170,USA,23.5509924709,6-3 6-7(4) 6-1,3,R128,,4,4,86,48,36,21,,1,2,3,8,93,45,29,22,,3,9,136,257,117,327
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,63,201360,,,Julia Vakulenko,R,183,UKR,21.1416837782,201307,,WC,Amber Liu,R,,USA,20.1505817933,3-6 6-3 6-1,3,R128,,5,8,77,42,33,13,,7,10,0,5,75,41,26,15,,3,9,105,365,429,37
-2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,64,200065,2,,Amelie Mauresmo,R,175,FRA,25.1553730322,200126,,,Marissa Gould,R,,USA,24.1861738535,6-4 6-2,3,R128,,,,,,,,,,,,,,,,,,,,2,4491,83,435
+2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,64,200065,2,,Amelie Mauresmo,R,175,FRA,25.1553730322,200126,,,Marissa Irvin,R,,USA,24.1861738535,6-4 6-2,3,R128,,,,,,,,,,,,,,,,,,,,2,4491,83,435
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,65,200003,1,,Justine Henin,R,167,BEL,22.2477754962,200014,,Q,Tzipi Obziler,R,,ISR,31.3648186174,6-2 5-7 6-2,3,R64,,2,8,109,48,31,23,,13,20,2,1,82,49,21,12,,4,14,1,4950,133,261
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,66,200020,,,Lisa Raymond,R,165,USA,31.0554414784,201373,,,Maria Kirilenko,R,173,RUS,17.5961670089,4-6 7-6(3) 6-2,3,R64,,6,1,75,51,37,11,,5,9,2,8,92,51,33,21,,2,6,30,992,103,370
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,67,200700,19,,Silvia Farina Elia,R,,ITA,32.3422313484,200011,,,Katarina Srebotnik,R,180,SLO,23.4688569473,6-2 6-1,3,R64,,2,1,47,30,17,12,,4,6,0,7,38,18,4,5,,1,8,21,1260,75,504
@@ -853,7 +853,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,72,201345,7,,Maria Sharapova,R,,RUS,17.3661875428,201347,,,Jelena Jankovic,R,177,SRB,19.5017111567,6-0 6-7(5) 6-1,3,R64,,3,5,73,45,30,15,,2,5,1,14,75,47,23,13,,8,17,7,2462,41,819
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,73,201403,,Q,Anna Chakvetadze,R,170,RUS,17.4893908282,200772,4,,Anastasia Myskina,R,174,RUS,23.1457905544,7-6(3) 6-3,3,R64,,3,2,70,44,27,17,,1,4,1,3,64,30,20,14,,2,6,175,179,3,4247
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,74,201305,29,,Eleni Daniilidou,R,182,GRE,21.9466119097,201286,,,Anabel Medina Garrigues,R,169,ESP,22.083504449,1-6 7-5 6-4,3,R64,,3,7,109,74,41,20,,7,13,3,3,114,84,46,13,,8,13,33,924,45,748
-2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,75,201085,,,Shinobu Asagoe,R,,JPN,28.1724845996,200754,,,Jill Craybas,R,160,USA,30.1574264203,7-5 6-3,3,R64,,4,2,69,48,31,11,,5,8,0,2,69,40,21,13,,5,11,62,584,65,577
+2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,75,201085,,,Shinobu Asagoe,R,170,JPN,28.1724845996,200754,,,Jill Craybas,R,160,USA,30.1574264203,7-5 6-3,3,R64,,4,2,69,48,31,11,,5,8,0,2,69,40,21,13,,5,11,62,584,65,577
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,76,200107,13,,Paola Suarez,R,170,ARG,28.1861738535,200720,,,Dally Randriantefy,R,,MAD,27.5154004107,6-2 6-2,3,R64,,3,6,52,30,16,11,,5,8,1,2,65,39,15,11,,2,9,15,1738,96,395
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,77,200748,11,,Venus Williams,R,185,USA,24.2026009582,201406,,Q,Shikha Uberoi,R,,IND,21.4045174538,7-5 6-1,3,R64,,3,4,50,31,24,10,,0,1,0,5,75,37,20,17,,7,12,12,1991,275,89
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,78,200039,20,,Chanda Rubin,R,168,USA,28.5311430527,201321,,Q,Antonella Serra Zanetti,R,,ITA,24.0985626283,7-5 6-3,3,R64,,1,2,73,46,27,11,,7,12,0,5,65,45,20,10,,5,12,22,1251,116,331
@@ -880,7 +880,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,99,201320,9,,Svetlana Kuznetsova,R,174,RUS,19.1759069131,200041,21,,Amy Frazier,R,,USA,31.9452429843,7-6(3) 7-5,3,R32,,8,2,75,38,26,18,,1,5,1,6,89,54,31,17,,8,13,9,2090,23,1233
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,100,200096,27,,Mary Pierce,R,178,FRA,29.6235455168,201345,7,,Maria Sharapova,R,,RUS,17.3661875428,4-6 6-2 6-3,3,R32,,2,2,80,45,32,23,,3,5,5,14,111,66,45,16,,13,17,29,1110,7,2462
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,101,201305,29,,Eleni Daniilidou,R,182,GRE,21.9466119097,201403,,Q,Anna Chakvetadze,R,170,RUS,17.4893908282,6-4 6-2,3,R32,,2,5,51,36,23,7,,2,5,2,6,62,38,21,7,,3,9,33,924,175,179
-2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,102,201085,,,Shinobu Asagoe,R,,JPN,28.1724845996,200107,13,,Paola Suarez,R,170,ARG,28.1861738535,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,62,584,15,1738
+2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,102,201085,,,Shinobu Asagoe,R,170,JPN,28.1724845996,200107,13,,Paola Suarez,R,170,ARG,28.1861738535,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,62,584,15,1738
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,103,200748,11,,Venus Williams,R,185,USA,24.2026009582,200039,20,,Chanda Rubin,R,168,USA,28.5311430527,7-6(4) 6-3,3,R32,,5,4,96,49,30,22,,8,12,0,3,78,47,21,16,,10,15,12,1991,22,1251
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,104,200128,5,,Lindsay Davenport,R,189,USA,28.2272416153,200764,26,,Elena Bovina,R,189,RUS,21.4757015743,7-6(7) 6-2,3,R32,,7,4,64,37,33,16,,2,2,4,5,74,54,38,8,,5,7,4,4009,19,1401
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,105,200077,8,,Jennifer Capriati,R,170,USA,28.4216290212,201371,,,Vera Dushevina,R,180,RUS,17.9000684463,6-0 6-7(4) 6-3,3,R32,,4,3,89,64,43,11,,2,5,3,4,81,52,28,11,,4,11,8,2414,88,412
@@ -893,14 +893,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,112,200065,2,,Amelie Mauresmo,R,175,FRA,25.1553730322,200024,31,,Maria Vento Kabchi,R,,VEN,30.2696783025,6-2 6-0,3,R32,,8,2,41,24,21,8,,0,0,1,7,64,43,22,6,,7,12,2,4491,34,920
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,113,200069,14,,Nadia Petrova,R,178,RUS,22.2286105407,200003,1,,Justine Henin,R,167,BEL,22.2477754962,6-3 6-2,3,R16,,2,1,61,41,28,10,,3,5,5,4,63,33,21,10,,6,11,14,1761,1,4950
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,114,201320,9,,Svetlana Kuznetsova,R,174,RUS,19.1759069131,200096,27,,Mary Pierce,R,178,FRA,29.6235455168,7-6(5) 6-2,3,R16,,13,1,63,41,34,16,,1,1,4,4,72,47,33,12,,4,6,9,2090,29,1110
-2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,115,201085,,,Shinobu Asagoe,R,,JPN,28.1724845996,201305,29,,Eleni Daniilidou,R,182,GRE,21.9466119097,7-6(4) 4-6 6-3,3,R16,,1,4,123,81,48,21,,11,16,0,7,104,75,48,10,,7,12,62,584,33,924
+2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,115,201085,,,Shinobu Asagoe,R,170,JPN,28.1724845996,201305,29,,Eleni Daniilidou,R,182,GRE,21.9466119097,7-6(4) 4-6 6-3,3,R16,,1,4,123,81,48,21,,11,16,0,7,104,75,48,10,,7,12,62,584,33,924
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,116,200128,5,,Lindsay Davenport,R,189,USA,28.2272416153,200748,11,,Venus Williams,R,185,USA,24.2026009582,7-5 6-4,3,R16,,5,3,83,56,42,13,,5,5,3,5,86,48,32,19,,4,6,4,4009,12,1991
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,117,200077,8,,Jennifer Capriati,R,170,USA,28.4216290212,200085,12,,Ai Sugiyama,R,163,JPN,29.1553730322,7-5 6-2,3,R16,,3,4,62,39,28,13,,2,3,0,5,59,40,19,11,,3,7,8,2414,13,1930
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,118,200033,3,,Serena Williams,R,175,USA,22.9267624914,200067,15,,Patty Schnyder,L,168,SUI,25.711156742,6-4 6-2,3,R16,,12,1,56,31,25,15,,1,1,1,3,49,34,22,6,,1,4,11,1995,16,1641
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,119,200108,6,,Elena Dementieva,R,180,RUS,22.8747433265,201329,10,,Vera Zvonareva,R,172,RUS,19.9780971937,1-6 6-4 6-3,3,R16,,0,6,82,56,31,9,,6,12,1,12,95,39,25,24,,8,14,6,2896,10,2090
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,120,200065,2,,Amelie Mauresmo,R,175,FRA,25.1553730322,201212,16,,Francesca Schiavone,R,166,ITA,24.1861738535,6-4 6-2,3,R16,,5,5,50,31,27,9,,1,2,5,0,66,34,20,15,,8,12,2,4491,17,1469
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,121,201320,9,,Svetlana Kuznetsova,R,174,RUS,19.1759069131,200069,14,,Nadia Petrova,R,178,RUS,22.2286105407,7-6(4) 6-3,3,QF,,4,3,81,50,32,19,,3,4,3,4,64,35,24,16,,0,2,9,2090,14,1761
-2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,122,200128,5,,Lindsay Davenport,R,189,USA,28.2272416153,201085,,,Shinobu Asagoe,R,,JPN,28.1724845996,6-1 6-1,3,QF,,5,1,38,25,21,9,,0,0,0,1,43,27,11,8,,3,8,4,4009,62,584
+2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,122,200128,5,,Lindsay Davenport,R,189,USA,28.2272416153,201085,,,Shinobu Asagoe,R,170,JPN,28.1724845996,6-1 6-1,3,QF,,5,1,38,25,21,9,,0,0,0,1,43,27,11,8,,3,8,4,4009,62,584
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,123,200077,8,,Jennifer Capriati,R,170,USA,28.4216290212,200033,3,,Serena Williams,R,175,USA,22.9267624914,2-6 6-4 6-4,3,QF,,2,3,92,68,44,13,,3,6,5,3,93,57,34,23,,5,8,8,2414,11,1995
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,124,200108,6,,Elena Dementieva,R,180,RUS,22.8747433265,200065,2,,Amelie Mauresmo,R,175,FRA,25.1553730322,4-6 6-4 7-6(1),3,QF,,0,15,121,67,41,24,,12,19,3,9,107,55,36,18,,10,17,6,2896,2,4491
 2004-W-SL-USA-01A-2004,US Open,Hard,128,G,20040830,125,201320,9,,Svetlana Kuznetsova,R,174,RUS,19.1759069131,200128,5,,Lindsay Davenport,R,189,USA,28.2272416153,1-6 6-2 6-4,3,SF,,7,3,68,40,29,13,,1,5,7,0,74,52,35,9,,2,6,9,2090,4,4009
@@ -925,7 +925,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T1-CAN-01A-2004,Montreal,Hard,56,T1,20040802,17,201364,,,Tatiana Golovin,R,175,FRA,16.5201916496,200090,,,Anca Barna,L,,GER,27.2197125257,6-2 6-1,3,R64,,,,,,,,,,,,,,,,,,,,38,807,55,654
 2004-W-T1-CAN-01A-2004,Montreal,Hard,56,T1,20040802,18,201363,,,Gisela Dulko,R,170,ARG,19.5044490075,200729,,LL,Lindsay Lee Waters,R,,USA,27.0965092402,6-3 7-5,3,R64,,,,,,,,,,,,,,,,,,,,43,751,94,402
 2004-W-T1-CAN-01A-2004,Montreal,Hard,56,T1,20040802,19,201290,,,Daniela Hantuchova,R,181,SVK,21.2785763176,200104,,,Emilie Loit,L,,FRA,25.1498973306,5-3 RET,3,R64,,,,,,,,,,,,,,,,,,,,35,857,36,851
-2004-W-T1-CAN-01A-2004,Montreal,Hard,56,T1,20040802,20,201085,,,Shinobu Asagoe,R,,JPN,28.0958247775,201486,,WC,Aleksandra Wozniak,R,175,CAN,16.9034907598,6-3 6-2,3,R64,,,,,,,,,,,,,,,,,,,,64,577,669,14
+2004-W-T1-CAN-01A-2004,Montreal,Hard,56,T1,20040802,20,201085,,,Shinobu Asagoe,R,170,JPN,28.0958247775,201486,,WC,Aleksandra Wozniak,R,175,CAN,16.9034907598,6-3 6-2,3,R64,,,,,,,,,,,,,,,,,,,,64,577,669,14
 2004-W-T1-CAN-01A-2004,Montreal,Hard,56,T1,20040802,21,201368,12,,Karolina Sprem,R,174,CRO,19.7700205339,200028,,WC,Maureen Drake,R,,CAN,33.3689253936,6-2 6-1,3,R64,,,,,,,,,,,,,,,,,,,,19,1256,161,195
 2004-W-T1-CAN-01A-2004,Montreal,Hard,56,T1,20040802,22,200764,14,,Elena Bovina,R,189,RUS,21.3990417522,200118,,,Virginia Ruano Pascual,R,169,ESP,30.8637919233,6-1 6-3,3,R64,,,,,,,,,,,,,,,,,,,,20,1237,57,648
 2004-W-T1-CAN-01A-2004,Montreal,Hard,56,T1,20040802,23,200068,,Q,Lilia Osterloh,R,,USA,26.3216974675,200754,,,Jill Craybas,R,160,USA,30.0807665982,0-6 6-3 6-1,3,R64,,,,,,,,,,,,,,,,,,,,157,209,61,617
@@ -943,7 +943,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T1-CAN-01A-2004,Montreal,Hard,56,T1,20040802,35,201364,,,Tatiana Golovin,R,175,FRA,16.5201916496,200110,16,,Fabiola Zuluaga,R,,COL,25.568788501,6-3 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,38,807,25,1157
 2004-W-T1-CAN-01A-2004,Montreal,Hard,56,T1,20040802,36,201363,,,Gisela Dulko,R,170,ARG,19.5044490075,200108,4,,Elena Dementieva,R,180,RUS,22.7980835044,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,43,751,6,3177
 2004-W-T1-CAN-01A-2004,Montreal,Hard,56,T1,20040802,37,200085,7,,Ai Sugiyama,R,163,JPN,29.0787132101,201290,,,Daniela Hantuchova,R,181,SVK,21.2785763176,1-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,11,1968,35,857
-2004-W-T1-CAN-01A-2004,Montreal,Hard,56,T1,20040802,38,201368,12,,Karolina Sprem,R,174,CRO,19.7700205339,201085,,,Shinobu Asagoe,R,,JPN,28.0958247775,6-2 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,19,1256,64,577
+2004-W-T1-CAN-01A-2004,Montreal,Hard,56,T1,20040802,38,201368,12,,Karolina Sprem,R,174,CRO,19.7700205339,201085,,,Shinobu Asagoe,R,170,JPN,28.0958247775,6-2 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,19,1256,64,577
 2004-W-T1-CAN-01A-2004,Montreal,Hard,56,T1,20040802,39,200764,14,,Elena Bovina,R,189,RUS,21.3990417522,200068,,Q,Lilia Osterloh,R,,USA,26.3216974675,7-6(7) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,20,1237,157,209
 2004-W-T1-CAN-01A-2004,Montreal,Hard,56,T1,20040802,40,200065,2,,Amelie Mauresmo,R,175,FRA,25.0787132101,200009,,,Tamarine Tanasugarn,R,165,THA,27.1923340178,6-4 1-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,3,4031,50,700
 2004-W-T1-CAN-01A-2004,Montreal,Hard,56,T1,20040802,41,200772,3,,Anastasia Myskina,R,174,RUS,23.0691307324,200039,15,,Chanda Rubin,R,168,USA,28.4544832307,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,4,3996,24,1162
@@ -985,7 +985,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T1-GER-01A-2004,Berlin,Clay,56,T1,20040503,22,200035,,,Maria Sanchez Lorenzo,R,,ESP,26.4859685147,200049,14,,Conchita Martinez,R,170,ESP,32.0465434634,6-3 3-6 6-4,3,R64,,,,,,,,,,,,,,,,,,,,42,781,18,1457
 2004-W-T1-GER-01A-2004,Berlin,Clay,56,T1,20040503,23,200044,,,Denisa Chladkova,R,,CZE,25.2320328542,201367,,,Arantxa Parra Santonja,R,,ESP,21.4811772758,6-4 6-0,3,R64,,,,,,,,,,,,,,,,,,,,68,508,62,528
 2004-W-T1-GER-01A-2004,Berlin,Clay,56,T1,20040503,24,201363,,,Gisela Dulko,R,170,ARG,19.2553045859,201409,,Q,Michaela Pastikova,R,,CZE,24.1013004791,6-4 6-3,3,R64,,,,,,,,,,,,,,,,,,,,67,511,150,211
-2004-W-T1-GER-01A-2004,Berlin,Clay,56,T1,20040503,25,200079,1,,Kim Clijsters,R,,BEL,20.9034907598,200777,,Q,Marta Marrero,R,,ESP,21.2950034223,6-3 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,2,6280,81,456
+2004-W-T1-GER-01A-2004,Berlin,Clay,56,T1,20040503,25,200079,1,,Kim Clijsters,R,175,BEL,20.9034907598,200777,,Q,Marta Marrero,R,,ESP,21.2950034223,6-3 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,2,6280,81,456
 2004-W-T1-GER-01A-2004,Berlin,Clay,56,T1,20040503,26,201368,,,Karolina Sprem,R,174,CRO,19.5208761123,200046,,,Meghann Shaughnessy,R,,USA,25.0568104038,6-2 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,29,1003,40,788
 2004-W-T1-GER-01A-2004,Berlin,Clay,56,T1,20040503,27,200110,,,Fabiola Zuluaga,R,,COL,25.3196440794,201329,9,,Vera Zvonareva,R,172,RUS,19.65229295,6-1 6-7(2) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,24,1180,12,1966
 2004-W-T1-GER-01A-2004,Berlin,Clay,56,T1,20040503,28,200085,8,,Ai Sugiyama,R,163,JPN,28.8295687885,200048,,,Elena Likhovtseva,R,,RUS,28.6516084873,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,10,2053,48,716
@@ -1001,7 +1001,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T1-GER-01A-2004,Berlin,Clay,56,T1,20040503,38,201320,10,,Svetlana Kuznetsova,R,174,RUS,18.8501026694,200764,,,Elena Bovina,R,189,RUS,21.1498973306,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,14,1814,28,1010
 2004-W-T1-GER-01A-2004,Berlin,Clay,56,T1,20040503,39,200044,,,Denisa Chladkova,R,,CZE,25.2320328542,200035,,,Maria Sanchez Lorenzo,R,,ESP,26.4859685147,2-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,68,508,42,781
 2004-W-T1-GER-01A-2004,Berlin,Clay,56,T1,20040503,40,200065,2,,Amelie Mauresmo,R,175,FRA,24.8295687885,201363,,,Gisela Dulko,R,170,ARG,19.2553045859,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,3,3167,67,511
-2004-W-T1-GER-01A-2004,Berlin,Clay,56,T1,20040503,41,201368,,,Karolina Sprem,R,174,CRO,19.5208761123,200079,1,,Kim Clijsters,R,,BEL,20.9034907598,W/O,3,R16,,,,,,,,,,,,,,,,,,,,29,1003,2,6280
+2004-W-T1-GER-01A-2004,Berlin,Clay,56,T1,20040503,41,201368,,,Karolina Sprem,R,174,CRO,19.5208761123,200079,1,,Kim Clijsters,R,175,BEL,20.9034907598,W/O,3,R16,,,,,,,,,,,,,,,,,,,,29,1003,2,6280
 2004-W-T1-GER-01A-2004,Berlin,Clay,56,T1,20040503,42,200110,,,Fabiola Zuluaga,R,,COL,25.3196440794,200085,8,,Ai Sugiyama,R,163,JPN,28.8295687885,7-6(4) 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,24,1180,10,2053
 2004-W-T1-GER-01A-2004,Berlin,Clay,56,T1,20040503,43,200748,3,,Venus Williams,R,185,USA,23.8767967146,200040,16,,Anna Smashnova,R,,ISR,27.7973990418,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,11,1982,21,1292
 2004-W-T1-GER-01A-2004,Berlin,Clay,56,T1,20040503,44,200107,11,,Paola Suarez,R,170,ARG,27.8603696099,200069,5,,Nadia Petrova,R,178,RUS,21.9028062971,6-1 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,17,1611,6,2398
@@ -1072,7 +1072,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T1-ITA-01A-2004,Rome,Clay,56,T1,20040510,54,200065,2,,Amelie Mauresmo,R,175,FRA,24.848733744,201329,8,,Vera Zvonareva,R,172,RUS,19.6714579055,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,,
 2004-W-T1-ITA-01A-2004,Rome,Clay,56,T1,20040510,55,200065,2,,Amelie Mauresmo,R,175,FRA,24.848733744,200077,5,,Jennifer Capriati,R,170,USA,28.1149897331,3-6 6-3 7-6(6),3,F,,,,,,,,,,,,,,,,,,,,,,,
 2004-W-T1-JPN-01A-2004,Tokyo,Carpet,28,T1,20040203,1,201323,,,Saori Obata,L,,JPN,25.7823408624,201360,,LL,Julia Vakulenko,R,183,UKR,20.5694729637,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,40,806,77,453
-2004-W-T1-JPN-01A-2004,Tokyo,Carpet,28,T1,20040203,2,201352,,Q,Akiko Morigami,R,,JPN,24.0602327173,201085,,,Shinobu Asagoe,R,,JPN,27.6002737851,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,62,558,42,783
+2004-W-T1-JPN-01A-2004,Tokyo,Carpet,28,T1,20040203,2,201352,,Q,Akiko Morigami,R,,JPN,24.0602327173,201085,,,Shinobu Asagoe,R,170,JPN,27.6002737851,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,62,558,42,783
 2004-W-T1-JPN-01A-2004,Tokyo,Carpet,28,T1,20040203,3,200039,5,,Chanda Rubin,R,168,USA,27.9589322382,200010,,Q,Rita Grande,R,,ITA,28.8678986995,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,10,2151,74,459
 2004-W-T1-JPN-01A-2004,Tokyo,Carpet,28,T1,20040203,4,200042,,Q,Els Callens,R,,BEL,33.4565366188,200111,,,Lina Krasnoroutskaya,R,,RUS,19.7645448323,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,85,427,28,1047
 2004-W-T1-JPN-01A-2004,Tokyo,Carpet,28,T1,20040203,5,200086,,,Magdalena Maleeva,R,168,BUL,28.8432580424,200020,,,Lisa Raymond,R,165,USA,30.4832306639,4-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,31,981,24,1117
@@ -1134,7 +1134,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T1-SUI-01A-2004,Zurich,Hard,28,T1,20041018,7,200748,7,,Venus Williams,R,185,USA,24.3367556468,201368,,,Karolina Sprem,R,174,CRO,19.9808350445,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,11,2232,17,1494
 2004-W-T1-SUI-01A-2004,Zurich,Hard,28,T1,20041018,8,201421,,Q,Ana Ivanovic,R,183,SRB,16.9500342231,201364,,Q,Tatiana Golovin,R,175,FRA,16.7310061602,7-5 6-7(2) 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,156,214,29,1041
 2004-W-T1-SUI-01A-2004,Zurich,Hard,28,T1,20041018,9,201290,,,Daniela Hantuchova,R,181,SVK,21.4893908282,201371,,WC,Vera Dushevina,R,180,RUS,18.0342231348,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,35,905,65,524
-2004-W-T1-SUI-01A-2004,Zurich,Hard,28,T1,20041018,10,200085,9,,Ai Sugiyama,R,163,JPN,29.2895277207,201085,,Q,Shinobu Asagoe,R,,JPN,28.3066392882,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,14,1837,43,755
+2004-W-T1-SUI-01A-2004,Zurich,Hard,28,T1,20041018,10,200085,9,,Ai Sugiyama,R,163,JPN,29.2895277207,201085,,Q,Shinobu Asagoe,R,170,JPN,28.3066392882,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,14,1837,43,755
 2004-W-T1-SUI-01A-2004,Zurich,Hard,28,T1,20041018,11,201355,,LL,Flavia Pennetta,R,172,ITA,22.6447638604,201306,,Q,Marie Gaiane Mikaelian,R,,SUI,20.6269678303,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,40,764,175,181
 2004-W-T1-SUI-01A-2004,Zurich,Hard,28,T1,20041018,12,200764,,,Elena Bovina,R,189,RUS,21.6098562628,201212,,,Francesca Schiavone,R,166,ITA,24.3203285421,6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,18,1408,19,1397
 2004-W-T1-SUI-01A-2004,Zurich,Hard,28,T1,20041018,13,200107,,,Paola Suarez,R,170,ARG,28.3203285421,200104,,LL,Emilie Loit,L,,FRA,25.3607118412,6-1 2-2 RET,3,R16,,,,,,,,,,,,,,,,,,,,16,1520,39,780
@@ -1167,10 +1167,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,13,200754,,,Jill Craybas,R,160,USA,29.6837782341,200042,,,Els Callens,R,,BEL,33.5550992471,6-1 3-6 6-2,3,R128,,,,,,,,,,,,,,,,,,,,76,484,71,511
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,14,201346,,,Lubomira Kurhajcova,R,,SVK,20.4134154689,201373,,WC,Maria Kirilenko,R,173,RUS,17.1225188227,6-1 6-4,3,R128,,,,,,,,,,,,,,,,,,,,72,502,117,302
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,15,200032,,,Barbara Schett,R,176,AUT,28.0,201309,,,Tatiana Perebiynis,R,,UKR,21.234770705,6-7(7) 6-1 6-2,3,R128,,,,,,,,,,,,,,,,,,,,77,483,84,442
-2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,16,201364,,WC,Tatiana Golovin,R,175,FRA,16.1232032854,201085,,,Shinobu Asagoe,R,,JPN,27.6988364134,6-1 4-6 6-3,3,R128,,,,,,,,,,,,,,,,,,,,93,395,48,700
+2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,16,201364,,WC,Tatiana Golovin,R,175,FRA,16.1232032854,201085,,,Shinobu Asagoe,R,170,JPN,27.6988364134,6-1 4-6 6-3,3,R128,,,,,,,,,,,,,,,,,,,,93,395,48,700
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,17,201394,,Q,Anna Lena Groenefeld,R,180,GER,18.765229295,200118,,,Virginia Ruano Pascual,R,169,ESP,30.4668035592,7-5 6-2,3,R128,,,,,,,,,,,,,,,,,,,,109,323,73,498
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,18,201363,,Q,Gisela Dulko,R,170,ARG,19.1074606434,201344,,,Klara Koukalova,R,166,CZE,22.0396988364,7-6(5) 6-1,3,R128,,,,,,,,,,,,,,,,,,,,97,377,85,440
-2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,19,200126,,Q,Marissa Gould,R,,USA,23.7125256674,201408,,WC,Jamea Jackson,R,,USA,17.5058179329,2-6 7-6(4) 1-0 RET,3,R128,,,,,,,,,,,,,,,,,,,,142,224,371,50
+2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,19,200126,,Q,Marissa Irvin,R,,USA,23.7125256674,201408,,WC,Jamea Jackson,R,,USA,17.5058179329,2-6 7-6(4) 1-0 RET,3,R128,,,,,,,,,,,,,,,,,,,,142,224,371,50
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,20,200061,,,Gala Leon Garcia,L,,ESP,30.212183436,200063,,SR,Tatiana Panova,R,,RUS,27.5728952772,2-6 6-4 7-6(4),3,R128,,,,,,,,,,,,,,,,,,,,98,367,133,250
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,21,200062,,,Kristina Brandi,R,168,PUR,26.9486652977,200044,,,Denisa Chladkova,R,,CZE,25.0841889117,6-2 6-0,3,R128,,,,,,,,,,,,,,,,,,,,52,663,55,654
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,22,201286,,,Anabel Medina Garrigues,R,169,ESP,21.6098562628,200720,,,Dally Randriantefy,R,,MAD,27.0417522245,6-4 2-6 7-5,3,R128,,,,,,,,,,,,,,,,,,,,74,489,100,365
@@ -1202,7 +1202,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,48,200107,8,,Paola Suarez,R,170,ARG,27.7125256674,201364,,WC,Tatiana Golovin,R,175,FRA,16.1232032854,1-6 7-5 6-2,3,R64,,,,,,,,,,,,,,,,,,,,13,1601,93,395
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,49,200069,7,,Nadia Petrova,R,178,RUS,21.7549623546,201394,,Q,Anna Lena Groenefeld,R,180,GER,18.765229295,7-5 6-3,3,R64,,,,,,,,,,,,,,,,,,,,12,1967,109,323
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,50,201363,,Q,Gisela Dulko,R,170,ARG,19.1074606434,200035,25,,Maria Sanchez Lorenzo,R,,ESP,26.3381245722,0-6 7-6(1) 6-1,3,R64,,,,,,,,,,,,,,,,,,,,97,377,35,939
-2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,51,200126,,Q,Marissa Gould,R,,USA,23.7125256674,201290,24,,Daniela Hantuchova,R,181,SVK,20.8815879535,6-4 6-7(5) 7-6(3),3,R64,,,,,,,,,,,,,,,,,,,,142,224,36,934
+2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,51,200126,,Q,Marissa Irvin,R,,USA,23.7125256674,201290,24,,Daniela Hantuchova,R,181,SVK,20.8815879535,6-4 6-7(5) 7-6(3),3,R64,,,,,,,,,,,,,,,,,,,,142,224,36,934
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,52,200061,,,Gala Leon Garcia,L,,ESP,30.212183436,200120,9,,Jelena Dokic,R,175,AUS,20.9117043121,6-4 3-6 6-4,3,R64,,,,,,,,,,,,,,,,,,,,98,367,16,1455
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,53,200062,,,Kristina Brandi,R,168,PUR,26.9486652977,201212,14,,Francesca Schiavone,R,166,ITA,23.7125256674,6-2 6-1,3,R64,,,,,,,,,,,,,,,,,,,,52,663,22,1262
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,54,200046,20,,Meghann Shaughnessy,R,,USA,24.9089664613,201286,,,Anabel Medina Garrigues,R,169,ESP,21.6098562628,6-1 6-2,3,R64,,,,,,,,,,,,,,,,,,,,26,1099,74,489
@@ -1215,7 +1215,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,61,200110,15,,Fabiola Zuluaga,R,,COL,25.1718001369,201317,,,Aniko Kapros,R,,HUN,20.3285420945,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,23,1192,56,639
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,62,200007,,Q,Silvija Talaja,R,,CRO,26.1519507187,200122,21,,Tina Pisnik,R,,SLO,23.0527036277,6-1 6-0,3,R64,,,,,,,,,,,,,,,,,,,,101,363,31,979
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,63,201281,,,Laura Granville,R,175,USA,22.8281998631,200015,27,,Petra Mandula,R,,HUN,26.1437371663,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,54,658,39,798
-2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,64,200079,2,,Kim Clijsters,R,,BEL,20.7556468172,201333,,Q,Angelika Roesch,R,,GER,26.7542778919,6-1 6-3,3,R64,,,,,,,,,,,,,,,,,,,,2,6699,283,82
+2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,64,200079,2,,Kim Clijsters,R,175,BEL,20.7556468172,201333,,Q,Angelika Roesch,R,,GER,26.7542778919,6-1 6-3,3,R64,,,,,,,,,,,,,,,,,,,,2,6699,283,82
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,65,200003,1,,Justine Henin,R,167,BEL,21.7741273101,200777,,Q,Marta Marrero,R,,ESP,21.1471594798,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1,7262,95,391
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,66,201366,,Q,Barbora Zahlavova Strycova,R,164,CZE,17.9520876112,201331,,LL,Iveta Benesova,L,170,CZE,21.1033538672,6-1 2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,116,302,69,520
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,67,201320,12,,Svetlana Kuznetsova,R,174,RUS,18.7022587269,200008,22,,Alicia Molik,R,182,AUS,23.1156741958,3-6 7-6(6) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,14,1542,33,965
@@ -1225,18 +1225,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,71,200049,11,,Conchita Martinez,R,170,ESP,31.8986995209,200020,18,,Lisa Raymond,R,165,USA,30.5817932923,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,20,1302,27,1065
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,72,200032,,,Barbara Schett,R,176,AUT,28.0,200107,8,,Paola Suarez,R,170,ARG,27.7125256674,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,77,483,13,1601
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,73,201363,,Q,Gisela Dulko,R,170,ARG,19.1074606434,200069,7,,Nadia Petrova,R,178,RUS,21.7549623546,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,97,377,12,1967
-2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,74,200126,,Q,Marissa Gould,R,,USA,23.7125256674,200061,,,Gala Leon Garcia,L,,ESP,30.212183436,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,142,224,98,367
+2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,74,200126,,Q,Marissa Irvin,R,,USA,23.7125256674,200061,,,Gala Leon Garcia,L,,ESP,30.212183436,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,142,224,98,367
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,75,200046,20,,Meghann Shaughnessy,R,,USA,24.9089664613,200062,,,Kristina Brandi,R,168,PUR,26.9486652977,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,26,1099,52,663
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,76,200128,3,,Lindsay Davenport,R,189,USA,27.7535934292,201325,,Q,Samantha Stosur,R,172,AUS,19.9452429843,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,4,3049,114,309
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,77,201329,6,,Vera Zvonareva,R,172,RUS,19.5044490075,201380,,,Claudine Schaul,R,,LUX,20.5557837098,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,11,2027,63,551
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,78,200109,19,,Nathalie Dechy,R,177,FRA,25.0485968515,200040,10,,Anna Smashnova,R,,ISR,27.6495550992,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,28,1048,19,1309
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,79,200110,15,,Fabiola Zuluaga,R,,COL,25.1718001369,200007,,Q,Silvija Talaja,R,,CRO,26.1519507187,6-4 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,23,1192,101,363
-2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,80,201281,,,Laura Granville,R,175,USA,22.8281998631,200079,2,,Kim Clijsters,R,,BEL,20.7556468172,W/O,3,R32,,,,,,,,,,,,,,,,,,,,54,658,2,6699
+2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,80,201281,,,Laura Granville,R,175,USA,22.8281998631,200079,2,,Kim Clijsters,R,175,BEL,20.7556468172,W/O,3,R32,,,,,,,,,,,,,,,,,,,,54,658,2,6699
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,81,200003,1,,Justine Henin,R,167,BEL,21.7741273101,201366,,Q,Barbora Zahlavova Strycova,R,164,CZE,17.9520876112,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1,7262,116,302
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,82,201320,12,,Svetlana Kuznetsova,R,174,RUS,18.7022587269,200041,33,,Amy Frazier,R,,USA,31.4715947981,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,14,1542,47,709
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,83,200772,4,,Anastasia Myskina,R,174,RUS,22.6721423682,201345,16,,Maria Sharapova,R,,RUS,16.8925393566,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,5,2779,24,1172
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,84,200049,11,,Conchita Martinez,R,170,ESP,31.8986995209,200032,,,Barbara Schett,R,176,AUT,28.0,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,20,1302,77,483
-2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,85,201363,,Q,Gisela Dulko,R,170,ARG,19.1074606434,200126,,Q,Marissa Gould,R,,USA,23.7125256674,7-6(3) 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,97,377,142,224
+2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,85,201363,,Q,Gisela Dulko,R,170,ARG,19.1074606434,200126,,Q,Marissa Irvin,R,,USA,23.7125256674,7-6(3) 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,97,377,142,224
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,86,200128,3,,Lindsay Davenport,R,189,USA,27.7535934292,200046,20,,Meghann Shaughnessy,R,,USA,24.9089664613,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,4,3049,26,1099
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,87,200109,19,,Nathalie Dechy,R,177,FRA,25.0485968515,201329,6,,Vera Zvonareva,R,172,RUS,19.5044490075,2-6 6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,28,1048,11,2027
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,88,200110,15,,Fabiola Zuluaga,R,,COL,25.1718001369,201281,,,Laura Granville,R,175,USA,22.8281998631,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,23,1192,54,658
@@ -1249,7 +1249,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T1-USA-01A-2004,Indian Wells,Hard,96,T1,20040310,95,200003,1,,Justine Henin,R,167,BEL,21.7741273101,200128,3,,Lindsay Davenport,R,189,USA,27.7535934292,6-1 6-4,3,F,,,,,,,,,,,,,,,,,,,,1,7262,4,3049
 2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,1,200777,,Q,Marta Marrero,R,,ESP,21.1854893908,201376,,WC,Angela Haynes,L,,USA,19.4880219028,7-6(3) 7-6(1),3,R128,,,,,,,,,,,,,,,,,,,,83,448,173,180
 2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,2,201366,,Q,Barbora Zahlavova Strycova,R,164,CZE,17.9904175222,200749,,,Samantha Reeves,R,,USA,25.18275154,7-6(3) 6-3,3,R128,,,,,,,,,,,,,,,,,,,,97,389,95,403
-2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,3,201085,,,Shinobu Asagoe,R,,JPN,27.7371663244,200011,,,Katarina Srebotnik,R,180,SLO,23.0335386721,6-1 7-6(5),3,R128,,,,,,,,,,,,,,,,,,,,50,675,56,580
+2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,3,201085,,,Shinobu Asagoe,R,170,JPN,27.7371663244,200011,,,Katarina Srebotnik,R,180,SLO,23.0335386721,6-1 7-6(5),3,R128,,,,,,,,,,,,,,,,,,,,50,675,56,580
 2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,4,200010,,Q,Rita Grande,R,,ITA,29.0047912389,200723,,WC,Iva Majoli,R,,CRO,26.6146475017,6-2 1-6 6-3,3,R128,,,,,,,,,,,,,,,,,,,,87,435,139,239
 2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,5,200044,,,Denisa Chladkova,R,,CZE,25.1225188227,200025,,,Ludmila Cervanova,R,,SVK,24.4407939767,6-7(4) 6-4 6-4,3,R128,,,,,,,,,,,,,,,,,,,,55,604,59,563
 2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,6,201408,,WC,Jamea Jackson,R,,USA,17.5441478439,201335,,,Myriam Casanova,R,,SUI,18.7597535934,6-4 6-4,3,R128,,,,,,,,,,,,,,,,,,,,366,51,90,423
@@ -1270,8 +1270,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,21,201375,,WC,Shenay Perry,R,,USA,19.7152635181,200123,,,Marlene Weingartner,R,,GER,24.1478439425,6-2 6-1,3,R128,,,,,,,,,,,,,,,,,,,,127,278,67,527
 2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,22,201309,,,Tatiana Perebiynis,R,,UKR,21.273100616,201281,,,Laura Granville,R,175,USA,22.8665297741,6-3 7-6(6),3,R128,,,,,,,,,,,,,,,,,,,,85,442,47,720
 2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,23,201371,,Q,Vera Dushevina,R,180,RUS,17.4647501711,200022,,,Emmanuelle Gagliardi,R,,SUI,27.7070499658,6-2 6-4,3,R128,,,,,,,,,,,,,,,,,,,,99,383,75,502
-2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,24,201445,,WC,Viktoria Kutuzova,R,170,UKR,15.5947980835,200126,,WC,Marissa Gould,R,,USA,23.7508555784,6-3 6-4,3,R128,,,,,,,,,,,,,,,,,,,,278,85,118,298
-2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,25,200059,,Q,Ruxandra Dragomir Ilie,R,,ROU,31.4140999316,201334,,,Zuzana Ondraskova,R,,CZE,23.8904859685,6-4 6-4,3,R128,,,,,,,,,,,,,,,,,,,,446,34,98,385
+2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,24,201445,,WC,Viktoria Kutuzova,R,170,UKR,15.5947980835,200126,,WC,Marissa Irvin,R,,USA,23.7508555784,6-3 6-4,3,R128,,,,,,,,,,,,,,,,,,,,278,85,118,298
+2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,25,200059,,Q,Ruxandra Dragomir Ilie,R,168,ROU,31.4140999316,201334,,,Zuzana Ondraskova,R,,CZE,23.8904859685,6-4 6-4,3,R128,,,,,,,,,,,,,,,,,,,,446,34,98,385
 2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,26,201323,,,Saori Obata,L,,JPN,25.9192334018,200121,,Q,Alina Jidkova,R,,RUS,27.1786447639,6-3 3-6 6-0,3,R128,,,,,,,,,,,,,,,,,,,,41,779,106,350
 2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,27,200062,,,Kristina Brandi,R,168,PUR,26.9869952088,200056,,,Jelena Kostanic Tosic,L,168,CRO,22.7159479808,7-5 6-2,3,R128,,,,,,,,,,,,,,,,,,,,48,706,64,547
 2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,28,200036,,,Nicole Pratt,R,,AUS,31.0527036277,201367,,,Arantxa Parra Santonja,R,,ESP,21.3716632444,7-6(3) 6-7(2) 6-4,3,R128,,,,,,,,,,,,,,,,,,,,46,721,58,564
@@ -1281,7 +1281,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,32,201386,,,Jie Zheng,R,164,CHN,20.720054757,200050,,LL,Sandra Kleinova,R,,CZE,25.87816564,6-4 6-0,3,R128,,,,,,,,,,,,,,,,,,,,63,549,93,404
 2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,33,200033,1,,Serena Williams,R,175,USA,22.4914442163,200777,,Q,Marta Marrero,R,,ESP,21.1854893908,6-1 6-0,3,R64,,,,,,,,,,,,,,,,,,,,6,2584,83,448
 2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,34,200048,31,,Elena Likhovtseva,R,,RUS,28.5420944559,201366,,Q,Barbora Zahlavova Strycova,R,164,CZE,17.9904175222,6-1 6-4,3,R64,,,,,,,,,,,,,,,,,,,,42,767,97,389
-2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,35,201345,17,,Maria Sharapova,R,,RUS,16.9308692676,201085,,,Shinobu Asagoe,R,,JPN,27.7371663244,6-2 3-6 6-0,3,R64,,,,,,,,,,,,,,,,,,,,23,1221,50,675
+2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,35,201345,17,,Maria Sharapova,R,,RUS,16.9308692676,201085,,,Shinobu Asagoe,R,170,JPN,27.7371663244,6-2 3-6 6-0,3,R64,,,,,,,,,,,,,,,,,,,,23,1221,50,675
 2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,36,200040,13,,Anna Smashnova,R,,ISR,27.6878850103,200010,,Q,Rita Grande,R,,ITA,29.0047912389,6-1 6-3,3,R64,,,,,,,,,,,,,,,,,,,,19,1317,87,435
 2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,37,200107,9,,Paola Suarez,R,170,ARG,27.7508555784,200044,,,Denisa Chladkova,R,,CZE,25.1225188227,6-1 6-2,3,R64,,,,,,,,,,,,,,,,,,,,13,1632,55,604
 2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,38,200027,18,,Magui Serna,L,,ESP,25.0650239562,201408,,WC,Jamea Jackson,R,,USA,17.5441478439,3-6 7-6(5) 6-2,3,R64,,,,,,,,,,,,,,,,,,,,26,1106,366,51
@@ -1303,7 +1303,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,54,200109,21,,Nathalie Dechy,R,177,FRA,25.0869267625,201309,,,Tatiana Perebiynis,R,,UKR,21.273100616,4-6 7-6(6) 6-4,3,R64,,,,,,,,,,,,,,,,,,,,25,1205,85,442
 2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,55,201371,,Q,Vera Dushevina,R,180,RUS,17.4647501711,200111,28,,Lina Krasnoroutskaya,R,,RUS,19.9014373717,6-0 7-5,3,R64,,,,,,,,,,,,,,,,,,,,99,383,37,851
 2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,56,201363,,LL,Gisela Dulko,R,170,ARG,19.1457905544,201445,,WC,Viktoria Kutuzova,R,170,UKR,15.5947980835,6-4 4-1 RET,3,R64,,,,,,,,,,,,,,,,,,,,68,523,278,85
-2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,57,200108,5,,Elena Dementieva,R,180,RUS,22.4394250513,200059,,Q,Ruxandra Dragomir Ilie,R,,ROU,31.4140999316,6-4 6-1,3,R64,,,,,,,,,,,,,,,,,,,,8,2251,446,34
+2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,57,200108,5,,Elena Dementieva,R,180,RUS,22.4394250513,200059,,Q,Ruxandra Dragomir Ilie,R,168,ROU,31.4140999316,6-4 6-1,3,R64,,,,,,,,,,,,,,,,,,,,8,2251,446,34
 2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,58,200035,26,,Maria Sanchez Lorenzo,R,,ESP,26.3764544832,201323,,,Saori Obata,L,,JPN,25.9192334018,3-6 6-4 6-2,3,R64,,,,,,,,,,,,,,,,,,,,34,939,41,779
 2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,59,200062,,,Kristina Brandi,R,168,PUR,26.9869952088,200046,19,,Meghann Shaughnessy,R,,USA,24.9472963723,7-5 4-6 7-5,3,R64,,,,,,,,,,,,,,,,,,,,48,706,27,1072
 2004-W-T1-USA-02A-2004,Miami,Hard,96,T1,20040324,60,200120,12,,Jelena Dokic,R,175,AUS,20.9500342231,200036,,,Nicole Pratt,R,,AUS,31.0527036277,W/O,3,R64,,,,,,,,,,,,,,,,,,,,16,1455,46,721
@@ -1361,7 +1361,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T1-USA-03A-2004,Charleston,Clay,56,T1,20040412,17,200036,,,Nicole Pratt,R,,AUS,31.1047227926,200083,,WC,Alexandra Stevenson,R,,USA,23.3237508556,6-4 7-6(3),3,R64,,,,,,,,,,,,,,,,,,,,49,686,118,292
 2004-W-T1-USA-03A-2004,Charleston,Clay,56,T1,20040412,18,201347,,,Jelena Jankovic,R,177,SRB,19.1184120465,200754,,,Jill Craybas,R,160,USA,29.7741273101,6-4 3-6 6-3,3,R64,,,,,,,,,,,,,,,,,,,,59,554,52,603
 2004-W-T1-USA-03A-2004,Charleston,Clay,56,T1,20040412,19,201352,,,Akiko Morigami,R,,JPN,24.2491444216,200096,,,Mary Pierce,R,178,FRA,29.2402464066,6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,56,596,34,903
-2004-W-T1-USA-03A-2004,Charleston,Clay,56,T1,20040412,20,200121,,LL,Alina Jidkova,R,,RUS,27.2306639288,201085,,,Shinobu Asagoe,R,,JPN,27.7891854894,6-4 6-1,3,R64,,,,,,,,,,,,,,,,,,,,107,341,48,690
+2004-W-T1-USA-03A-2004,Charleston,Clay,56,T1,20040412,20,200121,,LL,Alina Jidkova,R,,RUS,27.2306639288,201085,,,Shinobu Asagoe,R,170,JPN,27.7891854894,6-4 6-1,3,R64,,,,,,,,,,,,,,,,,,,,107,341,48,690
 2004-W-T1-USA-03A-2004,Charleston,Clay,56,T1,20040412,21,200107,10,,Paola Suarez,R,170,ARG,27.8028747433,200124,,SR,Anne Kremer,R,,LUX,28.4873374401,6-4 6-4,3,R64,,,,,,,,,,,,,,,,,,,,13,1625,440,34
 2004-W-T1-USA-03A-2004,Charleston,Clay,56,T1,20040412,22,200049,16,,Conchita Martinez,R,170,ESP,31.9890485969,201381,,Q,Tian Tian Sun,R,,CHN,22.4996577687,6-1 6-0,3,R64,,,,,,,,,,,,,,,,,,,,24,1176,111,325
 2004-W-T1-USA-03A-2004,Charleston,Clay,56,T1,20040412,23,201395,,Q,Teryn Ashley,U,,USA,25.3333333333,200009,,,Tamarine Tanasugarn,R,165,THA,26.8856947296,6-4 4-6 6-4,3,R64,,,,,,,,,,,,,,,,,,,,121,280,54,597
@@ -1402,14 +1402,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T1-USA-04A-2004,San Diego,Hard,56,T1,20040726,3,200764,,,Elena Bovina,R,189,RUS,21.3798767967,201212,15,,Francesca Schiavone,R,166,ITA,24.090349076,6-3 3-6 6-4,3,R64,,,,,,,,,,,,,,,,,,,,22,1199,18,1489
 2004-W-T1-USA-04A-2004,San Diego,Hard,56,T1,20040726,4,201329,12,,Vera Zvonareva,R,172,RUS,19.8822724162,200109,,,Nathalie Dechy,R,177,FRA,25.4264202601,6-4 7-6(5),3,R64,,,,,,,,,,,,,,,,,,,,15,1773,28,958
 2004-W-T1-USA-04A-2004,San Diego,Hard,56,T1,20040726,5,200035,,,Maria Sanchez Lorenzo,R,,ESP,26.7159479808,201323,,,Saori Obata,L,,JPN,26.2587268994,4-6 7-5 7-5,3,R64,,,,,,,,,,,,,,,,,,,,47,721,45,724
-2004-W-T1-USA-04A-2004,San Diego,Hard,56,T1,20040726,6,201290,,,Daniela Hantuchova,R,181,SVK,21.2594113621,200126,,Q,Marissa Gould,R,,USA,24.090349076,7-6(3) 6-3,3,R64,,,,,,,,,,,,,,,,,,,,34,867,85,437
+2004-W-T1-USA-04A-2004,San Diego,Hard,56,T1,20040726,6,201290,,,Daniela Hantuchova,R,181,SVK,21.2594113621,200126,,Q,Marissa Irvin,R,,USA,24.090349076,7-6(3) 6-3,3,R64,,,,,,,,,,,,,,,,,,,,34,867,85,437
 2004-W-T1-USA-04A-2004,San Diego,Hard,56,T1,20040726,7,200032,,WC,Barbara Schett,R,176,AUT,28.3778234086,200754,,Q,Jill Craybas,R,160,USA,30.0616016427,7-5 6-7(8) 6-2,3,R64,,,,,,,,,,,,,,,,,,,,83,440,62,604
 2004-W-T1-USA-04A-2004,San Diego,Hard,56,T1,20040726,8,200056,,,Jelena Kostanic Tosic,L,168,CRO,23.0554414784,200090,,,Anca Barna,L,,GER,27.2005475702,6-2 6-1,3,R64,,,,,,,,,,,,,,,,,,,,32,900,55,666
 2004-W-T1-USA-04A-2004,San Diego,Hard,56,T1,20040726,9,200039,,,Chanda Rubin,R,168,USA,28.4353182752,200040,14,,Anna Smashnova,R,,ISR,28.0273785079,6-0 6-3,3,R64,,,,,,,,,,,,,,,,,,,,23,1182,17,1531
 2004-W-T1-USA-04A-2004,San Diego,Hard,56,T1,20040726,10,201363,,,Gisela Dulko,R,170,ARG,19.485284052,200009,,LL,Tamarine Tanasugarn,R,165,THA,27.1731690623,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,52,693,51,693
 2004-W-T1-USA-04A-2004,San Diego,Hard,56,T1,20040726,11,200096,,,Mary Pierce,R,178,FRA,29.5277207392,201380,,,Claudine Schaul,R,,LUX,20.9336071184,6-4 6-2,3,R64,,,,,,,,,,,,,,,,,,,,26,975,50,704
 2004-W-T1-USA-04A-2004,San Diego,Hard,56,T1,20040726,12,200068,,Q,Lilia Osterloh,R,,USA,26.302532512,200024,,,Maria Vento Kabchi,R,,VEN,30.173853525,7-6(5) 6-2,3,R64,,,,,,,,,,,,,,,,,,,,186,153,31,913
-2004-W-T1-USA-04A-2004,San Diego,Hard,56,T1,20040726,13,201085,,,Shinobu Asagoe,R,,JPN,28.076659822,200046,,,Meghann Shaughnessy,R,,USA,25.28678987,6-2 RET,3,R64,,,,,,,,,,,,,,,,,,,,69,548,30,927
+2004-W-T1-USA-04A-2004,San Diego,Hard,56,T1,20040726,13,201085,,,Shinobu Asagoe,R,170,JPN,28.076659822,200046,,,Meghann Shaughnessy,R,,USA,25.28678987,6-2 RET,3,R64,,,,,,,,,,,,,,,,,,,,69,548,30,927
 2004-W-T1-USA-04A-2004,San Diego,Hard,56,T1,20040726,14,201294,,Q,Marion Bartoli,R,170,FRA,19.8138261465,200110,,,Fabiola Zuluaga,R,,COL,25.5496235455,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,63,593,24,1157
 2004-W-T1-USA-04A-2004,San Diego,Hard,56,T1,20040726,15,200107,9,,Paola Suarez,R,170,ARG,28.090349076,201317,,,Aniko Kapros,R,,HUN,20.7063655031,6-1 6-3,3,R64,,,,,,,,,,,,,,,,,,,,13,1913,65,580
 2004-W-T1-USA-04A-2004,San Diego,Hard,56,T1,20040726,16,201331,,,Iveta Benesova,L,170,CZE,21.4811772758,200700,16,,Silvia Farina Elia,R,,ITA,32.2464065708,6-2 6-4,3,R64,,,,,,,,,,,,,,,,,,,,56,665,19,1232
@@ -1429,7 +1429,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T1-USA-04A-2004,San Diego,Hard,56,T1,20040726,30,200039,,,Chanda Rubin,R,168,USA,28.4353182752,200056,,,Jelena Kostanic Tosic,L,168,CRO,23.0554414784,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,23,1182,32,900
 2004-W-T1-USA-04A-2004,San Diego,Hard,56,T1,20040726,31,201363,,,Gisela Dulko,R,170,ARG,19.485284052,200096,,,Mary Pierce,R,178,FRA,29.5277207392,6-3 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,52,693,26,975
 2004-W-T1-USA-04A-2004,San Diego,Hard,56,T1,20040726,32,201345,6,,Maria Sharapova,R,,RUS,17.2703627652,200068,,Q,Lilia Osterloh,R,,USA,26.302532512,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,8,2386,186,153
-2004-W-T1-USA-04A-2004,San Diego,Hard,56,T1,20040726,33,200085,8,,Ai Sugiyama,R,163,JPN,29.0595482546,201085,,,Shinobu Asagoe,R,,JPN,28.076659822,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,11,1925,69,548
+2004-W-T1-USA-04A-2004,San Diego,Hard,56,T1,20040726,33,200085,8,,Ai Sugiyama,R,163,JPN,29.0595482546,201085,,,Shinobu Asagoe,R,170,JPN,28.076659822,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,11,1925,69,548
 2004-W-T1-USA-04A-2004,San Diego,Hard,56,T1,20040726,34,201294,,Q,Marion Bartoli,R,170,FRA,19.8138261465,200107,9,,Paola Suarez,R,170,ARG,28.090349076,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,63,593,13,1913
 2004-W-T1-USA-04A-2004,San Diego,Hard,56,T1,20040726,35,200049,,,Conchita Martinez,R,170,ESP,32.2765229295,201331,,,Iveta Benesova,L,170,CZE,21.4811772758,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,39,846,56,665
 2004-W-T1-USA-04A-2004,San Diego,Hard,56,T1,20040726,36,200128,4,,Lindsay Davenport,R,189,USA,28.1314168378,201368,,,Karolina Sprem,R,174,CRO,19.7508555784,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,4,3975,20,1224
@@ -1460,7 +1460,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T2-AUS-01A-2004,Sydney,Hard,28,T2,20040112,6,200108,6,,Elena Dementieva,R,180,RUS,22.2422997947,201207,,Q,Ansley Cargill,L,,USA,22.0177960301,6-0 0-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,8,2383,110,316
 2004-W-T2-AUS-01A-2004,Sydney,Hard,28,T2,20040112,7,200772,5,,Anastasia Myskina,R,174,RUS,22.5133470226,200020,,,Lisa Raymond,R,165,USA,30.4229979466,6-1 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,7,2581,28,1045
 2004-W-T2-AUS-01A-2004,Sydney,Hard,28,T2,20040112,8,200064,,,Amanda Coetzer,R,158,RSA,32.2245037645,200067,,,Patty Schnyder,L,168,SUI,25.0787132101,4-6 6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,30,1033,25,1096
-2004-W-T2-AUS-01A-2004,Sydney,Hard,28,T2,20040112,9,200046,,,Meghann Shaughnessy,R,,USA,24.7501711157,200084,,Q,Asa Svensson,R,,SWE,28.5749486653,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,20,1196,350,54
+2004-W-T2-AUS-01A-2004,Sydney,Hard,28,T2,20040112,9,200046,,,Meghann Shaughnessy,R,,USA,24.7501711157,200084,,Q,Asa Carlsson,R,,SWE,28.5749486653,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,20,1196,350,54
 2004-W-T2-AUS-01A-2004,Sydney,Hard,28,T2,20040112,10,200109,,WC,Nathalie Dechy,R,177,FRA,24.8898015058,200085,8,,Ai Sugiyama,R,163,JPN,28.5229295003,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,32,1010,9,2369
 2004-W-T2-AUS-01A-2004,Sydney,Hard,28,T2,20040112,11,201212,,,Francesca Schiavone,R,166,ITA,23.5537303217,201347,,Q,Jelena Jankovic,R,177,SRB,18.8692676249,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,21,1168,83,435
 2004-W-T2-AUS-01A-2004,Sydney,Hard,28,T2,20040112,12,200040,,,Anna Smashnova,R,,ISR,27.4907597536,201335,,Q,Myriam Casanova,R,,SUI,18.5626283368,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,17,1306,100,360
@@ -1525,21 +1525,21 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T2-BEL-01A-2004,Antwerp,Hard,28,T2,20040216,17,201344,,Q,Klara Koukalova,R,166,CZE,21.9767282683,201336,,,Dinara Safina,R,182,RUS,17.8069815195,6-4 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,100,349,31,967
 2004-W-T2-BEL-01A-2004,Antwerp,Hard,28,T2,20040216,18,201335,,LL,Myriam Casanova,R,,SUI,18.6584531143,200122,,,Tina Pisnik,R,,SLO,22.9897330595,6-1 6-7(4) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,104,330,33,956
 2004-W-T2-BEL-01A-2004,Antwerp,Hard,28,T2,20040216,19,200086,9,,Magdalena Maleeva,R,168,BUL,28.8788501027,201331,,Q,Iveta Benesova,L,170,CZE,21.0403832991,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,21,1229,113,306
-2004-W-T2-BEL-01A-2004,Antwerp,Hard,28,T2,20040216,20,200079,2,,Kim Clijsters,R,,BEL,20.6926762491,201367,,LL,Arantxa Parra Santonja,R,,ESP,21.2703627652,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,2,6616,64,537
+2004-W-T2-BEL-01A-2004,Antwerp,Hard,28,T2,20040216,20,200079,2,,Kim Clijsters,R,175,BEL,20.6926762491,201367,,LL,Arantxa Parra Santonja,R,,ESP,21.2703627652,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,2,6616,64,537
 2004-W-T2-BEL-01A-2004,Antwerp,Hard,28,T2,20040216,21,201368,,,Karolina Sprem,R,174,CRO,19.3100616016,200044,,,Denisa Chladkova,R,,CZE,25.0212183436,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,45,766,56,596
 2004-W-T2-BEL-01A-2004,Antwerp,Hard,28,T2,20040216,22,200700,8,,Silvia Farina Elia,R,,ITA,31.8056125941,200067,5,,Patty Schnyder,L,168,SUI,25.1745379877,7-6(6) 1-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,19,1336,16,1374
 2004-W-T2-BEL-01A-2004,Antwerp,Hard,28,T2,20040216,23,201335,,LL,Myriam Casanova,R,,SUI,18.6584531143,201344,,Q,Klara Koukalova,R,166,CZE,21.9767282683,4-6 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,104,330,100,349
-2004-W-T2-BEL-01A-2004,Antwerp,Hard,28,T2,20040216,24,200079,2,,Kim Clijsters,R,,BEL,20.6926762491,200086,9,,Magdalena Maleeva,R,168,BUL,28.8788501027,7-6(2) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,2,6616,21,1229
+2004-W-T2-BEL-01A-2004,Antwerp,Hard,28,T2,20040216,24,200079,2,,Kim Clijsters,R,175,BEL,20.6926762491,200086,9,,Magdalena Maleeva,R,168,BUL,28.8788501027,7-6(2) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,2,6616,21,1229
 2004-W-T2-BEL-01A-2004,Antwerp,Hard,28,T2,20040216,25,200700,8,,Silvia Farina Elia,R,,ITA,31.8056125941,201368,,,Karolina Sprem,R,174,CRO,19.3100616016,6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,19,1336,45,766
-2004-W-T2-BEL-01A-2004,Antwerp,Hard,28,T2,20040216,26,200079,2,,Kim Clijsters,R,,BEL,20.6926762491,201335,,LL,Myriam Casanova,R,,SUI,18.6584531143,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,2,6616,104,330
-2004-W-T2-BEL-01A-2004,Antwerp,Hard,28,T2,20040216,27,200079,2,,Kim Clijsters,R,,BEL,20.6926762491,200700,8,,Silvia Farina Elia,R,,ITA,31.8056125941,6-3 6-0,3,F,,,,,,,,,,,,,,,,,,,,2,6616,19,1336
+2004-W-T2-BEL-01A-2004,Antwerp,Hard,28,T2,20040216,26,200079,2,,Kim Clijsters,R,175,BEL,20.6926762491,201335,,LL,Myriam Casanova,R,,SUI,18.6584531143,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,2,6616,104,330
+2004-W-T2-BEL-01A-2004,Antwerp,Hard,28,T2,20040216,27,200079,2,,Kim Clijsters,R,175,BEL,20.6926762491,200700,8,,Silvia Farina Elia,R,,ITA,31.8056125941,6-3 6-0,3,F,,,,,,,,,,,,,,,,,,,,2,6616,19,1336
 2004-W-T2-CHN-01A-2004,Beijing,Hard,28,T2,20040920,1,201336,,,Dinara Safina,R,182,RUS,18.4010951403,201459,,WC,Zi Yan,R,171,CHN,19.8548939083,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,60,583,235,120
 2004-W-T2-CHN-01A-2004,Beijing,Hard,28,T2,20040920,2,201391,,Q,Sanda Mamic,U,,CRO,19.498973306,201381,,WC,Tian Tian Sun,R,,CHN,22.9404517454,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,152,222,128,278
 2004-W-T2-CHN-01A-2004,Beijing,Hard,28,T2,20040920,3,200069,5,,Nadia Petrova,R,178,RUS,22.2861054073,201386,,,Jie Zheng,R,164,CHN,21.2128678987,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,13,2097,62,563
 2004-W-T2-CHN-01A-2004,Beijing,Hard,28,T2,20040920,4,200022,,Q,Emmanuelle Gagliardi,R,,SUI,28.1998631075,200062,,,Kristina Brandi,R,168,PUR,27.4798083504,2-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,106,352,44,758
 2004-W-T2-CHN-01A-2004,Beijing,Hard,28,T2,20040920,5,201286,,,Anabel Medina Garrigues,R,169,ESP,22.1409993155,201323,,,Saori Obata,L,,JPN,26.4120465435,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,48,680,78,460
 2004-W-T2-CHN-01A-2004,Beijing,Hard,28,T2,20040920,6,200009,,,Tamarine Tanasugarn,R,165,THA,27.3264887064,200120,8,,Jelena Dokic,R,175,AUS,21.4428473648,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,97,402,43,759
-2004-W-T2-CHN-01A-2004,Beijing,Hard,28,T2,20040920,7,201347,7,,Jelena Jankovic,R,177,SRB,19.5592060233,201085,,,Shinobu Asagoe,R,,JPN,28.2299794661,4-6 6-2 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,36,818,45,758
+2004-W-T2-CHN-01A-2004,Beijing,Hard,28,T2,20040920,7,201347,7,,Jelena Jankovic,R,177,SRB,19.5592060233,201085,,,Shinobu Asagoe,R,170,JPN,28.2299794661,4-6 6-2 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,36,818,45,758
 2004-W-T2-CHN-01A-2004,Beijing,Hard,28,T2,20040920,8,201371,,Q,Vera Dushevina,R,180,RUS,17.9575633128,200090,,,Anca Barna,L,,GER,27.3538672142,2-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,77,465,68,507
 2004-W-T2-CHN-01A-2004,Beijing,Hard,28,T2,20040920,9,200063,,,Tatiana Panova,R,,RUS,28.1040383299,200122,,,Tina Pisnik,R,,SLO,23.5838466804,6-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,94,405,54,612
 2004-W-T2-CHN-01A-2004,Beijing,Hard,28,T2,20040920,10,201363,6,,Gisela Dulko,R,170,ARG,19.6386036961,201317,,,Aniko Kapros,R,,HUN,20.8596851472,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,34,895,64,544
@@ -1572,7 +1572,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T2-FRA-01A-2004,Paris,Carpet,28,T2,20040209,10,201364,,WC,Tatiana Golovin,R,175,FRA,16.0410677618,200040,6,,Anna Smashnova,R,,ISR,27.5674195756,1-6 7-5 3-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,135,241,19,1309
 2004-W-T2-FRA-01A-2004,Paris,Carpet,28,T2,20040209,11,201290,,,Daniela Hantuchova,R,181,SVK,20.7994524298,200016,,SR,Sandrine Testud,R,,FRA,31.8521560575,5-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,29,1028,,
 2004-W-T2-FRA-01A-2004,Paris,Carpet,28,T2,20040209,12,200770,,WC,Stephanie Cohen Aloro,R,175,FRA,20.8980150582,201380,,LL,Claudine Schaul,R,,LUX,20.4736481862,4-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,93,383,63,548
-2004-W-T2-FRA-01A-2004,Paris,Carpet,28,T2,20040209,13,200079,1,,Kim Clijsters,R,,BEL,20.6735112936,200035,,,Maria Sanchez Lorenzo,R,,ESP,26.2559890486,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,2,6603,45,750
+2004-W-T2-FRA-01A-2004,Paris,Carpet,28,T2,20040209,13,200079,1,,Kim Clijsters,R,175,BEL,20.6735112936,200035,,,Maria Sanchez Lorenzo,R,,ESP,26.2559890486,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,2,6603,45,750
 2004-W-T2-FRA-01A-2004,Paris,Carpet,28,T2,20040209,14,200700,7,,Silvia Farina Elia,R,,ITA,31.7864476386,200122,,,Tina Pisnik,R,,SLO,22.970568104,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,20,1269,31,988
 2004-W-T2-FRA-01A-2004,Paris,Carpet,28,T2,20040209,15,201336,,Q,Dinara Safina,R,182,RUS,17.787816564,200067,3,,Patty Schnyder,L,168,SUI,25.1553730322,4-6 6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,40,829,16,1432
 2004-W-T2-FRA-01A-2004,Paris,Carpet,28,T2,20040209,16,201212,5,,Francesca Schiavone,R,166,ITA,23.6303901437,201368,,Q,Karolina Sprem,R,174,CRO,19.2908966461,7-6(4) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,18,1335,48,701
@@ -1580,13 +1580,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T2-FRA-01A-2004,Paris,Carpet,28,T2,20040209,18,200764,,,Elena Bovina,R,189,RUS,20.9199178645,200120,4,,Jelena Dokic,R,175,AUS,20.8295687885,4-6 7-6(5) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,35,930,15,1449
 2004-W-T2-FRA-01A-2004,Paris,Carpet,28,T2,20040209,19,201364,,WC,Tatiana Golovin,R,175,FRA,16.0410677618,201290,,,Daniela Hantuchova,R,181,SVK,20.7994524298,W/O,3,R16,,,,,,,,,,,,,,,,,,,,135,241,29,1028
 2004-W-T2-FRA-01A-2004,Paris,Carpet,28,T2,20040209,20,200108,2,,Elena Dementieva,R,180,RUS,22.3189596167,200770,,WC,Stephanie Cohen Aloro,R,175,FRA,20.8980150582,7-5 1-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,10,2257,93,383
-2004-W-T2-FRA-01A-2004,Paris,Carpet,28,T2,20040209,21,200079,1,,Kim Clijsters,R,,BEL,20.6735112936,200700,7,,Silvia Farina Elia,R,,ITA,31.7864476386,3-6 7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,2,6603,20,1269
+2004-W-T2-FRA-01A-2004,Paris,Carpet,28,T2,20040209,21,200079,1,,Kim Clijsters,R,175,BEL,20.6735112936,200700,7,,Silvia Farina Elia,R,,ITA,31.7864476386,3-6 7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,2,6603,20,1269
 2004-W-T2-FRA-01A-2004,Paris,Carpet,28,T2,20040209,22,201336,,Q,Dinara Safina,R,182,RUS,17.787816564,201212,5,,Francesca Schiavone,R,166,ITA,23.6303901437,6-2 4-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,40,829,18,1335
 2004-W-T2-FRA-01A-2004,Paris,Carpet,28,T2,20040209,23,200096,,,Mary Pierce,R,178,FRA,29.067761807,200764,,,Elena Bovina,R,189,RUS,20.9199178645,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,37,882,35,930
 2004-W-T2-FRA-01A-2004,Paris,Carpet,28,T2,20040209,24,201364,,WC,Tatiana Golovin,R,175,FRA,16.0410677618,200108,2,,Elena Dementieva,R,180,RUS,22.3189596167,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,135,241,10,2257
-2004-W-T2-FRA-01A-2004,Paris,Carpet,28,T2,20040209,25,200079,1,,Kim Clijsters,R,,BEL,20.6735112936,201336,,Q,Dinara Safina,R,182,RUS,17.787816564,6-1 6-1,3,SF,,,,,,,,,,,,,,,,,,,,2,6603,40,829
+2004-W-T2-FRA-01A-2004,Paris,Carpet,28,T2,20040209,25,200079,1,,Kim Clijsters,R,175,BEL,20.6735112936,201336,,Q,Dinara Safina,R,182,RUS,17.787816564,6-1 6-1,3,SF,,,,,,,,,,,,,,,,,,,,2,6603,40,829
 2004-W-T2-FRA-01A-2004,Paris,Carpet,28,T2,20040209,26,200096,,,Mary Pierce,R,178,FRA,29.067761807,201364,,WC,Tatiana Golovin,R,175,FRA,16.0410677618,6-4 6-0,3,SF,,,,,,,,,,,,,,,,,,,,37,882,135,241
-2004-W-T2-FRA-01A-2004,Paris,Carpet,28,T2,20040209,27,200079,1,,Kim Clijsters,R,,BEL,20.6735112936,200096,,,Mary Pierce,R,178,FRA,29.067761807,6-2 6-1,3,F,,,,,,,,,,,,,,,,,,,,2,6603,37,882
+2004-W-T2-FRA-01A-2004,Paris,Carpet,28,T2,20040209,27,200079,1,,Kim Clijsters,R,175,BEL,20.6735112936,200096,,,Mary Pierce,R,178,FRA,29.067761807,6-2 6-1,3,F,,,,,,,,,,,,,,,,,,,,2,6603,37,882
 2004-W-T2-GBR-01A-2004,Eastbourne,Grass,28,T2,20040614,1,201398,,WC,Amanda Keen,L,,GBR,26.4120465435,201386,,Q,Jie Zheng,R,164,CHN,20.9445585216,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,235,112,48,664
 2004-W-T2-GBR-01A-2004,Eastbourne,Grass,28,T2,20040614,2,200049,,,Conchita Martinez,R,170,ESP,32.1615331964,200020,,,Lisa Raymond,R,165,USA,30.8446269678,3-6 6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,24,1117,28,973
 2004-W-T2-GBR-01A-2004,Eastbourne,Grass,28,T2,20040614,3,200086,8,,Magdalena Maleeva,R,168,BUL,29.2046543463,201303,,WC,Anne Keothavong,R,175,GBR,20.7446954141,5-7 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,23,1125,186,153
@@ -1730,12 +1730,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,6,200122,,,Tina Pisnik,R,,SLO,23.1238877481,200124,,SR,Anne Kremer,R,,LUX,28.4681724846,6-2 6-4,3,R64,,,,,,,,,,,,,,,,,,,,30,979,444,33
 2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,7,201352,,,Akiko Morigami,R,,JPN,24.2299794661,200024,,,Maria Vento Kabchi,R,,VEN,29.8672142368,6-4 6-1,3,R64,,,,,,,,,,,,,,,,,,,,57,573,36,880
 2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,8,201366,,Q,Barbora Zahlavova Strycova,R,164,CZE,18.0232717317,201349,,,Melinda Czink,L,178,HUN,21.453798768,7-6(1) 6-1,3,R64,,,,,,,,,,,,,,,,,,,,82,432,67,528
-2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,9,200040,13,,Anna Smashnova,R,,ISR,27.7207392197,200766,,WC,Jennifer Hopkins,R,,USA,23.1485284052,6-0 6-0,3,R64,,,,,,,,,,,,,,,,,,,,21,1273,155,196
+2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,9,200040,13,,Anna Smashnova,R,,ISR,27.7207392197,200766,,WC,Jennifer Hopkins,R,170,USA,23.1485284052,6-0 6-0,3,R64,,,,,,,,,,,,,,,,,,,,21,1273,155,196
 2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,10,200700,10,,Silvia Farina Elia,R,,ITA,31.9397672827,200048,,,Elena Likhovtseva,R,,RUS,28.5749486653,6-4 6-4,3,R64,,,,,,,,,,,,,,,,,,,,15,1534,43,767
 2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,11,200118,,,Virginia Ruano Pascual,R,169,ESP,30.5379876797,201281,,,Laura Granville,R,175,USA,22.8993839836,6-1 6-3,3,R64,,,,,,,,,,,,,,,,,,,,81,440,50,683
 2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,12,200056,,,Jelena Kostanic Tosic,L,168,CRO,22.7488021903,200123,,,Marlene Weingartner,R,,GER,24.180698152,6-4 6-2,3,R64,,,,,,,,,,,,,,,,,,,,62,543,90,404
 2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,13,201293,,Q,Catalina Castano,R,171,COL,24.7474332649,200055,,SR,Mariana Diaz Oliva,R,,ARG,28.0684462697,6-3 6-3,3,R64,,,,,,,,,,,,,,,,,,,,126,263,146,220
-2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,14,201085,,,Shinobu Asagoe,R,,JPN,27.7700205339,200749,,,Samantha Reeves,R,,USA,25.2156057495,6-3 7-5,3,R64,,,,,,,,,,,,,,,,,,,,51,673,92,403
+2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,14,201085,,,Shinobu Asagoe,R,170,JPN,27.7700205339,200749,,,Samantha Reeves,R,,USA,25.2156057495,6-3 7-5,3,R64,,,,,,,,,,,,,,,,,,,,51,673,92,403
 2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,15,200107,9,,Paola Suarez,R,170,ARG,27.7837097878,201379,,LL,Mara Santangelo,R,181,ITA,22.7707049966,6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,14,1590,78,472
 2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,16,201367,,,Arantxa Parra Santonja,R,,ESP,21.4045174538,201212,14,,Francesca Schiavone,R,166,ITA,23.7837097878,1-6 7-6(4) 6-0,3,R64,,,,,,,,,,,,,,,,,,,,59,564,20,1278
 2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,17,200008,,,Alicia Molik,R,182,AUS,23.1868583162,201347,,,Jelena Jankovic,R,177,SRB,19.099247091,6-0 6-0,3,R64,,,,,,,,,,,,,,,,,,,,39,830,60,554
@@ -1744,7 +1744,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,20,200015,,,Petra Mandula,R,,HUN,26.2149212868,200090,,,Anca Barna,L,,GER,26.893908282,6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,44,766,47,698
 2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,21,200041,,,Amy Frazier,R,,USA,31.5427789185,200120,11,,Jelena Dokic,R,175,AUS,20.9828884326,6-4 7-5,3,R64,,,,,,,,,,,,,,,,,,,,42,784,18,1392
 2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,22,200086,15,,Magdalena Maleeva,R,168,BUL,29.0130047912,200720,,Q,Dally Randriantefy,R,,MAD,27.112936345,6-4 6-7(4) 6-3,3,R64,,,,,,,,,,,,,,,,,,,,23,1202,100,363
-2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,23,201368,,,Karolina Sprem,R,174,CRO,19.4442162902,200126,,WC,Marissa Gould,R,,USA,23.7837097878,6-3 6-2,3,R64,,,,,,,,,,,,,,,,,,,,34,910,125,267
+2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,23,201368,,,Karolina Sprem,R,174,CRO,19.4442162902,200126,,WC,Marissa Irvin,R,,USA,23.7837097878,6-3 6-2,3,R64,,,,,,,,,,,,,,,,,,,,34,910,125,267
 2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,24,200096,,,Mary Pierce,R,178,FRA,29.2210814511,200046,,,Meghann Shaughnessy,R,,USA,24.9801505818,6-1 6-2,3,R64,,,,,,,,,,,,,,,,,,,,29,1024,37,878
 2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,25,200003,1,,Justine Henin,R,167,BEL,21.8453114305,201336,,,Dinara Safina,R,182,RUS,17.9411362081,6-4 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,1,7626,32,954
 2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,26,200049,16,,Conchita Martinez,R,170,ESP,31.9698836413,201286,,,Anabel Medina Garrigues,R,169,ESP,21.6810403833,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,25,1183,75,483
@@ -1755,7 +1755,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,31,200700,10,,Silvia Farina Elia,R,,ITA,31.9397672827,200118,,,Virginia Ruano Pascual,R,169,ESP,30.5379876797,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,15,1534,81,440
 2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,32,200056,,,Jelena Kostanic Tosic,L,168,CRO,22.7488021903,200108,5,,Elena Dementieva,R,180,RUS,22.4722792608,7-6(5) 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,62,543,6,2589
 2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,33,200085,6,,Ai Sugiyama,R,163,JPN,28.7529089665,201293,,Q,Catalina Castano,R,171,COL,24.7474332649,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,10,2053,126,263
-2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,34,200107,9,,Paola Suarez,R,170,ARG,27.7837097878,201085,,,Shinobu Asagoe,R,,JPN,27.7700205339,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,14,1590,51,673
+2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,34,200107,9,,Paola Suarez,R,170,ARG,27.7837097878,201085,,,Shinobu Asagoe,R,170,JPN,27.7700205339,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,14,1590,51,673
 2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,35,200008,,,Alicia Molik,R,182,AUS,23.1868583162,201367,,,Arantxa Parra Santonja,R,,ESP,21.4045174538,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,39,830,59,564
 2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,36,200128,4,,Lindsay Davenport,R,189,USA,27.8247775496,201381,,Q,Tian Tian Sun,R,,CHN,22.4804928131,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,4,2943,117,293
 2004-W-T2-USA-01A-2004,Amelia Island,Clay,56,T2,20040405,37,200069,7,,Nadia Petrova,R,178,RUS,21.826146475,201328,,LL,Milagros Sequera,R,,VEN,23.5126625599,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,9,2142,83,430
@@ -1786,7 +1786,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T2-USA-02A-2004,Stanford,Hard,28,T2,20040712,7,200024,8,,Maria Vento Kabchi,R,,VEN,30.135523614,201305,,,Eleni Daniilidou,R,182,GRE,21.8124572211,6-3 6-7(6) 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,32,920,33,864
 2004-W-T2-USA-02A-2004,Stanford,Hard,28,T2,20040712,8,200090,,,Anca Barna,L,,GER,27.1622176591,201331,,,Iveta Benesova,L,170,CZE,21.4428473648,7-6(3) 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,59,615,55,654
 2004-W-T2-USA-02A-2004,Stanford,Hard,28,T2,20040712,9,200056,,,Jelena Kostanic Tosic,L,168,CRO,23.0171115674,201315,,Q,Ashley Harkleroad,R,,USA,19.1950718686,7-5 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,38,820,115,306
-2004-W-T2-USA-02A-2004,Stanford,Hard,28,T2,20040712,10,200126,,Q,Marissa Gould,R,,USA,24.052019165,200046,7,,Meghann Shaughnessy,R,,USA,25.2484599589,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,98,379,29,955
+2004-W-T2-USA-02A-2004,Stanford,Hard,28,T2,20040712,10,200126,,Q,Marissa Irvin,R,,USA,24.052019165,200046,7,,Meghann Shaughnessy,R,,USA,25.2484599589,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,98,379,29,955
 2004-W-T2-USA-02A-2004,Stanford,Hard,28,T2,20040712,11,201087,,LL,Mashona Washington,R,,USA,28.1149897331,201380,,,Claudine Schaul,R,,LUX,20.8952772074,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,101,376,49,710
 2004-W-T2-USA-02A-2004,Stanford,Hard,28,T2,20040712,12,201480,,Q,Lioudmila Skavronskaia,U,,RUS,24.3039014374,200015,,,Petra Mandula,R,,HUN,26.4832306639,3-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,135,253,46,723
 2004-W-T2-USA-02A-2004,Stanford,Hard,28,T2,20040712,13,200748,1,,Venus Williams,R,185,USA,24.0684462697,200729,,,Lindsay Lee Waters,R,,USA,27.0390143737,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,15,1640,96,386
@@ -1795,7 +1795,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T2-USA-02A-2004,Stanford,Hard,28,T2,20040712,16,200041,6,,Amy Frazier,R,,USA,31.8110882957,201294,,,Marion Bartoli,R,170,FRA,19.7754962355,6-3 7-6(0),3,R16,,,,,,,,,,,,,,,,,,,,25,1033,65,563
 2004-W-T2-USA-02A-2004,Stanford,Hard,28,T2,20040712,17,200024,8,,Maria Vento Kabchi,R,,VEN,30.135523614,200090,,,Anca Barna,L,,GER,27.1622176591,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,32,920,59,615
 2004-W-T2-USA-02A-2004,Stanford,Hard,28,T2,20040712,18,201212,4,,Francesca Schiavone,R,166,ITA,24.052019165,200056,,,Jelena Kostanic Tosic,L,168,CRO,23.0171115674,6-4 3-6 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,18,1449,38,820
-2004-W-T2-USA-02A-2004,Stanford,Hard,28,T2,20040712,19,201087,,LL,Mashona Washington,R,,USA,28.1149897331,200126,,Q,Marissa Gould,R,,USA,24.052019165,6-1 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,101,376,98,379
+2004-W-T2-USA-02A-2004,Stanford,Hard,28,T2,20040712,19,201087,,LL,Mashona Washington,R,,USA,28.1149897331,200126,,Q,Marissa Irvin,R,,USA,24.052019165,6-1 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,101,376,98,379
 2004-W-T2-USA-02A-2004,Stanford,Hard,28,T2,20040712,20,200128,2,,Lindsay Davenport,R,189,USA,28.0930869268,201480,,Q,Lioudmila Skavronskaia,U,,RUS,24.3039014374,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,5,3297,135,253
 2004-W-T2-USA-02A-2004,Stanford,Hard,28,T2,20040712,21,200748,1,,Venus Williams,R,185,USA,24.0684462697,200040,5,,Anna Smashnova,R,,ISR,27.9890485969,6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,15,1640,17,1468
 2004-W-T2-USA-02A-2004,Stanford,Hard,28,T2,20040712,22,200041,6,,Amy Frazier,R,,USA,31.8110882957,200067,3,,Patty Schnyder,L,168,SUI,25.5770020534,6-3 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,25,1033,16,1620
@@ -1812,7 +1812,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T2-USA-03A-2004,Los Angeles,Hard,56,T2,20040719,6,200122,,,Tina Pisnik,R,,SLO,23.4113620808,201366,,,Barbora Zahlavova Strycova,R,164,CZE,18.3107460643,4-6 6-4 6-2,3,R64,,,,,,,,,,,,,,,,,,,,43,726,67,538
 2004-W-T2-USA-03A-2004,Los Angeles,Hard,56,T2,20040719,7,200068,,Q,Lilia Osterloh,R,,USA,26.2833675565,201323,,,Saori Obata,L,,JPN,26.2395619439,7-5 7-5,3,R64,,,,,,,,,,,,,,,,,,,,225,119,44,724
 2004-W-T2-USA-03A-2004,Los Angeles,Hard,56,T2,20040719,8,201331,,,Iveta Benesova,L,170,CZE,21.4620123203,201401,,Q,Abigail Spears,R,,USA,23.0198494182,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,55,654,154,211
-2004-W-T2-USA-03A-2004,Los Angeles,Hard,56,T2,20040719,9,200039,14,,Chanda Rubin,R,168,USA,28.4161533196,200126,,Q,Marissa Gould,R,,USA,24.0711841205,6-2 1-6 7-6(5),3,R64,,,,,,,,,,,,,,,,,,,,25,1145,85,429
+2004-W-T2-USA-03A-2004,Los Angeles,Hard,56,T2,20040719,9,200039,14,,Chanda Rubin,R,168,USA,28.4161533196,200126,,Q,Marissa Irvin,R,,USA,24.0711841205,6-2 1-6 7-6(5),3,R64,,,,,,,,,,,,,,,,,,,,25,1145,85,429
 2004-W-T2-USA-03A-2004,Los Angeles,Hard,56,T2,20040719,10,200040,10,,Anna Smashnova,R,,ISR,28.0082135524,200118,,,Virginia Ruano Pascual,R,169,ESP,30.8254620123,6-2 6-1,3,R64,,,,,,,,,,,,,,,,,,,,17,1511,53,666
 2004-W-T2-USA-03A-2004,Los Angeles,Hard,56,T2,20040719,11,201290,,,Daniela Hantuchova,R,181,SVK,21.2402464066,200072,,,Cara Black,R,167,ZIM,25.4182067077,6-2 6-4,3,R64,,,,,,,,,,,,,,,,,,,,35,850,104,362
 2004-W-T2-USA-03A-2004,Los Angeles,Hard,56,T2,20040719,12,200024,,,Maria Vento Kabchi,R,,VEN,30.1546885695,201363,,,Gisela Dulko,R,170,ARG,19.4661190965,6-2 6-2,3,R64,,,,,,,,,,,,,,,,,,,,26,1053,51,693
@@ -1827,7 +1827,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T2-USA-03A-2004,Los Angeles,Hard,56,T2,20040719,21,201212,11,,Francesca Schiavone,R,166,ITA,24.0711841205,201375,,,Shenay Perry,R,,USA,20.0355920602,6-0 6-3,3,R64,,,,,,,,,,,,,,,,,,,,18,1507,82,440
 2004-W-T2-USA-03A-2004,Los Angeles,Hard,56,T2,20040719,22,201347,,,Jelena Jankovic,R,177,SRB,19.3867214237,200046,16,,Meghann Shaughnessy,R,,USA,25.2676249144,7-6(2) 2-6 7-5,3,R64,,,,,,,,,,,,,,,,,,,,49,700,30,955
 2004-W-T2-USA-03A-2004,Los Angeles,Hard,56,T2,20040719,23,200048,,,Elena Likhovtseva,R,,RUS,28.8624229979,202331,,Q,Vilmarie Castellvi,U,,PUR,23.3292265572,6-3 6-2,3,R64,,,,,,,,,,,,,,,,,,,,39,824,155,206
-2004-W-T2-USA-03A-2004,Los Angeles,Hard,56,T2,20040719,24,201315,,WC,Ashley Harkleroad,R,,USA,19.2142368241,201085,,,Shinobu Asagoe,R,,JPN,28.0574948665,6-3 6-2,3,R64,,,,,,,,,,,,,,,,,,,,115,314,66,548
+2004-W-T2-USA-03A-2004,Los Angeles,Hard,56,T2,20040719,24,201315,,WC,Ashley Harkleroad,R,,USA,19.2142368241,201085,,,Shinobu Asagoe,R,170,JPN,28.0574948665,6-3 6-2,3,R64,,,,,,,,,,,,,,,,,,,,115,314,66,548
 2004-W-T2-USA-03A-2004,Los Angeles,Hard,56,T2,20040719,25,200033,1,,Serena Williams,R,175,USA,22.8117727584,201305,,,Eleni Daniilidou,R,182,GRE,21.8316221766,6-1 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,16,1649,33,864
 2004-W-T2-USA-03A-2004,Los Angeles,Hard,56,T2,20040719,26,201367,,,Arantxa Parra Santonja,R,,ESP,21.6919917864,200090,,,Anca Barna,L,,GER,27.1813826146,6-0 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,60,609,56,640
 2004-W-T2-USA-03A-2004,Los Angeles,Hard,56,T2,20040719,27,201294,,,Marion Bartoli,R,170,FRA,19.794661191,201352,,,Akiko Morigami,R,,JPN,24.5174537988,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,62,590,70,521
@@ -1871,7 +1871,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T2-USA-04A-2004,New Haven,Hard,28,T2,20040823,10,200056,,,Jelena Kostanic Tosic,L,168,CRO,23.1321013005,200086,6,,Magdalena Maleeva,R,168,BUL,29.3963039014,3-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,40,781,23,1214
 2004-W-T2-USA-04A-2004,New Haven,Hard,28,T2,20040823,11,201347,,,Jelena Jankovic,R,177,SRB,19.4825462012,200098,,Q,Henrieta Nagyova,R,,SVK,25.6892539357,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,42,767,82,437
 2004-W-T2-USA-04A-2004,New Haven,Hard,28,T2,20040823,12,201380,,,Claudine Schaul,R,,LUX,21.0102669405,200009,,,Tamarine Tanasugarn,R,165,THA,27.2498288843,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,51,693,52,686
-2004-W-T2-USA-04A-2004,New Haven,Hard,28,T2,20040823,13,201290,,,Daniela Hantuchova,R,181,SVK,21.3360711841,200126,,LL,Marissa Gould,R,,USA,24.167008898,7-5 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,34,875,84,427
+2004-W-T2-USA-04A-2004,New Haven,Hard,28,T2,20040823,13,201290,,,Daniela Hantuchova,R,181,SVK,21.3360711841,200126,,LL,Marissa Irvin,R,,USA,24.167008898,7-5 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,34,875,84,427
 2004-W-T2-USA-04A-2004,New Haven,Hard,28,T2,20040823,14,200020,,WC,Lisa Raymond,R,165,USA,31.0362765229,200069,5,,Nadia Petrova,R,178,RUS,22.2094455852,3-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,36,845,15,1735
 2004-W-T2-USA-04A-2004,New Haven,Hard,28,T2,20040823,15,200077,3,,Jennifer Capriati,R,170,USA,28.4024640657,201364,,,Tatiana Golovin,R,175,FRA,16.5776865161,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,8,2350,31,923
 2004-W-T2-USA-04A-2004,New Haven,Hard,28,T2,20040823,16,200109,8,,Nathalie Dechy,R,177,FRA,25.5030800821,201352,,,Akiko Morigami,R,,JPN,24.6132785763,6-0 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,29,953,65,574
@@ -1992,18 +1992,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T3-BEL-01A-2004,Hasselt,Hard,30,T3,20040927,19,201212,5,,Francesca Schiavone,R,166,ITA,24.2628336756,201291,,,Nuria Llagostera Vives,R,156,ESP,24.3668720055,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,19,1319,79,463
 2004-W-T3-BEL-01A-2004,Hasselt,Hard,30,T3,20040927,20,200764,3,,Elena Bovina,R,189,RUS,21.5523613963,202135,,Q,Vanessa Henke,R,,GER,23.6988364134,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,17,1475,228,130
 2004-W-T3-BEL-01A-2004,Hasselt,Hard,30,T3,20040927,21,200086,7,WC,Magdalena Maleeva,R,168,BUL,29.492128679,200042,,WC,Els Callens,R,,BEL,34.1054072553,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,21,1264,123,283
-2004-W-T3-BEL-01A-2004,Hasselt,Hard,30,T3,20040927,22,200079,2,,Kim Clijsters,R,,BEL,21.3059548255,201331,,,Iveta Benesova,L,170,CZE,21.6536618754,7-6(3) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,7,2689,37,797
+2004-W-T3-BEL-01A-2004,Hasselt,Hard,30,T3,20040927,22,200079,2,,Kim Clijsters,R,175,BEL,21.3059548255,201331,,,Iveta Benesova,L,170,CZE,21.6536618754,7-6(3) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,7,2689,37,797
 2004-W-T3-BEL-01A-2004,Hasselt,Hard,30,T3,20040927,23,200108,1,,Elena Dementieva,R,180,RUS,22.9514031485,200044,,,Denisa Chladkova,R,,CZE,25.6344969199,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,6,3078,62,563
 2004-W-T3-BEL-01A-2004,Hasselt,Hard,30,T3,20040927,24,201308,,,Maria Elena Camerin,R,164,ITA,22.5215605749,200118,,,Virginia Ruano Pascual,R,169,ESP,31.0171115674,5-7 7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,45,719,61,576
 2004-W-T3-BEL-01A-2004,Hasselt,Hard,30,T3,20040927,25,200764,3,,Elena Bovina,R,189,RUS,21.5523613963,201212,5,,Francesca Schiavone,R,166,ITA,24.2628336756,7-6(6) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,17,1475,19,1319
-2004-W-T3-BEL-01A-2004,Hasselt,Hard,30,T3,20040927,26,200079,2,,Kim Clijsters,R,,BEL,21.3059548255,200086,7,WC,Magdalena Maleeva,R,168,BUL,29.492128679,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,7,2689,21,1264
+2004-W-T3-BEL-01A-2004,Hasselt,Hard,30,T3,20040927,26,200079,2,,Kim Clijsters,R,175,BEL,21.3059548255,200086,7,WC,Magdalena Maleeva,R,168,BUL,29.492128679,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,7,2689,21,1264
 2004-W-T3-BEL-01A-2004,Hasselt,Hard,30,T3,20040927,27,200108,1,,Elena Dementieva,R,180,RUS,22.9514031485,201308,,,Maria Elena Camerin,R,164,ITA,22.5215605749,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,6,3078,45,719
-2004-W-T3-BEL-01A-2004,Hasselt,Hard,30,T3,20040927,28,200764,3,,Elena Bovina,R,189,RUS,21.5523613963,200079,2,,Kim Clijsters,R,,BEL,21.3059548255,6-4 2-2 RET,3,SF,,,,,,,,,,,,,,,,,,,,17,1475,7,2689
+2004-W-T3-BEL-01A-2004,Hasselt,Hard,30,T3,20040927,28,200764,3,,Elena Bovina,R,189,RUS,21.5523613963,200079,2,,Kim Clijsters,R,175,BEL,21.3059548255,6-4 2-2 RET,3,SF,,,,,,,,,,,,,,,,,,,,17,1475,7,2689
 2004-W-T3-BEL-01A-2004,Hasselt,Hard,30,T3,20040927,29,200108,1,,Elena Dementieva,R,180,RUS,22.9514031485,200764,3,,Elena Bovina,R,189,RUS,21.5523613963,0-6 6-0 6-4,3,F,,,,,,,,,,,,,,,,,,,,6,3078,17,1475
 2004-W-T3-CAN-01A-2004,Quebec City,Hard,30,T3,20041101,1,200055,,,Mariana Diaz Oliva,R,,ARG,28.643394935,201455,,Q,Elena Vesnina,R,176,RUS,18.2532511978,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,112,325,308,76
 2004-W-T3-CAN-01A-2004,Quebec City,Hard,30,T3,20041101,2,201477,,,Stephanie Dubois,R,,CAN,18.0041067762,200014,,,Tzipi Obziler,R,,ISR,31.537303217,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,263,99,107,337
 2004-W-T3-CAN-01A-2004,Quebec City,Hard,30,T3,20041101,3,200121,,,Alina Jidkova,R,,RUS,27.7864476386,201325,8,,Samantha Stosur,R,172,AUS,20.59137577,7-6(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,57,573,65,510
-2004-W-T3-CAN-01A-2004,Quebec City,Hard,30,T3,20041101,4,200754,4,,Jill Craybas,R,160,USA,30.3299110198,200126,,,Marissa Gould,R,,USA,24.3586584531,6-7(2) 6-2 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,61,542,69,502
+2004-W-T3-CAN-01A-2004,Quebec City,Hard,30,T3,20041101,4,200754,4,,Jill Craybas,R,160,USA,30.3299110198,200126,,,Marissa Irvin,R,,USA,24.3586584531,6-7(2) 6-2 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,61,542,69,502
 2004-W-T3-CAN-01A-2004,Quebec City,Hard,30,T3,20041101,5,201401,,Q,Abigail Spears,R,,USA,23.3073237509,200729,,,Lindsay Lee Waters,R,,USA,27.3456536619,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,122,288,82,450
 2004-W-T3-CAN-01A-2004,Quebec City,Hard,30,T3,20041101,6,201346,,,Lubomira Kurhajcova,R,,SVK,21.0595482546,201317,,,Aniko Kapros,R,,HUN,20.9746748802,7-6(2) 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,85,440,86,423
 2004-W-T3-CAN-01A-2004,Quebec City,Hard,30,T3,20041101,7,200009,5,,Tamarine Tanasugarn,R,165,THA,27.4414784394,200050,,,Sandra Kleinova,R,,CZE,26.4859685147,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,62,540,135,257
@@ -2012,7 +2012,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T3-CAN-01A-2004,Quebec City,Hard,30,T3,20041101,10,201375,,,Shenay Perry,R,,USA,20.3230663929,201383,,WC,Marie Eve Pelletier,R,,CAN,22.4585900068,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,75,473,146,233
 2004-W-T3-CAN-01A-2004,Quebec City,Hard,30,T3,20041101,11,201402,,Q,Sesil Karatantcheva,R,171,KAZ,15.2334017796,201087,3,,Mashona Washington,R,,USA,28.4216290212,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,154,221,51,653
 2004-W-T3-CAN-01A-2004,Quebec City,Hard,30,T3,20041101,12,201281,7,,Laura Granville,R,175,USA,23.4743326489,201301,,,Camille Pin,U,162,FRA,23.1868583162,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,78,465,98,372
-2004-W-T3-CAN-01A-2004,Quebec City,Hard,30,T3,20041101,13,201300,,,Maria Emilia Salerni,R,,ARG,21.4702258727,200766,,,Jennifer Hopkins,R,,USA,23.7234770705,6-2 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,133,259,134,258
+2004-W-T3-CAN-01A-2004,Quebec City,Hard,30,T3,20041101,13,201300,,,Maria Emilia Salerni,R,,ARG,21.4702258727,200766,,,Jennifer Hopkins,R,170,USA,23.7234770705,6-2 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,133,259,134,258
 2004-W-T3-CAN-01A-2004,Quebec City,Hard,30,T3,20041101,14,202341,,Q,Melanie Gloria,R,,CAN,17.3716632444,200773,,,Stephanie Foretz Gacon,R,166,FRA,23.498973306,6-4 6-7(5) 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,,,93,389
 2004-W-T3-CAN-01A-2004,Quebec City,Hard,30,T3,20041101,15,200096,1,,Mary Pierce,R,178,FRA,29.7960301164,200055,,,Mariana Diaz Oliva,R,,ARG,28.643394935,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,30,1010,112,325
 2004-W-T3-CAN-01A-2004,Quebec City,Hard,30,T3,20041101,16,200121,,,Alina Jidkova,R,,RUS,27.7864476386,201477,,,Stephanie Dubois,R,,CAN,18.0041067762,3-6 7-6(6) 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,57,573,263,99
@@ -2039,7 +2039,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T3-CHN-01A-2004,Guangzhou,Hard,30,T3,20040927,8,200036,7,,Nicole Pratt,R,,AUS,31.5646817248,201352,,,Akiko Morigami,R,,JPN,24.7091033539,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,49,653,70,504
 2004-W-T3-CHN-01A-2004,Guangzhou,Hard,30,T3,20040927,9,201418,,WC,Ting Li,R,,CHN,24.7282683094,201317,,,Aniko Kapros,R,,HUN,20.8788501027,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,222,134,65,538
 2004-W-T3-CHN-01A-2004,Guangzhou,Hard,30,T3,20040927,10,201397,,,Shuai Peng,R,173,CHN,18.7186858316,201708,,Q,Natalie Grandin,U,,RSA,23.5811088296,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,92,413,159,209
-2004-W-T3-CHN-01A-2004,Guangzhou,Hard,30,T3,20040927,11,201294,4,,Marion Bartoli,R,170,FRA,19.9863107461,200766,,,Jennifer Hopkins,R,,USA,23.627652293,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,41,777,109,327
+2004-W-T3-CHN-01A-2004,Guangzhou,Hard,30,T3,20040927,11,201294,4,,Marion Bartoli,R,170,FRA,19.9863107461,200766,,,Jennifer Hopkins,R,170,USA,23.627652293,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,41,777,109,327
 2004-W-T3-CHN-01A-2004,Guangzhou,Hard,30,T3,20040927,12,200062,6,,Kristina Brandi,R,168,PUR,27.498973306,201405,,Q,Nan Nan Liu,U,,CHN,21.2758384668,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,46,703,168,191
 2004-W-T3-CHN-01A-2004,Guangzhou,Hard,30,T3,20040927,13,200063,,,Tatiana Panova,R,,RUS,28.1232032854,201690,,Q,Nina Bratchikova,R,,RUS,19.2498288843,3-6 6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,84,438,231,125
 2004-W-T3-CHN-01A-2004,Guangzhou,Hard,30,T3,20040927,14,201419,,Q,Na Li,R,172,CHN,22.5845311431,201371,,,Vera Dushevina,R,180,RUS,17.9767282683,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,145,241,67,519
@@ -2116,7 +2116,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T3-FRA-01A-2004,Strasbourg,Clay,30,T3,20040517,27,200128,1,,Lindsay Davenport,R,189,USA,27.9397672827,200700,3,,Silvia Farina Elia,R,,ITA,32.0547570157,6-2 6-0,3,SF,,,,,,,,,,,,,,,,,,,,4,2996,16,1736
 2004-W-T3-FRA-01A-2004,Strasbourg,Clay,30,T3,20040517,28,201380,,,Claudine Schaul,R,,LUX,20.7419575633,200104,4,,Emilie Loit,L,,FRA,24.93908282,6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,66,532,32,913
 2004-W-T3-FRA-01A-2004,Strasbourg,Clay,30,T3,20040517,29,201380,,,Claudine Schaul,R,,LUX,20.7419575633,200128,1,,Lindsay Davenport,R,189,USA,27.9397672827,2-6 6-0 6-3,3,F,,,,,,,,,,,,,,,,,,,,66,532,4,2996
-2004-W-T3-GBR-01A-2004,Birmingham,Grass,56,T3,20040607,1,201085,,,Shinobu Asagoe,R,,JPN,27.9425051335,201360,,,Julia Vakulenko,R,183,UKR,20.9117043121,6-2 6-4,3,R64,,,,,,,,,,,,,,,,,,,,38,815,98,371
+2004-W-T3-GBR-01A-2004,Birmingham,Grass,56,T3,20040607,1,201085,,,Shinobu Asagoe,R,170,JPN,27.9425051335,201360,,,Julia Vakulenko,R,183,UKR,20.9117043121,6-2 6-4,3,R64,,,,,,,,,,,,,,,,,,,,38,815,98,371
 2004-W-T3-GBR-01A-2004,Birmingham,Grass,56,T3,20040607,2,201290,,,Daniela Hantuchova,R,181,SVK,21.1252566735,201313,,SR,Yoon Jeong Cho,R,,KOR,25.18275154,6-3 6-1,3,R64,,,,,,,,,,,,,,,,,,,,54,631,198,142
 2004-W-T3-GBR-01A-2004,Birmingham,Grass,56,T3,20040607,3,201364,,,Tatiana Golovin,R,175,FRA,16.3668720055,200048,15,,Elena Likhovtseva,R,,RUS,28.7474332649,6-3 2-0 RET,3,R64,,,,,,,,,,,,,,,,,,,,71,531,41,783
 2004-W-T3-GBR-01A-2004,Birmingham,Grass,56,T3,20040607,4,200124,,SR,Anne Kremer,R,,LUX,28.6406570842,200027,12,,Magui Serna,L,,ESP,25.2703627652,6-2 6-2,3,R64,,,,,,,,,,,,,,,,,,,,319,67,50,661
@@ -2140,7 +2140,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T3-GBR-01A-2004,Birmingham,Grass,56,T3,20040607,22,200035,16,,Maria Sanchez Lorenzo,R,,ESP,26.5817932923,200042,,,Els Callens,R,,BEL,33.7987679671,3-6 6-4 6-3,3,R64,,,,,,,,,,,,,,,,,,,,56,612,83,425
 2004-W-T3-GBR-01A-2004,Birmingham,Grass,56,T3,20040607,23,201303,,WC,Anne Keothavong,R,175,GBR,20.7255304586,200777,,,Marta Marrero,R,,ESP,21.3908281999,6-1 5-7 7-6(4),3,R64,,,,,,,,,,,,,,,,,,,,193,148,60,583
 2004-W-T3-GBR-01A-2004,Birmingham,Grass,56,T3,20040607,24,201367,,,Arantxa Parra Santonja,R,,ESP,21.5770020534,200011,,,Katarina Srebotnik,R,180,SLO,23.2388774812,6-3 6-3,3,R64,,,,,,,,,,,,,,,,,,,,55,622,61,582
-2004-W-T3-GBR-01A-2004,Birmingham,Grass,56,T3,20040607,25,201085,,,Shinobu Asagoe,R,,JPN,27.9425051335,200069,1,,Nadia Petrova,R,178,RUS,21.9986310746,6-4 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,38,815,12,1906
+2004-W-T3-GBR-01A-2004,Birmingham,Grass,56,T3,20040607,25,201085,,,Shinobu Asagoe,R,170,JPN,27.9425051335,200069,1,,Nadia Petrova,R,178,RUS,21.9986310746,6-4 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,38,815,12,1906
 2004-W-T3-GBR-01A-2004,Birmingham,Grass,56,T3,20040607,26,201364,,,Tatiana Golovin,R,175,FRA,16.3668720055,201290,,,Daniela Hantuchova,R,181,SVK,21.1252566735,6-0 3-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,71,531,54,631
 2004-W-T3-GBR-01A-2004,Birmingham,Grass,56,T3,20040607,27,200124,,SR,Anne Kremer,R,,LUX,28.6406570842,201306,,,Marie Gaiane Mikaelian,R,,SUI,20.2628336756,6-4 5-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,319,67,106,337
 2004-W-T3-GBR-01A-2004,Birmingham,Grass,56,T3,20040607,28,201311,,Q,Roberta Vinci,R,163,ITA,21.3004791239,200109,6,,Nathalie Dechy,R,177,FRA,25.2922655715,6-0 4-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,109,331,29,989
@@ -2156,7 +2156,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T3-GBR-01A-2004,Birmingham,Grass,56,T3,20040607,38,201323,,,Saori Obata,L,,JPN,26.1245722108,201393,,Q,Kelly Mccain,R,,USA,21.2238193018,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,44,719,145,238
 2004-W-T3-GBR-01A-2004,Birmingham,Grass,56,T3,20040607,39,200035,16,,Maria Sanchez Lorenzo,R,,ESP,26.5817932923,201303,,WC,Anne Keothavong,R,175,GBR,20.7255304586,6-3 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,56,612,193,148
 2004-W-T3-GBR-01A-2004,Birmingham,Grass,56,T3,20040607,40,200067,2,,Patty Schnyder,L,168,SUI,25.4811772758,201367,,,Arantxa Parra Santonja,R,,ESP,21.5770020534,6-2 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,20,1494,55,622
-2004-W-T3-GBR-01A-2004,Birmingham,Grass,56,T3,20040607,41,201364,,,Tatiana Golovin,R,175,FRA,16.3668720055,201085,,,Shinobu Asagoe,R,,JPN,27.9425051335,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,71,531,38,815
+2004-W-T3-GBR-01A-2004,Birmingham,Grass,56,T3,20040607,41,201364,,,Tatiana Golovin,R,175,FRA,16.3668720055,201085,,,Shinobu Asagoe,R,170,JPN,27.9425051335,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,71,531,38,815
 2004-W-T3-GBR-01A-2004,Birmingham,Grass,56,T3,20040607,42,200124,,SR,Anne Kremer,R,,LUX,28.6406570842,201311,,Q,Roberta Vinci,R,163,ITA,21.3004791239,6-2 1-6 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,319,67,109,331
 2004-W-T3-GBR-01A-2004,Birmingham,Grass,56,T3,20040607,43,200009,,,Tamarine Tanasugarn,R,165,THA,27.0390143737,200086,4,,Magdalena Maleeva,R,168,BUL,29.1854893908,0-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,58,597,21,1271
 2004-W-T3-GBR-01A-2004,Birmingham,Grass,56,T3,20040607,44,200104,9,,Emilie Loit,L,,FRA,24.9965776865,201352,,,Akiko Morigami,R,,JPN,24.4024640657,6-4 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,36,880,67,551
@@ -2203,7 +2203,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T3-JPN-01A-2004,Japan Open,Hard,30,T3,20041004,1,201325,,Q,Samantha Stosur,R,172,AUS,20.514715948,201411,,,Aiko Nakamura,R,163,JPN,20.7693360712,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,77,483,141,249
 2004-W-T3-JPN-01A-2004,Japan Open,Hard,30,T3,20041004,2,201352,,,Akiko Morigami,R,,JPN,24.7282683094,200011,,,Katarina Srebotnik,R,180,SLO,23.5646817248,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,74,486,68,500
 2004-W-T3-JPN-01A-2004,Japan Open,Hard,30,T3,20041004,3,201430,,Q,Yulia Fedossova,R,,FRA,16.2600958248,200046,5,,Meghann Shaughnessy,R,,USA,25.4784394251,7-5 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,448,33,46,699
-2004-W-T3-JPN-01A-2004,Japan Open,Hard,30,T3,20041004,4,200009,,,Tamarine Tanasugarn,R,165,THA,27.3648186174,201085,3,,Shinobu Asagoe,R,,JPN,28.2683093771,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,76,483,43,755
+2004-W-T3-JPN-01A-2004,Japan Open,Hard,30,T3,20041004,4,200009,,,Tamarine Tanasugarn,R,165,THA,27.3648186174,201085,3,,Shinobu Asagoe,R,170,JPN,28.2683093771,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,76,483,43,755
 2004-W-T3-JPN-01A-2004,Japan Open,Hard,30,T3,20041004,5,200754,,,Jill Craybas,R,160,USA,30.2532511978,201366,,,Barbora Zahlavova Strycova,R,164,CZE,18.5215605749,7-5 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,59,555,58,569
 2004-W-T3-JPN-01A-2004,Japan Open,Hard,30,T3,20041004,6,201317,,,Aniko Kapros,R,,HUN,20.8980150582,201424,,Q,Shahar Peer,R,170,ISR,17.4291581109,2-6 6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,95,405,190,164
 2004-W-T3-JPN-01A-2004,Japan Open,Hard,30,T3,20041004,7,201402,,Q,Sesil Karatantcheva,R,171,KAZ,15.1567419576,201367,8,,Arantxa Parra Santonja,R,,ESP,21.9028062971,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,168,194,60,552
@@ -2231,7 +2231,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T3-JPN-01A-2004,Japan Open,Hard,30,T3,20041004,29,201345,1,,Maria Sharapova,R,,RUS,17.4620123203,201087,,,Mashona Washington,R,,USA,28.3449691992,6-0 6-1,3,F,,,,,,,,,,,,,,,,,,,,10,2577,61,546
 2004-W-T3-LUX-01A-2004,Luxembourg,Hard,30,T3,20041025,1,201286,,,Anabel Medina Garrigues,R,169,ESP,22.2368240931,200060,,,Tathiana Garbin,R,172,ITA,27.3210130048,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,46,710,56,611
 2004-W-T3-LUX-01A-2004,Luxembourg,Hard,30,T3,20041025,2,201421,,,Ana Ivanovic,R,183,SRB,16.9691991786,200124,,WC,Anne Kremer,R,,LUX,29.0239561944,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,112,324,97,374
-2004-W-T3-LUX-01A-2004,Luxembourg,Hard,30,T3,20041025,3,201085,8,,Shinobu Asagoe,R,,JPN,28.3258042437,201414,,Q,Michaella Krajicek,R,177,NED,15.7919233402,6-0 6-7(1) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,39,795,604,18
+2004-W-T3-LUX-01A-2004,Luxembourg,Hard,30,T3,20041025,3,201085,8,,Shinobu Asagoe,R,170,JPN,28.3258042437,201414,,Q,Michaella Krajicek,R,177,NED,15.7919233402,6-0 6-7(1) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,39,795,604,18
 2004-W-T3-LUX-01A-2004,Luxembourg,Hard,30,T3,20041025,4,201441,,Q,Emma Laine,L,,FIN,18.5845311431,200086,4,,Magdalena Maleeva,R,168,BUL,29.568788501,5-7 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,216,143,25,1179
 2004-W-T3-LUX-01A-2004,Luxembourg,Hard,30,T3,20041025,5,201336,,,Dinara Safina,R,182,RUS,18.4969199179,201321,,Q,Antonella Serra Zanetti,R,,ITA,24.2518822724,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,52,630,90,400
 2004-W-T3-LUX-01A-2004,Luxembourg,Hard,30,T3,20041025,6,200720,,,Dally Randriantefy,R,,MAD,27.6687200548,201087,,,Mashona Washington,R,,USA,28.4024640657,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,69,504,51,658
@@ -2244,7 +2244,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T3-LUX-01A-2004,Luxembourg,Hard,30,T3,20041025,13,200123,,,Marlene Weingartner,R,,GER,24.7364818617,200090,,,Anca Barna,L,,GER,27.4496919918,7-5 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,62,526,74,488
 2004-W-T3-LUX-01A-2004,Luxembourg,Hard,30,T3,20041025,14,200035,,,Maria Sanchez Lorenzo,R,,ESP,26.9650924025,200118,,,Virginia Ruano Pascual,R,169,ESP,31.0937713895,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,54,623,64,518
 2004-W-T3-LUX-01A-2004,Luxembourg,Hard,30,T3,20041025,15,201286,,,Anabel Medina Garrigues,R,169,ESP,22.2368240931,200107,1,,Paola Suarez,R,170,ARG,28.3394934976,3-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,46,710,17,1535
-2004-W-T3-LUX-01A-2004,Luxembourg,Hard,30,T3,20041025,16,201421,,,Ana Ivanovic,R,183,SRB,16.9691991786,201085,8,,Shinobu Asagoe,R,,JPN,28.3258042437,4-6 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,112,324,39,795
+2004-W-T3-LUX-01A-2004,Luxembourg,Hard,30,T3,20041025,16,201421,,,Ana Ivanovic,R,183,SRB,16.9691991786,201085,8,,Shinobu Asagoe,R,170,JPN,28.3258042437,4-6 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,112,324,39,795
 2004-W-T3-LUX-01A-2004,Luxembourg,Hard,30,T3,20041025,17,201336,,,Dinara Safina,R,182,RUS,18.4969199179,201441,,Q,Emma Laine,L,,FIN,18.5845311431,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,52,630,216,143
 2004-W-T3-LUX-01A-2004,Luxembourg,Hard,30,T3,20041025,18,200720,,,Dally Randriantefy,R,,MAD,27.6687200548,200096,5,,Mary Pierce,R,178,FRA,29.7768651608,6-4 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,69,504,29,1051
 2004-W-T3-LUX-01A-2004,Luxembourg,Hard,30,T3,20041025,19,200117,,Q,Kveta Peschke,R,165,CZE,29.2977412731,201305,7,,Eleni Daniilidou,R,182,GRE,22.0999315537,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,145,237,34,881
@@ -2279,7 +2279,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T3-MEX-01A-2004,Acapulco,Clay,30,T3,20040301,19,201360,,,Julia Vakulenko,R,183,UKR,20.643394935,200060,,,Tathiana Garbin,R,172,ITA,26.6694045175,6-3 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,71,489,79,447
 2004-W-T3-MEX-01A-2004,Acapulco,Clay,30,T3,20040301,20,200035,3,,Maria Sanchez Lorenzo,R,,ESP,26.3134839151,200055,,SR,Mariana Diaz Oliva,R,,ARG,27.9726214921,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,36,872,193,152
 2004-W-T3-MEX-01A-2004,Acapulco,Clay,30,T3,20040301,21,201355,,,Flavia Pennetta,R,172,ITA,22.0123203285,201367,7,,Arantxa Parra Santonja,R,,ESP,21.3086926762,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,100,361,62,551
-2004-W-T3-MEX-01A-2004,Acapulco,Clay,30,T3,20040301,22,201400,,,Nicole Vaidisova,R,181,CZE,14.855578371,201085,2,,Shinobu Asagoe,R,,JPN,27.6741957563,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,264,90,48,699
+2004-W-T3-MEX-01A-2004,Acapulco,Clay,30,T3,20040301,22,201400,,,Nicole Vaidisova,R,181,CZE,14.855578371,201085,2,,Shinobu Asagoe,R,170,JPN,27.6741957563,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,264,90,48,699
 2004-W-T3-MEX-01A-2004,Acapulco,Clay,30,T3,20040301,23,200777,,,Marta Marrero,R,,ESP,21.1225188227,201325,,Q,Samantha Stosur,R,172,AUS,19.9206023272,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,108,321,131,261
 2004-W-T3-MEX-01A-2004,Acapulco,Clay,30,T3,20040301,24,201331,,Q,Iveta Benesova,L,170,CZE,21.0787132101,200104,4,,Emilie Loit,L,,FRA,24.7282683094,7-6(4) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,99,361,42,760
 2004-W-T3-MEX-01A-2004,Acapulco,Clay,30,T3,20040301,25,200035,3,,Maria Sanchez Lorenzo,R,,ESP,26.3134839151,201360,,,Julia Vakulenko,R,183,UKR,20.643394935,6-7(5) 6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,36,872,71,489
@@ -2353,7 +2353,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T3-USA-01A-2004,Memphis,Hard,30,T3,20040216,6,200121,,,Alina Jidkova,R,,RUS,27.0773442847,201325,,,Samantha Stosur,R,172,AUS,19.8822724162,6-7(5) 7-6(3) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,102,342,127,269
 2004-W-T3-USA-01A-2004,Memphis,Hard,30,T3,20040216,7,200041,6,,Amy Frazier,R,,USA,31.40862423,201376,,Q,Angela Haynes,L,,USA,19.3867214237,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,50,674,179,168
 2004-W-T3-USA-01A-2004,Memphis,Hard,30,T3,20040216,8,200062,7,,Kristina Brandi,R,168,PUR,26.8856947296,201369,,WC,Carly Gullickson,R,,USA,17.2238193018,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,52,646,223,115
-2004-W-T3-USA-01A-2004,Memphis,Hard,30,T3,20040216,9,200084,,SR,Asa Svensson,R,,SWE,28.6707734428,201375,,,Shenay Perry,R,,USA,19.613963039,7-6(13) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,300,71,116,300
+2004-W-T3-USA-01A-2004,Memphis,Hard,30,T3,20040216,9,200084,,SR,Asa Carlsson,R,,SWE,28.6707734428,201375,,,Shenay Perry,R,,USA,19.613963039,7-6(13) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,300,71,116,300
 2004-W-T3-USA-01A-2004,Memphis,Hard,30,T3,20040216,10,201300,,,Maria Emilia Salerni,R,,ARG,20.7611225188,200045,,,Tara Snyder,R,,USA,26.726899384,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,139,236,101,343
 2004-W-T3-USA-01A-2004,Memphis,Hard,30,T3,20040216,11,201281,4,,Laura Granville,R,175,USA,22.765229295,201338,,WC,Bea Bielik,U,,USA,23.2169746749,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,44,767,195,150
 2004-W-T3-USA-01A-2004,Memphis,Hard,30,T3,20040216,12,200729,,,Lindsay Lee Waters,R,,USA,26.636550308,201352,8,,Akiko Morigami,R,,JPN,24.0958247775,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,106,323,60,573
@@ -2363,7 +2363,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T3-USA-01A-2004,Memphis,Hard,30,T3,20040216,16,201363,,,Gisela Dulko,R,170,ARG,19.0444900753,201315,5,,Ashley Harkleroad,R,,USA,18.7926078029,7-5 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,98,352,47,736
 2004-W-T3-USA-01A-2004,Memphis,Hard,30,T3,20040216,17,201345,3,,Maria Sharapova,R,,RUS,16.8295687885,200063,,Q,Tatiana Panova,R,,RUS,27.5099247091,2-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,25,1101,149,217
 2004-W-T3-USA-01A-2004,Memphis,Hard,30,T3,20040216,18,200041,6,,Amy Frazier,R,,USA,31.40862423,200121,,,Alina Jidkova,R,,RUS,27.0773442847,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,50,674,102,342
-2004-W-T3-USA-01A-2004,Memphis,Hard,30,T3,20040216,19,200062,7,,Kristina Brandi,R,168,PUR,26.8856947296,200084,,SR,Asa Svensson,R,,SWE,28.6707734428,6-3 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,52,646,300,71
+2004-W-T3-USA-01A-2004,Memphis,Hard,30,T3,20040216,19,200062,7,,Kristina Brandi,R,168,PUR,26.8856947296,200084,,SR,Asa Carlsson,R,,SWE,28.6707734428,6-3 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,52,646,300,71
 2004-W-T3-USA-01A-2004,Memphis,Hard,30,T3,20040216,20,201281,4,,Laura Granville,R,175,USA,22.765229295,201300,,,Maria Emilia Salerni,R,,ARG,20.7611225188,6-4 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,44,767,139,236
 2004-W-T3-USA-01A-2004,Memphis,Hard,30,T3,20040216,21,200729,,,Lindsay Lee Waters,R,,USA,26.636550308,201292,,,Martina Sucha,R,,SVK,23.2388774812,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,106,323,78,439
 2004-W-T3-USA-01A-2004,Memphis,Hard,30,T3,20040216,22,200020,2,,Lisa Raymond,R,165,USA,30.5188227242,201448,,Q,Galina Voskoboeva,R,183,KAZ,19.1622176591,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,24,1117,147,224
@@ -2383,7 +2383,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T3-USA-02A-2004,Cincinnati,Hard,30,T3,20040816,7,200044,5,,Denisa Chladkova,R,,CZE,25.5195071869,201385,,Q,Yuliana Fedak,R,166,UKR,21.1909650924,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,54,640,100,371
 2004-W-T3-USA-02A-2004,Cincinnati,Hard,30,T3,20040816,8,200123,8,,Marlene Weingartner,R,,GER,24.5448323066,200022,,,Emmanuelle Gagliardi,R,,SUI,28.1040383299,6-3 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,73,512,94,397
 2004-W-T3-USA-02A-2004,Cincinnati,Hard,30,T3,20040816,9,201209,,,Selima Sfar,R,,TUN,27.1074606434,201301,,,Camille Pin,U,162,FRA,22.9760438056,6-4 RET,3,R32,,,,,,,,,,,,,,,,,,,,129,262,102,369
-2004-W-T3-USA-02A-2004,Cincinnati,Hard,30,T3,20040816,10,201087,,,Mashona Washington,R,,USA,28.2108145106,200126,,,Marissa Gould,R,,USA,24.1478439425,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,83,439,82,446
+2004-W-T3-USA-02A-2004,Cincinnati,Hard,30,T3,20040816,10,201087,,,Mashona Washington,R,,USA,28.2108145106,200126,,,Marissa Irvin,R,,USA,24.1478439425,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,83,439,82,446
 2004-W-T3-USA-02A-2004,Cincinnati,Hard,30,T3,20040816,11,200041,3,,Amy Frazier,R,,USA,31.9069130732,200773,,LL,Stephanie Foretz Gacon,R,166,FRA,23.2881587953,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,24,1175,115,331
 2004-W-T3-USA-02A-2004,Cincinnati,Hard,30,T3,20040816,12,201397,,Q,Shuai Peng,R,173,CHN,18.6036960986,200754,6,,Jill Craybas,R,160,USA,30.1190965092,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,108,354,62,577
 2004-W-T3-USA-02A-2004,Cincinnati,Hard,30,T3,20040816,13,200121,,,Alina Jidkova,R,,RUS,27.575633128,200729,,,Lindsay Lee Waters,R,,USA,27.1348391513,6-7(4) 6-4 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,71,517,89,404
@@ -2409,7 +2409,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T4-IND-01A-2004,Hyderabad,Hard,32,T4,20040216,4,201308,7,,Maria Elena Camerin,R,164,ITA,21.9082819986,201370,,,Anastasia Rodionova,R,167,AUS,21.7659137577,6-3 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,80,434,162,200
 2004-W-T4-IND-01A-2004,Hyderabad,Hard,32,T4,20040216,5,200009,3,,Tamarine Tanasugarn,R,165,THA,26.7323750856,201078,,,Eugenia Kulikovskaya,U,,RUS,25.1553730322,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,54,642,190,152
 2004-W-T4-IND-01A-2004,Hyderabad,Hard,32,T4,20040216,6,201424,,Q,Shahar Peer,R,170,ISR,16.7967145791,201381,,,Tian Tian Sun,R,,CHN,22.3463381246,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,482,27,126,269
-2004-W-T4-IND-01A-2004,Hyderabad,Hard,32,T4,20040216,7,201284,,,Tatiana Poutchek,R,,BLR,25.1033538672,200059,,SR,Ruxandra Dragomir Ilie,R,,ROU,31.3127994524,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,166,188,463,29
+2004-W-T4-IND-01A-2004,Hyderabad,Hard,32,T4,20040216,7,201284,,,Tatiana Poutchek,R,,BLR,25.1033538672,200059,,SR,Ruxandra Dragomir Ilie,R,168,ROU,31.3127994524,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,166,188,463,29
 2004-W-T4-IND-01A-2004,Hyderabad,Hard,32,T4,20040216,8,201386,6,,Jie Zheng,R,164,CHN,20.6187542779,201377,,,Yuliya Beygelzimer,R,174,UKR,20.3258042437,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,82,432,123,278
 2004-W-T4-IND-01A-2004,Hyderabad,Hard,32,T4,20040216,9,200056,5,,Jelena Kostanic Tosic,L,168,CRO,22.6146475017,202325,,WC,Isha Lakhani,L,,IND,18.8008213552,6-3 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,65,532,373,48
 2004-W-T4-IND-01A-2004,Hyderabad,Hard,32,T4,20040216,10,201371,,,Vera Dushevina,R,180,RUS,17.363449692,201394,,,Anna Lena Groenefeld,R,180,GER,18.7022587269,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,97,355,107,322
@@ -2449,7 +2449,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T4-KOR-01A-2004,Seoul,Hard,32,T4,20040927,13,200011,5,,Katarina Srebotnik,R,180,SLO,23.5455167693,201321,,,Antonella Serra Zanetti,R,,ITA,24.1752224504,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,69,504,102,377
 2004-W-T4-KOR-01A-2004,Seoul,Hard,32,T4,20040927,14,201424,,Q,Shahar Peer,R,170,ISR,17.4099931554,200071,,,Lenka Nemeckova,R,,CZE,28.4380561259,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,238,122,144,241
 2004-W-T4-KOR-01A-2004,Seoul,Hard,32,T4,20040927,15,201401,,,Abigail Spears,R,,USA,23.2114989733,201480,,,Lioudmila Skavronskaia,U,,RUS,24.514715948,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,128,275,136,260
-2004-W-T4-KOR-01A-2004,Seoul,Hard,32,T4,20040927,16,201085,2,,Shinobu Asagoe,R,,JPN,28.2491444216,202291,,Q,Seiko Okamoto,U,,JPN,26.5407255305,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,42,758,251,112
+2004-W-T4-KOR-01A-2004,Seoul,Hard,32,T4,20040927,16,201085,2,,Shinobu Asagoe,R,170,JPN,28.2491444216,202291,,Q,Seiko Okamoto,U,,JPN,26.5407255305,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,42,758,251,112
 2004-W-T4-KOR-01A-2004,Seoul,Hard,32,T4,20040927,17,201345,1,,Maria Sharapova,R,,RUS,17.4428473648,200735,,LL,Miho Saeki,R,,JPN,28.5284052019,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,8,2603,258,105
 2004-W-T4-KOR-01A-2004,Seoul,Hard,32,T4,20040927,18,201325,8,,Samantha Stosur,R,172,AUS,20.4955509925,201448,,,Galina Voskoboeva,R,183,KAZ,19.7754962355,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,81,460,143,244
 2004-W-T4-KOR-01A-2004,Seoul,Hard,32,T4,20040927,19,201391,,,Sanda Mamic,U,,CRO,19.5181382615,201293,,,Catalina Castano,R,171,COL,25.2265571526,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,134,265,119,298
@@ -2457,7 +2457,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T4-KOR-01A-2004,Seoul,Hard,32,T4,20040927,21,200007,,,Silvija Talaja,R,,CRO,26.7022587269,200713,,,Yuka Yoshida,R,,JPN,28.4900752909,4-6 6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,115,310,146,239
 2004-W-T4-KOR-01A-2004,Seoul,Hard,32,T4,20040927,22,201417,,,Marta Domachowska,R,176,POL,18.6967830253,201384,,Q,Chia Jung Chuang,R,,TPE,19.7125256674,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,100,382,226,131
 2004-W-T4-KOR-01A-2004,Seoul,Hard,32,T4,20040927,23,201424,,Q,Shahar Peer,R,170,ISR,17.4099931554,200011,5,,Katarina Srebotnik,R,180,SLO,23.5455167693,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,238,122,69,504
-2004-W-T4-KOR-01A-2004,Seoul,Hard,32,T4,20040927,24,201401,,,Abigail Spears,R,,USA,23.2114989733,201085,2,,Shinobu Asagoe,R,,JPN,28.2491444216,6-3 1-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,128,275,42,758
+2004-W-T4-KOR-01A-2004,Seoul,Hard,32,T4,20040927,24,201401,,,Abigail Spears,R,,USA,23.2114989733,201085,2,,Shinobu Asagoe,R,170,JPN,28.2491444216,6-3 1-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,128,275,42,758
 2004-W-T4-KOR-01A-2004,Seoul,Hard,32,T4,20040927,25,201345,1,,Maria Sharapova,R,,RUS,17.4428473648,201325,8,,Samantha Stosur,R,172,AUS,20.4955509925,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,8,2603,81,460
 2004-W-T4-KOR-01A-2004,Seoul,Hard,32,T4,20040927,26,200124,,,Anne Kremer,R,,LUX,28.9472963723,201391,,,Sanda Mamic,U,,CRO,19.5181382615,2-6 6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,113,317,134,265
 2004-W-T4-KOR-01A-2004,Seoul,Hard,32,T4,20040927,27,201417,,,Marta Domachowska,R,176,POL,18.6967830253,200007,,,Silvija Talaja,R,,CRO,26.7022587269,7-6(2) 2-6 6-0,3,QF,,,,,,,,,,,,,,,,,,,,100,382,115,310
@@ -2468,7 +2468,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T4-NZL-01A-2004,Auckland,Hard,32,T4,20040105,1,200107,1,,Paola Suarez,R,170,ARG,27.5345653662,200045,,Q,Tara Snyder,R,,USA,26.6119096509,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,14,1493,106,338
 2004-W-T4-NZL-01A-2004,Auckland,Hard,32,T4,20040105,2,200729,,,Lindsay Lee Waters,R,,USA,26.5215605749,200010,,,Rita Grande,R,,ITA,28.7885010267,6-4 6-7(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,116,304,69,513
 2004-W-T4-NZL-01A-2004,Auckland,Hard,32,T4,20040105,3,200041,,,Amy Frazier,R,,USA,31.2936344969,201306,,,Marie Gaiane Mikaelian,R,,SUI,19.8412046543,3-6 6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,60,575,89,402
-2004-W-T4-NZL-01A-2004,Auckland,Hard,32,T4,20040105,4,200062,,,Kristina Brandi,R,168,PUR,26.7707049966,201085,5,,Shinobu Asagoe,R,,JPN,27.5208761123,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,73,479,44,735
+2004-W-T4-NZL-01A-2004,Auckland,Hard,32,T4,20040105,4,200062,,,Kristina Brandi,R,168,PUR,26.7707049966,201085,5,,Shinobu Asagoe,R,170,JPN,27.5208761123,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,73,479,44,735
 2004-W-T4-NZL-01A-2004,Auckland,Hard,32,T4,20040105,5,201305,3,,Eleni Daniilidou,R,182,GRE,21.2950034223,200056,,,Jelena Kostanic Tosic,L,168,CRO,22.4996577687,6-2 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,30,1025,65,532
 2004-W-T4-NZL-01A-2004,Auckland,Hard,32,T4,20040105,6,200022,,,Emmanuelle Gagliardi,R,,SUI,27.4907597536,201344,,,Klara Koukalova,R,166,CZE,21.8617385352,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,61,568,64,552
 2004-W-T4-NZL-01A-2004,Auckland,Hard,32,T4,20040105,7,200031,,Q,Meilen Tu,R,,USA,25.9657768652,201352,,,Akiko Morigami,R,,JPN,23.9808350445,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,152,207,62,562
@@ -2505,7 +2505,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T4-POR-01A-2004,Estoril,Clay,32,T4,20040412,7,201344,,,Klara Koukalova,R,166,CZE,22.1300479124,200060,,,Tathiana Garbin,R,172,ITA,26.7843942505,5-7 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,78,468,80,460
 2004-W-T4-POR-01A-2004,Estoril,Clay,32,T4,20040412,8,200011,7,,Katarina Srebotnik,R,180,SLO,23.0855578371,200010,,,Rita Grande,R,,ITA,29.0568104038,6-7(4) 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,68,516,87,421
 2004-W-T4-POR-01A-2004,Estoril,Clay,32,T4,20040412,9,201331,6,,Iveta Benesova,L,170,CZE,21.1937029432,201358,,Q,Natalia Gussoni,R,,ARG,22.6338124572,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,60,538,138,228
-2004-W-T4-POR-01A-2004,Estoril,Clay,32,T4,20040412,10,201355,,,Flavia Pennetta,R,172,ITA,22.1273100616,200084,,SR,Asa Svensson,R,,SWE,28.8240930869,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,82,435,285,82
+2004-W-T4-POR-01A-2004,Estoril,Clay,32,T4,20040412,10,201355,,,Flavia Pennetta,R,172,ITA,22.1273100616,200084,,SR,Asa Carlsson,R,,SWE,28.8240930869,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,82,435,285,82
 2004-W-T4-POR-01A-2004,Estoril,Clay,32,T4,20040412,11,201574,,WC,Neuza Silva,R,,POR,20.9418206708,201361,,Q,Julia Schruff,R,,GER,21.6563997262,3-6 7-6(5) 7-6(8),3,R32,,,,,,,,,,,,,,,,,,,,706,11,129,248
 2004-W-T4-POR-01A-2004,Estoril,Clay,32,T4,20040412,12,200044,4,,Denisa Chladkova,R,,CZE,25.1745379877,201377,,,Yuliya Beygelzimer,R,174,UKR,20.4791238877,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,55,597,104,355
 2004-W-T4-POR-01A-2004,Estoril,Clay,32,T4,20040412,13,201308,,,Maria Elena Camerin,R,164,ITA,22.0616016427,201294,8,,Marion Bartoli,R,170,FRA,19.5263518138,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,69,509,72,494
@@ -2536,7 +2536,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T4-SWE-01A-2004,Stockholm,Hard,32,T4,20040802,7,201308,,,Maria Elena Camerin,R,164,ITA,22.3682409309,201394,,,Anna Lena Groenefeld,R,180,GER,19.1622176591,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,70,534,88,415
 2004-W-T4-SWE-01A-2004,Stockholm,Hard,32,T4,20040802,8,200011,8,,Katarina Srebotnik,R,180,SLO,23.3921971253,201360,,,Julia Vakulenko,R,183,UKR,21.0650239562,6-3 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,68,555,102,365
 2004-W-T4-SWE-01A-2004,Stockholm,Hard,32,T4,20040802,9,200044,6,,Denisa Chladkova,R,,CZE,25.4811772758,201311,,,Roberta Vinci,R,163,ITA,21.453798768,7-5 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,60,624,100,374
-2004-W-T4-SWE-01A-2004,Stockholm,Hard,32,T4,20040802,10,201379,,,Mara Santangelo,R,181,ITA,23.0965092402,200084,,WC,Asa Svensson,R,,SWE,29.1307323751,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,82,444,199,142
+2004-W-T4-SWE-01A-2004,Stockholm,Hard,32,T4,20040802,10,201379,,,Mara Santangelo,R,181,ITA,23.0965092402,200084,,WC,Asa Carlsson,R,,SWE,29.1307323751,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,82,444,199,142
 2004-W-T4-SWE-01A-2004,Stockholm,Hard,32,T4,20040802,11,200007,,,Silvija Talaja,R,,CRO,26.5489390828,200740,,Q,Elena Tatarkova,L,,UKR,27.9452429843,2-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,106,357,167,186
 2004-W-T4-SWE-01A-2004,Stockholm,Hard,32,T4,20040802,12,200008,3,,Alicia Molik,R,182,AUS,23.5126625599,202334,,WC,Hanna Nooni,R,,SWE,20.3997262149,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,26,1057,205,138
 2004-W-T4-SWE-01A-2004,Stockholm,Hard,32,T4,20040802,13,201392,,,Severine Beltrame,R,171,FRA,24.9691991786,201344,5,,Klara Koukalova,R,166,CZE,22.4366872005,6-2 4-6 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,107,356,71,527
@@ -2596,7 +2596,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T5-AUS-01A-2004,Hobart,Hard,32,T5,20040112,5,200110,4,,Fabiola Zuluaga,R,,COL,25.0130047912,201386,,,Jie Zheng,R,164,CHN,20.5229295003,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,36,840,80,442
 2004-W-T5-AUS-01A-2004,Hobart,Hard,32,T5,20040112,6,201325,,WC,Samantha Stosur,R,172,AUS,19.7864476386,201349,,,Melinda Czink,L,178,HUN,21.2238193018,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,119,296,76,467
 2004-W-T5-AUS-01A-2004,Hobart,Hard,32,T5,20040112,7,200010,,,Rita Grande,R,,ITA,28.8076659822,201303,,Q,Anne Keothavong,R,175,GBR,20.3230663929,6-7(2) 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,69,513,175,170
-2004-W-T5-AUS-01A-2004,Hobart,Hard,32,T5,20040112,8,201085,6,,Shinobu Asagoe,R,,JPN,27.5400410678,200042,,,Els Callens,R,,BEL,33.3963039014,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,49,693,73,469
+2004-W-T5-AUS-01A-2004,Hobart,Hard,32,T5,20040112,8,201085,6,,Shinobu Asagoe,R,170,JPN,27.5400410678,200042,,,Els Callens,R,,BEL,33.3963039014,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,49,693,73,469
 2004-W-T5-AUS-01A-2004,Hobart,Hard,32,T5,20040112,9,200024,5,,Maria Vento Kabchi,R,,VEN,29.6372347707,200032,,,Barbara Schett,R,176,AUT,27.8412046543,4-6 6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,42,757,82,435
 2004-W-T5-AUS-01A-2004,Hobart,Hard,32,T5,20040112,10,201308,,,Maria Elena Camerin,R,164,ITA,21.8124572211,200025,,,Ludmila Cervanova,R,,SVK,24.2436687201,6-7(5) 7-6(3) 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,97,371,61,552
 2004-W-T5-AUS-01A-2004,Hobart,Hard,32,T5,20040112,11,201286,,,Anabel Medina Garrigues,R,169,ESP,21.4510609172,201448,,,Galina Voskoboeva,R,183,KAZ,19.0663928816,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,70,507,151,205
@@ -2608,18 +2608,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T5-AUS-01A-2004,Hobart,Hard,32,T5,20040112,17,200062,,,Kristina Brandi,R,168,PUR,26.7898699521,200060,,,Tathiana Garbin,R,172,ITA,26.5352498289,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,67,515,84,432
 2004-W-T5-AUS-01A-2004,Hobart,Hard,32,T5,20040112,18,201352,,,Akiko Morigami,R,,JPN,24.0,201292,,,Martina Sucha,R,,SVK,23.1430527036,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,62,540,88,421
 2004-W-T5-AUS-01A-2004,Hobart,Hard,32,T5,20040112,19,200110,4,,Fabiola Zuluaga,R,,COL,25.0130047912,201325,,WC,Samantha Stosur,R,172,AUS,19.7864476386,4-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,36,840,119,296
-2004-W-T5-AUS-01A-2004,Hobart,Hard,32,T5,20040112,20,201085,6,,Shinobu Asagoe,R,,JPN,27.5400410678,200010,,,Rita Grande,R,,ITA,28.8076659822,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,49,693,69,513
+2004-W-T5-AUS-01A-2004,Hobart,Hard,32,T5,20040112,20,201085,6,,Shinobu Asagoe,R,170,JPN,27.5400410678,200010,,,Rita Grande,R,,ITA,28.8076659822,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,49,693,69,513
 2004-W-T5-AUS-01A-2004,Hobart,Hard,32,T5,20040112,21,201308,,,Maria Elena Camerin,R,164,ITA,21.8124572211,200024,5,,Maria Vento Kabchi,R,,VEN,29.6372347707,7-6(7) 2-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,97,371,42,757
 2004-W-T5-AUS-01A-2004,Hobart,Hard,32,T5,20040112,22,200041,,,Amy Frazier,R,,USA,31.3127994524,201286,,,Anabel Medina Garrigues,R,169,ESP,21.4510609172,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,68,513,70,507
 2004-W-T5-AUS-01A-2004,Hobart,Hard,32,T5,20040112,23,200090,7,,Anca Barna,L,,GER,26.6639288159,201087,,Q,Mashona Washington,R,,USA,27.6167008898,3-6 7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,47,723,198,140
 2004-W-T5-AUS-01A-2004,Hobart,Hard,32,T5,20040112,24,201300,,Q,Maria Emilia Salerni,R,,ARG,20.6652977413,201344,,,Klara Koukalova,R,166,CZE,21.8809034908,6-2 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,174,170,65,532
 2004-W-T5-AUS-01A-2004,Hobart,Hard,32,T5,20040112,25,200062,,,Kristina Brandi,R,168,PUR,26.7898699521,201352,,,Akiko Morigami,R,,JPN,24.0,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,67,515,62,540
-2004-W-T5-AUS-01A-2004,Hobart,Hard,32,T5,20040112,26,201085,6,,Shinobu Asagoe,R,,JPN,27.5400410678,200110,4,,Fabiola Zuluaga,R,,COL,25.0130047912,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,49,693,36,840
+2004-W-T5-AUS-01A-2004,Hobart,Hard,32,T5,20040112,26,201085,6,,Shinobu Asagoe,R,170,JPN,27.5400410678,200110,4,,Fabiola Zuluaga,R,,COL,25.0130047912,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,49,693,36,840
 2004-W-T5-AUS-01A-2004,Hobart,Hard,32,T5,20040112,27,200041,,,Amy Frazier,R,,USA,31.3127994524,201308,,,Maria Elena Camerin,R,164,ITA,21.8124572211,7-6(2) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,68,513,97,371
 2004-W-T5-AUS-01A-2004,Hobart,Hard,32,T5,20040112,28,201300,,Q,Maria Emilia Salerni,R,,ARG,20.6652977413,200090,7,,Anca Barna,L,,GER,26.6639288159,7-6(4) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,174,170,47,723
-2004-W-T5-AUS-01A-2004,Hobart,Hard,32,T5,20040112,29,201085,6,,Shinobu Asagoe,R,,JPN,27.5400410678,200062,,,Kristina Brandi,R,168,PUR,26.7898699521,5-7 6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,49,693,67,515
+2004-W-T5-AUS-01A-2004,Hobart,Hard,32,T5,20040112,29,201085,6,,Shinobu Asagoe,R,170,JPN,27.5400410678,200062,,,Kristina Brandi,R,168,PUR,26.7898699521,5-7 6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,49,693,67,515
 2004-W-T5-AUS-01A-2004,Hobart,Hard,32,T5,20040112,30,200041,,,Amy Frazier,R,,USA,31.3127994524,201300,,Q,Maria Emilia Salerni,R,,ARG,20.6652977413,4-6 6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,68,513,174,170
-2004-W-T5-AUS-01A-2004,Hobart,Hard,32,T5,20040112,31,200041,,,Amy Frazier,R,,USA,31.3127994524,201085,6,,Shinobu Asagoe,R,,JPN,27.5400410678,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,68,513,49,693
+2004-W-T5-AUS-01A-2004,Hobart,Hard,32,T5,20040112,31,200041,,,Amy Frazier,R,,USA,31.3127994524,201085,6,,Shinobu Asagoe,R,170,JPN,27.5400410678,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,68,513,49,693
 2004-W-T5-AUS-02A-2004,Canberra,Hard,32,T5,20040112,1,200700,3,,Silvia Farina Elia,R,,ITA,31.7097878166,201346,,,Lubomira Kurhajcova,R,,SVK,20.2546201232,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,23,1151,87,422
 2004-W-T5-AUS-02A-2004,Canberra,Hard,32,T5,20040112,2,201379,,Q,Mara Santangelo,R,181,ITA,22.5407255305,201387,,,Sofia Arvidsson,R,176,SWE,19.9041752225,6-1 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,137,240,101,350
 2004-W-T5-AUS-02A-2004,Canberra,Hard,32,T5,20040112,3,200022,,,Emmanuelle Gagliardi,R,,SUI,27.5099247091,200770,,,Stephanie Cohen Aloro,R,175,FRA,20.8213552361,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,60,587,63,536
@@ -2660,10 +2660,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T5-CAN-01A-2004,Vancouver,Hard,32,T5,20040809,7,201448,,,Galina Voskoboeva,R,183,KAZ,19.6413415469,201387,,,Sofia Arvidsson,R,176,SWE,20.4791238877,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,147,227,112,333
 2004-W-T5-CAN-01A-2004,Vancouver,Hard,32,T5,20040809,8,200729,8,,Lindsay Lee Waters,R,,USA,27.1156741958,201480,,,Lioudmila Skavronskaia,U,,RUS,24.3805612594,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,92,402,127,264
 2004-W-T5-CAN-01A-2004,Vancouver,Hard,32,T5,20040809,9,200010,6,,Rita Grande,R,,ITA,29.3826146475,200042,,,Els Callens,R,,BEL,33.9712525667,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,98,388,107,355
-2004-W-T5-CAN-01A-2004,Vancouver,Hard,32,T5,20040809,10,200766,,,Jennifer Hopkins,R,,USA,23.4934976044,200773,,,Stephanie Foretz Gacon,R,166,FRA,23.2689938398,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,116,318,113,331
+2004-W-T5-CAN-01A-2004,Vancouver,Hard,32,T5,20040809,10,200766,,,Jennifer Hopkins,R,170,USA,23.4934976044,200773,,,Stephanie Foretz Gacon,R,166,FRA,23.2689938398,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,116,318,113,331
 2004-W-T5-CAN-01A-2004,Vancouver,Hard,32,T5,20040809,11,201397,,,Shuai Peng,R,173,CHN,18.5845311431,201708,,,Natalie Grandin,U,,RSA,23.446954141,4-6 6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,109,344,165,191
 2004-W-T5-CAN-01A-2004,Vancouver,Hard,32,T5,20040809,12,200121,3,,Alina Jidkova,R,,RUS,27.5564681725,202330,,Q,Maria Vanina Garcia Sokol,R,,ARG,20.6187542779,5-7 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,77,482,221,126
-2004-W-T5-CAN-01A-2004,Vancouver,Hard,32,T5,20040809,13,200126,5,,Marissa Gould,R,,USA,24.128678987,200031,,,Meilen Tu,R,,USA,26.559890486,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,84,435,152,220
+2004-W-T5-CAN-01A-2004,Vancouver,Hard,32,T5,20040809,13,200126,5,,Marissa Irvin,R,,USA,24.128678987,200031,,,Meilen Tu,R,,USA,26.559890486,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,84,435,152,220
 2004-W-T5-CAN-01A-2004,Vancouver,Hard,32,T5,20040809,14,201400,,Q,Nicole Vaidisova,R,181,CZE,15.2963723477,201401,,,Abigail Spears,R,,USA,23.0773442847,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,180,170,143,240
 2004-W-T5-CAN-01A-2004,Vancouver,Hard,32,T5,20040809,15,202331,,,Vilmarie Castellvi,U,,PUR,23.3867214237,201383,,WC,Marie Eve Pelletier,R,,CAN,22.2286105407,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,137,247,188,162
 2004-W-T5-CAN-01A-2004,Vancouver,Hard,32,T5,20040809,16,201328,2,,Milagros Sequera,R,,VEN,23.8576317591,201321,,,Antonella Serra Zanetti,R,,ITA,24.0410677618,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,74,486,117,311
@@ -2671,9 +2671,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2004-W-T5-CAN-01A-2004,Vancouver,Hard,32,T5,20040809,18,201402,,Q,Sesil Karatantcheva,R,171,KAZ,15.0034223135,201394,7,,Anna Lena Groenefeld,R,180,GER,19.1813826146,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,210,137,87,415
 2004-W-T5-CAN-01A-2004,Vancouver,Hard,32,T5,20040809,19,201281,4,,Laura Granville,R,175,USA,23.2443531828,201318,,,Bethanie Mattek Sands,R,168,USA,19.3812457221,6-3 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,82,456,168,190
 2004-W-T5-CAN-01A-2004,Vancouver,Hard,32,T5,20040809,20,200729,8,,Lindsay Lee Waters,R,,USA,27.1156741958,201448,,,Galina Voskoboeva,R,183,KAZ,19.6413415469,6-4 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,92,402,147,227
-2004-W-T5-CAN-01A-2004,Vancouver,Hard,32,T5,20040809,21,200010,6,,Rita Grande,R,,ITA,29.3826146475,200766,,,Jennifer Hopkins,R,,USA,23.4934976044,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,98,388,116,318
+2004-W-T5-CAN-01A-2004,Vancouver,Hard,32,T5,20040809,21,200010,6,,Rita Grande,R,,ITA,29.3826146475,200766,,,Jennifer Hopkins,R,170,USA,23.4934976044,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,98,388,116,318
 2004-W-T5-CAN-01A-2004,Vancouver,Hard,32,T5,20040809,22,200121,3,,Alina Jidkova,R,,RUS,27.5564681725,201397,,,Shuai Peng,R,173,CHN,18.5845311431,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,77,482,109,344
-2004-W-T5-CAN-01A-2004,Vancouver,Hard,32,T5,20040809,23,201400,,Q,Nicole Vaidisova,R,181,CZE,15.2963723477,200126,5,,Marissa Gould,R,,USA,24.128678987,7-5 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,180,170,84,435
+2004-W-T5-CAN-01A-2004,Vancouver,Hard,32,T5,20040809,23,201400,,Q,Nicole Vaidisova,R,181,CZE,15.2963723477,200126,5,,Marissa Irvin,R,,USA,24.128678987,7-5 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,180,170,84,435
 2004-W-T5-CAN-01A-2004,Vancouver,Hard,32,T5,20040809,24,201328,2,,Milagros Sequera,R,,VEN,23.8576317591,202331,,,Vilmarie Castellvi,U,,PUR,23.3867214237,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,74,486,137,247
 2004-W-T5-CAN-01A-2004,Vancouver,Hard,32,T5,20040809,25,201301,,,Camille Pin,U,162,FRA,22.9568788501,201402,,Q,Sesil Karatantcheva,R,171,KAZ,15.0034223135,6-2 4-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,114,322,210,137
 2004-W-T5-CAN-01A-2004,Vancouver,Hard,32,T5,20040809,26,201281,4,,Laura Granville,R,175,USA,23.2443531828,200729,8,,Lindsay Lee Waters,R,,USA,27.1156741958,5-7 6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,82,456,92,402

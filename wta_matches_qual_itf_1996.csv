@@ -198,7 +198,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C50-COL-01A-1996,Bogota 50K,Clay,32,50,19960219,11,200054,,,Sylvia Plischke,R,,AUT,18.5845311431,200696,,,Christina Papadaki,R,,GRE,22.984257358,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,238,4,212,5
 1996-W-C50-COL-01A-1996,Bogota 50K,Clay,32,50,19960219,12,200106,3,,Angeles Montolio,R,,ESP,20.5393566051,200634,,,Elena Brioukhovets,U,,UKR,24.7008898015,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,149,9,265,3
 1996-W-C50-COL-01A-1996,Bogota 50K,Clay,32,50,19960219,13,200645,,LL,Maja Zivec Skulj,U,,GER,22.4010951403,200666,6,,Marion Maruska,R,,AUT,23.1786447639,6-3 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,236,4,163,8
-1996-W-C50-COL-01A-1996,Bogota 50K,Clay,32,50,19960219,14,201838,,,Federica Fortuni,U,,ITA,21.3880903491,201771,,,Virag Csurgo,U,,HUN,23.2744695414,3-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,189,6,193,6
+1996-W-C50-COL-01A-1996,Bogota 50K,Clay,32,50,19960219,14,201838,,,Federica Fortuni,U,,ITA,21.3880903491,201771,,,Virag Csurgo,R,172,HUN,23.2744695414,3-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,189,6,193,6
 1996-W-C50-COL-01A-1996,Bogota 50K,Clay,32,50,19960219,15,200678,,Q,Gloria Pizzichini,R,,ITA,20.5749486653,202720,,WC,Ximena Rodriguez,U,,COL,19.4277891855,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,177,7,535,0
 1996-W-C50-COL-01A-1996,Bogota 50K,Clay,32,50,19960219,16,201751,,,Melissa Mazzotta,U,,USA,23.6632443532,200626,2,,Emanuela Zardo,U,,SUI,25.8234086242,6-3 6-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,159,8
 1996-W-C50-COL-01A-1996,Bogota 50K,Clay,32,50,19960219,17,200098,1,,Henrieta Nagyova,R,,SVK,17.1800136893,200646,,,Francesca Romano,U,,ITA,25.0321697467,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,119,12,767,0
@@ -250,7 +250,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C75-SVK-01A-1996,Bratislava 75K,Clay,32,75,19960902,1,200098,1,,Henrieta Nagyova,R,,SVK,17.7166324435,200570,,,Veronika Martinek,U,,GER,24.4161533196,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,68,21,134,10
 1996-W-C75-SVK-01A-1996,Bratislava 75K,Clay,32,75,19960902,2,200071,,,Lenka Nemeckova,R,,CZE,20.3696098563,202723,,,Zuzana Valekova,U,,SVK,17.029431896,6-0 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,175,7,553,0
 1996-W-C75-SVK-01A-1996,Bratislava 75K,Clay,32,75,19960902,3,200110,,,Fabiola Zuluaga,R,,COL,17.6536618754,200712,,,Katerina Kroupova,U,,CZE,22.5325119781,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,143,9,162,8
-1996-W-C75-SVK-01A-1996,Bratislava 75K,Clay,32,75,19960902,4,200674,8,,Bettina Fulco Villella,R,,ARG,27.8603696099,200506,,,Wiltrud Probst,R,,GER,27.2635181383,1-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,122,11,129,10
+1996-W-C75-SVK-01A-1996,Bratislava 75K,Clay,32,75,19960902,4,200674,8,,Bettina Fulco,R,,ARG,27.8603696099,200506,,,Wiltrud Probst,R,,GER,27.2635181383,1-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,122,11,129,10
 1996-W-C75-SVK-01A-1996,Bratislava 75K,Clay,32,75,19960902,5,200066,7,,Cristina Torrens Valero,R,,ESP,21.9739904175,200063,,Q,Tatiana Panova,R,,RUS,20.0547570157,6-4 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,105,13,218,5
 1996-W-C75-SVK-01A-1996,Bratislava 75K,Clay,32,75,19960902,6,200530,,,Radomira Zrubakova,R,,SVK,25.6865160849,202724,,,Andrea Bilic,U,,CRO,21.2429842574,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,131,10,1020,0
 1996-W-C75-SVK-01A-1996,Bratislava 75K,Clay,32,75,19960902,7,200672,,,Barbara Mulej,R,,SLO,22.264202601,200765,,,Katalin Marosi,R,,HUN,16.8076659822,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,150,9,176,7
@@ -264,14 +264,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C75-SVK-01A-1996,Bratislava 75K,Clay,32,75,19960902,15,200055,,,Mariana Diaz Oliva,R,,ARG,20.4791238877,200647,,,Noelle Van Lottum,U,,FRA,24.1423682409,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,170,7,140,9
 1996-W-C75-SVK-01A-1996,Bratislava 75K,Clay,32,75,19960902,16,201453,,LL,Hana Sromova,U,,CZE,18.3983572895,200718,2,,Ludmila Richterova,U,,CZE,19.4907597536,6-3 1-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,343,2,76,19
 1996-W-C75-SVK-01A-1996,Bratislava 75K,Clay,32,75,19960902,17,200098,1,,Henrieta Nagyova,R,,SVK,17.7166324435,200071,,,Lenka Nemeckova,R,,CZE,20.3696098563,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,68,21,175,7
-1996-W-C75-SVK-01A-1996,Bratislava 75K,Clay,32,75,19960902,18,200674,8,,Bettina Fulco Villella,R,,ARG,27.8603696099,200110,,,Fabiola Zuluaga,R,,COL,17.6536618754,7-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,122,11,143,9
+1996-W-C75-SVK-01A-1996,Bratislava 75K,Clay,32,75,19960902,18,200674,8,,Bettina Fulco,R,,ARG,27.8603696099,200110,,,Fabiola Zuluaga,R,,COL,17.6536618754,7-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,122,11,143,9
 1996-W-C75-SVK-01A-1996,Bratislava 75K,Clay,32,75,19960902,19,200530,,,Radomira Zrubakova,R,,SVK,25.6865160849,200066,7,,Cristina Torrens Valero,R,,ESP,21.9739904175,6-1 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,131,10,105,13
 1996-W-C75-SVK-01A-1996,Bratislava 75K,Clay,32,75,19960902,20,200088,5,,Adriana Gersi,R,,CZE,20.1861738535,200672,,,Barbara Mulej,R,,SLO,22.264202601,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,115,12,150,9
 1996-W-C75-SVK-01A-1996,Bratislava 75K,Clay,32,75,19960902,21,200119,,Q,Rita Kuti Kis,L,,HUN,18.5516769336,200442,,,Andrea Temesvari,R,,HUN,30.3545516769,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,223,5,164,7
 1996-W-C75-SVK-01A-1996,Bratislava 75K,Clay,32,75,19960902,22,200067,3,,Patty Schnyder,L,168,SUI,17.7193702943,200044,,Q,Denisa Chladkova,R,,CZE,17.5660506502,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,95,15,126,11
 1996-W-C75-SVK-01A-1996,Bratislava 75K,Clay,32,75,19960902,23,200738,,,Lenka Cenkova,U,,CZE,19.6057494867,200007,6,,Silvija Talaja,R,,CRO,18.6338124572,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,146,9,116,12
 1996-W-C75-SVK-01A-1996,Bratislava 75K,Clay,32,75,19960902,24,200055,,,Mariana Diaz Oliva,R,,ARG,20.4791238877,201453,,LL,Hana Sromova,U,,CZE,18.3983572895,6-4 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,170,7,343,2
-1996-W-C75-SVK-01A-1996,Bratislava 75K,Clay,32,75,19960902,25,200098,1,,Henrieta Nagyova,R,,SVK,17.7166324435,200674,8,,Bettina Fulco Villella,R,,ARG,27.8603696099,6-0 6-1,3,QF,,,,,,,,,,,,,,,,,,,,68,21,122,11
+1996-W-C75-SVK-01A-1996,Bratislava 75K,Clay,32,75,19960902,25,200098,1,,Henrieta Nagyova,R,,SVK,17.7166324435,200674,8,,Bettina Fulco,R,,ARG,27.8603696099,6-0 6-1,3,QF,,,,,,,,,,,,,,,,,,,,68,21,122,11
 1996-W-C75-SVK-01A-1996,Bratislava 75K,Clay,32,75,19960902,26,200530,,,Radomira Zrubakova,R,,SVK,25.6865160849,200088,5,,Adriana Gersi,R,,CZE,20.1861738535,7-5 7-5,3,QF,,,,,,,,,,,,,,,,,,,,131,10,115,12
 1996-W-C75-SVK-01A-1996,Bratislava 75K,Clay,32,75,19960902,27,200067,3,,Patty Schnyder,L,168,SUI,17.7193702943,200119,,Q,Rita Kuti Kis,L,,HUN,18.5516769336,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,95,15,223,5
 1996-W-C75-SVK-01A-1996,Bratislava 75K,Clay,32,75,19960902,28,200055,,,Mariana Diaz Oliva,R,,ARG,20.4791238877,200738,,,Lenka Cenkova,U,,CZE,19.6057494867,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,170,7,146,9
@@ -316,7 +316,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C25-ROU-01A-1996,Bucharest 25K,Clay,32,25,19960923,5,202157,,LL,Paola Tampieri,U,,ITA,21.4127310062,201823,4,,Daphne Van De Zande,R,,BEL,22.1765913758,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,328,2,204,6
 1996-W-C25-ROU-01A-1996,Bucharest 25K,Clay,32,25,19960923,6,201929,,,Laura Pena,U,,ESP,16.8952772074,200752,,,Raluca Sandu,R,,ROU,16.6379192334,6-0 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,298,2,258,3
 1996-W-C25-ROU-01A-1996,Bucharest 25K,Clay,32,25,19960923,7,203041,,LL,Ekaterina Tikhankina,U,,RUS,17.3059548255,201940,,,Mirela Vladulescu,U,,GER,19.537303217,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,423,1,390,1
-1996-W-C25-ROU-01A-1996,Bucharest 25K,Clay,32,25,19960923,8,201771,7,,Virag Csurgo,U,,HUN,23.8685831622,200090,,,Anca Barna,L,,GER,19.3620807666,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,221,5,250,4
+1996-W-C25-ROU-01A-1996,Bucharest 25K,Clay,32,25,19960923,8,201771,7,,Virag Csurgo,R,172,HUN,23.8685831622,200090,,,Anca Barna,L,,GER,19.3620807666,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,221,5,250,4
 1996-W-C25-ROU-01A-1996,Bucharest 25K,Clay,32,25,19960923,9,201860,5,,Mariam Ramon Climent,U,,ESP,20.076659822,202026,,,Noelia Serra Djamdjean,U,,ESP,19.0390143737,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,201,6,,
 1996-W-C25-ROU-01A-1996,Bucharest 25K,Clay,32,25,19960923,10,201865,,,Alicia Ortuno,U,,ESP,20.3942505133,200744,,,Svetlana Krivencheva,R,,BUL,22.7323750856,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,291,3,241,4
 1996-W-C25-ROU-01A-1996,Bucharest 25K,Clay,32,25,19960923,11,202246,,,Ines Heise,U,,GER,20.8733744011,204444,,Q,Alina Tecsor,U,,ROU,16.9171800137,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,236,4,371,1
@@ -328,22 +328,22 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C25-ROU-01A-1996,Bucharest 25K,Clay,32,25,19960923,17,200055,1,,Mariana Diaz Oliva,R,,ARG,20.5366187543,201855,,,Adriana Barna,R,,GER,18.3436002738,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,132,10,267,3
 1996-W-C25-ROU-01A-1996,Bucharest 25K,Clay,32,25,19960923,18,204497,,Q,Galina Dimitrova,U,,BUL,18.4531143053,200646,,Q,Francesca Romano,U,,ITA,25.6262833676,6-3 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,546,0,358,2
 1996-W-C25-ROU-01A-1996,Bucharest 25K,Clay,32,25,19960923,19,201929,,,Laura Pena,U,,ESP,16.8952772074,202157,,LL,Paola Tampieri,U,,ITA,21.4127310062,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,298,2,328,2
-1996-W-C25-ROU-01A-1996,Bucharest 25K,Clay,32,25,19960923,20,201771,7,,Virag Csurgo,U,,HUN,23.8685831622,203041,,LL,Ekaterina Tikhankina,U,,RUS,17.3059548255,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,221,5,423,1
+1996-W-C25-ROU-01A-1996,Bucharest 25K,Clay,32,25,19960923,20,201771,7,,Virag Csurgo,R,172,HUN,23.8685831622,203041,,LL,Ekaterina Tikhankina,U,,RUS,17.3059548255,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,221,5,423,1
 1996-W-C25-ROU-01A-1996,Bucharest 25K,Clay,32,25,19960923,21,201865,,,Alicia Ortuno,U,,ESP,20.3942505133,201860,5,,Mariam Ramon Climent,U,,ESP,20.076659822,6-3 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,291,3,201,6
 1996-W-C25-ROU-01A-1996,Bucharest 25K,Clay,32,25,19960923,22,200706,3,,Catalina Cristea,R,,ROU,21.311430527,202246,,,Ines Heise,U,,GER,20.8733744011,2-6 6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,140,9,236,4
 1996-W-C25-ROU-01A-1996,Bucharest 25K,Clay,32,25,19960923,23,200047,,,Pavlina Nola,R,,NZL,22.1957563313,202344,,WC,Magda Mihalache,R,,ROU,15.2169746749,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,287,3,690,0
 1996-W-C25-ROU-01A-1996,Bucharest 25K,Clay,32,25,19960923,24,200100,,,Amanda Hopmans,R,,NED,20.6160164271,201813,,,Patty Van Acker,R,,BEL,19.923340178,4-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,257,3,266,3
 1996-W-C25-ROU-01A-1996,Bucharest 25K,Clay,32,25,19960923,25,200055,1,,Mariana Diaz Oliva,R,,ARG,20.5366187543,204497,,Q,Galina Dimitrova,U,,BUL,18.4531143053,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,132,10,546,0
-1996-W-C25-ROU-01A-1996,Bucharest 25K,Clay,32,25,19960923,26,201771,7,,Virag Csurgo,U,,HUN,23.8685831622,201929,,,Laura Pena,U,,ESP,16.8952772074,6-2 2-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,221,5,298,2
+1996-W-C25-ROU-01A-1996,Bucharest 25K,Clay,32,25,19960923,26,201771,7,,Virag Csurgo,R,172,HUN,23.8685831622,201929,,,Laura Pena,U,,ESP,16.8952772074,6-2 2-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,221,5,298,2
 1996-W-C25-ROU-01A-1996,Bucharest 25K,Clay,32,25,19960923,27,200706,3,,Catalina Cristea,R,,ROU,21.311430527,201865,,,Alicia Ortuno,U,,ESP,20.3942505133,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,140,9,291,3
 1996-W-C25-ROU-01A-1996,Bucharest 25K,Clay,32,25,19960923,28,200047,,,Pavlina Nola,R,,NZL,22.1957563313,200100,,,Amanda Hopmans,R,,NED,20.6160164271,4-6 6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,287,3,257,3
-1996-W-C25-ROU-01A-1996,Bucharest 25K,Clay,32,25,19960923,29,200055,1,,Mariana Diaz Oliva,R,,ARG,20.5366187543,201771,7,,Virag Csurgo,U,,HUN,23.8685831622,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,132,10,221,5
+1996-W-C25-ROU-01A-1996,Bucharest 25K,Clay,32,25,19960923,29,200055,1,,Mariana Diaz Oliva,R,,ARG,20.5366187543,201771,7,,Virag Csurgo,R,172,HUN,23.8685831622,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,132,10,221,5
 1996-W-C25-ROU-01A-1996,Bucharest 25K,Clay,32,25,19960923,30,200706,3,,Catalina Cristea,R,,ROU,21.311430527,200047,,,Pavlina Nola,R,,NZL,22.1957563313,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,140,9,287,3
 1996-W-C25-ROU-01A-1996,Bucharest 25K,Clay,32,25,19960923,31,200706,3,,Catalina Cristea,R,,ROU,21.311430527,200055,1,,Mariana Diaz Oliva,R,,ARG,20.5366187543,7-5 3-6 7-6,3,F,,,,,,,,,,,,,,,,,,,,140,9,132,10
 1996-W-C50-HUN-01A-1996,Budapest 50K,Clay,32,50,19960610,1,200106,1,,Angeles Montolio,R,,ESP,20.8459958932,200645,,,Maja Zivec Skulj,U,,GER,22.7077344285,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,101,15,220,5
 1996-W-C50-HUN-01A-1996,Budapest 50K,Clay,32,50,19960610,2,202195,,,Petra Gaspar,U,,HUN,19.3210130048,200015,,,Petra Mandula,R,,HUN,18.3956194387,2-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,205,5,298,3
 1996-W-C50-HUN-01A-1996,Budapest 50K,Clay,32,50,19960610,3,200638,,,Stephanie Rottier,U,,NED,22.3819301848,201812,,,Hiroko Mochizuki,U,,JPN,20.8843258042,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,245,4,280,3
-1996-W-C50-HUN-01A-1996,Budapest 50K,Clay,32,50,19960610,4,201771,7,,Virag Csurgo,U,,HUN,23.5811088296,201880,,,Melinda Petkes,U,,HUN,17.9767282683,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,170,7,874,0
+1996-W-C50-HUN-01A-1996,Budapest 50K,Clay,32,50,19960610,4,201771,7,,Virag Csurgo,R,172,HUN,23.5811088296,201880,,,Melinda Petkes,U,,HUN,17.9767282683,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,170,7,874,0
 1996-W-C50-HUN-01A-1996,Budapest 50K,Clay,32,50,19960610,5,201860,4,,Mariam Ramon Climent,U,,ESP,19.7891854894,202091,,,Olga Ivanova,U,,RUS,19.3483915127,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,172,7,227,4
 1996-W-C50-HUN-01A-1996,Budapest 50K,Clay,32,50,19960610,6,201881,,,Nora Koves,U,,HUN,24.9938398357,201949,,,Eva Jimenez Sanz,U,,ESP,21.0622861054,6-1 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,360,2
 1996-W-C50-HUN-01A-1996,Budapest 50K,Clay,32,50,19960610,7,201075,,,Liezel Huber,R,180,USA,19.8028747433,202956,,,Tina Plivelitsch,U,,GER,18.2039698836,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,326,2,371,2
@@ -357,7 +357,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C50-HUN-01A-1996,Budapest 50K,Clay,32,50,19960610,15,200646,,,Francesca Romano,U,,ITA,25.3388090349,201751,,,Melissa Mazzotta,U,,USA,23.9698836413,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,475,1,257,3
 1996-W-C50-HUN-01A-1996,Budapest 50K,Clay,32,50,19960610,16,202958,,,Claudia Hoffmann Timm,U,,GER,23.1019849418,200607,2,,Beate Reinstadler,U,,AUT,29.0595482546,4-6 6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,173,7
 1996-W-C50-HUN-01A-1996,Budapest 50K,Clay,32,50,19960610,17,202195,,,Petra Gaspar,U,,HUN,19.3210130048,200106,1,,Angeles Montolio,R,,ESP,20.8459958932,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,205,5,101,15
-1996-W-C50-HUN-01A-1996,Budapest 50K,Clay,32,50,19960610,18,200638,,,Stephanie Rottier,U,,NED,22.3819301848,201771,7,,Virag Csurgo,U,,HUN,23.5811088296,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,245,4,170,7
+1996-W-C50-HUN-01A-1996,Budapest 50K,Clay,32,50,19960610,18,200638,,,Stephanie Rottier,U,,NED,22.3819301848,201771,7,,Virag Csurgo,R,172,HUN,23.5811088296,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,245,4,170,7
 1996-W-C50-HUN-01A-1996,Budapest 50K,Clay,32,50,19960610,19,201860,4,,Mariam Ramon Climent,U,,ESP,19.7891854894,201881,,,Nora Koves,U,,HUN,24.9938398357,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,172,7,,
 1996-W-C50-HUN-01A-1996,Budapest 50K,Clay,32,50,19960610,20,200739,5,,Stephanie De Ville,U,,BEL,19.8795345654,201075,,,Liezel Huber,R,180,USA,19.8028747433,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,164,7,326,2
 1996-W-C50-HUN-01A-1996,Budapest 50K,Clay,32,50,19960610,21,200442,6,,Andrea Temesvari,R,,HUN,30.1245722108,202081,,,Katalin Miskolczi,U,,HUN,19.8439425051,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,150,9,328,2
@@ -379,7 +379,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C25-HUN-01A-1996,Budapest I 25K,Clay,32,25,19960805,6,203025,,LL,Sabine Haas,U,,GER,21.2840520192,201283,,LL,Zuzana Lesenarova,U,,CZE,19.0116358658,6-3 0-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,340,2,449,1
 1996-W-C25-HUN-01A-1996,Budapest I 25K,Clay,32,25,19960805,7,204444,,LL,Alina Tecsor,U,,ROU,16.7830253251,201879,,,Reka Vidats,U,,HUN,17.0485968515,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,379,1,387,1
 1996-W-C25-HUN-01A-1996,Budapest I 25K,Clay,32,25,19960805,8,200015,8,,Petra Mandula,R,,HUN,18.5489390828,200027,,,Magui Serna,L,,ESP,17.4318959617,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,243,4,213,5
-1996-W-C25-HUN-01A-1996,Budapest I 25K,Clay,32,25,19960805,9,201771,5,,Virag Csurgo,U,,HUN,23.7344284736,201802,,,Ulrike Priller,U,,AUT,23.5783709788,6-2 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,222,5,252,4
+1996-W-C25-HUN-01A-1996,Budapest I 25K,Clay,32,25,19960805,9,201771,5,,Virag Csurgo,R,172,HUN,23.7344284736,201802,,,Ulrike Priller,U,,AUT,23.5783709788,6-2 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,222,5,252,4
 1996-W-C25-HUN-01A-1996,Budapest I 25K,Clay,32,25,19960805,10,200593,,,Karine Quentrec,U,,FRA,26.7898699521,201880,,WC,Melinda Petkes,U,,HUN,18.1300479124,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,263,3,823,0
 1996-W-C25-HUN-01A-1996,Budapest I 25K,Clay,32,25,19960805,11,201869,,,Radka Pelikanova,U,,CZE,19.3401779603,202956,,Q,Tina Plivelitsch,U,,GER,18.3572895277,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,308,2,344,2
 1996-W-C25-HUN-01A-1996,Budapest I 25K,Clay,32,25,19960805,12,202195,3,,Petra Gaspar,U,,HUN,19.4743326489,202952,,Q,Eszter Molnar,U,,HUN,17.6892539357,3-6 7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,192,6,678,0
@@ -391,16 +391,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C25-HUN-01A-1996,Budapest I 25K,Clay,32,25,19960805,18,201839,,,Syna Schreiber,U,,GER,17.7084188912,201813,,,Patty Van Acker,R,,BEL,19.7891854894,3-2 RET,3,R16,,,,,,,,,,,,,,,,,,,,292,3,259,3
 1996-W-C25-HUN-01A-1996,Budapest I 25K,Clay,32,25,19960805,19,200743,,,Nirupama Sanjeev,R,,IND,19.6577686516,203025,,LL,Sabine Haas,U,,GER,21.2840520192,6-1 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,258,3,340,2
 1996-W-C25-HUN-01A-1996,Budapest I 25K,Clay,32,25,19960805,20,200015,8,,Petra Mandula,R,,HUN,18.5489390828,204444,,LL,Alina Tecsor,U,,ROU,16.7830253251,7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,243,4,379,1
-1996-W-C25-HUN-01A-1996,Budapest I 25K,Clay,32,25,19960805,21,201771,5,,Virag Csurgo,U,,HUN,23.7344284736,200593,,,Karine Quentrec,U,,FRA,26.7898699521,6-4 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,222,5,263,3
+1996-W-C25-HUN-01A-1996,Budapest I 25K,Clay,32,25,19960805,21,201771,5,,Virag Csurgo,R,172,HUN,23.7344284736,200593,,,Karine Quentrec,U,,FRA,26.7898699521,6-4 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,222,5,263,3
 1996-W-C25-HUN-01A-1996,Budapest I 25K,Clay,32,25,19960805,22,202195,3,,Petra Gaspar,U,,HUN,19.4743326489,201869,,,Radka Pelikanova,U,,CZE,19.3401779603,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,192,6,308,2
 1996-W-C25-HUN-01A-1996,Budapest I 25K,Clay,32,25,19960805,23,201074,,Q,Ana Alcazar,U,,ESP,17.1608487337,200119,7,,Rita Kuti Kis,L,,HUN,18.4750171116,4-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,396,1,220,5
 1996-W-C25-HUN-01A-1996,Budapest I 25K,Clay,32,25,19960805,24,202976,,,Jana Macurova,U,,CZE,17.8097193703,201354,,,Libuse Prusova,R,,CZE,17.0650239562,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,323,2,333,2
 1996-W-C25-HUN-01A-1996,Budapest I 25K,Clay,32,25,19960805,25,200672,1,,Barbara Mulej,R,,SLO,22.1875427789,201839,,,Syna Schreiber,U,,GER,17.7084188912,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,171,7,292,3
 1996-W-C25-HUN-01A-1996,Budapest I 25K,Clay,32,25,19960805,26,200015,8,,Petra Mandula,R,,HUN,18.5489390828,200743,,,Nirupama Sanjeev,R,,IND,19.6577686516,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,243,4,258,3
-1996-W-C25-HUN-01A-1996,Budapest I 25K,Clay,32,25,19960805,27,201771,5,,Virag Csurgo,U,,HUN,23.7344284736,202195,3,,Petra Gaspar,U,,HUN,19.4743326489,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,222,5,192,6
+1996-W-C25-HUN-01A-1996,Budapest I 25K,Clay,32,25,19960805,27,201771,5,,Virag Csurgo,R,172,HUN,23.7344284736,202195,3,,Petra Gaspar,U,,HUN,19.4743326489,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,222,5,192,6
 1996-W-C25-HUN-01A-1996,Budapest I 25K,Clay,32,25,19960805,28,201074,,Q,Ana Alcazar,U,,ESP,17.1608487337,202976,,,Jana Macurova,U,,CZE,17.8097193703,6-0 3-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,396,1,323,2
 1996-W-C25-HUN-01A-1996,Budapest I 25K,Clay,32,25,19960805,29,200672,1,,Barbara Mulej,R,,SLO,22.1875427789,200015,8,,Petra Mandula,R,,HUN,18.5489390828,6-4 6-7 6-2,3,SF,,,,,,,,,,,,,,,,,,,,171,7,243,4
-1996-W-C25-HUN-01A-1996,Budapest I 25K,Clay,32,25,19960805,30,201074,,Q,Ana Alcazar,U,,ESP,17.1608487337,201771,5,,Virag Csurgo,U,,HUN,23.7344284736,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,396,1,222,5
+1996-W-C25-HUN-01A-1996,Budapest I 25K,Clay,32,25,19960805,30,201074,,Q,Ana Alcazar,U,,ESP,17.1608487337,201771,5,,Virag Csurgo,R,172,HUN,23.7344284736,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,396,1,222,5
 1996-W-C25-HUN-01A-1996,Budapest I 25K,Clay,32,25,19960805,31,200672,1,,Barbara Mulej,R,,SLO,22.1875427789,201074,,Q,Ana Alcazar,U,,ESP,17.1608487337,2-6 6-4 6-1,3,F,,,,,,,,,,,,,,,,,,,,171,7,396,1
 1996-W-C25-ARG-01A-1996,Buenos Aires 25K,Clay,32,25,19960722,1,200055,1,,Mariana Diaz Oliva,R,,ARG,20.3641341547,204448,,,Renata Brito,U,,BRA,17.8370978782,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,188,6,508,1
 1996-W-C25-ARG-01A-1996,Buenos Aires 25K,Clay,32,25,19960722,2,204507,,WC,Sabrina Valenti,R,,ARG,16.5448323066,204508,,Q,Mariana Faustinelli,U,,ARG,18.9431895962,7-6 0-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,635,0
@@ -497,7 +497,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C25-COL-01A-1996,Cali 25K,Clay,32,25,19960212,31,200098,1,,Henrieta Nagyova,R,,SVK,17.1608487337,200696,,,Christina Papadaki,R,,GRE,22.9650924025,6-2 7-6,3,F,,,,,,,,,,,,,,,,,,,,138,10,211,5
 1996-W-C50-GBR-02A-1996,Cardiff 50K,Hard,32,50,19961014,1,200614,1,,Elena Pampoulova,U,,BUL,24.4106776181,201196,,Q,Claire Taylor,U,,GBR,21.6563997262,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,290,3
 1996-W-C50-GBR-02A-1996,Cardiff 50K,Hard,32,50,19961014,2,200542,,,Clare Wood,R,,GBR,28.6023271732,200582,,,Maria Strandlund Tomsvik,U,,SWE,27.1594798084,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,199,6,172,7
-1996-W-C50-GBR-02A-1996,Cardiff 50K,Hard,32,50,19961014,3,201061,,,Eva Martincova,U,,CZE,21.6153319644,201771,,,Virag Csurgo,U,,HUN,23.9260780287,6-3 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,200,6,203,5
+1996-W-C50-GBR-02A-1996,Cardiff 50K,Hard,32,50,19961014,3,201061,,,Eva Martincova,U,,CZE,21.6153319644,201771,,,Virag Csurgo,R,172,HUN,23.9260780287,6-3 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,200,6,203,5
 1996-W-C50-GBR-02A-1996,Cardiff 50K,Hard,32,50,19961014,4,200661,8,,Samantha Smith,R,,GBR,24.8815879535,201963,,,Sofia Prazeres,U,,POR,22.3216974675,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,140,9,190,6
 1996-W-C50-GBR-02A-1996,Cardiff 50K,Hard,32,50,19961014,5,200070,3,,Anne Gaelle Sidot,L,,FRA,17.2265571526,201202,,WC,Abigail Tordoff,U,,GBR,17.2429842574,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,83,18,724,0
 1996-W-C50-GBR-02A-1996,Cardiff 50K,Hard,32,50,19961014,6,200584,,,Laura Golarsa,R,,ITA,28.8815879535,200027,,,Magui Serna,L,,ESP,17.6235455168,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,180,7,142,9
@@ -719,7 +719,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C25-AUS-04A-1996,Hope Island 25K,Hard,32,25,19961209,5,200038,3,,Annabel Ellwood,R,,AUS,18.8501026694,200034,,WC,Amanda Grahame,L,,AUS,17.711156742,5-7 6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,150,9,762,0
 1996-W-C25-AUS-04A-1996,Hope Island 25K,Hard,32,25,19961209,6,201920,,,Renata Kolbovic,R,,CAN,20.3613963039,203918,,,Kristine Kurth,U,,USA,24.462696783,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,369,2,361,2
 1996-W-C25-AUS-04A-1996,Hope Island 25K,Hard,32,25,19961209,7,200721,,,Hiromi Nagano,U,,JPN,25.3908281999,200733,,,Trudi Musgrave,U,,AUS,19.2470910335,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,292,3,320,2
-1996-W-C25-AUS-04A-1996,Hope Island 25K,Hard,32,25,19961209,8,201771,5,,Virag Csurgo,U,,HUN,24.0793976728,200753,,,Cindy Watson,U,,AUS,18.71321013,6-7 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,208,5,447,1
+1996-W-C25-AUS-04A-1996,Hope Island 25K,Hard,32,25,19961209,8,201771,5,,Virag Csurgo,R,172,HUN,24.0793976728,200753,,,Cindy Watson,U,,AUS,18.71321013,6-7 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,208,5,447,1
 1996-W-C25-AUS-04A-1996,Hope Island 25K,Hard,32,25,19961209,9,201882,8,,Katarzyna Straczy,U,,POL,17.0321697467,202073,,,Chin Bee Khoo,U,,MAS,19.6002737851,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,268,3,470,1
 1996-W-C25-AUS-04A-1996,Hope Island 25K,Hard,32,25,19961209,10,200103,,Q,Evie Dominikovic,R,,AUS,16.5311430527,204475,,Q,Kylie Hunt,U,,AUS,21.28678987,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,581,0,860,0
 1996-W-C25-AUS-04A-1996,Hope Island 25K,Hard,32,25,19961209,11,200029,,,Lisa Mcshea,R,,AUS,22.1136208077,203905,,WC,Lechia Trewick,U,,AUS,18.2943189596,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,305,3,,
@@ -731,13 +731,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C25-AUS-04A-1996,Hope Island 25K,Hard,32,25,19961209,17,200004,1,,Kerry Anne Guse,R,,AUS,24.0136892539,204650,,,Anita Kurimay,U,,HUN,18.4531143053,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,141,9,422,1
 1996-W-C25-AUS-04A-1996,Hope Island 25K,Hard,32,25,19961209,18,200036,7,,Nicole Pratt,R,,AUS,23.7645448323,200662,,,Joanne Limmer,U,,AUS,22.6995208761,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,248,4,476,1
 1996-W-C25-AUS-04A-1996,Hope Island 25K,Hard,32,25,19961209,19,200038,3,,Annabel Ellwood,R,,AUS,18.8501026694,201920,,,Renata Kolbovic,R,,CAN,20.3613963039,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,150,9,369,2
-1996-W-C25-AUS-04A-1996,Hope Island 25K,Hard,32,25,19961209,20,201771,5,,Virag Csurgo,U,,HUN,24.0793976728,200721,,,Hiromi Nagano,U,,JPN,25.3908281999,6-3 3-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,208,5,292,3
+1996-W-C25-AUS-04A-1996,Hope Island 25K,Hard,32,25,19961209,20,201771,5,,Virag Csurgo,R,172,HUN,24.0793976728,200721,,,Hiromi Nagano,U,,JPN,25.3908281999,6-3 3-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,208,5,292,3
 1996-W-C25-AUS-04A-1996,Hope Island 25K,Hard,32,25,19961209,21,200103,,Q,Evie Dominikovic,R,,AUS,16.5311430527,201882,8,,Katarzyna Straczy,U,,POL,17.0321697467,7-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,581,0,268,3
 1996-W-C25-AUS-04A-1996,Hope Island 25K,Hard,32,25,19961209,22,200719,4,,Siobhan Drake Brockman,U,,AUS,18.674880219,200029,,,Lisa Mcshea,R,,AUS,22.1136208077,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,199,6,305,3
 1996-W-C25-AUS-04A-1996,Hope Island 25K,Hard,32,25,19961209,23,200563,6,,Jane Taylor,U,,AUS,24.0876112252,200620,,,Kirrily Sharpe,U,,AUS,23.7864476386,6-2 5-7 7-5,3,R16,,,,,,,,,,,,,,,,,,,,223,5,485,1
 1996-W-C25-AUS-04A-1996,Hope Island 25K,Hard,32,25,19961209,24,200040,22,,Anna Smashnova,R,,ISR,20.3997262149,202981,,,Melissa Beadman,U,,AUS,21.363449692,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,147,9,300,3
 1996-W-C25-AUS-04A-1996,Hope Island 25K,Hard,32,25,19961209,25,200004,1,,Kerry Anne Guse,R,,AUS,24.0136892539,200036,7,,Nicole Pratt,R,,AUS,23.7645448323,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,141,9,248,4
-1996-W-C25-AUS-04A-1996,Hope Island 25K,Hard,32,25,19961209,26,200038,3,,Annabel Ellwood,R,,AUS,18.8501026694,201771,5,,Virag Csurgo,U,,HUN,24.0793976728,4-6 6-7 6-3,3,QF,,,,,,,,,,,,,,,,,,,,150,9,208,5
+1996-W-C25-AUS-04A-1996,Hope Island 25K,Hard,32,25,19961209,26,200038,3,,Annabel Ellwood,R,,AUS,18.8501026694,201771,5,,Virag Csurgo,R,172,HUN,24.0793976728,4-6 6-7 6-3,3,QF,,,,,,,,,,,,,,,,,,,,150,9,208,5
 1996-W-C25-AUS-04A-1996,Hope Island 25K,Hard,32,25,19961209,27,200103,,Q,Evie Dominikovic,R,,AUS,16.5311430527,200719,4,,Siobhan Drake Brockman,U,,AUS,18.674880219,4-6 6-4 7-6,3,QF,,,,,,,,,,,,,,,,,,,,581,0,199,6
 1996-W-C25-AUS-04A-1996,Hope Island 25K,Hard,32,25,19961209,28,200040,22,,Anna Smashnova,R,,ISR,20.3997262149,200563,6,,Jane Taylor,U,,AUS,24.0876112252,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,147,9,223,5
 1996-W-C25-AUS-04A-1996,Hope Island 25K,Hard,32,25,19961209,29,200038,3,,Annabel Ellwood,R,,AUS,18.8501026694,200004,1,,Kerry Anne Guse,R,,AUS,24.0136892539,6-7 7-6 6-1,3,SF,,,,,,,,,,,,,,,,,,,,150,9,141,9
@@ -745,7 +745,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C25-AUS-04A-1996,Hope Island 25K,Hard,32,25,19961209,31,200038,3,,Annabel Ellwood,R,,AUS,18.8501026694,200103,,Q,Evie Dominikovic,R,,AUS,16.5311430527,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,150,9,581,0
 1996-W-C75-USA-01A-1996,Indian Wells 75K,Hard,32,75,19961014,1,200530,,,Radomira Zrubakova,R,,SVK,25.8015058179,200729,1,,Lindsay Lee Waters,R,,USA,19.2963723477,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,119,11,57,23
 1996-W-C75-USA-01A-1996,Indian Wells 75K,Hard,32,75,19961014,2,200745,,,Andrea Glass,R,,GER,20.2436687201,200093,,,Amelie Cocheteux,L,,FRA,18.5516769336,6-4 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,124,11,166,7
-1996-W-C75-USA-01A-1996,Indian Wells 75K,Hard,32,75,19961014,3,200724,,,Lea Ghirardi,R,,FRA,22.674880219,200557,,,Katrina Adams,U,,USA,28.1916495551,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,163,7,117,11
+1996-W-C75-USA-01A-1996,Indian Wells 75K,Hard,32,75,19961014,3,200724,,,Lea Ghirardi,R,,FRA,22.674880219,200557,,,Katrina Adams,R,165,USA,28.1916495551,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,163,7,117,11
 1996-W-C75-USA-01A-1996,Indian Wells 75K,Hard,32,75,19961014,4,200091,,WC,Janet Lee,R,,TPE,19.9780971937,200739,7,,Stephanie De Ville,U,,BEL,20.2245037645,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,235,4,96,16
 1996-W-C75-USA-01A-1996,Indian Wells 75K,Hard,32,75,19961014,5,200038,,,Annabel Ellwood,R,,AUS,18.6967830253,200624,3,,Tami Whitlinger Jones,U,,USA,27.9178644764,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,164,7,72,19
 1996-W-C75-USA-01A-1996,Indian Wells 75K,Hard,32,75,19961014,6,200666,,,Marion Maruska,R,,AUT,23.8302532512,200419,,WC,Kathy Rinaldi Stunkel,U,,USA,29.5605749487,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,160,8,244,4
@@ -778,16 +778,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C75-TUR-01A-1996,Istanbul 75K,Hard,32,75,19960708,2,200687,,,Katarzyna Nowak,U,,POL,27.4825462012,202735,,Q,Alida Gallovits,U,,ROU,17.6700889802,7-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,149,8,514,1
 1996-W-C75-TUR-01A-1996,Istanbul 75K,Hard,32,75,19960708,3,200110,,,Fabiola Zuluaga,R,,COL,17.5003422313,202724,,WC,Andrea Bilic,U,,CRO,21.0896646133,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,172,7,,
 1996-W-C75-TUR-01A-1996,Istanbul 75K,Hard,32,75,19960708,4,200647,,,Noelle Van Lottum,U,,FRA,23.9890485969,200024,6,,Maria Vento Kabchi,R,,VEN,22.1245722108,3-6 7-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,159,8,121,11
-1996-W-C75-TUR-01A-1996,Istanbul 75K,Hard,32,75,19960708,5,200125,3,,Corina Morariu,R,,USA,18.4476386037,200674,,,Bettina Fulco Villella,R,,ARG,27.7070499658,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,109,13,137,10
+1996-W-C75-TUR-01A-1996,Istanbul 75K,Hard,32,75,19960708,5,200125,3,,Corina Morariu,R,,USA,18.4476386037,200674,,,Bettina Fulco,R,,ARG,27.7070499658,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,109,13,137,10
 1996-W-C75-TUR-01A-1996,Istanbul 75K,Hard,32,75,19960708,6,200569,,,Petra Pichalova Langrova,U,,TCH,26.0314852841,201067,,,Caroline Dhenin,U,,FRA,23.0691307324,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,134,10,152,8
 1996-W-C75-TUR-01A-1996,Istanbul 75K,Hard,32,75,19960708,7,200695,,,Tina Krizan,R,,SLO,22.3080082136,202090,,WC,Emily Bond,U,,GBR,22.7351129363,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,142,9,394,1
 1996-W-C75-TUR-01A-1996,Istanbul 75K,Hard,32,75,19960708,8,200066,5,,Cristina Torrens Valero,R,,ESP,21.8206707734,200742,,,Olga Lugina,U,,UKR,22.4969199179,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,112,12,147,9
-1996-W-C75-TUR-01A-1996,Istanbul 75K,Hard,32,75,19960708,9,201812,,Q,Hiroko Mochizuki,U,,JPN,20.9609856263,200681,7,,Natalia Baudone Furlan,U,,ITA,23.9890485969,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,302,2,106,14
+1996-W-C75-TUR-01A-1996,Istanbul 75K,Hard,32,75,19960708,9,201812,,Q,Hiroko Mochizuki,U,,JPN,20.9609856263,200681,7,,Natalia Baudone,U,,ITA,23.9890485969,6-3 7-6,3,R32,,,,,,,,,,,,,,,,,,,,302,2,106,14
 1996-W-C75-TUR-01A-1996,Istanbul 75K,Hard,32,75,19960708,10,200022,,,Emmanuelle Gagliardi,R,,SUI,19.9972621492,201927,,Q,Ludmilla Varmuza,L,,SMR,17.3661875428,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,156,8,213,5
 1996-W-C75-TUR-01A-1996,Istanbul 75K,Hard,32,75,19960708,11,200071,,,Lenka Nemeckova,R,,CZE,20.2162902122,202104,,Q,Kazue Takuma,U,,JPN,21.9274469541,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,189,6,241,4
 1996-W-C75-TUR-01A-1996,Istanbul 75K,Hard,32,75,19960708,12,200691,4,,Flora Perfetti,U,,ITA,27.4387405886,201860,,,Mariam Ramon Climent,U,,ESP,19.8658453114,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,90,15,174,6
 1996-W-C75-TUR-01A-1996,Istanbul 75K,Hard,32,75,19960708,13,200088,,,Adriana Gersi,R,,CZE,20.0328542094,200040,8,,Anna Smashnova,R,,ISR,19.9780971937,2-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,179,6,125,11
-1996-W-C75-TUR-01A-1996,Istanbul 75K,Hard,32,75,19960708,14,200666,,,Marion Maruska,R,,AUT,23.5619438741,201771,,,Virag Csurgo,U,,HUN,23.6577686516,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,155,8,187,6
+1996-W-C75-TUR-01A-1996,Istanbul 75K,Hard,32,75,19960708,14,200666,,,Marion Maruska,R,,AUT,23.5619438741,201771,,,Virag Csurgo,R,172,HUN,23.6577686516,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,155,8,187,6
 1996-W-C75-TUR-01A-1996,Istanbul 75K,Hard,32,75,19960708,15,201049,,,Denisa Krajcovicova,U,,SVK,27.7207392197,200739,,,Stephanie De Ville,U,,BEL,19.9561943874,6-4 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,195,5,129,10
 1996-W-C75-TUR-01A-1996,Istanbul 75K,Hard,32,75,19960708,16,200745,2,,Andrea Glass,R,,GER,19.9753593429,200607,,,Beate Reinstadler,U,,AUT,29.1362080767,7-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,103,14,224,4
 1996-W-C75-TUR-01A-1996,Istanbul 75K,Hard,32,75,19960708,17,200697,1,,Janette Husarova,R,,SVK,22.0944558522,200687,,,Katarzyna Nowak,U,,POL,27.4825462012,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,95,15,149,8
@@ -905,7 +905,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C25-ESP-04A-1996,Lerida 25K,Clay,32,25,19960930,5,201963,3,,Sofia Prazeres,U,,POR,22.2833675565,201840,,,Germana Di Natale,R,,ITA,22.4969199179,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,198,6,349,2
 1996-W-C25-ESP-04A-1996,Lerida 25K,Clay,32,25,19960930,6,201074,,,Ana Alcazar,U,,ESP,17.3141683778,200751,,,Conchita Martinez Granados,R,,ESP,20.6954140999,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,250,4,290,3
 1996-W-C25-ESP-04A-1996,Lerida 25K,Clay,32,25,19960930,7,201813,,,Patty Van Acker,R,,BEL,19.9425051335,202965,,Q,Cecile De Winne,U,,FRA,19.8412046543,7-6 6-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,274,3,387,1
-1996-W-C25-ESP-04A-1996,Lerida 25K,Clay,32,25,19960930,8,201865,,,Alicia Ortuno,U,,ESP,20.4134154689,201771,5,,Virag Csurgo,U,,HUN,23.8877481177,1-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,285,3,217,5
+1996-W-C25-ESP-04A-1996,Lerida 25K,Clay,32,25,19960930,8,201865,,,Alicia Ortuno,U,,ESP,20.4134154689,201771,5,,Virag Csurgo,R,172,HUN,23.8877481177,1-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,285,3,217,5
 1996-W-C25-ESP-04A-1996,Lerida 25K,Clay,32,25,19960930,9,200100,7,,Amanda Hopmans,R,,NED,20.6351813826,202027,,,Elena Salvador Reja,R,,ESP,17.3798767967,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,270,3,302,2
 1996-W-C25-ESP-04A-1996,Lerida 25K,Clay,32,25,19960930,10,201838,,,Federica Fortuni,U,,ITA,22.0013689254,201333,,,Angelika Roesch,R,,GER,19.3127994524,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,298,2,306,2
 1996-W-C25-ESP-04A-1996,Lerida 25K,Clay,32,25,19960930,11,201072,,,Eva Bes Ostariz,R,,ESP,23.7097878166,201929,,,Laura Pena,U,,ESP,16.9144421629,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,363,2,299,2
@@ -944,7 +944,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C75-FRA-01A-1996,Limoges 75K,Hard,32,75,19960923,13,200717,6,,Anne Miller,R,,USA,19.6769336071,200087,,Q,Seda Noorlander,R,,NED,22.340862423,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,80,18,193,6
 1996-W-C75-FRA-01A-1996,Limoges 75K,Hard,32,75,19960923,14,200042,,,Els Callens,R,,BEL,26.0944558522,200687,,,Katarzyna Nowak,U,,POL,27.6933607118,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,94,16,145,9
 1996-W-C75-FRA-01A-1996,Limoges 75K,Hard,32,75,19960923,15,200724,,,Lea Ghirardi,R,,FRA,22.6173853525,200695,,,Tina Krizan,R,,SLO,22.5188227242,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,152,8,113,12
-1996-W-C75-FRA-01A-1996,Limoges 75K,Hard,32,75,19960923,16,200084,2,,Asa Svensson,R,,SWE,21.273100616,201065,,WC,Virginie Buisson,U,,FRA,27.0937713895,5-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,47,31,196,6
+1996-W-C75-FRA-01A-1996,Limoges 75K,Hard,32,75,19960923,16,200084,2,,Asa Carlsson,R,,SWE,21.273100616,201065,,WC,Virginie Buisson,U,,FRA,27.0937713895,5-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,47,31,196,6
 1996-W-C75-FRA-01A-1996,Limoges 75K,Hard,32,75,19960923,17,200080,1,,Dominique Monami,R,,BEL,23.3155373032,200745,,,Andrea Glass,R,,GER,20.1861738535,3-6 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,41,36,121,11
 1996-W-C75-FRA-01A-1996,Limoges 75K,Hard,32,75,19960923,18,200070,5,,Anne Gaelle Sidot,L,,FRA,17.1690622861,200123,,Q,Marlene Weingartner,R,,GER,16.6488706366,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,74,19,325,2
 1996-W-C75-FRA-01A-1996,Limoges 75K,Hard,32,75,19960923,19,200661,,Q,Samantha Smith,R,,GBR,24.8240930869,200067,3,,Patty Schnyder,L,168,SUI,17.7768651608,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,225,5,58,25
@@ -952,19 +952,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C75-FRA-01A-1996,Limoges 75K,Hard,32,75,19960923,21,200647,,,Noelle Van Lottum,U,,FRA,24.1998631075,200506,,,Wiltrud Probst,R,,GER,27.3210130048,7-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,161,8,136,9
 1996-W-C75-FRA-01A-1996,Limoges 75K,Hard,32,75,19960923,22,200612,,,Natalia Medvedeva,U,,UKR,24.8569472964,200734,,,Tatjana Jecmenica,U,,SRB,18.2231348392,6-4 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,137,9,89,17
 1996-W-C75-FRA-01A-1996,Limoges 75K,Hard,32,75,19960923,23,200042,,,Els Callens,R,,BEL,26.0944558522,200717,6,,Anne Miller,R,,USA,19.6769336071,6-2 7-6,3,R16,,,,,,,,,,,,,,,,,,,,94,16,80,18
-1996-W-C75-FRA-01A-1996,Limoges 75K,Hard,32,75,19960923,24,200084,2,,Asa Svensson,R,,SWE,21.273100616,200724,,,Lea Ghirardi,R,,FRA,22.6173853525,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,47,31,152,8
+1996-W-C75-FRA-01A-1996,Limoges 75K,Hard,32,75,19960923,24,200084,2,,Asa Carlsson,R,,SWE,21.273100616,200724,,,Lea Ghirardi,R,,FRA,22.6173853525,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,47,31,152,8
 1996-W-C75-FRA-01A-1996,Limoges 75K,Hard,32,75,19960923,25,200080,1,,Dominique Monami,R,,BEL,23.3155373032,200070,5,,Anne Gaelle Sidot,L,,FRA,17.1690622861,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,41,36,74,19
 1996-W-C75-FRA-01A-1996,Limoges 75K,Hard,32,75,19960923,26,200661,,Q,Samantha Smith,R,,GBR,24.8240930869,200050,,,Sandra Kleinova,R,,CZE,18.379192334,6-2 3-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,225,5,178,7
 1996-W-C75-FRA-01A-1996,Limoges 75K,Hard,32,75,19960923,27,200612,,,Natalia Medvedeva,U,,UKR,24.8569472964,200647,,,Noelle Van Lottum,U,,FRA,24.1998631075,7-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,137,9,161,8
-1996-W-C75-FRA-01A-1996,Limoges 75K,Hard,32,75,19960923,28,200084,2,,Asa Svensson,R,,SWE,21.273100616,200042,,,Els Callens,R,,BEL,26.0944558522,6-2 7-6,3,QF,,,,,,,,,,,,,,,,,,,,47,31,94,16
+1996-W-C75-FRA-01A-1996,Limoges 75K,Hard,32,75,19960923,28,200084,2,,Asa Carlsson,R,,SWE,21.273100616,200042,,,Els Callens,R,,BEL,26.0944558522,6-2 7-6,3,QF,,,,,,,,,,,,,,,,,,,,47,31,94,16
 1996-W-C75-FRA-01A-1996,Limoges 75K,Hard,32,75,19960923,29,200080,1,,Dominique Monami,R,,BEL,23.3155373032,200661,,Q,Samantha Smith,R,,GBR,24.8240930869,1-6 6-0 6-3,3,SF,,,,,,,,,,,,,,,,,,,,41,36,225,5
-1996-W-C75-FRA-01A-1996,Limoges 75K,Hard,32,75,19960923,30,200084,2,,Asa Svensson,R,,SWE,21.273100616,200612,,,Natalia Medvedeva,U,,UKR,24.8569472964,4-6 6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,47,31,137,9
-1996-W-C75-FRA-01A-1996,Limoges 75K,Hard,32,75,19960923,31,200080,1,,Dominique Monami,R,,BEL,23.3155373032,200084,2,,Asa Svensson,R,,SWE,21.273100616,2-6 7-6 6-1,3,F,,,,,,,,,,,,,,,,,,,,41,36,47,31
+1996-W-C75-FRA-01A-1996,Limoges 75K,Hard,32,75,19960923,30,200084,2,,Asa Carlsson,R,,SWE,21.273100616,200612,,,Natalia Medvedeva,U,,UKR,24.8569472964,4-6 6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,47,31,137,9
+1996-W-C75-FRA-01A-1996,Limoges 75K,Hard,32,75,19960923,31,200080,1,,Dominique Monami,R,,BEL,23.3155373032,200084,2,,Asa Carlsson,R,,SWE,21.273100616,2-6 7-6 6-1,3,F,,,,,,,,,,,,,,,,,,,,41,36,47,31
 1996-W-C50-ARG-01A-1996,Mar Del Plata 50K,Clay,32,50,19960205,1,200098,1,,Henrieta Nagyova,R,,SVK,17.1416837782,200044,,,Denisa Chladkova,R,,CZE,16.9911019849,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,137,10,197,6
 1996-W-C50-ARG-01A-1996,Mar Del Plata 50K,Clay,32,50,19960205,2,201047,,,Andrea Vieira,U,,BRA,24.9993155373,202195,,,Petra Gaspar,U,,HUN,18.9760438056,7-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,184,6,232,4
 1996-W-C50-ARG-01A-1996,Mar Del Plata 50K,Clay,32,50,19960205,3,201269,,,Eleni Rossides,U,,USA,28.2874743326,200640,,,Mercedes Paz,U,,ARG,29.6098562628,6-0 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,243,4,179,7
 1996-W-C50-ARG-01A-1996,Mar Del Plata 50K,Clay,32,50,19960205,4,201852,7,,Paula Hermida Velo,U,,ESP,18.2833675565,200645,,,Maja Zivec Skulj,U,,GER,22.3627652293,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,159,8,233,4
-1996-W-C50-ARG-01A-1996,Mar Del Plata 50K,Clay,32,50,19960205,5,200124,,,Anne Kremer,R,,LUX,20.3039014374,200674,3,,Bettina Fulco Villella,R,,ARG,27.2854209446,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,234,4,144,9
+1996-W-C50-ARG-01A-1996,Mar Del Plata 50K,Clay,32,50,19960205,5,200124,,,Anne Kremer,R,,LUX,20.3039014374,200674,3,,Bettina Fulco,R,,ARG,27.2854209446,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,234,4,144,9
 1996-W-C50-ARG-01A-1996,Mar Del Plata 50K,Clay,32,50,19960205,6,203018,,WC,Laura Montalvo,U,,ARG,19.8548939083,203019,,WC,Maria Julieta Lillo,U,,ARG,17.4373716632,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,269,3,,
 1996-W-C50-ARG-01A-1996,Mar Del Plata 50K,Clay,32,50,19960205,7,200093,,,Amelie Cocheteux,L,,FRA,17.8617385352,202017,,Q,Stephanie Halsell,R,,USA,16.2874743326,6-1 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,219,5,314,2
 1996-W-C50-ARG-01A-1996,Mar Del Plata 50K,Clay,32,50,19960205,8,201860,5,,Mariam Ramon Climent,U,,ESP,19.4442162902,200647,,,Noelle Van Lottum,U,,FRA,23.5674195756,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,156,8,231,4
@@ -998,7 +998,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C50-USA-01A-1996,Midland 50K,Hard,32,50,19960213,5,200624,3,,Tami Whitlinger Jones,U,,USA,27.2498288843,201087,,WC,Mashona Washington,R,,USA,19.704312115,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,56,28,331,2
 1996-W-C50-USA-01A-1996,Midland 50K,Hard,32,50,19960213,6,201197,,Q,Megan Miller,U,,GBR,18.3983572895,200068,,WC,Lilia Osterloh,R,,USA,17.8535249829,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,281,3,,
 1996-W-C50-USA-01A-1996,Midland 50K,Hard,32,50,19960213,7,201850,,,Nino Louarsabishvili,U,,GEO,19.0253251198,200038,,,Annabel Ellwood,R,,AUS,18.0287474333,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,159,8,124,11
-1996-W-C50-USA-01A-1996,Midland 50K,Hard,32,50,19960213,8,200557,8,,Katrina Adams,U,,USA,27.523613963,201273,,,Shannan Mccarthy,U,,USA,25.7385352498,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,133,11,262,3
+1996-W-C50-USA-01A-1996,Midland 50K,Hard,32,50,19960213,8,200557,8,,Katrina Adams,R,165,USA,27.523613963,201273,,,Shannan Mccarthy,U,,USA,25.7385352498,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,133,11,262,3
 1996-W-C50-USA-01A-1996,Midland 50K,Hard,32,50,19960213,9,200583,6,,Laxmi Poruri,U,,USA,23.2607802875,200045,,,Tara Snyder,R,,USA,18.7186858316,2-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,110,14,201,6
 1996-W-C50-USA-01A-1996,Midland 50K,Hard,32,50,19960213,10,200750,,,Karin Miller,R,,USA,18.1765913758,200074,,Q,Jane Chi,R,,USA,21.6481861739,6-7 7-5 7-6,3,R32,,,,,,,,,,,,,,,,,,,,161,8,289,3
 1996-W-C50-USA-01A-1996,Midland 50K,Hard,32,50,19960213,11,200031,,,Meilen Tu,R,,USA,18.0725530459,200091,,,Janet Lee,R,,TPE,19.3100616016,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,146,9,144,9
@@ -1010,7 +1010,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C50-USA-01A-1996,Midland 50K,Hard,32,50,19960213,17,200560,,,Rene Collins,L,,CAN,30.0807665982,200554,1,,Brenda Schultz Mccarthy,R,,NED,25.1279945243,3-6 6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,197,6,13,106
 1996-W-C50-USA-01A-1996,Midland 50K,Hard,32,50,19960213,18,200113,,Q,Anna Kournikova,R,173,RUS,14.6858316222,200012,5,,Jana Nejedly,R,,CAN,21.6810403833,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,298,3,96,15
 1996-W-C50-USA-01A-1996,Midland 50K,Hard,32,50,19960213,19,200624,3,,Tami Whitlinger Jones,U,,USA,27.2498288843,201197,,Q,Megan Miller,U,,GBR,18.3983572895,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,56,28,281,3
-1996-W-C50-USA-01A-1996,Midland 50K,Hard,32,50,19960213,20,201850,,,Nino Louarsabishvili,U,,GEO,19.0253251198,200557,8,,Katrina Adams,U,,USA,27.523613963,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,159,8,133,11
+1996-W-C50-USA-01A-1996,Midland 50K,Hard,32,50,19960213,20,201850,,,Nino Louarsabishvili,U,,GEO,19.0253251198,200557,8,,Katrina Adams,R,165,USA,27.523613963,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,159,8,133,11
 1996-W-C50-USA-01A-1996,Midland 50K,Hard,32,50,19960213,21,200750,,,Karin Miller,R,,USA,18.1765913758,200583,6,,Laxmi Poruri,U,,USA,23.2607802875,7-5 1-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,161,8,110,14
 1996-W-C50-USA-01A-1996,Midland 50K,Hard,32,50,19960213,22,200013,4,,Angelica Gavaldon,R,,MEX,22.3627652293,200031,,,Meilen Tu,R,,USA,18.0725530459,7-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,73,20,146,9
 1996-W-C50-USA-01A-1996,Midland 50K,Hard,32,50,19960213,23,200028,,,Maureen Drake,R,,CAN,24.900752909,201927,,LL,Ludmilla Varmuza,L,,SMR,16.9664613279,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,154,9,327,2
@@ -1092,7 +1092,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C75-ESP-01A-1996,Murcia 75K,Clay,32,75,19960415,6,200695,,,Tina Krizan,R,,SLO,22.0780287474,200027,,Q,Magui Serna,L,,ESP,17.1252566735,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,140,10,357,2
 1996-W-C75-ESP-01A-1996,Murcia 75K,Clay,32,75,19960415,7,200686,,,Sandra Dopfer,U,,AUT,25.8918548939,200691,,,Flora Perfetti,U,,ITA,27.2087611225,4-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,134,10,118,12
 1996-W-C75-ESP-01A-1996,Murcia 75K,Clay,32,75,19960415,8,200647,,Q,Noelle Van Lottum,U,,FRA,23.7590691307,200569,,LL,Petra Pichalova Langrova,U,,TCH,25.8015058179,6-7 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,211,5,148,9
-1996-W-C75-ESP-01A-1996,Murcia 75K,Clay,32,75,19960415,9,200745,,,Andrea Glass,R,,GER,19.7453798768,200681,6,,Natalia Baudone Furlan,U,,ITA,23.7590691307,6-4 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,110,12,95,15
+1996-W-C75-ESP-01A-1996,Murcia 75K,Clay,32,75,19960415,9,200745,,,Andrea Glass,R,,GER,19.7453798768,200681,6,,Natalia Baudone,U,,ITA,23.7590691307,6-4 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,110,12,95,15
 1996-W-C75-ESP-01A-1996,Murcia 75K,Clay,32,75,19960415,10,200657,,,Radka Bobkova,R,,CZE,23.1704312115,201074,,WC,Ana Alcazar,U,,ESP,16.8542094456,6-2 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,123,11,250,4
 1996-W-C75-ESP-01A-1996,Murcia 75K,Clay,32,75,19960415,11,200666,,Q,Marion Maruska,R,,AUT,23.3319644079,200582,,,Maria Strandlund Tomsvik,U,,SWE,26.6611909651,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,190,6,145,10
 1996-W-C75-ESP-01A-1996,Murcia 75K,Clay,32,75,19960415,12,200627,,,Petra Schwarz,U,,AUT,23.8932238193,200587,3,,Silke Meier,U,,GER,27.7563312799,3-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,130,11,73,19
@@ -1553,7 +1553,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C25-GER-05A-1996,Rostock 25K,Clay,32,25,19960722,2,201288,,,Maja Palaversic Cooper Smith,R,,CRO,23.3292265572,201869,,,Radka Pelikanova,U,,CZE,19.3018480493,6-4 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,346,2,278,3
 1996-W-C25-GER-05A-1996,Rostock 25K,Clay,32,25,19960722,3,202246,,,Ines Heise,U,,GER,20.7008898015,202725,,Q,Gabriela Chmelinova,U,,CZE,20.1368925394,6-2 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,296,3,497,1
 1996-W-C25-GER-05A-1996,Rostock 25K,Clay,32,25,19960722,4,200746,6,,Sandra Kloesel,R,,GER,17.0841889117,201740,,Q,Christiane Hofmann,U,,GER,27.6084873374,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,163,8,630,0
-1996-W-C25-GER-05A-1996,Rostock 25K,Clay,32,25,19960722,5,200674,3,,Bettina Fulco Villella,R,,ARG,27.7453798768,202091,,,Olga Ivanova,U,,RUS,19.4633812457,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,139,9,231,4
+1996-W-C25-GER-05A-1996,Rostock 25K,Clay,32,25,19960722,5,200674,3,,Bettina Fulco,R,,ARG,27.7453798768,202091,,,Olga Ivanova,U,,RUS,19.4633812457,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,139,9,231,4
 1996-W-C25-GER-05A-1996,Rostock 25K,Clay,32,25,19960722,6,204585,,Q,Ninel Barkan,U,,ISR,22.674880219,201969,,,Karin Ptaszek,U,,DEN,24.5776865161,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,463,1,357,2
 1996-W-C25-GER-05A-1996,Rostock 25K,Clay,32,25,19960722,7,201354,,,Libuse Prusova,R,,CZE,17.0266940452,201837,,,Sandra Waechtershauser,U,,GER,21.3853524983,7-6 0-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,388,1,256,3
 1996-W-C25-GER-05A-1996,Rostock 25K,Clay,32,25,19960722,8,200744,8,,Svetlana Krivencheva,R,,BUL,22.559890486,200053,,,Lubomira Bacheva,R,,BUL,21.3771389459,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,200,5,225,4
@@ -1567,17 +1567,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C25-GER-05A-1996,Rostock 25K,Clay,32,25,19960722,16,200739,2,,Stephanie De Ville,U,,BEL,19.9945242984,201846,,LL,Katarzyna Teodorowicz Lisowska,U,,POL,23.6468172485,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,111,13,711,0
 1996-W-C25-GER-05A-1996,Rostock 25K,Clay,32,25,19960722,17,201288,,,Maja Palaversic Cooper Smith,R,,CRO,23.3292265572,200044,,,Denisa Chladkova,R,,CZE,17.4510609172,5-7 7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,346,2,183,6
 1996-W-C25-GER-05A-1996,Rostock 25K,Clay,32,25,19960722,18,200746,6,,Sandra Kloesel,R,,GER,17.0841889117,202246,,,Ines Heise,U,,GER,20.7008898015,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,163,8,296,3
-1996-W-C25-GER-05A-1996,Rostock 25K,Clay,32,25,19960722,19,200674,3,,Bettina Fulco Villella,R,,ARG,27.7453798768,204585,,Q,Ninel Barkan,U,,ISR,22.674880219,6-3 4-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,139,9,463,1
+1996-W-C25-GER-05A-1996,Rostock 25K,Clay,32,25,19960722,19,200674,3,,Bettina Fulco,R,,ARG,27.7453798768,204585,,Q,Ninel Barkan,U,,ISR,22.674880219,6-3 4-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,139,9,463,1
 1996-W-C25-GER-05A-1996,Rostock 25K,Clay,32,25,19960722,20,200744,8,,Svetlana Krivencheva,R,,BUL,22.559890486,201354,,,Libuse Prusova,R,,CZE,17.0266940452,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,200,5,388,1
 1996-W-C25-GER-05A-1996,Rostock 25K,Clay,32,25,19960722,21,200672,5,,Barbara Mulej,R,,SLO,22.1492128679,202773,,LL,Magdelena Zdenovcova,U,,CZE,18.1820670773,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,165,8,482,1
 1996-W-C25-GER-05A-1996,Rostock 25K,Clay,32,25,19960722,22,200740,4,,Elena Tatarkova,L,,UKR,19.9151266256,200752,,,Raluca Sandu,R,,ROU,16.4654346338,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,160,8,314,2
 1996-W-C25-GER-05A-1996,Rostock 25K,Clay,32,25,19960722,23,200071,7,,Lenka Nemeckova,R,,CZE,20.2546201232,203856,,,Elisabeth Habeler,U,,AUT,21.6755646817,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,179,6,330,2
 1996-W-C25-GER-05A-1996,Rostock 25K,Clay,32,25,19960722,24,200739,2,,Stephanie De Ville,U,,BEL,19.9945242984,201061,,Q,Eva Martincova,U,,CZE,21.3853524983,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,111,13,362,2
 1996-W-C25-GER-05A-1996,Rostock 25K,Clay,32,25,19960722,25,200746,6,,Sandra Kloesel,R,,GER,17.0841889117,201288,,,Maja Palaversic Cooper Smith,R,,CRO,23.3292265572,1-6 7-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,163,8,346,2
-1996-W-C25-GER-05A-1996,Rostock 25K,Clay,32,25,19960722,26,200674,3,,Bettina Fulco Villella,R,,ARG,27.7453798768,200744,8,,Svetlana Krivencheva,R,,BUL,22.559890486,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,139,9,200,5
+1996-W-C25-GER-05A-1996,Rostock 25K,Clay,32,25,19960722,26,200674,3,,Bettina Fulco,R,,ARG,27.7453798768,200744,8,,Svetlana Krivencheva,R,,BUL,22.559890486,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,139,9,200,5
 1996-W-C25-GER-05A-1996,Rostock 25K,Clay,32,25,19960722,27,200672,5,,Barbara Mulej,R,,SLO,22.1492128679,200740,4,,Elena Tatarkova,L,,UKR,19.9151266256,7-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,165,8,160,8
 1996-W-C25-GER-05A-1996,Rostock 25K,Clay,32,25,19960722,28,200071,7,,Lenka Nemeckova,R,,CZE,20.2546201232,200739,2,,Stephanie De Ville,U,,BEL,19.9945242984,7-6 7-6,3,QF,,,,,,,,,,,,,,,,,,,,179,6,111,13
-1996-W-C25-GER-05A-1996,Rostock 25K,Clay,32,25,19960722,29,200746,6,,Sandra Kloesel,R,,GER,17.0841889117,200674,3,,Bettina Fulco Villella,R,,ARG,27.7453798768,6-4 4-4 RET,3,SF,,,,,,,,,,,,,,,,,,,,163,8,139,9
+1996-W-C25-GER-05A-1996,Rostock 25K,Clay,32,25,19960722,29,200746,6,,Sandra Kloesel,R,,GER,17.0841889117,200674,3,,Bettina Fulco,R,,ARG,27.7453798768,6-4 4-4 RET,3,SF,,,,,,,,,,,,,,,,,,,,163,8,139,9
 1996-W-C25-GER-05A-1996,Rostock 25K,Clay,32,25,19960722,30,200071,7,,Lenka Nemeckova,R,,CZE,20.2546201232,200672,5,,Barbara Mulej,R,,SLO,22.1492128679,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,179,6,165,8
 1996-W-C25-GER-05A-1996,Rostock 25K,Clay,32,25,19960722,31,200746,6,,Sandra Kloesel,R,,GER,17.0841889117,200071,7,,Lenka Nemeckova,R,,CZE,20.2546201232,6-2 7-6,3,F,,,,,,,,,,,,,,,,,,,,163,8,179,6
 1996-W-C25-JPN-01A-1996,Saga 25K,Carpet,32,25,19961028,1,200009,1,,Tamarine Tanasugarn,R,165,THA,19.4305270363,203071,,,Jenny Ann Fetch,U,,AUS,19.189596167,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,118,12,449,1
@@ -1771,7 +1771,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C50-USA-04A-1996,Sedona 50K,Hard,32,50,19961007,3,200640,,,Mercedes Paz,U,,ARG,30.2806297057,200530,,,Radomira Zrubakova,R,,SVK,25.7823408624,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,136,9,122,11
 1996-W-C50-USA-04A-1996,Sedona 50K,Hard,32,50,19961007,4,201278,,Q,Angela Lettiere,U,,USA,24.5092402464,200560,7,,Rene Collins,L,,CAN,30.7296372348,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,352,2,110,12
 1996-W-C50-USA-04A-1996,Sedona 50K,Hard,32,50,19961007,5,200624,3,,Tami Whitlinger Jones,U,,USA,27.8986995209,200115,,WC,Brie Rippner,R,,USA,16.7118412047,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,70,19,458,1
-1996-W-C50-USA-04A-1996,Sedona 50K,Hard,32,50,19961007,6,200024,,,Maria Vento Kabchi,R,,VEN,22.3737166324,200557,,,Katrina Adams,U,,USA,28.1724845996,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,172,7,116,11
+1996-W-C50-USA-04A-1996,Sedona 50K,Hard,32,50,19961007,6,200024,,,Maria Vento Kabchi,R,,VEN,22.3737166324,200557,,,Katrina Adams,R,165,USA,28.1724845996,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,172,7,116,11
 1996-W-C50-USA-04A-1996,Sedona 50K,Hard,32,50,19961007,7,200071,,Q,Lenka Nemeckova,R,,CZE,20.4654346338,200022,,,Emmanuelle Gagliardi,R,,SUI,20.2464065708,5-7 7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,162,8,125,11
 1996-W-C50-USA-04A-1996,Sedona 50K,Hard,32,50,19961007,8,200739,5,,Stephanie De Ville,U,,BEL,20.205338809,200634,,,Elena Brioukhovets,U,,UKR,25.3333333333,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,93,16,219,5
 1996-W-C50-USA-04A-1996,Sedona 50K,Hard,32,50,19961007,9,200745,,,Andrea Glass,R,,GER,20.2245037645,200062,8,,Kristina Brandi,R,168,PUR,19.5263518138,6-4 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,123,11,114,11
@@ -2153,7 +2153,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C25-GER-02A-1996,Vaihingen 25K,Clay,32,25,19960701,13,200087,8,,Seda Noorlander,R,,NED,22.1108829569,202246,,Q,Ines Heise,U,,GER,20.643394935,2-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,178,6,289,3
 1996-W-C25-GER-02A-1996,Vaihingen 25K,Clay,32,25,19960701,14,201963,,,Sofia Prazeres,U,,POR,22.0342231348,201837,,,Sandra Waechtershauser,U,,GER,21.3278576318,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,206,5,252,4
 1996-W-C25-GER-02A-1996,Vaihingen 25K,Clay,32,25,19960701,15,200648,,,Marketa Kochta,U,,GER,20.9664613279,203856,,,Elisabeth Habeler,U,,AUT,21.6180698152,6-2 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,202,5,255,4
-1996-W-C25-GER-02A-1996,Vaihingen 25K,Clay,32,25,19960701,16,200674,2,,Bettina Fulco Villella,R,,ARG,27.6878850103,201865,,,Alicia Ortuno,U,,ESP,20.1642710472,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,135,10,246,4
+1996-W-C25-GER-02A-1996,Vaihingen 25K,Clay,32,25,19960701,16,200674,2,,Bettina Fulco,R,,ARG,27.6878850103,201865,,,Alicia Ortuno,U,,ESP,20.1642710472,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,135,10,246,4
 1996-W-C25-GER-02A-1996,Vaihingen 25K,Clay,32,25,19960701,17,201065,,,Virginie Buisson,U,,FRA,26.8637919233,200645,,,Maja Zivec Skulj,U,,GER,22.765229295,6-2 7-6,3,R16,,,,,,,,,,,,,,,,,,,,216,5,221,5
 1996-W-C25-GER-02A-1996,Vaihingen 25K,Clay,32,25,19960701,18,200746,,,Sandra Kloesel,R,,GER,17.0266940452,200744,,,Svetlana Krivencheva,R,,BUL,22.5023956194,3-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,233,4,232,4
 1996-W-C25-GER-02A-1996,Vaihingen 25K,Clay,32,25,19960701,19,200710,,,Magdalena Feistel,U,,POL,25.8590006845,200672,4,,Barbara Mulej,R,,SLO,22.0917180014,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,225,4,163,7
@@ -2161,7 +2161,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C25-GER-02A-1996,Vaihingen 25K,Clay,32,25,19960701,21,200712,,,Katerina Kroupova,U,,CZE,22.3600273785,200044,,,Denisa Chladkova,R,,CZE,17.3935660507,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,194,5,244,4
 1996-W-C25-GER-02A-1996,Vaihingen 25K,Clay,32,25,19960701,22,201086,,WC,Greta Arn,R,,HUN,17.2183436003,200047,,Q,Pavlina Nola,R,,NZL,21.9657768652,6-3 1-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,704,0,327,2
 1996-W-C25-GER-02A-1996,Vaihingen 25K,Clay,32,25,19960701,23,201963,,,Sofia Prazeres,U,,POR,22.0342231348,200087,8,,Seda Noorlander,R,,NED,22.1108829569,5-7 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,206,5,178,6
-1996-W-C25-GER-02A-1996,Vaihingen 25K,Clay,32,25,19960701,24,200648,,,Marketa Kochta,U,,GER,20.9664613279,200674,2,,Bettina Fulco Villella,R,,ARG,27.6878850103,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,202,5,135,10
+1996-W-C25-GER-02A-1996,Vaihingen 25K,Clay,32,25,19960701,24,200648,,,Marketa Kochta,U,,GER,20.9664613279,200674,2,,Bettina Fulco,R,,ARG,27.6878850103,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,202,5,135,10
 1996-W-C25-GER-02A-1996,Vaihingen 25K,Clay,32,25,19960701,25,200746,,,Sandra Kloesel,R,,GER,17.0266940452,201065,,,Virginie Buisson,U,,FRA,26.8637919233,7-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,233,4,216,5
 1996-W-C25-GER-02A-1996,Vaihingen 25K,Clay,32,25,19960701,26,200710,,,Magdalena Feistel,U,,POL,25.8590006845,200088,,,Adriana Gersi,R,,CZE,20.0136892539,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,225,4,177,6
 1996-W-C25-GER-02A-1996,Vaihingen 25K,Clay,32,25,19960701,27,200712,,,Katerina Kroupova,U,,CZE,22.3600273785,201086,,WC,Greta Arn,R,,HUN,17.2183436003,6-0 6-2,3,QF,,,,,,,,,,,,,,,,,,,,194,5,704,0
@@ -5758,7 +5758,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C10-NED-02A-1996,Heerhugowaard 10K,Clay,32,10,19960701,6,206523,,LL,Manon Savelkouls,U,,NED,20.2108145106,204271,,LL,Biljana Pawlowa Dimitrova,R,,BUL,18.4449007529,5-7 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,753,0,910,0
 1996-W-C10-NED-02A-1996,Heerhugowaard 10K,Clay,32,10,19960701,7,204492,,,Debby Haak,U,,NED,19.3456536619,204191,,,Monika Kratochvilova,U,,CZE,22.340862423,5-7 7-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,526,0,730,0
 1996-W-C10-NED-02A-1996,Heerhugowaard 10K,Clay,32,10,19960701,8,206879,,,Floor Vioen,U,,NED,20.4709103354,203073,5,,Caroline Bodart,U,,BEL,26.5325119781,1-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,719,0,444,1
-1996-W-C10-NED-02A-1996,Heerhugowaard 10K,Clay,32,10,19960701,9,201820,6,,Caroline Wuillot,U,,BEL,24.9993155373,200407,,,Camille Benjamin,U,,USA,30.0807665982,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,448,1,559,0
+1996-W-C10-NED-02A-1996,Heerhugowaard 10K,Clay,32,10,19960701,9,201820,6,,Caroline Wuillot,U,,BEL,24.9993155373,200407,,,Camille Benjamin,L,175,USA,30.0807665982,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,448,1,559,0
 1996-W-C10-NED-02A-1996,Heerhugowaard 10K,Clay,32,10,19960701,10,202965,,,Cecile De Winne,U,,FRA,19.5920602327,206811,,,Marielle Bruens,U,,NED,20.3121149897,7-6 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,498,1,687,0
 1996-W-C10-NED-02A-1996,Heerhugowaard 10K,Clay,32,10,19960701,11,204497,,,Galina Dimitrova,U,,BUL,18.2231348392,203860,,,Heather Bates,U,,GBR,20.8131416838,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,602,0,715,0
 1996-W-C10-NED-02A-1996,Heerhugowaard 10K,Clay,32,10,19960701,12,201831,3,,Sabine Gerke,U,,GER,24.6269678303,206692,,WC,Claudia Reimering,U,,NED,19.0198494182,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,429,1,626,0
@@ -5795,7 +5795,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C10-NED-03A-1996,Amersfoort 10K,Clay,32,10,19960708,12,202194,,,Anna Klim,U,,AUS,20.5886379192,202753,4,,Esme De Villiers,U,,RSA,20.5065023956,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,509,1,444,1
 1996-W-C10-NED-03A-1996,Amersfoort 10K,Clay,32,10,19960708,13,204497,,,Galina Dimitrova,U,,BUL,18.2422997947,207013,7,,Anne Marie Mikkers,U,,NED,23.1540041068,6-1 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,556,0,495,1
 1996-W-C10-NED-03A-1996,Amersfoort 10K,Clay,32,10,19960708,14,206891,,,Sandra Olsen,U,,DEN,21.1471594798,203071,,,Jenny Ann Fetch,U,,AUS,18.8829568789,7-5 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,635,0,523,0
-1996-W-C10-NED-03A-1996,Amersfoort 10K,Clay,32,10,19960708,15,201068,,,Magali Lamarre,U,,FRA,18.3682409309,200407,,,Camille Benjamin,U,,USA,30.0999315537,7-6 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,590,0,583,0
+1996-W-C10-NED-03A-1996,Amersfoort 10K,Clay,32,10,19960708,15,201068,,,Magali Lamarre,U,,FRA,18.3682409309,200407,,,Camille Benjamin,L,175,USA,30.0999315537,7-6 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,590,0,583,0
 1996-W-C10-NED-03A-1996,Amersfoort 10K,Clay,32,10,19960708,16,207501,2,,Dora Djilianova,U,,BUL,20.4845995893,206811,,LL,Marielle Bruens,U,,NED,20.3312799452,7-6 7-6,3,R32,,,,,,,,,,,,,,,,,,,,355,2,688,0
 1996-W-C10-NED-03A-1996,Amersfoort 10K,Clay,32,10,19960708,17,202950,1,,Virginie Massart,U,,FRA,20.2217659138,204504,,Q,Denisa Sobotkova,U,,CZE,17.8151950719,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,344,2,678,0
 1996-W-C10-NED-03A-1996,Amersfoort 10K,Clay,32,10,19960708,18,204492,,,Debby Haak,U,,NED,19.3648186174,202783,,WC,Andrea Van Den Hurk,U,,NED,17.0349075975,7-6 2-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,515,1,,
@@ -6588,7 +6588,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C10-TPE-01A-1996,Taiwan 10K,Hard,32,10,19960527,3,203005,,WC,Stephanie Chi,U,,USA,19.4688569473,204817,,,Ching Li Chen,U,,TPE,21.9438740589,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1996-W-C10-TPE-01A-1996,Taiwan 10K,Hard,32,10,19960527,4,203008,8,,Miyako Ataka,U,,JPN,27.1430527036,204831,,,Hsiung Ching Lin,U,,TPE,15.227926078,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,671,0,,
 1996-W-C10-TPE-01A-1996,Taiwan 10K,Hard,32,10,19960527,5,202232,3,,Yuka Tanaka,U,,JPN,21.7659137577,204830,,,Yu Chun Huang,U,,TPE,19.6577686516,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,431,1,,
-1996-W-C10-TPE-01A-1996,Taiwan 10K,Hard,32,10,19960527,6,201085,,,Shinobu Asagoe,R,,JPN,19.9123887748,204717,,,Lana Scardigno,U,,AUS,18.9048596851,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,951,0,827,0
+1996-W-C10-TPE-01A-1996,Taiwan 10K,Hard,32,10,19960527,6,201085,,,Shinobu Asagoe,R,170,JPN,19.9123887748,204717,,,Lana Scardigno,U,,AUS,18.9048596851,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,951,0,827,0
 1996-W-C10-TPE-01A-1996,Taiwan 10K,Hard,32,10,19960527,7,204825,,Q,Hong Lan Liu,U,,TPE,21.2895277207,204020,,,Masami Nakai,U,,JPN,29.28678987,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,963,0
 1996-W-C10-TPE-01A-1996,Taiwan 10K,Hard,32,10,19960527,8,202103,5,,Keiko Ishida,U,,JPN,23.1485284052,204823,,,Yi Chun Lan,U,,TPE,15.3100616016,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,512,1,,
 1996-W-C10-TPE-01A-1996,Taiwan 10K,Hard,32,10,19960527,9,202201,7,,Kiyoko Yazawa,U,,JPN,23.8001368925,204814,,Q,Pao Hua Huang,U,,TPE,20.5941136208,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,623,0,,
@@ -6601,19 +6601,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C10-TPE-01A-1996,Taiwan 10K,Hard,32,10,19960527,16,202748,2,,Tomoe Hotta,U,,JPN,21.1143052704,203064,,,Hsueh Li Hsu,U,,TPE,19.1348391513,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,430,1,,
 1996-W-C10-TPE-01A-1996,Taiwan 10K,Hard,32,10,19960527,17,202121,1,,Benjamas Sangaram,U,,THA,21.3744010951,204731,,Q,Etsuko Yamada,U,,JPN,17.3716632444,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,334,2,,
 1996-W-C10-TPE-01A-1996,Taiwan 10K,Hard,32,10,19960527,18,203005,,WC,Stephanie Chi,U,,USA,19.4688569473,203008,8,,Miyako Ataka,U,,JPN,27.1430527036,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,671,0
-1996-W-C10-TPE-01A-1996,Taiwan 10K,Hard,32,10,19960527,19,201085,,,Shinobu Asagoe,R,,JPN,19.9123887748,202232,3,,Yuka Tanaka,U,,JPN,21.7659137577,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,951,0,431,1
+1996-W-C10-TPE-01A-1996,Taiwan 10K,Hard,32,10,19960527,19,201085,,,Shinobu Asagoe,R,170,JPN,19.9123887748,202232,3,,Yuka Tanaka,U,,JPN,21.7659137577,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,951,0,431,1
 1996-W-C10-TPE-01A-1996,Taiwan 10K,Hard,32,10,19960527,20,202103,5,,Keiko Ishida,U,,JPN,23.1485284052,204825,,Q,Hong Lan Liu,U,,TPE,21.2895277207,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,512,1,,
 1996-W-C10-TPE-01A-1996,Taiwan 10K,Hard,32,10,19960527,21,202201,7,,Kiyoko Yazawa,U,,JPN,23.8001368925,204815,,,Yi Ching Wu,U,,TPE,19.0800821355,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,623,0,,
 1996-W-C10-TPE-01A-1996,Taiwan 10K,Hard,32,10,19960527,22,202993,,,Sachie Umehara,U,,JPN,17.5003422313,204824,,Q,Chia Yi Wu,U,,TPE,17.6536618754,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,847,0,,
 1996-W-C10-TPE-01A-1996,Taiwan 10K,Hard,32,10,19960527,23,202073,6,,Chin Bee Khoo,U,,MAS,19.0636550308,204472,,,Ya Fang Tsai,U,,TPE,17.5003422313,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,533,0,,
 1996-W-C10-TPE-01A-1996,Taiwan 10K,Hard,32,10,19960527,24,202748,2,,Tomoe Hotta,U,,JPN,21.1143052704,202203,,,Yu Min Fan Chiang,U,,TPE,18.6091718001,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,430,1,,
 1996-W-C10-TPE-01A-1996,Taiwan 10K,Hard,32,10,19960527,25,203005,,WC,Stephanie Chi,U,,USA,19.4688569473,202121,1,,Benjamas Sangaram,U,,THA,21.3744010951,2-6 6-4 7-6,3,QF,,,,,,,,,,,,,,,,,,,,,,334,2
-1996-W-C10-TPE-01A-1996,Taiwan 10K,Hard,32,10,19960527,26,201085,,,Shinobu Asagoe,R,,JPN,19.9123887748,202103,5,,Keiko Ishida,U,,JPN,23.1485284052,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,951,0,512,1
+1996-W-C10-TPE-01A-1996,Taiwan 10K,Hard,32,10,19960527,26,201085,,,Shinobu Asagoe,R,170,JPN,19.9123887748,202103,5,,Keiko Ishida,U,,JPN,23.1485284052,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,951,0,512,1
 1996-W-C10-TPE-01A-1996,Taiwan 10K,Hard,32,10,19960527,27,202201,7,,Kiyoko Yazawa,U,,JPN,23.8001368925,202993,,,Sachie Umehara,U,,JPN,17.5003422313,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,623,0,847,0
 1996-W-C10-TPE-01A-1996,Taiwan 10K,Hard,32,10,19960527,28,202748,2,,Tomoe Hotta,U,,JPN,21.1143052704,202073,6,,Chin Bee Khoo,U,,MAS,19.0636550308,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,430,1,533,0
-1996-W-C10-TPE-01A-1996,Taiwan 10K,Hard,32,10,19960527,29,201085,,,Shinobu Asagoe,R,,JPN,19.9123887748,203005,,WC,Stephanie Chi,U,,USA,19.4688569473,5-7 6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,951,0,,
+1996-W-C10-TPE-01A-1996,Taiwan 10K,Hard,32,10,19960527,29,201085,,,Shinobu Asagoe,R,170,JPN,19.9123887748,203005,,WC,Stephanie Chi,U,,USA,19.4688569473,5-7 6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,951,0,,
 1996-W-C10-TPE-01A-1996,Taiwan 10K,Hard,32,10,19960527,30,202748,2,,Tomoe Hotta,U,,JPN,21.1143052704,202201,7,,Kiyoko Yazawa,U,,JPN,23.8001368925,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,430,1,623,0
-1996-W-C10-TPE-01A-1996,Taiwan 10K,Hard,32,10,19960527,31,201085,,,Shinobu Asagoe,R,,JPN,19.9123887748,202748,2,,Tomoe Hotta,U,,JPN,21.1143052704,6-3 6-0,3,F,,,,,,,,,,,,,,,,,,,,951,0,430,1
+1996-W-C10-TPE-01A-1996,Taiwan 10K,Hard,32,10,19960527,31,201085,,,Shinobu Asagoe,R,170,JPN,19.9123887748,202748,2,,Tomoe Hotta,U,,JPN,21.1143052704,6-3 6-0,3,F,,,,,,,,,,,,,,,,,,,,951,0,430,1
 1996-W-C10-TPE-02A-1996,Taiwan 10K,Clay,32,10,19960603,1,202121,1,,Benjamas Sangaram,U,,THA,21.3935660507,204056,,,Kaori Kuki,U,,JPN,18.5900068446,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,334,2,942,0
 1996-W-C10-TPE-02A-1996,Taiwan 10K,Clay,32,10,19960603,2,204731,,Q,Etsuko Yamada,U,,JPN,17.3908281999,204832,,LL,Yi Wei Chen,U,,TPE,15.1676933607,6-1 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1996-W-C10-TPE-02A-1996,Taiwan 10K,Clay,32,10,19960603,3,204717,,,Lana Scardigno,U,,AUS,18.9240246407,204822,,LL,You Shu Wu,U,,TPE,18.4257357974,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,827,0,,
@@ -6622,7 +6622,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C10-TPE-02A-1996,Taiwan 10K,Clay,32,10,19960603,6,203105,,LL,I Ting Wang,U,,TPE,14.5325119781,204824,,LL,Chia Yi Wu,U,,TPE,17.6728268309,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1996-W-C10-TPE-02A-1996,Taiwan 10K,Clay,32,10,19960603,7,202993,,,Sachie Umehara,U,,JPN,17.5195071869,204829,,LL,Jung Chi Tsai,U,,TPE,16.3148528405,6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,847,0,,
 1996-W-C10-TPE-02A-1996,Taiwan 10K,Clay,32,10,19960603,8,202103,5,,Keiko Ishida,U,,JPN,23.1676933607,204020,,,Masami Nakai,U,,JPN,29.3059548255,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,512,1,963,0
-1996-W-C10-TPE-02A-1996,Taiwan 10K,Clay,32,10,19960603,9,202201,6,,Kiyoko Yazawa,U,,JPN,23.819301848,201085,,,Shinobu Asagoe,R,,JPN,19.9315537303,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,623,0,951,0
+1996-W-C10-TPE-02A-1996,Taiwan 10K,Clay,32,10,19960603,9,202201,6,,Kiyoko Yazawa,U,,JPN,23.819301848,201085,,,Shinobu Asagoe,R,170,JPN,19.9315537303,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,623,0,951,0
 1996-W-C10-TPE-02A-1996,Taiwan 10K,Clay,32,10,19960603,10,203062,,Q,Yu An Chen,U,,TPE,16.090349076,203005,,WC,Stephanie Chi,U,,USA,19.4880219028,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1996-W-C10-TPE-02A-1996,Taiwan 10K,Clay,32,10,19960603,11,204472,,Q,Ya Fang Tsai,U,,TPE,17.5195071869,204817,,LL,Ching Li Chen,U,,TPE,21.9630390144,4-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1996-W-C10-TPE-02A-1996,Taiwan 10K,Clay,32,10,19960603,12,203063,4,,Julie Huang,U,,TPE,18.6611909651,204825,,LL,Hong Lan Liu,U,,TPE,21.3086926762,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,457,1,,
@@ -6866,7 +6866,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C10-USA-03A-1996,El Paso 10K,Hard,32,10,19960527,2,204478,,,Angie Marik,U,,AUS,20.5557837098,202948,,,Elizabeth Schmidt,U,,USA,18.7597535934,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,700,0,814,0
 1996-W-C10-USA-03A-1996,El Paso 10K,Hard,32,10,19960527,3,201746,,,Amanda Basica,U,,USA,17.9356605065,204120,,,Mugette Ahn,U,,USA,15.0910335387,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,662,0,,
 1996-W-C10-USA-03A-1996,El Paso 10K,Hard,32,10,19960527,4,202016,,,Pam Nelson,U,,USA,20.9062286105,202080,6,,Danielle Scott,U,,USA,26.1820670773,6-3 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,446,1
-1996-W-C10-USA-03A-1996,El Paso 10K,Hard,32,10,19960527,5,200649,,,Ginger Helgeson Nielsen,R,,USA,27.6988364134,203918,4,,Kristine Kurth,U,,USA,23.9260780287,6-3 7-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,889,0,428,1
+1996-W-C10-USA-03A-1996,El Paso 10K,Hard,32,10,19960527,5,200649,,,Ginger Helgeson,R,,USA,27.6988364134,203918,4,,Kristine Kurth,U,,USA,23.9260780287,6-3 7-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,889,0,428,1
 1996-W-C10-USA-03A-1996,El Paso 10K,Hard,32,10,19960527,6,207777,,,Violette Ahn,U,,USA,16.6652977413,202980,,,Keirsten Alley,U,,USA,22.6913073238,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,762,0
 1996-W-C10-USA-03A-1996,El Paso 10K,Hard,32,10,19960527,7,203072,,,Jennifer Poulos,U,,USA,22.4120465435,200514,,,Monique Javer,R,,GBR,28.848733744,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,664,0,667,0
 1996-W-C10-USA-03A-1996,El Paso 10K,Hard,32,10,19960527,8,201921,8,,Martina Nejedly,U,,CAN,21.0047912389,204569,,,Kristen Sanderson,U,,USA,19.0253251198,7-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,496,1,622,0
@@ -6880,14 +6880,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C10-USA-03A-1996,El Paso 10K,Hard,32,10,19960527,16,202017,2,,Stephanie Halsell,R,,USA,16.5941136208,204791,,,Andreea Petrisor,U,,ROU,18.0013689254,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,318,2,511,1
 1996-W-C10-USA-03A-1996,El Paso 10K,Hard,32,10,19960527,17,200563,1,,Jane Taylor,U,,AUS,23.5509924709,204478,,,Angie Marik,U,,AUS,20.5557837098,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,297,3,700,0
 1996-W-C10-USA-03A-1996,El Paso 10K,Hard,32,10,19960527,18,202016,,,Pam Nelson,U,,USA,20.9062286105,201746,,,Amanda Basica,U,,USA,17.9356605065,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,662,0
-1996-W-C10-USA-03A-1996,El Paso 10K,Hard,32,10,19960527,19,200649,,,Ginger Helgeson Nielsen,R,,USA,27.6988364134,207777,,,Violette Ahn,U,,USA,16.6652977413,6-7 7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,889,0,,
+1996-W-C10-USA-03A-1996,El Paso 10K,Hard,32,10,19960527,19,200649,,,Ginger Helgeson,R,,USA,27.6988364134,207777,,,Violette Ahn,U,,USA,16.6652977413,6-7 7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,889,0,,
 1996-W-C10-USA-03A-1996,El Paso 10K,Hard,32,10,19960527,20,201921,8,,Martina Nejedly,U,,CAN,21.0047912389,203072,,,Jennifer Poulos,U,,USA,22.4120465435,6-7 7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,496,1,664,0
 1996-W-C10-USA-03A-1996,El Paso 10K,Hard,32,10,19960527,21,201920,5,,Renata Kolbovic,R,,CAN,19.8247775496,204742,,LL,Briana Harris,U,,USA,17.4318959617,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,445,1,1047,0
 1996-W-C10-USA-03A-1996,El Paso 10K,Hard,32,10,19960527,22,207778,,,Lisa Pugliese,U,,USA,22.2614647502,201925,3,,Erica Adams,U,,USA,26.8637919233,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,361,2
 1996-W-C10-USA-03A-1996,El Paso 10K,Hard,32,10,19960527,23,201277,7,,Anne Mall,U,,IRL,21.4620123203,202306,,LL,Diana Ospina,U,,USA,16.8980150582,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,454,1,,
 1996-W-C10-USA-03A-1996,El Paso 10K,Hard,32,10,19960527,24,202017,2,,Stephanie Halsell,R,,USA,16.5941136208,207771,,WC,Lauren Rose,U,,USA,18.1984941821,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,318,2,,
 1996-W-C10-USA-03A-1996,El Paso 10K,Hard,32,10,19960527,25,200563,1,,Jane Taylor,U,,AUS,23.5509924709,202016,,,Pam Nelson,U,,USA,20.9062286105,2-6 7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,297,3,,
-1996-W-C10-USA-03A-1996,El Paso 10K,Hard,32,10,19960527,26,201921,8,,Martina Nejedly,U,,CAN,21.0047912389,200649,,,Ginger Helgeson Nielsen,R,,USA,27.6988364134,4-2 RET,3,QF,,,,,,,,,,,,,,,,,,,,496,1,889,0
+1996-W-C10-USA-03A-1996,El Paso 10K,Hard,32,10,19960527,26,201921,8,,Martina Nejedly,U,,CAN,21.0047912389,200649,,,Ginger Helgeson,R,,USA,27.6988364134,4-2 RET,3,QF,,,,,,,,,,,,,,,,,,,,496,1,889,0
 1996-W-C10-USA-03A-1996,El Paso 10K,Hard,32,10,19960527,27,201920,5,,Renata Kolbovic,R,,CAN,19.8247775496,207778,,,Lisa Pugliese,U,,USA,22.2614647502,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,445,1,,
 1996-W-C10-USA-03A-1996,El Paso 10K,Hard,32,10,19960527,28,201277,7,,Anne Mall,U,,IRL,21.4620123203,202017,2,,Stephanie Halsell,R,,USA,16.5941136208,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,454,1,318,2
 1996-W-C10-USA-03A-1996,El Paso 10K,Hard,32,10,19960527,29,200563,1,,Jane Taylor,U,,AUS,23.5509924709,201921,8,,Martina Nejedly,U,,CAN,21.0047912389,3-6 6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,297,3,496,1
@@ -6963,7 +6963,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C10-USA-07A-1996,Williamsburg 10K,Hard,32,10,19960701,6,203970,,,Eva Januskova,U,,CAN,18.0971937029,207793,,WC,Johanna Sones,U,,USA,21.1225188227,7-5 7-6,3,R32,,,,,,,,,,,,,,,,,,,,829,0,,
 1996-W-C10-USA-07A-1996,Williamsburg 10K,Hard,32,10,19960701,7,202980,,LL,Keirsten Alley,U,,USA,22.7871321013,203015,,LL,Amanda Augustus,L,,USA,18.4476386037,1-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,736,0,,
 1996-W-C10-USA-07A-1996,Williamsburg 10K,Hard,32,10,19960701,8,202134,,Q,Katie Schlukebir,U,,USA,21.1745379877,203063,7,,Julie Huang,U,,TPE,18.7378507871,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,445,1
-1996-W-C10-USA-07A-1996,Williamsburg 10K,Hard,32,10,19960701,9,200029,5,,Lisa Mcshea,R,,AUS,21.6728268309,201085,,LL,Shinobu Asagoe,R,,JPN,20.0082135524,6-3 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,367,2,621,0
+1996-W-C10-USA-07A-1996,Williamsburg 10K,Hard,32,10,19960701,9,200029,5,,Lisa Mcshea,R,,AUS,21.6728268309,201085,,LL,Shinobu Asagoe,R,170,JPN,20.0082135524,6-3 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,367,2,621,0
 1996-W-C10-USA-07A-1996,Williamsburg 10K,Hard,32,10,19960701,10,203899,,LL,Melissa Zimpfer,U,,USA,22.2477754962,207786,,,Callie Creighton,U,,USA,18.9733059548,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,576,0
 1996-W-C10-USA-07A-1996,Williamsburg 10K,Hard,32,10,19960701,11,204475,,Q,Kylie Hunt,U,,AUS,20.8459958932,204119,,,Kristen Radford,U,,USA,17.7467488022,7-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,679,0
 1996-W-C10-USA-07A-1996,Williamsburg 10K,Hard,32,10,19960701,12,202017,4,,Stephanie Halsell,R,,USA,16.6899383984,207769,,,Claire Sessions Bailey,U,,USA,26.0971937029,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,295,3,623,0
@@ -7001,7 +7001,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-C10-USA-08A-1996,Easton 10K,Hard,32,10,19960708,13,200029,8,,Lisa Mcshea,R,,AUS,21.6919917864,204064,,Q,Polina Ordanskaya,U,,RUS,15.8275154004,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,315,2,873,0
 1996-W-C10-USA-08A-1996,Easton 10K,Hard,32,10,19960708,14,207786,,,Callie Creighton,U,,USA,18.9924709103,204761,,,Rurika Maruse,U,,JPN,20.2929500342,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,604,0,610,0
 1996-W-C10-USA-08A-1996,Easton 10K,Hard,32,10,19960708,15,206779,,,Jennifer Hall,U,,USA,19.4661190965,207778,,Q,Lisa Pugliese,U,,USA,22.3764544832,4-6 6-2 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-1996-W-C10-USA-08A-1996,Easton 10K,Hard,32,10,19960708,16,200733,2,,Trudi Musgrave,U,,AUS,18.8254620123,201085,,,Shinobu Asagoe,R,,JPN,20.0273785079,7-5 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,271,3,616,0
+1996-W-C10-USA-08A-1996,Easton 10K,Hard,32,10,19960708,16,200733,2,,Trudi Musgrave,U,,AUS,18.8254620123,201085,,,Shinobu Asagoe,R,170,JPN,20.0273785079,7-5 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,271,3,616,0
 1996-W-C10-USA-08A-1996,Easton 10K,Hard,32,10,19960708,17,203077,,,Krissy Hamilton Heinberg,U,,USA,16.5749486653,207769,,,Claire Sessions Bailey,U,,USA,26.1163586585,6-3 1-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,741,0,629,0
 1996-W-C10-USA-08A-1996,Easton 10K,Hard,32,10,19960708,18,202979,,,Aurora Gima,U,,USA,21.6673511294,200731,,,Gail Biggs,U,,AUS,25.8699520876,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,633,0,386,1
 1996-W-C10-USA-08A-1996,Easton 10K,Hard,32,10,19960708,19,201273,4,,Shannan Mccarthy,U,,USA,26.1382614648,202982,,,Ingrid Kurta,U,,USA,23.099247091,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,293,3,700,0
@@ -7068,7 +7068,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-SL-AUS-01A-1996,Australian Open,Hard,128,G,19960115,18,203655,,WC,Shannon Peters,U,,AUS,26.688569473,201838,,,Federica Fortuni,U,,ITA,21.2922655715,7-5 7-6(2),3,Q1,,,,,,,,,,,,,,,,,,,,390,1,198,6
 1996-W-SL-AUS-01A-1996,Australian Open,Hard,128,G,19960115,19,200109,,,Nathalie Dechy,R,177,FRA,16.8980150582,200087,,,Seda Noorlander,R,,NED,21.6509240246,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,248,4,169,8
 1996-W-SL-AUS-01A-1996,Australian Open,Hard,128,G,19960115,20,200675,16,,Eugenia Maniokova,R,,RUS,27.6632443532,202981,,WC,Melissa Beadman,U,,AUS,20.462696783,6-4 3-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,152,9,370,2
-1996-W-SL-AUS-01A-1996,Australian Open,Hard,128,G,19960115,21,201771,,,Virag Csurgo,U,,HUN,23.1786447639,200480,11,,Claudia Porwik,U,,GER,27.1676933607,2-6 7-6(5) 8-6,3,Q1,,,,,,,,,,,,,,,,,,,,180,7,139,10
+1996-W-SL-AUS-01A-1996,Australian Open,Hard,128,G,19960115,21,201771,,,Virag Csurgo,R,172,HUN,23.1786447639,200480,11,,Claudia Porwik,U,,GER,27.1676933607,2-6 7-6(5) 8-6,3,Q1,,,,,,,,,,,,,,,,,,,,180,7,139,10
 1996-W-SL-AUS-01A-1996,Australian Open,Hard,128,G,19960115,22,200542,,,Clare Wood,R,,GBR,27.8548939083,202169,,,Christine Neuman,U,,USA,23.5044490075,7-6(4) 3-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,179,7,209,5
 1996-W-SL-AUS-01A-1996,Australian Open,Hard,128,G,19960115,23,200029,,WC,Lisa Mcshea,R,,AUS,21.2128678987,200593,,,Karine Quentrec,U,,FRA,26.2340862423,6-3 7-6(3),3,Q1,,,,,,,,,,,,,,,,,,,,,,235,4
 1996-W-SL-AUS-01A-1996,Australian Open,Hard,128,G,19960115,24,201865,,,Alicia Ortuno,U,,ESP,19.704312115,200569,4,,Petra Pichalova Langrova,U,,TCH,25.5523613963,5-7 7-5 9-7,3,Q1,,,,,,,,,,,,,,,,,,,,251,4,129,11
@@ -7090,7 +7090,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-SL-AUS-01A-1996,Australian Open,Hard,128,G,19960115,40,200560,,,Rene Collins,L,,CAN,30.0013689254,200045,,,Tara Snyder,R,,USA,18.6392881588,4-6 6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,200,6,212,5
 1996-W-SL-AUS-01A-1996,Australian Open,Hard,128,G,19960115,41,200583,8,,Laxmi Poruri,U,,USA,23.1813826146,203655,,WC,Shannon Peters,U,,AUS,26.688569473,6-0 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,140,10,390,1
 1996-W-SL-AUS-01A-1996,Australian Open,Hard,128,G,19960115,42,200109,,,Nathalie Dechy,R,177,FRA,16.8980150582,200675,16,,Eugenia Maniokova,R,,RUS,27.6632443532,2-6 6-2 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,248,4,152,9
-1996-W-SL-AUS-01A-1996,Australian Open,Hard,128,G,19960115,43,200542,,,Clare Wood,R,,GBR,27.8548939083,201771,,,Virag Csurgo,U,,HUN,23.1786447639,6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,179,7,180,7
+1996-W-SL-AUS-01A-1996,Australian Open,Hard,128,G,19960115,43,200542,,,Clare Wood,R,,GBR,27.8548939083,201771,,,Virag Csurgo,R,172,HUN,23.1786447639,6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,179,7,180,7
 1996-W-SL-AUS-01A-1996,Australian Open,Hard,128,G,19960115,44,200029,,WC,Lisa Mcshea,R,,AUS,21.2128678987,201865,,,Alicia Ortuno,U,,ESP,19.704312115,6-1 7-6(2),3,Q2,,,,,,,,,,,,,,,,,,,,,,251,4
 1996-W-SL-AUS-01A-1996,Australian Open,Hard,128,G,19960115,45,200642,6,,Denisa Szabova,U,,SVK,27.1567419576,200737,,,Aleksandra Olsza,U,,POL,18.1026694045,7-5 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,,,181,7
 1996-W-SL-AUS-01A-1996,Australian Open,Hard,128,G,19960115,46,200021,10,,Alexia Dechaume Balleret,R,,FRA,25.7029431896,200662,,WC,Joanne Limmer,U,,AUS,21.7987679671,6-2 1-6 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,126,12,667,0
@@ -7104,62 +7104,62 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-SL-AUS-01A-1996,Australian Open,Hard,128,G,19960115,54,200542,,,Clare Wood,R,,GBR,27.8548939083,200029,,WC,Lisa Mcshea,R,,AUS,21.2128678987,6-4 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,179,7,,
 1996-W-SL-AUS-01A-1996,Australian Open,Hard,128,G,19960115,55,200021,10,,Alexia Dechaume Balleret,R,,FRA,25.7029431896,200642,6,,Denisa Szabova,U,,SVK,27.1567419576,6-4 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,126,12,,
 1996-W-SL-AUS-01A-1996,Australian Open,Hard,128,G,19960115,56,200099,,,Sonya Jeyaseelan,R,,CAN,19.7262149213,200088,,,Adriana Gersi,R,,CZE,19.5537303217,6-0 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,176,7,213,5
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,1,200678,1,,Gloria Pizzichini,R,,ITA,20.8432580424,200091,,,Janet Lee,R,,TPE,19.5947980835,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,66,23,167,7
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,2,200638,,,Stephanie Rottier,U,,NED,22.3436002738,202169,,,Christine Neuman,U,,USA,23.8685831622,6-4 7-6(4),3,Q1,,,,,,,,,,,,,,,,,,,,273,3,176,6
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,3,200124,,,Anne Kremer,R,,LUX,20.6105407255,201852,,,Paula Hermida Velo,U,,ESP,18.5900068446,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,157,8,159,8
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,4,200691,10,,Flora Perfetti,U,,ITA,27.3237508556,203810,,WC,Isabelle Taesch,U,,FRA,18.0999315537,6-3 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,124,12,763,0
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,5,200725,12,,Sandra Cecchini,U,,ITA,31.2443531828,200582,,,Maria Strandlund Tomsvik,U,,SWE,26.7761806982,7-5 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,127,12,160,7
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,6,201065,,,Virginie Buisson,U,,FRA,26.7679671458,200038,,,Annabel Ellwood,R,,AUS,18.3134839151,7-6(3) 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,182,6,141,10
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,7,200713,,,Yuka Yoshida,R,,JPN,20.1533196441,200695,,,Tina Krizan,R,,SLO,22.1930184805,4-6 6-3 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,170,7,154,8
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,8,203811,,,Li Chen,U,,CHN,18.7816563997,200125,7,,Corina Morariu,R,,USA,18.3326488706,4-6 6-4 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,,,112,13
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,9,200722,4,,Francesca Lubiani,L,,ITA,18.8747433265,200063,,,Tatiana Panova,R,,RUS,19.7864476386,6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,103,14,231,4
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,10,200742,,,Olga Lugina,U,,UKR,22.3819301848,200036,,,Nicole Pratt,R,,AUS,23.227926078,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,151,8,187,6
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,11,201071,,WC,Segolene Berger,U,,FRA,18.173853525,202788,,WC,Kildine Chevalier,R,,FRA,15.9069130732,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,382,1,569,0
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,12,200640,,,Mercedes Paz,U,,ARG,29.916495551,200031,13,,Meilen Tu,R,,USA,18.3572895277,6-4 4-1 RET,3,Q1,,,,,,,,,,,,,,,,,,,,198,5,128,11
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,13,200057,15,,Erika De Lone,R,,USA,23.6167008898,200542,,,Clare Wood,R,,GBR,28.219028063,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,133,11,190,6
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,14,200666,,,Marion Maruska,R,,AUT,23.446954141,200099,,,Sonya Jeyaseelan,R,,CAN,20.090349076,4-6 6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,164,7,148,9
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,15,200737,,,Aleksandra Olsza,U,,POL,18.4668035592,200647,,,Noelle Van Lottum,U,,FRA,23.8740588638,7-5 2-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,146,9,180,6
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,16,200061,5,,Gala Leon Garcia,L,,ESP,22.4257357974,200560,,,Rene Collins,L,,CAN,30.3655030801,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,107,14,150,8
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,17,200012,8,,Jana Nejedly,R,,CAN,21.9657768652,200648,,,Marketa Kochta,U,,GER,20.8706365503,6-3 3-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,118,12,202,5
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,18,200669,,,Debbie Graham,R,,USA,25.7549623546,201069,,WC,Karolina Jagieniak,U,,FRA,16.9801505818,6-3 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,233,4,322,2
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,19,201062,,WC,Amelie Castera,L,,FRA,18.1327857632,200071,,,Lenka Nemeckova,R,,CZE,20.1013004791,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,387,1,193,6
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,20,200663,11,,Nanne Dahlman,U,,FIN,25.7193702943,201049,,,Denisa Krajcovicova,U,,SVK,27.6057494867,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,126,12,175,6
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,21,200050,9,,Sandra Kleinova,R,,CZE,18.0533880903,200711,,,Tatiana Ignatieva,U,,BLR,21.9603011636,2-6 6-4 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,121,12,265,3
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,22,200735,,A,Miho Saeki,R,,JPN,20.1916495551,200696,,,Christina Papadaki,R,,GRE,23.2525667351,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,203,5,161,7
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,23,202156,,,Gabriella Boschiero,U,,ITA,24.3696098563,200583,,,Laxmi Poruri,U,,USA,23.5455167693,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,240,4,140,10
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,24,200106,3,,Angeles Montolio,R,,ESP,20.8076659822,200740,,,Elena Tatarkova,L,,UKR,19.7618069815,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,108,14,166,7
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,25,200720,6,,Dally Randriantefy,R,,MAD,19.2553045859,200626,,,Emanuela Zardo,U,,SUI,26.0917180014,4-6 7-5 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,113,13,145,9
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,26,200506,,,Wiltrud Probst,R,,GER,26.9952087611,201860,,,Mariam Ramon Climent,U,,ESP,19.7508555784,7-6(7) 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,147,9,162,7
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,27,200569,,,Petra Pichalova Langrova,U,,TCH,25.916495551,200028,,,Maureen Drake,R,,CAN,25.1854893908,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,205,5,158,8
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,28,200062,,,Kristina Brandi,R,168,PUR,19.1622176591,200627,14,,Petra Schwarz,U,,AUT,24.0082135524,7-5 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,149,9,132,11
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,29,200105,16,,Rachel Mcquillan,U,,AUS,24.4845995893,200593,,WC,Karine Quentrec,U,,FRA,26.598220397,6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,136,10,219,5
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,30,200455,,WC,Katerina Maleeva,U,,BUL,27.0554414784,201727,,,Silvia Ramon Cortes,U,,ESP,23.7973990418,7-6(5) 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,228,4,204,5
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,31,201771,,,Virag Csurgo,U,,HUN,23.5427789185,202950,,WC,Virginie Massart,U,,FRA,20.1067761807,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,178,6,290,3
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,32,200728,2,,Melanie Schnell,R,,AUT,19.2580424367,201627,,,Kim De Weille,U,,NED,20.1232032854,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,96,15,186,6
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,33,200678,1,,Gloria Pizzichini,R,,ITA,20.8432580424,200638,,,Stephanie Rottier,U,,NED,22.3436002738,7-5 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,66,23,273,3
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,34,200691,10,,Flora Perfetti,U,,ITA,27.3237508556,200124,,,Anne Kremer,R,,LUX,20.6105407255,2-6 6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,124,12,157,8
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,35,200725,12,,Sandra Cecchini,U,,ITA,31.2443531828,201065,,,Virginie Buisson,U,,FRA,26.7679671458,7-5 4-6 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,127,12,182,6
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,36,200713,,,Yuka Yoshida,R,,JPN,20.1533196441,203811,,,Li Chen,U,,CHN,18.7816563997,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,170,7,,
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,37,200722,4,,Francesca Lubiani,L,,ITA,18.8747433265,200742,,,Olga Lugina,U,,UKR,22.3819301848,6-2 4-6 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,103,14,151,8
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,38,200640,,,Mercedes Paz,U,,ARG,29.916495551,201071,,WC,Segolene Berger,U,,FRA,18.173853525,6-2 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,198,5,382,1
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,39,200666,,,Marion Maruska,R,,AUT,23.446954141,200057,15,,Erika De Lone,R,,USA,23.6167008898,7-6(3) 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,164,7,133,11
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,40,200061,5,,Gala Leon Garcia,L,,ESP,22.4257357974,200737,,,Aleksandra Olsza,U,,POL,18.4668035592,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,107,14,146,9
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,41,200012,8,,Jana Nejedly,R,,CAN,21.9657768652,200669,,,Debbie Graham,R,,USA,25.7549623546,6-4 2-6 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,118,12,233,4
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,42,200663,11,,Nanne Dahlman,U,,FIN,25.7193702943,201062,,WC,Amelie Castera,L,,FRA,18.1327857632,6-2 7-6(6),3,Q2,,,,,,,,,,,,,,,,,,,,126,12,387,1
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,43,200735,,A,Miho Saeki,R,,JPN,20.1916495551,200050,9,,Sandra Kleinova,R,,CZE,18.0533880903,6-3 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,203,5,121,12
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,44,200106,3,,Angeles Montolio,R,,ESP,20.8076659822,202156,,,Gabriella Boschiero,U,,ITA,24.3696098563,7-6(2) 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,108,14,240,4
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,45,200720,6,,Dally Randriantefy,R,,MAD,19.2553045859,200506,,,Wiltrud Probst,R,,GER,26.9952087611,6-3 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,113,13,147,9
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,46,200569,,,Petra Pichalova Langrova,U,,TCH,25.916495551,200062,,,Kristina Brandi,R,168,PUR,19.1622176591,6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,205,5,149,9
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,47,200105,16,,Rachel Mcquillan,U,,AUS,24.4845995893,200455,,WC,Katerina Maleeva,U,,BUL,27.0554414784,6-1 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,136,10,228,4
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,48,200728,2,,Melanie Schnell,R,,AUT,19.2580424367,201771,,,Virag Csurgo,U,,HUN,23.5427789185,6-7(0) 6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,96,15,178,6
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,49,200691,10,,Flora Perfetti,U,,ITA,27.3237508556,200678,1,,Gloria Pizzichini,R,,ITA,20.8432580424,7-5 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,124,12,66,23
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,50,200725,12,,Sandra Cecchini,U,,ITA,31.2443531828,200713,,,Yuka Yoshida,R,,JPN,20.1533196441,4-6 6-1 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,127,12,170,7
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,51,200722,4,,Francesca Lubiani,L,,ITA,18.8747433265,200640,,,Mercedes Paz,U,,ARG,29.916495551,6-4 7-5,3,Q3,,,,,,,,,,,,,,,,,,,,103,14,198,5
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,52,200061,5,,Gala Leon Garcia,L,,ESP,22.4257357974,200666,,,Marion Maruska,R,,AUT,23.446954141,6-3 7-5,3,Q3,,,,,,,,,,,,,,,,,,,,107,14,164,7
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,53,200012,8,,Jana Nejedly,R,,CAN,21.9657768652,200663,11,,Nanne Dahlman,U,,FIN,25.7193702943,7-6(4) 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,118,12,126,12
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,54,200106,3,,Angeles Montolio,R,,ESP,20.8076659822,200735,,A,Miho Saeki,R,,JPN,20.1916495551,7-6(10) 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,108,14,203,5
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,55,200569,,,Petra Pichalova Langrova,U,,TCH,25.916495551,200720,6,,Dally Randriantefy,R,,MAD,19.2553045859,6-4 7-6(5),3,Q3,,,,,,,,,,,,,,,,,,,,205,5,113,13
-1996-W-SL-FRA-01A-1996,French Open,Clay,128,G,19960527,56,200105,16,,Rachel Mcquillan,U,,AUS,24.4845995893,200728,2,,Melanie Schnell,R,,AUT,19.2580424367,6-4 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,136,10,96,15
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,1,200678,1,,Gloria Pizzichini,R,,ITA,20.8432580424,200091,,,Janet Lee,R,,TPE,19.5947980835,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,66,23,167,7
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,2,200638,,,Stephanie Rottier,U,,NED,22.3436002738,202169,,,Christine Neuman,U,,USA,23.8685831622,6-4 7-6(4),3,Q1,,,,,,,,,,,,,,,,,,,,273,3,176,6
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,3,200124,,,Anne Kremer,R,,LUX,20.6105407255,201852,,,Paula Hermida Velo,U,,ESP,18.5900068446,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,157,8,159,8
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,4,200691,10,,Flora Perfetti,U,,ITA,27.3237508556,203810,,WC,Isabelle Taesch,U,,FRA,18.0999315537,6-3 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,124,12,763,0
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,5,200725,12,,Sandra Cecchini,U,,ITA,31.2443531828,200582,,,Maria Strandlund Tomsvik,U,,SWE,26.7761806982,7-5 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,127,12,160,7
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,6,201065,,,Virginie Buisson,U,,FRA,26.7679671458,200038,,,Annabel Ellwood,R,,AUS,18.3134839151,7-6(3) 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,182,6,141,10
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,7,200713,,,Yuka Yoshida,R,,JPN,20.1533196441,200695,,,Tina Krizan,R,,SLO,22.1930184805,4-6 6-3 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,170,7,154,8
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,8,203811,,,Li Chen,U,,CHN,18.7816563997,200125,7,,Corina Morariu,R,,USA,18.3326488706,4-6 6-4 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,,,112,13
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,9,200722,4,,Francesca Lubiani,L,,ITA,18.8747433265,200063,,,Tatiana Panova,R,,RUS,19.7864476386,6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,103,14,231,4
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,10,200742,,,Olga Lugina,U,,UKR,22.3819301848,200036,,,Nicole Pratt,R,,AUS,23.227926078,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,151,8,187,6
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,11,201071,,WC,Segolene Berger,U,,FRA,18.173853525,202788,,WC,Kildine Chevalier,R,,FRA,15.9069130732,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,382,1,569,0
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,12,200640,,,Mercedes Paz,U,,ARG,29.916495551,200031,13,,Meilen Tu,R,,USA,18.3572895277,6-4 4-1 RET,3,Q1,,,,,,,,,,,,,,,,,,,,198,5,128,11
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,13,200057,15,,Erika De Lone,R,,USA,23.6167008898,200542,,,Clare Wood,R,,GBR,28.219028063,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,133,11,190,6
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,14,200666,,,Marion Maruska,R,,AUT,23.446954141,200099,,,Sonya Jeyaseelan,R,,CAN,20.090349076,4-6 6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,164,7,148,9
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,15,200737,,,Aleksandra Olsza,U,,POL,18.4668035592,200647,,,Noelle Van Lottum,U,,FRA,23.8740588638,7-5 2-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,146,9,180,6
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,16,200061,5,,Gala Leon Garcia,L,,ESP,22.4257357974,200560,,,Rene Collins,L,,CAN,30.3655030801,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,107,14,150,8
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,17,200012,8,,Jana Nejedly,R,,CAN,21.9657768652,200648,,,Marketa Kochta,U,,GER,20.8706365503,6-3 3-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,118,12,202,5
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,18,200669,,,Debbie Graham,R,,USA,25.7549623546,201069,,WC,Karolina Jagieniak,U,,FRA,16.9801505818,6-3 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,233,4,322,2
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,19,201062,,WC,Amelie Castera,L,,FRA,18.1327857632,200071,,,Lenka Nemeckova,R,,CZE,20.1013004791,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,387,1,193,6
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,20,200663,11,,Nanne Dahlman,U,,FIN,25.7193702943,201049,,,Denisa Krajcovicova,U,,SVK,27.6057494867,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,126,12,175,6
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,21,200050,9,,Sandra Kleinova,R,,CZE,18.0533880903,200711,,,Tatiana Ignatieva,U,,BLR,21.9603011636,2-6 6-4 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,121,12,265,3
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,22,200735,,A,Miho Saeki,R,,JPN,20.1916495551,200696,,,Christina Papadaki,R,,GRE,23.2525667351,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,203,5,161,7
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,23,202156,,,Gabriella Boschiero,U,,ITA,24.3696098563,200583,,,Laxmi Poruri,U,,USA,23.5455167693,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,240,4,140,10
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,24,200106,3,,Angeles Montolio,R,,ESP,20.8076659822,200740,,,Elena Tatarkova,L,,UKR,19.7618069815,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,108,14,166,7
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,25,200720,6,,Dally Randriantefy,R,,MAD,19.2553045859,200626,,,Emanuela Zardo,U,,SUI,26.0917180014,4-6 7-5 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,113,13,145,9
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,26,200506,,,Wiltrud Probst,R,,GER,26.9952087611,201860,,,Mariam Ramon Climent,U,,ESP,19.7508555784,7-6(7) 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,147,9,162,7
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,27,200569,,,Petra Pichalova Langrova,U,,TCH,25.916495551,200028,,,Maureen Drake,R,,CAN,25.1854893908,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,205,5,158,8
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,28,200062,,,Kristina Brandi,R,168,PUR,19.1622176591,200627,14,,Petra Schwarz,U,,AUT,24.0082135524,7-5 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,149,9,132,11
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,29,200105,16,,Rachel Mcquillan,U,,AUS,24.4845995893,200593,,WC,Karine Quentrec,U,,FRA,26.598220397,6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,136,10,219,5
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,30,200455,,WC,Katerina Maleeva,U,,BUL,27.0554414784,201727,,,Silvia Ramon Cortes,U,,ESP,23.7973990418,7-6(5) 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,228,4,204,5
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,31,201771,,,Virag Csurgo,R,172,HUN,23.5427789185,202950,,WC,Virginie Massart,U,,FRA,20.1067761807,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,178,6,290,3
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,32,200728,2,,Melanie Schnell,R,,AUT,19.2580424367,201627,,,Kim De Weille,U,,NED,20.1232032854,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,96,15,186,6
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,33,200678,1,,Gloria Pizzichini,R,,ITA,20.8432580424,200638,,,Stephanie Rottier,U,,NED,22.3436002738,7-5 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,66,23,273,3
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,34,200691,10,,Flora Perfetti,U,,ITA,27.3237508556,200124,,,Anne Kremer,R,,LUX,20.6105407255,2-6 6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,124,12,157,8
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,35,200725,12,,Sandra Cecchini,U,,ITA,31.2443531828,201065,,,Virginie Buisson,U,,FRA,26.7679671458,7-5 4-6 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,127,12,182,6
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,36,200713,,,Yuka Yoshida,R,,JPN,20.1533196441,203811,,,Li Chen,U,,CHN,18.7816563997,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,170,7,,
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,37,200722,4,,Francesca Lubiani,L,,ITA,18.8747433265,200742,,,Olga Lugina,U,,UKR,22.3819301848,6-2 4-6 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,103,14,151,8
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,38,200640,,,Mercedes Paz,U,,ARG,29.916495551,201071,,WC,Segolene Berger,U,,FRA,18.173853525,6-2 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,198,5,382,1
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,39,200666,,,Marion Maruska,R,,AUT,23.446954141,200057,15,,Erika De Lone,R,,USA,23.6167008898,7-6(3) 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,164,7,133,11
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,40,200061,5,,Gala Leon Garcia,L,,ESP,22.4257357974,200737,,,Aleksandra Olsza,U,,POL,18.4668035592,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,107,14,146,9
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,41,200012,8,,Jana Nejedly,R,,CAN,21.9657768652,200669,,,Debbie Graham,R,,USA,25.7549623546,6-4 2-6 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,118,12,233,4
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,42,200663,11,,Nanne Dahlman,U,,FIN,25.7193702943,201062,,WC,Amelie Castera,L,,FRA,18.1327857632,6-2 7-6(6),3,Q2,,,,,,,,,,,,,,,,,,,,126,12,387,1
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,43,200735,,A,Miho Saeki,R,,JPN,20.1916495551,200050,9,,Sandra Kleinova,R,,CZE,18.0533880903,6-3 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,203,5,121,12
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,44,200106,3,,Angeles Montolio,R,,ESP,20.8076659822,202156,,,Gabriella Boschiero,U,,ITA,24.3696098563,7-6(2) 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,108,14,240,4
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,45,200720,6,,Dally Randriantefy,R,,MAD,19.2553045859,200506,,,Wiltrud Probst,R,,GER,26.9952087611,6-3 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,113,13,147,9
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,46,200569,,,Petra Pichalova Langrova,U,,TCH,25.916495551,200062,,,Kristina Brandi,R,168,PUR,19.1622176591,6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,205,5,149,9
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,47,200105,16,,Rachel Mcquillan,U,,AUS,24.4845995893,200455,,WC,Katerina Maleeva,U,,BUL,27.0554414784,6-1 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,136,10,228,4
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,48,200728,2,,Melanie Schnell,R,,AUT,19.2580424367,201771,,,Virag Csurgo,R,172,HUN,23.5427789185,6-7(0) 6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,96,15,178,6
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,49,200691,10,,Flora Perfetti,U,,ITA,27.3237508556,200678,1,,Gloria Pizzichini,R,,ITA,20.8432580424,7-5 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,124,12,66,23
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,50,200725,12,,Sandra Cecchini,U,,ITA,31.2443531828,200713,,,Yuka Yoshida,R,,JPN,20.1533196441,4-6 6-1 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,127,12,170,7
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,51,200722,4,,Francesca Lubiani,L,,ITA,18.8747433265,200640,,,Mercedes Paz,U,,ARG,29.916495551,6-4 7-5,3,Q3,,,,,,,,,,,,,,,,,,,,103,14,198,5
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,52,200061,5,,Gala Leon Garcia,L,,ESP,22.4257357974,200666,,,Marion Maruska,R,,AUT,23.446954141,6-3 7-5,3,Q3,,,,,,,,,,,,,,,,,,,,107,14,164,7
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,53,200012,8,,Jana Nejedly,R,,CAN,21.9657768652,200663,11,,Nanne Dahlman,U,,FIN,25.7193702943,7-6(4) 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,118,12,126,12
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,54,200106,3,,Angeles Montolio,R,,ESP,20.8076659822,200735,,A,Miho Saeki,R,,JPN,20.1916495551,7-6(10) 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,108,14,203,5
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,55,200569,,,Petra Pichalova Langrova,U,,TCH,25.916495551,200720,6,,Dally Randriantefy,R,,MAD,19.2553045859,6-4 7-6(5),3,Q3,,,,,,,,,,,,,,,,,,,,205,5,113,13
+1996-W-SL-FRA-01A-1996,Roland Garros,Clay,128,G,19960527,56,200105,16,,Rachel Mcquillan,U,,AUS,24.4845995893,200728,2,,Melanie Schnell,R,,AUT,19.2580424367,6-4 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,136,10,96,15
 1996-W-SL-GBR-01A-1996,Wimbledon,Grass,128,G,19960624,1,200691,1,,Flora Perfetti,U,,ITA,27.4004106776,200637,,,Catherine Barclay,U,,AUS,23.0335386721,7-6 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,111,13,245,4
 1996-W-SL-GBR-01A-1996,Wimbledon,Grass,128,G,19960624,2,200045,,,Tara Snyder,R,,USA,19.0800821355,200689,,,Tessa Price,U,,RSA,29.2511978097,6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,210,5,227,4
 1996-W-SL-GBR-01A-1996,Wimbledon,Grass,128,G,19960624,3,200640,,,Mercedes Paz,U,,ARG,29.993155373,200593,,,Karine Quentrec,U,,FRA,26.674880219,6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,179,6,257,3
@@ -7186,7 +7186,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-SL-GBR-01A-1996,Wimbledon,Grass,128,G,19960624,24,200584,,,Laura Golarsa,R,,ITA,28.5749486653,200105,4,,Rachel Mcquillan,U,,AUS,24.5612594114,4-6 6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,174,6,114,13
 1996-W-SL-GBR-01A-1996,Wimbledon,Grass,128,G,19960624,25,200663,5,,Nanne Dahlman,U,,FIN,25.7960301164,200721,,A,Hiromi Nagano,U,,JPN,24.9308692676,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,124,11,287,3
 1996-W-SL-GBR-01A-1996,Wimbledon,Grass,128,G,19960624,26,200696,,,Christina Papadaki,R,,GRE,23.3292265572,200091,,,Janet Lee,R,,TPE,19.6714579055,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,161,8,167,7
-1996-W-SL-GBR-01A-1996,Wimbledon,Grass,128,G,19960624,27,200073,,WC,Julie Pullin,L,,GBR,20.6351813826,201771,,,Virag Csurgo,U,,HUN,23.6194387406,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,349,2,165,7
+1996-W-SL-GBR-01A-1996,Wimbledon,Grass,128,G,19960624,27,200073,,WC,Julie Pullin,L,,GBR,20.6351813826,201771,,,Virag Csurgo,R,172,HUN,23.6194387406,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,349,2,165,7
 1996-W-SL-GBR-01A-1996,Wimbledon,Grass,128,G,19960624,28,200093,,,Amelie Cocheteux,L,,FRA,18.2450376454,200583,10,,Laxmi Poruri,U,,USA,23.6221765914,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,170,7,142,9
 1996-W-SL-GBR-01A-1996,Wimbledon,Grass,128,G,19960624,29,200695,15,,Tina Krizan,R,,SLO,22.2696783025,201021,,,Laura Garrone,U,,ITA,28.6078028747,3-6 6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,146,9,228,4
 1996-W-SL-GBR-01A-1996,Wimbledon,Grass,128,G,19960624,30,200706,,,Catalina Cristea,R,,ROU,21.0622861054,201191,,WC,Shirli Ann Siddall,U,,GBR,22.0123203285,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,226,4,413,1
@@ -7221,7 +7221,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,3,200105,,,Rachel Mcquillan,U,,AUS,24.733744011,200091,,,Janet Lee,R,,TPE,19.8439425051,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,213,5,163,7
 1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,4,200647,15,,Noelle Van Lottum,U,,FRA,24.1232032854,203899,,WC,Melissa Zimpfer,U,,USA,22.4010951403,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,140,9,,
 1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,5,200113,10,,Anna Kournikova,R,173,RUS,15.2197125257,200012,,,Jana Nejedly,R,,CAN,22.2149212868,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,144,9,194,6
-1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,6,201771,,,Virag Csurgo,U,,HUN,23.7919233402,200687,,,Katarzyna Nowak,U,,POL,27.6167008898,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,209,6,156,8
+1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,6,201771,,,Virag Csurgo,R,172,HUN,23.7919233402,200687,,,Katarzyna Nowak,U,,POL,27.6167008898,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,209,6,156,8
 1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,7,200696,,,Christina Papadaki,R,,GRE,23.5017111567,200724,,,Lea Ghirardi,R,,FRA,22.5407255305,7-6(1) 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,183,7,160,8
 1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,8,200087,,,Seda Noorlander,R,,NED,22.264202601,200040,8,,Anna Smashnova,R,,ISR,20.1122518823,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,198,6,128,11
 1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,9,200004,4,,Kerry Anne Guse,R,,AUS,23.7262149213,201928,,,Julia Lutrova,U,,RUS,21.6290212183,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,114,12,211,5
@@ -7240,7 +7240,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,22,200582,,,Maria Strandlund Tomsvik,U,,SWE,27.0253251198,202719,,WC,Kelly S Wilson,R,,USA,22.9733059548,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,180,7,203,6
 1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,23,200559,,,Kristine Kunce,U,,AUS,26.4832306639,200071,,,Lenka Nemeckova,R,,CZE,20.3504449008,0-6 6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,181,7,175,7
 1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,24,200737,3,,Aleksandra Olsza,U,,POL,18.7159479808,202169,,WC,Christine Neuman,U,,USA,24.1177275838,6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,110,12,247,4
-1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,25,200674,7,,Bettina Fulco Villella,R,,ARG,27.8412046543,200598,,WC,Jeri Ingram,U,,USA,25.7084188912,6-2 4-6 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,122,11,323,2
+1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,25,200674,7,,Bettina Fulco,R,,ARG,27.8412046543,200598,,WC,Jeri Ingram,U,,USA,25.7084188912,6-2 4-6 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,122,11,323,2
 1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,26,200028,,,Maureen Drake,R,,CAN,25.4346338125,201049,,,Denisa Krajcovicova,U,,SVK,27.8548939083,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,195,6,190,6
 1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,27,200052,,,Olga Barabanschikova,R,,BLR,16.8158795346,201087,,WC,Mashona Washington,R,,USA,20.2381930185,6-4 7-6(2),3,Q1,,,,,,,,,,,,,,,,,,,,171,7,318,2
 1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,28,200530,9,,Radomira Zrubakova,R,,SVK,25.6673511294,202017,,WC,Stephanie Halsell,R,,USA,16.8432580424,6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,131,10,230,5
@@ -7250,7 +7250,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,32,200031,,,Meilen Tu,R,,USA,18.6064339493,200560,2,,Rene Collins,L,,CAN,30.6146475017,3-6 6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,179,7,109,12
 1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,33,200739,1,,Stephanie De Ville,U,,BEL,20.090349076,200584,,,Laura Golarsa,R,,ITA,28.7474332649,6-4 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,99,15,177,7
 1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,34,200105,,,Rachel Mcquillan,U,,AUS,24.733744011,200647,15,,Noelle Van Lottum,U,,FRA,24.1232032854,6-3 1-6 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,213,5,140,9
-1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,35,200113,10,,Anna Kournikova,R,173,RUS,15.2197125257,201771,,,Virag Csurgo,U,,HUN,23.7919233402,7-6(1) 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,144,9,209,6
+1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,35,200113,10,,Anna Kournikova,R,173,RUS,15.2197125257,201771,,,Virag Csurgo,R,172,HUN,23.7919233402,7-6(1) 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,144,9,209,6
 1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,36,200696,,,Christina Papadaki,R,,GRE,23.5017111567,200087,,,Seda Noorlander,R,,NED,22.264202601,3-6 7-6(1) 4-2 RET,3,Q2,,,,,,,,,,,,,,,,,,,,183,7,198,6
 1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,37,200583,,,Laxmi Poruri,U,,USA,23.794661191,200004,4,,Kerry Anne Guse,R,,AUS,23.7262149213,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,157,8,114,12
 1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,38,201850,,,Nino Louarsabishvili,U,,GEO,19.5592060233,200640,14,,Mercedes Paz,U,,ARG,30.1656399726,7-5 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,210,5,137,9
@@ -7260,7 +7260,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,42,200013,,,Angelica Gavaldon,R,,MEX,22.8966461328,200740,,,Elena Tatarkova,L,,UKR,20.0109514031,6-1 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,169,7,168,7
 1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,43,200695,12,,Tina Krizan,R,,SLO,22.4421629021,200582,,,Maria Strandlund Tomsvik,U,,SWE,27.0253251198,7-5 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,135,10,180,7
 1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,44,200737,3,,Aleksandra Olsza,U,,POL,18.7159479808,200559,,,Kristine Kunce,U,,AUS,26.4832306639,6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,110,12,181,7
-1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,45,200028,,,Maureen Drake,R,,CAN,25.4346338125,200674,7,,Bettina Fulco Villella,R,,ARG,27.8412046543,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,195,6,122,11
+1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,45,200028,,,Maureen Drake,R,,CAN,25.4346338125,200674,7,,Bettina Fulco,R,,ARG,27.8412046543,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,195,6,122,11
 1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,46,200530,9,,Radomira Zrubakova,R,,SVK,25.6673511294,200052,,,Olga Barabanschikova,R,,BLR,16.8158795346,6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,131,10,171,7
 1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,47,200735,,,Miho Saeki,R,,JPN,20.4407939767,200045,,WC,Tara Snyder,R,,USA,19.2525667351,6-0 6-7(4) 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,145,9,235,4
 1996-W-SL-USA-01A-1996,US Open,Hard,128,G,19960826,48,200704,,,Maria Jose Gaidano,U,,ARG,23.2553045859,200031,,,Meilen Tu,R,,USA,18.6064339493,6-2 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,152,8,179,7
@@ -7275,7 +7275,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-WT-USA-05A-1996,Amelia Island,Clay,56,W,19960408,1,200675,,,Eugenia Maniokova,R,,RUS,27.8932238193,201751,,,Melissa Mazzotta,U,,USA,23.7973990418,2-6 6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,231,4,380,2
 1996-W-WT-USA-05A-1996,Amelia Island,Clay,56,W,19960408,2,200110,,,Fabiola Zuluaga,R,,COL,17.2511978097,201717,,,Michelle Jackson Nobrega,U,,USA,22.2778918549,7-5 7-6,3,Q1,,,,,,,,,,,,,,,,,,,,213,5,,
 1996-W-WT-USA-05A-1996,Amelia Island,Clay,56,W,19960408,3,200612,,,Natalia Medvedeva,U,,UKR,24.3969883641,201850,,,Nino Louarsabishvili,U,,GEO,19.1759069131,6-4 3-6 7-6,3,Q1,,,,,,,,,,,,,,,,,,,,146,10,154,9
-1996-W-WT-USA-05A-1996,Amelia Island,Clay,56,W,19960408,4,200696,,,Christina Papadaki,R,,GRE,23.1184120465,200674,,,Bettina Fulco Villella,R,,ARG,27.4579055441,7-6 3-6 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,194,6,190,6
+1996-W-WT-USA-05A-1996,Amelia Island,Clay,56,W,19960408,4,200696,,,Christina Papadaki,R,,GRE,23.1184120465,200674,,,Bettina Fulco,R,,ARG,27.4579055441,7-6 3-6 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,194,6,190,6
 1996-W-WT-USA-05A-1996,Amelia Island,Clay,56,W,19960408,5,201727,,,Silvia Ramon Cortes,U,,ESP,23.6632443532,200031,8,,Meilen Tu,R,,USA,18.2231348392,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,182,7,132,10
 1996-W-WT-USA-05A-1996,Amelia Island,Clay,56,W,19960408,6,200640,,,Mercedes Paz,U,,ARG,29.7823408624,202169,,,Christine Neuman,U,,USA,23.7344284736,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,191,6,189,6
 1996-W-WT-USA-05A-1996,Amelia Island,Clay,56,W,19960408,7,201199,,,Rachel Viollet,U,,GBR,24.1560574949,200028,,,Maureen Drake,R,,CAN,25.0513347023,6-2 1-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,275,3,163,8
@@ -7335,13 +7335,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-WT-GER-03A-1996,German Open,Clay,56,W,19960513,2,200621,,,Isabelle Demongeot,U,,FRA,29.6509240246,200583,,,Laxmi Poruri,U,,USA,23.5071868583,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,162,8,141,10
 1996-W-WT-GER-03A-1996,German Open,Clay,56,W,19960513,3,200686,4,,Sandra Dopfer,U,,AUT,25.9685147159,200648,,,Marketa Kochta,U,,GER,20.8323066393,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,115,12,200,5
 1996-W-WT-GER-03A-1996,German Open,Clay,56,W,19960513,4,201067,,,Caroline Dhenin,U,,FRA,22.9158110883,202256,,,Helena Vildova,R,,CZE,24.1505817933,6-7 6-4 7-6,3,Q1,,,,,,,,,,,,,,,,,,,,167,7,211,5
-1996-W-WT-GER-03A-1996,German Open,Clay,56,W,19960513,5,200674,,,Bettina Fulco Villella,R,,ARG,27.5537303217,201839,,,Syna Schreiber,U,,GER,17.4784394251,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,146,9,332,2
+1996-W-WT-GER-03A-1996,German Open,Clay,56,W,19960513,5,200674,,,Bettina Fulco,R,,ARG,27.5537303217,201839,,,Syna Schreiber,U,,GER,17.4784394251,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,146,9,332,2
 1996-W-WT-GER-03A-1996,German Open,Clay,56,W,19960513,6,200706,3,,Catalina Cristea,R,,ROU,20.9472963723,200569,,,Petra Pichalova Langrova,U,,TCH,25.87816564,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,125,12,178,7
 1996-W-WT-GER-03A-1996,German Open,Clay,56,W,19960513,7,200063,,,Tatiana Panova,R,,RUS,19.7481177276,202956,,,Tina Plivelitsch,U,,GER,18.1273100616,6-2 3-6 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,168,7,360,2
 1996-W-WT-GER-03A-1996,German Open,Clay,56,W,19960513,8,200720,2,,Dally Randriantefy,R,,MAD,19.2169746749,201837,,,Sandra Waechtershauser,U,,GER,21.1937029432,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,111,13,192,6
 1996-W-WT-GER-03A-1996,German Open,Clay,56,W,19960513,9,200106,1,,Angeles Montolio,R,,ESP,20.7693360712,200621,,,Isabelle Demongeot,U,,FRA,29.6509240246,3-6 6-2 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,109,13,162,8
 1996-W-WT-GER-03A-1996,German Open,Clay,56,W,19960513,10,200686,4,,Sandra Dopfer,U,,AUT,25.9685147159,201067,,,Caroline Dhenin,U,,FRA,22.9158110883,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,115,12,167,7
-1996-W-WT-GER-03A-1996,German Open,Clay,56,W,19960513,11,200674,,,Bettina Fulco Villella,R,,ARG,27.5537303217,200706,3,,Catalina Cristea,R,,ROU,20.9472963723,4-6 6-3 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,146,9,125,12
+1996-W-WT-GER-03A-1996,German Open,Clay,56,W,19960513,11,200674,,,Bettina Fulco,R,,ARG,27.5537303217,200706,3,,Catalina Cristea,R,,ROU,20.9472963723,4-6 6-3 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,146,9,125,12
 1996-W-WT-GER-03A-1996,German Open,Clay,56,W,19960513,12,200720,2,,Dally Randriantefy,R,,MAD,19.2169746749,200063,,,Tatiana Panova,R,,RUS,19.7481177276,7-6 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,111,13,168,7
 1996-W-WT-GBR-03A-1996,Birmingham,Grass,56,W,19960610,1,201197,,WC,Megan Miller,U,,GBR,18.7214236824,201191,,WC,Shirli Ann Siddall,U,,GBR,21.9739904175,3-6 6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,332,2,409,1
 1996-W-WT-GBR-03A-1996,Birmingham,Grass,56,W,19960610,2,200735,,,Miho Saeki,R,,JPN,20.2299794661,200073,,,Julie Pullin,L,,GBR,20.5968514716,4-6 6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,181,6,353,2
@@ -7388,7 +7388,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-WT-HUN-01A-1996,Budapest,Clay,32,W,19960506,23,200124,7,,Anne Kremer,R,,LUX,20.553045859,200569,2,,Petra Pichalova Langrova,U,,TCH,25.8590006845,2-6 6-4 7-6,3,Q3,,,,,,,,,,,,,,,,,,,,176,7,162,8
 1996-W-WT-CAN-01A-1996,Canadian Open,Hard,56,W,19960805,1,200640,,,Mercedes Paz,U,,ARG,30.1081451061,200028,,,Maureen Drake,R,,CAN,25.3771389459,6-3 4-6 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,145,9,178,7
 1996-W-WT-CAN-01A-1996,Canadian Open,Hard,56,W,19960805,2,201920,,WC,Renata Kolbovic,R,,CAN,20.0164271047,201921,,WC,Martina Nejedly,U,,CAN,21.196440794,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,520,1,347,2
-1996-W-WT-CAN-01A-1996,Canadian Open,Hard,56,W,19960805,3,200681,7,,Natalia Baudone Furlan,U,,ITA,24.0657084189,203970,,WC,Eva Januskova,U,,CAN,18.1930184805,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,115,12,989,0
+1996-W-WT-CAN-01A-1996,Canadian Open,Hard,56,W,19960805,3,200681,7,,Natalia Baudone,U,,ITA,24.0657084189,203970,,WC,Eva Januskova,U,,CAN,18.1930184805,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,115,12,989,0
 1996-W-WT-CAN-01A-1996,Canadian Open,Hard,56,W,19960805,4,200419,,,Kathy Rinaldi Stunkel,U,,USA,29.3689253936,200701,,,Caroline Vis,R,,NED,26.4229979466,6-3 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,208,5,247,4
 1996-W-WT-CAN-01A-1996,Canadian Open,Hard,56,W,19960805,5,202169,,,Christine Neuman,U,,USA,24.0602327173,201917,,WC,Suzanne Italiano,U,,CAN,23.3812457221,6-0 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,239,4,,
 1996-W-WT-CAN-01A-1996,Canadian Open,Hard,56,W,19960805,6,200099,,,Sonya Jeyaseelan,R,,CAN,20.2819986311,200663,8,,Nanne Dahlman,U,,FIN,25.9110198494,6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,153,8,114,12
@@ -7397,7 +7397,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-WT-CAN-01A-1996,Canadian Open,Hard,56,W,19960805,9,200455,,,Katerina Maleeva,U,,BUL,27.2470910335,200584,,,Laura Golarsa,R,,ITA,28.6899383984,7-5 2-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,226,5,157,8
 1996-W-WT-CAN-01A-1996,Canadian Open,Hard,56,W,19960805,10,200582,,,Maria Strandlund Tomsvik,U,,SWE,26.9678302533,201918,,WC,Melanie Bernard,U,,CAN,21.8918548939,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,161,7,613,0
 1996-W-WT-CAN-01A-1996,Canadian Open,Hard,56,W,19960805,11,200640,,,Mercedes Paz,U,,ARG,30.1081451061,200021,1,,Alexia Dechaume Balleret,R,,FRA,26.2587268994,1-6 6-3 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,145,9,80,18
-1996-W-WT-CAN-01A-1996,Canadian Open,Hard,56,W,19960805,12,200681,7,,Natalia Baudone Furlan,U,,ITA,24.0657084189,201920,,WC,Renata Kolbovic,R,,CAN,20.0164271047,6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,115,12,520,1
+1996-W-WT-CAN-01A-1996,Canadian Open,Hard,56,W,19960805,12,200681,7,,Natalia Baudone,U,,ITA,24.0657084189,201920,,WC,Renata Kolbovic,R,,CAN,20.0164271047,6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,115,12,520,1
 1996-W-WT-CAN-01A-1996,Canadian Open,Hard,56,W,19960805,13,200491,4,,Christina Singer,U,,GER,28.0246406571,200419,,,Kathy Rinaldi Stunkel,U,,USA,29.3689253936,6-3 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,99,14,208,5
 1996-W-WT-CAN-01A-1996,Canadian Open,Hard,56,W,19960805,14,200578,5,,Rennae Stubbs,R,,AUS,25.363449692,202169,,,Christine Neuman,U,,USA,24.0602327173,6-1 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,94,15,239,4
 1996-W-WT-CAN-01A-1996,Canadian Open,Hard,56,W,19960805,15,200099,,,Sonya Jeyaseelan,R,,CAN,20.2819986311,200031,,,Meilen Tu,R,,USA,18.5489390828,7-6 7-6,3,Q2,,,,,,,,,,,,,,,,,,,,153,8,166,7
@@ -7443,7 +7443,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-WT-CRO-01A-1996,Bol,Clay,32,W,19960429,8,201939,,,Anique Snijders,U,,NED,22.6201232033,200123,8,,Marlene Weingartner,R,,GER,16.2464065708,6-3 2-6 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,333,2,266,3
 1996-W-WT-CRO-01A-1996,Bol,Clay,32,W,19960429,9,201288,,,Maja Palaversic Cooper Smith,R,,CRO,23.099247091,201021,4,,Laura Garrone,U,,ITA,28.4544832307,6-3 0-6 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,346,2,203,5
 1996-W-WT-CRO-01A-1996,Bol,Clay,32,W,19960429,10,201066,,,Neus Avila Bonastre,U,,ESP,24.7611225188,200647,5,,Noelle Van Lottum,U,,FRA,23.7973990418,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,275,3,187,6
-1996-W-WT-CRO-01A-1996,Bol,Clay,32,W,19960429,11,201940,,,Mirela Vladulescu,U,,GER,19.1348391513,200674,2,,Bettina Fulco Villella,R,,ARG,27.5154004107,6-4 4-6 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,289,3,232,4
+1996-W-WT-CRO-01A-1996,Bol,Clay,32,W,19960429,11,201940,,,Mirela Vladulescu,U,,GER,19.1348391513,200674,2,,Bettina Fulco,R,,ARG,27.5154004107,6-4 4-6 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,289,3,232,4
 1996-W-WT-CRO-01A-1996,Bol,Clay,32,W,19960429,12,201869,6,,Radka Pelikanova,U,,CZE,19.0718685832,200569,1,,Petra Pichalova Langrova,U,,TCH,25.839835729,2-6 6-4 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,226,4,157,8
 1996-W-WT-CRO-01A-1996,Bol,Clay,32,W,19960429,13,200078,,,Barbara Schwartz,L,,AUT,17.2539356605,201744,,,Caroline Schneider,U,,GER,22.9103353867,6-1 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,279,3,377,1
 1996-W-WT-CRO-01A-1996,Bol,Clay,32,W,19960429,14,201939,,,Anique Snijders,U,,NED,22.6201232033,201288,,,Maja Palaversic Cooper Smith,R,,CRO,23.099247091,4-6 7-5 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,333,2,346,2
@@ -7456,7 +7456,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-WT-GBR-04A-1996,Eastbourne,Grass,28,W,19960618,6,200669,,,Debbie Graham,R,,USA,25.8151950719,201088,,,Karen Cross,L,,GBR,22.3271731691,7-6 3-6 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,308,2,260,3
 1996-W-WT-GBR-04A-1996,Eastbourne,Grass,28,W,19960618,7,200004,,,Kerry Anne Guse,R,,AUS,23.537303217,200720,,,Dally Randriantefy,R,,MAD,19.3155373032,6-4 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,170,7,91,15
 1996-W-WT-GBR-04A-1996,Eastbourne,Grass,28,W,19960618,8,200624,6,,Tami Whitlinger Jones,U,,USA,27.5947980835,200660,,,Kimberly Po Messerli,R,,USA,24.6625598905,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,92,15,107,13
-1996-W-WT-GBR-04A-1996,Eastbourne,Grass,28,W,19960618,9,200557,7,,Katrina Adams,U,,USA,27.8685831622,200661,,,Samantha Smith,R,,GBR,24.5585215606,6-2 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,93,15,235,4
+1996-W-WT-GBR-04A-1996,Eastbourne,Grass,28,W,19960618,9,200557,7,,Katrina Adams,R,165,USA,27.8685831622,200661,,,Samantha Smith,R,,GBR,24.5585215606,6-2 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,93,15,235,4
 1996-W-WT-GBR-04A-1996,Eastbourne,Grass,28,W,19960618,10,200070,,,Anne Gaelle Sidot,L,,FRA,16.9034907598,201196,,WC,Claire Taylor,U,,GBR,21.3333333333,7-6 4-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,113,13,334,2
 1996-W-WT-GBR-04A-1996,Eastbourne,Grass,28,W,19960618,11,200057,,,Erika De Lone,R,,USA,23.6769336071,201199,,WC,Rachel Viollet,U,,GBR,24.3504449008,4-6 6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,136,9,217,5
 1996-W-WT-GBR-04A-1996,Eastbourne,Grass,28,W,19960618,12,200726,,,Nancy Feber,U,,BEL,20.3668720055,200734,3,,Tatjana Jecmenica,U,,SRB,17.9575633128,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,101,14,75,20
@@ -7468,7 +7468,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-WT-GBR-04A-1996,Eastbourne,Grass,28,W,19960618,18,200655,8,,Nicole Arendt,L,,USA,26.8117727584,200584,,,Laura Golarsa,R,,ITA,28.5585215606,7-5 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,118,12,159,7
 1996-W-WT-GBR-04A-1996,Eastbourne,Grass,28,W,19960618,19,200667,4,,Ines Gorrochategui,R,,ARG,23.0143737166,200669,,,Debbie Graham,R,,USA,25.8151950719,6-4 7-6,3,Q2,,,,,,,,,,,,,,,,,,,,83,17,308,2
 1996-W-WT-GBR-04A-1996,Eastbourne,Grass,28,W,19960618,20,200624,6,,Tami Whitlinger Jones,U,,USA,27.5947980835,200004,,,Kerry Anne Guse,R,,AUS,23.537303217,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,92,15,170,7
-1996-W-WT-GBR-04A-1996,Eastbourne,Grass,28,W,19960618,21,200070,,,Anne Gaelle Sidot,L,,FRA,16.9034907598,200557,7,,Katrina Adams,U,,USA,27.8685831622,6-1 4-6 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,113,13,93,15
+1996-W-WT-GBR-04A-1996,Eastbourne,Grass,28,W,19960618,21,200070,,,Anne Gaelle Sidot,L,,FRA,16.9034907598,200557,7,,Katrina Adams,R,165,USA,27.8685831622,6-1 4-6 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,113,13,93,15
 1996-W-WT-GBR-04A-1996,Eastbourne,Grass,28,W,19960618,22,200726,,,Nancy Feber,U,,BEL,20.3668720055,200057,,,Erika De Lone,R,,USA,23.6769336071,6-0 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,101,14,136,9
 1996-W-WT-GBR-04A-1996,Eastbourne,Grass,28,W,19960618,23,200640,,,Mercedes Paz,U,,ARG,29.9767282683,200728,5,,Melanie Schnell,R,,AUT,19.318275154,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,181,6,99,15
 1996-W-WT-GBR-04A-1996,Eastbourne,Grass,28,W,19960618,24,200717,2,,Anne Miller,R,,USA,19.4113620808,200046,,,Meghann Shaughnessy,R,,USA,17.18275154,6-0 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,70,22,186,6
@@ -7504,12 +7504,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-WT-GER-01A-1996,Essen,Carpet,28,W,19960219,26,200042,4,,Els Callens,R,,BEL,25.5003422313,200582,,,Maria Strandlund Tomsvik,U,,SWE,26.507871321,3-6 6-2 7-6,3,Q3,,,,,,,,,,,,,,,,,,,,91,16,158,9
 1996-W-WT-GER-01A-1996,Essen,Carpet,28,W,19960219,27,200734,3,,Tatjana Jecmenica,U,,SRB,17.6290212183,200728,7,,Melanie Schnell,R,,AUT,18.9897330595,2-6 6-2 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,85,18,115,13
 1996-W-WT-GER-01A-1996,Essen,Carpet,28,W,19960219,28,200578,2,,Rennae Stubbs,R,,AUS,24.9034907598,200067,,,Patty Schnyder,L,168,SUI,17.18275154,7-6 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,89,17,143,10
-1996-W-WT-USA-04A-1996,Hilton Head,Clay,28,W,19960401,1,200651,1,,Sabine Hack,U,,GER,26.7214236824,200557,,,Katrina Adams,U,,USA,27.6550308008,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,36,34,98,15
+1996-W-WT-USA-04A-1996,Hilton Head,Clay,28,W,19960401,1,200651,1,,Sabine Hack,U,,GER,26.7214236824,200557,,,Katrina Adams,R,165,USA,27.6550308008,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,36,34,98,15
 1996-W-WT-USA-04A-1996,Hilton Head,Clay,28,W,19960401,2,200725,,,Sandra Cecchini,U,,ITA,31.0910335387,200578,,,Rennae Stubbs,R,,AUS,25.0184804928,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,109,13,74,19
 1996-W-WT-USA-04A-1996,Hilton Head,Clay,28,W,19960401,3,201049,,,Denisa Krajcovicova,U,,SVK,27.4524298426,200704,,,Maria Jose Gaidano,U,,ARG,22.8528405202,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,125,11,90,16
 1996-W-WT-USA-04A-1996,Hilton Head,Clay,28,W,19960401,4,200687,7,,Katarzyna Nowak,U,,POL,27.2142368241,200455,,WC,Katerina Maleeva,U,,BUL,26.9021218344,6-4 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,69,21,300,3
-1996-W-WT-USA-04A-1996,Hilton Head,Clay,28,W,19960401,5,200059,4,,Ruxandra Dragomir Ilie,R,,ROU,23.4360027379,200749,,WC,Samantha Reeves,R,,USA,17.2046543463,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,57,26,,
-1996-W-WT-USA-04A-1996,Hilton Head,Clay,28,W,19960401,6,200497,,,Patricia Hy Boulais,U,,CAN,30.6091718001,200587,,,Silke Meier,U,,GER,27.7180013689,6-4 4-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,76,19,75,19
+1996-W-WT-USA-04A-1996,Hilton Head,Clay,28,W,19960401,5,200059,4,,Ruxandra Dragomir Ilie,R,168,ROU,23.4360027379,200749,,WC,Samantha Reeves,R,,USA,17.2046543463,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,57,26,,
+1996-W-WT-USA-04A-1996,Hilton Head,Clay,28,W,19960401,6,200497,,,Patricia Hy Boulais,R,,CAN,30.6091718001,200587,,,Silke Meier,U,,GER,27.7180013689,6-4 4-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,76,19,75,19
 1996-W-WT-USA-04A-1996,Hilton Head,Clay,28,W,19960401,7,200706,,,Catalina Cristea,R,,ROU,20.8323066393,200602,,,Shaun Stafford,U,,USA,27.2991101985,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,112,12,105,13
 1996-W-WT-USA-04A-1996,Hilton Head,Clay,28,W,19960401,8,200019,,,Alexandra Fusai,R,,FRA,22.3572895277,200718,5,,Ludmila Richterova,U,,CZE,19.0691307324,6-4 6-7 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,77,19,64,23
 1996-W-WT-USA-04A-1996,Hilton Head,Clay,28,W,19960401,9,200624,6,,Tami Whitlinger Jones,U,,USA,27.3812457221,200105,,,Rachel Mcquillan,U,,AUS,24.3312799452,4-6 7-5 7-6,3,Q1,,,,,,,,,,,,,,,,,,,,70,21,127,11
@@ -7522,14 +7522,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-WT-USA-04A-1996,Hilton Head,Clay,28,W,19960401,16,200700,2,,Silvia Farina Elia,R,,ITA,23.9288158795,200127,,,Sarah Pitkowski Malcor,R,,FRA,20.3832991102,6-3 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,48,29,129,11
 1996-W-WT-USA-04A-1996,Hilton Head,Clay,28,W,19960401,17,200651,1,,Sabine Hack,U,,GER,26.7214236824,200725,,,Sandra Cecchini,U,,ITA,31.0910335387,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,36,34,109,13
 1996-W-WT-USA-04A-1996,Hilton Head,Clay,28,W,19960401,18,200687,7,,Katarzyna Nowak,U,,POL,27.2142368241,201049,,,Denisa Krajcovicova,U,,SVK,27.4524298426,6-2 7-6,3,Q2,,,,,,,,,,,,,,,,,,,,69,21,125,11
-1996-W-WT-USA-04A-1996,Hilton Head,Clay,28,W,19960401,19,200059,4,,Ruxandra Dragomir Ilie,R,,ROU,23.4360027379,200497,,,Patricia Hy Boulais,U,,CAN,30.6091718001,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,57,26,76,19
+1996-W-WT-USA-04A-1996,Hilton Head,Clay,28,W,19960401,19,200059,4,,Ruxandra Dragomir Ilie,R,168,ROU,23.4360027379,200497,,,Patricia Hy Boulais,R,,CAN,30.6091718001,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,57,26,76,19
 1996-W-WT-USA-04A-1996,Hilton Head,Clay,28,W,19960401,20,200019,,,Alexandra Fusai,R,,FRA,22.3572895277,200706,,,Catalina Cristea,R,,ROU,20.8323066393,6-1 6-7 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,77,19,112,12
 1996-W-WT-USA-04A-1996,Hilton Head,Clay,28,W,19960401,21,200627,,,Petra Schwarz,U,,AUT,23.8548939083,200624,6,,Tami Whitlinger Jones,U,,USA,27.3812457221,2-6 6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,156,9,70,21
 1996-W-WT-USA-04A-1996,Hilton Head,Clay,28,W,19960401,22,200570,,,Veronika Martinek,U,,GER,23.9945242984,200697,,,Janette Husarova,R,,SVK,21.826146475,6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,100,14,96,15
 1996-W-WT-USA-04A-1996,Hilton Head,Clay,28,W,19960401,23,200506,,,Wiltrud Probst,R,,GER,26.841889117,200734,,,Tatjana Jecmenica,U,,SRB,17.7440109514,5-7 7-6 7-6,3,Q2,,,,,,,,,,,,,,,,,,,,136,10,88,16
 1996-W-WT-USA-04A-1996,Hilton Head,Clay,28,W,19960401,24,200700,2,,Silvia Farina Elia,R,,ITA,23.9288158795,200686,,WC,Sandra Dopfer,U,,AUT,25.8535249829,6-1 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,48,29,145,10
 1996-W-WT-USA-04A-1996,Hilton Head,Clay,28,W,19960401,25,200651,1,,Sabine Hack,U,,GER,26.7214236824,200687,7,,Katarzyna Nowak,U,,POL,27.2142368241,6-0 6-0,3,Q3,,,,,,,,,,,,,,,,,,,,36,34,69,21
-1996-W-WT-USA-04A-1996,Hilton Head,Clay,28,W,19960401,26,200019,,,Alexandra Fusai,R,,FRA,22.3572895277,200059,4,,Ruxandra Dragomir Ilie,R,,ROU,23.4360027379,6-4 2-6 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,77,19,57,26
+1996-W-WT-USA-04A-1996,Hilton Head,Clay,28,W,19960401,26,200019,,,Alexandra Fusai,R,,FRA,22.3572895277,200059,4,,Ruxandra Dragomir Ilie,R,168,ROU,23.4360027379,6-4 2-6 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,77,19,57,26
 1996-W-WT-USA-04A-1996,Hilton Head,Clay,28,W,19960401,27,200627,,,Petra Schwarz,U,,AUT,23.8548939083,200570,,,Veronika Martinek,U,,GER,23.9945242984,2-6 6-3 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,156,9,100,14
 1996-W-WT-USA-04A-1996,Hilton Head,Clay,28,W,19960401,28,200700,2,,Silvia Farina Elia,R,,ITA,23.9288158795,200506,,,Wiltrud Probst,R,,GER,26.841889117,6-4 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,48,29,136,10
 1996-W-WT-AUS-01A-1996,Hobart,Hard,32,W,19960108,1,200075,1,,Jing Qian Yi,R,,CHN,21.8590006845,200009,,,Tamarine Tanasugarn,R,165,THA,18.6255989049,3-6 6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,76,20,266,3
@@ -7537,7 +7537,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-WT-AUS-01A-1996,Hobart,Hard,32,W,19960108,3,200606,,,Nana Smith,R,,JPN,24.7474332649,201021,,,Laura Garrone,U,,ITA,28.1478439425,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,144,9,187,7
 1996-W-WT-AUS-01A-1996,Hobart,Hard,32,W,19960108,4,200582,8,,Maria Strandlund Tomsvik,U,,SWE,26.392881588,200731,,WC,Gail Biggs,U,,AUS,25.3716632444,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,155,9,299,3
 1996-W-WT-AUS-01A-1996,Hobart,Hard,32,W,19960108,5,200127,3,,Sarah Pitkowski Malcor,R,,FRA,20.1533196441,200735,,,Miho Saeki,R,,JPN,19.8083504449,6-7 6-4 7-6,3,Q1,,,,,,,,,,,,,,,,,,,,89,17,220,5
-1996-W-WT-AUS-01A-1996,Hobart,Hard,32,W,19960108,6,200583,,,Laxmi Poruri,U,,USA,23.1622176591,201771,,,Virag Csurgo,U,,HUN,23.1594798084,6-2 7-6,3,Q1,,,,,,,,,,,,,,,,,,,,137,10,181,7
+1996-W-WT-AUS-01A-1996,Hobart,Hard,32,W,19960108,6,200583,,,Laxmi Poruri,U,,USA,23.1622176591,201771,,,Virag Csurgo,R,172,HUN,23.1594798084,6-2 7-6,3,Q1,,,,,,,,,,,,,,,,,,,,137,10,181,7
 1996-W-WT-AUS-01A-1996,Hobart,Hard,32,W,19960108,7,200737,,,Aleksandra Olsza,U,,POL,18.083504449,200713,,,Yuka Yoshida,R,,JPN,19.7700205339,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,184,7,195,6
 1996-W-WT-AUS-01A-1996,Hobart,Hard,32,W,19960108,8,200724,5,,Lea Ghirardi,R,,FRA,21.9082819986,200004,,WC,Kerry Anne Guse,R,,AUS,23.0937713895,6-7 6-2 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,95,16,201,6
 1996-W-WT-AUS-01A-1996,Hobart,Hard,32,W,19960108,9,200019,6,,Alexandra Fusai,R,,FRA,22.1273100616,200091,,,Janet Lee,R,,TPE,19.2114989733,7-5 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,102,15,164,8
@@ -7547,7 +7547,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-WT-AUS-01A-1996,Hobart,Hard,32,W,19960108,13,201627,,,Kim De Weille,U,,NED,19.7399041752,200728,7,,Melanie Schnell,R,,AUT,18.8747433265,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,169,8,113,14
 1996-W-WT-AUS-01A-1996,Hobart,Hard,32,W,19960108,14,200057,,,Erika De Lone,R,,USA,23.2334017796,200719,,,Siobhan Drake Brockman,U,,AUS,17.7549623546,7-6 3-6 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,118,13,229,4
 1996-W-WT-AUS-01A-1996,Hobart,Hard,32,W,19960108,15,200722,,,Francesca Lubiani,L,,ITA,18.4914442163,200608,,,Audra Keller,U,,USA,24.1423682409,3-6 6-4 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,167,8,131,11
-1996-W-WT-AUS-01A-1996,Hobart,Hard,32,W,19960108,16,200595,2,,Ann Wunderlich,U,,USA,25.2375085558,200045,,,Tara Snyder,R,,USA,18.6201232033,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,80,19,215,5
+1996-W-WT-AUS-01A-1996,Hobart,Hard,32,W,19960108,16,200595,2,,Ann Grossman,U,,USA,25.2375085558,200045,,,Tara Snyder,R,,USA,18.6201232033,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,80,19,215,5
 1996-W-WT-AUS-01A-1996,Hobart,Hard,32,W,19960108,17,200506,,,Wiltrud Probst,R,,GER,26.6119096509,200075,1,,Jing Qian Yi,R,,CHN,21.8590006845,7-6 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,138,10,76,20
 1996-W-WT-AUS-01A-1996,Hobart,Hard,32,W,19960108,18,200606,,,Nana Smith,R,,JPN,24.7474332649,200582,8,,Maria Strandlund Tomsvik,U,,SWE,26.392881588,6-3 4-6 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,144,9,155,9
 1996-W-WT-AUS-01A-1996,Hobart,Hard,32,W,19960108,19,200127,3,,Sarah Pitkowski Malcor,R,,FRA,20.1533196441,200583,,,Laxmi Poruri,U,,USA,23.1622176591,7-5 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,89,17,137,10
@@ -7555,7 +7555,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-WT-AUS-01A-1996,Hobart,Hard,32,W,19960108,21,200019,6,,Alexandra Fusai,R,,FRA,22.1273100616,200736,,,Li Ling Chen,U,,CHN,24.8240930869,4-5 RET,3,Q2,,,,,,,,,,,,,,,,,,,,102,15,133,11
 1996-W-WT-AUS-01A-1996,Hobart,Hard,32,W,19960108,22,200627,,,Petra Schwarz,U,,AUT,23.6249144422,200640,,,Mercedes Paz,U,,ARG,29.5331964408,5-7 7-6 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,112,14,178,7
 1996-W-WT-AUS-01A-1996,Hobart,Hard,32,W,19960108,23,200057,,,Erika De Lone,R,,USA,23.2334017796,201627,,,Kim De Weille,U,,NED,19.7399041752,6-1 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,118,13,169,8
-1996-W-WT-AUS-01A-1996,Hobart,Hard,32,W,19960108,24,200722,,,Francesca Lubiani,L,,ITA,18.4914442163,200595,2,,Ann Wunderlich,U,,USA,25.2375085558,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,167,8,80,19
+1996-W-WT-AUS-01A-1996,Hobart,Hard,32,W,19960108,24,200722,,,Francesca Lubiani,L,,ITA,18.4914442163,200595,2,,Ann Grossman,U,,USA,25.2375085558,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,167,8,80,19
 1996-W-WT-AUS-01A-1996,Hobart,Hard,32,W,19960108,25,200606,,,Nana Smith,R,,JPN,24.7474332649,200506,,,Wiltrud Probst,R,,GER,26.6119096509,6-2 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,144,9,138,10
 1996-W-WT-AUS-01A-1996,Hobart,Hard,32,W,19960108,26,200724,5,,Lea Ghirardi,R,,FRA,21.9082819986,200127,3,,Sarah Pitkowski Malcor,R,,FRA,20.1533196441,1-6 6-4 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,95,16,89,17
 1996-W-WT-AUS-01A-1996,Hobart,Hard,32,W,19960108,27,200019,6,,Alexandra Fusai,R,,FRA,22.1273100616,200627,,,Petra Schwarz,U,,AUT,23.6249144422,6-0 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,102,15,112,14
@@ -7568,19 +7568,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-WT-USA-02A-1996,Indian Wells,Hard,56,W,19960308,6,200106,,,Angeles Montolio,R,,ESP,20.5886379192,200419,,,Kathy Rinaldi Stunkel,U,,USA,28.9582477755,4-6 6-0 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,154,9,407,1
 1996-W-WT-USA-02A-1996,Indian Wells,Hard,56,W,19960308,7,200748,,WC,Venus Williams,R,185,USA,15.7234770705,200012,,,Jana Nejedly,R,,CAN,21.7467488022,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,217,5,99,15
 1996-W-WT-USA-02A-1996,Indian Wells,Hard,56,W,19960308,8,200697,5,,Janette Husarova,R,,SVK,21.7604380561,200660,,,Kimberly Po Messerli,R,,USA,24.3832991102,7-5 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,88,17,164,8
-1996-W-WT-USA-02A-1996,Indian Wells,Hard,56,W,19960308,9,200681,6,,Natalia Baudone Furlan,U,,ITA,23.6550308008,201205,,A,Tracy Almeda Singian,U,,USA,16.4216290212,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,95,15,764,0
+1996-W-WT-USA-02A-1996,Indian Wells,Hard,56,W,19960308,9,200681,6,,Natalia Baudone,U,,ITA,23.6550308008,201205,,A,Tracy Almeda Singian,U,,USA,16.4216290212,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,95,15,764,0
 1996-W-WT-USA-02A-1996,Indian Wells,Hard,56,W,19960308,10,200024,,,Maria Vento Kabchi,R,,VEN,21.7905544148,201835,,A,Maja Muric,U,,CRO,22.0260095825,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,120,11,568,0
 1996-W-WT-USA-02A-1996,Indian Wells,Hard,56,W,19960308,11,200005,,,Jolene Watanabe Giltz,R,,USA,27.5181382615,200038,,,Annabel Ellwood,R,,AUS,18.0944558522,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,105,14,135,11
-1996-W-WT-USA-02A-1996,Indian Wells,Hard,56,W,19960308,12,200075,3,,Jing Qian Yi,R,,CHN,22.0232717317,200557,,,Katrina Adams,U,,USA,27.5893223819,6-2 6-7 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,82,18,114,12
+1996-W-WT-USA-02A-1996,Indian Wells,Hard,56,W,19960308,12,200075,3,,Jing Qian Yi,R,,CHN,22.0232717317,200557,,,Katrina Adams,R,165,USA,27.5893223819,6-2 6-7 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,82,18,114,12
 1996-W-WT-USA-02A-1996,Indian Wells,Hard,56,W,19960308,13,200035,7,,Maria Sanchez Lorenzo,R,,ESP,18.3326488706,200091,,,Janet Lee,R,,TPE,19.3757700205,6-2 4-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,96,15,146,10
 1996-W-WT-USA-02A-1996,Indian Wells,Hard,56,W,19960308,14,200021,,,Alexia Dechaume Balleret,R,,FRA,25.8480492813,200669,,,Debbie Graham,R,,USA,25.5359342916,7-6 3-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,145,10,189,6
-1996-W-WT-USA-02A-1996,Indian Wells,Hard,56,W,19960308,15,200722,,,Francesca Lubiani,L,,ITA,18.6557152635,200649,,,Ginger Helgeson Nielsen,R,,USA,27.4798083504,7-6 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,131,11,193,6
+1996-W-WT-USA-02A-1996,Indian Wells,Hard,56,W,19960308,15,200722,,,Francesca Lubiani,L,,ITA,18.6557152635,200649,,,Ginger Helgeson,R,,USA,27.4798083504,7-6 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,131,11,193,6
 1996-W-WT-USA-02A-1996,Indian Wells,Hard,56,W,19960308,16,200450,2,,Larisa Savchenko,U,,URS,29.6317590691,200583,,,Laxmi Poruri,U,,USA,23.3264887064,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,79,18,112,12
 1996-W-WT-USA-02A-1996,Indian Wells,Hard,56,W,19960308,17,200658,,,Fang Li,R,,CHN,23.1813826146,200040,1,,Anna Smashnova,R,,ISR,19.6440793977,6-3 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,141,10,78,19
 1996-W-WT-USA-02A-1996,Indian Wells,Hard,56,W,19960308,18,200706,,,Catalina Cristea,R,,ROU,20.7665982204,200107,,,Paola Suarez,R,170,ARG,19.7070499658,6-1 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,108,13,122,11
 1996-W-WT-USA-02A-1996,Indian Wells,Hard,56,W,19960308,19,200106,,,Angeles Montolio,R,,ESP,20.5886379192,200702,4,,Naoko Kijimuta,U,,JPN,23.9507186858,6-2 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,154,9,86,17
 1996-W-WT-USA-02A-1996,Indian Wells,Hard,56,W,19960308,20,200748,,WC,Venus Williams,R,185,USA,15.7234770705,200697,5,,Janette Husarova,R,,SVK,21.7604380561,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,217,5,88,17
-1996-W-WT-USA-02A-1996,Indian Wells,Hard,56,W,19960308,21,200024,,,Maria Vento Kabchi,R,,VEN,21.7905544148,200681,6,,Natalia Baudone Furlan,U,,ITA,23.6550308008,4-6 6-2 7-6,3,Q2,,,,,,,,,,,,,,,,,,,,120,11,95,15
+1996-W-WT-USA-02A-1996,Indian Wells,Hard,56,W,19960308,21,200024,,,Maria Vento Kabchi,R,,VEN,21.7905544148,200681,6,,Natalia Baudone,U,,ITA,23.6550308008,4-6 6-2 7-6,3,Q2,,,,,,,,,,,,,,,,,,,,120,11,95,15
 1996-W-WT-USA-02A-1996,Indian Wells,Hard,56,W,19960308,22,200005,,,Jolene Watanabe Giltz,R,,USA,27.5181382615,200075,3,,Jing Qian Yi,R,,CHN,22.0232717317,4-6 7-5 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,105,14,82,18
 1996-W-WT-USA-02A-1996,Indian Wells,Hard,56,W,19960308,23,200021,,,Alexia Dechaume Balleret,R,,FRA,25.8480492813,200035,7,,Maria Sanchez Lorenzo,R,,ESP,18.3326488706,6-2 7-6,3,Q2,,,,,,,,,,,,,,,,,,,,145,10,96,15
 1996-W-WT-USA-02A-1996,Indian Wells,Hard,56,W,19960308,24,200450,2,,Larisa Savchenko,U,,URS,29.6317590691,200722,,,Francesca Lubiani,L,,ITA,18.6557152635,6-3 3-6 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,79,18,131,11
@@ -7614,7 +7614,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,1,200697,1,,Janette Husarova,R,,SVK,21.7960301164,200713,,,Yuka Yoshida,R,,JPN,19.9698836413,6-0 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,91,16,183,6
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,2,200569,,,Petra Pichalova Langrova,U,,TCH,25.7330595483,200542,,,Clare Wood,R,,GBR,28.0355920602,6-4 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,158,9,173,7
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,3,200028,,,Maureen Drake,R,,CAN,25.0020533881,200658,,,Fang Li,R,,CHN,23.2169746749,3-6 6-3 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,127,11,131,11
-1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,4,200423,,WC,Carling Bassett Seguso,U,,CAN,28.4490075291,200720,11,,Dally Randriantefy,R,,MAD,19.0718685832,7-6 3-6 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,,,111,13
+1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,4,200423,,WC,Carling Bassett Seguso,R,,CAN,28.4490075291,200720,11,,Dally Randriantefy,R,,MAD,19.0718685832,7-6 3-6 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,,,111,13
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,5,200024,15,,Maria Vento Kabchi,R,,VEN,21.826146475,200063,,,Tatiana Panova,R,,RUS,19.6030116359,3-6 6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,153,9,166,8
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,6,200021,,,Alexia Dechaume Balleret,R,,FRA,25.8836413415,200070,,,Anne Gaelle Sidot,L,,FRA,16.6598220397,7-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,147,10,119,12
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,7,200061,,,Gala Leon Garcia,L,,ESP,22.2422997947,201862,,WC,Vanessa Menga,U,,BRA,19.4168377823,6-4 7-6,3,Q1,,,,,,,,,,,,,,,,,,,,138,10,358,2
@@ -7626,7 +7626,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,13,200442,10,,Andrea Temesvari,R,,HUN,29.9028062971,201197,,,Megan Miller,U,,GBR,18.4996577687,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,109,13,257,4
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,14,200107,,,Paola Suarez,R,170,ARG,19.742642026,200701,,,Caroline Vis,R,,NED,26.0479123888,7-5 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,121,12,175,7
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,15,201717,,,Michelle Jackson Nobrega,U,,USA,22.2286105407,200608,,,Audra Keller,U,,USA,24.3422313484,7-5 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,294,3
-1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,16,200606,5,,Nana Smith,R,,JPN,24.9472963723,200674,,,Bettina Fulco Villella,R,,ARG,27.40862423,6-4 3-6 7-6,3,Q1,,,,,,,,,,,,,,,,,,,,101,14,152,9
+1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,16,200606,5,,Nana Smith,R,,JPN,24.9472963723,200674,,,Bettina Fulco,R,,ARG,27.40862423,6-4 3-6 7-6,3,Q1,,,,,,,,,,,,,,,,,,,,101,14,152,9
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,17,200005,7,,Jolene Watanabe Giltz,R,,USA,27.5537303217,201341,,,Mi Ra Jeon,U,,KOR,18.1190965092,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,89,16,221,5
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,18,200036,,,Nicole Pratt,R,,AUS,23.0444900753,201835,,WC,Maja Muric,U,,CRO,22.0616016427,6-2 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,208,5,564,0
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,19,201021,,,Laura Garrone,U,,ITA,28.34770705,200640,,,Mercedes Paz,U,,ARG,29.7330595483,6-4 3-6 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,214,5,185,6
@@ -7637,14 +7637,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,24,200506,,,Wiltrud Probst,R,,GER,26.8117727584,200012,4,,Jana Nejedly,R,,CAN,21.7823408624,6-4 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,133,11,114,12
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,25,200717,6,,Anne Miller,R,,USA,19.1676933607,201850,,,Nino Louarsabishvili,U,,GEO,19.1266255989,7-5 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,92,15,157,9
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,26,200106,,,Angeles Montolio,R,,ESP,20.6242299795,200115,,WC,Brie Rippner,R,,USA,16.1642710472,6-4 7-6,3,Q1,,,,,,,,,,,,,,,,,,,,155,9,689,0
-1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,27,201771,,,Virag Csurgo,U,,HUN,23.3593429158,200071,,,Lenka Nemeckova,R,,CZE,19.9178644764,1-6 7-6 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,205,6,129,11
+1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,27,201771,,,Virag Csurgo,R,172,HUN,23.3593429158,200071,,,Lenka Nemeckova,R,,CZE,19.9178644764,1-6 7-6 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,205,6,129,11
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,28,200050,16,,Sandra Kleinova,R,,CZE,17.8699520876,201727,,,Silvia Ramon Cortes,U,,ESP,23.613963039,6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,130,11,144,10
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,29,200706,9,,Catalina Cristea,R,,ROU,20.8021902806,201205,,WC,Tracy Almeda Singian,U,,USA,16.4572210815,7-6 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,115,12,722,0
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,30,200062,,,Kristina Brandi,R,168,PUR,18.9787816564,200099,,,Sonya Jeyaseelan,R,,CAN,19.9069130732,6-3 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,176,7,162,9
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,31,200480,,,Claudia Porwik,U,,GER,27.3483915127,200038,,,Annabel Ellwood,R,,AUS,18.1300479124,3-6 7-5 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,156,9,143,10
-1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,32,200681,2,,Natalia Baudone Furlan,U,,ITA,23.6906228611,200091,,,Janet Lee,R,,TPE,19.4113620808,7-5 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,94,15,159,9
+1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,32,200681,2,,Natalia Baudone,U,,ITA,23.6906228611,200091,,,Janet Lee,R,,TPE,19.4113620808,7-5 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,94,15,159,9
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,33,200569,,,Petra Pichalova Langrova,U,,TCH,25.7330595483,200697,1,,Janette Husarova,R,,SVK,21.7960301164,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,158,9,91,16
-1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,34,200028,,,Maureen Drake,R,,CAN,25.0020533881,200423,,WC,Carling Bassett Seguso,U,,CAN,28.4490075291,6-0 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,127,11,,
+1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,34,200028,,,Maureen Drake,R,,CAN,25.0020533881,200423,,WC,Carling Bassett Seguso,R,,CAN,28.4490075291,6-0 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,127,11,,
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,35,200021,,,Alexia Dechaume Balleret,R,,FRA,25.8836413415,200024,15,,Maria Vento Kabchi,R,,VEN,21.826146475,7-6 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,147,10,153,9
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,36,200704,8,,Maria Jose Gaidano,U,,ARG,22.8227241615,200061,,,Gala Leon Garcia,L,,ESP,22.2422997947,7-6 4-6 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,103,14,138,10
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,37,200584,,,Laura Golarsa,R,,ITA,28.3148528405,200612,,,Natalia Medvedeva,U,,UKR,24.34770705,7-6 7-6,3,Q2,,,,,,,,,,,,,,,,,,,,151,9,135,10
@@ -7656,16 +7656,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,43,200725,13,,Sandra Cecchini,U,,ITA,31.06091718,201751,,WC,Melissa Mazzotta,U,,USA,23.7481177276,7-6 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,117,12,414,1
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,44,200722,,,Francesca Lubiani,L,,ITA,18.6913073238,200506,,,Wiltrud Probst,R,,GER,26.8117727584,6-3 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,132,11,133,11
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,45,200106,,,Angeles Montolio,R,,ESP,20.6242299795,200717,6,,Anne Miller,R,,USA,19.1676933607,6-3 0-6 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,155,9,92,15
-1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,46,201771,,,Virag Csurgo,U,,HUN,23.3593429158,200050,16,,Sandra Kleinova,R,,CZE,17.8699520876,3-0 RET,3,Q2,,,,,,,,,,,,,,,,,,,,205,6,130,11
+1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,46,201771,,,Virag Csurgo,R,172,HUN,23.3593429158,200050,16,,Sandra Kleinova,R,,CZE,17.8699520876,3-0 RET,3,Q2,,,,,,,,,,,,,,,,,,,,205,6,130,11
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,47,200062,,,Kristina Brandi,R,168,PUR,18.9787816564,200706,9,,Catalina Cristea,R,,ROU,20.8021902806,7-6 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,176,7,115,12
-1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,48,200480,,,Claudia Porwik,U,,GER,27.3483915127,200681,2,,Natalia Baudone Furlan,U,,ITA,23.6906228611,6-3 7-6,3,Q2,,,,,,,,,,,,,,,,,,,,156,9,94,15
+1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,48,200480,,,Claudia Porwik,U,,GER,27.3483915127,200681,2,,Natalia Baudone,U,,ITA,23.6906228611,6-3 7-6,3,Q2,,,,,,,,,,,,,,,,,,,,156,9,94,15
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,49,200028,,,Maureen Drake,R,,CAN,25.0020533881,200569,,,Petra Pichalova Langrova,U,,TCH,25.7330595483,6-4 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,127,11,158,9
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,50,200021,,,Alexia Dechaume Balleret,R,,FRA,25.8836413415,200704,8,,Maria Jose Gaidano,U,,ARG,22.8227241615,4-6 6-0 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,147,10,103,14
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,51,200584,,,Laura Golarsa,R,,ITA,28.3148528405,200634,,WC,Elena Brioukhovets,U,,UKR,24.7857631759,7-6 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,151,9,273,3
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,52,200107,,,Paola Suarez,R,170,ARG,19.742642026,200606,5,,Nana Smith,R,,JPN,24.9472963723,7-5 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,121,12,101,14
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,53,200057,12,,Erika De Lone,R,,USA,23.4332648871,200005,7,,Jolene Watanabe Giltz,R,,USA,27.5537303217,6-2 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,120,12,89,16
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,54,200725,13,,Sandra Cecchini,U,,ITA,31.06091718,200722,,,Francesca Lubiani,L,,ITA,18.6913073238,6-4 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,117,12,132,11
-1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,55,201771,,,Virag Csurgo,U,,HUN,23.3593429158,200106,,,Angeles Montolio,R,,ESP,20.6242299795,6-3 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,205,6,155,9
+1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,55,201771,,,Virag Csurgo,R,172,HUN,23.3593429158,200106,,,Angeles Montolio,R,,ESP,20.6242299795,6-3 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,205,6,155,9
 1996-W-WT-USA-03A-1996,Key Biscayne,Hard,96,W,19960321,56,200480,,,Claudia Porwik,U,,GER,27.3483915127,200062,,,Kristina Brandi,R,168,PUR,18.9787816564,6-2 5-7 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,156,9,176,7
 1996-W-WT-AUT-01A-1996,Linz,Carpet,32,W,19960226,1,200700,1,,Silvia Farina Elia,R,,ITA,23.832991102,201744,,,Caroline Schneider,U,,GER,22.7378507871,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,38,35,379,2
 1996-W-WT-AUT-01A-1996,Linz,Carpet,32,W,19960226,2,200087,,,Seda Noorlander,R,,NED,21.7659137577,204030,,WC,Nina Aigner,R,,AUT,15.6851471595,6-0 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,183,6,987,0
@@ -7708,7 +7708,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-WT-LUX-01A-1996,Luxembourg,Carpet,32,W,19961021,11,201831,,,Sabine Gerke,U,,GER,24.9336071184,201319,,,Evelyn Fauth,R,,AUT,19.8986995209,3-6 6-4 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,394,1,355,2
 1996-W-WT-LUX-01A-1996,Luxembourg,Carpet,32,W,19961021,12,200007,3,,Silvija Talaja,R,,CRO,18.7679671458,201715,,,Heike Thoms,U,,GER,27.9698836413,7-5 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,95,15,338,2
 1996-W-WT-LUX-01A-1996,Luxembourg,Carpet,32,W,19961021,13,200491,5,,Christina Singer,U,,GER,28.2354551677,201855,,,Adriana Barna,R,,GER,18.4202600958,7-6 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,125,11,275,3
-1996-W-WT-LUX-01A-1996,Luxembourg,Carpet,32,W,19961021,14,201288,,,Maja Palaversic Cooper Smith,R,,CRO,23.5783709788,201771,,,Virag Csurgo,U,,HUN,23.9452429843,6-0 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,295,3,202,5
+1996-W-WT-LUX-01A-1996,Luxembourg,Carpet,32,W,19961021,14,201288,,,Maja Palaversic Cooper Smith,R,,CRO,23.5783709788,201771,,,Virag Csurgo,R,172,HUN,23.9452429843,6-0 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,295,3,202,5
 1996-W-WT-LUX-01A-1996,Luxembourg,Carpet,32,W,19961021,15,200455,,,Katerina Maleeva,U,,BUL,27.4579055441,200625,,,Jana Pospisilova,U,,CZE,26.5817932923,6-2 3-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,217,5,260,3
 1996-W-WT-LUX-01A-1996,Luxembourg,Carpet,32,W,19961021,16,200612,2,,Natalia Medvedeva,U,,UKR,24.9336071184,202157,,,Paola Tampieri,U,,ITA,21.4893908282,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,94,16,307,2
 1996-W-WT-LUX-01A-1996,Luxembourg,Carpet,32,W,19961021,17,200101,1,,Jana Kandarr,R,,GER,20.0821355236,202081,,,Katalin Miskolczi,U,,HUN,20.2080766598,7-5 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,89,16,236,4
@@ -7778,12 +7778,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-WT-ITA-02A-1996,Palermo,Clay,32,W,19960715,9,200587,4,,Silke Meier,U,,GER,28.0054757016,201863,,,Alice Canepa,R,,ITA,18.2094455852,6-2 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,199,5,498,1
 1996-W-WT-ITA-02A-1996,Palermo,Clay,32,W,19960715,10,201952,7,,Elena Savoldi,U,,ITA,23.6741957563,203856,,,Elisabeth Habeler,U,,AUT,21.6563997262,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,286,3,303,2
 1996-W-WT-ITA-02A-1996,Palermo,Clay,32,W,19960715,11,201869,8,,Radka Pelikanova,U,,CZE,19.2826830938,202117,,,Maria Paola Zavagli,U,,ITA,19.112936345,6-0 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,289,3,294,3
-1996-W-WT-ITA-02A-1996,Palermo,Clay,32,W,19960715,12,200674,3,,Bettina Fulco Villella,R,,ARG,27.7262149213,204067,,WC,Alessia Risuleo,U,,ITA,16.1067761807,6-1 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,134,10,882,0
+1996-W-WT-ITA-02A-1996,Palermo,Clay,32,W,19960715,12,200674,3,,Bettina Fulco,R,,ARG,27.7262149213,204067,,WC,Alessia Risuleo,U,,ITA,16.1067761807,6-1 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,134,10,882,0
 1996-W-WT-ITA-02A-1996,Palermo,Clay,32,W,19960715,13,200114,6,,Patricia Wartusch,R,,AUT,17.9438740589,201930,,,Monica Guglielmi,U,,ITA,21.8672142368,6-2 6-7 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,272,3,513,1
 1996-W-WT-ITA-02A-1996,Palermo,Clay,32,W,19960715,14,200739,2,,Stephanie De Ville,U,,BEL,19.9753593429,202081,,,Katalin Miskolczi,U,,HUN,19.9397672827,6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,128,10,290,3
 1996-W-WT-ITA-02A-1996,Palermo,Clay,32,W,19960715,15,201752,5,,Cristina Salvi,U,,ITA,26.1683778234,202116,,WC,Laura Dellangelo,U,,ITA,15.1622176591,6-4 4-6 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,257,3,,
 1996-W-WT-ITA-02A-1996,Palermo,Clay,32,W,19960715,16,200587,4,,Silke Meier,U,,GER,28.0054757016,201952,7,,Elena Savoldi,U,,ITA,23.6741957563,4-6 7-5 7-5,3,Q3,,,,,,,,,,,,,,,,,,,,199,5,286,3
-1996-W-WT-ITA-02A-1996,Palermo,Clay,32,W,19960715,17,200674,3,,Bettina Fulco Villella,R,,ARG,27.7262149213,201869,8,,Radka Pelikanova,U,,CZE,19.2826830938,6-1 7-6,3,Q3,,,,,,,,,,,,,,,,,,,,134,10,289,3
+1996-W-WT-ITA-02A-1996,Palermo,Clay,32,W,19960715,17,200674,3,,Bettina Fulco,R,,ARG,27.7262149213,201869,8,,Radka Pelikanova,U,,CZE,19.2826830938,6-1 7-6,3,Q3,,,,,,,,,,,,,,,,,,,,134,10,289,3
 1996-W-WT-ITA-02A-1996,Palermo,Clay,32,W,19960715,18,200739,2,,Stephanie De Ville,U,,BEL,19.9753593429,200114,6,,Patricia Wartusch,R,,AUT,17.9438740589,6-0 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,128,10,272,3
 1996-W-WT-FRA-01A-1996,Paris,Clay,28,W,19960213,1,200076,1,,Laurence Courtois,R,,BEL,20.0711841205,200623,,,Petra Thoren,U,,FIN,26.5160848734,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,62,26,206,5
 1996-W-WT-FRA-01A-1996,Paris,Clay,28,W,19960213,2,200742,,,Olga Lugina,U,,UKR,22.0971937029,200021,,,Alexia Dechaume Balleret,R,,FRA,25.7823408624,7-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,174,7,107,14
@@ -7823,7 +7823,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-WT-THA-01A-1996,Pattaya,Hard,32,W,19961118,8,200625,8,,Jana Pospisilova,U,,CZE,26.6584531143,201815,,,Petra Rampre,R,,SLO,16.8295687885,6-0 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,224,5,265,3
 1996-W-WT-THA-01A-1996,Pattaya,Hard,32,W,19961118,9,200119,3,,Rita Kuti Kis,L,,HUN,18.7624914442,201812,,,Hiroko Mochizuki,U,,JPN,21.325119781,6-2 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,181,7,275,3
 1996-W-WT-THA-01A-1996,Pattaya,Hard,32,W,19961118,10,200091,6,,Janet Lee,R,,TPE,20.0739219713,202192,,,Tzu Ting Weng,U,,TPE,18.3846680356,6-4 7-6,3,Q2,,,,,,,,,,,,,,,,,,,,217,5,248,4
-1996-W-WT-THA-01A-1996,Pattaya,Hard,32,W,19961118,11,201323,,,Saori Obata,L,,JPN,18.5735797399,201771,7,,Virag Csurgo,U,,HUN,24.0219028063,7-6 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,319,2,216,5
+1996-W-WT-THA-01A-1996,Pattaya,Hard,32,W,19961118,11,201323,,,Saori Obata,L,,JPN,18.5735797399,201771,7,,Virag Csurgo,R,172,HUN,24.0219028063,7-6 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,319,2,216,5
 1996-W-WT-THA-01A-1996,Pattaya,Hard,32,W,19961118,12,201810,,,Yuko Hosoki,U,,JPN,28.0164271047,201811,4,,Young Ja Choi,U,,KOR,21.4729637235,7-6 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,274,3,182,7
 1996-W-WT-THA-01A-1996,Pattaya,Hard,32,W,19961118,13,204080,,,Yeon Hee Cho,U,,KOR,20.8706365503,202195,5,,Petra Gaspar,U,,HUN,19.7618069815,6-2 4-6 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,,,191,6
 1996-W-WT-THA-01A-1996,Pattaya,Hard,32,W,19961118,14,200747,2,,Haruka Inoue,R,,JPN,19.4496919918,200636,,WC,Danielle Jones,U,,AUS,27.7097878166,7-5 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,166,7,591,0
@@ -7843,33 +7843,33 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-WT-CZE-01A-1996,Karlovy Vary,Clay,32,W,19960910,10,200055,,,Mariana Diaz Oliva,R,,ARG,20.501026694,200625,,,Jana Pospisilova,U,,CZE,26.46954141,6-3 4-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,152,8,292,3
 1996-W-WT-CZE-01A-1996,Karlovy Vary,Clay,32,W,19960910,11,201061,,,Eva Martincova,U,,CZE,21.5222450376,200106,1,,Angeles Montolio,R,,ESP,21.0978781656,7-5 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,205,6,116,12
 1996-W-WT-CZE-01A-1996,Karlovy Vary,Clay,32,W,19960910,12,200022,7,,Emmanuelle Gagliardi,R,,SUI,20.1724845996,204095,,WC,Jana Ondrouchova,U,,CZE,18.3326488706,4-6 6-3 7-6,3,Q2,,,,,,,,,,,,,,,,,,,,159,8,646,0
-1996-W-WT-CZE-01A-1996,Karlovy Vary,Clay,32,W,19960910,13,200674,3,,Bettina Fulco Villella,R,,ARG,27.8822724162,202185,,,Anna Bielen Zarska,R,,POL,17.1389459274,6-3 6-7 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,126,11,422,1
+1996-W-WT-CZE-01A-1996,Karlovy Vary,Clay,32,W,19960910,13,200674,3,,Bettina Fulco,R,,ARG,27.8822724162,202185,,,Anna Bielen Zarska,R,,POL,17.1389459274,6-3 6-7 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,126,11,422,1
 1996-W-WT-CZE-01A-1996,Karlovy Vary,Clay,32,W,19960910,14,200110,6,,Fabiola Zuluaga,R,,COL,17.6755646817,200587,,,Silke Meier,U,,GER,28.1615331964,6-1 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,142,9,232,5
 1996-W-WT-CZE-01A-1996,Karlovy Vary,Clay,32,W,19960910,15,200712,8,,Katerina Kroupova,U,,CZE,22.5544147844,200012,,,Jana Nejedly,R,,CAN,22.2559890486,6-0 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,165,8,195,6
 1996-W-WT-CZE-01A-1996,Karlovy Vary,Clay,32,W,19960910,16,201203,,,Alena Nesticka,R,,CZE,20.8405201916,200506,4,,Wiltrud Probst,R,,GER,27.2854209446,7-5 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,217,5,130,10
 1996-W-WT-CZE-01A-1996,Karlovy Vary,Clay,32,W,19960910,17,200570,5,,Veronika Martinek,U,,GER,24.4380561259,201869,,,Radka Pelikanova,U,,CZE,19.4387405886,6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,128,11,259,3
 1996-W-WT-CZE-01A-1996,Karlovy Vary,Clay,32,W,19960910,18,200055,,,Mariana Diaz Oliva,R,,ARG,20.501026694,200013,9,,Angelica Gavaldon,R,,MEX,22.9377138946,6-2 3-6 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,152,8,231,5
 1996-W-WT-CZE-01A-1996,Karlovy Vary,Clay,32,W,19960910,19,200022,7,,Emmanuelle Gagliardi,R,,SUI,20.1724845996,201061,,,Eva Martincova,U,,CZE,21.5222450376,2-6 7-6 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,159,8,205,6
-1996-W-WT-CZE-01A-1996,Karlovy Vary,Clay,32,W,19960910,20,200674,3,,Bettina Fulco Villella,R,,ARG,27.8822724162,200110,6,,Fabiola Zuluaga,R,,COL,17.6755646817,6-1 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,126,11,142,9
+1996-W-WT-CZE-01A-1996,Karlovy Vary,Clay,32,W,19960910,20,200674,3,,Bettina Fulco,R,,ARG,27.8822724162,200110,6,,Fabiola Zuluaga,R,,COL,17.6755646817,6-1 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,126,11,142,9
 1996-W-WT-CZE-01A-1996,Karlovy Vary,Clay,32,W,19960910,21,200712,8,,Katerina Kroupova,U,,CZE,22.5544147844,201203,,,Alena Nesticka,R,,CZE,20.8405201916,6-2 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,165,8,217,5
 1996-W-WT-CZE-01A-1996,Karlovy Vary,Clay,32,W,19960910,22,200055,,,Mariana Diaz Oliva,R,,ARG,20.501026694,200570,5,,Veronika Martinek,U,,GER,24.4380561259,2-6 6-3 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,152,8,128,11
 1996-W-WT-ITA-01A-1996,Rome,Clay,56,W,19960506,1,200769,,WC,Giulia Casoni,R,,ITA,18.0479123888,200559,,,Kristine Kunce,U,,AUS,26.1765913758,6-4 6-7 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,410,1,184,6
 1996-W-WT-ITA-01A-1996,Rome,Clay,56,W,19960506,2,200560,,,Rene Collins,L,,CAN,30.3080082136,200640,,,Mercedes Paz,U,,ARG,29.8590006845,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,159,8,203,5
 1996-W-WT-ITA-01A-1996,Rome,Clay,56,W,19960506,3,201838,,,Federica Fortuni,U,,ITA,21.5989048597,201727,,,Silvia Ramon Cortes,U,,ESP,23.7399041752,6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,210,5,165,7
-1996-W-WT-ITA-01A-1996,Rome,Clay,56,W,19960506,4,200674,,,Bettina Fulco Villella,R,,ARG,27.5345653662,201863,,WC,Alice Canepa,R,,ITA,18.0177960301,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,231,4,328,2
+1996-W-WT-ITA-01A-1996,Rome,Clay,56,W,19960506,4,200674,,,Bettina Fulco,R,,ARG,27.5345653662,201863,,WC,Alice Canepa,R,,ITA,18.0177960301,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,231,4,328,2
 1996-W-WT-ITA-01A-1996,Rome,Clay,56,W,19960506,5,200769,,WC,Giulia Casoni,R,,ITA,18.0479123888,200028,5,,Maureen Drake,R,,CAN,25.1279945243,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,410,1,156,8
 1996-W-WT-ITA-01A-1996,Rome,Clay,56,W,19960506,6,200560,,,Rene Collins,L,,CAN,30.3080082136,200695,3,,Tina Krizan,R,,SLO,22.135523614,6-4 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,159,8,155,8
 1996-W-WT-ITA-01A-1996,Rome,Clay,56,W,19960506,7,201838,,,Federica Fortuni,U,,ITA,21.5989048597,200672,4,,Barbara Mulej,R,,SLO,21.9383983573,1-6 6-2 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,210,5,154,8
-1996-W-WT-ITA-01A-1996,Rome,Clay,56,W,19960506,8,200674,,,Bettina Fulco Villella,R,,ARG,27.5345653662,200099,2,,Sonya Jeyaseelan,R,,CAN,20.0328542094,3-6 6-1 7-6,3,Q2,,,,,,,,,,,,,,,,,,,,231,4,148,9
+1996-W-WT-ITA-01A-1996,Rome,Clay,56,W,19960506,8,200674,,,Bettina Fulco,R,,ARG,27.5345653662,200099,2,,Sonya Jeyaseelan,R,,CAN,20.0328542094,3-6 6-1 7-6,3,Q2,,,,,,,,,,,,,,,,,,,,231,4,148,9
 1996-W-WT-USA-07A-1996,San Diego,Hard,28,W,19960819,1,200701,,,Caroline Vis,R,,NED,26.4613278576,200745,,,Andrea Glass,R,,GER,20.090349076,6-1 1-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,245,4,125,11
 1996-W-WT-USA-07A-1996,San Diego,Hard,28,W,19960819,2,201277,,,Anne Mall,U,,IRL,21.6919917864,200669,,,Debbie Graham,R,,USA,25.9849418207,2-1 RET,3,Q1,,,,,,,,,,,,,,,,,,,,309,2,171,7
 1996-W-WT-USA-07A-1996,San Diego,Hard,28,W,19960819,3,200686,,,Sandra Dopfer,U,,AUT,26.2368240931,200070,,,Anne Gaelle Sidot,L,,FRA,17.0732375086,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,100,15,85,17
 1996-W-WT-USA-07A-1996,San Diego,Hard,28,W,19960819,4,203018,,,Laura Montalvo,U,,ARG,20.3915126626,204119,,WC,Kristen Radford,U,,USA,17.8809034908,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,238,4,720,0
 1996-W-WT-USA-07A-1996,San Diego,Hard,28,W,19960819,5,200109,,,Nathalie Dechy,R,177,FRA,17.492128679,200061,,,Gala Leon Garcia,L,,ESP,22.6557152635,4-6 7-6 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,97,15,73,20
 1996-W-WT-USA-07A-1996,San Diego,Hard,28,W,19960819,6,200748,,WC,Venus Williams,R,185,USA,16.1724845996,200075,,,Jing Qian Yi,R,,CHN,22.4722792608,6-1 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,148,9,82,18
-1996-W-WT-USA-07A-1996,San Diego,Hard,28,W,19960819,7,200722,,,Francesca Lubiani,L,,ITA,19.1047227926,200557,,,Katrina Adams,U,,USA,28.038329911,7-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,92,16,93,16
+1996-W-WT-USA-07A-1996,San Diego,Hard,28,W,19960819,7,200722,,,Francesca Lubiani,L,,ITA,19.1047227926,200557,,,Katrina Adams,R,165,USA,28.038329911,7-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,92,16,93,16
 1996-W-WT-USA-07A-1996,San Diego,Hard,28,W,19960819,8,200702,1,,Naoko Kijimuta,U,,JPN,24.3997262149,200701,,,Caroline Vis,R,,NED,26.4613278576,6-1 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,53,29,245,4
-1996-W-WT-USA-07A-1996,San Diego,Hard,28,W,19960819,9,201277,,,Anne Mall,U,,IRL,21.6919917864,200595,7,,Ann Wunderlich,U,,USA,25.8507871321,7-6 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,309,2,65,21
+1996-W-WT-USA-07A-1996,San Diego,Hard,28,W,19960819,9,201277,,,Anne Mall,U,,IRL,21.6919917864,200595,7,,Ann Grossman,U,,USA,25.8507871321,7-6 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,309,2,65,21
 1996-W-WT-USA-07A-1996,San Diego,Hard,28,W,19960819,10,200082,3,,Kristie Boogert,R,,NED,22.674880219,200686,,,Sandra Dopfer,U,,AUT,26.2368240931,7-6 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,55,28,100,15
 1996-W-WT-USA-07A-1996,San Diego,Hard,28,W,19960819,11,200665,5,,Yone Kamio,U,,JPN,24.7419575633,203018,,,Laura Montalvo,U,,ARG,20.3915126626,6-2 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,72,20,238,4
 1996-W-WT-USA-07A-1996,San Diego,Hard,28,W,19960819,12,200094,6,,Barbara Rittner,R,,GER,23.318275154,200109,,,Nathalie Dechy,R,177,FRA,17.492128679,6-2 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,62,24,97,15
@@ -7898,7 +7898,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-WT-AUS-02A-1996,Sydney,Hard,28,W,19960108,1,200094,1,,Barbara Rittner,R,,GER,22.7049965777,200695,,,Tina Krizan,R,,SLO,21.8097193703,6-1 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,48,30,152,9
 1996-W-WT-AUS-02A-1996,Sydney,Hard,28,W,19960108,2,200655,,,Nicole Arendt,L,,USA,26.3682409309,200099,,,Sonya Jeyaseelan,R,,CAN,19.7070499658,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,116,13,177,7
 1996-W-WT-AUS-02A-1996,Sydney,Hard,28,W,19960108,3,200035,,,Maria Sanchez Lorenzo,R,,ESP,18.1683778234,200659,,,Rika Hiraki,U,,JPN,24.090349076,7-5 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,120,12,149,9
-1996-W-WT-AUS-02A-1996,Sydney,Hard,28,W,19960108,4,200720,6,,Dally Randriantefy,R,,MAD,18.8720054757,200681,,,Natalia Baudone Furlan,U,,ITA,23.4907597536,6-1 3-6 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,90,17,96,16
+1996-W-WT-AUS-02A-1996,Sydney,Hard,28,W,19960108,4,200720,6,,Dally Randriantefy,R,,MAD,18.8720054757,200681,,,Natalia Baudone,U,,ITA,23.4907597536,6-1 3-6 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,90,17,96,16
 1996-W-WT-AUS-02A-1996,Sydney,Hard,28,W,19960108,5,200584,,,Laura Golarsa,R,,ITA,28.1149897331,200012,4,,Jana Nejedly,R,,CAN,21.582477755,6-3 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,154,9,100,16
 1996-W-WT-AUS-02A-1996,Sydney,Hard,28,W,19960108,6,200660,,,Kimberly Po Messerli,R,,USA,24.219028063,200733,,WC,Trudi Musgrave,U,,AUS,18.3271731691,6-1 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,163,8,292,3
 1996-W-WT-AUS-02A-1996,Sydney,Hard,28,W,19960108,7,200734,,,Tatjana Jecmenica,U,,SRB,17.5140314853,200439,,WC,Jenny Byrne,U,,AUS,28.8678986995,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,111,14,892,0
@@ -7959,7 +7959,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-WT-JPN-01A-1996,Tokyo,Carpet,28,W,19960129,12,200669,,,Debbie Graham,R,,USA,25.4291581109,200584,6,,Laura Golarsa,R,,ITA,28.1724845996,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,154,9,144,9
 1996-W-WT-JPN-01A-1996,Tokyo,Carpet,28,W,19960129,13,200702,3,,Naoko Kijimuta,U,,JPN,23.8439425051,201625,,,Ju Yeon Choi,U,,KOR,20.1943874059,6-3 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,92,16,234,4
 1996-W-WT-JPN-01A-1996,Tokyo,Carpet,28,W,19960129,14,200659,7,,Rika Hiraki,U,,JPN,24.1478439425,200593,,,Karine Quentrec,U,,FRA,26.2724161533,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,127,11,249,4
-1996-W-WT-JPN-01A-1996,Tokyo,Carpet,28,W,19960129,15,201059,,,Misumi Miyauchi,U,,JPN,24.3969883641,200497,2,,Patricia Hy Boulais,U,,CAN,30.4366872005,W/O,3,Q2,,,,,,,,,,,,,,,,,,,,362,2,79,19
+1996-W-WT-JPN-01A-1996,Tokyo,Carpet,28,W,19960129,15,201059,,,Misumi Miyauchi,U,,JPN,24.3969883641,200497,2,,Patricia Hy Boulais,R,,CAN,30.4366872005,W/O,3,Q2,,,,,,,,,,,,,,,,,,,,362,2,79,19
 1996-W-WT-JPN-01A-1996,Tokyo,Carpet,28,W,19960129,16,200582,8,,Maria Strandlund Tomsvik,U,,SWE,26.4503764545,200716,1,,Sung Hee Park,U,,KOR,20.9472963723,6-4 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,166,8,75,20
 1996-W-WT-JPN-01A-1996,Tokyo,Carpet,28,W,19960129,17,200578,4,,Rennae Stubbs,R,,AUS,24.8459958932,200735,,,Miho Saeki,R,,JPN,19.8658453114,6-2 3-6 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,81,19,213,5
 1996-W-WT-JPN-01A-1996,Tokyo,Carpet,28,W,19960129,18,200702,3,,Naoko Kijimuta,U,,JPN,23.8439425051,200669,,,Debbie Graham,R,,USA,25.4291581109,3-6 6-4 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,92,16,154,9
@@ -7974,7 +7974,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-WT-POL-01A-1996,Warsaw,Clay,32,W,19960916,8,200625,,,Jana Pospisilova,U,,CZE,26.4859685147,200455,,WC,Katerina Maleeva,U,,BUL,27.3620807666,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,281,3,221,5
 1996-W-WT-POL-01A-1996,Warsaw,Clay,32,W,19960916,9,201203,,,Alena Nesticka,R,,CZE,20.8569472964,201928,,,Julia Lutrova,U,,RUS,21.6865160849,6-4 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,222,5,210,6
 1996-W-WT-POL-01A-1996,Warsaw,Clay,32,W,19960916,10,201846,,,Katarzyna Teodorowicz Lisowska,U,,POL,23.8001368925,204139,,,Dominika Olszewska,U,,POL,17.9657768652,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,724,0,692,0
-1996-W-WT-POL-01A-1996,Warsaw,Clay,32,W,19960916,11,200674,1,,Bettina Fulco Villella,R,,ARG,27.8986995209,200013,,,Angelica Gavaldon,R,,MEX,22.9541409993,6-4 4-6 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,133,10,230,5
+1996-W-WT-POL-01A-1996,Warsaw,Clay,32,W,19960916,11,200674,1,,Bettina Fulco,R,,ARG,27.8986995209,200013,,,Angelica Gavaldon,R,,MEX,22.9541409993,6-4 4-6 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,133,10,230,5
 1996-W-WT-POL-01A-1996,Warsaw,Clay,32,W,19960916,12,201049,8,,Denisa Krajcovicova,U,,SVK,27.9123887748,200587,,,Silke Meier,U,,GER,28.1779603012,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,180,7,229,5
 1996-W-WT-POL-01A-1996,Warsaw,Clay,32,W,19960916,13,200740,4,,Elena Tatarkova,L,,UKR,20.0684462697,200012,,,Jana Nejedly,R,,CAN,22.2724161533,6-2 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,155,8,213,6
 1996-W-WT-POL-01A-1996,Warsaw,Clay,32,W,19960916,14,202246,,,Ines Heise,U,,GER,20.8542094456,200712,5,,Katerina Kroupova,U,,CZE,22.5708418891,7-5 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,241,4,251,4
@@ -7982,7 +7982,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1996-W-WT-POL-01A-1996,Warsaw,Clay,32,W,19960916,16,200625,,,Jana Pospisilova,U,,CZE,26.4859685147,200055,3,,Mariana Diaz Oliva,R,,ARG,20.5174537988,5-7 6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,281,3,132,10
 1996-W-WT-POL-01A-1996,Warsaw,Clay,32,W,19960916,17,201203,,,Alena Nesticka,R,,CZE,20.8569472964,202195,6,,Petra Gaspar,U,,HUN,19.5893223819,6-4 3-6 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,222,5,165,7
 1996-W-WT-POL-01A-1996,Warsaw,Clay,32,W,19960916,18,201846,,,Katarzyna Teodorowicz Lisowska,U,,POL,23.8001368925,200742,2,,Olga Lugina,U,,UKR,22.688569473,6-2 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,724,0,140,9
-1996-W-WT-POL-01A-1996,Warsaw,Clay,32,W,19960916,19,200674,1,,Bettina Fulco Villella,R,,ARG,27.8986995209,201049,8,,Denisa Krajcovicova,U,,SVK,27.9123887748,6-0 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,133,10,180,7
+1996-W-WT-POL-01A-1996,Warsaw,Clay,32,W,19960916,19,200674,1,,Bettina Fulco,R,,ARG,27.8986995209,201049,8,,Denisa Krajcovicova,U,,SVK,27.9123887748,6-0 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,133,10,180,7
 1996-W-WT-POL-01A-1996,Warsaw,Clay,32,W,19960916,20,202246,,,Ines Heise,U,,GER,20.8542094456,200740,4,,Elena Tatarkova,L,,UKR,20.0684462697,6-1 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,241,4,155,8
 1996-W-WT-POL-01A-1996,Warsaw,Clay,32,W,19960916,21,200706,7,,Catalina Cristea,R,,ROU,21.2922655715,200625,,,Jana Pospisilova,U,,CZE,26.4859685147,6-7 6-3 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,182,7,281,3
 1996-W-WT-POL-01A-1996,Warsaw,Clay,32,W,19960916,22,201846,,,Katarzyna Teodorowicz Lisowska,U,,POL,23.8001368925,201203,,,Alena Nesticka,R,,CZE,20.8569472964,6-3 6-0,3,Q3,,,,,,,,,,,,,,,,,,,,724,0,222,5

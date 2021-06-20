@@ -48,7 +48,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-D013,Fed Cup G1 RRA: NED vs LUX,Carpet,4,D,20080130,2,200124,,,Anne Kremer,R,,LUX,32.2874743326,202869,,,Nicole Thyssen,R,,NED,19.65229295,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,99,357,287,89
 2008-D014,Fed Cup G1 RRA: NED vs POR,Carpet,4,D,20080131,1,205673,,,Renee Reinhard,U,,NED,17.87816564,201959,,,Ana Catarina Nogueira,U,,POR,29.363449692,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,594,22,718,14
 2008-D014,Fed Cup G1 RRA: NED vs POR,Carpet,4,D,20080131,2,201551,,,Arantxa Rus,L,180,NED,17.1334702259,201574,,,Neuza Silva,R,,POR,24.7446954141,7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,,463,38,202,144
-2008-D015,Fed Cup G1 RRA: BUL vs LUX,Carpet,4,D,20080131,1,201605,,,Mandy Minella,R,,LUX,22.1902806297,201691,,,Dia Evtimova,R,,BUL,20.7556468172,6-3 6-7(2) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,401,48,275,94
+2008-D015,Fed Cup G1 RRA: BUL vs LUX,Carpet,4,D,20080131,1,201605,,,Mandy Minella,R,180,LUX,22.1902806297,201691,,,Dia Evtimova,R,,BUL,20.7556468172,6-3 6-7(2) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,401,48,275,94
 2008-D015,Fed Cup G1 RRA: BUL vs LUX,Carpet,4,D,20080131,2,201450,,,Tsvetana Pironkova,R,180,BUL,20.3832991102,200124,,,Anne Kremer,R,,LUX,32.2902121834,4-6 6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,75,423,99,357
 2008-D016,Fed Cup G1 RRA: BUL vs POR,Carpet,4,D,20080130,1,201691,,,Dia Evtimova,R,,BUL,20.7529089665,201959,,,Ana Catarina Nogueira,U,,POR,29.3607118412,6-2 7-5,3,RR,,,,,,,,,,,,,,,,,,,,275,94,718,14
 2008-D016,Fed Cup G1 RRA: BUL vs POR,Carpet,4,D,20080130,2,201450,,,Tsvetana Pironkova,R,180,BUL,20.3805612594,201574,,,Neuza Silva,R,,POR,24.7419575633,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,75,423,202,144
@@ -132,23 +132,23 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-D055,Fed Cup G2 RRA: KOR vs SYR,Hard,4,D,20080130,2,201676,,,Ye Ra Lee,R,,KOR,20.3778234086,209983,,,Line Al Ghannam,R,,SYR,18.3463381246,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,206,142,,
 2008-D056,Fed Cup G2 RRA: PHI vs SYR,Hard,4,D,20080131,1,204690,,,Czarina Mae Arevalo,R,,PHI,22.7159479808,209982,,,Ranim Mkahal,R,,SYR,16.629705681,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2008-D056,Fed Cup G2 RRA: PHI vs SYR,Hard,4,D,20080131,2,208797,,,Denise Dy,R,,PHI,18.7104722793,209983,,,Line Al Ghannam,R,,SYR,18.3490759754,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D057,Fed Cup G2 RRB: KAZ vs SIN,Hard,4,D,20080201,1,209433,,,Madina Rakhim,U,,KAZ,22.7323750856,212218,,,Vanessa Boey,,,SIN,17.5085557837,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D057,Fed Cup G2 RRB: KAZ vs SIN,Hard,4,D,20080201,1,209433,,,Madina Rakhim,U,,KAZ,22.7323750856,212218,,,Vanessa Boey,U,,SIN,17.5085557837,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2008-D057,Fed Cup G2 RRB: KAZ vs SIN,Hard,4,D,20080201,2,202864,,,Amina Rakhim,R,,KAZ,18.9404517454,210740,,,Stefanie Tan,R,,SIN,15.3757700205,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,346,63,,
 2008-D058,Fed Cup G2 RRB: KAZ vs TKM,Hard,4,D,20080130,1,202864,,,Amina Rakhim,R,,KAZ,18.9349760438,204282,,,Anastasiya Prenko,U,,TKM,14.8856947296,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,346,63,,
-2008-D058,Fed Cup G2 RRB: KAZ vs TKM,Hard,4,D,20080130,2,205773,,,Valentina Starkova,R,,KAZ,16.1998631075,212184,,,Jenneta Halliyeva,,,TKM,24.9993155373,6-3 6-7(3) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D059,Fed Cup G2 RRB: KAZ vs SRI,Hard,4,D,20080131,1,212201,,,Tatyana Ignatchenko,R,,KAZ,18.9760438056,212243,,,Nilupul Goonasekera,,,SRI,16.772073922,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D059,Fed Cup G2 RRB: KAZ vs SRI,Hard,4,D,20080131,2,202864,,,Amina Rakhim,R,,KAZ,18.9377138946,212244,,,Amreetha Muttiah,,,SRI,16.052019165,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,346,63,,
-2008-D060,Fed Cup G2 RRB: SIN vs TKM,Hard,4,D,20080131,1,204282,,,Anastasiya Prenko,U,,TKM,14.8884325804,212245,,,Carolyn Ann Lim Hui,,,SIN,15.7645448323,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D060,Fed Cup G2 RRB: SIN vs TKM,Hard,4,D,20080131,2,210740,,,Stefanie Tan,R,,SIN,15.3730321697,212184,,,Jenneta Halliyeva,,,TKM,25.0020533881,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D061,Fed Cup G2 RRB: SIN vs SRI,Hard,4,D,20080130,1,212243,,,Nilupul Goonasekera,,,SRI,16.7693360712,212218,,,Vanessa Boey,,,SIN,17.5030800821,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D061,Fed Cup G2 RRB: SIN vs SRI,Hard,4,D,20080130,2,210740,,,Stefanie Tan,R,,SIN,15.370294319,212244,,,Amreetha Muttiah,,,SRI,16.0492813142,6-4 7-6(2),3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D062,Fed Cup G2 RRB: TKM vs SRI,Hard,4,D,20080201,1,212246,,,Jithmie Jayawickrema,R,,SRI,16.6543463381,212183,,,Ummarahmat Hummetova,,,TKM,22.7159479808,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D062,Fed Cup G2 RRB: TKM vs SRI,Hard,4,D,20080201,2,204282,,,Anastasiya Prenko,U,,TKM,14.8911704312,212244,,,Amreetha Muttiah,,,SRI,16.0547570157,6-0 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D063,Fed Cup G2 RRA: BIH vs TUR,Hard,4,D,20080130,1,201390,,,Mervana Jugic Salkic,R,,BIH,27.7125256674,201666,,,Cagla Buyukakcay,R,,TUR,18.3381245722,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,236,116,433,42
+2008-D058,Fed Cup G2 RRB: KAZ vs TKM,Hard,4,D,20080130,2,205773,,,Valentina Starkova,R,,KAZ,16.1998631075,212184,,,Jenneta Halliyeva,U,,TKM,24.9993155373,6-3 6-7(3) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D059,Fed Cup G2 RRB: KAZ vs SRI,Hard,4,D,20080131,1,212201,,,Tatyana Ignatchenko,R,,KAZ,18.9760438056,212243,,,Nilupul Goonasekera,U,,SRI,16.772073922,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D059,Fed Cup G2 RRB: KAZ vs SRI,Hard,4,D,20080131,2,202864,,,Amina Rakhim,R,,KAZ,18.9377138946,212244,,,Amreetha Muttiah,U,,SRI,16.052019165,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,346,63,,
+2008-D060,Fed Cup G2 RRB: SIN vs TKM,Hard,4,D,20080131,1,204282,,,Anastasiya Prenko,U,,TKM,14.8884325804,212245,,,Carolyn Ann Lim Hui,U,,SIN,15.7645448323,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D060,Fed Cup G2 RRB: SIN vs TKM,Hard,4,D,20080131,2,210740,,,Stefanie Tan,R,,SIN,15.3730321697,212184,,,Jenneta Halliyeva,U,,TKM,25.0020533881,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D061,Fed Cup G2 RRB: SIN vs SRI,Hard,4,D,20080130,1,212243,,,Nilupul Goonasekera,U,,SRI,16.7693360712,212218,,,Vanessa Boey,U,,SIN,17.5030800821,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D061,Fed Cup G2 RRB: SIN vs SRI,Hard,4,D,20080130,2,210740,,,Stefanie Tan,R,,SIN,15.370294319,212244,,,Amreetha Muttiah,U,,SRI,16.0492813142,6-4 7-6(2),3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D062,Fed Cup G2 RRB: TKM vs SRI,Hard,4,D,20080201,1,212246,,,Jithmie Jayawickrema,R,,SRI,16.6543463381,212183,,,Ummarahmat Hummetova,U,,TKM,22.7159479808,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D062,Fed Cup G2 RRB: TKM vs SRI,Hard,4,D,20080201,2,204282,,,Anastasiya Prenko,U,,TKM,14.8911704312,212244,,,Amreetha Muttiah,U,,SRI,16.0547570157,6-0 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D063,Fed Cup G2 RRA: BIH vs TUR,Hard,4,D,20080130,1,201390,,,Mervana Jugic Salkic,R,,BIH,27.7125256674,201666,,,Cagla Buyukakcay,R,172,TUR,18.3381245722,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,236,116,433,42
 2008-D063,Fed Cup G2 RRA: BIH vs TUR,Hard,4,D,20080130,2,202389,,,Sandra Martinovic,R,,BIH,28.3230663929,201664,,,Pemra Ozgen,R,,TUR,21.7303216975,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,218,133,397,49
 2008-D064,Fed Cup G2 RRA: BIH vs RSA,Hard,4,D,20080201,1,201390,,,Mervana Jugic Salkic,R,,BIH,27.7180013689,207617,,,Tarryn Rudman,R,,RSA,22.6338124572,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,236,116,,
 2008-D064,Fed Cup G2 RRA: BIH vs RSA,Hard,4,D,20080201,2,202389,,,Sandra Martinovic,R,,BIH,28.3285420945,202586,,,Kelly Anderson,R,,RSA,22.7843942505,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,218,133,700,15
-2008-D065,Fed Cup G2 RRA: TUR vs RSA,Hard,4,D,20080131,1,201666,,,Cagla Buyukakcay,R,,TUR,18.340862423,207617,,,Tarryn Rudman,R,,RSA,22.6310746064,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,433,42,,
+2008-D065,Fed Cup G2 RRA: TUR vs RSA,Hard,4,D,20080131,1,201666,,,Cagla Buyukakcay,R,172,TUR,18.340862423,207617,,,Tarryn Rudman,R,,RSA,22.6310746064,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,433,42,,
 2008-D065,Fed Cup G2 RRA: TUR vs RSA,Hard,4,D,20080131,2,202586,,,Kelly Anderson,R,,RSA,22.7816563997,201664,,,Pemra Ozgen,R,,TUR,21.7330595483,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,700,15,397,49
 2008-D066,Fed Cup G2 RRB: EST vs LTU,Hard,4,D,20080131,1,202399,,,Margit Ruutel,R,,EST,24.4079397673,202786,,,Aurelija Miseviciute,R,,LTU,21.7713894593,5-7 6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,173,175,,
 2008-D066,Fed Cup G2 RRB: EST vs LTU,Hard,4,D,20080131,2,201466,,,Kaia Kanepi,R,181,EST,22.6420260096,202348,,,Lina Stanciute,R,,LTU,21.9794661191,7-6(2) 7-6(3),3,RR,,,,,,,,,,,,,,,,,,,,71,443,383,52
@@ -168,7 +168,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-D073,Fed Cup G2 PO: EST vs RSA,Hard,4,D,20080202,2,201466,,,Kaia Kanepi,R,181,EST,22.6475017112,202586,,,Kelly Anderson,R,,RSA,22.7871321013,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,71,443,700,15
 2008-D074,Fed Cup G2 PO: BIH vs LTU,Hard,4,D,20080202,1,201390,,,Mervana Jugic Salkic,R,,BIH,27.7207392197,202786,,,Aurelija Miseviciute,R,,LTU,21.7768651608,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,236,116,,
 2008-D074,Fed Cup G2 PO: BIH vs LTU,Hard,4,D,20080202,2,202389,,,Sandra Martinovic,R,,BIH,28.3312799452,202348,,,Lina Stanciute,R,,LTU,21.9849418207,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,218,133,383,52
-2008-D075,Fed Cup G2 PO: GRE vs TUR,Hard,4,D,20080202,1,201666,,,Cagla Buyukakcay,R,,TUR,18.3463381246,201706,,,Eirini Georgatou,U,,GRE,18.0013689254,3-6 6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,433,42,,
+2008-D075,Fed Cup G2 PO: GRE vs TUR,Hard,4,D,20080202,1,201666,,,Cagla Buyukakcay,R,172,TUR,18.3463381246,201706,,,Eirini Georgatou,U,,GRE,18.0013689254,3-6 6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,433,42,,
 2008-D075,Fed Cup G2 PO: GRE vs TUR,Hard,4,D,20080202,2,201680,,,Anna Gerasimou,R,,GRE,20.3011635866,201664,,,Pemra Ozgen,R,,TUR,21.7385352498,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,257,103,397,49
 2008-D076,Fed Cup G1 PO: SUI vs SWE,Carpet,4,D,20080202,1,200022,,,Emmanuelle Gagliardi,R,,SUI,31.5674195756,201596,,,Johanna Larsson,R,174,SWE,19.4606433949,6-4 5-7 6-4,3,RR,,,,,,,,,,,,,,,,,,,,126,280,283,91
 2008-D076,Fed Cup G1 PO: SUI vs SWE,Carpet,4,D,20080202,2,201387,,,Sofia Arvidsson,R,176,SWE,23.961670089,200067,,,Patty Schnyder,L,168,SUI,29.1362080767,6-2 3-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,69,454,14,1756
@@ -182,7 +182,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-D080,Fed Cup G1 PO: COL vs BRA,Clay,4,D,20080202,2,201293,,,Catalina Castano,R,171,COL,28.5749486653,202694,,,Teliana Pereira,R,,BRA,19.537303217,6-2 5-7 6-3,3,RR,,,,,,,,,,,,,,,,,,,,115,310,221,130
 2008-D081,Fed Cup G1 PO: MEX vs PAR,,4,D,20080202,1,209174,,,Adriana Pereira,R,,PAR,17.7193702943,203262,,,Valeria Pulido Velasco,R,,MEX,18.0862422998,7-5 3-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,497,33
 2008-D081,Fed Cup G1 PO: MEX vs PAR,,4,D,20080202,2,200709,,,Rosana De Los Rios,R,170,PAR,32.3805612594,202352,,,Daniela Munoz Gallegos,R,,MEX,24.0082135524,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,120,292,359,60
-2008-D082,Fed Cup G1 PO: CAN vs PUR,Clay,4,D,20080202,1,202382,,,Ekaterina Shulaeva,R,,CAN,20.6789869952,201620,,,Monica Puig,R,,PUR,14.3490759754,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,285,90,,
+2008-D082,Fed Cup G1 PO: CAN vs PUR,Clay,4,D,20080202,1,202382,,,Ekaterina Shulaeva,R,,CAN,20.6789869952,201620,,,Monica Puig,R,170,PUR,14.3490759754,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,285,90,,
 2008-D082,Fed Cup G1 PO: CAN vs PUR,Clay,4,D,20080202,2,201486,,,Aleksandra Wozniak,R,175,CAN,20.4052019165,202331,,,Vilmarie Castellvi,U,,PUR,26.8692676249,3-6 6-1 7-5,3,RR,,,,,,,,,,,,,,,,,,,,140,258,380,53
 2008-D084,Fed Cup G1 PO: THA vs INA,Hard,4,D,20080202,1,201681,,,Suchanun Viratprasert,R,,THA,25.0869267625,202363,,,Vivien Silfany Tony,U,,INA,18.4476386037,7-6(5) RET,5,RR,,,,,,,,,,,,,,,,,,,,555,26,823,9
 2008-D084,Fed Cup G1 PO: THA vs INA,Hard,4,D,20080202,2,202365,,,Lavinia Tananta,R,,INA,20.2491444216,201682,,,Nudnida Luangnam,R,,THA,20.9308692676,6-4 RET,5,RR,,,,,,,,,,,,,,,,,,,,561,25,334,65
@@ -194,9 +194,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-D087,Fed Cup G1 PO: GBR vs POR,Carpet,4,D,20080202,2,201396,,,Katie Obrien,R,,GBR,21.7549623546,201689,,,Magali De Lattre,R,,POR,20.6379192334,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,123,286,650,18
 2008-D088,Fed Cup G2 PO: KAZ vs KOR,,4,D,20080202,1,202635,,,Jin A Lee,L,,KOR,22.8993839836,209433,,,Madina Rakhim,U,,KAZ,22.7351129363,6-4 4-1 RET,5,RR,,,,,,,,,,,,,,,,,,,,376,55,,
 2008-D088,Fed Cup G2 PO: KAZ vs KOR,,4,D,20080202,2,201676,,,Ye Ra Lee,R,,KOR,20.386036961,202864,,,Amina Rakhim,R,,KAZ,18.9431895962,3-6 6-2 7-6(4),3,RR,,,,,,,,,,,,,,,,,,,,206,142,346,63
-2008-D089,Fed Cup G2 PO: PHI vs SIN,,4,D,20080202,1,203116,,,Dianne Kenneth Matias,U,,PHI,22.9979466119,212218,,,Vanessa Boey,,,SIN,17.5112936345,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D089,Fed Cup G2 PO: PHI vs SIN,,4,D,20080202,1,203116,,,Dianne Kenneth Matias,U,,PHI,22.9979466119,212218,,,Vanessa Boey,U,,SIN,17.5112936345,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2008-D089,Fed Cup G2 PO: PHI vs SIN,,4,D,20080202,2,208797,,,Denise Dy,R,,PHI,18.7159479808,210740,,,Stefanie Tan,R,,SIN,15.3785078713,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D090,Fed Cup G2 PO: SYR vs TKM,,4,D,20080202,1,209984,,,Kim Sadi,U,,SYR,14.3353867214,212783,,,Marina Lidiya,,,TKM,14.5681040383,6-4 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D090,Fed Cup G2 PO: SYR vs TKM,,4,D,20080202,1,209984,,,Kim Sadi,U,,SYR,14.3353867214,212783,,,Marina Lidiya,U,,TKM,14.5681040383,6-4 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2008-D090,Fed Cup G2 PO: SYR vs TKM,,4,D,20080202,2,204282,,,Anastasiya Prenko,U,,TKM,14.893908282,209983,,,Line Al Ghannam,R,,SYR,18.3545516769,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2008-D091,Fed Cup WG PO: ITA vs UKR,Clay,4,D,20080426,1,201212,,,Francesca Schiavone,R,166,ITA,27.8412046543,201489,,,Mariya Koryttseva,R,,UKR,22.9212867899,3-6 7-6(0) 7-5,3,RR,,,,,,,,,,,,,,,,,,,,22,1166,59,517
 2008-D091,Fed Cup WG PO: ITA vs UKR,Clay,4,D,20080426,2,201416,,,Alona Bondarenko,R,168,UKR,23.7015742642,201498,,,Karin Knapp,R,180,ITA,20.8295687885,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,19,1206,36,755
@@ -232,24 +232,24 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-D098,Fed Cup WG2 PO: CRO vs SRB,Hard,4,D,20080426,4,201617,,,Ana Vrljic,R,,CRO,23.7344284736,202362,,,Teodora Mircic,R,,SRB,20.1478439425,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,243,112,273,94
 2008-D099,Fed Cup G3 RRA: LAT vs NOR,Clay,4,D,20080425,1,205918,,,Ulrikke Eikeri,U,,NOR,15.356605065,209507,,,Trina Slapeka,R,,LAT,19.9315537303,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2008-D099,Fed Cup G3 RRA: LAT vs NOR,Clay,4,D,20080425,2,201545,,,Anastasija Sevastova,R,,LAT,18.0342231348,205694,,,Helene Auensen,R,,NOR,19.0308008214,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,222,128,,
-2008-D100,Fed Cup G3 RRA: LAT vs MRI,Clay,4,D,20080426,1,209507,,,Trina Slapeka,R,,LAT,19.9342915811,212240,,,Astrid Tixier,,,MRI,22.264202601,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D100,Fed Cup G3 RRA: LAT vs MRI,Clay,4,D,20080426,1,209507,,,Trina Slapeka,R,,LAT,19.9342915811,212240,,,Astrid Tixier,U,,MRI,22.264202601,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2008-D100,Fed Cup G3 RRA: LAT vs MRI,Clay,4,D,20080426,2,201545,,,Anastasija Sevastova,R,,LAT,18.0369609856,202585,,,Marinne Giraud,R,,MRI,22.0095824778,6-5 RET,5,RR,,,,,,,,,,,,,,,,,,,,222,128,256,104
-2008-D101,Fed Cup G3 RRA: LAT vs ISL,Clay,4,D,20080424,1,209507,,,Trina Slapeka,R,,LAT,19.9288158795,212208,,,Rebekka Petursdottir,,,ISL,20.514715948,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D101,Fed Cup G3 RRA: LAT vs ISL,Clay,4,D,20080424,2,201545,,,Anastasija Sevastova,R,,LAT,18.0314852841,212205,,,Sandra Kristjansdottir,,,ISL,17.5112936345,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,222,128,,
+2008-D101,Fed Cup G3 RRA: LAT vs ISL,Clay,4,D,20080424,1,209507,,,Trina Slapeka,R,,LAT,19.9288158795,212208,,,Rebekka Petursdottir,U,,ISL,20.514715948,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D101,Fed Cup G3 RRA: LAT vs ISL,Clay,4,D,20080424,2,201545,,,Anastasija Sevastova,R,,LAT,18.0314852841,212205,,,Sandra Kristjansdottir,U,,ISL,17.5112936345,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,222,128,,
 2008-D102,Fed Cup G3 RRA: LAT vs ZIM,Clay,4,D,20080422,1,202545,,,Irina Kuzmina,R,,LAT,22.264202601,210209,,,Denise Atzinger,R,,ZIM,16.9500342231,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,357,59,,
-2008-D102,Fed Cup G3 RRA: LAT vs ZIM,Clay,4,D,20080422,2,201545,,,Anastasija Sevastova,R,,LAT,18.0260095825,212247,,,Charlene Tsangamwe,,,ZIM,22.1875427789,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,222,128,,
-2008-D103,Fed Cup G3 RRA: NOR vs MRI,Clay,4,D,20080422,1,205918,,,Ulrikke Eikeri,U,,NOR,15.3483915127,212240,,,Astrid Tixier,,,MRI,22.2532511978,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D102,Fed Cup G3 RRA: LAT vs ZIM,Clay,4,D,20080422,2,201545,,,Anastasija Sevastova,R,,LAT,18.0260095825,212247,,,Charlene Tsangamwe,U,,ZIM,22.1875427789,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,222,128,,
+2008-D103,Fed Cup G3 RRA: NOR vs MRI,Clay,4,D,20080422,1,205918,,,Ulrikke Eikeri,U,,NOR,15.3483915127,212240,,,Astrid Tixier,U,,MRI,22.2532511978,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2008-D103,Fed Cup G3 RRA: NOR vs MRI,Clay,4,D,20080422,2,202585,,,Marinne Giraud,R,,MRI,21.9986310746,205694,,,Helene Auensen,R,,NOR,19.022587269,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,256,104,,
-2008-D104,Fed Cup G3 RRA: NOR vs ISL,Clay,4,D,20080426,1,205918,,,Ulrikke Eikeri,U,,NOR,15.3593429158,212208,,,Rebekka Petursdottir,,,ISL,20.5201916496,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D104,Fed Cup G3 RRA: NOR vs ISL,Clay,4,D,20080426,2,205694,,,Helene Auensen,R,,NOR,19.0335386721,212205,,,Sandra Kristjansdottir,,,ISL,17.5167693361,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D104,Fed Cup G3 RRA: NOR vs ISL,Clay,4,D,20080426,1,205918,,,Ulrikke Eikeri,U,,NOR,15.3593429158,212208,,,Rebekka Petursdottir,U,,ISL,20.5201916496,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D104,Fed Cup G3 RRA: NOR vs ISL,Clay,4,D,20080426,2,205694,,,Helene Auensen,R,,NOR,19.0335386721,212205,,,Sandra Kristjansdottir,U,,ISL,17.5167693361,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2008-D105,Fed Cup G3 RRA: NOR vs ZIM,Clay,4,D,20080423,1,205700,,,Emma Flood,U,,NOR,17.5277207392,210207,,,Stacey Lock,U,,ZIM,16.772073922,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2008-D105,Fed Cup G3 RRA: NOR vs ZIM,Clay,4,D,20080423,2,205918,,,Ulrikke Eikeri,U,,NOR,15.3511293634,210209,,,Denise Atzinger,R,,ZIM,16.9527720739,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D106,Fed Cup G3 RRA: MRI vs ISL,Clay,4,D,20080423,1,212240,,,Astrid Tixier,,,MRI,22.2559890486,207291,,,Iris Staub,U,,ISL,27.5728952772,6-4 6-7(5) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D106,Fed Cup G3 RRA: MRI vs ISL,Clay,4,D,20080423,2,202585,,,Marinne Giraud,R,,MRI,22.0013689254,212248,,,Soumia Islami,,,ISL,32.3367556468,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,256,104,,
-2008-D107,Fed Cup G3 RRA: MRI vs ZIM,Clay,4,D,20080424,1,212240,,,Astrid Tixier,,,MRI,22.2587268994,210207,,,Stacey Lock,U,,ZIM,16.7748117728,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D107,Fed Cup G3 RRA: MRI vs ZIM,Clay,4,D,20080424,2,202585,,,Marinne Giraud,R,,MRI,22.0041067762,212247,,,Charlene Tsangamwe,,,ZIM,22.1930184805,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,256,104,,
+2008-D106,Fed Cup G3 RRA: MRI vs ISL,Clay,4,D,20080423,1,212240,,,Astrid Tixier,U,,MRI,22.2559890486,207291,,,Iris Staub,U,,ISL,27.5728952772,6-4 6-7(5) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D106,Fed Cup G3 RRA: MRI vs ISL,Clay,4,D,20080423,2,202585,,,Marinne Giraud,R,,MRI,22.0013689254,212248,,,Soumia Islami,U,,ISL,32.3367556468,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,256,104,,
+2008-D107,Fed Cup G3 RRA: MRI vs ZIM,Clay,4,D,20080424,1,212240,,,Astrid Tixier,U,,MRI,22.2587268994,210207,,,Stacey Lock,U,,ZIM,16.7748117728,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D107,Fed Cup G3 RRA: MRI vs ZIM,Clay,4,D,20080424,2,202585,,,Marinne Giraud,R,,MRI,22.0041067762,212247,,,Charlene Tsangamwe,U,,ZIM,22.1930184805,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,256,104,,
 2008-D108,Fed Cup G3 RRA: ISL vs ZIM,Clay,4,D,20080425,1,207291,,,Iris Staub,U,,ISL,27.5783709788,210207,,,Stacey Lock,U,,ZIM,16.7775496235,6-2 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D108,Fed Cup G3 RRA: ISL vs ZIM,Clay,4,D,20080425,2,212248,,,Soumia Islami,,,ISL,32.3422313484,212247,,,Charlene Tsangamwe,,,ZIM,22.1957563313,7-5 4-3 RET,5,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D108,Fed Cup G3 RRA: ISL vs ZIM,Clay,4,D,20080425,2,212248,,,Soumia Islami,U,,ISL,32.3422313484,212247,,,Charlene Tsangamwe,U,,ZIM,22.1957563313,7-5 4-3 RET,5,RR,,,,,,,,,,,,,,,,,,,,,,,
 2008-D109,Fed Cup G3 RRB: FIN vs EGY,Clay,4,D,20080424,1,208287,,,Nihal Tarek Saleh,R,,EGY,20.7282683094,205758,,,Heini Salonen,U,,FIN,14.7871321013,6-1 6-7(6) 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2008-D109,Fed Cup G3 RRB: FIN vs EGY,Clay,4,D,20080424,2,201441,,,Emma Laine,L,,FIN,22.0807665982,205010,,,Magy Aziz,R,,EGY,20.3312799452,6-4 6-0,3,RR,,,,,,,,,,,,,,,,,,,,300,79,,
 2008-D110,Fed Cup G3 RRB: FIN vs MNE,Clay,4,D,20080423,1,205758,,,Heini Salonen,U,,FIN,14.7843942505,205604,,,Andjela Kankaras,R,,MNE,18.2532511978,5-7 6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
@@ -282,15 +282,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-D123,Fed Cup G3 RRB: ARM vs MAR,Clay,4,D,20080423,2,201642,,,Fatima El Allami,L,,MAR,19.0773442847,209988,,,Tatevik Yedigaryan,R,,ARM,17.3305954825,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,930,6,,
 2008-D124,Fed Cup G2 RRA: CHI vs CUB,Clay,4,D,20080425,1,202392,,,Melisa Miranda Otarola,R,,CHI,19.9917864476,207956,,,Yanet Nunez Mojarena,U,,CUB,26.8145106092,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,544,27,,
 2008-D124,Fed Cup G2 RRA: CHI vs CUB,Clay,4,D,20080425,2,202393,,,Andrea Koch Benvenuto,R,,CHI,22.9979466119,207947,,,Yamile Fors Guerra,U,,CUB,30.9568788501,6-1 5-7 7-5,3,RR,,,,,,,,,,,,,,,,,,,,528,29,,
-2008-D125,Fed Cup G2 RRA: CHI vs PAN,Clay,4,D,20080423,1,202392,,,Melisa Miranda Otarola,R,,CHI,19.9863107461,212250,,,Elizabeth Tapia,,,PAN,16.5174537988,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,544,27,,
-2008-D125,Fed Cup G2 RRA: CHI vs PAN,Clay,4,D,20080423,2,202393,,,Andrea Koch Benvenuto,R,,CHI,22.9924709103,212251,,,Nicole Stanziola,,,PAN,17.9794661191,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,528,29,,
-2008-D126,Fed Cup G2 RRA: CUB vs PAN,Clay,4,D,20080424,1,209191,,,Yenisleydis Calana Rodriguez,U,,CUB,22.9869952088,212250,,,Elizabeth Tapia,,,PAN,16.5201916496,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D126,Fed Cup G2 RRA: CUB vs PAN,Clay,4,D,20080424,2,207947,,,Yamile Fors Guerra,U,,CUB,30.9541409993,212251,,,Nicole Stanziola,,,PAN,17.9822039699,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D125,Fed Cup G2 RRA: CHI vs PAN,Clay,4,D,20080423,1,202392,,,Melisa Miranda Otarola,R,,CHI,19.9863107461,212250,,,Elizabeth Tapia,U,,PAN,16.5174537988,6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,544,27,,
+2008-D125,Fed Cup G2 RRA: CHI vs PAN,Clay,4,D,20080423,2,202393,,,Andrea Koch Benvenuto,R,,CHI,22.9924709103,212251,,,Nicole Stanziola,U,,PAN,17.9794661191,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,528,29,,
+2008-D126,Fed Cup G2 RRA: CUB vs PAN,Clay,4,D,20080424,1,209191,,,Yenisleydis Calana Rodriguez,U,,CUB,22.9869952088,212250,,,Elizabeth Tapia,U,,PAN,16.5201916496,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D126,Fed Cup G2 RRA: CUB vs PAN,Clay,4,D,20080424,2,207947,,,Yamile Fors Guerra,U,,CUB,30.9541409993,212251,,,Nicole Stanziola,U,,PAN,17.9822039699,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2008-D127,Fed Cup G2 RRB: BOL vs ECU,Clay,4,D,20080425,1,210130,,,Maria Paula Deheza,R,,BOL,14.1492128679,209391,,,Gisella Pere,R,,ECU,16.6269678303,7-5 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2008-D127,Fed Cup G2 RRB: BOL vs ECU,Clay,4,D,20080425,2,205465,,,Daniela Trigo,R,,BOL,17.029431896,206039,,,Marie Elise Casares,R,,ECU,14.6173853525,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D128,Fed Cup G2 RRB: BOL vs HON,Clay,4,D,20080423,1,210130,,,Maria Paula Deheza,R,,BOL,14.1437371663,212226,,,Marisela Aviles,,,HON,17.3963039014,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D128,Fed Cup G2 RRB: BOL vs HON,Clay,4,D,20080423,1,210130,,,Maria Paula Deheza,R,,BOL,14.1437371663,212226,,,Marisela Aviles,U,,HON,17.3963039014,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2008-D128,Fed Cup G2 RRB: BOL vs HON,Clay,4,D,20080423,2,205465,,,Daniela Trigo,R,,BOL,17.0239561944,209975,,,Zulema Zelaya,R,,HON,16.0985626283,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D129,Fed Cup G2 RRB: ECU vs HON,Clay,4,D,20080424,1,206039,,,Marie Elise Casares,R,,ECU,14.6146475017,212226,,,Marisela Aviles,,,HON,17.3990417522,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D129,Fed Cup G2 RRB: ECU vs HON,Clay,4,D,20080424,1,206039,,,Marie Elise Casares,R,,ECU,14.6146475017,212226,,,Marisela Aviles,U,,HON,17.3990417522,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2008-D129,Fed Cup G2 RRB: ECU vs HON,Clay,4,D,20080424,2,209117,,,Lorena Aviles,U,,ECU,17.2594113621,209975,,,Zulema Zelaya,R,,HON,16.1013004791,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2008-D130,Fed Cup G2 RRC: VEN vs GUA,Clay,4,D,20080425,1,205462,,,Melisa Morales,R,,GUA,17.3908281999,202823,,,Mariana Muci Torres,R,,VEN,20.1916495551,7-5 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,557,26
 2008-D130,Fed Cup G2 RRC: VEN vs GUA,Clay,4,D,20080425,2,201328,,,Milagros Sequera,R,,VEN,27.5674195756,202709,,,Jessica Lehnhoff,R,,GUA,28.1122518823,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,101,345,,
@@ -298,30 +298,30 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-D131,Fed Cup G2 RRC: VEN vs BAR,Clay,4,D,20080423,2,201328,,,Milagros Sequera,R,,VEN,27.5619438741,208261,,,Richele Le Saldo,U,,BAR,25.273100616,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,101,345,,
 2008-D132,Fed Cup G2 RRC: GUA vs BAR,Clay,4,D,20080424,1,205462,,,Melisa Morales,R,,GUA,17.3880903491,211516,,,Alyssa Fuentes,R,,BAR,15.7754962355,6-2 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2008-D132,Fed Cup G2 RRC: GUA vs BAR,Clay,4,D,20080424,2,202709,,,Jessica Lehnhoff,R,,GUA,28.1095140315,208261,,,Richele Le Saldo,U,,BAR,25.2758384668,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D133,Fed Cup G2 RRD: DOM vs BER,Clay,4,D,20080425,1,208297,,,Natalia Baez,U,,DOM,21.0047912389,212220,,,Caitlin Gordon,,,BER,17.6427104723,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D133,Fed Cup G2 RRD: DOM vs BER,Clay,4,D,20080425,2,205787,,,Francesca Segarelli,R,,DOM,17.6372347707,212213,,,Jacklyn Lambert,,,BER,19.575633128,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D134,Fed Cup G2 RRD: DOM vs TRI,Clay,4,D,20080424,1,208297,,,Natalia Baez,U,,DOM,21.0020533881,212229,,,Raye Ann Sandy,,,TRI,15.7344284736,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D134,Fed Cup G2 RRD: DOM vs TRI,Clay,4,D,20080424,2,205787,,,Francesca Segarelli,R,,DOM,17.6344969199,212232,,,Carlista Mohammed,,,TRI,18.0095824778,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D133,Fed Cup G2 RRD: DOM vs BER,Clay,4,D,20080425,1,208297,,,Natalia Baez,U,,DOM,21.0047912389,212220,,,Caitlin Gordon,U,,BER,17.6427104723,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D133,Fed Cup G2 RRD: DOM vs BER,Clay,4,D,20080425,2,205787,,,Francesca Segarelli,R,,DOM,17.6372347707,212213,,,Jacklyn Lambert,U,,BER,19.575633128,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D134,Fed Cup G2 RRD: DOM vs TRI,Clay,4,D,20080424,1,208297,,,Natalia Baez,U,,DOM,21.0020533881,212229,,,Raye Ann Sandy,U,,TRI,15.7344284736,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D134,Fed Cup G2 RRD: DOM vs TRI,Clay,4,D,20080424,2,205787,,,Francesca Segarelli,R,,DOM,17.6344969199,212232,,,Carlista Mohammed,U,,TRI,18.0095824778,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2008-D135,Fed Cup G2 RRD: DOM vs BAH,Clay,4,D,20080423,1,209836,,,Nikkita Fountain,R,,BAH,24.0821355236,208297,,,Natalia Baez,U,,DOM,20.9993155373,4-6 6-4 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2008-D135,Fed Cup G2 RRD: DOM vs BAH,Clay,4,D,20080423,2,208983,,,Larikah Russell,R,,BAH,23.151266256,205787,,,Francesca Segarelli,R,,DOM,17.6317590691,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D136,Fed Cup G2 RRD: BER vs TRI,Clay,4,D,20080423,1,212229,,,Raye Ann Sandy,,,TRI,15.7316906229,212213,,,Jacklyn Lambert,,,BER,19.5701574264,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D136,Fed Cup G2 RRD: BER vs TRI,Clay,4,D,20080423,2,212232,,,Carlista Mohammed,,,TRI,18.006844627,212178,,,Ashley Brooks,,,BER,19.9342915811,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D137,Fed Cup G2 RRD: BER vs BAH,Clay,4,D,20080424,1,209836,,,Nikkita Fountain,R,,BAH,24.0848733744,212220,,,Caitlin Gordon,,,BER,17.6399726215,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D137,Fed Cup G2 RRD: BER vs BAH,Clay,4,D,20080424,2,208983,,,Larikah Russell,R,,BAH,23.1540041068,212178,,,Ashley Brooks,,,BER,19.9370294319,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D136,Fed Cup G2 RRD: BER vs TRI,Clay,4,D,20080423,1,212229,,,Raye Ann Sandy,U,,TRI,15.7316906229,212213,,,Jacklyn Lambert,U,,BER,19.5701574264,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D136,Fed Cup G2 RRD: BER vs TRI,Clay,4,D,20080423,2,212232,,,Carlista Mohammed,U,,TRI,18.006844627,212178,,,Ashley Brooks,U,,BER,19.9342915811,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D137,Fed Cup G2 RRD: BER vs BAH,Clay,4,D,20080424,1,209836,,,Nikkita Fountain,R,,BAH,24.0848733744,212220,,,Caitlin Gordon,U,,BER,17.6399726215,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D137,Fed Cup G2 RRD: BER vs BAH,Clay,4,D,20080424,2,208983,,,Larikah Russell,R,,BAH,23.1540041068,212178,,,Ashley Brooks,U,,BER,19.9370294319,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2008-D138,Fed Cup G2 RRD: TRI vs BAH,Clay,4,D,20080425,1,209836,,,Nikkita Fountain,R,,BAH,24.0876112252,212252,,,Lee Anne Lingo,R,,TRI,15.5263518138,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D138,Fed Cup G2 RRD: TRI vs BAH,Clay,4,D,20080425,2,208983,,,Larikah Russell,R,,BAH,23.1567419576,212229,,,Raye Ann Sandy,,,TRI,15.7371663244,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D138,Fed Cup G2 RRD: TRI vs BAH,Clay,4,D,20080425,2,208983,,,Larikah Russell,R,,BAH,23.1567419576,212229,,,Raye Ann Sandy,U,,TRI,15.7371663244,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2008-D139,Fed Cup G2 PO: BOL vs BAH,Clay,4,D,20080426,1,206606,,,Claudia Herbas,U,,BOL,28.1451060917,209836,,,Nikkita Fountain,R,,BAH,24.090349076,7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2008-D139,Fed Cup G2 PO: BOL vs BAH,Clay,4,D,20080426,2,208983,,,Larikah Russell,R,,BAH,23.1594798084,205465,,,Daniela Trigo,R,,BOL,17.0321697467,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2008-D140,Fed Cup G2 PO: CHI vs VEN,Clay,4,D,20080426,1,202392,,,Melisa Miranda Otarola,R,,CHI,19.9945242984,203451,,,Marina Giral Lores,R,,VEN,17.6427104723,3-6 6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,544,27,655,18
 2008-D140,Fed Cup G2 PO: CHI vs VEN,Clay,4,D,20080426,2,201328,,,Milagros Sequera,R,,VEN,27.5701574264,202393,,,Andrea Koch Benvenuto,R,,CHI,23.0006844627,7-6(5) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,101,345,528,29
-2008-D141,Fed Cup G2 PO: CUB vs GUA,Clay,4,D,20080426,1,207956,,,Yanet Nunez Mojarena,U,,CUB,26.81724846,212228,,,Ana Lilyan Guzman,,,GUA,18.8856947296,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D141,Fed Cup G2 PO: CUB vs GUA,Clay,4,D,20080426,1,207956,,,Yanet Nunez Mojarena,U,,CUB,26.81724846,212228,,,Ana Lilyan Guzman,U,,GUA,18.8856947296,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2008-D141,Fed Cup G2 PO: CUB vs GUA,Clay,4,D,20080426,2,202709,,,Jessica Lehnhoff,R,,GUA,28.1149897331,207947,,,Yamile Fors Guerra,U,,CUB,30.9596167009,1-6 6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2008-D142,Fed Cup G2 PO: ECU vs DOM,Clay,4,D,20080426,1,206039,,,Marie Elise Casares,R,,ECU,14.6201232033,208297,,,Natalia Baez,U,,DOM,21.0075290897,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2008-D142,Fed Cup G2 PO: ECU vs DOM,Clay,4,D,20080426,2,209117,,,Lorena Aviles,U,,ECU,17.2648870637,205787,,,Francesca Segarelli,R,,DOM,17.6399726215,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D143,Fed Cup G2 PO: BAR vs PAN,Clay,4,D,20080426,1,212250,,,Elizabeth Tapia,,,PAN,16.5256673511,212231,,,Kristen Lopez,,,BAR,16.7446954141,6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D143,Fed Cup G2 PO: BAR vs PAN,Clay,4,D,20080426,2,212251,,,Nicole Stanziola,,,PAN,17.9876796715,211516,,,Alyssa Fuentes,R,,BAR,15.780971937,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D144,Fed Cup G2 PO: HON vs TRI,Clay,4,D,20080426,1,212226,,,Marisela Aviles,,,HON,17.4045174538,212252,,,Lee Anne Lingo,R,,TRI,15.5290896646,7-6(2) 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2008-D144,Fed Cup G2 PO: HON vs TRI,Clay,4,D,20080426,2,209975,,,Zulema Zelaya,R,,HON,16.1067761807,212229,,,Raye Ann Sandy,,,TRI,15.7399041752,6-0 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D143,Fed Cup G2 PO: BAR vs PAN,Clay,4,D,20080426,1,212250,,,Elizabeth Tapia,U,,PAN,16.5256673511,212231,,,Kristen Lopez,U,,BAR,16.7446954141,6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D143,Fed Cup G2 PO: BAR vs PAN,Clay,4,D,20080426,2,212251,,,Nicole Stanziola,U,,PAN,17.9876796715,211516,,,Alyssa Fuentes,R,,BAR,15.780971937,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D144,Fed Cup G2 PO: HON vs TRI,Clay,4,D,20080426,1,212226,,,Marisela Aviles,U,,HON,17.4045174538,212252,,,Lee Anne Lingo,R,,TRI,15.5290896646,7-6(2) 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2008-D144,Fed Cup G2 PO: HON vs TRI,Clay,4,D,20080426,2,209975,,,Zulema Zelaya,R,,HON,16.1067761807,212229,,,Raye Ann Sandy,U,,TRI,15.7399041752,6-0 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2008-W-OL-CHN-01A-2008,Olympics,Hard,64,O,20080811,1,201489,,,Mariya Koryttseva,R,,UKR,23.2142368241,200014,,A,Tzipi Obziler,R,,ISR,35.3127994524,5-7 7-5 6-4,3,R64,,,,,,,,,,,,,,,,,,,,53,580,117,308
 2008-W-OL-CHN-01A-2008,Olympics,Hard,64,O,20080811,2,201425,,,Lucie Safarova,L,177,CZE,21.5167693361,201343,,A,Maret Ani,R,176,EST,26.5270362765,6-4 6-2,3,R64,,,,,,,,,,,,,,,,,,,,82,419,98,352
 2008-W-OL-CHN-01A-2008,Olympics,Hard,64,O,20080811,3,201446,,,Sybille Bammer,L,174,AUT,28.2902121834,201286,,,Anabel Medina Garrigues,R,169,ESP,26.0314852841,6-2 4-6 6-4,3,R64,,,,,,,,,,,,,,,,,,,,32,922,28,1001
@@ -813,7 +813,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-W-SL-USA-01A-2008,US Open,Hard,128,G,20080825,45,200011,28,,Katarina Srebotnik,R,180,SLO,27.4551676934,201518,,,Yanina Wickmayer,R,182,BEL,18.8473648186,3-6 6-0 6-3,3,R128,,4,5,69,37,29,17,,2,4,2,2,69,40,24,15,,5,10,28,972,62,499
 2008-W-SL-USA-01A-2008,US Open,Hard,128,G,20080825,46,201423,,,Yvonne Meusburger,R,,AUT,24.8952772074,201452,,,Lourdes Dominguez Lino,R,163,ESP,27.4031485284,6-1 6-2,3,R128,,,,,,,,,,,,,,,,,,,,110,317,96,355
 2008-W-SL-USA-01A-2008,US Open,Hard,128,G,20080825,47,201514,,,Sorana Cirstea,R,176,ROU,18.3846680356,201425,,,Lucie Safarova,L,177,CZE,21.5550992471,6-4 4-6 6-2,3,R128,,7,3,108,55,37,25,,4,8,3,5,83,53,32,13,,8,14,53,603,58,546
-2008-W-SL-USA-01A-2008,US Open,Hard,128,G,20080825,48,201320,3,,Svetlana Kuznetsova,R,174,RUS,23.1622176591,201533,,Q,Shuai Zhang,R,,CHN,19.5920602327,6-4 6-2,3,R128,,1,3,56,33,24,12,,2,3,1,4,62,39,25,8,,9,13,4,3181,243,112
+2008-W-SL-USA-01A-2008,US Open,Hard,128,G,20080825,48,201320,3,,Svetlana Kuznetsova,R,174,RUS,23.1622176591,201533,,Q,Shuai Zhang,R,177,CHN,19.5920602327,6-4 6-2,3,R128,,1,3,56,33,24,12,,2,3,1,4,62,39,25,8,,9,13,4,3181,243,112
 2008-W-SL-USA-01A-2008,US Open,Hard,128,G,20080825,49,201329,8,,Vera Zvonareva,R,172,RUS,23.9644079398,201366,,,Barbora Zahlavova Strycova,R,164,CZE,22.4120465435,6-4 6-3,3,R128,,3,6,61,38,26,15,,4,6,0,2,60,42,22,10,,5,9,10,2117,82,429
 2008-W-SL-USA-01A-2008,US Open,Hard,128,G,20080825,50,201309,,,Tatiana Perebiynis,R,,UKR,25.6947296372,201489,,,Mariya Koryttseva,R,,UKR,23.2525667351,6-1 6-4,3,R128,,5,1,58,35,24,14,,0,1,2,5,54,33,17,10,,5,9,76,444,54,593
 2008-W-SL-USA-01A-2008,US Open,Hard,128,G,20080825,51,201431,,,Aravane Rezai,R,165,FRA,21.4510609172,201534,,WC,Asia Muhammed,R,,USA,17.3935660507,6-2 6-4,3,R128,,,,,,,,,,,,,,,,,,,,74,452,414,48
@@ -1504,7 +1504,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-W-T2-CHN-01A-2008,Beijing,Hard,28,T2,20080922,9,201485,,Q,Alla Kudryavtseva,R,,RUS,20.887063655,201397,,WC,Shuai Peng,R,173,CHN,22.7049965777,7-5 6-4,3,R32,,5,2,80,48,32,10,,2,7,3,1,75,55,27,7,,4,11,82,432,41,690
 2008-W-T2-CHN-01A-2008,Beijing,Hard,28,T2,20080922,10,201386,,,Jie Zheng,R,164,CHN,25.2183436003,201474,6,,Agnieszka Radwanska,R,170,POL,19.5482546201,6-2 6-3,3,R32,,0,3,74,49,28,13,,5,7,1,2,38,23,11,5,,1,6,30,915,10,2146
 2008-W-T2-CHN-01A-2008,Beijing,Hard,28,T2,20080922,11,200085,,,Ai Sugiyama,R,163,JPN,33.2183436003,201459,,WC,Zi Yan,R,171,CHN,23.8603696099,6-3 6-4,3,R32,,0,3,62,38,26,10,,4,7,1,5,72,49,24,9,,9,15,28,941,99,347
-2008-W-T2-CHN-01A-2008,Beijing,Hard,28,T2,20080922,12,201427,,,Alize Cornet,R,173,FRA,18.6666666667,201533,,Q,Shuai Zhang,R,,CHN,19.6687200548,6-1 3-6 7-6(7),3,R32,,1,3,89,56,32,16,,5,10,0,2,103,84,44,9,,6,12,19,1389,224,128
+2008-W-T2-CHN-01A-2008,Beijing,Hard,28,T2,20080922,12,201427,,,Alize Cornet,R,173,FRA,18.6666666667,201533,,Q,Shuai Zhang,R,177,CHN,19.6687200548,6-1 3-6 7-6(7),3,R32,,1,3,89,56,32,16,,5,10,0,2,103,84,44,9,,6,12,19,1389,224,128
 2008-W-T2-CHN-01A-2008,Beijing,Hard,28,T2,20080922,13,201347,1,,Jelena Jankovic,R,177,SRB,23.5646817248,201486,,Q,Aleksandra Wozniak,R,175,CAN,21.0431211499,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,2,3885,39,714
 2008-W-T2-CHN-01A-2008,Beijing,Hard,28,T2,20080922,14,201290,7,,Daniela Hantuchova,R,181,SVK,25.4182067077,200009,,,Tamarine Tanasugarn,R,165,THA,31.3319644079,6-1 0-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,13,1770,38,757
 2008-W-T2-CHN-01A-2008,Beijing,Hard,28,T2,20080922,15,201329,5,,Vera Zvonareva,R,172,RUS,24.0410677618,201212,,,Francesca Schiavone,R,166,ITA,28.2491444216,7-6(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,9,2167,23,1079
@@ -1890,7 +1890,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-W-T3-AUT-01A-2008,Bad Gastein,Clay,32,T3,20080714,11,201489,,,Mariya Koryttseva,R,,UKR,23.1375770021,200014,,,Tzipi Obziler,R,,ISR,35.2361396304,6-2 6-1,3,R32,,0,4,39,23,15,9,,1,3,0,2,60,37,17,5,,7,14,60,524,116,308
 2008-W-T3-AUT-01A-2008,Bad Gastein,Clay,32,T3,20080714,12,201496,3,,Caroline Wozniacki,R,177,DEN,18.0095824778,201444,,,Su Wei Hsieh,R,169,TPE,22.5242984257,6-1 6-1,3,R32,,1,3,34,20,19,9,,0,0,1,4,45,18,10,9,,4,9,30,962,112,323
 2008-W-T3-AUT-01A-2008,Bad Gastein,Clay,32,T3,20080714,13,201490,5,,Timea Bacsinszky,R,,SUI,19.099247091,201698,,Q,Liana Gabriela Ungur,U,,ROU,23.5290896646,6-3 3-6 6-3,3,R32,,6,6,79,34,23,27,,6,10,0,5,86,65,36,12,,6,11,61,516,228,127
-2008-W-T3-AUT-01A-2008,Bad Gastein,Clay,32,T3,20080714,14,201556,,Q,Lucie Hradecka,R,177,CZE,23.1485284052,201533,,Q,Shuai Zhang,R,,CHN,19.4770704997,6-3 6-0,3,R32,,6,4,53,29,24,14,,2,2,0,2,40,26,13,4,,2,6,237,119,232,124
+2008-W-T3-AUT-01A-2008,Bad Gastein,Clay,32,T3,20080714,14,201556,,Q,Lucie Hradecka,R,177,CZE,23.1485284052,201533,,Q,Shuai Zhang,R,177,CHN,19.4770704997,6-3 6-0,3,R32,,6,4,53,29,24,14,,2,2,0,2,40,26,13,4,,2,6,237,119,232,124
 2008-W-T3-AUT-01A-2008,Bad Gastein,Clay,32,T3,20080714,15,201537,,WC,Patricia Mayr Achleitner,R,,AUT,21.6810403833,201310,,,Martina Muller,R,,GER,25.7577002053,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,206,140,123,291
 2008-W-T3-AUT-01A-2008,Bad Gastein,Clay,32,T3,20080714,16,200709,,,Rosana De Los Rios,R,170,PAR,32.8268309377,201427,2,,Alize Cornet,R,173,FRA,18.4750171116,2-6 6-2 3-2 RET,3,R32,,0,1,66,46,24,12,,7,11,0,6,71,37,24,10,,5,10,118,299,18,1312
 2008-W-T3-AUT-01A-2008,Bad Gastein,Clay,32,T3,20080714,17,201497,1,,Agnes Szavay,R,168,HUN,19.5400410678,201659,,WC,Melanie Klaffner,R,,AUT,18.1464750171,3-6 7-6(8) 7-6(3),3,R16,,2,9,117,67,41,24,,6,13,6,6,134,70,46,29,,7,13,14,1694,320,71
@@ -1972,7 +1972,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-W-T3-CHI-01A-2008,Vina Del Mar,Clay,32,T3,20080211,31,201355,1,,Flavia Pennetta,R,172,ITA,25.9603011636,201344,8,,Klara Koukalova,R,166,CZE,25.9630390144,6-4 5-4 RET,3,F,,,,,,,,,,,,,,,,,,,,32,830,68,452
 2008-W-T3-CHN-01A-2008,Guangzhou,Hard,32,T3,20080915,1,201329,1,,Vera Zvonareva,R,172,RUS,24.0219028063,201370,,,Anastasia Rodionova,R,167,AUS,26.3463381246,6-1 6-2,3,R32,,4,1,52,39,29,7,,1,1,0,3,48,33,19,2,,2,6,9,2087,75,457
 2008-W-T3-CHN-01A-2008,Guangzhou,Hard,32,T3,20080915,2,201703,,LL,Yi Fan Xu,L,,CHN,20.1040383299,201477,,,Stephanie Dubois,R,,CAN,21.8754277892,6-3 6-1,3,R32,,0,3,50,32,24,10,,1,2,2,6,45,27,18,3,,1,6,313,75,115,309
-2008-W-T3-CHN-01A-2008,Guangzhou,Hard,32,T3,20080915,3,201498,,,Karin Knapp,R,180,ITA,21.2183436003,201533,,WC,Shuai Zhang,R,,CHN,19.6495550992,7-6(6) 1-6 6-1,3,R32,,5,8,99,56,36,20,,7,11,3,4,94,66,40,15,,6,10,70,469,223,128
+2008-W-T3-CHN-01A-2008,Guangzhou,Hard,32,T3,20080915,3,201498,,,Karin Knapp,R,180,ITA,21.2183436003,201533,,WC,Shuai Zhang,R,177,CHN,19.6495550992,7-6(6) 1-6 6-1,3,R32,,5,8,99,56,36,20,,7,11,3,4,94,66,40,15,,6,10,70,469,223,128
 2008-W-T3-CHN-01A-2008,Guangzhou,Hard,32,T3,20080915,4,201489,8,,Mariya Koryttseva,R,,UKR,23.3100616016,201454,,,Akgul Amanmuradova,R,,UZB,24.2299794661,6-4 6-4,3,R32,,0,3,62,36,26,13,,6,8,2,2,69,41,24,13,,6,10,54,580,79,447
 2008-W-T3-CHN-01A-2008,Guangzhou,Hard,32,T3,20080915,5,201386,3,,Jie Zheng,R,164,CHN,25.1991786448,201381,,WC,Tian Tian Sun,R,,CHN,26.9267624914,6-0 6-1,3,R32,,0,1,47,30,22,10,,4,4,0,1,46,29,12,6,,5,10,33,850,254,106
 2008-W-T3-CHN-01A-2008,Guangzhou,Hard,32,T3,20080915,6,201494,,,Raluca Olaru,R,173,ROU,19.537303217,201317,,,Aniko Kapros,R,,HUN,24.8459958932,6-7(5) 6-4 6-1,3,R32,,6,13,113,71,53,16,,5,7,4,6,100,57,35,21,,4,9,122,297,310,77
@@ -2217,7 +2217,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-W-T3-LUX-01A-2008,Luxembourg,Hard,32,T3,20081020,10,201293,,Q,Catalina Castano,R,171,COL,29.2895277207,201417,,,Marta Domachowska,R,176,POL,22.7597535934,6-0 6-2,3,R32,,0,3,42,21,16,11,,1,2,1,7,40,22,11,2,,3,9,159,197,52,573
 2008-W-T3-LUX-01A-2008,Luxembourg,Hard,32,T3,20081020,11,201397,,,Shuai Peng,R,173,CHN,22.7816563997,201371,,,Vera Dushevina,R,180,RUS,22.0396988364,6-1 6-2,3,R32,,2,1,41,27,19,11,,3,4,0,2,40,26,11,4,,4,9,40,710,85,396
 2008-W-T3-LUX-01A-2008,Luxembourg,Hard,32,T3,20081020,12,201496,4,,Caroline Wozniacki,R,177,DEN,18.2778918549,201490,,,Timea Bacsinszky,R,,SUI,19.3675564682,6-2 6-3,3,R32,,0,2,55,37,31,8,,2,2,2,0,45,24,17,9,,1,4,16,1598,49,582
-2008-W-T3-LUX-01A-2008,Luxembourg,Hard,32,T3,20081020,13,201419,6,,Na Li,R,172,CHN,26.6475017112,201605,,WC,Mandy Minella,R,,LUX,22.9103353867,6-2 6-1,3,R32,,2,1,29,22,19,5,,0,1,1,3,53,30,13,8,,5,11,27,1014,303,80
+2008-W-T3-LUX-01A-2008,Luxembourg,Hard,32,T3,20081020,13,201419,6,,Na Li,R,172,CHN,26.6475017112,201605,,WC,Mandy Minella,R,180,LUX,22.9103353867,6-2 6-1,3,R32,,2,1,29,22,19,5,,0,1,1,3,53,30,13,8,,5,11,27,1014,303,80
 2008-W-T3-LUX-01A-2008,Luxembourg,Hard,32,T3,20081020,14,201489,,,Mariya Koryttseva,R,,UKR,23.4058863792,201450,,,Tsvetana Pironkova,R,180,BUL,21.1033538672,3-6 6-3 6-3,3,R32,,0,13,106,70,41,11,,14,20,1,1,85,53,29,13,,3,11,66,500,45,623
 2008-W-T3-LUX-01A-2008,Luxembourg,Hard,32,T3,20081020,15,201331,,,Iveta Benesova,L,170,CZE,25.7166324435,201573,,WC,Laura Robson,L,180,GBR,14.7460643395,1-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,42,675,554,27
 2008-W-T3-LUX-01A-2008,Luxembourg,Hard,32,T3,20081020,16,201403,2,,Anna Chakvetadze,R,170,RUS,21.6290212183,201428,,,Mathilde Johansson,R,173,FRA,23.4798083504,6-4 7-6(4),3,R32,,2,9,81,48,38,9,,7,11,3,8,77,46,28,12,,1,6,12,1747,83,399
@@ -2296,7 +2296,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-W-T3-NED-01A-2008,'s-Hertogenbosch,Grass,30,T3,20080616,27,201336,3,,Dinara Safina,R,182,RUS,22.1382614648,200108,1,,Elena Dementieva,R,180,RUS,26.6694045175,6-3 6-2,3,SF,,1,2,47,34,29,8,,0,0,2,2,51,37,25,4,,4,7,9,2222,5,2750
 2008-W-T3-NED-01A-2008,'s-Hertogenbosch,Grass,30,T3,20080616,28,200009,,Q,Tamarine Tanasugarn,R,165,THA,31.0636550308,201416,8,,Alona Bondarenko,R,168,UKR,23.8412046543,6-2 6-4,3,SF,,7,2,61,40,28,12,,3,4,2,1,52,42,22,4,,2,6,85,380,29,988
 2008-W-T3-NED-01A-2008,'s-Hertogenbosch,Grass,30,T3,20080616,29,200009,,Q,Tamarine Tanasugarn,R,165,THA,31.0636550308,201336,3,,Dinara Safina,R,182,RUS,22.1382614648,7-5 6-3,3,F,,0,1,93,61,41,15,,11,12,5,6,60,42,31,5,,3,6,85,380,9,2222
-2008-W-T3-TUR-01A-2008,Istanbul,Clay,30,T3,20080519,1,201698,,Q,Liana Gabriela Ungur,U,,ROU,23.3757700205,201666,,WC,Cagla Buyukakcay,R,,TUR,18.6392881588,6-2 4-6 7-6(2),3,R32,,0,4,86,58,38,14,,3,8,2,11,106,68,47,10,,4,10,234,116,400,49
+2008-W-T3-TUR-01A-2008,Istanbul,Clay,30,T3,20080519,1,201698,,Q,Liana Gabriela Ungur,U,,ROU,23.3757700205,201666,,WC,Cagla Buyukakcay,R,172,TUR,18.6392881588,6-2 4-6 7-6(2),3,R32,,0,4,86,58,38,14,,3,8,2,11,106,68,47,10,,4,10,234,116,400,49
 2008-W-T3-TUR-01A-2008,Istanbul,Clay,30,T3,20080519,2,201447,,,Vania King,R,165,USA,19.2114989733,201485,,,Alla Kudryavtseva,R,,RUS,20.5420944559,6-1 6-7(1) 6-3,3,R32,,0,2,110,94,55,8,,4,8,1,4,107,82,49,4,,12,19,116,307,103,332
 2008-W-T3-TUR-01A-2008,Istanbul,Clay,30,T3,20080519,3,200754,7,,Jill Craybas,R,160,USA,33.8754277892,200014,,,Tzipi Obziler,R,,ISR,35.0828199863,6-2 3-6 6-4,3,R32,,1,2,96,78,50,8,,11,13,2,2,101,82,50,11,,9,13,62,470,94,344
 2008-W-T3-TUR-01A-2008,Istanbul,Clay,30,T3,20080519,4,200069,3,,Nadia Petrova,R,178,RUS,25.9466119097,200068,,,Lilia Osterloh,R,,USA,30.1163586585,6-1 6-2,3,R32,,6,3,56,34,29,9,,3,4,0,3,53,34,16,6,,6,11,28,1024,114,311
@@ -2579,7 +2579,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-W-T4-NZL-01A-2008,Auckland,Hard,32,T4,20071231,4,201315,,,Ashley Harkleroad,R,,USA,22.6639288159,200104,8,,Emilie Loit,L,,FRA,28.5612594114,6-4 6-1,3,R32,,1,3,58,37,22,10,,4,7,0,1,46,30,12,5,,1,7,67,440,43,659
 2008-W-T4-NZL-01A-2008,Auckland,Hard,32,T4,20071231,5,200011,3,,Katarina Srebotnik,R,180,SLO,26.803559206,201370,,,Anastasia Rodionova,R,167,AUS,25.6372347707,6-0 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,27,961,78,397
 2008-W-T4-NZL-01A-2008,Auckland,Hard,32,T4,20071231,6,201423,,,Yvonne Meusburger,R,,AUT,24.2436687201,201352,,,Akiko Morigami,R,,JPN,27.9671457906,7-5 6-0,3,R32,,0,3,61,40,26,9,,3,5,0,1,64,46,20,8,,4,10,65,449,49,588
-2008-W-T4-NZL-01A-2008,Auckland,Hard,32,T4,20071231,7,201431,,,Aravane Rezai,R,165,FRA,20.7994524298,201533,,Q,Shuai Zhang,R,,CHN,18.9404517454,6-3 6-3,3,R32,,4,2,59,34,26,11,,1,2,1,2,65,42,20,13,,2,6,90,374,149,226
+2008-W-T4-NZL-01A-2008,Auckland,Hard,32,T4,20071231,7,201431,,,Aravane Rezai,R,165,FRA,20.7994524298,201533,,Q,Shuai Zhang,R,177,CHN,18.9404517454,6-3 6-3,3,R32,,4,2,59,34,26,11,,1,2,1,2,65,42,20,13,,2,6,90,374,149,226
 2008-W-T4-NZL-01A-2008,Auckland,Hard,32,T4,20071231,8,201305,7,,Eleni Daniilidou,R,182,GRE,25.2813141684,201304,,Q,Elena Baltacha,R,,GBR,24.3805612594,6-1 6-2,3,R32,,1,5,38,28,18,3,,0,2,1,1,47,32,13,3,,1,8,42,710,187,159
 2008-W-T4-NZL-01A-2008,Auckland,Hard,32,T4,20071231,9,201286,5,,Anabel Medina Garrigues,R,169,ESP,25.4182067077,200036,,,Nicole Pratt,R,,AUS,34.8227241615,7-6(3) 6-3,3,R32,,1,2,75,56,37,9,,3,6,0,1,58,40,19,8,,1,5,34,840,70,433
 2008-W-T4-NZL-01A-2008,Auckland,Hard,32,T4,20071231,10,200128,,,Lindsay Davenport,R,189,USA,31.5619438741,201281,,,Laura Granville,R,175,USA,26.636550308,6-2 6-3,3,R32,,9,4,47,24,21,14,,3,4,5,1,67,49,23,9,,4,9,72,430,61,460
@@ -2707,7 +2707,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2008-W-T4-THA-01A-2008,Pattaya,Hard,32,T4,20080204,8,201438,,,Ekaterina Bychkova,R,171,RUS,22.6666666667,201468,6,,Yaroslava Shvedova,R,180,KAZ,20.3969883641,3-6 7-6(4) 6-3,3,R32,,5,4,105,54,38,25,,4,7,4,5,97,63,45,15,,2,4,100,340,75,420
 2008-W-T4-THA-01A-2008,Pattaya,Hard,32,T4,20080204,9,200014,9,,Tzipi Obziler,R,,ISR,34.7953456537,201598,,WC,Noppawan Lertcheewakarn,R,,THA,16.2135523614,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,83,393,587,22
 2008-W-T4-THA-01A-2008,Pattaya,Hard,32,T4,20080204,10,201454,,,Akgul Amanmuradova,R,,UZB,23.6167008898,201366,,,Barbora Zahlavova Strycova,R,164,CZE,21.8562628337,6-3 6-2,3,R32,,8,3,73,42,32,13,,3,4,1,3,50,31,19,5,,1,5,94,359,151,221
-2008-W-T4-THA-01A-2008,Pattaya,Hard,32,T4,20080204,11,200068,,,Lilia Osterloh,R,,USA,29.8288843258,201533,,,Shuai Zhang,R,,CHN,19.0362765229,7-5 6-2,3,R32,,2,4,65,44,34,5,,2,5,0,5,57,39,17,9,,4,10,96,358,141,253
+2008-W-T4-THA-01A-2008,Pattaya,Hard,32,T4,20080204,11,200068,,,Lilia Osterloh,R,,USA,29.8288843258,201533,,,Shuai Zhang,R,177,CHN,19.0362765229,7-5 6-2,3,R32,,2,4,65,44,34,5,,2,5,0,5,57,39,17,9,,4,10,96,358,141,253
 2008-W-T4-THA-01A-2008,Pattaya,Hard,32,T4,20080204,12,201442,4,,Yung Jan Chan,R,170,TPE,18.4668035592,201609,,Q,Yi Miao Zhou,R,,CHN,16.9911019849,6-4 6-2,3,R32,,1,2,57,34,23,15,,5,6,1,1,53,37,22,9,,4,8,65,456,455,39
 2008-W-T4-THA-01A-2008,Pattaya,Hard,32,T4,20080204,13,200754,7,,Jill Craybas,R,160,USA,33.5879534565,201456,,,Olga Savchuk,R,175,UKR,20.3750855578,6-1 6-1,3,R32,,2,1,50,32,21,13,,4,4,1,4,43,33,15,2,,2,7,77,406,85,383
 2008-W-T4-THA-01A-2008,Pattaya,Hard,32,T4,20080204,14,201339,,,Renata Voracova,R,,CZE,24.3312799452,201349,,,Melinda Czink,L,178,HUN,25.28678987,6-3 6-1,3,R32,,0,0,42,29,20,10,,0,1,0,6,47,30,15,6,,5,10,147,242,132,265

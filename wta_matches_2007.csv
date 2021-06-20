@@ -13,7 +13,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-D003,Fed Cup WG R1: FRA vs JPN,Clay,4,D,20070421,4,200043,,,Virginie Razzano,R,173,FRA,23.9425051335,201352,,,Akiko Morigami,R,,JPN,27.2717316906,7-6(4) 1-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,58,443,55,451
 2007-D004,Fed Cup WG R1: ITA vs CHN,Clay,4,D,20070421,1,200060,,,Tathiana Garbin,R,172,ITA,29.8069815195,201381,,,Tian Tian Sun,R,,CHN,25.5222450376,6-4 2-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,23,892,90,317
 2007-D004,Fed Cup WG R1: ITA vs CHN,Clay,4,D,20070421,2,201355,,,Flavia Pennetta,R,172,ITA,25.1498973306,201397,,,Shuai Peng,R,173,CHN,21.2813141684,0-6 7-5 3-0 RET,5,RR,,4,1,88,64,42,11,,5,8,4,0,79,63,42,8,,4,7,46,517,32,668
-2007-D004,Fed Cup WG R1: ITA vs CHN,Clay,4,D,20070421,3,200060,,,Tathiana Garbin,R,172,ITA,29.8069815195,201533,,,Shuai Zhang,R,,CHN,18.2450376454,3-6 6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,23,892,212,129
+2007-D004,Fed Cup WG R1: ITA vs CHN,Clay,4,D,20070421,3,200060,,,Tathiana Garbin,R,172,ITA,29.8069815195,201533,,,Shuai Zhang,R,177,CHN,18.2450376454,3-6 6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,23,892,212,129
 2007-D004,Fed Cup WG R1: ITA vs CHN,Clay,4,D,20070421,4,201379,,,Mara Santangelo,R,181,ITA,25.8124572211,201381,,,Tian Tian Sun,R,,CHN,25.5222450376,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,31,683,90,317
 2007-D005,Fed Cup WG SF: USA vs RUS,Hard,4,D,20070714,1,201403,,,Anna Chakvetadze,R,170,RUS,20.3586584531,201447,,,Vania King,R,165,USA,18.3627652293,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,8,2221,84,368
 2007-D005,Fed Cup WG SF: USA vs RUS,Hard,4,D,20070714,2,200748,,,Venus Williams,R,185,USA,27.0718685832,200069,,,Nadia Petrova,R,178,RUS,25.0978781656,7-6(6) 0-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,17,1655,9,2002
@@ -77,36 +77,36 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-D019,Fed Cup WG2 PO: SVK vs SRB,Hard,4,D,20070714,4,201495,,,Dominika Cibulkova,R,161,SVK,18.1875427789,202556,,,Ana Jovanovic,R,,SRB,22.5407255305,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,76,382,507,32
 2007-D020,Fed Cup G2 RRA: URU vs ECU,Clay,4,D,20070418,1,209807,,,Maria Jose Arechavaleta,R,,URU,16.7748117728,209117,,,Lorena Aviles,U,,ECU,16.2409308693,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2007-D020,Fed Cup G2 RRA: URU vs ECU,Clay,4,D,20070418,2,203244,,,Estefania Craciun,R,,URU,20.2929500342,209119,,,Claudine Paulson,U,,ECU,17.106091718,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,284,81,,
-2007-D021,Fed Cup G2 RRA: URU vs BER,Clay,4,D,20070420,1,209805,,,Maria Eugenia Torres,U,,URU,17.5550992471,212213,,,Jacklyn Lambert,,,BER,18.559890486,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2007-D021,Fed Cup G2 RRA: URU vs BER,Clay,4,D,20070420,2,203244,,,Estefania Craciun,R,,URU,20.2984257358,212178,,,Ashley Brooks,,,BER,18.9240246407,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,284,81,,
-2007-D022,Fed Cup G2 RRA: URU vs HON,Clay,4,D,20070416,1,209807,,,Maria Jose Arechavaleta,R,,URU,16.7693360712,212225,,,Sofia Barletta,,,HON,17.6016427105,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2007-D022,Fed Cup G2 RRA: URU vs HON,Clay,4,D,20070416,2,203244,,,Estefania Craciun,R,,URU,20.2874743326,212226,,,Marisela Aviles,,,HON,16.3750855578,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,284,81,,
-2007-D023,Fed Cup G2 RRA: ECU vs BER,Clay,4,D,20070416,1,209118,,,Claudia Hidalgo,U,,ECU,16.8706365503,212213,,,Jacklyn Lambert,,,BER,18.5489390828,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2007-D023,Fed Cup G2 RRA: ECU vs BER,Clay,4,D,20070416,2,209119,,,Claudine Paulson,U,,ECU,17.1006160164,212178,,,Ashley Brooks,,,BER,18.9130732375,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D021,Fed Cup G2 RRA: URU vs BER,Clay,4,D,20070420,1,209805,,,Maria Eugenia Torres,U,,URU,17.5550992471,212213,,,Jacklyn Lambert,U,,BER,18.559890486,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D021,Fed Cup G2 RRA: URU vs BER,Clay,4,D,20070420,2,203244,,,Estefania Craciun,R,,URU,20.2984257358,212178,,,Ashley Brooks,U,,BER,18.9240246407,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,284,81,,
+2007-D022,Fed Cup G2 RRA: URU vs HON,Clay,4,D,20070416,1,209807,,,Maria Jose Arechavaleta,R,,URU,16.7693360712,212225,,,Sofia Barletta,U,,HON,17.6016427105,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D022,Fed Cup G2 RRA: URU vs HON,Clay,4,D,20070416,2,203244,,,Estefania Craciun,R,,URU,20.2874743326,212226,,,Marisela Aviles,U,,HON,16.3750855578,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,284,81,,
+2007-D023,Fed Cup G2 RRA: ECU vs BER,Clay,4,D,20070416,1,209118,,,Claudia Hidalgo,U,,ECU,16.8706365503,212213,,,Jacklyn Lambert,U,,BER,18.5489390828,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D023,Fed Cup G2 RRA: ECU vs BER,Clay,4,D,20070416,2,209119,,,Claudine Paulson,U,,ECU,17.1006160164,212178,,,Ashley Brooks,U,,BER,18.9130732375,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2007-D024,Fed Cup G2 RRA: ECU vs HON,Clay,4,D,20070420,1,209118,,,Claudia Hidalgo,U,,ECU,16.8815879535,209975,,,Zulema Zelaya,R,,HON,15.0882956879,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2007-D024,Fed Cup G2 RRA: ECU vs HON,Clay,4,D,20070420,2,209117,,,Lorena Aviles,U,,ECU,16.2464065708,212226,,,Marisela Aviles,,,HON,16.386036961,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2007-D025,Fed Cup G2 RRA: BER vs HON,Clay,4,D,20070418,1,212213,,,Jacklyn Lambert,,,BER,18.5544147844,212227,,,Maria De Los Angeles Cardenas,,,HON,16.8049281314,6-0 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2007-D025,Fed Cup G2 RRA: BER vs HON,Clay,4,D,20070418,2,212178,,,Ashley Brooks,,,BER,18.9185489391,209975,,,Zulema Zelaya,R,,HON,15.0828199863,3-6 6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D024,Fed Cup G2 RRA: ECU vs HON,Clay,4,D,20070420,2,209117,,,Lorena Aviles,U,,ECU,16.2464065708,212226,,,Marisela Aviles,U,,HON,16.386036961,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D025,Fed Cup G2 RRA: BER vs HON,Clay,4,D,20070418,1,212213,,,Jacklyn Lambert,U,,BER,18.5544147844,212227,,,Maria De Los Angeles Cardenas,U,,HON,16.8049281314,6-0 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D025,Fed Cup G2 RRA: BER vs HON,Clay,4,D,20070418,2,212178,,,Ashley Brooks,U,,BER,18.9185489391,209975,,,Zulema Zelaya,R,,HON,15.0828199863,3-6 6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2007-D026,Fed Cup G2 RRB: PAR vs BOL,Clay,4,D,20070417,1,202705,,,Veronica Cepede Royg,R,,PAR,15.2361396304,205465,,,Daniela Trigo,R,,BOL,16.0054757016,0-6 6-3 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2007-D026,Fed Cup G2 RRB: PAR vs BOL,Clay,4,D,20070417,2,200709,,,Rosana De Los Rios,R,170,PAR,31.5838466804,202900,,,Maria Fernanda Alvarez Teran,R,,BOL,18.1300479124,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,191,145,790,11
-2007-D027,Fed Cup G2 RRB: PAR vs GUA,Clay,4,D,20070416,1,202705,,,Veronica Cepede Royg,R,,PAR,15.2334017796,212228,,,Ana Lilyan Guzman,,,GUA,17.8562628337,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D027,Fed Cup G2 RRB: PAR vs GUA,Clay,4,D,20070416,1,202705,,,Veronica Cepede Royg,R,,PAR,15.2334017796,212228,,,Ana Lilyan Guzman,U,,GUA,17.8562628337,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2007-D027,Fed Cup G2 RRB: PAR vs GUA,Clay,4,D,20070416,2,200709,,,Rosana De Los Rios,R,170,PAR,31.5811088296,202709,,,Jessica Lehnhoff,R,,GUA,27.0855578371,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,191,145,930,7
-2007-D028,Fed Cup G2 RRB: PAR vs TRI,Clay,4,D,20070419,1,209174,,,Adriana Pereira,R,,PAR,16.9281314168,212229,,,Raye Ann Sandy,,,TRI,14.7186858316,6-2 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2007-D028,Fed Cup G2 RRB: PAR vs TRI,Clay,4,D,20070419,2,200709,,,Rosana De Los Rios,R,170,PAR,31.5893223819,212230,,,Olivia Bennett,,,TRI,16.2737850787,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,191,145,,
-2007-D029,Fed Cup G2 RRB: PAR vs BAR,Clay,4,D,20070418,1,209174,,,Adriana Pereira,R,,PAR,16.9253935661,212231,,,Kristen Lopez,,,BAR,15.7207392197,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D028,Fed Cup G2 RRB: PAR vs TRI,Clay,4,D,20070419,1,209174,,,Adriana Pereira,R,,PAR,16.9281314168,212229,,,Raye Ann Sandy,U,,TRI,14.7186858316,6-2 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D028,Fed Cup G2 RRB: PAR vs TRI,Clay,4,D,20070419,2,200709,,,Rosana De Los Rios,R,170,PAR,31.5893223819,212230,,,Olivia Bennett,U,,TRI,16.2737850787,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,191,145,,
+2007-D029,Fed Cup G2 RRB: PAR vs BAR,Clay,4,D,20070418,1,209174,,,Adriana Pereira,R,,PAR,16.9253935661,212231,,,Kristen Lopez,U,,BAR,15.7207392197,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2007-D029,Fed Cup G2 RRB: PAR vs BAR,Clay,4,D,20070418,2,202705,,,Veronica Cepede Royg,R,,PAR,15.2388774812,211516,,,Alyssa Fuentes,R,,BAR,14.7570157426,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2007-D030,Fed Cup G2 RRB: BOL vs GUA,Clay,4,D,20070420,1,205465,,,Daniela Trigo,R,,BOL,16.0136892539,212228,,,Ana Lilyan Guzman,,,GUA,17.8672142368,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D030,Fed Cup G2 RRB: BOL vs GUA,Clay,4,D,20070420,1,205465,,,Daniela Trigo,R,,BOL,16.0136892539,212228,,,Ana Lilyan Guzman,U,,GUA,17.8672142368,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2007-D030,Fed Cup G2 RRB: BOL vs GUA,Clay,4,D,20070420,2,202709,,,Jessica Lehnhoff,R,,GUA,27.0965092402,202900,,,Maria Fernanda Alvarez Teran,R,,BOL,18.1382614648,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,930,7,790,11
-2007-D031,Fed Cup G2 RRB: BOL vs TRI,Clay,4,D,20070418,1,205465,,,Daniela Trigo,R,,BOL,16.0082135524,212232,,,Carlista Mohammed,,,TRI,16.9911019849,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2007-D031,Fed Cup G2 RRB: BOL vs TRI,Clay,4,D,20070418,2,212230,,,Olivia Bennett,,,TRI,16.2710472279,202900,,,Maria Fernanda Alvarez Teran,R,,BOL,18.1327857632,3-6 6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,790,11
-2007-D032,Fed Cup G2 RRB: BOL vs BAR,Clay,4,D,20070416,1,205465,,,Daniela Trigo,R,,BOL,16.0027378508,212231,,,Kristen Lopez,,,BAR,15.7152635181,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D031,Fed Cup G2 RRB: BOL vs TRI,Clay,4,D,20070418,1,205465,,,Daniela Trigo,R,,BOL,16.0082135524,212232,,,Carlista Mohammed,U,,TRI,16.9911019849,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D031,Fed Cup G2 RRB: BOL vs TRI,Clay,4,D,20070418,2,212230,,,Olivia Bennett,U,,TRI,16.2710472279,202900,,,Maria Fernanda Alvarez Teran,R,,BOL,18.1327857632,3-6 6-3 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,790,11
+2007-D032,Fed Cup G2 RRB: BOL vs BAR,Clay,4,D,20070416,1,205465,,,Daniela Trigo,R,,BOL,16.0027378508,212231,,,Kristen Lopez,U,,BAR,15.7152635181,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2007-D032,Fed Cup G2 RRB: BOL vs BAR,Clay,4,D,20070416,2,202900,,,Maria Fernanda Alvarez Teran,R,,BOL,18.1273100616,211516,,,Alyssa Fuentes,R,,BAR,14.7515400411,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,790,11,,
-2007-D033,Fed Cup G2 RRB: GUA vs TRI,Clay,4,D,20070417,1,212228,,,Ana Lilyan Guzman,,,GUA,17.8590006845,212233,,,Shenelle Mohammed,,,TRI,16.5338809035,2-6 6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2007-D033,Fed Cup G2 RRB: GUA vs TRI,Clay,4,D,20070417,2,202709,,,Jessica Lehnhoff,R,,GUA,27.0882956879,212230,,,Olivia Bennett,,,TRI,16.2683093771,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,930,7,,
-2007-D034,Fed Cup G2 RRB: GUA vs BAR,Clay,4,D,20070419,1,209033,,,Paulina Schippers,U,,GUA,16.0465434634,212231,,,Kristen Lopez,,,BAR,15.7234770705,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D033,Fed Cup G2 RRB: GUA vs TRI,Clay,4,D,20070417,1,212228,,,Ana Lilyan Guzman,U,,GUA,17.8590006845,212233,,,Shenelle Mohammed,U,,TRI,16.5338809035,2-6 6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D033,Fed Cup G2 RRB: GUA vs TRI,Clay,4,D,20070417,2,202709,,,Jessica Lehnhoff,R,,GUA,27.0882956879,212230,,,Olivia Bennett,U,,TRI,16.2683093771,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,930,7,,
+2007-D034,Fed Cup G2 RRB: GUA vs BAR,Clay,4,D,20070419,1,209033,,,Paulina Schippers,U,,GUA,16.0465434634,212231,,,Kristen Lopez,U,,BAR,15.7234770705,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2007-D034,Fed Cup G2 RRB: GUA vs BAR,Clay,4,D,20070419,2,202709,,,Jessica Lehnhoff,R,,GUA,27.0937713895,211516,,,Alyssa Fuentes,R,,BAR,14.7597535934,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,930,7,,
-2007-D035,Fed Cup G2 RRB: TRI vs BAR,Clay,4,D,20070420,1,212229,,,Raye Ann Sandy,,,TRI,14.7214236824,212231,,,Kristen Lopez,,,BAR,15.7262149213,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2007-D035,Fed Cup G2 RRB: TRI vs BAR,Clay,4,D,20070420,2,212230,,,Olivia Bennett,,,TRI,16.2765229295,211516,,,Alyssa Fuentes,R,,BAR,14.7624914442,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D035,Fed Cup G2 RRB: TRI vs BAR,Clay,4,D,20070420,1,212229,,,Raye Ann Sandy,U,,TRI,14.7214236824,212231,,,Kristen Lopez,U,,BAR,15.7262149213,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D035,Fed Cup G2 RRB: TRI vs BAR,Clay,4,D,20070420,2,212230,,,Olivia Bennett,U,,TRI,16.2765229295,211516,,,Alyssa Fuentes,R,,BAR,14.7624914442,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2007-D036,Fed Cup G1 RRA: THA vs KOR,Hard,4,D,20070420,1,202268,,,Montinee Tangphong,R,,THA,21.9712525667,203218,,,Eun Hye Cho,U,,KOR,23.8603696099,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,363,52,469,34
 2007-D036,Fed Cup G1 RRA: THA vs KOR,Hard,4,D,20070420,2,200009,,,Tamarine Tanasugarn,R,165,THA,29.9055441478,201677,,,Mi Yoo,R,,KOR,20.9472963723,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,68,392,338,59
 2007-D037,Fed Cup G1 RRA: THA vs UZB,Hard,4,D,20070419,1,201454,,,Akgul Amanmuradova,R,,UZB,22.8199863107,202268,,,Montinee Tangphong,R,,THA,21.9685147159,6-7(5) 6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,208,131,363,52
@@ -133,20 +133,20 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-D047,Fed Cup G1 RRB: NZL vs IND,Hard,4,D,20070418,2,202301,,,Sunitha Rao,R,,IND,21.4729637235,201754,,,Leanne Baker,L,,NZL,26.2724161533,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,229,115,270,88
 2007-D048,Fed Cup G1 RRB: IND vs KAZ,Hard,4,D,20070416,1,201406,,,Shikha Uberoi,R,,IND,24.0301163587,212201,,,Tatyana Ignatchenko,R,,KAZ,18.1820670773,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,236,107,,
 2007-D048,Fed Cup G1 RRB: IND vs KAZ,Hard,4,D,20070416,2,202301,,,Sunitha Rao,R,,IND,21.4674880219,203309,,,Mariya Kovaleva,U,,KAZ,17.6399726215,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,229,115,,
-2007-D049,Fed Cup G1 RRB: IND vs JOR,Hard,4,D,20070417,1,202369,,,Tara Iyer,R,,IND,18.7734428474,212234,,,Sahar Al Disi,,,JOR,16.514715948,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,532,26,,
-2007-D049,Fed Cup G1 RRB: IND vs JOR,Hard,4,D,20070417,2,202326,,,Ankita Bhambri,R,,IND,20.4681724846,212235,,,Leen Irani,,,JOR,19.9452429843,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,489,32,,
+2007-D049,Fed Cup G1 RRB: IND vs JOR,Hard,4,D,20070417,1,202369,,,Tara Iyer,R,,IND,18.7734428474,212234,,,Sahar Al Disi,U,,JOR,16.514715948,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,532,26,,
+2007-D049,Fed Cup G1 RRB: IND vs JOR,Hard,4,D,20070417,2,202326,,,Ankita Bhambri,R,,IND,20.4681724846,212235,,,Leen Irani,U,,JOR,19.9452429843,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,489,32,,
 2007-D050,Fed Cup G1 RRB: NZL vs TPE,Hard,4,D,20070419,1,202359,,,Chin Wei Chan,R,,TPE,22.2751540041,201678,,,Sacha Jones,R,,AUS,16.4435318275,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,160,175,557,24
 2007-D050,Fed Cup G1 RRB: NZL vs TPE,Hard,4,D,20070419,2,201444,,,Su Wei Hsieh,R,169,TPE,21.28678987,201754,,,Leanne Baker,L,,NZL,26.2751540041,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,117,254,270,88
 2007-D051,Fed Cup G1 RRB: TPE vs KAZ,Hard,4,D,20070417,1,202359,,,Chin Wei Chan,R,,TPE,22.2696783025,212201,,,Tatyana Ignatchenko,R,,KAZ,18.1848049281,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,160,175,,
-2007-D051,Fed Cup G1 RRB: TPE vs KAZ,Hard,4,D,20070417,2,201444,,,Su Wei Hsieh,R,169,TPE,21.2813141684,212186,,,Yekaterina Morozova,,,KAZ,19.2005475702,3-6 6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,117,254,,
-2007-D052,Fed Cup G1 RRB: TPE vs JOR,Hard,4,D,20070418,1,202573,,,Wen Hsin Hsu,R,,TPE,18.8446269678,212234,,,Sahar Al Disi,,,JOR,16.5174537988,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2007-D052,Fed Cup G1 RRB: TPE vs JOR,Hard,4,D,20070418,2,201444,,,Su Wei Hsieh,R,169,TPE,21.2840520192,212235,,,Leen Irani,,,JOR,19.947980835,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,117,254,,
+2007-D051,Fed Cup G1 RRB: TPE vs KAZ,Hard,4,D,20070417,2,201444,,,Su Wei Hsieh,R,169,TPE,21.2813141684,212186,,,Yekaterina Morozova,U,,KAZ,19.2005475702,3-6 6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,117,254,,
+2007-D052,Fed Cup G1 RRB: TPE vs JOR,Hard,4,D,20070418,1,202573,,,Wen Hsin Hsu,R,,TPE,18.8446269678,212234,,,Sahar Al Disi,U,,JOR,16.5174537988,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D052,Fed Cup G1 RRB: TPE vs JOR,Hard,4,D,20070418,2,201444,,,Su Wei Hsieh,R,169,TPE,21.2840520192,212235,,,Leen Irani,U,,JOR,19.947980835,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,117,254,,
 2007-D053,Fed Cup G1 RRB: NZL vs KAZ,Hard,4,D,20070420,1,201678,,,Sacha Jones,R,,AUS,16.4462696783,212201,,,Tatyana Ignatchenko,R,,KAZ,18.1930184805,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,557,24,,
-2007-D053,Fed Cup G1 RRB: NZL vs KAZ,Hard,4,D,20070420,2,201754,,,Leanne Baker,L,,NZL,26.2778918549,212186,,,Yekaterina Morozova,,,KAZ,19.2087611225,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,270,88,,
-2007-D054,Fed Cup G1 RRB: NZL vs JOR,Hard,4,D,20070416,1,204220,,,Dianne Hollands,R,,NZL,23.9315537303,212234,,,Sahar Al Disi,,,JOR,16.5119780972,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,993,6,,
-2007-D054,Fed Cup G1 RRB: NZL vs JOR,Hard,4,D,20070416,2,201754,,,Leanne Baker,L,,NZL,26.2669404517,212235,,,Leen Irani,,,JOR,19.9425051335,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,270,88,,
-2007-D055,Fed Cup G1 RRB: KAZ vs JOR,Hard,4,D,20070419,1,212201,,,Tatyana Ignatchenko,R,,KAZ,18.1902806297,212234,,,Sahar Al Disi,,,JOR,16.5201916496,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2007-D055,Fed Cup G1 RRB: KAZ vs JOR,Hard,4,D,20070419,2,212186,,,Yekaterina Morozova,,,KAZ,19.2060232717,212235,,,Leen Irani,,,JOR,19.9507186858,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D053,Fed Cup G1 RRB: NZL vs KAZ,Hard,4,D,20070420,2,201754,,,Leanne Baker,L,,NZL,26.2778918549,212186,,,Yekaterina Morozova,U,,KAZ,19.2087611225,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,270,88,,
+2007-D054,Fed Cup G1 RRB: NZL vs JOR,Hard,4,D,20070416,1,204220,,,Dianne Hollands,R,,NZL,23.9315537303,212234,,,Sahar Al Disi,U,,JOR,16.5119780972,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,993,6,,
+2007-D054,Fed Cup G1 RRB: NZL vs JOR,Hard,4,D,20070416,2,201754,,,Leanne Baker,L,,NZL,26.2669404517,212235,,,Leen Irani,U,,JOR,19.9425051335,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,270,88,,
+2007-D055,Fed Cup G1 RRB: KAZ vs JOR,Hard,4,D,20070419,1,212201,,,Tatyana Ignatchenko,R,,KAZ,18.1902806297,212234,,,Sahar Al Disi,U,,JOR,16.5201916496,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D055,Fed Cup G1 RRB: KAZ vs JOR,Hard,4,D,20070419,2,212186,,,Yekaterina Morozova,U,,KAZ,19.2060232717,212235,,,Leen Irani,U,,JOR,19.9507186858,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2007-D056,Fed Cup G2 RRA: RSA vs FIN,Hard,4,D,20070418,1,202582,,,Lizaan Du Plessis,L,,RSA,21.1471594798,205763,,,Essi Laine,R,,FIN,22.7241615332,7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2007-D056,Fed Cup G2 RRA: RSA vs FIN,Hard,4,D,20070418,2,203290,,,Piia Suomalainen,R,,FIN,22.7734428474,201201,,,Surina De Beer,R,,RSA,28.8049281314,1-6 6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,519,27,718,14
 2007-D057,Fed Cup G2 RRA: RSA vs GRE,Hard,4,D,20070419,1,202582,,,Lizaan Du Plessis,L,,RSA,21.1498973306,203323,,,Anna Koumantou,R,,GRE,24.3750855578,6-4 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,607,20
@@ -203,15 +203,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-D082,Fed Cup G1 RRC: EST vs SWE,Clay,4,D,20070420,2,201387,,,Sofia Arvidsson,R,176,SWE,23.1731690623,202399,,,Margit Ruutel,R,,EST,23.6249144422,5-7 6-1 8-6,3,RR,,,,,,,,,,,,,,,,,,,,129,233,219,122
 2007-D083,Fed Cup G1 RRD: BUL vs GBR,Clay,4,D,20070418,1,201304,,,Elena Baltacha,R,,GBR,23.6769336071,201691,,,Dia Evtimova,R,,BUL,19.9671457906,4-6 6-4 8-6,3,RR,,,,,,,,,,,,,,,,,,,,820,10,285,80
 2007-D083,Fed Cup G1 RRD: BUL vs GBR,Clay,4,D,20070418,2,201303,,,Anne Keothavong,R,175,GBR,23.5865845311,201450,,,Tsvetana Pironkova,R,180,BUL,19.5947980835,5-7 6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,168,169,86,331
-2007-D084,Fed Cup G1 RRD: BUL vs LUX,Clay,4,D,20070420,1,201605,,,Mandy Minella,R,,LUX,21.4072553046,201691,,,Dia Evtimova,R,,BUL,19.9726214921,6-3 5-7 6-3,3,RR,,,,,,,,,,,,,,,,,,,,368,52,285,80
+2007-D084,Fed Cup G1 RRD: BUL vs LUX,Clay,4,D,20070420,1,201605,,,Mandy Minella,R,180,LUX,21.4072553046,201691,,,Dia Evtimova,R,,BUL,19.9726214921,6-3 5-7 6-3,3,RR,,,,,,,,,,,,,,,,,,,,368,52,285,80
 2007-D084,Fed Cup G1 RRD: BUL vs LUX,Clay,4,D,20070420,2,200124,,,Anne Kremer,R,,LUX,31.5071868583,201450,,,Tsvetana Pironkova,R,180,BUL,19.6002737851,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,100,287,86,331
 2007-D085,Fed Cup G1 RRD: BUL vs POL,Clay,4,D,20070419,1,201524,,,Urszula Radwanska,R,177,POL,16.3641341547,201691,,,Dia Evtimova,R,,BUL,19.9698836413,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,342,58,285,80
 2007-D085,Fed Cup G1 RRD: BUL vs POL,Clay,4,D,20070419,2,201474,,,Agnieszka Radwanska,R,170,POL,18.1190965092,201450,,,Tsvetana Pironkova,R,180,BUL,19.5975359343,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,42,555,86,331
-2007-D086,Fed Cup G1 RRD: GBR vs LUX,Clay,4,D,20070419,1,201605,,,Mandy Minella,R,,LUX,21.4045174538,201471,,,Naomi Cavaday,L,,GBR,17.9849418207,4-6 7-6(2) 6-4,3,RR,,,,,,,,,,,,,,,,,,,,368,52,282,81
+2007-D086,Fed Cup G1 RRD: GBR vs LUX,Clay,4,D,20070419,1,201605,,,Mandy Minella,R,180,LUX,21.4045174538,201471,,,Naomi Cavaday,L,,GBR,17.9849418207,4-6 7-6(2) 6-4,3,RR,,,,,,,,,,,,,,,,,,,,368,52,282,81
 2007-D086,Fed Cup G1 RRD: GBR vs LUX,Clay,4,D,20070419,2,200124,,,Anne Kremer,R,,LUX,31.5044490075,201303,,,Anne Keothavong,R,175,GBR,23.5893223819,6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,100,287,168,169
 2007-D087,Fed Cup G1 RRD: GBR vs POL,Clay,4,D,20070420,1,201417,,,Marta Domachowska,R,176,POL,21.2566735113,201304,,,Elena Baltacha,R,,GBR,23.6824093087,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,161,175,820,10
 2007-D087,Fed Cup G1 RRD: GBR vs POL,Clay,4,D,20070420,2,201474,,,Agnieszka Radwanska,R,170,POL,18.12183436,201471,,,Naomi Cavaday,L,,GBR,17.9876796715,6-3 6-2,3,RR,,,,,,,,,,,,,,,,,,,,42,555,282,81
-2007-D088,Fed Cup G1 RRD: LUX vs POL,Clay,4,D,20070418,1,201417,,,Marta Domachowska,R,176,POL,21.2511978097,201605,,,Mandy Minella,R,,LUX,21.401779603,6-4 7-6(6),3,RR,,,,,,,,,,,,,,,,,,,,161,175,368,52
+2007-D088,Fed Cup G1 RRD: LUX vs POL,Clay,4,D,20070418,1,201417,,,Marta Domachowska,R,176,POL,21.2511978097,201605,,,Mandy Minella,R,180,LUX,21.401779603,6-4 7-6(6),3,RR,,,,,,,,,,,,,,,,,,,,161,175,368,52
 2007-D088,Fed Cup G1 RRD: LUX vs POL,Clay,4,D,20070418,2,201474,,,Agnieszka Radwanska,R,170,POL,18.1163586585,200124,,,Anne Kremer,R,,LUX,31.5017111567,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,42,555,100,287
 2007-D089,Fed Cup G1 RRA: BRA vs MEX,Clay,4,D,20070419,1,202694,,,Teliana Pereira,R,,BRA,18.7460643395,202352,,,Daniela Munoz Gallegos,R,,MEX,23.2169746749,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,387,48,350,56
 2007-D089,Fed Cup G1 RRA: BRA vs MEX,Clay,4,D,20070419,2,201637,,,Melissa Torres Sandoval,R,,MEX,23.2060232717,202302,,,Maria Fernanda Alves,L,,BRA,24.0054757016,6-4 6-7(4) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,266,91,298,75
@@ -223,14 +223,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-D092,Fed Cup G1 RRB: ARG vs PUR,Clay,4,D,20070419,2,201363,,,Gisela Dulko,R,170,ARG,22.2149212868,200062,,,Kristina Brandi,R,168,PUR,30.0561259411,7-5 6-1,3,RR,,,,,,,,,,,,,,,,,,,,50,499,167,170
 2007-D093,Fed Cup G1 RRB: PUR vs COL,Clay,4,D,20070418,1,201531,,,Mariana Duque Marino,R,,COL,17.6810403833,202331,,,Vilmarie Castellvi,U,,PUR,26.0752908966,5-7 6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,273,87,245,102
 2007-D093,Fed Cup G1 RRB: PUR vs COL,Clay,4,D,20070418,2,201293,,,Catalina Castano,R,171,COL,27.780971937,200062,,,Kristina Brandi,R,168,PUR,30.0533880903,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,88,322,167,170
-2007-D094,Fed Cup G1 RRB: PUR vs DOM,Clay,4,D,20070420,1,202930,,,Jessica Roland Rosario,R,,PUR,24.8843258042,212236,,,Pamela Adom Mendez,,,DOM,15.5126625599,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2007-D094,Fed Cup G1 RRB: PUR vs DOM,Clay,4,D,20070420,2,200062,,,Kristina Brandi,R,168,PUR,30.0588637919,212237,,,Katherine Hoepelman,,,DOM,17.4209445585,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,167,170,,
+2007-D094,Fed Cup G1 RRB: PUR vs DOM,Clay,4,D,20070420,1,202930,,,Jessica Roland Rosario,R,,PUR,24.8843258042,212236,,,Pamela Adom Mendez,U,,DOM,15.5126625599,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D094,Fed Cup G1 RRB: PUR vs DOM,Clay,4,D,20070420,2,200062,,,Kristina Brandi,R,168,PUR,30.0588637919,212237,,,Katherine Hoepelman,U,,DOM,17.4209445585,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,167,170,,
 2007-D095,Fed Cup G1 RRB: ARG vs COL,Clay,4,D,20070420,1,201488,,,Jorgelina Cravero,R,,ARG,25.2375085558,201531,,,Mariana Duque Marino,R,,COL,17.6865160849,7-6(3) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,142,212,273,87
 2007-D095,Fed Cup G1 RRB: ARG vs COL,Clay,4,D,20070420,2,201363,,,Gisela Dulko,R,170,ARG,22.2176591376,201293,,,Catalina Castano,R,171,COL,27.7864476386,7-5 6-4,3,RR,,,,,,,,,,,,,,,,,,,,50,499,88,322
-2007-D096,Fed Cup G1 RRB: ARG vs DOM,Clay,4,D,20070418,1,201488,,,Jorgelina Cravero,R,,ARG,25.2320328542,212238,,,Leyla Esther Cabrera,,,DOM,16.7501711157,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,142,212,,
-2007-D096,Fed Cup G1 RRB: ARG vs DOM,Clay,4,D,20070418,2,201363,,,Gisela Dulko,R,170,ARG,22.212183436,212237,,,Katherine Hoepelman,,,DOM,17.4154688569,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,50,499,,
-2007-D097,Fed Cup G1 RRB: COL vs DOM,Clay,4,D,20070419,1,201531,,,Mariana Duque Marino,R,,COL,17.6837782341,212238,,,Leyla Esther Cabrera,,,DOM,16.7529089665,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,273,87,,
-2007-D097,Fed Cup G1 RRB: COL vs DOM,Clay,4,D,20070419,2,201293,,,Catalina Castano,R,171,COL,27.7837097878,212236,,,Pamela Adom Mendez,,,DOM,15.5099247091,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,88,322,,
+2007-D096,Fed Cup G1 RRB: ARG vs DOM,Clay,4,D,20070418,1,201488,,,Jorgelina Cravero,R,,ARG,25.2320328542,212238,,,Leyla Esther Cabrera,U,,DOM,16.7501711157,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,142,212,,
+2007-D096,Fed Cup G1 RRB: ARG vs DOM,Clay,4,D,20070418,2,201363,,,Gisela Dulko,R,170,ARG,22.212183436,212237,,,Katherine Hoepelman,U,,DOM,17.4154688569,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,50,499,,
+2007-D097,Fed Cup G1 RRB: COL vs DOM,Clay,4,D,20070419,1,201531,,,Mariana Duque Marino,R,,COL,17.6837782341,212238,,,Leyla Esther Cabrera,U,,DOM,16.7529089665,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,273,87,,
+2007-D097,Fed Cup G1 RRB: COL vs DOM,Clay,4,D,20070419,2,201293,,,Catalina Castano,R,171,COL,27.7837097878,212236,,,Pamela Adom Mendez,U,,DOM,15.5099247091,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,88,322,,
 2007-D098,Fed Cup G2 PO: FIN vs BIH,Hard,4,D,20070420,1,208260,,,Dijana Stojic,R,,BIH,18.7597535934,209369,,,Emma Sofia Helisten,R,,FIN,17.9411362081,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,793,11,,
 2007-D098,Fed Cup G2 PO: FIN vs BIH,Hard,4,D,20070420,2,202389,,,Sandra Martinovic,R,,BIH,27.5427789185,203290,,,Piia Suomalainen,R,,FIN,22.7789185489,7-5 3-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,302,74,519,27
 2007-D099,Fed Cup G2 PO: POR vs GRE,Hard,4,D,20070420,1,201574,,,Neuza Silva,R,,POR,23.961670089,204451,,,Asimina Kaplani,U,,GRE,23.4798083504,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,336,61,,
@@ -245,8 +245,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-D103,Fed Cup G1 PO: NZL vs HKG,,4,D,20070421,2,202507,,,Wing Yau Venise Chan,R,,HKG,17.8918548939,201754,,,Leanne Baker,L,,NZL,26.2806297057,4-6 6-3 6-3,3,RR,,,,,,,,,,,,,,,,,,,,606,20,270,88
 2007-D104,Fed Cup G1 PO: KOR vs KAZ,,4,D,20070421,1,201676,,,Ye Ra Lee,R,,KOR,19.6002737851,212201,,,Tatyana Ignatchenko,R,,KAZ,18.1957563313,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,390,47,,
 2007-D104,Fed Cup G1 PO: KOR vs KAZ,,4,D,20070421,2,201677,,,Mi Yoo,R,,KOR,20.9500342231,203309,,,Mariya Kovaleva,U,,KAZ,17.6536618754,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,338,59,,
-2007-D105,Fed Cup G1 PO: SIN vs JOR,Hard,4,D,20070421,1,202315,,,Beier Ko,R,,SIN,20.7611225188,212234,,,Sahar Al Disi,,,JOR,16.5256673511,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,1130,4,,
-2007-D105,Fed Cup G1 PO: SIN vs JOR,Hard,4,D,20070421,2,205348,,,Wei Ping Lee,R,,SIN,17.4099931554,212235,,,Leen Irani,,,JOR,19.9561943874,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,995,6,,
+2007-D105,Fed Cup G1 PO: SIN vs JOR,Hard,4,D,20070421,1,202315,,,Beier Ko,R,,SIN,20.7611225188,212234,,,Sahar Al Disi,U,,JOR,16.5256673511,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,1130,4,,
+2007-D105,Fed Cup G1 PO: SIN vs JOR,Hard,4,D,20070421,2,205348,,,Wei Ping Lee,R,,SIN,17.4099931554,212235,,,Leen Irani,U,,JOR,19.9561943874,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,995,6,,
 2007-D106,Fed Cup G1 PO: SRB vs ROU,Clay,4,D,20070421,1,202357,,,Madalina Gojnea,R,,ROU,19.6605065024,202272,,,Ana Timotic,R,,SRB,24.3066392882,1-6 6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,192,145,389,47
 2007-D106,Fed Cup G1 PO: SRB vs ROU,Clay,4,D,20070421,2,201347,,,Jelena Jankovic,R,177,SRB,22.1409993155,201494,,,Raluca Olaru,R,173,ROU,18.1327857632,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,7,2257,162,174
 2007-D107,Fed Cup G1 PO: POL vs UKR,Clay,4,D,20070421,1,201385,,,Yuliana Fedak,R,166,UKR,23.8685831622,201417,,,Marta Domachowska,R,176,POL,21.2594113621,7-6(3) 7-6(5),3,RR,,,,,,,,,,,,,,,,,,,,97,295,161,175
@@ -259,10 +259,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-D110,Fed Cup G2 PO: URU vs BOL,Clay,4,D,20070421,2,203244,,,Estefania Craciun,R,,URU,20.3011635866,202900,,,Maria Fernanda Alvarez Teran,R,,BOL,18.1409993155,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,284,81,790,11
 2007-D111,Fed Cup G2 PO: ECU vs PAR,Clay,4,D,20070421,1,202705,,,Veronica Cepede Royg,R,,PAR,15.2470910335,209118,,,Claudia Hidalgo,U,,ECU,16.8843258042,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2007-D111,Fed Cup G2 PO: ECU vs PAR,Clay,4,D,20070421,2,200709,,,Rosana De Los Rios,R,170,PAR,31.5947980835,209119,,,Claudine Paulson,U,,ECU,17.1143052704,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,191,145,,
-2007-D112,Fed Cup G2 PO: BER vs GUA,Clay,4,D,20070421,1,212228,,,Ana Lilyan Guzman,,,GUA,17.8699520876,212213,,,Jacklyn Lambert,,,BER,18.5626283368,6-7(4) 6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2007-D112,Fed Cup G2 PO: BER vs GUA,Clay,4,D,20070421,2,202709,,,Jessica Lehnhoff,R,,GUA,27.099247091,212178,,,Ashley Brooks,,,BER,18.9267624914,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,930,7,,
-2007-D113,Fed Cup G2 PO: HON vs TRI,Clay,4,D,20070421,1,209975,,,Zulema Zelaya,R,,HON,15.0910335387,212232,,,Carlista Mohammed,,,TRI,16.9993155373,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2007-D113,Fed Cup G2 PO: HON vs TRI,Clay,4,D,20070421,2,212230,,,Olivia Bennett,,,TRI,16.2792607803,212226,,,Marisela Aviles,,,HON,16.3887748118,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D112,Fed Cup G2 PO: BER vs GUA,Clay,4,D,20070421,1,212228,,,Ana Lilyan Guzman,U,,GUA,17.8699520876,212213,,,Jacklyn Lambert,U,,BER,18.5626283368,6-7(4) 6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D112,Fed Cup G2 PO: BER vs GUA,Clay,4,D,20070421,2,202709,,,Jessica Lehnhoff,R,,GUA,27.099247091,212178,,,Ashley Brooks,U,,BER,18.9267624914,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,930,7,,
+2007-D113,Fed Cup G2 PO: HON vs TRI,Clay,4,D,20070421,1,209975,,,Zulema Zelaya,R,,HON,15.0910335387,212232,,,Carlista Mohammed,U,,TRI,16.9993155373,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D113,Fed Cup G2 PO: HON vs TRI,Clay,4,D,20070421,2,212230,,,Olivia Bennett,U,,TRI,16.2792607803,212226,,,Marisela Aviles,U,,HON,16.3887748118,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2007-D114,Fed Cup G1 PO: ARG vs BRA,Clay,4,D,20070421,1,201488,,,Jorgelina Cravero,R,,ARG,25.2402464066,202302,,,Maria Fernanda Alves,L,,BRA,24.0109514031,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,142,212,298,75
 2007-D114,Fed Cup G1 PO: ARG vs BRA,Clay,4,D,20070421,2,201363,,,Gisela Dulko,R,170,ARG,22.2203969884,202370,,,Jenifer Widjaja,R,,BRA,20.3696098563,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,50,499,193,144
 2007-D115,Fed Cup G1 PO: MEX vs COL,Clay,4,D,20070421,1,201634,,,Viky Nunez Fuentes,U,,COL,18.5160848734,202549,,,Erika Clarke Magana,R,,MEX,25.6700889802,6-4 5-7 6-0,3,RR,,,,,,,,,,,,,,,,,,,,565,23,506,29
@@ -279,43 +279,43 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-D120,Fed Cup G1 PO: HUN vs DEN,Clay,4,D,20070421,2,201211,,,Kyra Nagy,R,,HUN,29.3086926762,202562,,,Hanne Skak Jensen,R,,DEN,20.977412731,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,159,177,651,17
 2007-D121,Fed Cup G3 RRA: TUR vs EGY,Hard,4,D,20070427,1,201665,,,Ipek Senoglu,R,,TUR,27.8850102669,208287,,,Nihal Tarek Saleh,R,,EGY,19.7344284736,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,505,29,,
 2007-D121,Fed Cup G3 RRA: TUR vs EGY,Hard,4,D,20070427,2,201664,,,Pemra Ozgen,R,,TUR,20.9691991786,205010,,,Magy Aziz,R,,EGY,19.3374401095,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,355,54,1291,3
-2007-D122,Fed Cup G3 RRA: TUR vs LIE,Hard,4,D,20070423,1,201666,,,Cagla Buyukakcay,R,,TUR,17.5660506502,209776,,,Marina Novak,R,,LIE,15.8986995209,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,575,23,,
+2007-D122,Fed Cup G3 RRA: TUR vs LIE,Hard,4,D,20070423,1,201666,,,Cagla Buyukakcay,R,172,TUR,17.5660506502,209776,,,Marina Novak,R,,LIE,15.8986995209,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,575,23,,
 2007-D122,Fed Cup G3 RRA: TUR vs LIE,Hard,4,D,20070423,2,201665,,,Ipek Senoglu,R,,TUR,27.8740588638,202626,,,Stephanie Vogt,R,,LIE,17.18275154,4-6 6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,505,29,965,6
-2007-D123,Fed Cup G3 RRA: TUR vs AZE,Hard,4,D,20070425,1,201666,,,Cagla Buyukakcay,R,,TUR,17.5715263518,212239,,,Shukufa Abdullayeva,,,AZE,14.5817932923,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,575,23,,
+2007-D123,Fed Cup G3 RRA: TUR vs AZE,Hard,4,D,20070425,1,201666,,,Cagla Buyukakcay,R,172,TUR,17.5715263518,212239,,,Shukufa Abdullayeva,U,,AZE,14.5817932923,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,575,23,,
 2007-D123,Fed Cup G3 RRA: TUR vs AZE,Hard,4,D,20070425,2,201664,,,Pemra Ozgen,R,,TUR,20.9637234771,208982,,,Sevil Aliyeva,R,,AZE,16.090349076,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,355,54,,
-2007-D124,Fed Cup G3 RRA: MRI vs TUR,Hard,4,D,20070426,1,201666,,,Cagla Buyukakcay,R,,TUR,17.5742642026,212240,,,Astrid Tixier,,,MRI,21.2621492129,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,575,23,,
+2007-D124,Fed Cup G3 RRA: MRI vs TUR,Hard,4,D,20070426,1,201666,,,Cagla Buyukakcay,R,172,TUR,17.5742642026,212240,,,Astrid Tixier,U,,MRI,21.2621492129,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,575,23,,
 2007-D124,Fed Cup G3 RRA: MRI vs TUR,Hard,4,D,20070426,2,202585,,,Marinne Giraud,R,,MRI,21.0075290897,201664,,,Pemra Ozgen,R,,TUR,20.9664613279,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,496,31,355,54
 2007-D125,Fed Cup G3 RRA: EGY vs LIE,Hard,4,D,20070425,1,209776,,,Marina Novak,R,,LIE,15.9041752225,208549,,,Aliaa Fakhry,R,,EGY,19.2908966461,6-3 1-6 13-11,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2007-D125,Fed Cup G3 RRA: EGY vs LIE,Hard,4,D,20070425,2,202626,,,Stephanie Vogt,R,,LIE,17.1882272416,205010,,,Magy Aziz,R,,EGY,19.3319644079,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,965,6,1291,3
 2007-D126,Fed Cup G3 RRA: EGY vs AZE,Hard,4,D,20070424,1,208287,,,Nihal Tarek Saleh,R,,EGY,19.7262149213,209494,,,Sayyara Mammadova,U,,AZE,19.2607802875,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2007-D126,Fed Cup G3 RRA: EGY vs AZE,Hard,4,D,20070424,2,205010,,,Magy Aziz,R,,EGY,19.3292265572,208982,,,Sevil Aliyeva,R,,AZE,16.0876112252,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,1291,3,,
-2007-D127,Fed Cup G3 RRA: MRI vs EGY,Hard,4,D,20070423,1,208287,,,Nihal Tarek Saleh,R,,EGY,19.7234770705,212240,,,Astrid Tixier,,,MRI,21.2539356605,6-3 6-7(2) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D127,Fed Cup G3 RRA: MRI vs EGY,Hard,4,D,20070423,1,208287,,,Nihal Tarek Saleh,R,,EGY,19.7234770705,212240,,,Astrid Tixier,U,,MRI,21.2539356605,6-3 6-7(2) 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2007-D127,Fed Cup G3 RRA: MRI vs EGY,Hard,4,D,20070423,2,202585,,,Marinne Giraud,R,,MRI,20.9993155373,205010,,,Magy Aziz,R,,EGY,19.3264887064,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,496,31,1291,3
 2007-D128,Fed Cup G3 RRA: LIE vs AZE,Hard,4,D,20070426,1,209776,,,Marina Novak,R,,LIE,15.9069130732,209494,,,Sayyara Mammadova,U,,AZE,19.266255989,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2007-D128,Fed Cup G3 RRA: LIE vs AZE,Hard,4,D,20070426,2,202626,,,Stephanie Vogt,R,,LIE,17.1909650924,208982,,,Sevil Aliyeva,R,,AZE,16.0930869268,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,965,6,,
-2007-D129,Fed Cup G3 RRA: MRI vs LIE,Hard,4,D,20070424,1,209776,,,Marina Novak,R,,LIE,15.9014373717,212240,,,Astrid Tixier,,,MRI,21.2566735113,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D129,Fed Cup G3 RRA: MRI vs LIE,Hard,4,D,20070424,1,209776,,,Marina Novak,R,,LIE,15.9014373717,212240,,,Astrid Tixier,U,,MRI,21.2566735113,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2007-D129,Fed Cup G3 RRA: MRI vs LIE,Hard,4,D,20070424,2,202626,,,Stephanie Vogt,R,,LIE,17.1854893908,202585,,,Marinne Giraud,R,,MRI,21.0020533881,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,965,6,496,31
-2007-D130,Fed Cup G3 RRA: MRI vs AZE,Hard,4,D,20070427,1,212240,,,Astrid Tixier,,,MRI,21.2648870637,212239,,,Shukufa Abdullayeva,,,AZE,14.5872689938,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D130,Fed Cup G3 RRA: MRI vs AZE,Hard,4,D,20070427,1,212240,,,Astrid Tixier,U,,MRI,21.2648870637,212239,,,Shukufa Abdullayeva,U,,AZE,14.5872689938,6-0 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2007-D130,Fed Cup G3 RRA: MRI vs AZE,Hard,4,D,20070427,2,202585,,,Marinne Giraud,R,,MRI,21.0102669405,208982,,,Sevil Aliyeva,R,,AZE,16.0958247775,W/O,5,RR,,,,,,,,,,,,,,,,,,,,496,31,,
 2007-D131,Fed Cup G3 RRB: LAT vs IRL,Hard,4,D,20070426,1,205276,,,Alise Vaidere,R,,LAT,19.0143737166,203265,,,Emma Murphy,U,,IRL,23.7672826831,2-6 6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,1095,5,837,9
 2007-D131,Fed Cup G3 RRB: LAT vs IRL,Hard,4,D,20070426,2,202266,,,Kelly Liggan,U,,IRL,28.219028063,202545,,,Irina Kuzmina,R,,LAT,21.273100616,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,232,113,455,37
-2007-D132,Fed Cup G3 RRB: LAT vs MDA,Hard,4,D,20070427,1,212241,,,Diana Bukajeva,,,LAT,15.6112251882,209628,,,Daniela Cociorba,R,,MDA,17.2320328542,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D132,Fed Cup G3 RRB: LAT vs MDA,Hard,4,D,20070427,1,212241,,,Diana Bukajeva,U,,LAT,15.6112251882,209628,,,Daniela Cociorba,R,,MDA,17.2320328542,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2007-D132,Fed Cup G3 RRB: LAT vs MDA,Hard,4,D,20070427,2,202545,,,Irina Kuzmina,R,,LAT,21.2758384668,209753,,,Ecaterina Vasenina,U,,MDA,14.8336755647,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,455,37,,
 2007-D133,Fed Cup G3 RRB: LAT vs MLT,Hard,4,D,20070423,1,205276,,,Alise Vaidere,R,,LAT,19.0061601643,209712,,,Elaine Genovese,R,,MLT,16.2792607803,6-1 6-3,3,RR,,,,,,,,,,,,,,,,,,,,1095,5,,
-2007-D133,Fed Cup G3 RRB: LAT vs MLT,Hard,4,D,20070423,2,202545,,,Irina Kuzmina,R,,LAT,21.2648870637,212204,,,Stephanie Sullivan,,,MLT,18.431211499,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,455,37,,
+2007-D133,Fed Cup G3 RRB: LAT vs MLT,Hard,4,D,20070423,2,202545,,,Irina Kuzmina,R,,LAT,21.2648870637,212204,,,Stephanie Sullivan,U,,MLT,18.431211499,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,455,37,,
 2007-D134,Fed Cup G3 RRB: LAT vs MNE,Hard,4,D,20070425,1,205276,,,Alise Vaidere,R,,LAT,19.0116358658,205604,,,Andjela Kankaras,R,,MNE,17.2566735113,6-4 7-5,3,RR,,,,,,,,,,,,,,,,,,,,1095,5,,
 2007-D134,Fed Cup G3 RRB: LAT vs MNE,Hard,4,D,20070425,2,202545,,,Irina Kuzmina,R,,LAT,21.2703627652,203191,,,Danica Krstajic,R,,MNE,20.1505817933,6-2 3-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,455,37,280,84
 2007-D135,Fed Cup G3 RRB: IRL vs MDA,Hard,4,D,20070425,1,203265,,,Emma Murphy,U,,IRL,23.7645448323,212242,,,Marina Kojanova,R,,MDA,17.9986310746,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,837,9,,
 2007-D135,Fed Cup G3 RRB: IRL vs MDA,Hard,4,D,20070425,2,202266,,,Kelly Liggan,U,,IRL,28.2162902122,209753,,,Ecaterina Vasenina,U,,MDA,14.8281998631,6-0 6-2,3,RR,,,,,,,,,,,,,,,,,,,,232,113,,
 2007-D136,Fed Cup G3 RRB: IRL vs MLT,Hard,4,D,20070424,1,203265,,,Emma Murphy,U,,IRL,23.7618069815,209712,,,Elaine Genovese,R,,MLT,16.2819986311,6-2 6-2,3,RR,,,,,,,,,,,,,,,,,,,,837,9,,
-2007-D136,Fed Cup G3 RRB: IRL vs MLT,Hard,4,D,20070424,2,202266,,,Kelly Liggan,U,,IRL,28.2135523614,212204,,,Stephanie Sullivan,,,MLT,18.4339493498,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,232,113,,
+2007-D136,Fed Cup G3 RRB: IRL vs MLT,Hard,4,D,20070424,2,202266,,,Kelly Liggan,U,,IRL,28.2135523614,212204,,,Stephanie Sullivan,U,,MLT,18.4339493498,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,232,113,,
 2007-D137,Fed Cup G3 RRB: IRL vs MNE,Hard,4,D,20070423,1,203265,,,Emma Murphy,U,,IRL,23.7590691307,205604,,,Andjela Kankaras,R,,MNE,17.2511978097,6-1 6-1,3,RR,,,,,,,,,,,,,,,,,,,,837,9,,
 2007-D137,Fed Cup G3 RRB: IRL vs MNE,Hard,4,D,20070423,2,203191,,,Danica Krstajic,R,,MNE,20.1451060917,202266,,,Kelly Liggan,U,,IRL,28.2108145106,6-4 3-6 6-2,3,RR,,,,,,,,,,,,,,,,,,,,280,84,232,113
 2007-D138,Fed Cup G3 RRB: MDA vs MLT,Hard,4,D,20070426,1,209712,,,Elaine Genovese,R,,MLT,16.2874743326,209628,,,Daniela Cociorba,R,,MDA,17.2292950034,6-1 2-6 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2007-D138,Fed Cup G3 RRB: MDA vs MLT,Hard,4,D,20070426,2,204329,,,Kimberley Cassar,R,,MLT,14.9678302533,212242,,,Marina Kojanova,R,,MDA,18.0013689254,6-4 5-7 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2007-D139,Fed Cup G3 RRB: MDA vs MNE,Hard,4,D,20070424,1,205604,,,Andjela Kankaras,R,,MNE,17.2539356605,209628,,,Daniela Cociorba,R,,MDA,17.2238193018,7-6(6) 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2007-D139,Fed Cup G3 RRB: MDA vs MNE,Hard,4,D,20070424,2,203191,,,Danica Krstajic,R,,MNE,20.1478439425,209753,,,Ecaterina Vasenina,U,,MDA,14.8254620123,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,280,84,,
-2007-D140,Fed Cup G3 RRB: MLT vs MNE,Hard,4,D,20070427,1,208800,,,Vanja Radunovic,U,,MNE,17.8918548939,212204,,,Stephanie Sullivan,,,MLT,18.4421629021,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2007-D140,Fed Cup G3 RRB: MLT vs MNE,Hard,4,D,20070427,1,208800,,,Vanja Radunovic,U,,MNE,17.8918548939,212204,,,Stephanie Sullivan,U,,MLT,18.4421629021,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2007-D140,Fed Cup G3 RRB: MLT vs MNE,Hard,4,D,20070427,2,203191,,,Danica Krstajic,R,,MNE,20.1560574949,204329,,,Kimberley Cassar,R,,MLT,14.970568104,6-2 6-1,3,RR,,,,,,,,,,,,,,,,,,,,280,84,,
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,1,201345,1,,Maria Sharapova,R,,RUS,19.742642026,201301,,,Camille Pin,U,162,FRA,25.3908281999,6-3 4-6 9-7,3,R128,,8,4,90,54,37,16,,4,10,0,3,129,112,57,7,,8,16,2,3532,62,393
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,2,201370,,,Anastasia Rodionova,R,167,AUS,24.6789869952,201311,,,Roberta Vinci,R,163,ITA,23.9069130732,6-3 6-1,3,R128,,0,0,49,34,23,12,,1,1,1,1,40,21,13,8,,3,6,100,287,87,320
@@ -333,7 +333,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,14,200008,,WC,Alicia Molik,R,182,AUS,25.9657768652,201442,,,Yung Jan Chan,R,170,TPE,17.4127310062,6-2 7-6(4),3,R128,,12,2,76,40,34,14,,7,10,0,2,65,49,25,8,,1,6,141,198,75,350
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,15,201397,,,Shuai Peng,R,173,CHN,21.0184804928,201482,,Q,Andreja Klepac,R,,SLO,20.8432580424,6-3 4-6 6-1,3,R128,,2,3,76,50,33,13,,3,7,1,4,91,47,27,16,,9,16,52,433,212,124
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,16,200067,8,,Patty Schnyder,L,168,SUI,28.0876112252,201483,,WC,Madison Brengle,R,,USA,16.7857631759,6-3 6-4,3,R128,,2,3,58,37,30,10,,3,4,0,4,88,60,35,13,,13,16,9,1578,496,31
-2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,17,200079,4,,Kim Clijsters,R,,BEL,23.6057494867,201473,,,Vasilisa Bardina,R,,RUS,19.1266255989,6-0 6-0,3,R128,,,,,,,,,,,,,,,,,,,,5,2441,48,445
+2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,17,200079,4,,Kim Clijsters,R,175,BEL,23.6057494867,201473,,,Vasilisa Bardina,R,,RUS,19.1266255989,6-0 6-0,3,R128,,,,,,,,,,,,,,,,,,,,5,2441,48,445
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,18,201352,,,Akiko Morigami,R,,JPN,27.0088980151,201450,,,Tsvetana Pironkova,R,180,BUL,19.3401779603,7-5 2-6 6-4,3,R128,,0,4,110,64,34,23,,18,24,3,2,103,63,38,18,,6,12,86,321,66,382
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,19,200043,,,Virginie Razzano,R,173,FRA,23.6796714579,200036,,,Nicole Pratt,R,,AUS,33.864476386,6-7(8) 6-4 6-0,3,R128,,8,6,112,75,48,18,,7,10,1,3,94,70,38,10,,1,8,78,344,60,397
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,20,201416,29,,Alona Bondarenko,R,168,UKR,22.4229979466,200770,,Q,Stephanie Cohen Aloro,R,175,FRA,23.8302532512,6-1 7-6(6),3,R128,,1,0,73,49,29,16,,5,8,1,7,75,49,28,7,,8,13,34,576,160,173
@@ -389,7 +389,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,70,200056,,,Jelena Kostanic Tosic,L,168,CRO,25.5277207392,201325,24,,Samantha Stosur,R,172,AUS,22.7953456537,6-4 2-6 6-2,3,R64,,5,3,85,54,37,14,,5,8,10,6,77,47,33,14,,1,5,67,378,27,714
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,71,200008,,WC,Alicia Molik,R,182,AUS,25.9657768652,201466,,,Kaia Kanepi,R,181,EST,21.5989048597,1-6 6-3 6-2,3,R64,,10,5,77,43,31,19,,3,5,1,5,83,49,31,19,,3,6,141,198,77,344
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,72,200067,8,,Patty Schnyder,L,168,SUI,28.0876112252,201397,,,Shuai Peng,R,173,CHN,21.0184804928,7-5 6-3,3,R64,,1,0,67,44,32,15,,4,5,2,1,73,47,31,12,,6,9,9,1578,52,433
-2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,73,200079,4,,Kim Clijsters,R,,BEL,23.6057494867,201352,,,Akiko Morigami,R,,JPN,27.0088980151,6-3 6-0,3,R64,,1,2,43,30,21,5,,0,2,2,1,53,28,15,5,,5,11,5,2441,86,321
+2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,73,200079,4,,Kim Clijsters,R,175,BEL,23.6057494867,201352,,,Akiko Morigami,R,,JPN,27.0088980151,6-3 6-0,3,R64,,1,2,43,30,21,5,,0,2,2,1,53,28,15,5,,5,11,5,2441,86,321
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,74,201416,29,,Alona Bondarenko,R,168,UKR,22.4229979466,200043,,,Virginie Razzano,R,173,FRA,23.6796714579,6-3 6-4,3,R64,,2,2,59,38,21,11,,4,8,3,1,54,34,17,6,,7,13,34,576,78,344
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,75,201315,,,Ashley Harkleroad,R,,USA,21.7056810404,201394,17,,Anna Lena Groenefeld,R,180,GER,21.6153319644,6-2 6-2,3,R64,,0,3,55,38,26,11,,3,4,1,4,49,34,19,4,,5,10,88,317,19,922
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,76,201290,15,,Daniela Hantuchova,R,181,SVK,23.7316906229,200104,,,Emilie Loit,L,,FRA,27.6030116359,4-6 6-3 6-4,3,R64,,14,2,106,64,44,16,,6,11,3,6,103,65,37,17,,8,14,18,944,46,447
@@ -417,7 +417,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,98,201329,22,,Vera Zvonareva,R,172,RUS,22.3545516769,201421,13,,Ana Ivanovic,R,183,SRB,19.1923340178,6-1 6-2,3,R32,,0,4,47,33,23,7,,4,5,2,5,44,24,10,7,,1,7,24,794,14,1108
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,99,201403,12,,Anna Chakvetadze,R,170,RUS,19.8658453114,200056,,,Jelena Kostanic Tosic,L,168,CRO,25.5277207392,6-4 6-4,3,R32,,6,0,70,47,33,13,,10,11,1,2,59,37,22,13,,2,5,13,1258,67,378
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,100,200067,8,,Patty Schnyder,L,168,SUI,28.0876112252,200008,,WC,Alicia Molik,R,182,AUS,25.9657768652,3-6 6-2 6-0,3,R32,,3,1,67,43,32,12,,2,4,6,3,70,48,31,7,,2,8,9,1578,141,198
-2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,101,200079,4,,Kim Clijsters,R,,BEL,23.6057494867,201416,29,,Alona Bondarenko,R,168,UKR,22.4229979466,6-3 6-3,3,R32,,2,4,47,27,21,14,,2,3,2,0,59,42,25,5,,1,5,5,2441,34,576
+2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,101,200079,4,,Kim Clijsters,R,175,BEL,23.6057494867,201416,29,,Alona Bondarenko,R,168,UKR,22.4229979466,6-3 6-3,3,R32,,2,4,47,27,21,14,,2,3,2,0,59,42,25,5,,1,5,5,2441,34,576
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,102,201290,15,,Daniela Hantuchova,R,181,SVK,23.7316906229,201315,,,Ashley Harkleroad,R,,USA,21.7056810404,6-7(6) 7-5 6-3,3,R32,,4,3,124,78,51,17,,9,15,1,7,112,76,40,14,,11,20,18,944,88,317
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,103,201419,19,,Na Li,R,172,CHN,24.8843258042,201336,9,,Dinara Safina,R,182,RUS,20.720054757,6-2 6-2,3,R32,,2,0,48,36,26,8,,1,1,0,1,61,36,17,13,,10,14,16,968,10,1475
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,104,200001,6,,Martina Hingis,R,170,SUI,26.2915811088,201411,,,Aiko Nakamura,R,163,JPN,23.0499657769,6-2 6-1,3,R32,,2,1,45,29,24,10,,1,1,0,4,54,33,17,9,,4,8,7,2063,65,388
@@ -431,17 +431,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,112,200065,2,,Amelie Mauresmo,R,175,FRA,27.5318275154,201356,,,Eva Birnerova,R,,CZE,22.4202600958,6-3 6-1,3,R32,,2,3,50,29,23,13,,2,2,2,3,53,37,21,6,,4,8,3,3460,83,324
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,113,201345,1,,Maria Sharapova,R,,RUS,19.742642026,201329,22,,Vera Zvonareva,R,172,RUS,22.3545516769,7-5 6-4,3,R16,,8,4,69,43,32,15,,3,4,2,5,86,52,36,13,,10,13,2,3532,24,794
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,114,201403,12,,Anna Chakvetadze,R,170,RUS,19.8658453114,200067,8,,Patty Schnyder,L,168,SUI,28.0876112252,6-4 6-1,3,R16,,0,1,43,26,15,11,,0,2,1,1,65,38,19,10,,8,14,13,1258,9,1578
-2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,115,200079,4,,Kim Clijsters,R,,BEL,23.6057494867,201290,15,,Daniela Hantuchova,R,181,SVK,23.7316906229,6-1 7-5,3,R16,,1,2,45,29,22,12,,2,3,0,3,70,44,25,9,,10,15,5,2441,18,944
+2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,115,200079,4,,Kim Clijsters,R,175,BEL,23.6057494867,201290,15,,Daniela Hantuchova,R,181,SVK,23.7316906229,6-1 7-5,3,R16,,1,2,45,29,22,12,,2,3,0,3,70,44,25,9,,10,15,5,2441,18,944
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,116,200001,6,,Martina Hingis,R,170,SUI,26.2915811088,201419,19,,Na Li,R,172,CHN,24.8843258042,4-6 6-3 6-0,3,R16,,0,1,96,64,44,15,,11,14,2,2,85,68,37,5,,6,12,7,2063,16,968
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,117,200033,,,Serena Williams,R,175,USA,25.3032169747,201347,11,,Jelena Jankovic,R,177,SRB,21.87816564,6-3 6-2,3,R16,,8,4,70,44,31,12,,4,5,3,2,61,42,21,10,,8,12,81,331,11,1456
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,118,201424,16,,Shahar Peer,R,170,ISR,19.7097878166,201320,3,,Svetlana Kuznetsova,R,174,RUS,21.5523613963,6-4 6-2,3,R16,,1,1,66,49,30,8,,4,6,1,1,50,30,14,9,,2,7,17,961,4,2510
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,119,201400,10,,Nicole Vaidisova,R,181,CZE,17.7303216975,200108,7,,Elena Dementieva,R,180,RUS,25.2511978097,6-3 6-3,3,R16,,1,3,47,26,14,11,,1,5,0,7,60,21,11,14,,7,14,12,1428,8,1875
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,120,201425,,,Lucie Safarova,L,177,CZE,19.9452429843,200065,2,,Amelie Mauresmo,R,175,FRA,27.5318275154,6-4 6-3,3,R16,,3,1,48,26,18,13,,0,2,3,3,77,52,26,11,,7,12,70,370,3,3460
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,121,201345,1,,Maria Sharapova,R,,RUS,19.742642026,201403,12,,Anna Chakvetadze,R,170,RUS,19.8658453114,7-6(5) 7-5,3,QF,,2,6,83,57,32,11,,5,9,1,5,88,55,28,16,,5,10,2,3532,13,1258
-2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,122,200079,4,,Kim Clijsters,R,,BEL,23.6057494867,200001,6,,Martina Hingis,R,170,SUI,26.2915811088,3-6 6-4 6-3,3,QF,,2,9,109,67,39,20,,8,13,0,5,94,64,35,14,,8,13,5,2441,7,2063
+2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,122,200079,4,,Kim Clijsters,R,175,BEL,23.6057494867,200001,6,,Martina Hingis,R,170,SUI,26.2915811088,3-6 6-4 6-3,3,QF,,2,9,109,67,39,20,,8,13,0,5,94,64,35,14,,8,13,5,2441,7,2063
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,123,200033,,,Serena Williams,R,175,USA,25.3032169747,201424,16,,Shahar Peer,R,170,ISR,19.7097878166,3-6 6-2 8-6,3,QF,,11,3,103,60,42,21,,10,13,0,4,106,64,40,22,,1,6,81,331,17,961
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,124,201400,10,,Nicole Vaidisova,R,181,CZE,17.7303216975,201425,,,Lucie Safarova,L,177,CZE,19.9452429843,6-1 6-4,3,QF,,8,4,62,39,28,12,,3,4,2,2,51,33,19,9,,5,9,12,1428,70,370
-2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,125,201345,1,,Maria Sharapova,R,,RUS,19.742642026,200079,4,,Kim Clijsters,R,,BEL,23.6057494867,6-4 6-2,3,SF,,7,8,67,40,28,11,,10,12,1,5,54,29,16,11,,3,8,2,3532,5,2441
+2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,125,201345,1,,Maria Sharapova,R,,RUS,19.742642026,200079,4,,Kim Clijsters,R,175,BEL,23.6057494867,6-4 6-2,3,SF,,7,8,67,40,28,11,,10,12,1,5,54,29,16,11,,3,8,2,3532,5,2441
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,126,200033,,,Serena Williams,R,175,USA,25.3032169747,201400,10,,Nicole Vaidisova,R,181,CZE,17.7303216975,7-6(5) 6-4,3,SF,,10,3,80,44,30,15,,4,8,6,7,87,44,27,16,,8,13,81,331,12,1428
 2007-W-SL-AUS-01A-2007,Australian Open,Hard,128,G,20070115,127,200033,,,Serena Williams,R,175,USA,25.3032169747,201345,1,,Maria Sharapova,R,,RUS,19.742642026,6-1 6-2,3,F,,7,2,49,33,26,10,,2,2,3,6,47,24,16,6,,2,6,81,331,2,3532
 2007-W-SL-FRA-01A-2007,Roland Garros,Clay,128,G,20070528,1,200003,1,,Justine Henin,R,167,BEL,24.9883641342,201455,,,Elena Vesnina,R,176,RUS,20.8213552361,6-4 6-3,3,R128,,4,3,63,32,19,19,,6,9,0,2,54,31,15,10,,4,9,1,4119,65,418
@@ -1221,7 +1221,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-T1-USA-02A-2007,Miami,Hard,96,T1,20070319,53,201419,15,,Na Li,R,172,CHN,25.0568104038,201481,,Q,Tamira Paszek,R,165,AUT,16.2819986311,6-2 6-0,3,R64,,0,0,41,33,21,6,,1,2,0,8,42,19,10,5,,5,11,17,1282,100,287
 2007-W-T1-USA-02A-2007,Miami,Hard,96,T1,20070319,54,200011,20,,Katarina Srebotnik,R,180,SLO,26.0177960301,200121,,,Alina Jidkova,R,,RUS,30.1629021218,6-4 6-3,3,R64,,4,4,63,39,28,15,,3,4,4,2,73,42,23,16,,7,10,23,915,248,102
 2007-W-T1-USA-02A-2007,Miami,Hard,96,T1,20070319,55,201325,25,,Samantha Stosur,R,172,AUS,22.9678302533,201479,,,Olga Puchkova,U,,RUS,19.4743326489,6-2 6-2,3,R64,,2,2,53,28,18,16,,4,5,0,7,57,31,19,7,,7,12,27,738,37,595
-2007-W-T1-USA-02A-2007,Miami,Hard,96,T1,20070319,56,200079,4,,Kim Clijsters,R,,BEL,23.7782340862,201352,,,Akiko Morigami,R,,JPN,27.1813826146,4-6 6-0 6-0,3,R64,,3,3,76,46,31,17,,6,8,0,3,68,44,21,9,,3,10,5,2630,63,422
+2007-W-T1-USA-02A-2007,Miami,Hard,96,T1,20070319,56,200079,4,,Kim Clijsters,R,175,BEL,23.7782340862,201352,,,Akiko Morigami,R,,JPN,27.1813826146,4-6 6-0 6-0,3,R64,,3,3,76,46,31,17,,6,8,0,3,68,44,21,9,,3,10,5,2630,63,422
 2007-W-T1-USA-02A-2007,Miami,Hard,96,T1,20070319,57,200069,6,,Nadia Petrova,R,178,RUS,24.7775496235,200109,,,Nathalie Dechy,R,177,FRA,28.0711841205,6-4 3-6 7-6(2),3,R64,,5,8,93,62,44,10,,10,16,3,3,94,63,34,17,,6,12,7,2135,44,518
 2007-W-T1-USA-02A-2007,Miami,Hard,96,T1,20070319,58,201438,,Q,Ekaterina Bychkova,R,171,RUS,21.7850787132,201392,30,,Severine Beltrame,R,171,FRA,27.5947980835,6-4 7-5,3,R64,,4,6,63,31,21,19,,1,4,3,1,67,36,20,16,,7,12,89,318,38,594
 2007-W-T1-USA-02A-2007,Miami,Hard,96,T1,20070319,59,200085,22,,Ai Sugiyama,R,163,JPN,31.704312115,201412,,,Anastasia Yakimova,R,165,BLR,20.3778234086,6-4 6-0,3,R64,,2,5,53,37,25,7,,1,2,0,4,46,24,13,7,,3,8,24,869,74,364
@@ -1241,7 +1241,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-T1-USA-02A-2007,Miami,Hard,96,T1,20070319,73,201379,32,,Mara Santangelo,R,181,ITA,25.7221081451,201347,7,,Jelena Jankovic,R,177,SRB,22.0506502396,2-6 7-6(3) 6-4,3,R32,,4,5,96,51,33,23,,2,8,5,4,115,85,50,13,,11,16,36,596,9,1823
 2007-W-T1-USA-02A-2007,Miami,Hard,96,T1,20070319,74,201403,9,,Anna Chakvetadze,R,170,RUS,20.038329911,201364,17,,Tatiana Golovin,R,175,FRA,19.1457905544,6-1 6-3,3,R32,,5,4,60,35,24,10,,5,7,2,7,63,37,20,7,,7,13,11,1670,19,1119
 2007-W-T1-USA-02A-2007,Miami,Hard,96,T1,20070319,75,201419,15,,Na Li,R,172,CHN,25.0568104038,200011,20,,Katarina Srebotnik,R,180,SLO,26.0177960301,6-0 6-1,3,R32,,1,0,40,28,21,7,,3,3,0,3,49,30,14,5,,3,9,17,1282,23,915
-2007-W-T1-USA-02A-2007,Miami,Hard,96,T1,20070319,76,200079,4,,Kim Clijsters,R,,BEL,23.7782340862,201325,25,,Samantha Stosur,R,172,AUS,22.9678302533,6-4 6-2,3,R32,,6,0,56,32,23,16,,5,6,1,6,66,35,23,12,,7,11,5,2630,27,738
+2007-W-T1-USA-02A-2007,Miami,Hard,96,T1,20070319,76,200079,4,,Kim Clijsters,R,175,BEL,23.7782340862,201325,25,,Samantha Stosur,R,172,AUS,22.9678302533,6-4 6-2,3,R32,,6,0,56,32,23,16,,5,6,1,6,66,35,23,12,,7,11,5,2630,27,738
 2007-W-T1-USA-02A-2007,Miami,Hard,96,T1,20070319,77,200069,6,,Nadia Petrova,R,178,RUS,24.7775496235,201438,,Q,Ekaterina Bychkova,R,171,RUS,21.7850787132,6-1 6-1,3,R32,,2,0,42,27,21,10,,6,6,1,5,45,20,9,8,,3,8,7,2135,89,318
 2007-W-T1-USA-02A-2007,Miami,Hard,96,T1,20070319,78,201336,10,,Dinara Safina,R,182,RUS,20.8925393566,200085,22,,Ai Sugiyama,R,163,JPN,31.704312115,6-4 3-6 6-1,3,R32,,1,1,86,69,31,10,,8,16,0,5,82,50,21,10,,3,13,14,1528,24,869
 2007-W-T1-USA-02A-2007,Miami,Hard,96,T1,20070319,79,201329,18,,Vera Zvonareva,R,172,RUS,22.5270362765,201290,16,,Daniela Hantuchova,R,181,SVK,23.9041752225,6-2 6-4,3,R32,,4,2,57,39,30,10,,4,4,1,3,58,36,24,8,,3,6,20,1032,12,1557
@@ -1251,7 +1251,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-T1-USA-02A-2007,Miami,Hard,96,T1,20070319,83,201424,14,,Shahar Peer,R,170,ISR,19.8822724162,201320,3,,Svetlana Kuznetsova,R,174,RUS,21.7248459959,6-4 4-6 6-3,3,R16,,2,4,81,51,32,15,,1,6,1,1,113,80,44,14,,7,14,16,1284,3,2947
 2007-W-T1-USA-02A-2007,Miami,Hard,96,T1,20070319,84,200060,24,,Tathiana Garbin,R,172,ITA,29.7166324435,201474,,,Agnieszka Radwanska,R,170,POL,18.0342231348,6-4 6-2,3,R16,,1,1,49,26,18,14,,1,3,0,0,65,44,20,11,,3,8,25,802,49,491
 2007-W-T1-USA-02A-2007,Miami,Hard,96,T1,20070319,85,201403,9,,Anna Chakvetadze,R,170,RUS,20.038329911,201379,32,,Mara Santangelo,R,181,ITA,25.7221081451,6-1 7-5,3,R16,,5,1,54,33,27,7,,1,3,1,7,57,34,18,9,,3,9,11,1670,36,596
-2007-W-T1-USA-02A-2007,Miami,Hard,96,T1,20070319,86,201419,15,,Na Li,R,172,CHN,25.0568104038,200079,4,,Kim Clijsters,R,,BEL,23.7782340862,4-6 6-4 6-2,3,R16,,2,0,96,70,39,15,,9,14,2,7,107,71,42,10,,13,20,17,1282,5,2630
+2007-W-T1-USA-02A-2007,Miami,Hard,96,T1,20070319,86,201419,15,,Na Li,R,172,CHN,25.0568104038,200079,4,,Kim Clijsters,R,175,BEL,23.7782340862,4-6 6-4 6-2,3,R16,,2,0,96,70,39,15,,9,14,2,7,107,71,42,10,,13,20,17,1282,5,2630
 2007-W-T1-USA-02A-2007,Miami,Hard,96,T1,20070319,87,200069,6,,Nadia Petrova,R,178,RUS,24.7775496235,201336,10,,Dinara Safina,R,182,RUS,20.8925393566,3-6 6-2 6-4,3,R16,,4,7,79,53,37,10,,2,6,1,2,90,67,34,12,,4,10,7,2135,14,1528
 2007-W-T1-USA-02A-2007,Miami,Hard,96,T1,20070319,88,200003,2,,Justine Henin,R,167,BEL,24.7967145791,201329,18,,Vera Zvonareva,R,172,RUS,22.5270362765,6-3 6-2,3,R16,,0,7,62,33,22,14,,4,6,1,2,57,36,15,11,,5,10,1,3645,20,1032
 2007-W-T1-USA-02A-2007,Miami,Hard,96,T1,20070319,89,200033,13,,Serena Williams,R,175,USA,25.4757015743,201400,8,,Nicole Vaidisova,R,181,CZE,17.9028062971,6-1 6-4,3,QF,,7,3,56,29,25,15,,5,5,4,4,44,26,18,7,,1,4,18,1269,8,1856
@@ -1388,16 +1388,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-T2-AUS-01A-2007,Sydney,Hard,28,T2,20070108,15,201421,,,Ana Ivanovic,R,183,SRB,19.1731690623,200069,4,,Nadia Petrova,R,178,RUS,24.5859000684,6-2 4-2 RET,3,R16,,2,1,40,18,13,14,,1,2,3,2,48,24,15,8,,4,8,14,1087,6,2189
 2007-W-T2-AUS-01A-2007,Sydney,Hard,28,T2,20070108,16,201400,8,,Nicole Vaidisova,R,181,CZE,17.711156742,201385,,Q,Yuliana Fedak,R,166,UKR,23.5865845311,6-3 6-1,3,R16,,5,1,48,35,26,6,,1,2,2,3,55,32,16,8,,4,9,11,1391,82,338
 2007-W-T2-AUS-01A-2007,Sydney,Hard,28,T2,20070108,17,201424,,,Shahar Peer,R,170,ISR,19.6906228611,200067,7,,Patty Schnyder,L,168,SUI,28.0684462697,7-6(3) 6-2,3,R16,,0,3,59,43,29,6,,3,6,2,1,69,49,25,10,,8,13,18,934,9,1578
-2007-W-T2-AUS-01A-2007,Sydney,Hard,28,T2,20070108,18,200079,3,,Kim Clijsters,R,,BEL,23.5865845311,200036,,WC,Nicole Pratt,R,,AUS,33.8453114305,6-1 6-2,3,R16,,1,4,44,23,18,13,,0,1,0,1,46,30,12,7,,3,8,5,2215,72,363
+2007-W-T2-AUS-01A-2007,Sydney,Hard,28,T2,20070108,18,200079,3,,Kim Clijsters,R,175,BEL,23.5865845311,200036,,WC,Nicole Pratt,R,,AUS,33.8453114305,6-1 6-2,3,R16,,1,4,44,23,18,13,,0,1,0,1,46,30,12,7,,3,8,5,2215,72,363
 2007-W-T2-AUS-01A-2007,Sydney,Hard,28,T2,20070108,19,201419,,,Na Li,R,172,CHN,24.8651608487,200108,6,,Elena Dementieva,R,180,RUS,25.2320328542,3-6 6-1 7-5,3,R16,,2,1,103,78,42,10,,6,12,1,12,104,57,33,18,,12,20,21,879,8,1875
 2007-W-T2-AUS-01A-2007,Sydney,Hard,28,T2,20070108,20,200011,,,Katarina Srebotnik,R,180,SLO,25.826146475,201320,2,,Svetlana Kuznetsova,R,174,RUS,21.5331964408,6-2 RET,3,R16,,1,2,25,20,14,1,,0,1,1,0,25,13,9,1,,0,3,23,825,4,2523
 2007-W-T2-AUS-01A-2007,Sydney,Hard,28,T2,20070108,21,201347,,,Jelena Jankovic,R,177,SRB,21.8590006845,200065,1,,Amelie Mauresmo,R,175,FRA,27.5126625599,7-5 6-0,3,QF,,0,1,56,43,27,7,,1,3,0,1,48,24,10,10,,3,9,12,1296,3,3391
 2007-W-T2-AUS-01A-2007,Sydney,Hard,28,T2,20070108,22,201400,8,,Nicole Vaidisova,R,181,CZE,17.711156742,201421,,,Ana Ivanovic,R,183,SRB,19.1731690623,6-4 6-2,3,QF,,2,1,52,35,25,11,,2,3,4,7,71,35,22,16,,10,14,11,1391,14,1087
-2007-W-T2-AUS-01A-2007,Sydney,Hard,28,T2,20070108,23,200079,3,,Kim Clijsters,R,,BEL,23.5865845311,201424,,,Shahar Peer,R,170,ISR,19.6906228611,6-2 6-1,3,QF,,0,4,37,23,19,10,,0,0,1,5,53,31,14,9,,4,9,5,2215,18,934
+2007-W-T2-AUS-01A-2007,Sydney,Hard,28,T2,20070108,23,200079,3,,Kim Clijsters,R,175,BEL,23.5865845311,201424,,,Shahar Peer,R,170,ISR,19.6906228611,6-2 6-1,3,QF,,0,4,37,23,19,10,,0,0,1,5,53,31,14,9,,4,9,5,2215,18,934
 2007-W-T2-AUS-01A-2007,Sydney,Hard,28,T2,20070108,24,201419,,,Na Li,R,172,CHN,24.8651608487,200011,,,Katarina Srebotnik,R,180,SLO,25.826146475,7-5 6-1,3,QF,,4,1,64,48,35,8,,3,4,0,2,58,37,17,13,,6,10,21,879,23,825
 2007-W-T2-AUS-01A-2007,Sydney,Hard,28,T2,20070108,25,201347,,,Jelena Jankovic,R,177,SRB,21.8590006845,201400,8,,Nicole Vaidisova,R,181,CZE,17.711156742,6-4 4-6 6-4,3,SF,,3,5,101,67,46,21,,5,7,11,8,102,63,49,14,,10,13,12,1296,11,1391
-2007-W-T2-AUS-01A-2007,Sydney,Hard,28,T2,20070108,26,200079,3,,Kim Clijsters,R,,BEL,23.5865845311,201419,,,Na Li,R,172,CHN,24.8651608487,6-1 1-6 7-5,3,SF,,2,6,80,48,28,19,,5,9,1,2,80,53,31,14,,5,10,5,2215,21,879
-2007-W-T2-AUS-01A-2007,Sydney,Hard,28,T2,20070108,27,200079,3,,Kim Clijsters,R,,BEL,23.5865845311,201347,,,Jelena Jankovic,R,177,SRB,21.8590006845,4-6 7-6(1) 6-4,3,F,,1,7,110,58,36,25,,7,14,0,9,117,73,42,18,,9,16,5,2215,12,1296
+2007-W-T2-AUS-01A-2007,Sydney,Hard,28,T2,20070108,26,200079,3,,Kim Clijsters,R,175,BEL,23.5865845311,201419,,,Na Li,R,172,CHN,24.8651608487,6-1 1-6 7-5,3,SF,,2,6,80,48,28,19,,5,9,1,2,80,53,31,14,,5,10,5,2215,21,879
+2007-W-T2-AUS-01A-2007,Sydney,Hard,28,T2,20070108,27,200079,3,,Kim Clijsters,R,175,BEL,23.5865845311,201347,,,Jelena Jankovic,R,177,SRB,21.8590006845,4-6 7-6(1) 6-4,3,F,,1,7,110,58,36,25,,7,14,0,9,117,73,42,18,,9,16,5,2215,12,1296
 2007-W-T2-AUT-01A-2007,Linz,Hard,28,T2,20071022,1,201212,,,Francesca Schiavone,R,166,ITA,27.3292265572,200011,,,Katarina Srebotnik,R,180,SLO,26.6119096509,7-6(6) 6-3,3,R32,,10,0,70,43,32,14,,0,1,1,2,66,42,28,13,,3,5,25,1041,28,961
 2007-W-T2-AUT-01A-2007,Linz,Hard,28,T2,20071022,2,200008,,Q,Alicia Molik,R,182,AUS,26.7323750856,201474,,,Agnieszka Radwanska,R,170,POL,18.6283367556,6-4 3-6 6-1,3,R32,,10,4,76,43,33,21,,2,3,5,0,77,43,29,17,,2,5,67,465,26,988
 2007-W-T2-AUT-01A-2007,Linz,Hard,28,T2,20071022,3,200067,6,,Patty Schnyder,L,168,SUI,28.8542094456,201431,,Q,Aravane Rezai,R,165,FRA,20.6078028747,6-4 6-3,3,R32,,6,2,64,43,28,13,,2,3,0,7,70,30,21,16,,4,7,17,1704,78,408
@@ -1444,14 +1444,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-T2-BEL-01A-2007,Antwerp,Hard,28,T2,20070212,17,201364,,,Tatiana Golovin,R,175,FRA,19.0499657769,200067,5,,Patty Schnyder,L,168,SUI,28.1642710472,6-7(2) 7-6(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,20,932,13,1505
 2007-W-T2-BEL-01A-2007,Antwerp,Hard,28,T2,20070212,18,200048,,,Elena Likhovtseva,R,,RUS,31.4305270363,200108,4,,Elena Dementieva,R,180,RUS,25.3278576318,6-2 1-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,62,400,8,1908
 2007-W-T2-BEL-01A-2007,Antwerp,Hard,28,T2,20070212,19,201421,8,,Ana Ivanovic,R,183,SRB,19.2689938398,200109,,,Nathalie Dechy,R,177,FRA,27.9753593429,6-3 6-7(2) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,14,1418,54,445
-2007-W-T2-BEL-01A-2007,Antwerp,Hard,28,T2,20070212,20,200079,2,,Kim Clijsters,R,,BEL,23.6824093087,201479,,,Olga Puchkova,U,,RUS,19.3785078713,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,4,2577,37,572
+2007-W-T2-BEL-01A-2007,Antwerp,Hard,28,T2,20070212,20,200079,2,,Kim Clijsters,R,175,BEL,23.6824093087,201479,,,Olga Puchkova,U,,RUS,19.3785078713,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,4,2577,37,572
 2007-W-T2-BEL-01A-2007,Antwerp,Hard,28,T2,20070212,21,200065,1,,Amelie Mauresmo,R,175,FRA,27.6084873374,201336,6,,Dinara Safina,R,182,RUS,20.7967145791,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,3,2830,11,1548
 2007-W-T2-BEL-01A-2007,Antwerp,Hard,28,T2,20070212,22,201403,7,,Anna Chakvetadze,R,170,RUS,19.9425051335,200069,3,,Nadia Petrova,R,178,RUS,24.681724846,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,12,1539,7,2283
 2007-W-T2-BEL-01A-2007,Antwerp,Hard,28,T2,20070212,23,201364,,,Tatiana Golovin,R,175,FRA,19.0499657769,200048,,,Elena Likhovtseva,R,,RUS,31.4305270363,7-6(3) 7-5,3,QF,,,,,,,,,,,,,,,,,,,,20,932,62,400
-2007-W-T2-BEL-01A-2007,Antwerp,Hard,28,T2,20070212,24,200079,2,,Kim Clijsters,R,,BEL,23.6824093087,201421,8,,Ana Ivanovic,R,183,SRB,19.2689938398,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,4,2577,14,1418
+2007-W-T2-BEL-01A-2007,Antwerp,Hard,28,T2,20070212,24,200079,2,,Kim Clijsters,R,175,BEL,23.6824093087,201421,8,,Ana Ivanovic,R,183,SRB,19.2689938398,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,4,2577,14,1418
 2007-W-T2-BEL-01A-2007,Antwerp,Hard,28,T2,20070212,25,200065,1,,Amelie Mauresmo,R,175,FRA,27.6084873374,201403,7,,Anna Chakvetadze,R,170,RUS,19.9425051335,6-3 3-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,3,2830,12,1539
-2007-W-T2-BEL-01A-2007,Antwerp,Hard,28,T2,20070212,26,200079,2,,Kim Clijsters,R,,BEL,23.6824093087,201364,,,Tatiana Golovin,R,175,FRA,19.0499657769,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,4,2577,20,932
-2007-W-T2-BEL-01A-2007,Antwerp,Hard,28,T2,20070212,27,200065,1,,Amelie Mauresmo,R,175,FRA,27.6084873374,200079,2,,Kim Clijsters,R,,BEL,23.6824093087,6-4 7-6(4),3,F,,,,,,,,,,,,,,,,,,,,3,2830,4,2577
+2007-W-T2-BEL-01A-2007,Antwerp,Hard,28,T2,20070212,26,200079,2,,Kim Clijsters,R,175,BEL,23.6824093087,201364,,,Tatiana Golovin,R,175,FRA,19.0499657769,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,4,2577,20,932
+2007-W-T2-BEL-01A-2007,Antwerp,Hard,28,T2,20070212,27,200065,1,,Amelie Mauresmo,R,175,FRA,27.6084873374,200079,2,,Kim Clijsters,R,175,BEL,23.6824093087,6-4 7-6(4),3,F,,,,,,,,,,,,,,,,,,,,3,2830,4,2577
 2007-W-T2-CHN-01A-2007,Beijing,Hard,28,T2,20070917,1,201401,,Q,Abigail Spears,R,,USA,26.1820670773,201459,,WC,Zi Yan,R,171,CHN,22.8446269678,7-5 6-3,3,R32,,0,2,62,35,22,17,,2,4,2,5,67,37,21,15,,2,7,169,188,74,429
 2007-W-T2-CHN-01A-2007,Beijing,Hard,28,T2,20070917,2,201495,,,Dominika Cibulkova,R,161,SVK,18.3655030801,201496,,,Caroline Wozniacki,R,177,DEN,17.1854893908,6-0 6-7(5) 6-1,3,R32,,0,4,86,63,41,14,,2,3,0,4,86,51,32,9,,7,13,57,518,73,434
 2007-W-T2-CHN-01A-2007,Beijing,Hard,28,T2,20070917,3,201497,6,,Agnes Szavay,R,168,HUN,18.7159479808,201523,,Q,Marina Erakovic,R,174,NZL,19.5318275154,7-5 6-3,3,R32,,5,4,50,27,22,14,,0,2,2,2,63,36,21,14,,6,10,23,1094,158,202
@@ -1606,7 +1606,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-T2-POL-01A-2007,Warsaw,Clay,28,T2,20070430,17,200748,,,Venus Williams,R,185,USA,26.8665297741,200108,7,,Elena Dementieva,R,180,RUS,25.5386721424,6-1 7-6(4),3,R16,,1,5,83,50,29,18,,8,12,0,3,86,46,23,17,,13,19,22,895,13,1635
 2007-W-T2-POL-01A-2007,Warsaw,Clay,28,T2,20070430,18,201320,3,,Svetlana Kuznetsova,R,174,RUS,21.839835729,201435,,Q,Kateryna Bondarenko,R,175,UKR,20.7255304586,2-6 6-2 6-1,3,R16,,7,4,79,39,31,17,,7,10,2,6,71,39,22,15,,6,11,5,2667,80,357
 2007-W-T2-POL-01A-2007,Warsaw,Clay,28,T2,20070430,19,201416,,,Alona Bondarenko,R,168,UKR,22.7104722793,201474,,,Agnieszka Radwanska,R,170,POL,18.1492128679,0-6 6-4 6-3,3,R16,,1,2,67,45,23,10,,2,8,0,3,90,55,28,19,,9,15,40,578,43,555
-2007-W-T2-POL-01A-2007,Warsaw,Clay,28,T2,20070430,20,201360,,Q,Julia Vakulenko,R,183,UKR,23.8056125941,200079,2,,Kim Clijsters,R,,BEL,23.8932238193,7-6(3) 6-3,3,R16,,7,4,64,37,26,16,,2,4,2,7,70,47,32,7,,0,3,61,430,4,2699
+2007-W-T2-POL-01A-2007,Warsaw,Clay,28,T2,20070430,20,201360,,Q,Julia Vakulenko,R,183,UKR,23.8056125941,200079,2,,Kim Clijsters,R,175,BEL,23.8932238193,7-6(3) 6-3,3,R16,,7,4,64,37,26,16,,2,4,2,7,70,47,32,7,,0,3,61,430,4,2699
 2007-W-T2-POL-01A-2007,Warsaw,Clay,28,T2,20070430,21,200003,1,,Justine Henin,R,167,BEL,24.9117043121,201379,,,Mara Santangelo,R,181,ITA,25.8370978782,6-2 6-1,3,QF,,5,1,46,23,20,12,,1,1,0,3,49,28,16,7,,0,5,1,3859,31,683
 2007-W-T2-POL-01A-2007,Warsaw,Clay,28,T2,20070430,22,201347,4,,Jelena Jankovic,R,177,SRB,22.1656399726,201403,6,,Anna Chakvetadze,R,170,RUS,20.1533196441,7-6(1) 3-1 RET,3,QF,,1,1,61,46,31,6,,5,7,2,3,69,41,21,13,,8,11,7,2257,11,1847
 2007-W-T2-POL-01A-2007,Warsaw,Clay,28,T2,20070430,23,201320,3,,Svetlana Kuznetsova,R,174,RUS,21.839835729,200748,,,Venus Williams,R,185,USA,26.8665297741,3-6 6-3 6-4,3,QF,,1,2,101,61,33,21,,10,15,2,8,94,55,37,12,,8,14,5,2667,22,895
@@ -1895,7 +1895,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-T3-CAN-01A-2007,Quebec City,Hard,32,T3,20071029,30,200128,,WC,Lindsay Davenport,R,189,USA,31.3894592745,201329,2,,Vera Zvonareva,R,172,RUS,23.1403148528,6-2 6-7(3) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,126,290,24,1107
 2007-W-T3-CAN-01A-2007,Quebec City,Hard,32,T3,20071029,31,200128,,WC,Lindsay Davenport,R,189,USA,31.3894592745,201360,3,,Julia Vakulenko,R,183,UKR,24.3039014374,6-4 6-1,3,F,,,,,,,,,,,,,,,,,,,,126,290,36,817
 2007-W-T3-CHN-01A-2007,Guangzhou,Hard,32,T3,20070924,1,201286,1,,Anabel Medina Garrigues,R,169,ESP,25.1498973306,201608,,WC,Sheng Nan Sun,L,,CHN,20.6735112936,7-6(5) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,32,891,314,72
-2007-W-T3-CHN-01A-2007,Guangzhou,Hard,32,T3,20070924,2,200056,,,Jelena Kostanic Tosic,L,168,CRO,26.2176591376,201533,,,Shuai Zhang,R,,CHN,18.6721423682,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,101,342,159,205
+2007-W-T3-CHN-01A-2007,Guangzhou,Hard,32,T3,20070924,2,200056,,,Jelena Kostanic Tosic,L,168,CRO,26.2176591376,201533,,,Shuai Zhang,R,177,CHN,18.6721423682,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,101,342,159,205
 2007-W-T3-CHN-01A-2007,Guangzhou,Hard,32,T3,20070924,3,201370,,,Anastasia Rodionova,R,167,AUS,25.3689253936,201486,,,Aleksandra Wozniak,R,175,CAN,20.0465434634,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,88,386,106,329
 2007-W-T3-CHN-01A-2007,Guangzhou,Hard,32,T3,20070924,4,201301,,,Camille Pin,U,162,FRA,26.0807665982,201485,8,,Alla Kudryavtseva,R,,RUS,19.8904859685,6-1 4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,80,404,71,432
 2007-W-T3-CHN-01A-2007,Guangzhou,Hard,32,T3,20070924,5,201397,3,,Shuai Peng,R,173,CHN,21.7084188912,201300,,,Maria Emilia Salerni,R,,ARG,24.3641341547,6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,47,596,92,375
@@ -2081,7 +2081,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-T3-INA-01A-2007,Bali,Hard,30,T3,20070910,8,201460,,Q,Meng Yuan,U,,CHN,21.3388090349,201468,8,,Yaroslava Shvedova,R,180,KAZ,19.9945242984,6-0 6-1,3,R32,,1,4,45,23,19,11,,4,5,3,10,40,11,8,5,,3,9,142,233,81,396
 2007-W-T3-INA-01A-2007,Bali,Hard,30,T3,20070910,9,201365,,,Edina Gallovits Hall,R,165,ROU,22.7488021903,201457,,,Jarmila Gajdosova,R,174,AUS,20.3750855578,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,86,389,130,258
 2007-W-T3-INA-01A-2007,Bali,Hard,30,T3,20070910,10,201514,,Q,Sorana Cirstea,R,176,ROU,17.4264202601,201370,,,Anastasia Rodionova,R,167,AUS,25.3305954825,6-2 6-4,3,R32,,0,2,54,25,18,14,,5,8,0,3,56,31,14,10,,5,11,137,242,91,367
-2007-W-T3-INA-01A-2007,Bali,Hard,30,T3,20070910,11,200067,3,,Patty Schnyder,L,168,SUI,28.7392197125,201533,,,Shuai Zhang,R,,CHN,18.6338124572,6-4 6-2,3,R32,,2,1,44,26,22,12,,0,1,0,2,52,29,18,9,,3,7,13,1768,157,205
+2007-W-T3-INA-01A-2007,Bali,Hard,30,T3,20070910,11,200067,3,,Patty Schnyder,L,168,SUI,28.7392197125,201533,,,Shuai Zhang,R,177,CHN,18.6338124572,6-4 6-2,3,R32,,2,1,44,26,22,12,,0,1,0,2,52,29,18,9,,3,7,13,1768,157,205
 2007-W-T3-INA-01A-2007,Bali,Hard,30,T3,20070910,12,201310,6,,Martina Muller,R,,GER,24.9144421629,201284,,,Tatiana Poutchek,R,,BLR,28.6680355921,6-3 6-3,3,R32,,0,6,67,39,30,10,,6,8,0,7,70,43,22,10,,8,13,44,637,98,348
 2007-W-T3-INA-01A-2007,Bali,Hard,30,T3,20070910,13,201503,,Q,Ayumi Morita,R,163,JPN,17.5003422313,201523,,WC,Marina Erakovic,R,174,NZL,19.5126625599,6-4 6-4,3,R32,,0,4,68,40,25,15,,3,5,3,3,53,34,25,7,,2,6,154,213,158,202
 2007-W-T3-INA-01A-2007,Bali,Hard,30,T3,20070910,14,202286,,WC,Elise Tamaela,L,,NED,23.6331279945,200754,,,Jill Craybas,R,160,USA,33.1854893908,4-6 7-6(4) 6-2,3,R32,,7,7,107,50,30,27,,7,14,3,8,101,57,31,18,,5,13,180,171,93,363
@@ -2732,7 +2732,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-T4-USA-01A-2007,Forest Hills,Hard,16,T4,20070820,14,201363,3,,Gisela Dulko,R,170,ARG,22.5516769336,200109,,,Nathalie Dechy,R,177,FRA,28.4928131417,7-6(4) 6-4,3,SF,,,,,,,,,,,,,,,,,,,,51,528,57,493
 2007-W-T4-USA-01A-2007,Forest Hills,Hard,16,T4,20070820,15,201363,3,,Gisela Dulko,R,170,ARG,22.5516769336,200043,1,,Virginie Razzano,R,173,FRA,24.2737850787,6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,51,528,36,677
 2007-W-T4-UZB-01A-2007,Tashkent,Hard,32,T4,20071001,1,201458,1,,Victoria Azarenka,R,180,BLR,18.1683778234,201444,,,Su Wei Hsieh,R,169,TPE,21.7385352498,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,35,819,119,293
-2007-W-T4-UZB-01A-2007,Tashkent,Hard,32,T4,20071001,2,201516,,Q,Evgeniya Rodina,R,,RUS,18.6529774127,201533,,Q,Shuai Zhang,R,,CHN,18.6913073238,6-3 7-6(0),3,R32,,,,,,,,,,,,,,,,,,,,157,209,158,205
+2007-W-T4-UZB-01A-2007,Tashkent,Hard,32,T4,20071001,2,201516,,Q,Evgeniya Rodina,R,,RUS,18.6529774127,201533,,Q,Shuai Zhang,R,177,CHN,18.6913073238,6-3 7-6(0),3,R32,,,,,,,,,,,,,,,,,,,,157,209,158,205
 2007-W-T4-UZB-01A-2007,Tashkent,Hard,32,T4,20071001,3,201652,,Q,Ksenia Palkina,U,,KGZ,17.7987679671,201663,,Q,Ekaterina Dzehalevich,U,,BLR,21.4127310062,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,433,41,181,172
 2007-W-T4-UZB-01A-2007,Tashkent,Hard,32,T4,20071001,4,202387,,WC,Vlada Ekshibarova,R,,UZB,18.5489390828,201485,6,,Alla Kudryavtseva,R,,RUS,19.909650924,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,520,31,72,432
 2007-W-T4-UZB-01A-2007,Tashkent,Hard,32,T4,20071001,5,201455,4,,Elena Vesnina,R,176,RUS,21.1663244353,201462,,,Alberta Brianti,R,,ITA,27.4880219028,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,61,499,146,234

@@ -767,7 +767,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C10-EGY-01A-2003,Cairo 1 10K,Clay,32,10,20030303,4,206934,,,Nina Egger,R,,AUT,19.3347022587,204591,5,,Elsa Oriain,U,,IRL,20.4490075291,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,780,9,442,32
 2003-W-C10-EGY-01A-2003,Cairo 1 10K,Clay,32,10,20030303,5,200100,3,,Amanda Hopmans,R,,NED,27.0554414784,205107,,,Meghha Vakaria,L,,IND,18.5106091718,4-6 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,350,51,579,18
 2003-W-C10-EGY-01A-2003,Cairo 1 10K,Clay,32,10,20030303,6,204716,,,Nadine Schlotterer,U,,AUT,20.4982888433,204557,,,Silvia Hegedis,U,,YUG,20.7693360712,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,811,8,792,8
-2003-W-C10-EGY-01A-2003,Cairo 1 10K,Clay,32,10,20030303,7,201440,,Q,Laura Pous Tio,U,,ESP,18.417522245,201605,,,Mandy Minella,R,,LUX,17.2758384668,2-6 7-6(2) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,840,7
+2003-W-C10-EGY-01A-2003,Cairo 1 10K,Clay,32,10,20030303,7,201440,,Q,Laura Pous Tio,U,,ESP,18.417522245,201605,,,Mandy Minella,R,180,LUX,17.2758384668,2-6 7-6(2) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,840,7
 2003-W-C10-EGY-01A-2003,Cairo 1 10K,Clay,32,10,20030303,8,204469,7,,Veronica Rizhik Urteaga,U,,ESP,22.2094455852,202792,,LL,Michaela Michalkova,U,,SVK,17.3415468857,5-7 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,506,23,889,6
 2003-W-C10-EGY-01A-2003,Cairo 1 10K,Clay,32,10,20030303,9,204881,,,Isabel Collischonn,U,,GER,20.3778234086,204809,8,,Maria Penkova,U,,BUL,18.6858316222,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,572,18,563,18
 2003-W-C10-EGY-01A-2003,Cairo 1 10K,Clay,32,10,20030303,10,205054,,Q,Daniela Bercek,R,,SRB,18.6529774127,205079,,Q,Paula Marama,R,,NZL,19.0499657769,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,670,13,,
@@ -832,7 +832,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C10-EGY-03A-2003,Cairo 3 10K,Clay,32,10,20030317,7,204809,,,Maria Penkova,U,,BUL,18.7241615332,204625,,,Meritxell Mimo Bravo,U,,ESP,23.8850102669,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,566,18,561,19
 2003-W-C10-EGY-03A-2003,Cairo 3 10K,Clay,32,10,20030317,8,205009,6,,Borka Majstorovic,R,,SRB,19.780971937,204617,,,Anna Font Estrada,R,,ESP,23.1649555099,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,460,28,595,17
 2003-W-C10-EGY-03A-2003,Cairo 3 10K,Clay,32,10,20030317,9,201440,,Q,Laura Pous Tio,U,,ESP,18.4558521561,203142,8,,Verena Beller,U,,GER,18.6146475017,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,531,21
-2003-W-C10-EGY-03A-2003,Cairo 3 10K,Clay,32,10,20030317,10,201605,,Q,Mandy Minella,R,,LUX,17.3141683778,205107,,,Meghha Vakaria,L,,IND,18.5489390828,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,842,7,579,18
+2003-W-C10-EGY-03A-2003,Cairo 3 10K,Clay,32,10,20030317,10,201605,,Q,Mandy Minella,R,180,LUX,17.3141683778,205107,,,Meghha Vakaria,L,,IND,18.5489390828,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,842,7,579,18
 2003-W-C10-EGY-03A-2003,Cairo 3 10K,Clay,32,10,20030317,11,202286,,Q,Elise Tamaela,L,,NED,19.1485284052,202383,,Q,Eva Maria Hoch,U,,AUT,18.6091718001,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,815,8,763,9
 2003-W-C10-EGY-03A-2003,Cairo 3 10K,Clay,32,10,20030317,12,204884,,Q,Nancy Rustignoli,R,,ITA,17.7029431896,204591,4,,Elsa Oriain,U,,IRL,20.4873374401,6-2 6-7(3) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1219,1,462,28
 2003-W-C10-EGY-03A-2003,Cairo 3 10K,Clay,32,10,20030317,13,204716,,Q,Nadine Schlotterer,U,,AUT,20.5366187543,203156,7,,Jennifer Schmidt,R,,AUT,20.2299794661,4-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,783,9,473,27
@@ -843,7 +843,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C10-EGY-03A-2003,Cairo 3 10K,Clay,32,10,20030317,18,202792,,LL,Michaela Michalkova,U,,SVK,17.3798767967,202839,,,Vladimira Uhlirova,R,,CZE,24.8678986995,6-1 1-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,890,6,558,19
 2003-W-C10-EGY-03A-2003,Cairo 3 10K,Clay,32,10,20030317,19,200100,3,,Amanda Hopmans,R,,NED,27.0937713895,205054,,,Daniela Bercek,R,,SRB,18.6913073238,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,326,58,628,15
 2003-W-C10-EGY-03A-2003,Cairo 3 10K,Clay,32,10,20030317,20,204809,,,Maria Penkova,U,,BUL,18.7241615332,205009,6,,Borka Majstorovic,R,,SRB,19.780971937,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,566,18,460,28
-2003-W-C10-EGY-03A-2003,Cairo 3 10K,Clay,32,10,20030317,21,201440,,Q,Laura Pous Tio,U,,ESP,18.4558521561,201605,,Q,Mandy Minella,R,,LUX,17.3141683778,6-7(5) 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,842,7
+2003-W-C10-EGY-03A-2003,Cairo 3 10K,Clay,32,10,20030317,21,201440,,Q,Laura Pous Tio,U,,ESP,18.4558521561,201605,,Q,Mandy Minella,R,180,LUX,17.3141683778,6-7(5) 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,842,7
 2003-W-C10-EGY-03A-2003,Cairo 3 10K,Clay,32,10,20030317,22,202286,,Q,Elise Tamaela,L,,NED,19.1485284052,204884,,Q,Nancy Rustignoli,R,,ITA,17.7029431896,6-3 7-6(9),3,R16,,,,,,,,,,,,,,,,,,,,815,8,1219,1
 2003-W-C10-EGY-03A-2003,Cairo 3 10K,Clay,32,10,20030317,23,204716,,Q,Nadine Schlotterer,U,,AUT,20.5366187543,206934,,Q,Nina Egger,R,,AUT,19.3730321697,6-1 1-6 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,783,9,803,8
 2003-W-C10-EGY-03A-2003,Cairo 3 10K,Clay,32,10,20030317,24,201645,2,,Frederica Piedade,U,,POR,20.7802874743,202817,,,Simona Iulia Matei,R,,ROU,17.6919917864,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,343,55,677,13
@@ -1550,7 +1550,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C10-FRA-04A-2003,Le Touquet 10K,Clay,32,10,20030714,12,202510,3,,Natacha Randriantefy,R,,MAD,25.3333333333,204661,,,Visnja Vuletic,R,,SRB,21.5140314853,6-2 4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,383,42,899,5
 2003-W-C10-FRA-04A-2003,Le Touquet 10K,Clay,32,10,20030714,13,208389,,Q,Lema Ateba,R,,FRA,14.9924709103,202295,7,,Ying Yu,R,,CHN,21.4045174538,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,532,20
 2003-W-C10-FRA-04A-2003,Le Touquet 10K,Clay,32,10,20030714,14,203121,,WC,Emilie Scribot,U,,FRA,22.6913073238,203146,,,Servane Delobelle,U,,FRA,18.9486652977,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,656,13
-2003-W-C10-FRA-04A-2003,Le Touquet 10K,Clay,32,10,20030714,15,202472,,Q,Laura Thorpe,R,,FRA,16.1396303901,201605,,,Mandy Minella,R,,LUX,17.6399726215,5-7 7-5 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,,,772,9
+2003-W-C10-FRA-04A-2003,Le Touquet 10K,Clay,32,10,20030714,15,202472,,Q,Laura Thorpe,R,,FRA,16.1396303901,201605,,,Mandy Minella,R,180,LUX,17.6399726215,5-7 7-5 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,,,772,9
 2003-W-C10-FRA-04A-2003,Le Touquet 10K,Clay,32,10,20030714,16,208360,,Q,Sabrina Wist,R,,GER,17.3360711841,208390,,LL,Noemie Ruffin,U,,FRA,20.2710472279,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2003-W-C10-FRA-04A-2003,Le Touquet 10K,Clay,32,10,20030714,17,201413,1,Q,Capucine Rousseau,U,,FRA,23.227926078,201426,,WC,Pauline Parmentier,R,175,FRA,17.4483230664,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,284,72,621,14
 2003-W-C10-FRA-04A-2003,Le Touquet 10K,Clay,32,10,20030714,18,202288,5,,Elke Clijsters,R,174,BEL,18.4832306639,203199,,,Diana Brunel,R,,FRA,21.5989048597,6-3 5-7 6-0,3,R16,,,,,,,,,,,,,,,,,,,,448,31,655,13
@@ -1612,7 +1612,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C10-FRA-06A-2003,Villenave d'Ornon 10K,Clay,32,10,20031103,12,202510,,,Natacha Randriantefy,R,,MAD,25.6399726215,204881,4,,Isabel Collischonn,U,,GER,21.0485968515,7-6(3) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,587,17,421,36
 2003-W-C10-FRA-06A-2003,Villenave d'Ornon 10K,Clay,32,10,20031103,13,202791,8,,Debbrich Feys,R,,BEL,18.8692676249,204271,,Q,Biljana Pawlowa Dimitrova,R,,BUL,25.7850787132,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,450,32,826,6
 2003-W-C10-FRA-06A-2003,Villenave d'Ornon 10K,Clay,32,10,20031103,14,201440,,,Laura Pous Tio,U,,ESP,19.0882956879,203135,,,Sylvia Montero,R,,FRA,18.3436002738,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,439,33,481,27
-2003-W-C10-FRA-06A-2003,Villenave d'Ornon 10K,Clay,32,10,20031103,15,201605,,Q,Mandy Minella,R,,LUX,17.9466119097,204617,,,Anna Font Estrada,R,,ESP,23.7973990418,3-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,641,14,528,23
+2003-W-C10-FRA-06A-2003,Villenave d'Ornon 10K,Clay,32,10,20031103,15,201605,,Q,Mandy Minella,R,180,LUX,17.9466119097,204617,,,Anna Font Estrada,R,,ESP,23.7973990418,3-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,641,14,528,23
 2003-W-C10-FRA-06A-2003,Villenave d'Ornon 10K,Clay,32,10,20031103,16,201299,2,,Celine Beigbeder,U,,FRA,28.6872005476,205035,,LL,Vanessa Wellauer,R,,SUI,21.5386721424,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,277,80,838,6
 2003-W-C10-FRA-06A-2003,Villenave d'Ornon 10K,Clay,32,10,20031103,17,202799,,WC,Audrey Hernandez,U,,FRA,21.2484599589,202340,1,,Caroline Maes,R,,BEL,20.9828884326,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,775,7,252,92
 2003-W-C10-FRA-06A-2003,Villenave d'Ornon 10K,Clay,32,10,20031103,18,203965,,,Bettina Pirker,U,,AUT,20.5092402464,203985,6,,Ivana Visic,R,,CRO,23.0718685832,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,507,25,466,29
@@ -1621,7 +1621,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C10-FRA-06A-2003,Villenave d'Ornon 10K,Clay,32,10,20031103,21,201622,,Q,Iryna Bremond,R,,FRA,19.0773442847,201639,,,Yevheniia Savranska,U,,UKR,19.7015742642,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,498,25,553,20
 2003-W-C10-FRA-06A-2003,Villenave d'Ornon 10K,Clay,32,10,20031103,22,202510,,,Natacha Randriantefy,R,,MAD,25.6399726215,201461,,,Aurelie Vedy,L,,FRA,22.7323750856,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,587,17,488,26
 2003-W-C10-FRA-06A-2003,Villenave d'Ornon 10K,Clay,32,10,20031103,23,201440,,,Laura Pous Tio,U,,ESP,19.0882956879,202791,8,,Debbrich Feys,R,,BEL,18.8692676249,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,439,33,450,32
-2003-W-C10-FRA-06A-2003,Villenave d'Ornon 10K,Clay,32,10,20031103,24,201299,2,,Celine Beigbeder,U,,FRA,28.6872005476,201605,,Q,Mandy Minella,R,,LUX,17.9466119097,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,277,80,641,14
+2003-W-C10-FRA-06A-2003,Villenave d'Ornon 10K,Clay,32,10,20031103,24,201299,2,,Celine Beigbeder,U,,FRA,28.6872005476,201605,,Q,Mandy Minella,R,180,LUX,17.9466119097,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,277,80,641,14
 2003-W-C10-FRA-06A-2003,Villenave d'Ornon 10K,Clay,32,10,20031103,25,203965,,,Bettina Pirker,U,,AUT,20.5092402464,202799,,WC,Audrey Hernandez,U,,FRA,21.2484599589,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,507,25,775,7
 2003-W-C10-FRA-06A-2003,Villenave d'Ornon 10K,Clay,32,10,20031103,26,201426,,,Pauline Parmentier,R,175,FRA,17.7549623546,205008,5,,Eveline Vanhyfte,U,,BEL,19.6249144422,7-6(5) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,496,25,402,38
 2003-W-C10-FRA-06A-2003,Villenave d'Ornon 10K,Clay,32,10,20031103,27,201622,,Q,Iryna Bremond,R,,FRA,19.0773442847,202510,,,Natacha Randriantefy,R,,MAD,25.6399726215,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,498,25,587,17
@@ -1638,7 +1638,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C10-FRA-07A-2003,Le Havre 10K,Clay,32,10,20031110,7,202776,,,Stephanie Rizzi,R,,FRA,22.2149212868,204892,,Q,Monika Schneider,R,,POL,20.2464065708,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,534,22,710,10
 2003-W-C10-FRA-07A-2003,Le Havre 10K,Clay,32,10,20031110,8,201639,,,Yevheniia Savranska,U,,UKR,19.7207392197,203157,5,,Amandine Singla,U,,FRA,21.3963039014,6-3 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,554,20,350,52
 2003-W-C10-FRA-07A-2003,Le Havre 10K,Clay,32,10,20031110,9,203137,6,,Rita Degli Esposti,U,,ITA,28.5174537988,204881,,,Isabel Collischonn,U,,GER,21.067761807,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,424,36
-2003-W-C10-FRA-07A-2003,Le Havre 10K,Clay,32,10,20031110,10,201605,,Q,Mandy Minella,R,,LUX,17.9657768652,202799,,Q,Audrey Hernandez,U,,FRA,21.2676249144,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,640,14,775,7
+2003-W-C10-FRA-07A-2003,Le Havre 10K,Clay,32,10,20031110,10,201605,,Q,Mandy Minella,R,180,LUX,17.9657768652,202799,,Q,Audrey Hernandez,U,,FRA,21.2676249144,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,640,14,775,7
 2003-W-C10-FRA-07A-2003,Le Havre 10K,Clay,32,10,20031110,11,203098,,,Leslie Butkiewicz,R,,BEL,21.4592744695,202881,,,Elisa Balsamo,U,,ITA,20.2464065708,6-2 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,421,36,462,29
 2003-W-C10-FRA-07A-2003,Le Havre 10K,Clay,32,10,20031110,12,203141,4,,Astrid Waernes Garcia,R,,ESP,18.841889117,203985,,,Ivana Visic,R,,CRO,23.0910335387,6-1 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,341,54,477,27
 2003-W-C10-FRA-07A-2003,Le Havre 10K,Clay,32,10,20031110,13,205008,7,,Eveline Vanhyfte,U,,BEL,19.6440793977,202577,,Q,Florence Haring,R,,FRA,18.1054072553,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,407,38,612,15
@@ -1649,7 +1649,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C10-FRA-07A-2003,Le Havre 10K,Clay,32,10,20031110,18,204980,,Q,Helena Norfeldt,R,,SWE,20.59137577,201451,8,,Kathrin Woerle,R,,GER,19.7262149213,5-7 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,788,7,409,38
 2003-W-C10-FRA-07A-2003,Le Havre 10K,Clay,32,10,20031110,19,202031,3,,Rosa Maria Andres Rodriguez,R,,ESP,26.4503764545,202273,,,Liga Dekmeijere,R,,LAT,20.4736481862,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,283,79,508,24
 2003-W-C10-FRA-07A-2003,Le Havre 10K,Clay,32,10,20031110,20,202776,,,Stephanie Rizzi,R,,FRA,22.2149212868,201639,,,Yevheniia Savranska,U,,UKR,19.7207392197,6-3 5-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,534,22,554,20
-2003-W-C10-FRA-07A-2003,Le Havre 10K,Clay,32,10,20031110,21,203137,6,,Rita Degli Esposti,U,,ITA,28.5174537988,201605,,Q,Mandy Minella,R,,LUX,17.9657768652,6-0 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,,,640,14
+2003-W-C10-FRA-07A-2003,Le Havre 10K,Clay,32,10,20031110,21,203137,6,,Rita Degli Esposti,U,,ITA,28.5174537988,201605,,Q,Mandy Minella,R,180,LUX,17.9657768652,6-0 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,,,640,14
 2003-W-C10-FRA-07A-2003,Le Havre 10K,Clay,32,10,20031110,22,203141,4,,Astrid Waernes Garcia,R,,ESP,18.841889117,203098,,,Leslie Butkiewicz,R,,BEL,21.4592744695,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,341,54,421,36
 2003-W-C10-FRA-07A-2003,Le Havre 10K,Clay,32,10,20031110,23,201461,,,Aurelie Vedy,L,,FRA,22.7515400411,205008,7,,Eveline Vanhyfte,U,,BEL,19.6440793977,6-4 5-7 7-5,3,R16,,,,,,,,,,,,,,,,,,,,497,25,407,38
 2003-W-C10-FRA-07A-2003,Le Havre 10K,Clay,32,10,20031110,24,202308,2,,Paula Garcia,R,,ESP,24.6461327858,204963,,WC,Joanne Akl,U,,FRA,18.7323750856,7-6(3) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,247,96,973,3
@@ -2905,7 +2905,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C10-ITA-13A-2003,Ancona 10K,Clay,32,10,20030721,8,201461,7,,Aurelie Vedy,L,,FRA,22.4449007529,202353,,,Maria Jose Argeri,R,,ARG,19.0116358658,4-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,479,26,522,21
 2003-W-C10-ITA-13A-2003,Ancona 10K,Clay,32,10,20030721,9,203138,6,,Raffaella Bindi,U,,ITA,24.3422313484,204101,,,Veronika Ctvrtnickova,U,,CZE,21.1389459274,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,437,33,650,13
 2003-W-C10-ITA-13A-2003,Ancona 10K,Clay,32,10,20030721,10,204989,,Q,Elena Vianello,R,,ITA,19.4277891855,202592,,Q,Julia Babilon,R,,GER,19.0171115674,7-6(7) 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,575,17,1057,3
-2003-W-C10-ITA-13A-2003,Ancona 10K,Clay,32,10,20030721,11,201605,,Q,Mandy Minella,R,,LUX,17.659137577,202827,,,Franziska Etzel,R,,GER,19.5783709788,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,771,9,649,13
+2003-W-C10-ITA-13A-2003,Ancona 10K,Clay,32,10,20030721,11,201605,,Q,Mandy Minella,R,180,LUX,17.659137577,202827,,,Franziska Etzel,R,,GER,19.5783709788,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,771,9,649,13
 2003-W-C10-ITA-13A-2003,Ancona 10K,Clay,32,10,20030721,12,200752,,Q,Raluca Sandu,R,,ROU,23.4606433949,202798,3,,Matea Mezak,R,,CRO,18.3764544832,4-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,784,8,432,34
 2003-W-C10-ITA-13A-2003,Ancona 10K,Clay,32,10,20030721,13,202311,5,,Petra Dizdar,U,,CRO,19.0554414784,204609,,,Giulia Meruzzi,U,,ITA,20.9719370294,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,463,29,639,14
 2003-W-C10-ITA-13A-2003,Ancona 10K,Clay,32,10,20030721,14,202345,,Q,Katarina Kachlikova,R,,SVK,18.1327857632,201426,,LL,Pauline Parmentier,R,175,FRA,17.4674880219,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,669,12,617,14
@@ -2916,16 +2916,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C10-ITA-13A-2003,Ancona 10K,Clay,32,10,20030721,19,203141,4,,Astrid Waernes Garcia,R,,ESP,18.5352498289,205055,,Q,Renata Kucerkova,U,,CZE,16.4818617385,1-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,436,33,585,17
 2003-W-C10-ITA-13A-2003,Ancona 10K,Clay,32,10,20030721,20,201461,7,,Aurelie Vedy,L,,FRA,22.4449007529,205120,,,Francesca Frappi,U,,ITA,23.7618069815,6-2 6-7(4) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,479,26,543,19
 2003-W-C10-ITA-13A-2003,Ancona 10K,Clay,32,10,20030721,21,204989,,Q,Elena Vianello,R,,ITA,19.4277891855,203138,6,,Raffaella Bindi,U,,ITA,24.3422313484,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,575,17,437,33
-2003-W-C10-ITA-13A-2003,Ancona 10K,Clay,32,10,20030721,22,201605,,Q,Mandy Minella,R,,LUX,17.659137577,200752,,Q,Raluca Sandu,R,,ROU,23.4606433949,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,771,9,784,8
+2003-W-C10-ITA-13A-2003,Ancona 10K,Clay,32,10,20030721,22,201605,,Q,Mandy Minella,R,180,LUX,17.659137577,200752,,Q,Raluca Sandu,R,,ROU,23.4606433949,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,771,9,784,8
 2003-W-C10-ITA-13A-2003,Ancona 10K,Clay,32,10,20030721,23,202311,5,,Petra Dizdar,U,,CRO,19.0554414784,202345,,Q,Katarina Kachlikova,R,,SVK,18.1327857632,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,463,29,669,12
 2003-W-C10-ITA-13A-2003,Ancona 10K,Clay,32,10,20030721,24,202373,,Q,Ekaterina Afinogenova,U,,RUS,16.5119780972,201754,2,,Leanne Baker,L,,NZL,22.5297741273,2-6 7-6(1) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,798,8,483,26
 2003-W-C10-ITA-13A-2003,Ancona 10K,Clay,32,10,20030721,25,201698,,,Liana Gabriela Ungur,U,,ROU,18.546201232,203361,,,Zuzana Zemenova,R,,SVK,18.8720054757,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,535,20,544,19
 2003-W-C10-ITA-13A-2003,Ancona 10K,Clay,32,10,20030721,26,201461,7,,Aurelie Vedy,L,,FRA,22.4449007529,203141,4,,Astrid Waernes Garcia,R,,ESP,18.5352498289,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,479,26,436,33
-2003-W-C10-ITA-13A-2003,Ancona 10K,Clay,32,10,20030721,27,201605,,Q,Mandy Minella,R,,LUX,17.659137577,204989,,Q,Elena Vianello,R,,ITA,19.4277891855,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,771,9,575,17
+2003-W-C10-ITA-13A-2003,Ancona 10K,Clay,32,10,20030721,27,201605,,Q,Mandy Minella,R,180,LUX,17.659137577,204989,,Q,Elena Vianello,R,,ITA,19.4277891855,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,771,9,575,17
 2003-W-C10-ITA-13A-2003,Ancona 10K,Clay,32,10,20030721,28,202311,5,,Petra Dizdar,U,,CRO,19.0554414784,202373,,Q,Ekaterina Afinogenova,U,,RUS,16.5119780972,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,463,29,798,8
 2003-W-C10-ITA-13A-2003,Ancona 10K,Clay,32,10,20030721,29,201698,,,Liana Gabriela Ungur,U,,ROU,18.546201232,201461,7,,Aurelie Vedy,L,,FRA,22.4449007529,6-7(13) 6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,535,20,479,26
-2003-W-C10-ITA-13A-2003,Ancona 10K,Clay,32,10,20030721,30,201605,,Q,Mandy Minella,R,,LUX,17.659137577,202311,5,,Petra Dizdar,U,,CRO,19.0554414784,6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,771,9,463,29
-2003-W-C10-ITA-13A-2003,Ancona 10K,Clay,32,10,20030721,31,201698,,,Liana Gabriela Ungur,U,,ROU,18.546201232,201605,,Q,Mandy Minella,R,,LUX,17.659137577,3-6 6-3 6-1,3,F,,,,,,,,,,,,,,,,,,,,535,20,771,9
+2003-W-C10-ITA-13A-2003,Ancona 10K,Clay,32,10,20030721,30,201605,,Q,Mandy Minella,R,180,LUX,17.659137577,202311,5,,Petra Dizdar,U,,CRO,19.0554414784,6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,771,9,463,29
+2003-W-C10-ITA-13A-2003,Ancona 10K,Clay,32,10,20030721,31,201698,,,Liana Gabriela Ungur,U,,ROU,18.546201232,201605,,Q,Mandy Minella,R,180,LUX,17.659137577,3-6 6-3 6-1,3,F,,,,,,,,,,,,,,,,,,,,535,20,771,9
 2003-W-C10-ITA-14A-2003,Gardone Val Trompia 10K,Clay,32,10,20030728,1,202788,1,,Kildine Chevalier,R,,FRA,23.0746064339,202842,,Q,Sandra Volk,U,,SLO,17.749486653,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,285,76,825,7
 2003-W-C10-ITA-14A-2003,Gardone Val Trompia 10K,Clay,32,10,20030728,2,203156,,,Jennifer Schmidt,R,,AUT,20.5941136208,201498,,WC,Karin Knapp,R,180,ITA,16.0821355236,7-6(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,565,18,,
 2003-W-C10-ITA-14A-2003,Gardone Val Trompia 10K,Clay,32,10,20030728,3,201461,,,Aurelie Vedy,L,,FRA,22.4640657084,204884,,Q,Nancy Rustignoli,R,,ITA,18.0670773443,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,475,27,945,4
@@ -3031,7 +3031,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C10-ITA-17A-2003,Spoleto 10K,Clay,32,10,20030908,10,208015,,Q,Elena Petrucciano,L,,ITA,17.3086926762,203287,,WC,Gabriella Polito,R,,ITA,16.2436687201,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,873,4,,
 2003-W-C10-ITA-17A-2003,Spoleto 10K,Clay,32,10,20030908,11,204609,,,Giulia Meruzzi,U,,ITA,21.106091718,208464,,WC,Maria Lavinia Piva,U,,ITA,15.394934976,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,656,12,,
 2003-W-C10-ITA-17A-2003,Spoleto 10K,Clay,32,10,20030908,12,201430,,,Yulia Fedossova,R,,FRA,15.1868583162,204868,4,,Stefanie Weis,U,,GER,21.5359342916,4-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,657,12,408,36
-2003-W-C10-ITA-17A-2003,Spoleto 10K,Clay,32,10,20030908,13,204949,6,,Lenka Snajdrova,U,,CZE,19.7316906229,201605,,,Mandy Minella,R,,LUX,17.7932922656,4-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,442,30,666,12
+2003-W-C10-ITA-17A-2003,Spoleto 10K,Clay,32,10,20030908,13,204949,6,,Lenka Snajdrova,U,,CZE,19.7316906229,201605,,,Mandy Minella,R,180,LUX,17.7932922656,4-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,442,30,666,12
 2003-W-C10-ITA-17A-2003,Spoleto 10K,Clay,32,10,20030908,14,202337,,,Klaudia Jans Ignacik,R,,POL,18.9541409993,203965,,Q,Bettina Pirker,U,,AUT,20.3559206023,7-6(2) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,624,14,939,3
 2003-W-C10-ITA-17A-2003,Spoleto 10K,Clay,32,10,20030908,15,202117,,Q,Maria Paola Zavagli,U,,ITA,26.2614647502,205123,,Q,Alice Balducci,R,,ITA,16.9911019849,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,851,5,,
 2003-W-C10-ITA-17A-2003,Spoleto 10K,Clay,32,10,20030908,16,202840,2,,Sabrina Jolk,R,,GER,21.2265571526,204033,,,Bianca Kamper,U,,AUT,22.1765913758,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,332,53,547,18
@@ -3432,7 +3432,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C10-LUX-01A-2003,Petange 10K,Clay,32,10,20030728,8,201814,5,,Michelle Gerards,R,,NED,19.0527036277,201426,,Q,Pauline Parmentier,R,175,FRA,17.4866529774,6-2 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,397,40,598,15
 2003-W-C10-LUX-01A-2003,Petange 10K,Clay,32,10,20030728,9,202273,7,LL,Liga Dekmeijere,R,,LAT,20.1861738535,206894,,Q,Mette Iversen,R,,DEN,23.5674195756,6-2 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,461,29,702,11
 2003-W-C10-LUX-01A-2003,Petange 10K,Clay,32,10,20030728,10,204942,,,Madita Suer,U,,GER,22.3189596167,204940,,WC,Nicole Ludwig,U,,GER,16.3039014374,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,633,14,1157,1
-2003-W-C10-LUX-01A-2003,Petange 10K,Clay,32,10,20030728,11,204447,,,Antonela Voina Timmerbeil,U,,GER,28.514715948,201605,,WC,Mandy Minella,R,,LUX,17.6783025325,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,501,23,760,9
+2003-W-C10-LUX-01A-2003,Petange 10K,Clay,32,10,20030728,11,204447,,,Antonela Voina Timmerbeil,U,,GER,28.514715948,201605,,WC,Mandy Minella,R,180,LUX,17.6783025325,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,501,23,760,9
 2003-W-C10-LUX-01A-2003,Petange 10K,Clay,32,10,20030728,12,205008,,,Eveline Vanhyfte,U,,BEL,19.356605065,202344,4,,Magda Mihalache,R,,ROU,22.0588637919,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,455,30,356,48
 2003-W-C10-LUX-01A-2003,Petange 10K,Clay,32,10,20030728,13,202288,8,,Elke Clijsters,R,174,BEL,18.5215605749,204033,,,Bianca Kamper,U,,AUT,22.0616016427,4-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,438,33,556,19
 2003-W-C10-LUX-01A-2003,Petange 10K,Clay,32,10,20030728,14,204949,,,Lenka Snajdrova,U,,CZE,19.6167008898,202792,,,Michaela Michalkova,U,,SVK,17.7440109514,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,529,21,517,22
@@ -3739,7 +3739,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C10-NED-03A-2003,Alkmaar 10K,Clay,32,10,20030623,6,203082,,,Nicole Melch,U,,AUT,25.1498973306,204877,,,Irina Delitz,U,,GER,20.1122518823,7-5 5-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,539,21,594,17
 2003-W-C10-NED-03A-2003,Alkmaar 10K,Clay,32,10,20030623,7,201690,,,Nina Bratchikova,R,,RUS,17.9849418207,203136,,LL,Delphine De Winne,U,,FRA,23.7645448323,6-1 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,492,25,619,15
 2003-W-C10-NED-03A-2003,Alkmaar 10K,Clay,32,10,20030623,8,207186,,Q,Jenny Kuhn,U,,GER,20.4380561259,202288,6,,Elke Clijsters,R,174,BEL,18.4257357974,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,902,5,440,32
-2003-W-C10-NED-03A-2003,Alkmaar 10K,Clay,32,10,20030623,9,201814,5,,Michelle Gerards,R,,NED,18.9568788501,202457,,WC,Bibiane Schoofs,R,,NED,15.1101984942,6-4 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,430,34,,
+2003-W-C10-NED-03A-2003,Alkmaar 10K,Clay,32,10,20030623,9,201814,5,,Michelle Gerards,R,,NED,18.9568788501,202457,,WC,Bibiane Schoofs,R,170,NED,15.1101984942,6-4 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,430,34,,
 2003-W-C10-NED-03A-2003,Alkmaar 10K,Clay,32,10,20030623,10,204976,,,Suzanne Van Hartingsveldt,R,,NED,21.0704996578,207855,,,Susanne Aigner,U,,AUT,19.5208761123,6-4 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,538,21,656,13
 2003-W-C10-NED-03A-2003,Alkmaar 10K,Clay,32,10,20030623,11,207763,,Q,Marta Simic,U,,SRB,19.7864476386,208246,,WC,Sanne Van Den Biggelaar,R,,NED,18.3353867214,7-6(7) 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,971,4,,
 2003-W-C10-NED-03A-2003,Alkmaar 10K,Clay,32,10,20030623,12,202286,4,,Elise Tamaela,L,,NED,19.4168377823,205035,,Q,Vanessa Wellauer,R,,SUI,21.1745379877,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,433,33,989,4
@@ -4040,7 +4040,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C10-NZL-01A-2003,Wellington 10K,Hard,32,10,20030127,1,202276,1,,Shelley Bryce,R,,NZL,24.4982888433,208047,,Q,Natalie Dean,U,,NZL,17.6618754278,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,310,61,,
 2003-W-C10-NZL-01A-2003,Wellington 10K,Hard,32,10,20030127,2,203187,,,Dubravka Cupac,R,,AUS,16.9965776865,207152,,,Bree Calderwood,U,,AUS,22.7378507871,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1111,2,894,6
 2003-W-C10-NZL-01A-2003,Wellington 10K,Hard,32,10,20030127,3,204944,,,Darya Ivanov,R,,AUS,17.7248459959,208050,,Q,Julie Scott,U,,NZL,33.9849418207,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,755,10,,
-2003-W-C10-NZL-01A-2003,Wellington 10K,Hard,32,10,20030127,4,201605,,,Mandy Minella,R,,LUX,17.1800136893,204209,7,,Gabrielle Baker,R,,AUS,18.5325119781,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,863,7,483,26
+2003-W-C10-NZL-01A-2003,Wellington 10K,Hard,32,10,20030127,4,201605,,,Mandy Minella,R,180,LUX,17.1800136893,204209,7,,Gabrielle Baker,R,,AUS,18.5325119781,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,863,7,483,26
 2003-W-C10-NZL-01A-2003,Wellington 10K,Hard,32,10,20030127,5,204945,4,,Deanna Roberts,U,,AUS,21.4948665298,208248,,,Christine Alford,U,,AUS,19.446954141,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,415,36,956,4
 2003-W-C10-NZL-01A-2003,Wellington 10K,Hard,32,10,20030127,6,202899,,,Cassandra Barr,R,,AUS,20.2737850787,208201,,Q,Julianne Welford,R,,AUS,15.5345653662,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,813,8,1210,1
 2003-W-C10-NZL-01A-2003,Wellington 10K,Hard,32,10,20030127,7,208305,,Q,Jana Cabak,U,,AUS,18.9075975359,208304,,Q,Sarah Andrews,U,,AUS,18.0260095825,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1240,0,,
@@ -4054,14 +4054,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C10-NZL-01A-2003,Wellington 10K,Hard,32,10,20030127,15,201426,,Q,Pauline Parmentier,R,175,FRA,16.9883641342,205372,,,Sevvy Gallios,R,,AUS,17.954825462,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1141,2
 2003-W-C10-NZL-01A-2003,Wellington 10K,Hard,32,10,20030127,16,203089,2,,Kristen Van Elden,U,,AUS,21.3579739904,208199,,WC,Makere Bradnam,U,,NZL,16.0492813142,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,363,48,,
 2003-W-C10-NZL-01A-2003,Wellington 10K,Hard,32,10,20030127,17,203187,,,Dubravka Cupac,R,,AUS,16.9965776865,202276,1,,Shelley Bryce,R,,NZL,24.4982888433,3-6 7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1111,2,310,61
-2003-W-C10-NZL-01A-2003,Wellington 10K,Hard,32,10,20030127,18,201605,,,Mandy Minella,R,,LUX,17.1800136893,204944,,,Darya Ivanov,R,,AUS,17.7248459959,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,863,7,755,10
+2003-W-C10-NZL-01A-2003,Wellington 10K,Hard,32,10,20030127,18,201605,,,Mandy Minella,R,180,LUX,17.1800136893,204944,,,Darya Ivanov,R,,AUS,17.7248459959,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,863,7,755,10
 2003-W-C10-NZL-01A-2003,Wellington 10K,Hard,32,10,20030127,19,204945,4,,Deanna Roberts,U,,AUS,21.4948665298,202899,,,Cassandra Barr,R,,AUS,20.2737850787,6-1 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,415,36,813,8
 2003-W-C10-NZL-01A-2003,Wellington 10K,Hard,32,10,20030127,20,204942,,,Madita Suer,U,,GER,21.8206707734,208305,,Q,Jana Cabak,U,,AUS,18.9075975359,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,606,16,1240,0
 2003-W-C10-NZL-01A-2003,Wellington 10K,Hard,32,10,20030127,21,202317,6,,Ilke Gers,U,,NZL,21.2539356605,205079,,Q,Paula Marama,R,,NZL,18.9541409993,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,486,26,,
 2003-W-C10-NZL-01A-2003,Wellington 10K,Hard,32,10,20030127,22,201449,3,,Lauren Breadmore,U,,AUS,19.6577686516,203913,,WC,Niki Tippins,U,,NZL,26.7022587269,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,324,58,,
 2003-W-C10-NZL-01A-2003,Wellington 10K,Hard,32,10,20030127,23,204211,,,Lara Giltinan,R,,AUS,16.9801505818,202323,,WC,Eden Marama,R,,NZL,16.9527720739,2-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1046,3,,
 2003-W-C10-NZL-01A-2003,Wellington 10K,Hard,32,10,20030127,24,203089,2,,Kristen Van Elden,U,,AUS,21.3579739904,201426,,Q,Pauline Parmentier,R,175,FRA,16.9883641342,7-6(4) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,363,48,,
-2003-W-C10-NZL-01A-2003,Wellington 10K,Hard,32,10,20030127,25,203187,,,Dubravka Cupac,R,,AUS,16.9965776865,201605,,,Mandy Minella,R,,LUX,17.1800136893,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,1111,2,863,7
+2003-W-C10-NZL-01A-2003,Wellington 10K,Hard,32,10,20030127,25,203187,,,Dubravka Cupac,R,,AUS,16.9965776865,201605,,,Mandy Minella,R,180,LUX,17.1800136893,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,1111,2,863,7
 2003-W-C10-NZL-01A-2003,Wellington 10K,Hard,32,10,20030127,26,204942,,,Madita Suer,U,,GER,21.8206707734,204945,4,,Deanna Roberts,U,,AUS,21.4948665298,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,606,16,415,36
 2003-W-C10-NZL-01A-2003,Wellington 10K,Hard,32,10,20030127,27,201449,3,,Lauren Breadmore,U,,AUS,19.6577686516,202317,6,,Ilke Gers,U,,NZL,21.2539356605,7-6(2) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,324,58,486,26
 2003-W-C10-NZL-01A-2003,Wellington 10K,Hard,32,10,20030127,28,203089,2,,Kristen Van Elden,U,,AUS,21.3579739904,204211,,,Lara Giltinan,R,,AUS,16.9801505818,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,363,48,1046,3
@@ -6103,7 +6103,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C25-CHN-06A-2003,Taizhou 25K,Hard,32,25,20031103,7,202295,,Q,Ying Yu,R,,CHN,21.711156742,202345,,,Katarina Kachlikova,R,,SVK,18.4202600958,7-6(6) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,,,586,17
 2003-W-C25-CHN-06A-2003,Taizhou 25K,Hard,32,25,20031103,8,201384,6,,Chia Jung Chuang,R,,TPE,18.8117727584,205082,,Q,Nan Dong,U,,CHN,16.7173169062,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,313,62,,
 2003-W-C25-CHN-06A-2003,Taizhou 25K,Hard,32,25,20031103,9,202294,,,Yan Ze Xie,U,,CHN,19.8110882957,201411,5,,Aiko Nakamura,R,163,JPN,19.8494182067,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,390,40,299,69
-2003-W-C25-CHN-06A-2003,Taizhou 25K,Hard,32,25,20031103,10,201633,,,Tomoko Yonemura,U,,JPN,21.3415468857,201533,,WC,Shuai Zhang,R,,CHN,14.7816563997,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,378,44,,
+2003-W-C25-CHN-06A-2003,Taizhou 25K,Hard,32,25,20031103,10,201633,,,Tomoko Yonemura,U,,JPN,21.3415468857,201533,,WC,Shuai Zhang,R,177,CHN,14.7816563997,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,378,44,,
 2003-W-C25-CHN-06A-2003,Taizhou 25K,Hard,32,25,20031103,11,203147,,Q,Wei Juan Liu,U,,CHN,20.6789869952,205083,,WC,Yan Zhang,U,,CHN,15.5455167693,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2003-W-C25-CHN-06A-2003,Taizhou 25K,Hard,32,25,20031103,12,202289,4,,Jin Hee Kim,U,,KOR,22.3874058864,203243,,,Wilawan Choptang,R,,THA,19.5427789185,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,280,79,557,20
 2003-W-C25-CHN-06A-2003,Taizhou 25K,Hard,32,25,20031103,13,201397,7,,Shuai Peng,R,173,CHN,17.8179329227,201405,,,Nan Nan Liu,U,,CHN,20.3750855578,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,323,57,487,26
@@ -6503,7 +6503,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C25-FRA-08A-2003,Deauville 25K,Clay,32,25,20031117,4,201489,7,,Mariya Koryttseva,R,,UKR,18.4804928131,201077,,,Sophie Lefevre,R,,FRA,22.7296372348,4-6 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,200,142,260,88
 2003-W-C25-FRA-08A-2003,Deauville 25K,Clay,32,25,20031117,5,201209,4,,Selima Sfar,R,,TUN,26.3600273785,201340,,,Maria Geznenge,R,,GER,26.6803559206,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,163,190,234,108
 2003-W-C25-FRA-08A-2003,Deauville 25K,Clay,32,25,20031117,6,202259,,LL,Valentina Sassi,U,,ITA,23.3483915127,202809,,WC,Pascale Leroy,U,,FRA,19.6194387406,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,316,61,704,11
-2003-W-C25-FRA-08A-2003,Deauville 25K,Clay,32,25,20031117,7,200084,,Q,Asa Svensson,R,,SWE,28.4216290212,201944,,,Zuzana Hejdova,U,,CZE,26.5516769336,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,364,49,292,74
+2003-W-C25-FRA-08A-2003,Deauville 25K,Clay,32,25,20031117,7,200084,,Q,Asa Carlsson,R,,SWE,28.4216290212,201944,,,Zuzana Hejdova,U,,CZE,26.5516769336,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,364,49,292,74
 2003-W-C25-FRA-08A-2003,Deauville 25K,Clay,32,25,20031117,8,201301,8,,Camille Pin,U,162,FRA,22.2286105407,201451,,Q,Kathrin Woerle,R,,GER,19.7453798768,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,218,123,414,38
 2003-W-C25-FRA-08A-2003,Deauville 25K,Clay,32,25,20031117,9,201357,6,,Virginie Pichet,R,,FRA,20.8021902806,205008,,Q,Eveline Vanhyfte,U,,BEL,19.6632443532,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,187,155,410,39
 2003-W-C25-FRA-08A-2003,Deauville 25K,Clay,32,25,20031117,10,202793,,Q,Emmanuelle Edon,R,,FRA,19.8658453114,202791,,Q,Debbrich Feys,R,,BEL,18.9075975359,6-4 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,419,37,459,31
@@ -6516,7 +6516,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C25-FRA-08A-2003,Deauville 25K,Clay,32,25,20031117,17,200777,1,,Marta Marrero,R,,ESP,20.8350444901,201450,,Q,Tsvetana Pironkova,R,180,BUL,16.1779603012,6-4 4-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,111,317,345,54
 2003-W-C25-FRA-08A-2003,Deauville 25K,Clay,32,25,20031117,18,201412,,,Anastasia Yakimova,R,165,BLR,17.0431211499,201489,7,,Mariya Koryttseva,R,,UKR,18.4804928131,6-7(2) 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,289,74,200,142
 2003-W-C25-FRA-08A-2003,Deauville 25K,Clay,32,25,20031117,19,202259,,LL,Valentina Sassi,U,,ITA,23.3483915127,201209,4,,Selima Sfar,R,,TUN,26.3600273785,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,316,61,163,190
-2003-W-C25-FRA-08A-2003,Deauville 25K,Clay,32,25,20031117,20,201301,8,,Camille Pin,U,162,FRA,22.2286105407,200084,,Q,Asa Svensson,R,,SWE,28.4216290212,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,218,123,364,49
+2003-W-C25-FRA-08A-2003,Deauville 25K,Clay,32,25,20031117,20,201301,8,,Camille Pin,U,162,FRA,22.2286105407,200084,,Q,Asa Carlsson,R,,SWE,28.4216290212,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,218,123,364,49
 2003-W-C25-FRA-08A-2003,Deauville 25K,Clay,32,25,20031117,21,202793,,Q,Emmanuelle Edon,R,,FRA,19.8658453114,201357,6,,Virginie Pichet,R,,FRA,20.8021902806,1-6 7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,419,37,187,155
 2003-W-C25-FRA-08A-2003,Deauville 25K,Clay,32,25,20031117,22,202279,,,Virag Nemeth,R,,HUN,18.4120465435,202710,,,Olga Lazarchuk,R,,UKR,21.954825462,7-6(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,242,103,274,83
 2003-W-C25-FRA-08A-2003,Deauville 25K,Clay,32,25,20031117,23,201413,,Q,Capucine Rousseau,U,,FRA,23.5728952772,201299,,,Celine Beigbeder,U,,FRA,28.7255304586,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,286,76,263,87
@@ -6605,7 +6605,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C25-GBR-03A-2003,Surbiton 25K,Grass,32,25,20030602,13,201089,,WC,Lucie Ahl,R,,GBR,28.8596851472,200774,8,,Vanessa Webb,L,,CAN,27.3538672142,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,211,141,128,269
 2003-W-C25-GBR-03A-2003,Surbiton 25K,Grass,32,25,20030602,14,200062,,Q,Kristina Brandi,R,168,PUR,26.1765913758,200029,,Q,Lisa Mcshea,R,,AUS,28.59137577,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,179,172,296,69
 2003-W-C25-GBR-03A-2003,Surbiton 25K,Grass,32,25,20030602,15,201708,,,Natalie Grandin,U,,RSA,22.2587268994,200023,,Q,Bryanne Stewart,R,,AUS,23.4798083504,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,196,152,299,68
-2003-W-C25-GBR-03A-2003,Surbiton 25K,Grass,32,25,20030602,16,201318,,,Bethanie Mattek Sands,R,168,USA,18.1930184805,201085,2,,Shinobu Asagoe,R,,JPN,26.9267624914,2-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,159,201,85,465
+2003-W-C25-GBR-03A-2003,Surbiton 25K,Grass,32,25,20030602,16,201318,,,Bethanie Mattek Sands,R,168,USA,18.1930184805,201085,2,,Shinobu Asagoe,R,170,JPN,26.9267624914,2-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,159,201,85,465
 2003-W-C25-GBR-03A-2003,Surbiton 25K,Grass,32,25,20030602,17,201313,1,,Yoon Jeong Cho,R,,KOR,24.167008898,200073,,WC,Julie Pullin,L,,GBR,27.5728952772,4-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,49,688,238,103
 2003-W-C25-GBR-03A-2003,Surbiton 25K,Grass,32,25,20030602,18,201338,,,Bea Bielik,U,,USA,22.507871321,201304,,,Elena Baltacha,R,,GBR,19.8001368925,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,188,161,154,204
 2003-W-C25-GBR-03A-2003,Surbiton 25K,Grass,32,25,20030602,19,201303,,,Anne Keothavong,R,175,GBR,19.7097878166,201311,,,Roberta Vinci,R,163,ITA,20.2847364819,4-6 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,166,186,151,212
@@ -6722,7 +6722,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C25-GBR-07A-2003,Nottingham 25K,Hard,32,25,20031027,6,201465,,Q,Kirsten Flipkens,R,165,BEL,17.7932922656,201398,,,Amanda Keen,L,,GBR,25.7796030116,6-2 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,498,25,295,71
 2003-W-C25-GBR-07A-2003,Nottingham 25K,Hard,32,25,20031027,7,202769,,,Irina Bulykina,U,,RUS,19.4360027379,201469,,WC,Melanie South,R,,GBR,17.4839151266,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,306,65,867,5
 2003-W-C25-GBR-07A-2003,Nottingham 25K,Hard,32,25,20031027,8,201340,7,,Maria Geznenge,R,,GER,26.6228610541,204212,,Q,Holly Bagshaw,R,,GBR,17.7604380561,6-2 3-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,237,106,722,9
-2003-W-C25-GBR-07A-2003,Nottingham 25K,Hard,32,25,20031027,9,201446,5,,Sybille Bammer,L,174,AUT,23.498973306,200084,,,Asa Svensson,R,,SWE,28.3641341547,7-6(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,192,151,359,48
+2003-W-C25-GBR-07A-2003,Nottingham 25K,Hard,32,25,20031027,9,201446,5,,Sybille Bammer,L,174,AUT,23.498973306,200084,,,Asa Carlsson,R,,SWE,28.3641341547,7-6(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,192,151,359,48
 2003-W-C25-GBR-07A-2003,Nottingham 25K,Hard,32,25,20031027,10,205078,,Q,Katharine Baker,L,,GBR,17.620807666,204214,,WC,Alice Mackenzie,U,,GBR,17.1197809719,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1055,2,725,9
 2003-W-C25-GBR-07A-2003,Nottingham 25K,Hard,32,25,20031027,11,202071,,,Dragana Zaric,U,,SRB,26.2368240931,202997,,,Yvonne Doyle,U,,IRL,28.887063655,6-7(4) 7-6(2) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,383,43,352,50
 2003-W-C25-GBR-07A-2003,Nottingham 25K,Hard,32,25,20031027,12,201466,3,,Kaia Kanepi,R,181,EST,18.379192334,201201,,Q,Surina De Beer,R,,RSA,25.3305954825,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,171,178,604,16
@@ -7900,7 +7900,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C25-USA-03A-2003,Redding CA 25K,Hard,32,25,20030317,6,201374,,Q,Gabriela Lastra,R,,USA,22.7734428474,200744,,,Svetlana Krivencheva,R,,BUL,29.2101300479,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,240,108,218,132
 2003-W-C25-USA-03A-2003,Redding CA 25K,Hard,32,25,20030317,7,200713,,Q,Yuka Yoshida,R,,JPN,26.9568788501,203158,,WC,Jessica Nguyen,R,,USA,15.3100616016,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,232,120,,
 2003-W-C25-USA-03A-2003,Redding CA 25K,Hard,32,25,20030317,8,202289,,Q,Jin Hee Kim,U,,KOR,21.7549623546,201289,8,,Christina Wheeler,R,,AUS,20.9199178645,7-5 3-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,283,74,172,180
-2003-W-C25-USA-03A-2003,Redding CA 25K,Hard,32,25,20030317,9,200766,,,Jennifer Hopkins,R,,USA,22.0944558522,201325,5,,Samantha Stosur,R,172,AUS,18.9623545517,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,211,142,162,194
+2003-W-C25-USA-03A-2003,Redding CA 25K,Hard,32,25,20030317,9,200766,,,Jennifer Hopkins,R,170,USA,22.0944558522,201325,5,,Samantha Stosur,R,172,AUS,18.9623545517,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,211,142,162,194
 2003-W-C25-USA-03A-2003,Redding CA 25K,Hard,32,25,20030317,10,201303,,,Anne Keothavong,R,175,GBR,19.498973306,202231,,Q,Shiho Hisamatsu,R,,JPN,23.7015742642,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,171,182,291,70
 2003-W-C25-USA-03A-2003,Redding CA 25K,Hard,32,25,20030317,11,200743,,,Nirupama Sanjeev,R,,IND,26.2696783025,203226,,WC,Elizabeth Plotkin,R,,USA,14.8062970568,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1026,3,,
 2003-W-C25-USA-03A-2003,Redding CA 25K,Hard,32,25,20030317,12,200062,,Q,Kristina Brandi,R,168,PUR,25.9657768652,201304,4,,Elena Baltacha,R,,GBR,19.5893223819,7-5 RET,3,R32,,,,,,,,,,,,,,,,,,,,247,101,160,197
@@ -7912,7 +7912,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C25-USA-03A-2003,Redding CA 25K,Hard,32,25,20030317,18,200012,,Q,Jana Nejedly,R,,CAN,28.7693360712,201464,6,,Nathalie Vierin,U,,ITA,20.4188911704,6-0 2-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,242,104,168,185
 2003-W-C25-USA-03A-2003,Redding CA 25K,Hard,32,25,20030317,19,201349,3,,Melinda Czink,L,178,HUN,20.3997262149,201374,,Q,Gabriela Lastra,R,,USA,22.7734428474,7-6(1) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,150,216,240,108
 2003-W-C25-USA-03A-2003,Redding CA 25K,Hard,32,25,20030317,20,200713,,Q,Yuka Yoshida,R,,JPN,26.9568788501,202289,,Q,Jin Hee Kim,U,,KOR,21.7549623546,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,232,120,283,74
-2003-W-C25-USA-03A-2003,Redding CA 25K,Hard,32,25,20030317,21,201303,,,Anne Keothavong,R,175,GBR,19.498973306,200766,,,Jennifer Hopkins,R,,USA,22.0944558522,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,171,182,211,142
+2003-W-C25-USA-03A-2003,Redding CA 25K,Hard,32,25,20030317,21,201303,,,Anne Keothavong,R,175,GBR,19.498973306,200766,,,Jennifer Hopkins,R,170,USA,22.0944558522,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,171,182,211,142
 2003-W-C25-USA-03A-2003,Redding CA 25K,Hard,32,25,20030317,22,200062,,Q,Kristina Brandi,R,168,PUR,25.9657768652,200743,,,Nirupama Sanjeev,R,,IND,26.2696783025,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,247,101,1026,3
 2003-W-C25-USA-03A-2003,Redding CA 25K,Hard,32,25,20030317,23,201386,7,,Jie Zheng,R,164,CHN,19.6988364134,201394,,,Anna Lena Groenefeld,R,180,GER,17.7823408624,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,170,184,440,31
 2003-W-C25-USA-03A-2003,Redding CA 25K,Hard,32,25,20030317,24,200045,2,,Tara Snyder,R,,USA,25.8069815195,201416,,,Alona Bondarenko,R,168,UKR,18.5900068446,6-4 0-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,152,214,178,176
@@ -7933,7 +7933,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C25-USA-04A-2003,Atlanta 25K,Hard,32,25,20030324,8,201374,,LL,Gabriela Lastra,R,,USA,22.7926078029,200045,7,,Tara Snyder,R,,USA,25.826146475,7-6(1) RET,3,R32,,,,,,,,,,,,,,,,,,,,240,108,152,214
 2003-W-C25-USA-04A-2003,Atlanta 25K,Hard,32,25,20030324,9,201383,,,Marie Eve Pelletier,R,,CAN,20.848733744,201301,6,,Camille Pin,U,162,FRA,21.5770020534,6-1 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,161,196,149,217
 2003-W-C25-USA-04A-2003,Atlanta 25K,Hard,32,25,20030324,10,201293,,Q,Catalina Castano,R,171,COL,23.7125256674,202231,,Q,Shiho Hisamatsu,R,,JPN,23.7207392197,2-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,235,115,291,70
-2003-W-C25-USA-04A-2003,Atlanta 25K,Hard,32,25,20030324,11,200766,,,Jennifer Hopkins,R,,USA,22.1136208077,201446,,,Sybille Bammer,L,174,AUT,22.9048596851,3-6 6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,211,142,177,177
+2003-W-C25-USA-04A-2003,Atlanta 25K,Hard,32,25,20030324,11,200766,,,Jennifer Hopkins,R,170,USA,22.1136208077,201446,,,Sybille Bammer,L,174,AUT,22.9048596851,3-6 6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,211,142,177,177
 2003-W-C25-USA-04A-2003,Atlanta 25K,Hard,32,25,20030324,12,201339,5,,Renata Voracova,R,,CZE,19.4633812457,201429,,Q,Rika Fujiwara,R,,JPN,21.5085557837,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,127,265,207,145
 2003-W-C25-USA-04A-2003,Atlanta 25K,Hard,32,25,20030324,13,201325,,,Samantha Stosur,R,172,AUS,18.9815195072,201488,,LL,Jorgelina Cravero,R,,ARG,21.1635865845,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,162,194,280,79
 2003-W-C25-USA-04A-2003,Atlanta 25K,Hard,32,25,20030324,14,201464,,,Nathalie Vierin,U,,ITA,20.4380561259,201303,,,Anne Keothavong,R,175,GBR,19.5181382615,2-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,168,185,171,182
@@ -7944,16 +7944,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C25-USA-04A-2003,Atlanta 25K,Hard,32,25,20030324,19,201459,,Q,Zi Yan,R,171,CHN,18.3600273785,200052,4,,Olga Barabanschikova,R,,BLR,23.3894592745,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,265,87,122,295
 2003-W-C25-USA-04A-2003,Atlanta 25K,Hard,32,25,20030324,20,201386,,,Jie Zheng,R,164,CHN,19.7180013689,201374,,LL,Gabriela Lastra,R,,USA,22.7926078029,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,170,184,240,108
 2003-W-C25-USA-04A-2003,Atlanta 25K,Hard,32,25,20030324,21,201293,,Q,Catalina Castano,R,171,COL,23.7125256674,201383,,,Marie Eve Pelletier,R,,CAN,20.848733744,0-6 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,235,115,161,196
-2003-W-C25-USA-04A-2003,Atlanta 25K,Hard,32,25,20030324,22,200766,,,Jennifer Hopkins,R,,USA,22.1136208077,201339,5,,Renata Voracova,R,,CZE,19.4633812457,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,211,142,127,265
+2003-W-C25-USA-04A-2003,Atlanta 25K,Hard,32,25,20030324,22,200766,,,Jennifer Hopkins,R,170,USA,22.1136208077,201339,5,,Renata Voracova,R,,CZE,19.4633812457,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,211,142,127,265
 2003-W-C25-USA-04A-2003,Atlanta 25K,Hard,32,25,20030324,23,201464,,,Nathalie Vierin,U,,ITA,20.4380561259,201325,,,Samantha Stosur,R,172,AUS,18.9815195072,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,168,185,162,194
 2003-W-C25-USA-04A-2003,Atlanta 25K,Hard,32,25,20030324,24,202304,,WC,Nicole Pitts,U,,USA,16.386036961,201354,2,,Libuse Prusova,R,,CZE,23.6960985626,6-4 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1032,3,108,338
 2003-W-C25-USA-04A-2003,Atlanta 25K,Hard,32,25,20030324,25,200012,,SE,Jana Nejedly,R,,CAN,28.7885010267,201381,,,Tian Tian Sun,R,,CHN,21.4455852156,3-6 6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,242,104,186,165
 2003-W-C25-USA-04A-2003,Atlanta 25K,Hard,32,25,20030324,26,201386,,,Jie Zheng,R,164,CHN,19.7180013689,201459,,Q,Zi Yan,R,171,CHN,18.3600273785,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,170,184,265,87
-2003-W-C25-USA-04A-2003,Atlanta 25K,Hard,32,25,20030324,27,200766,,,Jennifer Hopkins,R,,USA,22.1136208077,201293,,Q,Catalina Castano,R,171,COL,23.7125256674,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,211,142,235,115
+2003-W-C25-USA-04A-2003,Atlanta 25K,Hard,32,25,20030324,27,200766,,,Jennifer Hopkins,R,170,USA,22.1136208077,201293,,Q,Catalina Castano,R,171,COL,23.7125256674,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,211,142,235,115
 2003-W-C25-USA-04A-2003,Atlanta 25K,Hard,32,25,20030324,28,201464,,,Nathalie Vierin,U,,ITA,20.4380561259,202304,,WC,Nicole Pitts,U,,USA,16.386036961,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,168,185,1032,3
 2003-W-C25-USA-04A-2003,Atlanta 25K,Hard,32,25,20030324,29,200012,,SE,Jana Nejedly,R,,CAN,28.7885010267,201386,,,Jie Zheng,R,164,CHN,19.7180013689,6-0 6-2,3,SF,,,,,,,,,,,,,,,,,,,,242,104,170,184
-2003-W-C25-USA-04A-2003,Atlanta 25K,Hard,32,25,20030324,30,200766,,,Jennifer Hopkins,R,,USA,22.1136208077,201464,,,Nathalie Vierin,U,,ITA,20.4380561259,7-5 7-5,3,SF,,,,,,,,,,,,,,,,,,,,211,142,168,185
-2003-W-C25-USA-04A-2003,Atlanta 25K,Hard,32,25,20030324,31,200012,,SE,Jana Nejedly,R,,CAN,28.7885010267,200766,,,Jennifer Hopkins,R,,USA,22.1136208077,6-2 7-5,3,F,,,,,,,,,,,,,,,,,,,,242,104,211,142
+2003-W-C25-USA-04A-2003,Atlanta 25K,Hard,32,25,20030324,30,200766,,,Jennifer Hopkins,R,170,USA,22.1136208077,201464,,,Nathalie Vierin,U,,ITA,20.4380561259,7-5 7-5,3,SF,,,,,,,,,,,,,,,,,,,,211,142,168,185
+2003-W-C25-USA-04A-2003,Atlanta 25K,Hard,32,25,20030324,31,200012,,SE,Jana Nejedly,R,,CAN,28.7885010267,200766,,,Jennifer Hopkins,R,170,USA,22.1136208077,6-2 7-5,3,F,,,,,,,,,,,,,,,,,,,,242,104,211,142
 2003-W-C25-USA-05A-2003,Jackson 25K,Clay,32,25,20030414,1,200062,,,Kristina Brandi,R,168,PUR,26.0424366872,201383,1,,Marie Eve Pelletier,R,,CAN,20.9062286105,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,232,119,149,218
 2003-W-C25-USA-05A-2003,Jackson 25K,Clay,32,25,20030414,2,201376,,Q,Angela Haynes,L,,USA,18.5434633812,204864,,Q,Anzela Zguna,U,,LAT,29.492128679,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,706,11,619,15
 2003-W-C25-USA-05A-2003,Jackson 25K,Clay,32,25,20030414,3,202730,,Q,Gabriela Volekova,R,,SVK,22.0944558522,200029,,,Lisa Mcshea,R,,AUS,28.4572210815,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,287,71
@@ -8119,7 +8119,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C25-USA-10A-2003,Peachtree City GA 25K,Hard,32,25,20030908,8,200068,6,,Lilia Osterloh,R,,USA,25.4209445585,203233,,WC,Alana Van Der Vort,U,,USA,17.8535249829,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,182,169,,
 2003-W-C25-USA-10A-2003,Peachtree City GA 25K,Hard,32,25,20030908,9,201429,,,Rika Fujiwara,R,,JPN,21.9685147159,201708,5,,Natalie Grandin,U,,RSA,22.5270362765,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,270,81,172,182
 2003-W-C25-USA-10A-2003,Peachtree City GA 25K,Hard,32,25,20030908,10,202153,,,Melanie Marois,R,,CAN,19.4962354552,202327,,WC,Megan Falcon,R,,USA,18.1382614648,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,254,90,,
-2003-W-C25-USA-10A-2003,Peachtree City GA 25K,Hard,32,25,20030908,11,200766,,,Jennifer Hopkins,R,,USA,22.5735797399,202782,,Q,Lauren Kalvaria,U,,USA,23.0253251198,4-6 7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,215,120,344,50
+2003-W-C25-USA-10A-2003,Peachtree City GA 25K,Hard,32,25,20030908,11,200766,,,Jennifer Hopkins,R,170,USA,22.5735797399,202782,,Q,Lauren Kalvaria,U,,USA,23.0253251198,4-6 7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,215,120,344,50
 2003-W-C25-USA-10A-2003,Peachtree City GA 25K,Hard,32,25,20030908,12,201383,3,,Marie Eve Pelletier,R,,CAN,21.3086926762,202302,,,Maria Fernanda Alves,L,,BRA,20.3942505133,6-2 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,159,198,216,119
 2003-W-C25-USA-10A-2003,Peachtree City GA 25K,Hard,32,25,20030908,13,201365,7,,Edina Gallovits Hall,R,165,ROU,18.7433264887,202346,,LL,Jewel Peterson,U,,USA,21.993155373,6-4 0-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,242,100,369,44
 2003-W-C25-USA-10A-2003,Peachtree City GA 25K,Hard,32,25,20030908,14,203149,,Q,Stephanie Hazlett,U,,USA,24.6078028747,201417,,Q,Marta Domachowska,R,176,POL,17.6427104723,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,551,18,277,76
@@ -8130,7 +8130,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C25-USA-10A-2003,Peachtree City GA 25K,Hard,32,25,20030908,19,201307,,Q,Amber Liu,R,,USA,19.1731690623,201303,4,,Anne Keothavong,R,175,GBR,19.9780971937,6-2 1-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,281,74,143,223
 2003-W-C25-USA-10A-2003,Peachtree City GA 25K,Hard,32,25,20030908,20,201210,,LL,Kristen Schlukebir,R,,USA,19.1950718686,200068,6,,Lilia Osterloh,R,,USA,25.4209445585,6-2 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,335,52,182,169
 2003-W-C25-USA-10A-2003,Peachtree City GA 25K,Hard,32,25,20030908,21,201429,,,Rika Fujiwara,R,,JPN,21.9685147159,202153,,,Melanie Marois,R,,CAN,19.4962354552,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,270,81,254,90
-2003-W-C25-USA-10A-2003,Peachtree City GA 25K,Hard,32,25,20030908,22,201383,3,,Marie Eve Pelletier,R,,CAN,21.3086926762,200766,,,Jennifer Hopkins,R,,USA,22.5735797399,1-6 6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,159,198,215,120
+2003-W-C25-USA-10A-2003,Peachtree City GA 25K,Hard,32,25,20030908,22,201383,3,,Marie Eve Pelletier,R,,CAN,21.3086926762,200766,,,Jennifer Hopkins,R,170,USA,22.5735797399,1-6 6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,159,198,215,120
 2003-W-C25-USA-10A-2003,Peachtree City GA 25K,Hard,32,25,20030908,23,201365,7,,Edina Gallovits Hall,R,165,ROU,18.7433264887,203149,,Q,Stephanie Hazlett,U,,USA,24.6078028747,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,242,100,551,18
 2003-W-C25-USA-10A-2003,Peachtree City GA 25K,Hard,32,25,20030908,24,201206,,Q,Allison Bradshaw,R,,USA,22.8145106092,200735,,,Miho Saeki,R,,JPN,27.4743326489,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,544,19,240,101
 2003-W-C25-USA-10A-2003,Peachtree City GA 25K,Hard,32,25,20030908,25,200062,1,,Kristina Brandi,R,168,PUR,26.4449007529,201510,,,Julie Ditty,L,,USA,24.6762491444,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,110,316,271,80
@@ -8144,7 +8144,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C25-USA-11A-2003,Raleigh NC 25K,Clay,32,25,20030922,2,202574,,,Remi Tezuka,R,,JPN,23.2854209446,205065,,WC,Liberty Sveke,U,,USA,16.4544832307,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,363,44,,
 2003-W-C25-USA-11A-2003,Raleigh NC 25K,Clay,32,25,20030922,3,202812,,Q,Erica Biro,L,,CAN,23.5865845311,202307,,,Tanner Cochran,R,,USA,19.1348391513,6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,495,24,263,83
 2003-W-C25-USA-11A-2003,Raleigh NC 25K,Clay,32,25,20030922,4,202324,,Q,Neha Uberoi,R,,USA,17.6235455168,203082,,LL,Nicole Melch,U,,AUT,25.3990417522,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,751,8,567,17
-2003-W-C25-USA-11A-2003,Raleigh NC 25K,Clay,32,25,20030922,5,200766,4,,Jennifer Hopkins,R,,USA,22.6119096509,202814,,WC,Krystina Marcio,R,,USA,15.3675564682,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,209,126,,
+2003-W-C25-USA-11A-2003,Raleigh NC 25K,Clay,32,25,20030922,5,200766,4,,Jennifer Hopkins,R,170,USA,22.6119096509,202814,,WC,Krystina Marcio,R,,USA,15.3675564682,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,209,126,,
 2003-W-C25-USA-11A-2003,Raleigh NC 25K,Clay,32,25,20030922,6,203144,,WC,Katrina Tsang,U,,USA,15.2087611225,202948,,Q,Elizabeth Schmidt,U,,USA,26.0807665982,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,916,4,724,9
 2003-W-C25-USA-11A-2003,Raleigh NC 25K,Clay,32,25,20030922,7,202343,,,Erica Krauth,R,,ARG,22.340862423,202346,,,Jewel Peterson,U,,USA,22.0314852841,7-6(5) 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,348,49,328,56
 2003-W-C25-USA-11A-2003,Raleigh NC 25K,Clay,32,25,20030922,8,201365,6,,Edina Gallovits Hall,R,165,ROU,18.7816563997,202283,,,Anouska Van Exel,U,,NED,28.9363449692,4-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,231,107,,
@@ -8158,14 +8158,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C25-USA-11A-2003,Raleigh NC 25K,Clay,32,25,20030922,16,200055,2,,Mariana Diaz Oliva,R,,ARG,27.5318275154,201210,,,Kristen Schlukebir,R,,USA,19.2334017796,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,191,151,297,67
 2003-W-C25-USA-11A-2003,Raleigh NC 25K,Clay,32,25,20030922,17,200028,1,,Maureen Drake,R,,CAN,32.5065023956,202574,,,Remi Tezuka,R,,JPN,23.2854209446,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,121,275,363,44
 2003-W-C25-USA-11A-2003,Raleigh NC 25K,Clay,32,25,20030922,18,202324,,Q,Neha Uberoi,R,,USA,17.6235455168,202812,,Q,Erica Biro,L,,CAN,23.5865845311,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,751,8,495,24
-2003-W-C25-USA-11A-2003,Raleigh NC 25K,Clay,32,25,20030922,19,200766,4,,Jennifer Hopkins,R,,USA,22.6119096509,203144,,WC,Katrina Tsang,U,,USA,15.2087611225,3-6 6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,209,126,916,4
+2003-W-C25-USA-11A-2003,Raleigh NC 25K,Clay,32,25,20030922,19,200766,4,,Jennifer Hopkins,R,170,USA,22.6119096509,203144,,WC,Katrina Tsang,U,,USA,15.2087611225,3-6 6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,209,126,916,4
 2003-W-C25-USA-11A-2003,Raleigh NC 25K,Clay,32,25,20030922,20,201365,6,,Edina Gallovits Hall,R,165,ROU,18.7816563997,202343,,,Erica Krauth,R,,ARG,22.340862423,7-6(2) 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,231,107,348,49
 2003-W-C25-USA-11A-2003,Raleigh NC 25K,Clay,32,25,20030922,21,201439,7,,Tiffany Dabek,U,,USA,23.523613963,205055,,LL,Renata Kucerkova,U,,CZE,16.6543463381,6-0 6-7(4) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,305,62,503,23
 2003-W-C25-USA-11A-2003,Raleigh NC 25K,Clay,32,25,20030922,22,202839,,Q,Vladimira Uhlirova,R,,CZE,25.3853524983,200058,,,Anna Foldenyi Dicker,R,,HUN,29.0841889117,6-4 3-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,458,28,355,46
 2003-W-C25-USA-11A-2003,Raleigh NC 25K,Clay,32,25,20030922,23,201393,,,Kelly Mccain,R,,USA,20.514715948,202820,,Q,Sarah Riske,U,,USA,22.2368240931,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,397,37,833,6
 2003-W-C25-USA-11A-2003,Raleigh NC 25K,Clay,32,25,20030922,24,201661,,,Tina Schiechtl,R,,AUT,19.6851471595,200055,2,,Mariana Diaz Oliva,R,,ARG,27.5318275154,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,253,88,191,151
 2003-W-C25-USA-11A-2003,Raleigh NC 25K,Clay,32,25,20030922,25,202324,,Q,Neha Uberoi,R,,USA,17.6235455168,200028,1,,Maureen Drake,R,,CAN,32.5065023956,6-7(4) 7-6(6) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,751,8,121,275
-2003-W-C25-USA-11A-2003,Raleigh NC 25K,Clay,32,25,20030922,26,201365,6,,Edina Gallovits Hall,R,165,ROU,18.7816563997,200766,4,,Jennifer Hopkins,R,,USA,22.6119096509,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,231,107,209,126
+2003-W-C25-USA-11A-2003,Raleigh NC 25K,Clay,32,25,20030922,26,201365,6,,Edina Gallovits Hall,R,165,ROU,18.7816563997,200766,4,,Jennifer Hopkins,R,170,USA,22.6119096509,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,231,107,209,126
 2003-W-C25-USA-11A-2003,Raleigh NC 25K,Clay,32,25,20030922,27,201439,7,,Tiffany Dabek,U,,USA,23.523613963,202839,,Q,Vladimira Uhlirova,R,,CZE,25.3853524983,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,305,62,458,28
 2003-W-C25-USA-11A-2003,Raleigh NC 25K,Clay,32,25,20030922,28,201661,,,Tina Schiechtl,R,,AUT,19.6851471595,201393,,,Kelly Mccain,R,,USA,20.514715948,5-7 6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,253,88,397,37
 2003-W-C25-USA-11A-2003,Raleigh NC 25K,Clay,32,25,20030922,29,201365,6,,Edina Gallovits Hall,R,165,ROU,18.7816563997,202324,,Q,Neha Uberoi,R,,USA,17.6235455168,6-1 6-1,3,SF,,,,,,,,,,,,,,,,,,,,231,107,751,8
@@ -8186,7 +8186,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C25-USA-12A-2003,Greenville SC 25K,Clay,32,25,20030929,13,205055,,Q,Renata Kucerkova,U,,CZE,16.6735112936,201661,8,,Tina Schiechtl,R,,AUT,19.704312115,6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,503,23,253,88
 2003-W-C25-USA-12A-2003,Greenville SC 25K,Clay,32,25,20030929,14,201210,,,Kristen Schlukebir,R,,USA,19.2525667351,203082,,Q,Nicole Melch,U,,AUT,25.4182067077,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,295,67,565,17
 2003-W-C25-USA-12A-2003,Greenville SC 25K,Clay,32,25,20030929,15,200058,,,Anna Foldenyi Dicker,R,,HUN,29.1033538672,204990,,Q,Nicole Shabaz,U,,USA,17.6509240246,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,355,46,1052,2
-2003-W-C25-USA-12A-2003,Greenville SC 25K,Clay,32,25,20030929,16,203115,,Q,Natalia Dziamidzenka,U,,BLR,19.8877481177,200766,2,,Jennifer Hopkins,R,,USA,22.6310746064,4-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,433,32,221,118
+2003-W-C25-USA-12A-2003,Greenville SC 25K,Clay,32,25,20030929,16,203115,,Q,Natalia Dziamidzenka,U,,BLR,19.8877481177,200766,2,,Jennifer Hopkins,R,170,USA,22.6310746064,4-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,433,32,221,118
 2003-W-C25-USA-12A-2003,Greenville SC 25K,Clay,32,25,20030929,17,200055,1,,Mariana Diaz Oliva,R,,ARG,27.5509924709,204864,,Q,Anzela Zguna,U,,LAT,29.9520876112,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,187,151,434,32
 2003-W-C25-USA-12A-2003,Greenville SC 25K,Clay,32,25,20030929,18,202307,,,Tanner Cochran,R,,USA,19.1540041068,202267,,,Diana Srebrovic,R,,CAN,19.1868583162,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,264,83,291,68
 2003-W-C25-USA-12A-2003,Greenville SC 25K,Clay,32,25,20030929,19,202302,4,,Maria Fernanda Alves,L,,BRA,20.4517453799,201393,,,Kelly Mccain,R,,USA,20.5338809035,6-7(4) 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,220,119,403,36
@@ -8729,7 +8729,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C50-ITA-08A-2003,Latina 50K,Clay,32,50,20031006,29,201448,,,Galina Voskoboeva,R,183,KAZ,18.7980835044,200720,5,,Dally Randriantefy,R,,MAD,26.6146475017,6-3 6-0,3,SF,,,,,,,,,,,,,,,,,,,,176,165,110,315
 2003-W-C50-ITA-08A-2003,Latina 50K,Clay,32,50,20031006,30,201311,,,Roberta Vinci,R,163,ITA,20.629705681,201343,,,Maret Ani,R,176,EST,21.6783025325,6-3 7-5,3,SF,,,,,,,,,,,,,,,,,,,,145,216,165,183
 2003-W-C50-ITA-08A-2003,Latina 50K,Clay,32,50,20031006,31,201311,,,Roberta Vinci,R,163,ITA,20.629705681,201448,,,Galina Voskoboeva,R,183,KAZ,18.7980835044,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,145,216,176,165
-2003-W-C50-JPN-01A-2003,Gifu 50K,Grass,32,50,20030428,1,201085,1,,Shinobu Asagoe,R,,JPN,26.8309377139,201632,,WC,Ryoko Fuda,R,,JPN,16.5065023956,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,83,467,642,15
+2003-W-C50-JPN-01A-2003,Gifu 50K,Grass,32,50,20030428,1,201085,1,,Shinobu Asagoe,R,170,JPN,26.8309377139,201632,,WC,Ryoko Fuda,R,,JPN,16.5065023956,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,83,467,642,15
 2003-W-C50-JPN-01A-2003,Gifu 50K,Grass,32,50,20030428,2,200735,,,Miho Saeki,R,,JPN,27.1101984942,202273,,,Liga Dekmeijere,R,,LAT,19.9370294319,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,218,134,309,64
 2003-W-C50-JPN-01A-2003,Gifu 50K,Grass,32,50,20030428,3,202292,,,Ayami Takase,U,,JPN,24.372347707,201449,,,Lauren Breadmore,U,,AUS,19.9069130732,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,293,68,278,79
 2003-W-C50-JPN-01A-2003,Gifu 50K,Grass,32,50,20030428,4,201348,,Q,Casey Dellacqua,L,,AUS,18.2067077344,201341,6,,Mi Ra Jeon,U,,KOR,25.2210814511,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,386,45,140,236
@@ -8745,7 +8745,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C50-JPN-01A-2003,Gifu 50K,Grass,32,50,20030428,14,200606,,,Nana Smith,R,,JPN,32.0492813142,202265,,,Mirielle Dittmann,U,,AUS,29.2950034223,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,298,67,262,87
 2003-W-C50-JPN-01A-2003,Gifu 50K,Grass,32,50,20030428,15,201633,,Q,Tomoko Yonemura,U,,JPN,20.8240930869,203133,,WC,Kana Watanabe,U,,JPN,16.8624229979,7-6(4) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,434,35,,
 2003-W-C50-JPN-01A-2003,Gifu 50K,Grass,32,50,20030428,16,201323,2,,Saori Obata,L,,JPN,25.0130047912,200073,,,Julie Pullin,L,,GBR,27.4770704997,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,104,349,182,173
-2003-W-C50-JPN-01A-2003,Gifu 50K,Grass,32,50,20030428,17,201085,1,,Shinobu Asagoe,R,,JPN,26.8309377139,200735,,,Miho Saeki,R,,JPN,27.1101984942,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,83,467,218,134
+2003-W-C50-JPN-01A-2003,Gifu 50K,Grass,32,50,20030428,17,201085,1,,Shinobu Asagoe,R,170,JPN,26.8309377139,200735,,,Miho Saeki,R,,JPN,27.1101984942,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,83,467,218,134
 2003-W-C50-JPN-01A-2003,Gifu 50K,Grass,32,50,20030428,18,201348,,Q,Casey Dellacqua,L,,AUS,18.2067077344,202292,,,Ayami Takase,U,,JPN,24.372347707,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,386,45,293,68
 2003-W-C50-JPN-01A-2003,Gifu 50K,Grass,32,50,20030428,19,201352,3,,Akiko Morigami,R,,JPN,23.2908966461,201457,,Q,Jarmila Gajdosova,R,174,AUS,16.0054757016,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,93,406,307,64
 2003-W-C50-JPN-01A-2003,Gifu 50K,Grass,32,50,20030428,20,201325,8,,Samantha Stosur,R,172,AUS,19.0773442847,202276,,,Shelley Bryce,R,,NZL,24.7474332649,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,151,207,296,68
@@ -8753,13 +8753,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C50-JPN-01A-2003,Gifu 50K,Grass,32,50,20030428,22,201381,,,Tian Tian Sun,R,,CHN,21.5414099932,200774,4,,Vanessa Webb,L,,CAN,27.2580424367,6-2 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,203,146,118,304
 2003-W-C50-JPN-01A-2003,Gifu 50K,Grass,32,50,20030428,23,201308,5,,Maria Elena Camerin,R,164,ITA,21.1033538672,200606,,,Nana Smith,R,,JPN,32.0492813142,3-6 7-6(2) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,111,327,298,67
 2003-W-C50-JPN-01A-2003,Gifu 50K,Grass,32,50,20030428,24,201323,2,,Saori Obata,L,,JPN,25.0130047912,201633,,Q,Tomoko Yonemura,U,,JPN,20.8240930869,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,104,349,434,35
-2003-W-C50-JPN-01A-2003,Gifu 50K,Grass,32,50,20030428,25,201085,1,,Shinobu Asagoe,R,,JPN,26.8309377139,201348,,Q,Casey Dellacqua,L,,AUS,18.2067077344,3-6 6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,83,467,386,45
+2003-W-C50-JPN-01A-2003,Gifu 50K,Grass,32,50,20030428,25,201085,1,,Shinobu Asagoe,R,170,JPN,26.8309377139,201348,,Q,Casey Dellacqua,L,,AUS,18.2067077344,3-6 6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,83,467,386,45
 2003-W-C50-JPN-01A-2003,Gifu 50K,Grass,32,50,20030428,26,201352,3,,Akiko Morigami,R,,JPN,23.2908966461,201325,8,,Samantha Stosur,R,172,AUS,19.0773442847,6-7(7) 6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,93,406,151,207
 2003-W-C50-JPN-01A-2003,Gifu 50K,Grass,32,50,20030428,27,201429,,,Rika Fujiwara,R,,JPN,21.6043805613,201381,,,Tian Tian Sun,R,,CHN,21.5414099932,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,238,106,203,146
 2003-W-C50-JPN-01A-2003,Gifu 50K,Grass,32,50,20030428,28,201323,2,,Saori Obata,L,,JPN,25.0130047912,201308,5,,Maria Elena Camerin,R,164,ITA,21.1033538672,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,104,349,111,327
-2003-W-C50-JPN-01A-2003,Gifu 50K,Grass,32,50,20030428,29,201085,1,,Shinobu Asagoe,R,,JPN,26.8309377139,201352,3,,Akiko Morigami,R,,JPN,23.2908966461,7-5 3-1 RET,3,SF,,,,,,,,,,,,,,,,,,,,83,467,93,406
+2003-W-C50-JPN-01A-2003,Gifu 50K,Grass,32,50,20030428,29,201085,1,,Shinobu Asagoe,R,170,JPN,26.8309377139,201352,3,,Akiko Morigami,R,,JPN,23.2908966461,7-5 3-1 RET,3,SF,,,,,,,,,,,,,,,,,,,,83,467,93,406
 2003-W-C50-JPN-01A-2003,Gifu 50K,Grass,32,50,20030428,30,201323,2,,Saori Obata,L,,JPN,25.0130047912,201429,,,Rika Fujiwara,R,,JPN,21.6043805613,6-7(5) 7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,104,349,238,106
-2003-W-C50-JPN-01A-2003,Gifu 50K,Grass,32,50,20030428,31,201085,1,,Shinobu Asagoe,R,,JPN,26.8309377139,201323,2,,Saori Obata,L,,JPN,25.0130047912,6-4 6-1,3,F,,,,,,,,,,,,,,,,,,,,83,467,104,349
+2003-W-C50-JPN-01A-2003,Gifu 50K,Grass,32,50,20030428,31,201085,1,,Shinobu Asagoe,R,170,JPN,26.8309377139,201323,2,,Saori Obata,L,,JPN,25.0130047912,6-4 6-1,3,F,,,,,,,,,,,,,,,,,,,,83,467,104,349
 2003-W-C50-JPN-02A-2003,Fukuoka 50K,Grass,32,50,20030505,1,201323,1,,Saori Obata,L,,JPN,25.0321697467,202291,,,Seiko Okamoto,U,,JPN,25.1416837782,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,99,372,287,71
 2003-W-C50-JPN-02A-2003,Fukuoka 50K,Grass,32,50,20030505,2,200606,,,Nana Smith,R,,JPN,32.0684462697,202273,,,Liga Dekmeijere,R,,LAT,19.9561943874,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,297,67,322,61
 2003-W-C50-JPN-02A-2003,Fukuoka 50K,Grass,32,50,20030505,3,201457,,Q,Jarmila Gajdosova,R,174,AUS,16.0246406571,202983,,Q,Chisayo Ito,U,,JPN,21.8179329227,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,281,76,462,30
@@ -8834,7 +8834,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C50-USA-01A-2003,Fullerton 50K,Hard,32,50,20030120,10,200062,,,Kristina Brandi,R,168,PUR,25.8124572211,201376,,WC,Angela Haynes,L,,USA,18.3134839151,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,231,125,856,7
 2003-W-C50-USA-01A-2003,Fullerton 50K,Hard,32,50,20030120,11,201307,,WC,Amber Liu,R,,USA,18.5407255305,200743,,,Nirupama Sanjeev,R,,IND,26.1163586585,7-6(5) 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,413,37,,
 2003-W-C50-USA-01A-2003,Fullerton 50K,Hard,32,50,20030120,12,200729,4,,Lindsay Lee Waters,R,,USA,25.5633127995,201383,,,Marie Eve Pelletier,R,,CAN,20.6762491444,3-6 7-6(1) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,117,289,161,196
-2003-W-C50-USA-01A-2003,Fullerton 50K,Hard,32,50,20030120,13,200126,,Q,Marissa Gould,R,,USA,22.5763175907,200050,7,,Sandra Kleinova,R,,CZE,24.7036276523,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,79,488,136,238
+2003-W-C50-USA-01A-2003,Fullerton 50K,Hard,32,50,20030120,13,200126,,Q,Marissa Irvin,R,,USA,22.5763175907,200050,7,,Sandra Kleinova,R,,CZE,24.7036276523,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,79,488,136,238
 2003-W-C50-USA-01A-2003,Fullerton 50K,Hard,32,50,20030120,14,201319,,,Evelyn Fauth,R,,AUT,26.1464750171,200769,,Q,Giulia Casoni,R,,ITA,24.7556468172,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,171,189,337,53
 2003-W-C50-USA-01A-2003,Fullerton 50K,Hard,32,50,20030120,15,201708,,,Natalie Grandin,U,,RSA,21.8945927447,201314,,,Nina Duebbers,U,,GER,22.5735797399,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,224,130,210,142
 2003-W-C50-USA-01A-2003,Fullerton 50K,Hard,32,50,20030120,16,200087,,,Seda Noorlander,R,,NED,28.6652977413,200121,2,,Alina Jidkova,R,,RUS,26.0041067762,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,169,189,101,369
@@ -8844,7 +8844,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C50-USA-01A-2003,Fullerton 50K,Hard,32,50,20030120,20,201308,6,,Maria Elena Camerin,R,164,ITA,20.8350444901,200744,,,Svetlana Krivencheva,R,,BUL,29.0568104038,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,122,272,209,142
 2003-W-C50-USA-01A-2003,Fullerton 50K,Hard,32,50,20030120,21,201326,8,,Bahia Mouhtassine,R,,MAR,23.4113620808,200062,,,Kristina Brandi,R,168,PUR,25.8124572211,7-6(5) RET,3,R16,,,,,,,,,,,,,,,,,,,,146,218,231,125
 2003-W-C50-USA-01A-2003,Fullerton 50K,Hard,32,50,20030120,22,200729,4,,Lindsay Lee Waters,R,,USA,25.5633127995,201307,,WC,Amber Liu,R,,USA,18.5407255305,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,117,289,413,37
-2003-W-C50-USA-01A-2003,Fullerton 50K,Hard,32,50,20030120,23,201319,,,Evelyn Fauth,R,,AUT,26.1464750171,200126,,Q,Marissa Gould,R,,USA,22.5763175907,5-7 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,171,189,79,488
+2003-W-C50-USA-01A-2003,Fullerton 50K,Hard,32,50,20030120,23,201319,,,Evelyn Fauth,R,,AUT,26.1464750171,200126,,Q,Marissa Irvin,R,,USA,22.5763175907,5-7 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,171,189,79,488
 2003-W-C50-USA-01A-2003,Fullerton 50K,Hard,32,50,20030120,24,200087,,,Seda Noorlander,R,,NED,28.6652977413,201708,,,Natalie Grandin,U,,RSA,21.8945927447,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,169,189,224,130
 2003-W-C50-USA-01A-2003,Fullerton 50K,Hard,32,50,20030120,25,201296,,,Bianka Lamade,R,,GER,20.3915126626,201207,5,,Ansley Cargill,L,,USA,21.0403832991,3-6 6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,222,131,118,286
 2003-W-C50-USA-01A-2003,Fullerton 50K,Hard,32,50,20030120,26,201318,,,Bethanie Mattek Sands,R,168,USA,17.8288843258,201308,6,,Maria Elena Camerin,R,164,ITA,20.8350444901,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,213,138,122,272
@@ -8856,7 +8856,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C50-USA-02A-2003,St Paul MN 50K,Hard,32,50,20030224,1,200031,1,,Meilen Tu,R,,USA,25.1033538672,200099,,Q,Sonya Jeyaseelan,R,,CAN,26.8364134155,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,99,364,422,36
 2003-W-C50-USA-02A-2003,St Paul MN 50K,Hard,32,50,20030224,2,201439,,,Tiffany Dabek,U,,USA,22.9486652977,200722,,,Francesca Lubiani,L,,ITA,25.620807666,3-6 7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,225,124,201,152
 2003-W-C50-USA-02A-2003,St Paul MN 50K,Hard,32,50,20030224,3,201319,,,Evelyn Fauth,R,,AUT,26.2422997947,202709,,Q,Jessica Lehnhoff,R,,GUA,22.945927447,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,151,214,281,78
-2003-W-C50-USA-02A-2003,St Paul MN 50K,Hard,32,50,20030224,4,201339,8,,Renata Voracova,R,,CZE,19.3867214237,200766,,,Jennifer Hopkins,R,,USA,22.0369609856,3-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,139,243,192,161
+2003-W-C50-USA-02A-2003,St Paul MN 50K,Hard,32,50,20030224,4,201339,8,,Renata Voracova,R,,CZE,19.3867214237,200766,,,Jennifer Hopkins,R,170,USA,22.0369609856,3-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,139,243,192,161
 2003-W-C50-USA-02A-2003,St Paul MN 50K,Hard,32,50,20030224,5,201383,,,Marie Eve Pelletier,R,,CAN,20.772073922,200774,3,,Vanessa Webb,L,,CAN,27.0855578371,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,165,194,117,314
 2003-W-C50-USA-02A-2003,St Paul MN 50K,Hard,32,50,20030224,6,201338,,WC,Bea Bielik,U,,USA,22.2395619439,200744,,,Svetlana Krivencheva,R,,BUL,29.1526351814,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,235,116,208,144
 2003-W-C50-USA-02A-2003,St Paul MN 50K,Hard,32,50,20030224,7,201375,,WC,Shenay Perry,R,,USA,18.636550308,201325,,,Samantha Stosur,R,172,AUS,18.9048596851,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,241,108,166,194
@@ -8895,7 +8895,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C50-USA-03A-2003,Mesa 50K,Hard,31,50,20030310,9,200777,6,,Marta Marrero,R,,ESP,20.1451060917,200746,,,Sandra Kloesel,R,,GER,23.7152635181,6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,83,443,136,251
 2003-W-C50-USA-03A-2003,Mesa 50K,Hard,31,50,20030310,10,201325,,Q,Samantha Stosur,R,172,AUS,18.9431895962,201401,,Q,Abigail Spears,R,,USA,21.659137577,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,166,194,318,60
 2003-W-C50-USA-03A-2003,Mesa 50K,Hard,31,50,20030310,11,201395,,WC,Teryn Ashley,U,,USA,24.2409308693,202301,,Q,Sunitha Rao,R,,IND,17.3661875428,6-3 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,155,208,177,179
-2003-W-C50-USA-03A-2003,Mesa 50K,Hard,31,50,20030310,12,200126,3,,Marissa Gould,R,,USA,22.7104722793,200014,,,Tzipi Obziler,R,,ISR,29.8891170431,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,72,485,120,298
+2003-W-C50-USA-03A-2003,Mesa 50K,Hard,31,50,20030310,12,200126,3,,Marissa Irvin,R,,USA,22.7104722793,200014,,,Tzipi Obziler,R,,ISR,29.8891170431,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,72,485,120,298
 2003-W-C50-USA-03A-2003,Mesa 50K,Hard,31,50,20030310,13,201380,,,Claudine Schaul,R,,LUX,19.5537303217,201284,7,,Tatiana Poutchek,R,,BLR,24.1642710472,7-6(6) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,130,264,85,426
 2003-W-C50-USA-03A-2003,Mesa 50K,Hard,31,50,20030310,14,201295,,,Wynne Prakusya,R,,INA,21.8699520876,201370,,,Anastasia Rodionova,R,167,AUS,20.8268309377,2-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,116,316,122,283
 2003-W-C50-USA-03A-2003,Mesa 50K,Hard,31,50,20030310,15,200052,,,Olga Barabanschikova,R,,BLR,23.3511293634,201207,,,Ansley Cargill,L,,USA,21.1745379877,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,121,295,109,329
@@ -8905,19 +8905,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C50-USA-03A-2003,Mesa 50K,Hard,31,50,20030310,19,201360,,,Julia Vakulenko,R,183,UKR,19.665982204,201331,4,,Iveta Benesova,L,170,CZE,20.1013004791,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,124,282,77,466
 2003-W-C50-USA-03A-2003,Mesa 50K,Hard,31,50,20030310,20,200028,,,Maureen Drake,R,,CAN,31.9698836413,201346,,,Lubomira Kurhajcova,R,,SVK,19.4113620808,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,115,317,114,318
 2003-W-C50-USA-03A-2003,Mesa 50K,Hard,31,50,20030310,21,200777,6,,Marta Marrero,R,,ESP,20.1451060917,201325,,Q,Samantha Stosur,R,172,AUS,18.9431895962,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,83,443,166,194
-2003-W-C50-USA-03A-2003,Mesa 50K,Hard,31,50,20030310,22,200126,3,,Marissa Gould,R,,USA,22.7104722793,201395,,WC,Teryn Ashley,U,,USA,24.2409308693,2-6 6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,72,485,155,208
+2003-W-C50-USA-03A-2003,Mesa 50K,Hard,31,50,20030310,22,200126,3,,Marissa Irvin,R,,USA,22.7104722793,201395,,WC,Teryn Ashley,U,,USA,24.2409308693,2-6 6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,72,485,155,208
 2003-W-C50-USA-03A-2003,Mesa 50K,Hard,31,50,20030310,23,201295,,,Wynne Prakusya,R,,INA,21.8699520876,201380,,,Claudine Schaul,R,,LUX,19.5537303217,6-2 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,116,316,130,264
 2003-W-C50-USA-03A-2003,Mesa 50K,Hard,31,50,20030310,24,201344,2,,Klara Koukalova,R,166,CZE,21.0376454483,200052,,,Olga Barabanschikova,R,,BLR,23.3511293634,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,71,487,121,295
 2003-W-C50-USA-03A-2003,Mesa 50K,Hard,31,50,20030310,25,201309,,,Tatiana Perebiynis,R,,UKR,20.2327173169,201292,,,Martina Sucha,R,,SVK,22.2997946612,7-6(6) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,134,256,106,340
 2003-W-C50-USA-03A-2003,Mesa 50K,Hard,31,50,20030310,26,200028,,,Maureen Drake,R,,CAN,31.9698836413,201360,,,Julia Vakulenko,R,183,UKR,19.665982204,3-6 7-6(2) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,115,317,124,282
-2003-W-C50-USA-03A-2003,Mesa 50K,Hard,31,50,20030310,27,200777,6,,Marta Marrero,R,,ESP,20.1451060917,200126,3,,Marissa Gould,R,,USA,22.7104722793,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,83,443,72,485
+2003-W-C50-USA-03A-2003,Mesa 50K,Hard,31,50,20030310,27,200777,6,,Marta Marrero,R,,ESP,20.1451060917,200126,3,,Marissa Irvin,R,,USA,22.7104722793,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,83,443,72,485
 2003-W-C50-USA-03A-2003,Mesa 50K,Hard,31,50,20030310,28,201295,,,Wynne Prakusya,R,,INA,21.8699520876,201344,2,,Klara Koukalova,R,166,CZE,21.0376454483,2-6 6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,116,316,71,487
 2003-W-C50-USA-03A-2003,Mesa 50K,Hard,31,50,20030310,29,200028,,,Maureen Drake,R,,CAN,31.9698836413,201309,,,Tatiana Perebiynis,R,,UKR,20.2327173169,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,115,317,134,256
 2003-W-C50-USA-03A-2003,Mesa 50K,Hard,31,50,20030310,30,201295,,,Wynne Prakusya,R,,INA,21.8699520876,200777,6,,Marta Marrero,R,,ESP,20.1451060917,6-2 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,,116,316,83,443
-2003-W-C50-USA-05A-2003,Los Gatos 50K,Hard,32,50,20030630,1,200126,1,,Marissa Gould,R,,USA,23.0171115674,202329,,,Jessica Fernandez,U,,MEX,23.947980835,6-2 1-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,87,440,531,21
+2003-W-C50-USA-05A-2003,Los Gatos 50K,Hard,32,50,20030630,1,200126,1,,Marissa Irvin,R,,USA,23.0171115674,202329,,,Jessica Fernandez,U,,MEX,23.947980835,6-2 1-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,87,440,531,21
 2003-W-C50-USA-05A-2003,Los Gatos 50K,Hard,32,50,20030630,2,202231,,,Shiho Hisamatsu,R,,JPN,23.9890485969,201393,,,Kelly Mccain,R,,USA,20.2847364819,3-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,242,99,337,54
 2003-W-C50-USA-05A-2003,Los Gatos 50K,Hard,32,50,20030630,3,201453,,,Hana Sromova,U,,CZE,25.2210814511,202709,,,Jessica Lehnhoff,R,,GUA,23.2908966461,1-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,283,73,275,76
-2003-W-C50-USA-05A-2003,Los Gatos 50K,Hard,32,50,20030630,4,202291,,,Seiko Okamoto,U,,JPN,25.2950034223,200766,6,,Jennifer Hopkins,R,,USA,22.3819301848,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,325,58,200,142
+2003-W-C50-USA-05A-2003,Los Gatos 50K,Hard,32,50,20030630,4,202291,,,Seiko Okamoto,U,,JPN,25.2950034223,200766,6,,Jennifer Hopkins,R,170,USA,22.3819301848,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,325,58,200,142
 2003-W-C50-USA-05A-2003,Los Gatos 50K,Hard,32,50,20030630,5,201375,4,,Shenay Perry,R,,USA,18.9815195072,201480,,,Lioudmila Skavronskaia,U,,RUS,23.2689938398,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,186,160,298,68
 2003-W-C50-USA-05A-2003,Los Gatos 50K,Hard,32,50,20030630,6,201376,,WC,Angela Haynes,L,,USA,18.7542778919,202307,,,Tanner Cochran,R,,USA,18.9048596851,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,365,47,290,72
 2003-W-C50-USA-05A-2003,Los Gatos 50K,Hard,32,50,20030630,7,202153,,,Melanie Marois,R,,CAN,19.3045859001,202306,,,Diana Ospina,U,,USA,23.9890485969,2-6 6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,263,81,269,79
@@ -8930,7 +8930,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C50-USA-05A-2003,Los Gatos 50K,Hard,32,50,20030630,14,202346,,WC,Jewel Peterson,U,,USA,21.8015058179,201205,,,Tracy Almeda Singian,U,,USA,23.7316906229,6-1 3-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,530,21,,
 2003-W-C50-USA-05A-2003,Los Gatos 50K,Hard,32,50,20030630,15,201307,,WC,Amber Liu,R,,USA,18.9815195072,201815,,,Petra Rampre,R,,SLO,23.4414784394,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,452,31,279,75
 2003-W-C50-USA-05A-2003,Los Gatos 50K,Hard,32,50,20030630,16,200121,2,,Alina Jidkova,R,,RUS,26.4449007529,200744,,,Svetlana Krivencheva,R,,BUL,29.4976043806,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,113,317,255,88
-2003-W-C50-USA-05A-2003,Los Gatos 50K,Hard,32,50,20030630,17,202231,,,Shiho Hisamatsu,R,,JPN,23.9890485969,200126,1,,Marissa Gould,R,,USA,23.0171115674,6-3 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,242,99,87,440
+2003-W-C50-USA-05A-2003,Los Gatos 50K,Hard,32,50,20030630,17,202231,,,Shiho Hisamatsu,R,,JPN,23.9890485969,200126,1,,Marissa Irvin,R,,USA,23.0171115674,6-3 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,242,99,87,440
 2003-W-C50-USA-05A-2003,Los Gatos 50K,Hard,32,50,20030630,18,201453,,,Hana Sromova,U,,CZE,25.2210814511,202291,,,Seiko Okamoto,U,,JPN,25.2950034223,3-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,283,73,325,58
 2003-W-C50-USA-05A-2003,Los Gatos 50K,Hard,32,50,20030630,19,201375,4,,Shenay Perry,R,,USA,18.9815195072,201376,,WC,Angela Haynes,L,,USA,18.7542778919,4-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,186,160,365,47
 2003-W-C50-USA-05A-2003,Los Gatos 50K,Hard,32,50,20030630,20,202153,,,Melanie Marois,R,,CAN,19.3045859001,202266,5,,Kelly Liggan,U,,IRL,24.3969883641,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,263,81,192,153
@@ -8982,7 +8982,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C50-USA-07A-2003,Lexington KY 50K,Hard,32,50,20030721,4,200062,5,,Kristina Brandi,R,168,PUR,26.3107460643,202291,,Q,Seiko Okamoto,U,,JPN,25.3524982888,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,131,267,295,68
 2003-W-C50-USA-07A-2003,Lexington KY 50K,Hard,32,50,20030721,5,201318,4,,Bethanie Mattek Sands,R,168,USA,18.3271731691,201708,,,Natalie Grandin,U,,RSA,22.392881588,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,133,258,167,189
 2003-W-C50-USA-07A-2003,Lexington KY 50K,Hard,32,50,20030721,6,201411,,,Aiko Nakamura,R,163,JPN,19.5619438741,200722,,,Francesca Lubiani,L,,ITA,26.0232717317,6-1 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,278,77,230,109
-2003-W-C50-USA-07A-2003,Lexington KY 50K,Hard,32,50,20030721,7,201341,,,Mi Ra Jeon,U,,KOR,25.4510609172,200766,,,Jennifer Hopkins,R,,USA,22.4394250513,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,209,127,202,141
+2003-W-C50-USA-07A-2003,Lexington KY 50K,Hard,32,50,20030721,7,201341,,,Mi Ra Jeon,U,,KOR,25.4510609172,200766,,,Jennifer Hopkins,R,170,USA,22.4394250513,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,209,127,202,141
 2003-W-C50-USA-07A-2003,Lexington KY 50K,Hard,32,50,20030721,8,202789,,Q,Salome Devidze,R,,GEO,17.5468856947,201209,8,,Selima Sfar,R,,TUN,26.0342231348,6-2 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,450,31,161,203
 2003-W-C50-USA-07A-2003,Lexington KY 50K,Hard,32,50,20030721,9,201289,,,Christina Wheeler,R,,AUS,21.2648870637,201942,6,,Andreea Ehritt Vanc,L,,ROU,29.787816564,6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,175,178,153,210
 2003-W-C50-USA-07A-2003,Lexington KY 50K,Hard,32,50,20030721,10,201394,,,Anna Lena Groenefeld,R,180,GER,18.1273100616,202709,,,Jessica Lehnhoff,R,,GUA,23.3483915127,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,169,187,380,44
@@ -9018,7 +9018,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C50-USA-08A-2003,Louisville 50K,Hard,32,50,20030728,9,200709,6,,Rosana De Los Rios,R,170,PAR,27.8631074606,201708,,,Natalie Grandin,U,,RSA,22.4120465435,7-5 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,121,291,174,181
 2003-W-C50-USA-08A-2003,Louisville 50K,Hard,32,50,20030728,10,201338,,,Bea Bielik,U,,USA,22.6611909651,201289,,,Christina Wheeler,R,,AUS,21.2840520192,6-2 4-6 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,147,212,171,184
 2003-W-C50-USA-08A-2003,Louisville 50K,Hard,32,50,20030728,11,201395,,,Teryn Ashley,U,,USA,24.6242299795,201404,,WC,Jessica Kirkland,R,,USA,15.7125256674,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,190,154,366,46
-2003-W-C50-USA-08A-2003,Louisville 50K,Hard,32,50,20030728,12,200729,,,Lindsay Lee Waters,R,,USA,26.0807665982,200766,,,Jennifer Hopkins,R,,USA,22.4585900068,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,109,330,204,141
+2003-W-C50-USA-08A-2003,Louisville 50K,Hard,32,50,20030728,12,200729,,,Lindsay Lee Waters,R,,USA,26.0807665982,200766,,,Jennifer Hopkins,R,170,USA,22.4585900068,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,109,330,204,141
 2003-W-C50-USA-08A-2003,Louisville 50K,Hard,32,50,20030728,13,200087,3,,Seda Noorlander,R,,NED,29.18275154,202758,5,WC,Jennifer Russell,U,,USA,24.9719370294,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,119,298,552,19
 2003-W-C50-USA-08A-2003,Louisville 50K,Hard,32,50,20030728,14,201375,,,Shenay Perry,R,,USA,19.0581793292,201340,,Q,Maria Geznenge,R,,GER,26.3737166324,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,167,196,214,124
 2003-W-C50-USA-08A-2003,Louisville 50K,Hard,32,50,20030728,15,202709,,Q,Jessica Lehnhoff,R,,GUA,23.3675564682,203127,,WC,Whitney Deason,R,,USA,17.5085557837,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,374,45,1042,3
@@ -9107,7 +9107,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C50-USA-11A-2003,Troy AL 50K,Hard,32,50,20030929,5,201328,4,,Milagros Sequera,R,,VEN,22.9952087611,201300,,,Maria Emilia Salerni,R,,ARG,20.3778234086,1-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,94,372,169,181
 2003-W-C50-USA-11A-2003,Troy AL 50K,Hard,32,50,20030929,6,201708,,,Natalie Grandin,U,,RSA,22.5845311431,201815,,,Petra Rampre,R,,SLO,23.6906228611,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,166,182,238,100
 2003-W-C50-USA-11A-2003,Troy AL 50K,Hard,32,50,20030929,7,202153,,,Melanie Marois,R,,CAN,19.5537303217,202329,,Q,Jessica Fernandez,U,,MEX,24.1971252567,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,246,93,462,28
-2003-W-C50-USA-11A-2003,Troy AL 50K,Hard,32,50,20030929,8,201206,,WC,Allison Bradshaw,R,,USA,22.8720054757,200126,5,,Marissa Gould,R,,USA,23.266255989,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,354,46,110,312
+2003-W-C50-USA-11A-2003,Troy AL 50K,Hard,32,50,20030929,8,201206,,WC,Allison Bradshaw,R,,USA,22.8720054757,200126,5,,Marissa Irvin,R,,USA,23.266255989,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,354,46,110,312
 2003-W-C50-USA-11A-2003,Troy AL 50K,Hard,32,50,20030929,9,200727,6,,Adriana Serra Zanetti,R,,ITA,27.5674195756,201541,,,Chanelle Scheepers,R,,RSA,19.5455167693,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,102,328,199,139
 2003-W-C50-USA-11A-2003,Troy AL 50K,Hard,32,50,20030929,10,201363,,,Gisela Dulko,R,170,ARG,18.6611909651,202301,,,Sunitha Rao,R,,IND,17.9219712526,6-1 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,133,241,206,132
 2003-W-C50-USA-11A-2003,Troy AL 50K,Hard,32,50,20030929,11,201353,,,Stanislava Hrozenska,U,,SVK,21.5359342916,201319,,,Evelyn Fauth,R,,AUT,26.8364134155,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,188,150,201,137
@@ -9139,11 +9139,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,6,201312,,,Sarah Taylor,R,,USA,21.9329226557,201541,,,Chanelle Scheepers,R,,RSA,19.5838466804,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,162,195,202,139
 2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,7,201318,,,Bethanie Mattek Sands,R,168,USA,18.5571526352,201942,,,Andreea Ehritt Vanc,L,,ROU,30.0177960301,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,137,238,189,156
 2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,8,200121,6,,Alina Jidkova,R,,RUS,26.7323750856,201447,,WC,Vania King,R,165,USA,14.6119096509,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,104,328,,
-2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,9,200766,,,Jennifer Hopkins,R,,USA,22.6694045175,203143,,LL,Nicole Sewell,R,,AUS,22.7707049966,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,220,124,555,19
+2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,9,200766,,,Jennifer Hopkins,R,170,USA,22.6694045175,203143,,LL,Nicole Sewell,R,,AUS,22.7707049966,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,220,124,555,19
 2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,10,201363,,,Gisela Dulko,R,170,ARG,18.6995208761,202306,,,Diana Ospina,U,,USA,24.2765229295,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,132,247,278,78
 2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,11,201479,,Q,Olga Puchkova,U,,RUS,16.0438056126,201289,,,Christina Wheeler,R,,AUS,21.4948665298,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,549,19,168,182
 2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,12,201207,4,WC,Ansley Cargill,L,,USA,21.7686516085,201459,,,Zi Yan,R,171,CHN,18.9158110883,4-6 7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,99,351,182,164
-2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,13,200126,7,,Marissa Gould,R,,USA,23.3045859001,201339,,,Renata Voracova,R,,CZE,20.0191649555,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,119,282,131,249
+2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,13,200126,7,,Marissa Irvin,R,,USA,23.3045859001,201339,,,Renata Voracova,R,,CZE,20.0191649555,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,119,282,131,249
 2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,14,202784,,WC,Iris Ichim,R,,USA,18.3326488706,200744,,,Svetlana Krivencheva,R,,BUL,29.7850787132,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,221,123
 2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,15,200709,,,Rosana De Los Rios,R,170,PAR,28.0739219713,201319,,,Evelyn Fauth,R,,AUT,26.8747433265,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,139,234,198,142
 2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,16,200749,2,,Samantha Reeves,R,,USA,24.7364818617,201408,,Q,Jamea Jackson,R,,USA,17.0978781656,0-6 7-6(0) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,83,438,471,28
@@ -9151,20 +9151,20 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,18,201375,,,Shenay Perry,R,,USA,19.2689938398,202785,,,Dimana Krastevitch,L,,BUL,21.5496235455,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,151,209,226,116
 2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,19,201308,3,,Maria Elena Camerin,R,164,ITA,21.5633127995,201312,,,Sarah Taylor,R,,USA,21.9329226557,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,87,421,162,195
 2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,20,200121,6,,Alina Jidkova,R,,RUS,26.7323750856,201318,,,Bethanie Mattek Sands,R,168,USA,18.5571526352,6-7(2) 6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,104,328,137,238
-2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,21,200766,,,Jennifer Hopkins,R,,USA,22.6694045175,201363,,,Gisela Dulko,R,170,ARG,18.6995208761,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,220,124,132,247
+2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,21,200766,,,Jennifer Hopkins,R,170,USA,22.6694045175,201363,,,Gisela Dulko,R,170,ARG,18.6995208761,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,220,124,132,247
 2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,22,201207,4,WC,Ansley Cargill,L,,USA,21.7686516085,201479,,Q,Olga Puchkova,U,,RUS,16.0438056126,7-5 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,99,351,549,19
-2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,23,200126,7,,Marissa Gould,R,,USA,23.3045859001,202784,,WC,Iris Ichim,R,,USA,18.3326488706,6-7(6) 6-3 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,119,282,,
+2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,23,200126,7,,Marissa Irvin,R,,USA,23.3045859001,202784,,WC,Iris Ichim,R,,USA,18.3326488706,6-7(6) 6-3 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,119,282,,
 2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,24,200749,2,,Samantha Reeves,R,,USA,24.7364818617,200709,,,Rosana De Los Rios,R,170,PAR,28.0739219713,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,83,438,139,234
 2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,25,200062,1,,Kristina Brandi,R,168,PUR,26.5407255305,201375,,,Shenay Perry,R,,USA,19.2689938398,5-7 6-4 0-1 RET,3,QF,,,,,,,,,,,,,,,,,,,,82,454,151,209
 2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,26,201308,3,,Maria Elena Camerin,R,164,ITA,21.5633127995,200121,6,,Alina Jidkova,R,,RUS,26.7323750856,6-1 5-7 6-4,3,QF,,,,,,,,,,,,,,,,,,,,87,421,104,328
-2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,27,200766,,,Jennifer Hopkins,R,,USA,22.6694045175,201207,4,WC,Ansley Cargill,L,,USA,21.7686516085,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,220,124,99,351
-2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,28,200749,2,,Samantha Reeves,R,,USA,24.7364818617,200126,7,,Marissa Gould,R,,USA,23.3045859001,7-6(5) 6-7(3) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,83,438,119,282
+2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,27,200766,,,Jennifer Hopkins,R,170,USA,22.6694045175,201207,4,WC,Ansley Cargill,L,,USA,21.7686516085,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,220,124,99,351
+2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,28,200749,2,,Samantha Reeves,R,,USA,24.7364818617,200126,7,,Marissa Irvin,R,,USA,23.3045859001,7-6(5) 6-7(3) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,83,438,119,282
 2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,29,200062,1,,Kristina Brandi,R,168,PUR,26.5407255305,201308,3,,Maria Elena Camerin,R,164,ITA,21.5633127995,7-6(5) 7-6(2),3,SF,,,,,,,,,,,,,,,,,,,,82,454,87,421
-2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,30,200749,2,,Samantha Reeves,R,,USA,24.7364818617,200766,,,Jennifer Hopkins,R,,USA,22.6694045175,3-6 7-5 7-5,3,SF,,,,,,,,,,,,,,,,,,,,83,438,220,124
+2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,30,200749,2,,Samantha Reeves,R,,USA,24.7364818617,200766,,,Jennifer Hopkins,R,170,USA,22.6694045175,3-6 7-5 7-5,3,SF,,,,,,,,,,,,,,,,,,,,83,438,220,124
 2003-W-C50-USA-12A-2003,Sedona AZ 50K,Hard,32,50,20031013,31,200749,2,,Samantha Reeves,R,,USA,24.7364818617,200062,1,,Kristina Brandi,R,168,PUR,26.5407255305,7-5 1-6 6-4,3,F,,,,,,,,,,,,,,,,,,,,83,438,82,454
 2003-W-C50-USA-13A-2003,Paducah KY 50K,Hard,32,50,20031020,1,200729,,,Lindsay Lee Waters,R,,USA,26.3107460643,200062,1,,Kristina Brandi,R,168,PUR,26.559890486,6-4 2-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,142,230,78,480
 2003-W-C50-USA-13A-2003,Paducah KY 50K,Hard,32,50,20031020,2,201942,,,Andreea Ehritt Vanc,L,,ROU,30.0369609856,203115,,LL,Natalia Dziamidzenka,U,,BLR,19.9452429843,3-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,186,156,380,44
-2003-W-C50-USA-13A-2003,Paducah KY 50K,Hard,32,50,20031020,3,200766,,,Jennifer Hopkins,R,,USA,22.688569473,201541,,,Chanelle Scheepers,R,,RSA,19.6030116359,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,198,144,205,139
+2003-W-C50-USA-13A-2003,Paducah KY 50K,Hard,32,50,20031020,3,200766,,,Jennifer Hopkins,R,170,USA,22.688569473,201541,,,Chanelle Scheepers,R,,RSA,19.6030116359,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,198,144,205,139
 2003-W-C50-USA-13A-2003,Paducah KY 50K,Hard,32,50,20031020,4,201339,8,,Renata Voracova,R,,CZE,20.038329911,201210,,LL,Kristen Schlukebir,R,,USA,19.3100616016,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,133,241,263,84
 2003-W-C50-USA-13A-2003,Paducah KY 50K,Hard,32,50,20031020,5,201207,4,,Ansley Cargill,L,,USA,21.787816564,201459,,,Zi Yan,R,171,CHN,18.9349760438,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,98,354,178,164
 2003-W-C50-USA-13A-2003,Paducah KY 50K,Hard,32,50,20031020,6,201363,,,Gisela Dulko,R,170,ARG,18.7186858316,200776,,,Angelika Bachmann,R,,GER,24.4298425736,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,139,233,221,124
@@ -9179,20 +9179,20 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C50-USA-13A-2003,Paducah KY 50K,Hard,32,50,20031020,15,201381,,,Tian Tian Sun,R,,CHN,22.0205338809,201815,,,Petra Rampre,R,,SLO,23.7481177276,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,145,219,238,100
 2003-W-C50-USA-13A-2003,Paducah KY 50K,Hard,32,50,20031020,16,202306,,Q,Diana Ospina,U,,USA,24.295687885,200749,2,,Samantha Reeves,R,,USA,24.7556468172,4-6 7-5 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,277,78,76,485
 2003-W-C50-USA-13A-2003,Paducah KY 50K,Hard,32,50,20031020,17,200729,,,Lindsay Lee Waters,R,,USA,26.3107460643,201942,,,Andreea Ehritt Vanc,L,,ROU,30.0369609856,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,142,230,186,156
-2003-W-C50-USA-13A-2003,Paducah KY 50K,Hard,32,50,20031020,18,200766,,,Jennifer Hopkins,R,,USA,22.688569473,201339,8,,Renata Voracova,R,,CZE,20.038329911,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,198,144,133,241
+2003-W-C50-USA-13A-2003,Paducah KY 50K,Hard,32,50,20031020,18,200766,,,Jennifer Hopkins,R,170,USA,22.688569473,201339,8,,Renata Voracova,R,,CZE,20.038329911,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,198,144,133,241
 2003-W-C50-USA-13A-2003,Paducah KY 50K,Hard,32,50,20031020,19,201363,,,Gisela Dulko,R,170,ARG,18.7186858316,201207,4,,Ansley Cargill,L,,USA,21.787816564,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,139,233,98,354
 2003-W-C50-USA-13A-2003,Paducah KY 50K,Hard,32,50,20031020,20,200121,5,,Alina Jidkova,R,,RUS,26.7515400411,202324,,WC,Neha Uberoi,R,,USA,17.7002053388,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,105,330,507,24
 2003-W-C50-USA-13A-2003,Paducah KY 50K,Hard,32,50,20031020,21,201418,,LL,Ting Li,R,,CHN,23.7891854894,202264,,WC,Cory Ann Avants,R,,USA,18.7405886379,2-6 6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,521,23,279,77
 2003-W-C50-USA-13A-2003,Paducah KY 50K,Hard,32,50,20031020,22,201386,3,,Jie Zheng,R,164,CHN,20.2929500342,200744,,,Svetlana Krivencheva,R,,BUL,29.8042436687,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,99,352,222,123
 2003-W-C50-USA-13A-2003,Paducah KY 50K,Hard,32,50,20031020,23,200045,6,,Tara Snyder,R,,USA,26.4010951403,201289,,,Christina Wheeler,R,,AUS,21.5140314853,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,112,310,166,182
 2003-W-C50-USA-13A-2003,Paducah KY 50K,Hard,32,50,20031020,24,201381,,,Tian Tian Sun,R,,CHN,22.0205338809,202306,,Q,Diana Ospina,U,,USA,24.295687885,3-6 7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,145,219,277,78
-2003-W-C50-USA-13A-2003,Paducah KY 50K,Hard,32,50,20031020,25,200766,,,Jennifer Hopkins,R,,USA,22.688569473,200729,,,Lindsay Lee Waters,R,,USA,26.3107460643,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,198,144,142,230
+2003-W-C50-USA-13A-2003,Paducah KY 50K,Hard,32,50,20031020,25,200766,,,Jennifer Hopkins,R,170,USA,22.688569473,200729,,,Lindsay Lee Waters,R,,USA,26.3107460643,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,198,144,142,230
 2003-W-C50-USA-13A-2003,Paducah KY 50K,Hard,32,50,20031020,26,200121,5,,Alina Jidkova,R,,RUS,26.7515400411,201363,,,Gisela Dulko,R,170,ARG,18.7186858316,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,105,330,139,233
 2003-W-C50-USA-13A-2003,Paducah KY 50K,Hard,32,50,20031020,27,201386,3,,Jie Zheng,R,164,CHN,20.2929500342,201418,,LL,Ting Li,R,,CHN,23.7891854894,4-6 6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,99,352,521,23
 2003-W-C50-USA-13A-2003,Paducah KY 50K,Hard,32,50,20031020,28,200045,6,,Tara Snyder,R,,USA,26.4010951403,201381,,,Tian Tian Sun,R,,CHN,22.0205338809,6-2 2-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,112,310,145,219
-2003-W-C50-USA-13A-2003,Paducah KY 50K,Hard,32,50,20031020,29,200766,,,Jennifer Hopkins,R,,USA,22.688569473,200121,5,,Alina Jidkova,R,,RUS,26.7515400411,6-1 6-3,3,SF,,,,,,,,,,,,,,,,,,,,198,144,105,330
+2003-W-C50-USA-13A-2003,Paducah KY 50K,Hard,32,50,20031020,29,200766,,,Jennifer Hopkins,R,170,USA,22.688569473,200121,5,,Alina Jidkova,R,,RUS,26.7515400411,6-1 6-3,3,SF,,,,,,,,,,,,,,,,,,,,198,144,105,330
 2003-W-C50-USA-13A-2003,Paducah KY 50K,Hard,32,50,20031020,30,200045,6,,Tara Snyder,R,,USA,26.4010951403,201386,3,,Jie Zheng,R,164,CHN,20.2929500342,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,112,310,99,352
-2003-W-C50-USA-13A-2003,Paducah KY 50K,Hard,32,50,20031020,31,200766,,,Jennifer Hopkins,R,,USA,22.688569473,200045,6,,Tara Snyder,R,,USA,26.4010951403,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,198,144,112,310
+2003-W-C50-USA-13A-2003,Paducah KY 50K,Hard,32,50,20031020,31,200766,,,Jennifer Hopkins,R,170,USA,22.688569473,200045,6,,Tara Snyder,R,,USA,26.4010951403,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,198,144,112,310
 2003-W-C50-USA-14A-2003,Pittsburgh PA 50K,Hard,32,50,20031103,1,200041,1,,Amy Frazier,R,,USA,31.1211498973,200729,,,Lindsay Lee Waters,R,,USA,26.3490759754,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,61,574,136,240
 2003-W-C50-USA-14A-2003,Pittsburgh PA 50K,Hard,32,50,20031103,2,201379,,,Mara Santangelo,R,181,ITA,22.3490759754,201383,,Q,Marie Eve Pelletier,R,,CAN,21.4620123203,4-6 7-6(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,157,206,195,148
 2003-W-C50-USA-14A-2003,Pittsburgh PA 50K,Hard,32,50,20031103,3,201375,,,Shenay Perry,R,,USA,19.3264887064,201393,,Q,Kelly Mccain,R,,USA,20.629705681,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,145,219,310,63
@@ -9201,7 +9201,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C50-USA-14A-2003,Pittsburgh PA 50K,Hard,32,50,20031103,6,201387,,,Sofia Arvidsson,R,176,SWE,19.7125256674,200776,,Q,Angelika Bachmann,R,,GER,24.4681724846,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,113,307,218,126
 2003-W-C50-USA-14A-2003,Pittsburgh PA 50K,Hard,32,50,20031103,7,201395,,,Teryn Ashley,U,,USA,24.8925393566,201436,,WC,Mary Gambale,R,,USA,14.8747433265,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,127,259,,
 2003-W-C50-USA-14A-2003,Pittsburgh PA 50K,Hard,32,50,20031103,8,201394,,,Anna Lena Groenefeld,R,180,GER,18.4147843943,200014,8,,Tzipi Obziler,R,,ISR,30.5407255305,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,121,290,129,253
-2003-W-C50-USA-14A-2003,Pittsburgh PA 50K,Hard,32,50,20031103,9,200121,6,,Alina Jidkova,R,,RUS,26.7898699521,200126,,,Marissa Gould,R,,USA,23.3620807666,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,96,372,120,290
+2003-W-C50-USA-14A-2003,Pittsburgh PA 50K,Hard,32,50,20031103,9,200121,6,,Alina Jidkova,R,,RUS,26.7898699521,200126,,,Marissa Irvin,R,,USA,23.3620807666,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,96,372,120,290
 2003-W-C50-USA-14A-2003,Pittsburgh PA 50K,Hard,32,50,20031103,10,200709,,,Rosana De Los Rios,R,170,PAR,28.1314168378,202820,,WC,Sarah Riske,U,,USA,22.3518138261,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,155,207,639,14
 2003-W-C50-USA-14A-2003,Pittsburgh PA 50K,Hard,32,50,20031103,11,200028,,,Maureen Drake,R,,CAN,32.6214921287,201363,,,Gisela Dulko,R,170,ARG,18.7570157426,7-6(2) 6-7(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,111,310,123,272
 2003-W-C50-USA-14A-2003,Pittsburgh PA 50K,Hard,32,50,20031103,12,201321,,,Antonella Serra Zanetti,R,,ITA,23.2744695414,200727,3,,Adriana Serra Zanetti,R,,ITA,27.6632443532,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,114,306,98,365
@@ -9227,7 +9227,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C50-USA-15A-2003,Eugene OR 50K,Hard,32,50,20031110,1,200121,1,,Alina Jidkova,R,,RUS,26.8090349076,201087,,,Mashona Washington,R,,USA,27.4442162902,6-7(5) 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,97,375,178,164
 2003-W-C50-USA-15A-2003,Eugene OR 50K,Hard,32,50,20031110,2,201477,,Q,Stephanie Dubois,R,,CAN,17.0266940452,201383,,,Marie Eve Pelletier,R,,CAN,21.4811772758,7-6(1) 6-7(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,480,27,191,153
 2003-W-C50-USA-15A-2003,Eugene OR 50K,Hard,32,50,20031110,3,201375,,,Shenay Perry,R,,USA,19.3456536619,201480,,,Lioudmila Skavronskaia,U,,RUS,23.6331279945,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,143,229,181,163
-2003-W-C50-USA-15A-2003,Eugene OR 50K,Hard,32,50,20031110,4,200729,,,Lindsay Lee Waters,R,,USA,26.3682409309,200126,7,,Marissa Gould,R,,USA,23.3812457221,7-6(11) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,136,240,123,281
+2003-W-C50-USA-15A-2003,Eugene OR 50K,Hard,32,50,20031110,4,200729,,,Lindsay Lee Waters,R,,USA,26.3682409309,200126,7,,Marissa Irvin,R,,USA,23.3812457221,7-6(11) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,136,240,123,281
 2003-W-C50-USA-15A-2003,Eugene OR 50K,Hard,32,50,20031110,5,200045,3,,Tara Snyder,R,,USA,26.4585900068,201942,,,Andreea Ehritt Vanc,L,,ROU,30.0944558522,6-7(4) 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,111,314,182,163
 2003-W-C50-USA-15A-2003,Eugene OR 50K,Hard,32,50,20031110,6,201210,,Q,Kristen Schlukebir,R,,USA,19.3675564682,201206,,WC,Allison Bradshaw,R,,USA,22.9869952088,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,266,84,324,59
 2003-W-C50-USA-15A-2003,Eugene OR 50K,Hard,32,50,20031110,7,202306,,Q,Diana Ospina,U,,USA,24.3531827515,201363,,,Gisela Dulko,R,170,ARG,18.7761806982,7-5 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,253,91,124,272
@@ -9257,11 +9257,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C50-USA-15A-2003,Eugene OR 50K,Hard,32,50,20031110,31,201387,4,,Sofia Arvidsson,R,176,SWE,19.7316906229,200045,3,,Tara Snyder,R,,USA,26.4585900068,6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,113,311,111,314
 2003-W-C50-USA-16A-2003,Palm Beach Gardens 50K,Clay,32,50,20031201,1,201815,,LL,Petra Rampre,R,,SLO,23.8631074606,201360,1,,Julia Vakulenko,R,183,UKR,20.3942505133,3-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,244,100,82,457
 2003-W-C50-USA-16A-2003,Palm Beach Gardens 50K,Clay,32,50,20031201,2,201087,,,Mashona Washington,R,,USA,27.5017111567,200709,,,Rosana De Los Rios,R,170,PAR,28.2080766598,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,192,148,149,210
-2003-W-C50-USA-16A-2003,Palm Beach Gardens 50K,Clay,32,50,20031201,3,201318,,,Bethanie Mattek Sands,R,168,USA,18.6913073238,200126,,,Marissa Gould,R,,USA,23.4387405886,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,132,244,140,232
+2003-W-C50-USA-16A-2003,Palm Beach Gardens 50K,Clay,32,50,20031201,3,201318,,,Bethanie Mattek Sands,R,168,USA,18.6913073238,200126,,,Marissa Irvin,R,,USA,23.4387405886,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,132,244,140,232
 2003-W-C50-USA-16A-2003,Palm Beach Gardens 50K,Clay,32,50,20031201,4,200045,5,,Tara Snyder,R,,USA,26.5160848734,203140,,Q,Bruna Colosio,U,,BRA,23.1321013005,6-4 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,108,338,368,48
 2003-W-C50-USA-16A-2003,Palm Beach Gardens 50K,Clay,32,50,20031201,5,202343,,Q,Erica Krauth,R,,ARG,22.5325119781,201207,4,,Ansley Cargill,L,,USA,21.9028062971,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,313,66,103,347
 2003-W-C50-USA-16A-2003,Palm Beach Gardens 50K,Clay,32,50,20031201,6,200729,,,Lindsay Lee Waters,R,,USA,26.4257357974,201479,,Q,Olga Puchkova,U,,RUS,16.1779603012,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,125,261,464,30
-2003-W-C50-USA-16A-2003,Palm Beach Gardens 50K,Clay,32,50,20031201,7,200766,,,Jennifer Hopkins,R,,USA,22.803559206,200091,,,Janet Lee,R,,TPE,27.1074606434,6-3 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,159,193,160,191
+2003-W-C50-USA-16A-2003,Palm Beach Gardens 50K,Clay,32,50,20031201,7,200766,,,Jennifer Hopkins,R,170,USA,22.803559206,200091,,,Janet Lee,R,,TPE,27.1074606434,6-3 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,159,193,160,191
 2003-W-C50-USA-16A-2003,Palm Beach Gardens 50K,Clay,32,50,20031201,8,201395,7,,Teryn Ashley,U,,USA,24.9691991786,200744,,,Svetlana Krivencheva,R,,BUL,29.9192334018,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,113,312,218,125
 2003-W-C50-USA-16A-2003,Palm Beach Gardens 50K,Clay,32,50,20031201,9,201393,,WC,Kelly Mccain,R,,USA,20.7063655031,200028,8,,Maureen Drake,R,,CAN,32.6981519507,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,240,104,114,311
 2003-W-C50-USA-16A-2003,Palm Beach Gardens 50K,Clay,32,50,20031201,10,201086,,Q,Greta Arn,R,,HUN,24.6351813826,202264,,LL,Cory Ann Avants,R,,USA,18.855578371,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,302,70,280,81
@@ -9274,7 +9274,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C50-USA-16A-2003,Palm Beach Gardens 50K,Clay,32,50,20031201,17,201087,,,Mashona Washington,R,,USA,27.5017111567,201815,,LL,Petra Rampre,R,,SLO,23.8631074606,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,192,148,244,100
 2003-W-C50-USA-16A-2003,Palm Beach Gardens 50K,Clay,32,50,20031201,18,200045,5,,Tara Snyder,R,,USA,26.5160848734,201318,,,Bethanie Mattek Sands,R,168,USA,18.6913073238,7-6(4) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,108,338,132,244
 2003-W-C50-USA-16A-2003,Palm Beach Gardens 50K,Clay,32,50,20031201,19,200729,,,Lindsay Lee Waters,R,,USA,26.4257357974,202343,,Q,Erica Krauth,R,,ARG,22.5325119781,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,125,261,313,66
-2003-W-C50-USA-16A-2003,Palm Beach Gardens 50K,Clay,32,50,20031201,20,201395,7,,Teryn Ashley,U,,USA,24.9691991786,200766,,,Jennifer Hopkins,R,,USA,22.803559206,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,113,312,159,193
+2003-W-C50-USA-16A-2003,Palm Beach Gardens 50K,Clay,32,50,20031201,20,201395,7,,Teryn Ashley,U,,USA,24.9691991786,200766,,,Jennifer Hopkins,R,170,USA,22.803559206,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,113,312,159,193
 2003-W-C50-USA-16A-2003,Palm Beach Gardens 50K,Clay,32,50,20031201,21,201393,,WC,Kelly Mccain,R,,USA,20.7063655031,201086,,Q,Greta Arn,R,,HUN,24.6351813826,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,240,104,302,70
 2003-W-C50-USA-16A-2003,Palm Beach Gardens 50K,Clay,32,50,20031201,22,200121,3,,Alina Jidkova,R,,RUS,26.8665297741,202757,,WC,Alyssa Cohen,R,,USA,21.0321697467,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,99,366,331,58
 2003-W-C50-USA-16A-2003,Palm Beach Gardens 50K,Clay,32,50,20031201,23,200777,6,,Marta Marrero,R,,ESP,20.8733744011,200765,,,Katalin Marosi,R,,HUN,24.052019165,7-6(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,109,337,170,176
@@ -9474,7 +9474,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C75-UAE-02A-2003,Dubai 75K,Hard,32,75,20031013,31,201347,,,Jelena Jankovic,R,177,SRB,18.6201232033,200098,,,Henrieta Nagyova,R,,SVK,24.8268309377,6-2 7-5,3,F,,,,,,,,,,,,,,,,,,,,109,318,143,231
 2003-W-C75-USA-01A-2003,Midland 75K,Hard,32,75,20030203,1,201281,1,WC,Laura Granville,R,175,USA,21.7303216975,201361,,LL,Julia Schruff,R,,GER,20.4681724846,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,45,759,232,115
 2003-W-C75-USA-01A-2003,Midland 75K,Hard,32,75,20030203,2,201319,,,Evelyn Fauth,R,,AUT,26.1848049281,201326,,,Bahia Mouhtassine,R,,MAR,23.4496919918,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,161,200,168,193
-2003-W-C75-USA-01A-2003,Midland 75K,Hard,32,75,20030203,3,200766,,,Jennifer Hopkins,R,,USA,21.9794661191,201349,,,Melinda Czink,L,178,HUN,20.2847364819,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,196,159,150,229
+2003-W-C75-USA-01A-2003,Midland 75K,Hard,32,75,20030203,3,200766,,,Jennifer Hopkins,R,170,USA,21.9794661191,201349,,,Melinda Czink,L,178,HUN,20.2847364819,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,196,159,150,229
 2003-W-C75-USA-01A-2003,Midland 75K,Hard,32,75,20030203,4,201087,6,,Mashona Washington,R,,USA,26.6776180698,201395,,,Teryn Ashley,U,,USA,24.1451060917,6-2 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,116,311,188,168
 2003-W-C75-USA-01A-2003,Midland 75K,Hard,32,75,20030203,5,201312,3,,Sarah Taylor,R,,USA,21.2429842574,200087,,,Seda Noorlander,R,,NED,28.7036276523,6-2 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,83,420,138,252
 2003-W-C75-USA-01A-2003,Midland 75K,Hard,32,75,20030203,6,201207,,,Ansley Cargill,L,,USA,21.0787132101,201383,,,Marie Eve Pelletier,R,,CAN,20.7145790554,4-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,119,302,165,196
@@ -9489,14 +9489,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C75-USA-01A-2003,Midland 75K,Hard,32,75,20030203,15,201296,,Q,Bianka Lamade,R,,GER,20.4298425736,200744,,,Svetlana Krivencheva,R,,BUL,29.0951403149,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,230,116,208,141
 2003-W-C75-USA-01A-2003,Midland 75K,Hard,32,75,20030203,16,200121,2,,Alina Jidkova,R,,RUS,26.0424366872,202780,,WC,Andrea Remynse,R,,USA,14.3271731691,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,84,419,,
 2003-W-C75-USA-01A-2003,Midland 75K,Hard,32,75,20030203,17,201281,1,WC,Laura Granville,R,175,USA,21.7303216975,201319,,,Evelyn Fauth,R,,AUT,26.1848049281,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,45,759,161,200
-2003-W-C75-USA-01A-2003,Midland 75K,Hard,32,75,20030203,18,200766,,,Jennifer Hopkins,R,,USA,21.9794661191,201087,6,,Mashona Washington,R,,USA,26.6776180698,3-6 6-1 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,196,159,116,311
+2003-W-C75-USA-01A-2003,Midland 75K,Hard,32,75,20030203,18,200766,,,Jennifer Hopkins,R,170,USA,21.9794661191,201087,6,,Mashona Washington,R,,USA,26.6776180698,3-6 6-1 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,196,159,116,311
 2003-W-C75-USA-01A-2003,Midland 75K,Hard,32,75,20030203,19,201207,,,Ansley Cargill,L,,USA,21.0787132101,201312,3,,Sarah Taylor,R,,USA,21.2429842574,7-6(1) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,119,302,83,420
 2003-W-C75-USA-01A-2003,Midland 75K,Hard,32,75,20030203,20,200749,5,,Samantha Reeves,R,,USA,24.0465434634,201375,,WC,Shenay Perry,R,,USA,18.5790554415,6-4 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,115,314,249,100
 2003-W-C75-USA-01A-2003,Midland 75K,Hard,32,75,20030203,21,200776,,,Angelika Bachmann,R,,GER,23.7207392197,200774,8,,Vanessa Webb,L,,CAN,27.0280629706,4-6 6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,234,112,118,303
 2003-W-C75-USA-01A-2003,Midland 75K,Hard,32,75,20030203,22,200012,,Q,Jana Nejedly,R,,CAN,28.6543463381,200751,4,,Conchita Martinez Granados,R,,ESP,27.0390143737,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,223,124,89,402
 2003-W-C75-USA-01A-2003,Midland 75K,Hard,32,75,20030203,23,200045,,,Tara Snyder,R,,USA,25.6919917864,201328,7,,Milagros Sequera,R,,VEN,22.3436002738,2-6 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,164,197,117,308
 2003-W-C75-USA-01A-2003,Midland 75K,Hard,32,75,20030203,24,201296,,Q,Bianka Lamade,R,,GER,20.4298425736,200121,2,,Alina Jidkova,R,,RUS,26.0424366872,6-3 6-7(4) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,230,116,84,419
-2003-W-C75-USA-01A-2003,Midland 75K,Hard,32,75,20030203,25,201281,1,WC,Laura Granville,R,175,USA,21.7303216975,200766,,,Jennifer Hopkins,R,,USA,21.9794661191,4-6 7-6(4) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,45,759,196,159
+2003-W-C75-USA-01A-2003,Midland 75K,Hard,32,75,20030203,25,201281,1,WC,Laura Granville,R,175,USA,21.7303216975,200766,,,Jennifer Hopkins,R,170,USA,21.9794661191,4-6 7-6(4) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,45,759,196,159
 2003-W-C75-USA-01A-2003,Midland 75K,Hard,32,75,20030203,26,201207,,,Ansley Cargill,L,,USA,21.0787132101,200749,5,,Samantha Reeves,R,,USA,24.0465434634,4-6 6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,119,302,115,314
 2003-W-C75-USA-01A-2003,Midland 75K,Hard,32,75,20030203,27,200012,,Q,Jana Nejedly,R,,CAN,28.6543463381,200776,,,Angelika Bachmann,R,,GER,23.7207392197,6-7(4) 6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,223,124,234,112
 2003-W-C75-USA-01A-2003,Midland 75K,Hard,32,75,20030203,28,201296,,Q,Bianka Lamade,R,,GER,20.4298425736,200045,,,Tara Snyder,R,,USA,25.6919917864,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,230,116,164,197
@@ -9513,8 +9513,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C75-USA-02A-2003,Dothan AL 75K,Clay,32,75,20030421,8,201352,6,,Akiko Morigami,R,,JPN,23.2717316906,201376,,Q,Angela Haynes,L,,USA,18.5626283368,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,104,347,710,11
 2003-W-C75-USA-02A-2003,Dothan AL 75K,Clay,32,75,20030421,9,201445,,WC,Viktoria Kutuzova,R,170,UKR,14.6694045175,200087,8,,Seda Noorlander,R,,NED,28.9144421629,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,136,248
 2003-W-C75-USA-02A-2003,Dothan AL 75K,Clay,32,75,20030421,10,201340,,,Maria Geznenge,R,,GER,26.1054072553,201087,,,Mashona Washington,R,,USA,26.8884325804,6-4 0-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,200,146,137,245
-2003-W-C75-USA-02A-2003,Dothan AL 75K,Clay,32,75,20030421,11,200766,,,Jennifer Hopkins,R,,USA,22.1902806297,202310,,WC,Shadisha Robinson,L,,USA,17.7741273101,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,208,139,433,34
-2003-W-C75-USA-02A-2003,Dothan AL 75K,Clay,32,75,20030421,12,200126,3,,Marissa Gould,R,,USA,22.8254620123,201375,,,Shenay Perry,R,,USA,18.7898699521,6-2 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,97,373,187,168
+2003-W-C75-USA-02A-2003,Dothan AL 75K,Clay,32,75,20030421,11,200766,,,Jennifer Hopkins,R,170,USA,22.1902806297,202310,,WC,Shadisha Robinson,L,,USA,17.7741273101,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,208,139,433,34
+2003-W-C75-USA-02A-2003,Dothan AL 75K,Clay,32,75,20030421,12,200126,3,,Marissa Irvin,R,,USA,22.8254620123,201375,,,Shenay Perry,R,,USA,18.7898699521,6-2 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,97,373,187,168
 2003-W-C75-USA-02A-2003,Dothan AL 75K,Clay,32,75,20030421,13,201328,5,,Milagros Sequera,R,,VEN,22.5544147844,200045,,,Tara Snyder,R,,USA,25.9028062971,6-2 4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,110,327,147,223
 2003-W-C75-USA-02A-2003,Dothan AL 75K,Clay,32,75,20030421,14,201409,,,Michaela Pastikova,R,,CZE,23.0663928816,200068,,,Lilia Osterloh,R,,USA,25.0376454483,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,166,193,228,122
 2003-W-C75-USA-02A-2003,Dothan AL 75K,Clay,32,75,20030421,15,200091,,Q,Janet Lee,R,,TPE,26.4941820671,200099,,LL,Sonya Jeyaseelan,R,,CAN,26.9897330595,4-6 6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,236,106,383,45
@@ -9524,20 +9524,20 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-C75-USA-02A-2003,Dothan AL 75K,Clay,32,75,20030421,19,201338,,,Bea Bielik,U,,USA,22.392881588,200729,4,,Lindsay Lee Waters,R,,USA,25.8124572211,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,205,140,102,353
 2003-W-C75-USA-02A-2003,Dothan AL 75K,Clay,32,75,20030421,20,201352,6,,Akiko Morigami,R,,JPN,23.2717316906,201395,,,Teryn Ashley,U,,USA,24.3559206023,7-6(5) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,104,347,178,175
 2003-W-C75-USA-02A-2003,Dothan AL 75K,Clay,32,75,20030421,21,201445,,WC,Viktoria Kutuzova,R,170,UKR,14.6694045175,201340,,,Maria Geznenge,R,,GER,26.1054072553,4-6 7-6(5) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,200,146
-2003-W-C75-USA-02A-2003,Dothan AL 75K,Clay,32,75,20030421,22,200766,,,Jennifer Hopkins,R,,USA,22.1902806297,200126,3,,Marissa Gould,R,,USA,22.8254620123,6-3 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,208,139,97,373
+2003-W-C75-USA-02A-2003,Dothan AL 75K,Clay,32,75,20030421,22,200766,,,Jennifer Hopkins,R,170,USA,22.1902806297,200126,3,,Marissa Irvin,R,,USA,22.8254620123,6-3 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,208,139,97,373
 2003-W-C75-USA-02A-2003,Dothan AL 75K,Clay,32,75,20030421,23,201328,5,,Milagros Sequera,R,,VEN,22.5544147844,201409,,,Michaela Pastikova,R,,CZE,23.0663928816,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,110,327,166,193
 2003-W-C75-USA-02A-2003,Dothan AL 75K,Clay,32,75,20030421,24,200091,,Q,Janet Lee,R,,TPE,26.4941820671,201207,2,,Ansley Cargill,L,,USA,21.2895277207,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,236,106,93,399
 2003-W-C75-USA-02A-2003,Dothan AL 75K,Clay,32,75,20030421,25,201308,7,,Maria Elena Camerin,R,164,ITA,21.0841889117,200720,1,,Dally Randriantefy,R,,MAD,26.1546885695,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,127,271,85,455
 2003-W-C75-USA-02A-2003,Dothan AL 75K,Clay,32,75,20030421,26,201352,6,,Akiko Morigami,R,,JPN,23.2717316906,201338,,,Bea Bielik,U,,USA,22.392881588,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,104,347,205,140
-2003-W-C75-USA-02A-2003,Dothan AL 75K,Clay,32,75,20030421,27,200766,,,Jennifer Hopkins,R,,USA,22.1902806297,201445,,WC,Viktoria Kutuzova,R,170,UKR,14.6694045175,7-6(5) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,208,139,,
+2003-W-C75-USA-02A-2003,Dothan AL 75K,Clay,32,75,20030421,27,200766,,,Jennifer Hopkins,R,170,USA,22.1902806297,201445,,WC,Viktoria Kutuzova,R,170,UKR,14.6694045175,7-6(5) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,208,139,,
 2003-W-C75-USA-02A-2003,Dothan AL 75K,Clay,32,75,20030421,28,201328,5,,Milagros Sequera,R,,VEN,22.5544147844,200091,,Q,Janet Lee,R,,TPE,26.4941820671,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,110,327,236,106
 2003-W-C75-USA-02A-2003,Dothan AL 75K,Clay,32,75,20030421,29,201352,6,,Akiko Morigami,R,,JPN,23.2717316906,201308,7,,Maria Elena Camerin,R,164,ITA,21.0841889117,7-6(3) 3-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,104,347,127,271
-2003-W-C75-USA-02A-2003,Dothan AL 75K,Clay,32,75,20030421,30,201328,5,,Milagros Sequera,R,,VEN,22.5544147844,200766,,,Jennifer Hopkins,R,,USA,22.1902806297,6-1 4-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,110,327,208,139
+2003-W-C75-USA-02A-2003,Dothan AL 75K,Clay,32,75,20030421,30,201328,5,,Milagros Sequera,R,,VEN,22.5544147844,200766,,,Jennifer Hopkins,R,170,USA,22.1902806297,6-1 4-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,110,327,208,139
 2003-W-C75-USA-02A-2003,Dothan AL 75K,Clay,32,75,20030421,31,201352,6,,Akiko Morigami,R,,JPN,23.2717316906,201328,5,,Milagros Sequera,R,,VEN,22.5544147844,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,104,347,110,327
 2003-W-C75-USA-03A-2003,Albuquerque NM 75K,Hard,32,75,20030922,1,200749,1,,Samantha Reeves,R,,USA,24.6789869952,202782,,Q,Lauren Kalvaria,U,,USA,23.0636550308,6-2 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,85,421,366,44
 2003-W-C75-USA-03A-2003,Albuquerque NM 75K,Hard,32,75,20030922,2,201375,,,Shenay Perry,R,,USA,19.2114989733,201815,,WC,Petra Rampre,R,,SLO,23.6714579055,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,154,201,239,100
 2003-W-C75-USA-03A-2003,Albuquerque NM 75K,Hard,32,75,20030922,3,200045,,,Tara Snyder,R,,USA,26.3244353183,202153,,LL,Melanie Marois,R,,CAN,19.5345653662,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,117,284,246,94
-2003-W-C75-USA-03A-2003,Albuquerque NM 75K,Hard,32,75,20030922,4,200031,,,Meilen Tu,R,,USA,25.6783025325,200126,8,,Marissa Gould,R,,USA,23.2470910335,2-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,171,172,108,312
+2003-W-C75-USA-03A-2003,Albuquerque NM 75K,Hard,32,75,20030922,4,200031,,,Meilen Tu,R,,USA,25.6783025325,200126,8,,Marissa Irvin,R,,USA,23.2470910335,2-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,171,172,108,312
 2003-W-C75-USA-03A-2003,Albuquerque NM 75K,Hard,32,75,20030922,5,201328,3,,Milagros Sequera,R,,VEN,22.9760438056,202783,,Q,Andrea Van Den Hurk,U,,NED,24.2409308693,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,101,340,386,40
 2003-W-C75-USA-03A-2003,Albuquerque NM 75K,Hard,32,75,20030922,6,201395,,,Teryn Ashley,U,,USA,24.7775496235,201319,,,Evelyn Fauth,R,,AUT,26.81724846,4-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,131,249,180,166
 2003-W-C75-USA-03A-2003,Albuquerque NM 75K,Hard,32,75,20030922,7,200709,,,Rosana De Los Rios,R,170,PAR,28.0164271047,201318,,,Bethanie Mattek Sands,R,168,USA,18.4996577687,6-4 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,130,251,137,233
@@ -9569,7 +9569,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-SL-AUS-01A-2003,Australian Open,Hard,128,G,20030113,2,202301,,,Sunitha Rao,R,,IND,17.2128678987,201293,,,Catalina Castano,R,171,COL,23.5208761123,6-3 4-6 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,204,149,190,161
 2003-W-SL-AUS-01A-2003,Australian Open,Hard,128,G,20030113,3,201395,,,Teryn Ashley,U,,USA,24.0876112252,204208,,WC,Lauren Cheung,R,,AUS,18.7570157426,6-0 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,196,159,528,22
 2003-W-SL-AUS-01A-2003,Australian Open,Hard,128,G,20030113,4,200774,22,,Vanessa Webb,L,,CAN,26.970568104,200753,,,Cindy Watson,U,,AUS,24.8076659822,6-0 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,138,234,173,183
-2003-W-SL-AUS-01A-2003,Australian Open,Hard,128,G,20030113,5,201328,2,,Milagros Sequera,R,,VEN,22.2861054073,200766,,,Jennifer Hopkins,R,,USA,21.9219712526,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,116,293,154,203
+2003-W-SL-AUS-01A-2003,Australian Open,Hard,128,G,20030113,5,201328,2,,Milagros Sequera,R,,VEN,22.2861054073,200766,,,Jennifer Hopkins,R,170,USA,21.9219712526,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,116,293,154,203
 2003-W-SL-AUS-01A-2003,Australian Open,Hard,128,G,20030113,6,201351,,,Eva Fislova,R,,SVK,21.826146475,200115,,,Brie Rippner,R,,USA,22.9787816564,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,144,222,162,194
 2003-W-SL-AUS-01A-2003,Australian Open,Hard,128,G,20030113,7,202085,,,Galina Fokina,L,,RUS,18.9897330595,201209,,,Selima Sfar,R,,TUN,25.5167693361,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,201,152,151,213
 2003-W-SL-AUS-01A-2003,Australian Open,Hard,128,G,20030113,8,201380,16,,Claudine Schaul,R,,LUX,19.4004106776,200073,,,Julie Pullin,L,,GBR,27.189596167,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,131,245,188,166
@@ -9657,7 +9657,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-SL-FRA-01A-2003,Roland Garros,Clay,128,G,20030526,6,201319,,,Evelyn Fauth,R,,AUT,26.4914442163,201340,,,Maria Geznenge,R,,GER,26.2012320329,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,169,179,203,149
 2003-W-SL-FRA-01A-2003,Roland Garros,Clay,128,G,20030526,7,201361,,,Julia Schruff,R,,GER,20.7748117728,202793,,WC,Emmanuelle Edon,R,,FRA,19.3867214237,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,152,212,422,37
 2003-W-SL-FRA-01A-2003,Roland Garros,Clay,128,G,20030526,8,201086,,,Greta Arn,R,,HUN,24.1177275838,201087,23,,Mashona Washington,R,,USA,26.984257358,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,155,202,135,244
-2003-W-SL-FRA-01A-2003,Roland Garros,Clay,128,G,20030526,9,200749,3,,Samantha Reeves,R,,USA,24.3531827515,200766,,,Jennifer Hopkins,R,,USA,22.2861054073,6-3 RET,3,Q1,,,,,,,,,,,,,,,,,,,,108,334,202,149
+2003-W-SL-FRA-01A-2003,Roland Garros,Clay,128,G,20030526,9,200749,3,,Samantha Reeves,R,,USA,24.3531827515,200766,,,Jennifer Hopkins,R,170,USA,22.2861054073,6-3 RET,3,Q1,,,,,,,,,,,,,,,,,,,,108,334,202,149
 2003-W-SL-FRA-01A-2003,Roland Garros,Clay,128,G,20030526,10,202773,,,Magdelena Zdenovcova,U,,CZE,25.0239561944,201428,,WC,Mathilde Johansson,R,173,FRA,18.0752908966,6-4 1-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,221,130,484,26
 2003-W-SL-FRA-01A-2003,Roland Garros,Clay,128,G,20030526,11,201358,,,Natalia Gussoni,R,,ARG,21.7522245038,202135,,,Vanessa Henke,R,,GER,22.3572895277,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,191,158,209,144
 2003-W-SL-FRA-01A-2003,Roland Garros,Clay,128,G,20030526,12,201328,14,,Milagros Sequera,R,,VEN,22.6502395619,201446,,,Sybille Bammer,L,174,AUT,23.0773442847,1-6 7-5 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,122,288,171,178
@@ -9850,7 +9850,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-SL-USA-01A-2003,US Open,Hard,128,G,20030825,31,201378,,,Stephanie Gehrlein,U,,GER,21.3744010951,200776,,,Angelika Bachmann,R,,GER,24.2765229295,7-5 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,191,153,214,122
 2003-W-SL-USA-01A-2003,US Open,Hard,128,G,20030825,32,201298,,,Zsofia Gubacsi,R,,HUN,22.3846680356,201078,22,,Eugenia Kulikovskaya,U,,RUS,24.6762491444,7-5 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,245,97,131,253
 2003-W-SL-USA-01A-2003,US Open,Hard,128,G,20030825,33,201343,,,Maret Ani,R,176,EST,21.5633127995,201361,9,,Julia Schruff,R,,GER,21.0239561944,6-1 2-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,165,189,114,299
-2003-W-SL-USA-01A-2003,US Open,Hard,128,G,20030825,34,200766,,,Jennifer Hopkins,R,,USA,22.5352498289,202231,,,Shiho Hisamatsu,R,,JPN,24.1423682409,6-0 7-6(2),3,Q1,,,,,,,,,,,,,,,,,,,,235,106,231,107
+2003-W-SL-USA-01A-2003,US Open,Hard,128,G,20030825,34,200766,,,Jennifer Hopkins,R,170,USA,22.5352498289,202231,,,Shiho Hisamatsu,R,,JPN,24.1423682409,6-0 7-6(2),3,Q1,,,,,,,,,,,,,,,,,,,,235,106,231,107
 2003-W-SL-USA-01A-2003,US Open,Hard,128,G,20030825,35,201942,,,Andreea Ehritt Vanc,L,,ROU,29.8836413415,201541,,,Chanelle Scheepers,R,,RSA,19.4496919918,4-6 6-3 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,150,205,201,138
 2003-W-SL-USA-01A-2003,US Open,Hard,128,G,20030825,36,201371,32,,Vera Dushevina,R,180,RUS,16.8843258042,201211,,,Kyra Nagy,R,,HUN,25.6536618754,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,141,229,226,111
 2003-W-SL-USA-01A-2003,US Open,Hard,128,G,20030825,37,201855,,,Adriana Barna,R,,GER,25.2621492129,200103,10,,Evie Dominikovic,R,,AUS,23.2388774812,7-5 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,234,107,115,298
@@ -9897,7 +9897,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-SL-USA-01A-2003,US Open,Hard,128,G,20030825,78,201293,,,Catalina Castano,R,171,COL,24.1341546886,201359,,,Amandine Dulon,U,,FRA,21.4264202601,6-1 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,149,207,263,87
 2003-W-SL-USA-01A-2003,US Open,Hard,128,G,20030825,79,201357,,,Virginie Pichet,R,,FRA,20.5722108145,202280,,,Olga Kalyuzhnaya,U,,RUS,20.681724846,6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,210,126,216,121
 2003-W-SL-USA-01A-2003,US Open,Hard,128,G,20030825,80,201378,,,Stephanie Gehrlein,U,,GER,21.3744010951,201298,,,Zsofia Gubacsi,R,,HUN,22.3846680356,5-7 7-6(5) 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,191,153,245,97
-2003-W-SL-USA-01A-2003,US Open,Hard,128,G,20030825,81,201343,,,Maret Ani,R,176,EST,21.5633127995,200766,,,Jennifer Hopkins,R,,USA,22.5352498289,7-6(8) 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,165,189,235,106
+2003-W-SL-USA-01A-2003,US Open,Hard,128,G,20030825,81,201343,,,Maret Ani,R,176,EST,21.5633127995,200766,,,Jennifer Hopkins,R,170,USA,22.5352498289,7-6(8) 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,165,189,235,106
 2003-W-SL-USA-01A-2003,US Open,Hard,128,G,20030825,82,201371,32,,Vera Dushevina,R,180,RUS,16.8843258042,201942,,,Andreea Ehritt Vanc,L,,ROU,29.8836413415,4-6 6-0 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,141,229,150,205
 2003-W-SL-USA-01A-2003,US Open,Hard,128,G,20030825,83,201289,,,Christina Wheeler,R,,AUS,21.3607118412,201855,,,Adriana Barna,R,,GER,25.2621492129,6-4 4-6 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,171,180,234,107
 2003-W-SL-USA-01A-2003,US Open,Hard,128,G,20030825,84,201377,,,Yuliya Beygelzimer,R,174,UKR,19.8466803559,201363,30,,Gisela Dulko,R,170,ARG,18.5653661875,2-6 6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,145,219,138,231
@@ -9964,7 +9964,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-T1-GER-01A-2003,Berlin,Clay,56,T1,20030505,13,201336,7,,Dinara Safina,R,182,RUS,17.0212183436,202135,,,Vanessa Henke,R,,GER,22.2997946612,7-6(1) 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,68,526,175,180
 2003-W-T1-GER-01A-2003,Berlin,Clay,56,T1,20030505,14,200060,13,,Tathiana Garbin,R,172,ITA,25.8453114305,200031,,,Meilen Tu,R,,USA,25.2950034223,5-7 6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,92,394,105,347
 2003-W-T1-GER-01A-2003,Berlin,Clay,56,T1,20030505,15,201394,,WC,Anna Lena Groenefeld,R,180,GER,17.916495551,201312,8,,Sarah Taylor,R,,USA,21.492128679,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,309,64,75,508
-2003-W-T1-GER-01A-2003,Berlin,Clay,56,T1,20030505,16,201839,,WC,Syna Schreiber,U,,GER,24.4544832307,200126,17,,Marissa Gould,R,,USA,22.8637919233,6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,417,38,96,380
+2003-W-T1-GER-01A-2003,Berlin,Clay,56,T1,20030505,16,201839,,WC,Syna Schreiber,U,,GER,24.4544832307,200126,17,,Marissa Irvin,R,,USA,22.8637919233,6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,417,38,96,380
 2003-W-T1-GER-01A-2003,Berlin,Clay,56,T1,20030505,17,200098,1,,Henrieta Nagyova,R,,SVK,24.386036961,201334,,,Zuzana Ondraskova,R,,CZE,23.0034223135,6-4 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,60,566,95,381
 2003-W-T1-GER-01A-2003,Berlin,Clay,56,T1,20030505,18,200709,18,,Rosana De Los Rios,R,170,PAR,27.6331279945,201493,,WC,Angelique Kerber,L,173,GER,15.2936344969,6-1 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,100,367,,
 2003-W-T1-GER-01A-2003,Berlin,Clay,56,T1,20030505,19,200082,,A,Kristie Boogert,R,,NED,29.3826146475,200765,,,Katalin Marosi,R,,HUN,23.4770704997,6-3 6-7(2) 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,186,167,146,222
@@ -9974,7 +9974,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-T1-GER-01A-2003,Berlin,Clay,56,T1,20030505,23,201336,7,,Dinara Safina,R,182,RUS,17.0212183436,200060,13,,Tathiana Garbin,R,172,ITA,25.8453114305,6-4 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,68,526,92,394
 2003-W-T1-GER-01A-2003,Berlin,Clay,56,T1,20030505,24,201394,,WC,Anna Lena Groenefeld,R,180,GER,17.916495551,201839,,WC,Syna Schreiber,U,,GER,24.4544832307,6-0 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,309,64,417,38
 2003-W-T1-ITA-01A-2003,Rome,Clay,56,T1,20030512,1,200110,1,,Fabiola Zuluaga,R,,COL,24.3422313484,200729,,,Lindsay Lee Waters,R,,USA,25.8699520876,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,45,717,107,354
-2003-W-T1-ITA-01A-2003,Rome,Clay,56,T1,20030512,2,201346,,,Lubomira Kurhajcova,R,,SVK,19.5838466804,200126,22,,Marissa Gould,R,,USA,22.8829568789,7-5 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,114,314,98,380
+2003-W-T1-ITA-01A-2003,Rome,Clay,56,T1,20030512,2,201346,,,Lubomira Kurhajcova,R,,SVK,19.5838466804,200126,22,,Marissa Irvin,R,,USA,22.8829568789,7-5 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,114,314,98,380
 2003-W-T1-ITA-01A-2003,Rome,Clay,56,T1,20030512,3,200104,2,,Emilie Loit,L,,FRA,23.923340178,201942,,A,Andreea Ehritt Vanc,L,,ROU,29.5961670089,6-1 0-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,52,630,144,225
 2003-W-T1-ITA-01A-2003,Rome,Clay,56,T1,20030512,4,200727,,,Adriana Serra Zanetti,R,,ITA,27.1841204654,200709,24,,Rosana De Los Rios,R,170,PAR,27.65229295,7-6(5) 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,138,235,99,380
 2003-W-T1-ITA-01A-2003,Rome,Clay,56,T1,20030512,5,200043,3,,Virginie Razzano,R,173,FRA,20.0,201379,,,Mara Santangelo,R,181,ITA,21.8699520876,6-3 2-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,54,610,124,281
@@ -10135,7 +10135,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-T1-USA-02A-2003,Miami,Hard,96,T1,20030319,4,200069,19,,Nadia Petrova,R,178,RUS,20.7775496235,200050,,,Sandra Kleinova,R,,CZE,24.8624229979,6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,110,333,140,242
 2003-W-T1-USA-02A-2003,Miami,Hard,96,T1,20030319,5,200103,3,,Evie Dominikovic,R,,AUS,22.803559206,200014,,,Tzipi Obziler,R,,ISR,29.9137577002,6-4 4-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,95,382,120,306
 2003-W-T1-USA-02A-2003,Miami,Hard,96,T1,20030319,6,201380,,,Claudine Schaul,R,,LUX,19.5783709788,201292,15,,Martina Sucha,R,,SVK,22.3244353183,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,121,296,113,325
-2003-W-T1-USA-02A-2003,Miami,Hard,96,T1,20030319,7,200084,4,,Asa Svensson,R,,SWE,27.7563312799,200727,,,Adriana Serra Zanetti,R,,ITA,27.0362765229,6-1 7-6(2),3,Q1,,,,,,,,,,,,,,,,,,,,91,396,138,248
+2003-W-T1-USA-02A-2003,Miami,Hard,96,T1,20030319,7,200084,4,,Asa Carlsson,R,,SWE,27.7563312799,200727,,,Adriana Serra Zanetti,R,,ITA,27.0362765229,6-1 7-6(2),3,Q1,,,,,,,,,,,,,,,,,,,,91,396,138,248
 2003-W-T1-USA-02A-2003,Miami,Hard,96,T1,20030319,8,201346,22,,Lubomira Kurhajcova,R,,SVK,19.4360027379,200774,,,Vanessa Webb,L,,CAN,27.1485284052,6-3 7-6(5),3,Q1,,,,,,,,,,,,,,,,,,,,117,318,118,312
 2003-W-T1-USA-02A-2003,Miami,Hard,96,T1,20030319,9,200035,5,,Maria Sanchez Lorenzo,R,,ESP,25.3607118412,201352,,,Akiko Morigami,R,,JPN,23.1813826146,7-5 7-6(4),3,Q1,,,,,,,,,,,,,,,,,,,,93,384,116,321
 2003-W-T1-USA-02A-2003,Miami,Hard,96,T1,20030319,10,201379,,,Mara Santangelo,R,181,ITA,21.7221081451,201328,21,,Milagros Sequera,R,,VEN,22.4640657084,6-0 7-6(2),3,Q1,,,,,,,,,,,,,,,,,,,,129,257,115,322
@@ -10156,7 +10156,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-T1-USA-02A-2003,Miami,Hard,96,T1,20030319,25,201087,,,Mashona Washington,R,,USA,26.7980835044,200729,17,,Lindsay Lee Waters,R,,USA,25.7221081451,4-6 6-2 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,128,259,107,340
 2003-W-T1-USA-02A-2003,Miami,Hard,96,T1,20030319,26,200777,2,,Marta Marrero,R,,ESP,20.1697467488,200069,19,,Nadia Petrova,R,178,RUS,20.7775496235,3-6 7-6(5) 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,92,389,110,333
 2003-W-T1-USA-02A-2003,Miami,Hard,96,T1,20030319,27,201380,,,Claudine Schaul,R,,LUX,19.5783709788,200103,3,,Evie Dominikovic,R,,AUS,22.803559206,6-4 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,121,296,95,382
-2003-W-T1-USA-02A-2003,Miami,Hard,96,T1,20030319,28,200084,4,,Asa Svensson,R,,SWE,27.7563312799,201346,22,,Lubomira Kurhajcova,R,,SVK,19.4360027379,4-6 6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,91,396,117,318
+2003-W-T1-USA-02A-2003,Miami,Hard,96,T1,20030319,28,200084,4,,Asa Carlsson,R,,SWE,27.7563312799,201346,22,,Lubomira Kurhajcova,R,,SVK,19.4360027379,4-6 6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,91,396,117,318
 2003-W-T1-USA-02A-2003,Miami,Hard,96,T1,20030319,29,200035,5,,Maria Sanchez Lorenzo,R,,ESP,25.3607118412,201379,,,Mara Santangelo,R,181,ITA,21.7221081451,3-6 7-5 7-6(3),3,Q2,,,,,,,,,,,,,,,,,,,,93,384,129,257
 2003-W-T1-USA-02A-2003,Miami,Hard,96,T1,20030319,30,201347,,WC,Jelena Jankovic,R,177,SRB,18.0506502396,201375,,WC,Shenay Perry,R,,USA,18.6995208761,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,147,218,187,165
 2003-W-T1-USA-02A-2003,Miami,Hard,96,T1,20030319,31,201371,,WC,Vera Dushevina,R,180,RUS,16.4490075291,201334,,,Zuzana Ondraskova,R,,CZE,22.8747433265,6-4 1-6 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,392,41,123,283
@@ -10196,19 +10196,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-T2-AUS-01A-2003,Sydney,Hard,28,T2,20030106,5,200723,2,,Iva Majoli,R,,CRO,25.401779603,200025,,,Ludmila Cervanova,R,,SVK,23.227926078,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,32,1007,104,341
 2003-W-T2-AUS-01A-2003,Sydney,Hard,28,T2,20030106,6,201352,,,Akiko Morigami,R,,JPN,22.984257358,200101,,,Jana Kandarr,R,,GER,26.2915811088,4-6 6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,141,231,128,249
 2003-W-T2-AUS-01A-2003,Sydney,Hard,28,T2,20030106,7,200052,,,Olga Barabanschikova,R,,BLR,23.1786447639,201942,,,Andreea Ehritt Vanc,L,,ROU,29.2511978097,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,184,175,146,219
-2003-W-T2-AUS-01A-2003,Sydney,Hard,28,T2,20030106,8,200126,7,,Marissa Gould,R,,USA,22.5379876797,202258,,WC,Jaslyn Hewitt,R,,AUS,19.8685831622,6-2 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,77,485,460,29
+2003-W-T2-AUS-01A-2003,Sydney,Hard,28,T2,20030106,8,200126,7,,Marissa Irvin,R,,USA,22.5379876797,202258,,WC,Jaslyn Hewitt,R,,AUS,19.8685831622,6-2 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,77,485,460,29
 2003-W-T2-AUS-01A-2003,Sydney,Hard,28,T2,20030106,9,200697,3,,Janette Husarova,R,,SVK,28.59137577,200035,,,Maria Sanchez Lorenzo,R,,ESP,25.1635865845,6-4 3-6 2-0 RET,3,Q1,,,,,,,,,,,,,,,,,,,,33,978,93,392
 2003-W-T2-AUS-01A-2003,Sydney,Hard,28,T2,20030106,10,201354,,,Libuse Prusova,R,,CZE,23.485284052,204208,,WC,Lauren Cheung,R,,AUS,18.7378507871,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,107,337,539,21
 2003-W-T2-AUS-01A-2003,Sydney,Hard,28,T2,20030106,11,201346,,,Lubomira Kurhajcova,R,,SVK,19.2388774812,200050,,,Sandra Kleinova,R,,CZE,24.6652977413,5-7 6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,112,317,134,242
 2003-W-T2-AUS-01A-2003,Sydney,Hard,28,T2,20030106,12,200028,8,,Maureen Drake,R,,CAN,31.7973990418,200082,,,Kristie Boogert,R,,NED,29.0568104038,6-0 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,100,371,140,232
-2003-W-T2-AUS-01A-2003,Sydney,Hard,28,T2,20030106,13,200122,4,,Tina Pisnik,R,,SLO,21.87816564,200766,,,Jennifer Hopkins,R,,USA,21.9028062971,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,56,642,145,220
+2003-W-T2-AUS-01A-2003,Sydney,Hard,28,T2,20030106,13,200122,4,,Tina Pisnik,R,,SLO,21.87816564,200766,,,Jennifer Hopkins,R,170,USA,21.9028062971,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,56,642,145,220
 2003-W-T2-AUS-01A-2003,Sydney,Hard,28,T2,20030106,14,200729,,,Lindsay Lee Waters,R,,USA,25.5249828884,201317,,,Aniko Kapros,R,,HUN,19.1540041068,4-6 6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,120,275,108,333
 2003-W-T2-AUS-01A-2003,Sydney,Hard,28,T2,20030106,15,201344,,,Klara Koukalova,R,166,CZE,20.8651608487,201339,,,Renata Voracova,R,,CZE,19.2525667351,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,115,280,122,266
 2003-W-T2-AUS-01A-2003,Sydney,Hard,28,T2,20030106,16,200749,,,Samantha Reeves,R,,USA,23.9698836413,201335,5,,Myriam Casanova,R,,SUI,17.5468856947,1-6 6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,110,327,53,666
 2003-W-T2-AUS-01A-2003,Sydney,Hard,28,T2,20030106,17,200020,1,,Lisa Raymond,R,165,USA,29.4072553046,201300,,,Maria Emilia Salerni,R,,ARG,19.6495550992,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,30,1048,129,248
 2003-W-T2-AUS-01A-2003,Sydney,Hard,28,T2,20030106,18,201207,,,Ansley Cargill,L,,USA,21.0020533881,200044,6,,Denisa Chladkova,R,,CZE,23.909650924,6-2 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,119,276,62,572
 2003-W-T2-AUS-01A-2003,Sydney,Hard,28,T2,20030106,19,201352,,,Akiko Morigami,R,,JPN,22.984257358,200723,2,,Iva Majoli,R,,CRO,25.401779603,7-6(5) 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,141,231,32,1007
-2003-W-T2-AUS-01A-2003,Sydney,Hard,28,T2,20030106,20,200052,,,Olga Barabanschikova,R,,BLR,23.1786447639,200126,7,,Marissa Gould,R,,USA,22.5379876797,6-2 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,184,175,77,485
+2003-W-T2-AUS-01A-2003,Sydney,Hard,28,T2,20030106,20,200052,,,Olga Barabanschikova,R,,BLR,23.1786447639,200126,7,,Marissa Irvin,R,,USA,22.5379876797,6-2 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,184,175,77,485
 2003-W-T2-AUS-01A-2003,Sydney,Hard,28,T2,20030106,21,200697,3,,Janette Husarova,R,,SVK,28.59137577,201354,,,Libuse Prusova,R,,CZE,23.485284052,2-6 6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,33,978,107,337
 2003-W-T2-AUS-01A-2003,Sydney,Hard,28,T2,20030106,22,201346,,,Lubomira Kurhajcova,R,,SVK,19.2388774812,200028,8,,Maureen Drake,R,,CAN,31.7973990418,6-1 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,112,317,100,371
 2003-W-T2-AUS-01A-2003,Sydney,Hard,28,T2,20030106,23,200729,,,Lindsay Lee Waters,R,,USA,25.5249828884,200122,4,,Tina Pisnik,R,,SLO,21.87816564,6-3 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,120,275,56,642
@@ -10302,7 +10302,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-T2-CHN-01A-2003,Shanghai,Hard,28,T2,20030915,27,201347,7,,Jelena Jankovic,R,177,SRB,18.5434633812,201367,3,,Arantxa Parra Santonja,R,,ESP,20.848733744,7-5 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,124,270,86,411
 2003-W-T2-CHN-01A-2003,Shanghai,Hard,28,T2,20030915,28,201292,6,,Martina Sucha,R,,SVK,22.81724846,201207,4,,Ansley Cargill,L,,USA,21.6919917864,6-2 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,118,286,94,355
 2003-W-T2-FRA-01A-2003,Paris,Carpet,28,T2,20030203,1,200044,1,,Denisa Chladkova,R,,CZE,23.9863107461,201446,,,Sybille Bammer,L,174,AUT,22.7707049966,4-6 6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,48,724,186,172
-2003-W-T2-FRA-01A-2003,Paris,Carpet,28,T2,20030203,2,200084,,,Asa Svensson,R,,SWE,27.6358658453,202793,,WC,Emmanuelle Edon,R,,FRA,19.0800821355,7-5 6-7(8) 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,91,394,418,35
+2003-W-T2-FRA-01A-2003,Paris,Carpet,28,T2,20030203,2,200084,,,Asa Carlsson,R,,SWE,27.6358658453,202793,,WC,Emmanuelle Edon,R,,FRA,19.0800821355,7-5 6-7(8) 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,91,394,418,35
 2003-W-T2-FRA-01A-2003,Paris,Carpet,28,T2,20030203,3,201298,,,Zsofia Gubacsi,R,,HUN,21.8288843258,201077,,WC,Sophie Lefevre,R,,FRA,21.9438740589,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,122,285,293,67
 2003-W-T2-FRA-01A-2003,Paris,Carpet,28,T2,20030203,4,200035,,,Maria Sanchez Lorenzo,R,,ESP,25.2402464066,201310,8,,Martina Muller,R,,GER,20.3148528405,6-4 2-6 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,93,392,80,438
 2003-W-T2-FRA-01A-2003,Paris,Carpet,28,T2,20030203,5,200090,2,,Anca Barna,L,,GER,25.7248459959,201334,,,Zuzana Ondraskova,R,,CZE,22.7542778919,7-6(2) 7-6(5),3,Q1,,,,,,,,,,,,,,,,,,,,56,631,132,261
@@ -10317,7 +10317,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-T2-FRA-01A-2003,Paris,Carpet,28,T2,20030203,14,200082,,,Kristie Boogert,R,,NED,29.1334702259,206668,,A,Nina Wennerstrom,U,,SWE,23.8302532512,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,177,179,1239,0
 2003-W-T2-FRA-01A-2003,Paris,Carpet,28,T2,20030203,15,200777,,,Marta Marrero,R,,ESP,20.0492813142,200720,,,Dally Randriantefy,R,,MAD,25.9438740589,2-6 6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,85,417,101,367
 2003-W-T2-FRA-01A-2003,Paris,Carpet,28,T2,20030203,16,200740,,,Elena Tatarkova,L,,UKR,26.4503764545,201331,5,,Iveta Benesova,L,170,CZE,20.0054757016,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,191,166,75,472
-2003-W-T2-FRA-01A-2003,Paris,Carpet,28,T2,20030203,17,200044,1,,Denisa Chladkova,R,,CZE,23.9863107461,200084,,,Asa Svensson,R,,SWE,27.6358658453,6-2 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,48,724,91,394
+2003-W-T2-FRA-01A-2003,Paris,Carpet,28,T2,20030203,17,200044,1,,Denisa Chladkova,R,,CZE,23.9863107461,200084,,,Asa Carlsson,R,,SWE,27.6358658453,6-2 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,48,724,91,394
 2003-W-T2-FRA-01A-2003,Paris,Carpet,28,T2,20030203,18,200035,,,Maria Sanchez Lorenzo,R,,ESP,25.2402464066,201298,,,Zsofia Gubacsi,R,,HUN,21.8288843258,6-3 3-6 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,93,392,122,285
 2003-W-T2-FRA-01A-2003,Paris,Carpet,28,T2,20030203,19,200015,,,Petra Mandula,R,,HUN,25.0458590007,200090,2,,Anca Barna,L,,GER,25.7248459959,6-1 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,94,391,56,631
 2003-W-T2-FRA-01A-2003,Paris,Carpet,28,T2,20030203,20,201086,,,Greta Arn,R,,HUN,23.8110882957,201333,6,,Angelika Roesch,R,,GER,25.6563997262,6-2 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,109,330,76,469
@@ -10477,7 +10477,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-T2-USA-01A-2003,Scottsdale,Hard,28,T2,20030224,7,201075,,,Liezel Huber,R,180,USA,26.5106091718,206573,,WC,Alessia Nikolaeva,U,,BLR,21.7275838467,6-0 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,250,100,,
 2003-W-T2-USA-01A-2003,Scottsdale,Hard,28,T2,20030224,8,202758,,WC,Jennifer Russell,U,,USA,24.5503080082,201352,,,Akiko Morigami,R,,JPN,23.1184120465,W/O,3,Q1,,,,,,,,,,,,,,,,,,,,485,26,118,307
 2003-W-T2-USA-01A-2003,Scottsdale,Hard,28,T2,20030224,9,201321,8,,Antonella Serra Zanetti,R,,ITA,22.5845311431,204772,,WC,Liina Suurvarik,U,,EST,22.3572895277,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,95,376,,
-2003-W-T2-USA-01A-2003,Scottsdale,Hard,28,T2,20030224,10,200126,4,,Marissa Gould,R,,USA,22.6721423682,201086,,,Greta Arn,R,,HUN,23.8685831622,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,76,472,121,283
+2003-W-T2-USA-01A-2003,Scottsdale,Hard,28,T2,20030224,10,200126,4,,Marissa Irvin,R,,USA,22.6721423682,201086,,,Greta Arn,R,,HUN,23.8685831622,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,76,472,121,283
 2003-W-T2-USA-01A-2003,Scottsdale,Hard,28,T2,20030224,11,201374,,,Gabriela Lastra,R,,USA,22.7159479808,201323,,,Saori Obata,L,,JPN,24.8405201916,W/O,3,Q1,,,,,,,,,,,,,,,,,,,,242,107,107,343
 2003-W-T2-USA-01A-2003,Scottsdale,Hard,28,T2,20030224,12,200729,,,Lindsay Lee Waters,R,,USA,25.659137577,201347,,,Jelena Jankovic,R,177,SRB,17.9876796715,6-4 1-2 RET,3,Q1,,,,,,,,,,,,,,,,,,,,110,336,145,234
 2003-W-T2-USA-01A-2003,Scottsdale,Hard,28,T2,20030224,13,201312,6,,Sarah Taylor,R,,USA,21.3004791239,201301,,,Camille Pin,U,162,FRA,21.5003422313,6-4 5-7 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,85,423,154,207
@@ -10487,12 +10487,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-T2-USA-01A-2003,Scottsdale,Hard,28,T2,20030224,17,200770,,,Stephanie Cohen Aloro,R,175,FRA,19.9397672827,201207,,,Ansley Cargill,L,,USA,21.1362080767,6-2 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,105,345,111,329
 2003-W-T2-USA-01A-2003,Scottsdale,Hard,28,T2,20030224,18,200773,3,,Stephanie Foretz Gacon,R,166,FRA,21.8124572211,201075,,,Liezel Huber,R,180,USA,26.5106091718,6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,62,583,250,100
 2003-W-T2-USA-01A-2003,Scottsdale,Hard,28,T2,20030224,19,201321,8,,Antonella Serra Zanetti,R,,ITA,22.5845311431,202758,,WC,Jennifer Russell,U,,USA,24.5503080082,6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,95,376,485,26
-2003-W-T2-USA-01A-2003,Scottsdale,Hard,28,T2,20030224,20,200126,4,,Marissa Gould,R,,USA,22.6721423682,201374,,,Gabriela Lastra,R,,USA,22.7159479808,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,76,472,242,107
+2003-W-T2-USA-01A-2003,Scottsdale,Hard,28,T2,20030224,20,200126,4,,Marissa Irvin,R,,USA,22.6721423682,201374,,,Gabriela Lastra,R,,USA,22.7159479808,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,76,472,242,107
 2003-W-T2-USA-01A-2003,Scottsdale,Hard,28,T2,20030224,21,200729,,,Lindsay Lee Waters,R,,USA,25.659137577,201312,6,,Sarah Taylor,R,,USA,21.3004791239,6-4 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,110,336,85,423
 2003-W-T2-USA-01A-2003,Scottsdale,Hard,28,T2,20030224,22,200043,1,,Virginie Razzano,R,173,FRA,19.7891854894,200121,5,,Alina Jidkova,R,,RUS,26.0999315537,7-5 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,60,605,100,363
 2003-W-T2-USA-01A-2003,Scottsdale,Hard,28,T2,20030224,23,201078,9,,Eugenia Kulikovskaya,U,,RUS,24.1779603012,200770,,,Stephanie Cohen Aloro,R,175,FRA,19.9397672827,1-6 6-2 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,102,350,105,345
 2003-W-T2-USA-01A-2003,Scottsdale,Hard,28,T2,20030224,24,201321,8,,Antonella Serra Zanetti,R,,ITA,22.5845311431,200773,3,,Stephanie Foretz Gacon,R,166,FRA,21.8124572211,7-6(7) 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,95,376,62,583
-2003-W-T2-USA-01A-2003,Scottsdale,Hard,28,T2,20030224,25,200126,4,,Marissa Gould,R,,USA,22.6721423682,200729,,,Lindsay Lee Waters,R,,USA,25.659137577,1-6 6-4 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,76,472,110,336
+2003-W-T2-USA-01A-2003,Scottsdale,Hard,28,T2,20030224,25,200126,4,,Marissa Irvin,R,,USA,22.6721423682,200729,,,Lindsay Lee Waters,R,,USA,25.659137577,1-6 6-4 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,76,472,110,336
 2003-W-T2-USA-02A-2003,Amelia Island,Clay,48,T2,20030414,1,200123,1,,Marlene Weingartner,R,,GER,23.2032854209,201339,,,Renata Voracova,R,,CZE,19.5208761123,6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,84,451,129,264
 2003-W-T2-USA-02A-2003,Amelia Island,Clay,48,T2,20030414,2,200024,,,Maria Vento Kabchi,R,,VEN,28.8898015058,200729,6,,Lindsay Lee Waters,R,,USA,25.7932922656,4-6 6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,148,218,106,353
 2003-W-T2-USA-02A-2003,Amelia Island,Clay,48,T2,20030414,3,201360,,,Julia Vakulenko,R,183,UKR,19.7618069815,201207,2,,Ansley Cargill,L,,USA,21.2703627652,3-6 7-5 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,125,273,96,399
@@ -10506,7 +10506,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-T2-USA-02A-2003,Amelia Island,Clay,48,T2,20030414,11,201352,8,,Akiko Morigami,R,,JPN,23.2525667351,200069,3,,Nadia Petrova,R,178,RUS,20.848733744,4-6 1-0 RET,3,Q2,,,,,,,,,,,,,,,,,,,,115,320,101,384
 2003-W-T2-USA-02A-2003,Amelia Island,Clay,48,T2,20030414,12,201328,9,,Milagros Sequera,R,,VEN,22.5352498289,200749,7,,Samantha Reeves,R,,USA,24.2381930185,6-4 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,113,323,118,306
 2003-W-T2-USA-03A-2003,Stanford,Hard,28,T2,20030721,1,201374,,,Gabriela Lastra,R,,USA,23.1184120465,203975,,,Aneta Soukup,R,,CAN,24.5557837098,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,218,121,620,14
-2003-W-T2-USA-03A-2003,Stanford,Hard,28,T2,20030721,2,201342,,,Alexandra Podkolzina,R,,USA,17.8809034908,204085,,,Leslie Cavanaugh   Rose,U,,USA,31.4442162902,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,555,19,,
+2003-W-T2-USA-03A-2003,Stanford,Hard,28,T2,20030721,2,201342,,,Alexandra Podkolzina,R,,USA,17.8809034908,204085,,,Leslie Cavanaugh Rose,U,,USA,31.4442162902,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,555,19,,
 2003-W-T2-USA-03A-2003,Stanford,Hard,28,T2,20030721,3,201401,,,Abigail Spears,R,,USA,22.0232717317,202948,,,Elizabeth Schmidt,U,,USA,25.9082819986,6-2 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,304,66,668,12
 2003-W-T2-USA-03A-2003,Stanford,Hard,28,T2,20030721,4,203015,,,Amanda Augustus,L,,USA,25.5003422313,202838,,WC,Christina Fusano,U,,USA,22.6447638604,6-4 1-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,541,20,920,5
 2003-W-T2-USA-03A-2003,Stanford,Hard,28,T2,20030721,5,202316,,WC,Maika Ozaki,U,,JPN,18.7351129363,212858,,,Jamie Lieberman,U,,USA,15.2635181383,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,338,54,,
@@ -10514,7 +10514,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-T2-USA-03A-2003,Stanford,Hard,28,T2,20030721,7,201376,,,Angela Haynes,L,,USA,18.8117727584,203072,,WC,Jennifer Poulos,U,,USA,29.5605749487,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,308,65,,
 2003-W-T2-USA-03A-2003,Stanford,Hard,28,T2,20030721,8,201395,9,,Teryn Ashley,U,,USA,24.605065024,201374,,,Gabriela Lastra,R,,USA,23.1184120465,6-2 3-6 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,204,137,218,121
 2003-W-T2-USA-03A-2003,Stanford,Hard,28,T2,20030721,9,200121,5,,Alina Jidkova,R,,RUS,26.5023956194,201342,,,Alexandra Podkolzina,R,,USA,17.8809034908,6-2 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,109,325,555,19
-2003-W-T2-USA-03A-2003,Stanford,Hard,28,T2,20030721,10,201401,,,Abigail Spears,R,,USA,22.0232717317,200126,2,,Marissa Gould,R,,USA,23.0746064339,7-5 6-7(5) 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,304,66,84,443
+2003-W-T2-USA-03A-2003,Stanford,Hard,28,T2,20030721,10,201401,,,Abigail Spears,R,,USA,22.0232717317,200126,2,,Marissa Irvin,R,,USA,23.0746064339,7-5 6-7(5) 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,304,66,84,443
 2003-W-T2-USA-03A-2003,Stanford,Hard,28,T2,20030721,11,200045,8,,Tara Snyder,R,,USA,26.1519507187,204005,,,Kim Grant,R,,RSA,32.2217659138,6-2 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,162,202,678,12
 2003-W-T2-USA-03A-2003,Stanford,Hard,28,T2,20030721,12,203015,,,Amanda Augustus,L,,USA,25.5003422313,201207,3,,Ansley Cargill,L,,USA,21.5386721424,W/O,3,Q2,,,,,,,,,,,,,,,,,,,,541,20,93,391
 2003-W-T2-USA-03A-2003,Stanford,Hard,28,T2,20030721,13,200024,6,,Maria Vento Kabchi,R,,VEN,29.158110883,202316,,WC,Maika Ozaki,U,,JPN,18.7351129363,6-3 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,132,265,338,54
@@ -10525,16 +10525,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-T2-USA-03A-2003,Stanford,Hard,28,T2,20030721,18,200024,6,,Maria Vento Kabchi,R,,VEN,29.158110883,203015,,,Amanda Augustus,L,,USA,25.5003422313,6-4 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,132,265,541,20
 2003-W-T2-USA-03A-2003,Stanford,Hard,28,T2,20030721,19,201376,,,Angela Haynes,L,,USA,18.8117727584,201360,4,WC,Julia Vakulenko,R,183,UKR,20.0301163587,1-6 6-2 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,308,65,100,357
 2003-W-T2-USA-04A-2003,San Diego,Hard,48,T2,20030728,1,201087,,A,Mashona Washington,R,,USA,27.1567419576,201206,,WC,Allison Bradshaw,R,,USA,22.6995208761,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,157,205,409,37
-2003-W-T2-USA-04A-2003,San Diego,Hard,48,T2,20030728,2,200126,,,Marissa Gould,R,,USA,23.0937713895,200754,7,,Jill Craybas,R,160,USA,29.0650239562,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,99,359,72,475
+2003-W-T2-USA-04A-2003,San Diego,Hard,48,T2,20030728,2,200126,,,Marissa Irvin,R,,USA,23.0937713895,200754,7,,Jill Craybas,R,160,USA,29.0650239562,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,99,359,72,475
 2003-W-T2-USA-04A-2003,San Diego,Hard,48,T2,20030728,3,200043,2,,Virginie Razzano,R,173,FRA,20.2108145106,203015,,A,Amanda Augustus,L,,USA,25.5195071869,6-0 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,55,648,489,25
 2003-W-T2-USA-04A-2003,San Diego,Hard,48,T2,20030728,4,200036,6,,Nicole Pratt,R,,AUS,30.3956194387,201360,,,Julia Vakulenko,R,183,UKR,20.0492813142,3-6 4-0 RET,3,Q1,,,,,,,,,,,,,,,,,,,,70,478,97,364
-2003-W-T2-USA-04A-2003,San Diego,Hard,48,T2,20030728,5,201085,3,,Shinobu Asagoe,R,,JPN,27.0800821355,202371,,WC,Lindsey Nelson,R,,USA,17.6892539357,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,58,628,,
+2003-W-T2-USA-04A-2003,San Diego,Hard,48,T2,20030728,5,201085,3,,Shinobu Asagoe,R,170,JPN,27.0800821355,202371,,WC,Lindsey Nelson,R,,USA,17.6892539357,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,58,628,,
 2003-W-T2-USA-04A-2003,San Diego,Hard,48,T2,20030728,6,201323,,,Saori Obata,L,,JPN,25.2621492129,201312,8,,Sarah Taylor,R,,USA,21.7221081451,6-3 4-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,86,408,81,439
 2003-W-T2-USA-04A-2003,San Diego,Hard,48,T2,20030728,7,200031,,,Meilen Tu,R,,USA,25.5249828884,201352,4,,Akiko Morigami,R,,JPN,23.5400410678,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,139,228,68,494
 2003-W-T2-USA-04A-2003,San Diego,Hard,48,T2,20030728,8,200121,,,Alina Jidkova,R,,RUS,26.5215605749,201327,5,,Angelique Widjaja,R,,INA,18.6228610541,6-3 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,115,308,69,491
-2003-W-T2-USA-04A-2003,San Diego,Hard,48,T2,20030728,9,200126,,,Marissa Gould,R,,USA,23.0937713895,201087,,A,Mashona Washington,R,,USA,27.1567419576,6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,99,359,157,205
+2003-W-T2-USA-04A-2003,San Diego,Hard,48,T2,20030728,9,200126,,,Marissa Irvin,R,,USA,23.0937713895,201087,,A,Mashona Washington,R,,USA,27.1567419576,6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,99,359,157,205
 2003-W-T2-USA-04A-2003,San Diego,Hard,48,T2,20030728,10,200043,2,,Virginie Razzano,R,173,FRA,20.2108145106,200036,6,,Nicole Pratt,R,,AUS,30.3956194387,6-3 7-6(3),3,Q2,,,,,,,,,,,,,,,,,,,,55,648,70,478
-2003-W-T2-USA-04A-2003,San Diego,Hard,48,T2,20030728,11,201085,3,,Shinobu Asagoe,R,,JPN,27.0800821355,201323,,,Saori Obata,L,,JPN,25.2621492129,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,58,628,86,408
+2003-W-T2-USA-04A-2003,San Diego,Hard,48,T2,20030728,11,201085,3,,Shinobu Asagoe,R,170,JPN,27.0800821355,201323,,,Saori Obata,L,,JPN,25.2621492129,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,58,628,86,408
 2003-W-T2-USA-04A-2003,San Diego,Hard,48,T2,20030728,12,200121,,,Alina Jidkova,R,,RUS,26.5215605749,200031,,,Meilen Tu,R,,USA,25.5249828884,6-2 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,115,308,139,228
 2003-W-T2-USA-05A-2003,Los Angeles,Hard,48,T2,20030804,1,201327,1,,Angelique Widjaja,R,,INA,18.6420260096,200031,,,Meilen Tu,R,,USA,25.5441478439,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,71,491,145,217
 2003-W-T2-USA-05A-2003,Los Angeles,Hard,48,T2,20030804,2,201367,6,,Arantxa Parra Santonja,R,,ESP,20.733744011,201087,,,Mashona Washington,R,,USA,27.1759069131,6-3 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,101,352,150,209
@@ -10543,11 +10543,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-T2-USA-05A-2003,Los Angeles,Hard,48,T2,20030804,5,200754,3,,Jill Craybas,R,160,USA,29.0841889117,202262,,WC,Katrina Nimmers,U,,USA,23.1786447639,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,74,469,,
 2003-W-T2-USA-05A-2003,Los Angeles,Hard,48,T2,20030804,6,200045,,,Tara Snyder,R,,USA,26.1902806297,201206,,A,Allison Bradshaw,R,,USA,22.7186858316,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,155,206,407,37
 2003-W-T2-USA-05A-2003,Los Angeles,Hard,48,T2,20030804,7,200042,4,,Els Callens,R,,BEL,32.9555099247,200087,,,Seda Noorlander,R,,NED,29.2019164956,3-6 6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,79,446,119,298
-2003-W-T2-USA-05A-2003,Los Angeles,Hard,48,T2,20030804,8,200126,7,,Marissa Gould,R,,USA,23.112936345,201307,,WC,Amber Liu,R,,USA,19.0773442847,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,99,354,291,73
+2003-W-T2-USA-05A-2003,Los Angeles,Hard,48,T2,20030804,8,200126,7,,Marissa Irvin,R,,USA,23.112936345,201307,,WC,Amber Liu,R,,USA,19.0773442847,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,99,354,291,73
 2003-W-T2-USA-05A-2003,Los Angeles,Hard,48,T2,20030804,9,201367,6,,Arantxa Parra Santonja,R,,ESP,20.733744011,201327,1,,Angelique Widjaja,R,,INA,18.6420260096,3-6 6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,101,352,71,491
 2003-W-T2-USA-05A-2003,Los Angeles,Hard,48,T2,20030804,10,200036,2,,Nicole Pratt,R,,AUS,30.4147843943,200729,8,,Lindsay Lee Waters,R,,USA,26.0999315537,6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,70,506,114,309
 2003-W-T2-USA-05A-2003,Los Angeles,Hard,48,T2,20030804,11,200045,,,Tara Snyder,R,,USA,26.1902806297,200754,3,,Jill Craybas,R,160,USA,29.0841889117,2-6 6-1 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,155,206,74,469
-2003-W-T2-USA-05A-2003,Los Angeles,Hard,48,T2,20030804,12,200042,4,,Els Callens,R,,BEL,32.9555099247,200126,7,,Marissa Gould,R,,USA,23.112936345,6-4 3-6 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,79,446,99,354
+2003-W-T2-USA-05A-2003,Los Angeles,Hard,48,T2,20030804,12,200042,4,,Els Callens,R,,BEL,32.9555099247,200126,7,,Marissa Irvin,R,,USA,23.112936345,6-4 3-6 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,79,446,99,354
 2003-W-T2-USA-06A-2003,New Haven,Hard,28,T2,20030818,1,200700,1,,Silvia Farina Elia,R,,ITA,31.3073237509,203012,,WC,Milangela Morales,R,,USA,21.6892539357,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,21,1375,446,32
 2003-W-T2-USA-06A-2003,New Haven,Hard,28,T2,20030818,2,201367,,,Arantxa Parra Santonja,R,,ESP,20.772073922,200749,,,Samantha Reeves,R,,USA,24.5831622177,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,90,392,84,420
 2003-W-T2-USA-06A-2003,New Haven,Hard,28,T2,20030818,3,201335,,,Myriam Casanova,R,,SUI,18.160164271,201376,,WC,Angela Haynes,L,,USA,18.8884325804,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,86,413,221,116
@@ -10569,7 +10569,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-T2-USA-06A-2003,New Haven,Hard,28,T2,20030818,19,201380,,,Claudine Schaul,R,,LUX,19.9945242984,200007,,,Silvija Talaja,R,,CRO,25.5906913073,6-3 5-7 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,103,348,70,515
 2003-W-T2-USA-06A-2003,New Haven,Hard,28,T2,20030818,20,201309,,,Tatiana Perebiynis,R,,UKR,20.6735112936,201464,,A,Nathalie Vierin,U,,ITA,20.8405201916,6-0 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,89,393,139,234
 2003-W-T2-USA-06A-2003,New Haven,Hard,28,T2,20030818,21,201294,6,,Marion Bartoli,R,170,FRA,18.8747433265,201372,,WC,Theresa Logar,L,,USA,18.4394250513,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,45,761,,
-2003-W-T2-USA-06A-2003,New Haven,Hard,28,T2,20030818,22,200126,,,Marissa Gould,R,,USA,23.151266256,201346,,,Lubomira Kurhajcova,R,,SVK,19.8521560575,3-6 7-5 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,112,304,105,341
+2003-W-T2-USA-06A-2003,New Haven,Hard,28,T2,20030818,22,200126,,,Marissa Irvin,R,,USA,23.151266256,201346,,,Lubomira Kurhajcova,R,,SVK,19.8521560575,3-6 7-5 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,112,304,105,341
 2003-W-T2-USA-06A-2003,New Haven,Hard,28,T2,20030818,23,200720,,,Dally Randriantefy,R,,MAD,26.4804928131,200045,,A,Tara Snyder,R,,USA,26.2286105407,6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,82,432,134,247
 2003-W-T2-USA-06A-2003,New Haven,Hard,28,T2,20030818,24,200072,9,,Cara Black,R,167,ZIM,24.4982888433,200042,,,Els Callens,R,,BEL,32.9938398357,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,52,692,81,436
 2003-W-T2-USA-06A-2003,New Haven,Hard,28,T2,20030818,25,200700,1,,Silvia Farina Elia,R,,ITA,31.3073237509,201367,,,Arantxa Parra Santonja,R,,ESP,20.772073922,7-6(7) 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,21,1375,90,392
@@ -10582,14 +10582,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-T2-USA-06A-2003,New Haven,Hard,28,T2,20030818,32,200122,8,,Tina Pisnik,R,,SLO,22.4914442163,201302,,,Clarisa Fernandez,L,179,ARG,21.9712525667,4-6 7-6(7) 7-6(3),3,Q2,,,,,,,,,,,,,,,,,,,,49,720,76,459
 2003-W-T2-USA-06A-2003,New Haven,Hard,28,T2,20030818,33,200008,5,,Alicia Molik,R,182,AUS,22.5544147844,200090,,,Anca Barna,L,,GER,26.2614647502,6-3 2-6 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,46,754,66,563
 2003-W-T2-USA-06A-2003,New Haven,Hard,28,T2,20030818,34,201309,,,Tatiana Perebiynis,R,,UKR,20.6735112936,201380,,,Claudine Schaul,R,,LUX,19.9945242984,7-6(5) 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,89,393,103,348
-2003-W-T2-USA-06A-2003,New Haven,Hard,28,T2,20030818,35,200126,,,Marissa Gould,R,,USA,23.151266256,201294,6,,Marion Bartoli,R,170,FRA,18.8747433265,6-2 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,112,304,45,761
+2003-W-T2-USA-06A-2003,New Haven,Hard,28,T2,20030818,35,200126,,,Marissa Irvin,R,,USA,23.151266256,201294,6,,Marion Bartoli,R,170,FRA,18.8747433265,6-2 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,112,304,45,761
 2003-W-T2-USA-06A-2003,New Haven,Hard,28,T2,20030818,36,200072,9,,Cara Black,R,167,ZIM,24.4982888433,200720,,,Dally Randriantefy,R,,MAD,26.4804928131,6-1 7-6(4),3,Q2,,,,,,,,,,,,,,,,,,,,52,692,82,432
 2003-W-T2-USA-06A-2003,New Haven,Hard,28,T2,20030818,37,201335,,,Myriam Casanova,R,,SUI,18.160164271,200700,1,,Silvia Farina Elia,R,,ITA,31.3073237509,6-0 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,86,413,21,1375
 2003-W-T2-USA-06A-2003,New Haven,Hard,28,T2,20030818,38,200009,2,,Tamarine Tanasugarn,R,165,THA,26.2340862423,201308,,,Maria Elena Camerin,R,164,ITA,21.4099931554,6-4 4-6 7-5,3,Q3,,,,,,,,,,,,,,,,,,,,42,793,96,362
 2003-W-T2-USA-06A-2003,New Haven,Hard,28,T2,20030818,39,200010,,,Rita Grande,R,,ITA,28.4052019165,201323,,,Saori Obata,L,,JPN,25.3196440794,6-3 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,64,570,77,457
 2003-W-T2-USA-06A-2003,New Haven,Hard,28,T2,20030818,40,200122,8,,Tina Pisnik,R,,SLO,22.4914442163,201338,,WC,Bea Bielik,U,,USA,22.7186858316,6-3 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,49,720,140,234
 2003-W-T2-USA-06A-2003,New Haven,Hard,28,T2,20030818,41,200008,5,,Alicia Molik,R,182,AUS,22.5544147844,201309,,,Tatiana Perebiynis,R,,UKR,20.6735112936,5-7 7-6(4) 7-6(3),3,Q3,,,,,,,,,,,,,,,,,,,,46,754,89,393
-2003-W-T2-USA-06A-2003,New Haven,Hard,28,T2,20030818,42,200072,9,,Cara Black,R,167,ZIM,24.4982888433,200126,,,Marissa Gould,R,,USA,23.151266256,7-6(2) 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,52,692,112,304
+2003-W-T2-USA-06A-2003,New Haven,Hard,28,T2,20030818,42,200072,9,,Cara Black,R,167,ZIM,24.4982888433,200126,,,Marissa Irvin,R,,USA,23.151266256,7-6(2) 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,52,692,112,304
 2003-W-T2-USA-07A-2003,Philadelphia,Hard,28,T2,20031027,1,201347,1,,Jelena Jankovic,R,177,SRB,18.6584531143,201307,,WC,Amber Liu,R,,USA,19.3073237509,6-2 2-6 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,90,396,256,90
 2003-W-T2-USA-07A-2003,Philadelphia,Hard,28,T2,20031027,2,200776,,,Angelika Bachmann,R,,GER,24.4490075291,201942,,,Andreea Ehritt Vanc,L,,ROU,30.0561259411,6-3 2-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,223,121,182,161
 2003-W-T2-USA-07A-2003,Philadelphia,Hard,28,T2,20031027,3,201480,,WC,Lioudmila Skavronskaia,U,,RUS,23.5947980835,205046,,,Jodi Kenoyer,U,,USA,22.1793292266,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,185,161,599,16
@@ -10794,11 +10794,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-T3-FRA-01A-2003,Strasbourg,Clay,30,T3,20030519,6,203021,,WC,Anne Laure Heitz,U,,FRA,21.1772758385,201089,,,Lucie Ahl,R,,GBR,28.8213552361,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,285,72,209,143
 2003-W-T3-FRA-01A-2003,Strasbourg,Clay,30,T3,20030519,7,201301,,,Camille Pin,U,162,FRA,21.7303216975,201381,,,Tian Tian Sun,R,,CHN,21.5989048597,6-3 2-6 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,193,157,185,164
 2003-W-T3-FRA-01A-2003,Strasbourg,Clay,30,T3,20030519,8,201380,8,,Claudine Schaul,R,,LUX,19.7453798768,201209,,,Selima Sfar,R,,TUN,25.8617385352,1-6 6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,118,299,190,160
-2003-W-T3-FRA-01A-2003,Strasbourg,Clay,30,T3,20030519,9,200126,3,,Marissa Gould,R,,USA,22.9021218344,201392,,,Severine Beltrame,R,171,FRA,23.7618069815,6-4 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,98,380,233,112
+2003-W-T3-FRA-01A-2003,Strasbourg,Clay,30,T3,20030519,9,200126,3,,Marissa Irvin,R,,USA,22.9021218344,201392,,,Severine Beltrame,R,171,FRA,23.7618069815,6-4 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,98,380,233,112
 2003-W-T3-FRA-01A-2003,Strasbourg,Clay,30,T3,20030519,10,202279,,,Virag Nemeth,R,,HUN,17.9137577002,201330,,,Maria Goloviznina,U,,RUS,23.9534565366,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,309,64,136,238
 2003-W-T3-FRA-01A-2003,Strasbourg,Clay,30,T3,20030519,11,201386,,,Jie Zheng,R,164,CHN,19.871321013,202135,,,Vanessa Henke,R,,GER,22.3381245722,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,162,197,172,180
 2003-W-T3-FRA-01A-2003,Strasbourg,Clay,30,T3,20030519,12,201292,6,,Martina Sucha,R,,SVK,22.4914442163,201708,,,Natalie Grandin,U,,RSA,22.2203969884,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,113,318,195,152
-2003-W-T3-FRA-01A-2003,Strasbourg,Clay,30,T3,20030519,13,200056,4,,Jelena Kostanic Tosic,L,168,CRO,21.8672142368,200766,,,Jennifer Hopkins,R,,USA,22.2669404517,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,101,361,201,149
+2003-W-T3-FRA-01A-2003,Strasbourg,Clay,30,T3,20030519,13,200056,4,,Jelena Kostanic Tosic,L,168,CRO,21.8672142368,200766,,,Jennifer Hopkins,R,170,USA,22.2669404517,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,101,361,201,149
 2003-W-T3-FRA-01A-2003,Strasbourg,Clay,30,T3,20030519,14,202717,,,Katarina Misic,U,,SRB,27.2826830938,201338,,,Bea Bielik,U,,USA,22.46954141,6-2 3-6 7-6(4),3,Q1,,,,,,,,,,,,,,,,,,,,238,105,188,160
 2003-W-T3-FRA-01A-2003,Strasbourg,Clay,30,T3,20030519,15,201413,,WC,Capucine Rousseau,U,,FRA,23.0746064339,201360,,,Julia Vakulenko,R,183,UKR,19.8576317591,5-7 7-5 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,297,68,134,244
 2003-W-T3-FRA-01A-2003,Strasbourg,Clay,30,T3,20030519,16,200031,7,,Meilen Tu,R,,USA,25.3333333333,201375,,,Shenay Perry,R,,USA,18.8665297741,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,111,319,182,168
@@ -10806,7 +10806,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-T3-FRA-01A-2003,Strasbourg,Clay,30,T3,20030519,18,201368,,,Karolina Sprem,R,174,CRO,18.5626283368,201354,,,Libuse Prusova,R,,CZE,23.8494182067,6-1 3-1 RET,3,Q2,,,,,,,,,,,,,,,,,,,,163,196,130,260
 2003-W-T3-FRA-01A-2003,Strasbourg,Clay,30,T3,20030519,19,200720,2,,Dally Randriantefy,R,,MAD,26.2313483915,203021,,WC,Anne Laure Heitz,U,,FRA,21.1772758385,6-0 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,85,460,285,72
 2003-W-T3-FRA-01A-2003,Strasbourg,Clay,30,T3,20030519,20,201380,8,,Claudine Schaul,R,,LUX,19.7453798768,201301,,,Camille Pin,U,162,FRA,21.7303216975,6-1 4-6 7-6(5),3,Q2,,,,,,,,,,,,,,,,,,,,118,299,193,157
-2003-W-T3-FRA-01A-2003,Strasbourg,Clay,30,T3,20030519,21,202279,,,Virag Nemeth,R,,HUN,17.9137577002,200126,3,,Marissa Gould,R,,USA,22.9021218344,6-7(2) 6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,309,64,98,380
+2003-W-T3-FRA-01A-2003,Strasbourg,Clay,30,T3,20030519,21,202279,,,Virag Nemeth,R,,HUN,17.9137577002,200126,3,,Marissa Irvin,R,,USA,22.9021218344,6-7(2) 6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,309,64,98,380
 2003-W-T3-FRA-01A-2003,Strasbourg,Clay,30,T3,20030519,22,201292,6,,Martina Sucha,R,,SVK,22.4914442163,201386,,,Jie Zheng,R,164,CHN,19.871321013,6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,113,318,162,197
 2003-W-T3-FRA-01A-2003,Strasbourg,Clay,30,T3,20030519,23,200056,4,,Jelena Kostanic Tosic,L,168,CRO,21.8672142368,202717,,,Katarina Misic,U,,SRB,27.2826830938,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,101,361,238,105
 2003-W-T3-FRA-01A-2003,Strasbourg,Clay,30,T3,20030519,24,200031,7,,Meilen Tu,R,,USA,25.3333333333,201413,,WC,Capucine Rousseau,U,,FRA,23.0746064339,6-2 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,111,319,297,68
@@ -10896,7 +10896,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-T3-LUX-01A-2003,Luxembourg,Hard,30,T3,20031020,8,201421,,WC,Ana Ivanovic,R,183,SRB,15.9534565366,202120,,,Kirstin Freye,U,,GER,28.3942505133,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,766,8,701,10
 2003-W-T3-LUX-01A-2003,Luxembourg,Hard,30,T3,20031020,9,201387,7,,Sofia Arvidsson,R,176,SWE,19.6741957563,204645,,WC,Tanja Hirschauer,U,,GER,20.4435318275,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,122,285,710,10
 2003-W-T3-LUX-01A-2003,Luxembourg,Hard,30,T3,20031020,10,201457,,,Jarmila Gajdosova,R,174,AUS,16.4845995893,203253,,,Nicole Seitenbecher,R,,GER,23.794661191,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,210,133,730,9
-2003-W-T3-LUX-01A-2003,Luxembourg,Hard,30,T3,20031020,11,201605,,WC,Mandy Minella,R,,LUX,17.9082819986,203142,,,Verena Beller,U,,GER,19.2087611225,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,692,11,282,75
+2003-W-T3-LUX-01A-2003,Luxembourg,Hard,30,T3,20031020,11,201605,,WC,Mandy Minella,R,180,LUX,17.9082819986,203142,,,Verena Beller,U,,GER,19.2087611225,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,692,11,282,75
 2003-W-T3-LUX-01A-2003,Luxembourg,Hard,30,T3,20031020,12,201379,8,,Mara Santangelo,R,181,ITA,22.3107460643,201489,,,Mariya Koryttseva,R,,UKR,18.4038329911,6-4 4-6 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,135,239,201,142
 2003-W-T3-LUX-01A-2003,Luxembourg,Hard,30,T3,20031020,13,200042,1,,Els Callens,R,,BEL,33.1663244353,201354,,,Libuse Prusova,R,,CZE,24.2710472279,6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,80,476,209,134
 2003-W-T3-LUX-01A-2003,Luxembourg,Hard,30,T3,20031020,14,200094,6,,Barbara Rittner,R,,GER,30.4859685147,201303,,,Anne Keothavong,R,175,GBR,20.0930869268,6-4 5-7 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,123,283,170,181
@@ -10905,7 +10905,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-T3-LUX-01A-2003,Luxembourg,Hard,30,T3,20031020,17,200060,3,,Tathiana Garbin,R,172,ITA,26.3052703628,201333,,,Angelika Roesch,R,,GER,26.3655030801,6-2 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,87,421,218,127
 2003-W-T3-LUX-01A-2003,Luxembourg,Hard,30,T3,20031020,18,201387,7,,Sofia Arvidsson,R,176,SWE,19.6741957563,201421,,WC,Ana Ivanovic,R,183,SRB,15.9534565366,6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,122,285,766,8
 2003-W-T3-LUX-01A-2003,Luxembourg,Hard,30,T3,20031020,19,200773,4,,Stephanie Foretz Gacon,R,166,FRA,22.4640657084,201457,,,Jarmila Gajdosova,R,174,AUS,16.4845995893,7-6(4) 7-6(1),3,Q2,,,,,,,,,,,,,,,,,,,,102,342,210,133
-2003-W-T3-LUX-01A-2003,Luxembourg,Hard,30,T3,20031020,20,201379,8,,Mara Santangelo,R,181,ITA,22.3107460643,201605,,WC,Mandy Minella,R,,LUX,17.9082819986,7-6(8) 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,135,239,692,11
+2003-W-T3-LUX-01A-2003,Luxembourg,Hard,30,T3,20031020,20,201379,8,,Mara Santangelo,R,181,ITA,22.3107460643,201605,,WC,Mandy Minella,R,180,LUX,17.9082819986,7-6(8) 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,135,239,692,11
 2003-W-T3-LUX-01A-2003,Luxembourg,Hard,30,T3,20031020,21,200094,6,,Barbara Rittner,R,,GER,30.4859685147,200042,1,,Els Callens,R,,BEL,33.1663244353,6-7(5) 6-4 7-5,3,Q3,,,,,,,,,,,,,,,,,,,,123,283,80,476
 2003-W-T3-LUX-01A-2003,Luxembourg,Hard,30,T3,20031020,22,201360,2,,Julia Vakulenko,R,183,UKR,20.2792607803,200119,,,Rita Kuti Kis,L,,HUN,25.6810403833,6-3 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,77,481,177,164
 2003-W-T3-LUX-01A-2003,Luxembourg,Hard,30,T3,20031020,23,201387,7,,Sofia Arvidsson,R,176,SWE,19.6741957563,200060,3,,Tathiana Garbin,R,172,ITA,26.3052703628,6-2 6-7(6) 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,122,285,87,421
@@ -11005,7 +11005,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-T3-USA-01A-2003,Memphis,Hard,30,T3,20030217,11,200744,9,,Svetlana Krivencheva,R,,BUL,29.1334702259,201342,,WC,Alexandra Podkolzina,R,,USA,17.4592744695,6-7(6) 6-4 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,212,141,965,4
 2003-W-T3-USA-01A-2003,Memphis,Hard,30,T3,20030217,12,201325,7,,Samantha Stosur,R,172,AUS,18.8856947296,204855,,,Sarah Stone,U,,AUS,20.9062286105,6-1 3-6 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,175,186,650,14
 2003-W-T3-USA-01A-2003,Memphis,Hard,30,T3,20030217,13,201330,4,,Maria Goloviznina,U,,RUS,23.704312115,202948,,,Elizabeth Schmidt,U,,USA,25.4866529774,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,149,222,554,19
-2003-W-T3-USA-01A-2003,Memphis,Hard,30,T3,20030217,14,202306,,,Diana Ospina,U,,USA,23.6249144422,200766,8,,Jennifer Hopkins,R,,USA,22.0177960301,7-6(6) 3-6 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,422,35,184,178
+2003-W-T3-USA-01A-2003,Memphis,Hard,30,T3,20030217,14,202306,,,Diana Ospina,U,,USA,23.6249144422,200766,8,,Jennifer Hopkins,R,170,USA,22.0177960301,7-6(6) 3-6 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,422,35,184,178
 2003-W-T3-USA-01A-2003,Memphis,Hard,30,T3,20030217,15,200045,5,,Tara Snyder,R,,USA,25.7303216975,200774,1,,Vanessa Webb,L,,CAN,27.0663928816,6-4 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,153,215,116,316
 2003-W-T3-USA-01A-2003,Memphis,Hard,30,T3,20030217,16,201383,6,,Marie Eve Pelletier,R,,CAN,20.7529089665,201338,,WC,Bea Bielik,U,,USA,22.2203969884,7-6(2) 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,166,196,237,110
 2003-W-T3-USA-01A-2003,Memphis,Hard,30,T3,20030217,17,201325,7,,Samantha Stosur,R,172,AUS,18.8856947296,200744,9,,Svetlana Krivencheva,R,,BUL,29.1334702259,7-6(1) 1-6 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,175,186,212,141
@@ -11070,7 +11070,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-T4-NZL-01A-2003,Auckland,Hard,32,T4,20021230,2,201339,,,Renata Voracova,R,,CZE,19.2334017796,201304,,,Elena Baltacha,R,,GBR,19.3785078713,6-4 7-6(6),3,Q1,,,,,,,,,,,,,,,,,,,,128,255,157,201
 2003-W-T4-NZL-01A-2003,Auckland,Hard,32,T4,20021230,3,200087,,,Seda Noorlander,R,,NED,28.6078028747,201341,,,Mi Ra Jeon,U,,KOR,24.8952772074,7-6(3) 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,166,192,135,242
 2003-W-T4-NZL-01A-2003,Auckland,Hard,32,T4,20021230,4,200774,,,Vanessa Webb,L,,CAN,26.932238193,201286,8,,Anabel Medina Garrigues,R,169,ESP,20.4161533196,4-6 6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,142,232,116,286
-2003-W-T4-NZL-01A-2003,Auckland,Hard,32,T4,20021230,5,201312,2,,Sarah Taylor,R,,USA,21.1471594798,200766,,,Jennifer Hopkins,R,,USA,21.8836413415,6-2 4-6 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,86,441,140,233
+2003-W-T4-NZL-01A-2003,Auckland,Hard,32,T4,20021230,5,201312,2,,Sarah Taylor,R,,USA,21.1471594798,200766,,,Jennifer Hopkins,R,170,USA,21.8836413415,6-2 4-6 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,86,441,140,233
 2003-W-T4-NZL-01A-2003,Auckland,Hard,32,T4,20021230,6,201379,,,Mara Santangelo,R,181,ITA,21.5058179329,201300,,,Maria Emilia Salerni,R,,ARG,19.6303901437,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,179,178,127,256
 2003-W-T4-NZL-01A-2003,Auckland,Hard,32,T4,20021230,7,202317,,WC,Ilke Gers,U,,NZL,21.1772758385,201380,,,Claudine Schaul,R,,LUX,19.3620807666,6-4 4-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,516,23,133,245
 2003-W-T4-NZL-01A-2003,Auckland,Hard,32,T4,20021230,8,201315,7,,Ashley Harkleroad,R,,USA,17.6618754278,200115,,,Brie Rippner,R,,USA,22.9404517454,6-3 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,113,309,164,194
@@ -11081,7 +11081,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-T4-NZL-01A-2003,Auckland,Hard,32,T4,20021230,13,201355,4,,Flavia Pennetta,R,172,ITA,20.8432580424,200068,,,Lilia Osterloh,R,,USA,24.7310061602,2-6 6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,95,380,156,205
 2003-W-T4-NZL-01A-2003,Auckland,Hard,32,T4,20021230,14,202135,,,Vanessa Henke,R,,GER,21.954825462,200765,,,Katalin Marosi,R,,HUN,23.1321013005,2-6 6-3 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,182,174,138,237
 2003-W-T4-NZL-01A-2003,Auckland,Hard,32,T4,20021230,15,201370,,,Anastasia Rodionova,R,167,AUS,20.6351813826,204220,,WC,Dianne Hollands,R,,NZL,19.6386036961,6-3 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,118,283,,
-2003-W-T4-NZL-01A-2003,Auckland,Hard,32,T4,20021230,16,201085,5,,Shinobu Asagoe,R,,JPN,26.5051334702,201446,,,Sybille Bammer,L,174,AUT,22.674880219,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,96,377,177,179
+2003-W-T4-NZL-01A-2003,Auckland,Hard,32,T4,20021230,16,201085,5,,Shinobu Asagoe,R,170,JPN,26.5051334702,201446,,,Sybille Bammer,L,174,AUT,22.674880219,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,96,377,177,179
 2003-W-T4-NZL-01A-2003,Auckland,Hard,32,T4,20021230,17,201339,,,Renata Voracova,R,,CZE,19.2334017796,200078,,,Barbara Schwartz,L,,AUT,23.923340178,7-5 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,128,255,125,260
 2003-W-T4-NZL-01A-2003,Auckland,Hard,32,T4,20021230,18,200087,,,Seda Noorlander,R,,NED,28.6078028747,200774,,,Vanessa Webb,L,,CAN,26.932238193,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,166,192,142,232
 2003-W-T4-NZL-01A-2003,Auckland,Hard,32,T4,20021230,19,201312,2,,Sarah Taylor,R,,USA,21.1471594798,201379,,,Mara Santangelo,R,181,ITA,21.5058179329,6-3 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,86,441,179,178
@@ -11089,11 +11089,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-T4-NZL-01A-2003,Auckland,Hard,32,T4,20021230,21,201207,,,Ansley Cargill,L,,USA,20.9828884326,201942,,,Andreea Ehritt Vanc,L,,ROU,29.2320328542,6-4 6-7(5) 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,122,272,149,217
 2003-W-T4-NZL-01A-2003,Auckland,Hard,32,T4,20021230,22,200014,,WC,Tzipi Obziler,R,,ISR,29.697467488,201298,,,Zsofia Gubacsi,R,,HUN,21.7330595483,6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,146,219,121,273
 2003-W-T4-NZL-01A-2003,Auckland,Hard,32,T4,20021230,23,201355,4,,Flavia Pennetta,R,172,ITA,20.8432580424,202135,,,Vanessa Henke,R,,GER,21.954825462,7-6(7) 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,95,380,182,174
-2003-W-T4-NZL-01A-2003,Auckland,Hard,32,T4,20021230,24,201085,5,,Shinobu Asagoe,R,,JPN,26.5051334702,201370,,,Anastasia Rodionova,R,167,AUS,20.6351813826,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,96,377,118,283
+2003-W-T4-NZL-01A-2003,Auckland,Hard,32,T4,20021230,24,201085,5,,Shinobu Asagoe,R,170,JPN,26.5051334702,201370,,,Anastasia Rodionova,R,167,AUS,20.6351813826,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,96,377,118,283
 2003-W-T4-NZL-01A-2003,Auckland,Hard,32,T4,20021230,25,201339,,,Renata Voracova,R,,CZE,19.2334017796,200087,,,Seda Noorlander,R,,NED,28.6078028747,7-6(5) 5-7 7-5,3,Q3,,,,,,,,,,,,,,,,,,,,128,255,166,192
 2003-W-T4-NZL-01A-2003,Auckland,Hard,32,T4,20021230,26,201315,7,,Ashley Harkleroad,R,,USA,17.6618754278,201312,2,,Sarah Taylor,R,,USA,21.1471594798,6-2 7-6(3),3,Q3,,,,,,,,,,,,,,,,,,,,113,309,86,441
 2003-W-T4-NZL-01A-2003,Auckland,Hard,32,T4,20021230,27,200014,,WC,Tzipi Obziler,R,,ISR,29.697467488,201207,,,Ansley Cargill,L,,USA,20.9828884326,5-7 6-4 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,146,219,122,272
-2003-W-T4-NZL-01A-2003,Auckland,Hard,32,T4,20021230,28,201085,5,,Shinobu Asagoe,R,,JPN,26.5051334702,201355,4,,Flavia Pennetta,R,172,ITA,20.8432580424,6-4 7-5,3,Q3,,,,,,,,,,,,,,,,,,,,96,377,95,380
+2003-W-T4-NZL-01A-2003,Auckland,Hard,32,T4,20021230,28,201085,5,,Shinobu Asagoe,R,170,JPN,26.5051334702,201355,4,,Flavia Pennetta,R,172,ITA,20.8432580424,6-4 7-5,3,Q3,,,,,,,,,,,,,,,,,,,,96,377,95,380
 2003-W-T4-POR-01A-2003,Estoril,Clay,32,T4,20030407,1,201292,1,,Martina Sucha,R,,SVK,22.3764544832,201689,,WC,Magali De Lattre,R,,POR,15.8138261465,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,118,321,,
 2003-W-T4-POR-01A-2003,Estoril,Clay,32,T4,20030407,2,201367,,,Arantxa Parra Santonja,R,,ESP,20.4079397673,207615,,WC,Adriana Mingireanu,U,,ROU,26.0095824778,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,165,192,,
 2003-W-T4-POR-01A-2003,Estoril,Clay,32,T4,20030407,3,201303,,,Anne Keothavong,R,175,GBR,19.5564681725,201385,,,Yuliana Fedak,R,166,UKR,19.8302532512,7-5 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,170,186,198,150
@@ -11129,7 +11129,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-T4-USA-01A-2003,Sarasota,Clay,32,T4,20030331,5,200111,2,,Lina Krasnoroutskaya,R,,RUS,18.9185489391,200068,,WC,Lilia Osterloh,R,,USA,24.9801505818,7-6(2) 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,59,585,231,122
 2003-W-T4-USA-01A-2003,Sarasota,Clay,32,T4,20030331,6,200744,,A,Svetlana Krivencheva,R,,BUL,29.2484599589,201328,,,Milagros Sequera,R,,VEN,22.4969199179,7-5 1-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,219,132,115,322
 2003-W-T4-USA-01A-2003,Sarasota,Clay,32,T4,20030331,7,200121,,,Alina Jidkova,R,,RUS,26.1957563313,200749,,,Samantha Reeves,R,,USA,24.1998631075,6-4 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,105,356,110,337
-2003-W-T4-USA-01A-2003,Sarasota,Clay,32,T4,20030331,8,200002,,A,Mirjana Lucic,R,,CRO,21.0595482546,200126,6,WC,Marissa Gould,R,,USA,22.7679671458,6-0 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,198,150,95,383
+2003-W-T4-USA-01A-2003,Sarasota,Clay,32,T4,20030331,8,200002,,A,Mirjana Lucic,R,,CRO,21.0595482546,200126,6,WC,Marissa Irvin,R,,USA,22.7679671458,6-0 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,198,150,95,383
 2003-W-T4-USA-01A-2003,Sarasota,Clay,32,T4,20030331,9,201383,,,Marie Eve Pelletier,R,,CAN,20.8678986995,200773,3,,Stephanie Foretz Gacon,R,166,FRA,21.9082819986,7-5 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,151,212,72,509
 2003-W-T4-USA-01A-2003,Sarasota,Clay,32,T4,20030331,10,200103,,,Evie Dominikovic,R,,AUS,22.8364134155,201386,,,Jie Zheng,R,164,CHN,19.7371663244,7-6(4) 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,104,357,150,213
 2003-W-T4-USA-01A-2003,Sarasota,Clay,32,T4,20030331,11,200069,,,Nadia Petrova,R,178,RUS,20.810403833,201360,,,Julia Vakulenko,R,183,UKR,19.7234770705,6-2 4-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,109,341,124,286
@@ -11178,7 +11178,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-T4-UZB-01A-2003,Tashkent,Hard,32,T4,20031006,26,201480,9,,Lioudmila Skavronskaia,U,,RUS,23.537303217,202266,5,,Kelly Liggan,U,,IRL,24.6652977413,6-4 3-6 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,223,122,215,124
 2003-W-T4-UZB-01A-2003,Tashkent,Hard,32,T4,20031006,27,201855,7,,Adriana Barna,R,,GER,25.3771389459,202359,,,Chin Wei Chan,R,,TPE,18.7405886379,6-4 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,224,122,421,35
 2003-W-T4-UZB-01A-2003,Tashkent,Hard,32,T4,20031006,28,202291,,WC,Seiko Okamoto,U,,JPN,25.5633127995,202321,,WC,Napaporn Tongsalee,U,,THA,23.9589322382,7-5 1-6 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,312,60,288,71
-2003-W-T5-AUS-01A-2003,Hobart,Hard,32,T5,20030106,1,201085,1,,Shinobu Asagoe,R,,JPN,26.5242984257,204944,,WC,Darya Ivanov,R,,AUS,17.6673511294,6-1 7-6(0),3,Q1,,,,,,,,,,,,,,,,,,,,94,392,781,9
+2003-W-T5-AUS-01A-2003,Hobart,Hard,32,T5,20030106,1,201085,1,,Shinobu Asagoe,R,170,JPN,26.5242984257,204944,,WC,Darya Ivanov,R,,AUS,17.6673511294,6-1 7-6(0),3,Q1,,,,,,,,,,,,,,,,,,,,94,392,781,9
 2003-W-T5-AUS-01A-2003,Hobart,Hard,32,T5,20030106,2,202283,,,Anouska Van Exel,U,,NED,28.2272416153,200722,,,Francesca Lubiani,L,,ITA,25.4866529774,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,206,151
 2003-W-T5-AUS-01A-2003,Hobart,Hard,32,T5,20030106,3,201084,,,Nadejda Ostrovskaya,R,,BLR,22.1875427789,201293,,,Catalina Castano,R,171,COL,23.5017111567,6-0 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,183,176,194,161
 2003-W-T5-AUS-01A-2003,Hobart,Hard,32,T5,20030106,4,201349,8,,Melinda Czink,L,178,HUN,20.2080766598,200062,,,Kristina Brandi,R,168,PUR,25.7741273101,0-6 6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,162,195,232,125
@@ -11194,7 +11194,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-T5-AUS-01A-2003,Hobart,Hard,32,T5,20030106,14,201291,,,Nuria Llagostera Vives,R,156,ESP,22.6420260096,203089,,WC,Kristen Van Elden,U,,AUS,21.3004791239,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,207,149,362,49
 2003-W-T5-AUS-01A-2003,Hobart,Hard,32,T5,20030106,15,201367,,,Arantxa Parra Santonja,R,,ESP,20.1587953457,202135,,,Vanessa Henke,R,,GER,21.9739904175,7-6(3) 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,187,172,180,177
 2003-W-T5-AUS-01A-2003,Hobart,Hard,32,T5,20030106,16,200078,5,,Barbara Schwartz,L,,AUT,23.9425051335,201446,,,Sybille Bammer,L,174,AUT,22.6940451745,6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,135,241,178,179
-2003-W-T5-AUS-01A-2003,Hobart,Hard,32,T5,20030106,17,201085,1,,Shinobu Asagoe,R,,JPN,26.5242984257,202283,,,Anouska Van Exel,U,,NED,28.2272416153,6-0 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,94,392,,
+2003-W-T5-AUS-01A-2003,Hobart,Hard,32,T5,20030106,17,201085,1,,Shinobu Asagoe,R,170,JPN,26.5242984257,202283,,,Anouska Van Exel,U,,NED,28.2272416153,6-0 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,94,392,,
 2003-W-T5-AUS-01A-2003,Hobart,Hard,32,T5,20030106,18,201349,8,,Melinda Czink,L,178,HUN,20.2080766598,201084,,,Nadejda Ostrovskaya,R,,BLR,22.1875427789,3-6 6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,162,195,183,176
 2003-W-T5-AUS-01A-2003,Hobart,Hard,32,T5,20030106,19,200776,,,Angelika Bachmann,R,,GER,23.6440793977,200073,,,Julie Pullin,L,,GBR,27.1704312115,6-2 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,198,159,192,166
 2003-W-T5-AUS-01A-2003,Hobart,Hard,32,T5,20030106,20,202266,,,Kelly Liggan,U,,IRL,23.9178644764,201387,6,,Sofia Arvidsson,R,176,SWE,18.8884325804,6-1 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,227,129,143,226
@@ -11202,7 +11202,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2003-W-T5-AUS-01A-2003,Hobart,Hard,32,T5,20030106,22,201439,,,Tiffany Dabek,U,,USA,22.8145106092,201089,,,Lucie Ahl,R,,GBR,28.4572210815,3-6 6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,231,125,204,153
 2003-W-T5-AUS-01A-2003,Hobart,Hard,32,T5,20030106,23,201298,4,,Zsofia Gubacsi,R,,HUN,21.7522245038,201291,,,Nuria Llagostera Vives,R,156,ESP,22.6420260096,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,117,277,207,149
 2003-W-T5-AUS-01A-2003,Hobart,Hard,32,T5,20030106,24,200078,5,,Barbara Schwartz,L,,AUT,23.9425051335,201367,,,Arantxa Parra Santonja,R,,ESP,20.1587953457,6-1 2-6 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,135,241,187,172
-2003-W-T5-AUS-01A-2003,Hobart,Hard,32,T5,20030106,25,201085,1,,Shinobu Asagoe,R,,JPN,26.5242984257,201349,8,,Melinda Czink,L,178,HUN,20.2080766598,6-3 6-0,3,Q3,,,,,,,,,,,,,,,,,,,,94,392,162,195
+2003-W-T5-AUS-01A-2003,Hobart,Hard,32,T5,20030106,25,201085,1,,Shinobu Asagoe,R,170,JPN,26.5242984257,201349,8,,Melinda Czink,L,178,HUN,20.2080766598,6-3 6-0,3,Q3,,,,,,,,,,,,,,,,,,,,94,392,162,195
 2003-W-T5-AUS-01A-2003,Hobart,Hard,32,T5,20030106,26,202266,,,Kelly Liggan,U,,IRL,23.9178644764,200776,,,Angelika Bachmann,R,,GER,23.6440793977,7-6(7) 4-5 RET,3,Q3,,,,,,,,,,,,,,,,,,,,227,129,198,159
 2003-W-T5-AUS-01A-2003,Hobart,Hard,32,T5,20030106,27,201309,3,,Tatiana Perebiynis,R,,UKR,20.0602327173,201439,,,Tiffany Dabek,U,,USA,22.8145106092,6-4 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,116,278,231,125
 2003-W-T5-AUS-01A-2003,Hobart,Hard,32,T5,20030106,28,201298,4,,Zsofia Gubacsi,R,,HUN,21.7522245038,200078,5,,Barbara Schwartz,L,,AUT,23.9425051335,6-2 7-6(3),3,Q3,,,,,,,,,,,,,,,,,,,,117,277,135,241
