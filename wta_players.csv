@@ -31090,7 +31090,7 @@ player_id,name_first,name_last,hand,dob,ioc
 231097,Joan,Sterling,U,,CAN
 231098,Shirley,Stanley,U,,CAN
 231099,Miriam,Rainboth,U,,CAN
-231100,Pat,Macken,U,,CAN
+231100,Pat,Macken,R,,CAN
 231101,Marge,Forrester,U,,CAN
 231102,Violet,Vann,U,,USA
 231103,Adrienne,Leberthon,U,19211019,USA
@@ -32079,7 +32079,7 @@ player_id,name_first,name_last,hand,dob,ioc
 232086,Helen,Holmes,U,,USA
 232087,Joan,Dastell,U,,USA
 232088,Lela,Sengel,U,,USA
-232089,,Berdan,U,,USA
+232089,Sonia,Berdan,U,,USA
 232090,,Marti,U,,USA
 232091,,Winchell,U,,USA
 232092,Gladys,Wilson,U,,USA
@@ -32122,7 +32122,7 @@ player_id,name_first,name_last,hand,dob,ioc
 232129,Mrs D,Cook,U,,AUS
 232130,Val,Buckley,U,,AUS
 232131,Josephine,Dunn,U,,USA
-232132,Jane,Freeman,U,,USA
+232132,Jane,Freeman,R,,USA
 232133,Catherine,Palizos,U,,USA
 232134,Priscilla,Watts,U,,USA
 232135,Carmen,Nottebohn,U,,GUA
@@ -42405,7 +42405,7 @@ player_id,name_first,name_last,hand,dob,ioc
 242413,Gerty,Schreiner,U,18960222,USA
 242414,Helen,Sovenski,U,,USA
 242415,Elaine,Speed,U,,AUS
-242416,May,Spiers,U,,NZL
+242416,DUPE May,Spiers,U,,NZL
 242417,Elena,Maltseva,U,18950829,RUS
 242418,Beryl,Spowers,U,18920727,AUS
 242419,Mabel,Squire,U,18810722,GBR
@@ -43491,7 +43491,7 @@ player_id,name_first,name_last,hand,dob,ioc
 243499,Mrs Cyrus,Clark,U,,USA
 243500,Mary,King Smith,U,,USA
 243501,,Masi,U,,ITA
-243502,Elena,De Cristoforo,U,,ITA
+243502,DUPE Elena,De Cristoforo,U,,ITA
 243503,Maria,Basevi,U,,ITA
 243504,L,Gambardella,U,,ITA
 243505,P W,Horne,U,,GBR
@@ -44110,7 +44110,7 @@ player_id,name_first,name_last,hand,dob,ioc
 244118,J E,Ramsay,U,,NZL
 244119,Mrs N M,Thomson,U,,NZL
 244120,D,Howe,U,,NZL
-244121,May,Dykes,U,,NZL
+244121,May,Spiers,U,,NZL
 244122,M,Hooton,U,,NZL
 244123,N,Howell,U,,NZL
 244124,T D,Newton,U,,NZL
@@ -45640,7 +45640,7 @@ player_id,name_first,name_last,hand,dob,ioc
 245648,Louise,Slocum,U,,USA
 245649,Mary,Freisenbruch,U,,BER
 245650,Mrs John,Amory,U,,USA
-245651,Mrs Frank,Godfrey,U,,USA
+245651,DUPE Mrs Frank,Godfrey,U,,USA
 245652,Elsie,Jansen,U,,USA
 245653,Marian,Duane,U,,USA
 245654,Mrs William,Faversham,U,,USA
@@ -45897,7 +45897,7 @@ player_id,name_first,name_last,hand,dob,ioc
 245905,Margaret,Dives,U,,USA
 245906,Virginia,Arnold,U,,USA
 245907,Josephine,Kendig,U,,USA
-245908,,Bishop,U,,GBR
+245908,DUPE W,Bishop,U,,GBR
 245909,D,Reeves,U,,GBR
 245910,J M,Brightman,U,,GBR
 245911,G J,Allen,U,,GBR
@@ -46043,7 +46043,7 @@ player_id,name_first,name_last,hand,dob,ioc
 246051,Mrs H D,Mccoy,U,,USA
 246052,Clara,Wilson,U,,USA
 246053,Max Leona,Anderson,U,,USA
-246054,Mrs Eduarda,Boehm,U,,USA
+246054,Eduarda,Boehm,R,,USA
 246055,Ruth,Potter,U,,USA
 246056,Janet,Smith,U,,USA
 246057,Louise,Hyde,U,,USA
@@ -46250,7 +46250,7 @@ player_id,name_first,name_last,hand,dob,ioc
 246258,K,Thornely,U,,IND
 246259,Mrs,Harvey,U,,BER
 246260,,Innes,U,,BER
-246261,,Kovelnhove,U,,
+246261,DUPE,Kozeluhova,U,,
 246262,,Scher Toss,U,,
 246263,,Stanelova,U,,
 246264,,Pearson,U,,
@@ -47738,7 +47738,7 @@ player_id,name_first,name_last,hand,dob,ioc
 247746,Marion,Morss,U,,USA
 247747,Aurina,Boyden,U,,USA
 247748,Margaret,Roosevelt,U,,USA
-247749,Eleanor,Whitlet,U,,USA
+247749,DUPE Eleanor,Whiting,U,,USA
 247750,Louise,Waterman,U,,USA
 247751,,Pica,U,,
 247752,V,Mendel,U,,GBR
@@ -47793,7 +47793,7 @@ player_id,name_first,name_last,hand,dob,ioc
 247801,,Lawrence,U,,GBR
 247802,,Broadbridge Jones,U,,GBR
 247803,M,Crase,U,,GBR
-247804,,Herring,U,,GBR
+247804,DUPE Mrs B,Herring,U,,GBR
 247805,DUPE M,Twizzell,U,,GBR
 247806,Mrs M J,Rodgers,U,,GBR
 247807,D P,Hesley,U,,GBR
@@ -47913,7 +47913,7 @@ player_id,name_first,name_last,hand,dob,ioc
 247921,Mrs E,Sainsbury,U,,GBR
 247922,,Isaac,U,,GBR
 247923,,Lumby,U,,GBR
-247924,,Loeffer,U,,GBR
+247924,DUPE,Loeffer,U,,GBR
 247925,,Flint,U,,GBR
 247926,B,Shetham,U,,GBR
 247927,,Humble Crofts,U,,GBR
@@ -47947,7 +47947,7 @@ player_id,name_first,name_last,hand,dob,ioc
 247955,D,Burton,U,,GBR
 247956,P,Walton,U,,GBR
 247957,A T,Mardall,U,,GBR
-247958,,Arnold Foster,U,,GBR
+247958,DUPE,Arnold Foster,U,,GBR
 247959,E W,Mason,U,,GBR
 247960,G,Gore,U,,GBR
 247961,Mrs F E,Francis,U,,USA
@@ -48330,11 +48330,11 @@ player_id,name_first,name_last,hand,dob,ioc
 248338,L M,Ward Clarke,U,,GBR
 248339,Y,Ishii,U,,USA
 248340,Mrs D,Turton,U,,
-248341,,De Iszkowska,U,,FRA
+248341,DUPE,De Iszkowska,U,,FRA
 248342,B,Beauchamp,U,,
 248343,Lina,Furrer,U,,SUI
 248344,Olympe,Dotta,U,,SUI
-248345,,De Courten,U,,SUI
+248345,DUPE,De Courten,U,,SUI
 248346,S,Capucci,U,,ITA
 248347,,Oliver,U,,GER
 248348,Elena,Delle Piane,U,,ITA
@@ -49644,7 +49644,7 @@ player_id,name_first,name_last,hand,dob,ioc
 249652,Mrs F G,Smith,U,,USA
 249653,Mrs C F,Beach,U,,USA
 249654,Mrs T,Morrison,U,,USA
-249655,Mrs H F,Morse,U,,USA
+249655,DUPE Mrs H F,Morse,U,,USA
 249656,Mrs M,Hazen,U,,USA
 249657,Mrs H H,Hyde,U,,USA
 249658,Mrs T E,Hapgood,U,,USA
@@ -49975,7 +49975,7 @@ player_id,name_first,name_last,hand,dob,ioc
 249983,Rosetta,Maisel,U,,USA
 249984,Marjorie,Updike,U,,USA
 249985,Mrs Warren S,Girling,U,,USA
-249986,Ilse,Classon,U,,USA
+249986,Ilse,Classon,L,,USA
 249987,Mrs Richard,Ewers,U,,USA
 249988,Grace,Knack,U,,USA
 249989,Mrs J M,Pierce,U,,USA
@@ -50261,7 +50261,7 @@ player_id,name_first,name_last,hand,dob,ioc
 250269,,Kollen,U,,FRA
 250270,Yvonne,Charerat,U,,FRA
 250271,Mrs,Sale,U,,GBR
-250272,F,Cooper,U,,GBR
+250272,DUPE F,Cooper,U,,GBR
 250273,Mrs,Parke,U,,GBR
 250274,Edith,Handy,U,,USA
 250275,Evelyn,Pitshke,U,,USA
@@ -50568,3 +50568,1026 @@ player_id,name_first,name_last,hand,dob,ioc
 250576,D,Barnham,U,,GBR
 250577,N,Wynne,U,,GBR
 250578,B,Charles,U,,GBR
+250579,S,Bryant,U,,USA
+250580,E,Winslow,U,,USA
+250581,C,Marshall,U,,USA
+250582,J,Cohn,U,,USA
+250583,V,Edwards,U,,USA
+250584,E,Arneson,U,,USA
+250585,G,Harry,U,,USA
+250586,Irene,Probashashkey,U,,USA
+250587,,Wells,U,,USA
+250588,Mrs,Plumb,U,,USA
+250589,Irene,Johns,U,,USA
+250590,Mrs M,Herbert,U,,USA
+250591,Mrs L C,Martyn,U,,USA
+250592,Muriel,James,U,,USA
+250593,Betty,Dees,U,,USA
+250594,Rose,Kaufman,U,,USA
+250595,Simone,Lafaurie,U,,FRA
+250596,L,Shearer,U,,AUS
+250597,Molly,Finlayson,U,,AUS
+250598,,Versfeld,U,,RSA
+250599,Dorothy,Coleman,U,,GBR
+250600,,Tandy,U,,RSA
+250601,Mrs Harold,Jones,U,,
+250602,Mrs,Sandilands,U,,
+250603,Mrs M,Morris,U,,
+250604,A,Redmayne,U,,
+250605,Mrs,Gregory,U,,
+250606,M J,Coats Hutton,U,,
+250607,M H,Marriage,U,,
+250608,K M,Scott,U,,
+250609,Mrs,Calder,U,,
+250610,D,Butler,U,,
+250611,J,Clarke,U,,
+250612,Mrs V,Bishop,U,,
+250613,A,Anchorena,U,,
+250614,,Holden,U,,IND
+250615,,Best,U,,
+250616,Mrs V,Rendall,U,,
+250617,W,Saunders,U,,
+250618,Peggy,Murray,U,,AUS
+250619,E,Bendit,U,,
+250620,G,Travers,U,,
+250621,Mrs J R,Hall,U,,
+250622,S,Rhodes,U,,
+250623,F,Day,U,,
+250624,E,Pierce,U,,
+250625,G M,Thomas,U,,
+250626,M J,Clarke,U,,
+250627,,Thynne,U,,
+250628,P,Fahnestock,U,,
+250629,,Dashwood,U,,
+250630,Mme Pierre,Canivet,U,,FRA
+250631,Audrey,De Smit,U,,RSA
+250632,Margaret,Taylor,U,,AUS
+250633,Alison,Hooper,U,,AUS
+250634,S,Haefferty,U,,
+250635,Mrs,Emmet,U,,
+250636,,Dungyersky,U,,
+250637,S,Dormoy,U,,
+250638,W,Margadant,U,,
+250639,,Van Meerten,U,,
+250640,M,Woods,U,,
+250641,,De Andria,U,,
+250642,P,Joyeux,U,,
+250643,Elizabeth,Greenwood,U,,USA
+250644,Alice,Bernett,U,,USA
+250645,Mary,Harrington,U,,AUS
+250646,M C,Bower,U,,
+250647,F,Bendit,U,,
+250648,Hope,Mcmahon,U,,
+250649,E,Van Scherpenberg,U,,
+250650,E,Myers,U,,
+250651,M P,Wilson,U,,
+250652,S,Jackson,U,,
+250653,,Neven,U,,
+250654,Kate,Frischer,U,,GBR
+250655,Mrs,Hasler,U,,IND
+250656,Mrs,Judd,U,,IND
+250657,Mrs A L,Cooper,U,,IND
+250658,Daisy,Hamerton,U,,
+250659,Mrs C,Piman,U,,
+250660,G A,Thompson,U,,
+250661,M,Ley,U,,
+250662,,Bagehot,U,,
+250663,G,Warre,U,,
+250664,J,Wallis,U,,
+250665,M,Mayne,U,,
+250666,P,Bainbridge,U,,
+250667,Mrs B,Harvey,U,,
+250668,W,Thomas,U,,
+250669,Molla,Westselaar,U,,DEN
+250670,G N,Thompson,U,,
+250671,J,Smith,U,,
+250672,Y K,Philip,U,,
+250673,Ida,Chase,U,,IND
+250674,S R D,Tata,U,,IND
+250675,Mrs,Prophet,U,,IND
+250676,M,Norris,U,,
+250677,Mrs E,Noble,U,,
+250678,F,Dalton,U,,
+250679,Mrs G,Parsons,U,,
+250680,J,Campbell,U,,
+250681,Mrs W,Merricks,U,,
+250682,M,Hands,U,,
+250683,G,Maynard,U,,
+250684,Mrs J M,More,U,,
+250685,Lucia,Chase,U,,USA
+250686,Lady,Surdale,U,,GBR
+250687,Edith,Bonsall,U,,USA
+250688,Helen,Shirley,U,,GBR
+250689,Sallie,Maynard,U,,GBR
+250690,A M,Libbert,U,,FRA
+250691,D,Jacquier,U,,FRA
+250692,,Landau,U,,FRA
+250693,J,Riegerova,U,,
+250694,,Feret Dutard,U,,FRA
+250695,,Hood,U,,
+250696,,Wightman,U,,
+250697,Mrs,Brownlow,U,,
+250698,L,Boothe,U,,
+250699,Mrs S,Marsden,U,,
+250700,Helen,Mcmillan,U,,USA
+250701,Mrs John R,Thompson,U,,USA
+250702,Peggy,Miller,U,,USA
+250703,,Keating,U,,USA
+250704,Mrs,Dillon,U,,USA
+250705,Mrs,Dyrenfurth,U,,GER
+250706,Mrs E,Hinton,U,,AUS
+250707,L C,Cuppage,U,,
+250708,M S,Armitage,U,,
+250709,I G,Clarke,U,,
+250710,F M,Halkett,U,,
+250711,Mrs,Beaumont Thomas,U,,
+250712,M,Hunter,U,,
+250713,G M,Garfit,U,,
+250714,C,Schmidt,U,,
+250715,Mrs O A,Tweedie,U,,
+250716,Zeala,Inder,U,,GBR
+250717,E M,Schwabe,U,,
+250718,D,Mccarthy,U,,
+250719,P,Brooks,U,,
+250720,Mrs C,Smithwick,U,,
+250721,Katherine,Gardner,U,,USA
+250722,Mrs Ralph,Hornblower,U,,USA
+250723,Delma,Leighton,U,,USA
+250724,,Hubbard,U,,
+250725,K,Aitken,U,,
+250726,Mrs M,Willinck,U,,
+250727,,Whitelow,U,,
+250728,C,Garfit,U,,
+250729,,Holman,U,,
+250730,,De Sailly,U,,FRA
+250731,,Lamb,U,,GBR
+250732,E,Webb,U,,AUS
+250733,Constance,Halloran,U,,
+250734,J,Gordon,U,,
+250735,Agnes,Ridgway,U,,
+250736,Mrs H J,Lipman,U,,
+250737,Mrs A G,Bowers,U,,
+250738,D M,Peach,U,,
+250739,D,Guerin,U,,
+250740,Dorothy,Riddle,U,,
+250741,E P,Hyland,U,,
+250742,F E,Davidson,U,,
+250743,M E,Stott,U,,
+250744,R,Mckenzie,U,,
+250745,G,Sexton,U,,
+250746,,Marais,U,,GBR
+250747,M,Cotton,U,,GBR
+250748,P,Flegg,U,,GBR
+250749,Mrs,Todd,U,,GBR
+250750,S,Wilken,U,,GBR
+250751,Bruce,Seale,U,,GBR
+250752,,Jaunan,U,,FRA
+250753,,Spink,U,,USA
+250754,Mrs Chauncey,Hackett,U,,USA
+250755,Mrs G,Nairn,U,,GBR
+250756,,Grossmith,U,,GBR
+250757,J,Stracham,U,,GBR
+250758,,Philcox,U,,GBR
+250759,M,Dix,U,,GBR
+250760,Ethel,Whitfield,U,,AUS
+250761,A,Booth,U,,AUS
+250762,G,Edwards,U,,AUS
+250763,Constance,Miscamble,U,,AUS
+250764,Kathleen,Heritage,U,,AUS
+250765,Joyce,Chancellor,U,,AUS
+250766,Vera,Wibmer,U,,AUS
+250767,Kathleen,Ireland,U,,AUS
+250768,E,Bluck,U,,AUS
+250769,,Drunsmore,U,,GBR
+250770,,Poland,U,,GBR
+250771,J,Solsey,U,,GBR
+250772,,Hellick,U,,GBR
+250773,,Judd,U,,GBR
+250774,G,Smith,U,,GBR
+250775,P,Mills,U,,GBR
+250776,,Green,U,,GBR
+250777,Mrs P,Siggs,U,,GBR
+250778,,Lang,U,,GBR
+250779,Mrs G A,Brown,U,,GBR
+250780,,Macfarlane,U,,AUS
+250781,,Oconnor,U,,AUS
+250782,Mrs F A,Harper,U,,AUS
+250783,Doreen,Storey,U,,AUS
+250784,Eileen,Channon,U,,AUS
+250785,V,Maygrove,U,,GBR
+250786,M,Dawson,U,,GBR
+250787,Katherine,Porter,U,,GBR
+250788,Marion,Calder,U,,JAM
+250789,Mrs,Bruce,U,,GBR
+250790,,Tuckett,U,,GBR
+250791,,Goldsmith,U,,GBR
+250792,B F,Ingarfield,U,,GBR
+250793,Mrs V C,Kingdon,U,,GBR
+250794,Mrs A C,Andrews,U,,GBR
+250795,K M,Stanley,U,,GBR
+250796,Mrs G R,Pank,U,,GBR
+250797,Mrs G D,Dane,U,,GBR
+250798,A,Dixon,U,,GBR
+250799,K,Marriage,U,,GBR
+250800,Mrs A,Palache,U,,GBR
+250801,,Beatty,U,,IND
+250802,Mrs,Mylne,U,,IND
+250803,B,Cook,U,,GBR
+250804,,Painche,U,,GBR
+250805,K E S,Clay,U,,GBR
+250806,,Wilson,U,,GBR
+250807,Mrs B M,Stranger,U,,GBR
+250808,W,Reynolds,U,,GBR
+250809,Beryl,Morrison,U,,GBR
+250810,P,Gapp,U,,GBR
+250811,Mrs S H,Carr,U,,GBR
+250812,Mrs E U,Morison,U,,GBR
+250813,K M,Still,U,,GBR
+250814,L,Wallis Myers,U,,GBR
+250815,M,Spiers,U,,GBR
+250816,W,Austin,U,,GBR
+250817,Mrs G L,Edwards,U,,GBR
+250818,H E,Turner,U,,GBR
+250819,E,Marle,U,,GBR
+250820,J,Crisp,U,,GBR
+250821,Margaret,Woodford,U,,USA
+250822,Annie,Ford,U,,USA
+250823,V,Howes,U,,GBR
+250824,,Rex,U,,GBR
+250825,J,Mence,U,,GBR
+250826,Mrs R,Tubbs,U,,GBR
+250827,Mrs,Ogilvie,U,,GBR
+250828,M,Kemp,U,,GBR
+250829,Elizabeth,Sloan,U,,AUS
+250830,,Jennings,U,,AUS
+250831,,Meek,U,,AUS
+250832,R E J,Stephens,U,,GBR
+250833,Miss,Delta,U,,GBR
+250834,Mrs R,Horsley,U,,GBR
+250835,R,Champney,U,,GBR
+250836,,Robinson,U,,GBR
+250837,E L,Welsh,U,,GBR
+250838,E C,Terry,U,,GBR
+250839,,Edmondson,U,,GBR
+250840,O M,Williams,U,,GBR
+250841,Mrs G,Grey,U,,GBR
+250842,K L A,Wilson,U,,GBR
+250843,R,Adie,U,,GBR
+250844,E K,Huggins,U,,GBR
+250845,D,Brocklesby,U,,GBR
+250846,D,Palethorpe,U,,GBR
+250847,N M,Craig,U,,GBR
+250848,H,Dobson,U,,GBR
+250849,Mrs L R,Harrison,U,,GBR
+250850,,Glen Jones,U,,GBR
+250851,F C,Dermer,U,,GBR
+250852,S,King,U,,GBR
+250853,Mrs,Morrison,U,,GBR
+250854,N,Hescott,U,,GBR
+250855,M,Grindley,U,,GBR
+250856,Mrs E A,Beecham,U,,GBR
+250857,Mrs E M,Henry,U,,GBR
+250858,Mrs N,Boumphrey,U,,GBR
+250859,Mrs,Armitage,U,,GBR
+250860,,Wallwork,U,,GBR
+250861,,Haigh Smith,U,,GBR
+250862,,Newall,U,,GBR
+250863,M L,Deakin,U,,GBR
+250864,M E,Gordon,U,,GBR
+250865,N,Conroy,U,,GBR
+250866,P S,Crippin,U,,GBR
+250867,G,Coster,U,,GBR
+250868,W,Rudd,U,,GBR
+250869,Mrs T B,Tod,U,,GBR
+250870,C A,Lloyd,U,,GBR
+250871,D S,Holmes,U,,GBR
+250872,R,Belcher,U,,GBR
+250873,K,Boumphrey,U,,GBR
+250874,Mrs G A,Pearce,U,,GBR
+250875,Mrs E A,Bell,U,,GBR
+250876,C,Stewart Brown,U,,GBR
+250877,Mrs,Longbottom,U,,GBR
+250878,,Anderson,U,,GBR
+250879,H M,Dunn,U,,GBR
+250880,Mrs E R,Patterson,U,,GBR
+250881,D,Staveley,U,,GBR
+250882,Mrs,Saffery,U,,GBR
+250883,M,Aitcherley,U,,GBR
+250884,I,Rome,U,,GBR
+250885,Mrs,Mccaig,U,,GBR
+250886,Mrs P,Rea,U,,GBR
+250887,Mrs,Gregson,U,,GBR
+250888,E,Yeoward,U,,GBR
+250889,Mrs C H,Payne,U,,GBR
+250890,,Ohanlon,U,,GBR
+250891,Mrs,Swainson,U,,GBR
+250892,Mrs,Thornton Wilson,U,,GBR
+250893,E M,Edell,U,,GBR
+250894,J,Toms,U,,GBR
+250895,A G,Pollard,U,,GBR
+250896,W M,Smith,U,,GBR
+250897,Mrs H P,Edell,U,,GBR
+250898,M H,Perkin,U,,GBR
+250899,Mrs C S,Weekes,U,,GBR
+250900,E M,Harris,U,,GBR
+250901,Mrs,Heasley,U,,GBR
+250902,M,Haslock,U,,GBR
+250903,D V,Spofforth,U,,GBR
+250904,M K,Taylor,U,,GBR
+250905,Mrs S S,Weekes,U,,GBR
+250906,Mrs,Rumbold,U,,GBR
+250907,Dr D,Cassady,U,,GBR
+250908,E,Bowden Smith,U,,GBR
+250909,Mrs,Seccombe,U,,GBR
+250910,,Shultze,U,,GBR
+250911,Mrs,Hampton,U,,GBR
+250912,J,Mcguffie,U,,GBR
+250913,Mrs A D,Watson,U,,GBR
+250914,Joan,Cross,U,,GBR
+250915,M,Bantock,U,,GBR
+250916,Mrs,Kingzett,U,,GBR
+250917,Mrs,Broadley,U,,GBR
+250918,Mrs B,Potter,U,,GBR
+250919,Blanch,Gardiner,U,,USA
+250920,Ruth,Oliver,U,,USA
+250921,Nancy,Knowles,U,,USA
+250922,Louise,Dixon,U,,USA
+250923,Mrs M Q,Haabestad,U,,USA
+250924,Kitty,Porter,U,,USA
+250925,Mrs John C,Bell,U,,USA
+250926,Doris,Leblanc,U,,USA
+250927,Mrs C B,Prothro,U,,USA
+250928,Maria,Scherbatskoy,U,,FRA
+250929,M B,Elliott,U,,GBR
+250930,Mrs M,Marshall,U,,GBR
+250931,Mrs E M,Graham,U,,GBR
+250932,O B,Pawson,U,,GBR
+250933,J G,Rowland,U,,GBR
+250934,Heloise,Beebe,U,,USA
+250935,M,Cohn,U,,USA
+250936,Mrs R C,Stewart,U,,USA
+250937,Jane,Hutzler,U,,USA
+250938,Mrs C G,Pitt,U,,USA
+250939,Frances,Brown,U,,USA
+250940,B,Pitney,U,,USA
+250941,F,Du Barry,U,,USA
+250942,Katherine,Anderson,U,,USA
+250943,Mrs A G,Nathan,U,,USA
+250944,Edith,Humphries,U,,USA
+250945,Grace,Loeffler,U,,USA
+250946,Nellie,Biays,U,,USA
+250947,E H,Kuhn,U,,USA
+250948,E,Tweeddale,U,,USA
+250949,Mrs J,Bendix,U,,GBR
+250950,Mrs K,Landale,U,,GBR
+250951,Mrs W S,Furness,U,,GBR
+250952,,Guiler,U,,GBR
+250953,Mrs R K,Inman,U,,GBR
+250954,P,Folingsby,U,,GBR
+250955,Mrs A B,Wallace,U,,GBR
+250956,V,Henry,U,,GBR
+250957,,Stephens,U,,GBR
+250958,Mrs D G,Coleman,U,,GBR
+250959,M W,White,U,,GBR
+250960,Mrs D,Wyatt,U,,GBR
+250961,M,Mieville,U,,GBR
+250962,Mrs S,Hamilton,U,,GBR
+250963,Mrs A J,Tfeld,U,,USA
+250964,Mrs Martin,Vorhaus,U,,USA
+250965,Florence,Moran,U,,USA
+250966,Gertrude,Vander Ende,U,,USA
+250967,Carolyn,Bannister,U,,USA
+250968,Mrs T R,Morse,U,,USA
+250969,Mrs Norman,White,U,,USA
+250970,Mrs Charles B,Blanchard,U,,USA
+250971,Mrs W I,Badger,U,,USA
+250972,Mrs,Hoagland,U,,USA
+250973,Marion,Fairfield,U,,USA
+250974,Martha,Carey,U,,USA
+250975,Julie,Blake,U,,USA
+250976,Gertrude,Gallery,U,,CAN
+250977,Muriel,Bremner,U,,USA
+250978,Frances,Mckee,U,,USA
+250979,Barbara,Bradshaw,U,,USA
+250980,Mrs George,Squibb,U,,USA
+250981,Irma,Fedderson,U,,USA
+250982,Roberta,Fish,U,,USA
+250983,Myrtle,Hunn,U,,USA
+250984,Margaret,Jones,U,,USA
+250985,Helen,Coughlan,U,,USA
+250986,Cary,Hutchinson,U,,USA
+250987,Ruth,Fjeram,U,,USA
+250988,,Dery,U,,HUN
+250989,Margaret,Belisle,U,,USA
+250990,Helen Virginia,Small,U,,USA
+250991,Florence,Tennant,U,,USA
+250992,Eloise,Robinson,U,,USA
+250993,Virginia,Painter,U,,USA
+250994,Edna,Sullivan,U,,USA
+250995,Mrs I B,Steiner,U,,USA
+250996,Margaret,Leibstadter,U,,USA
+250997,Evelyn,Seavey Park,U,,USA
+250998,Irma,King,U,,USA
+250999,Susan,Brandt,U,,USA
+251000,Beryl,Broyles,U,,USA
+251001,Mrs Braden,Finch,U,,USA
+251002,Mrs Sidney,Fels,U,,USA
+251003,Edith,Auchincloss,U,,USA
+251004,Elizabeth,Levitsky,U,,USA
+251005,Mrs Archibald,Stevenson,U,,USA
+251006,Madeline,Pressprich,U,,USA
+251007,Louise,Gladwin,U,,USA
+251008,Martha,Hollister,U,,USA
+251009,Christine,Gause,U,,USA
+251010,Catherine,Hagy,U,,USA
+251011,Laura,Amory,U,,USA
+251012,Mary,Marvel,U,,USA
+251013,Mary,Knowles,U,,USA
+251014,Barbara,Bell,U,,USA
+251015,,Haworth,U,,USA
+251016,,Donnelly,U,,USA
+251017,L,Adams,U,,USA
+251018,,Florence,U,,USA
+251019,Mrs,Birdsong,U,,USA
+251020,,Stevenson,U,,USA
+251021,Mrs,Pugh,U,,USA
+251022,,Goldberg,U,,USA
+251023,,Kennedy,U,,USA
+251024,,Dodson,U,,USA
+251025,,Krull,U,,USA
+251026,Elsie,Baker,U,,USA
+251027,Mrs Bernard,Vorhaus,U,,USA
+251028,Julie,George,U,,USA
+251029,Helen,Lane,U,,USA
+251030,Dorothy,Clanton,U,,USA
+251031,Hazel,Wells,U,,USA
+251032,Edith,Davis,U,,USA
+251033,Mrs A A,Hovenstein,U,,USA
+251034,Mrs,Neville Smith,U,,GBR
+251035,Dorothy,Rendall,U,,GBR
+251036,,Von Minkwitz,U,,POL
+251037,Mrs E M,Jaffe,U,,USA
+251038,Katherine,Waldo,U,,USA
+251039,Elizabeth,Anderson,U,,USA
+251040,Margaret,Thompson,U,,USA
+251041,Mrs Herman,Bartolomay,U,,USA
+251042,Mrs William,Hibbard,U,,USA
+251043,Helen,Stewart,U,,USA
+251044,Babs,Waidner,U,,USA
+251045,Mrs W B,Mcelvaine,U,,USA
+251046,Katherine,Payne,U,,USA
+251047,Mrs R K,Ward,U,,USA
+251048,M,Zubanik,U,,USA
+251049,Marjorie,Miller,U,,USA
+251050,Mrs J H,Mitchell,U,,USA
+251051,Mary,Miller,U,,USA
+251052,Mrs W C,Hubbard,U,,USA
+251053,Mrs A F,Farwell,U,,USA
+251054,Gertrude,Hopper,U,,USA
+251055,Mrs L E,Bailey,U,,USA
+251056,Elizabeth,Berdler,U,,USA
+251057,Mrs A E,Michel,U,,USA
+251058,E,Schofield,U,,GBR
+251059,,Mason,U,,CAN
+251060,,Gwynne,U,,CAN
+251061,R,Richards,U,,CAN
+251062,Mrs,Waldy,U,,CAN
+251063,,Waldy,U,,CAN
+251064,K,Bates,U,,CAN
+251065,Mrs,Christmas,U,,CAN
+251066,,Crease,U,,CAN
+251067,Mrs H,Watson,U,,CAN
+251068,Mrs Ross,Lane,U,,CAN
+251069,,Hambly,U,,CAN
+251070,Mrs,Bourque,U,,CAN
+251071,Mrs,Knox,U,,CAN
+251072,,Phillips,U,,CAN
+251073,,Tanqueray,U,,CAN
+251074,Mrs,Mcdonald,U,,CAN
+251075,,Ismay,U,,CAN
+251076,,Higgs,U,,CAN
+251077,,Robertson,U,,CAN
+251078,H,Richards,U,,CAN
+251079,D,Lawson,U,,CAN
+251080,,Kilkelly,U,,CAN
+251081,Mrs,Lauder,U,,CAN
+251082,,Wetherall,U,,GBR
+251083,Mrs,Browne,U,,GBR
+251084,B A,Marsh,U,,GBR
+251085,Mrs G D,Morris,U,,GBR
+251086,W H,Iles,U,,GBR
+251087,L R,May,U,,GBR
+251088,M,Mcgeoch,U,,GBR
+251089,E L,Welch,U,,GBR
+251090,J M,Pickard,U,,GBR
+251091,Mrs,Cavendish,U,,GBR
+251092,Mrs E,Wann,U,,GBR
+251093,P R,Lovatt,U,,GBR
+251094,,Leyton Blount,U,,GBR
+251095,E L,James,U,,GBR
+251096,Olga,Walker,U,,GBR
+251097,Mrs A M,Wells,U,,GBR
+251098,M C,Atchley,U,,GBR
+251099,M,Lees,U,,GBR
+251100,N K,Stanford,U,,GBR
+251101,L,Busvine,U,,GBR
+251102,O,Walker,U,,GBR
+251103,C M,Griffiths,U,,GBR
+251104,Mrs A E,Thomas,U,,GBR
+251105,D,Julian,U,,GBR
+251106,Mrs G S,Winter,U,,GBR
+251107,B,Rickett,U,,GBR
+251108,Mrs N H B,Thompson,U,,GBR
+251109,M D,Bascombe,U,,GBR
+251110,,Flower,U,,GBR
+251111,Mrs,Hanbury,U,,GBR
+251112,Mrs T,Moss,U,,GBR
+251113,R,Shuttle,U,,GBR
+251114,W E,Bisiker,U,,GBR
+251115,P,Hughes,U,,GBR
+251116,L L,Stave,U,,GBR
+251117,F,Barker,U,,GBR
+251118,C,Beauchamp,U,,GBR
+251119,Mrs T,Lloyd,U,,GBR
+251120,M L,Aitchison,U,,GBR
+251121,M,Mann,U,,GBR
+251122,Mrs,Cross,U,,GBR
+251123,Mrs Coleman,Romain,U,,USA
+251124,Irving,Murphy,U,,USA
+251125,Gwendoline,Peters,U,,USA
+251126,Marguerite,Ellis,U,,USA
+251127,Tuttle,Flaspoller,U,,USA
+251128,Mrs George,Sloane,U,,USA
+251129,Constance,Fox,U,,USA
+251130,Martha,Ottley,U,,USA
+251131,Ruth,Kenefick,U,,USA
+251132,Vera,Noyes,U,,USA
+251133,Gladys,Anderson,U,,USA
+251134,Grace,Lockwood,U,,USA
+251135,Florence,Paulson,U,,USA
+251136,Mrs,Comerford,U,,IRL
+251137,Doreen,French,U,,IRL
+251138,,Gubbins,U,,IRL
+251139,,Grattan Kelly,U,,IRL
+251140,K,Roantree,U,,IRL
+251141,Mrs R,Fletcher,U,,GBR
+251142,M,Mitchell,U,,GBR
+251143,Mrs N,Cahusac,U,,GBR
+251144,M,Brooke,U,,GBR
+251145,K,Scott,U,,GBR
+251146,B,Walton,U,,GBR
+251147,,Walker Smith,U,,GBR
+251148,,Hayman,U,,GBR
+251149,Mrs J,Heagerty,U,,GBR
+251150,Lady,Ossulston,U,,GBR
+251151,,Vesey,U,,GBR
+251152,E,Goold,U,,GBR
+251153,G G,Churchill,U,,GBR
+251154,Mrs M N,Jones,U,,GBR
+251155,Mrs H P,Wright,U,,GBR
+251156,D A,Bird,U,,GBR
+251157,Mrs M,Starkie,U,,GBR
+251158,M,Scott,U,,GBR
+251159,Nancy,Mitchell,U,,AUS
+251160,Jean,Strahan,U,,AUS
+251161,N,Collins,U,,AUS
+251162,Dorothy,Gordon,U,,AUS
+251163,Edith,Mackenzie,U,,AUS
+251164,Vera,Sheriff,U,,AUS
+251165,Nancye,Everett,U,,AUS
+251166,Winifred,Ball,U,,USA
+251167,Edna,Glass,U,,USA
+251168,Mrs,Whyte,U,,USA
+251169,Mrs,Wendt,U,,USA
+251170,Else,Klatte,U,,GER
+251171,Julia,Stroink,U,,NED
+251172,Mrs F A P,Foster,U,,GBR
+251173,A,Mcintosh,U,,USA
+251174,Maude,Walker,U,,USA
+251175,M H,Butterworth,U,,GBR
+251176,,Alison,U,,
+251177,Mrs,Morrogh,U,,GBR
+251178,Mrs,Shard,U,,GBR
+251179,Mrs,Jennings,U,,GBR
+251180,,Flurscheim,U,,GBR
+251181,Mrs R,Banks,U,,GBR
+251182,Mrs,Shelton,U,,GBR
+251183,J,Headington,U,,GBR
+251184,R,Marcon,U,,GBR
+251185,,Holloway,U,,GBR
+251186,E D,Davies,U,,GBR
+251187,M C,Wade,U,,GBR
+251188,Ray,Taylor,U,,USA
+251189,Mrs H H,Whitman,U,,USA
+251190,Mrs F P,Sears,U,,USA
+251191,Mrs Jesse,Spalding,U,,USA
+251192,Mrs,Finestam,U,,USA
+251193,M,Ferguson,U,,GBR
+251194,K E,Newton,U,,GBR
+251195,K,Patterson,U,,GBR
+251196,N,Williams,U,,GBR
+251197,D K,Walters,U,,GBR
+251198,M E,Jones,U,,GBR
+251199,Mrs C,Burns,U,,GBR
+251200,D H,Carruthers,U,,GBR
+251201,B M,Emson,U,,GBR
+251202,M,Newcombe,U,,GBR
+251203,Mrs B,Redfern,U,,GBR
+251204,B,Royds,U,,GBR
+251205,C,Henson,U,,GBR
+251206,S M,Guthrie,U,,GBR
+251207,L J,Pincott,U,,GBR
+251208,I,Tolhurst,U,,GBR
+251209,M M,Pincott,U,,GBR
+251210,Mrs F R,Jones,U,,GBR
+251211,F,Musgrave,U,,GBR
+251212,E,Wix,U,,GBR
+251213,M,Black,U,,GBR
+251214,Mrs,Venables,U,,GBR
+251215,,Huleatt,U,,GBR
+251216,S,Slade,U,,GBR
+251217,Mrs M D,Dando,U,,GBR
+251218,Mrs,Mcmullan,U,,GBR
+251219,I C,Sowdon,U,,GBR
+251220,G,Black,U,,GBR
+251221,,Edden,U,,GBR
+251222,R H,Parkinson,U,,GBR
+251223,J O,Harris,U,,GBR
+251224,Mrs N,Toft,U,,MAS
+251225,Mrs,Rule,U,,MAS
+251226,Ruth,Haskins,U,,USA
+251227,,Grieshaber,U,,SUI
+251228,S,Gay,U,,SUI
+251229,B,Kirton,U,,
+251230,Mrs M J,Rogers,U,,GBR
+251231,C E,Brown,U,,GBR
+251232,V,Wallis,U,,GBR
+251233,Mrs,Hollis,U,,GBR
+251234,R H,Armstrong,U,,GBR
+251235,,Jowett,U,,GBR
+251236,I H,Duckworth,U,,GBR
+251237,A,Wallis,U,,GBR
+251238,,Bissett,U,,GBR
+251239,,Grimstell,U,,GBR
+251240,Mrs A B,Wallace,U,,GBR
+251241,C K,Uhthoff,U,,GBR
+251242,M G A,Morton,U,,GBR
+251243,Mrs M,Woodcock,U,,GBR
+251244,E,Mill,U,,GBR
+251245,J,Hughes,U,,GBR
+251246,Maude,Dillon,U,,GBR
+251247,M E T,Hodgson,U,,GBR
+251248,V,Molson,U,,GBR
+251249,J M,Briggs,U,,GBR
+251250,Mrs C,Gibson,U,,GBR
+251251,S E,Lawson,U,,GBR
+251252,F M,Cleeves,U,,GBR
+251253,J,Wyatt,U,,GBR
+251254,Ruth,Maisel,U,,USA
+251255,Mrs A J,Salinger,U,,USA
+251256,Charlotte,Conlin,U,,USA
+251257,Grace,Graham,U,,USA
+251258,Marguerite,Dwyer,U,,USA
+251259,Helen,Kalman,U,,USA
+251260,,Lhonet,U,,SVK
+251261,A,Ekman,U,,SWE
+251262,Helen,Bostwick,U,,USA
+251263,Jennie,Cohen,U,,USA
+251264,Irene,Guilford,U,,USA
+251265,Mrs G T,Hadley,U,,USA
+251266,Constance,Campbell,U,,USA
+251267,Katherine,Mckee,U,,USA
+251268,Hilda,Brown,U,,USA
+251269,Edwin,Phair,U,,USA
+251270,Dulcie,Gowan,U,,USA
+251271,Dolores,Sanchez,U,,USA
+251272,Sue,Maynard,U,,USA
+251273,Doris,Hirsh,U,,USA
+251274,Jewel,Adams,U,,USA
+251275,Edyna,Messe,U,,USA
+251276,Maddaline,Braida,U,,USA
+251277,Florence,Fletcher,U,,USA
+251278,Mrs Louis,May,U,,USA
+251279,Mrs B E,Dolan,U,,USA
+251280,Edna,De Sanchez,U,,USA
+251281,Myrtle,Davies,U,,USA
+251282,Lillian,Brown,U,,USA
+251283,Veredda,Walcott,U,,USA
+251284,Mrs W C,Michels,U,,USA
+251285,Mrs D G,Mcpherson,U,,USA
+251286,Ella,Mckee,U,,USA
+251287,Dorothy,Grassel,U,,USA
+251288,Mrs,Barrett,U,,GBR
+251289,,Lindsey,U,,GBR
+251290,Mrs,Tothill,U,,GBR
+251291,,Banderlein,U,,SUI
+251292,,De Pey,U,,SUI
+251293,Mrs W S,Brown,U,,GBR
+251294,Mrs C,Wormald,U,,GBR
+251295,L H,Hartley,U,,GBR
+251296,Mrs,Spoor,U,,GBR
+251297,L,Scheilbier,U,,GBR
+251298,,Bourt,U,,GBR
+251299,Mrs,Parnell,U,,AUS
+251300,,Moore,U,,AUS
+251301,,Doack,U,,AUS
+251302,,Forster,U,,GBR
+251303,,Lowell,U,,GBR
+251304,,Blydenstein,U,,NED
+251305,Grace,Bristed,U,,USA
+251306,Mrs P,Shedden,U,,GBR
+251307,J A,Adamson,U,,GBR
+251308,C,Slater,U,,GBR
+251309,J E,Wintington,U,,GBR
+251310,Mrs E,Brierley,U,,GBR
+251311,V,Bowling,U,,GBR
+251312,A L,Lisher,U,,GBR
+251313,V,Harris,U,,GBR
+251314,J,Edgson Wright,U,,GBR
+251315,Mrs L,Evans,U,,GBR
+251316,W M,Berneau,U,,GBR
+251317,Mrs J A,Benstead,U,,GBR
+251318,D L C,Brown,U,,GBR
+251319,M,Harvey,U,,GBR
+251320,G M,Boret,U,,GBR
+251321,D M,Longhurst,U,,GBR
+251322,J,Howes,U,,GBR
+251323,S F,Ashton,U,,GBR
+251324,M,Thomasson,U,,GBR
+251325,S,Lintner,U,,USA
+251326,R,Darling,U,,USA
+251327,B,White,U,,USA
+251328,,Lehman,U,,USA
+251329,,Meurer,U,,USA
+251330,,Norwood,U,,USA
+251331,E,White,U,,USA
+251332,,Hollander,U,,USA
+251333,K,Scovelle,U,,USA
+251334,,Kelley,U,,USA
+251335,,Hooe,U,,USA
+251336,,Elder,U,,USA
+251337,Ruth,Curry,U,,USA
+251338,Ruth,Gutterman,U,,USA
+251339,,Morris,U,,
+251340,,Hart,U,,
+251341,,Rudolfova,U,,CZE
+251342,Mrs W M,Tait,U,,GBR
+251343,M,Goodby,U,,GBR
+251344,Mrs E A,Whitworth,U,,GBR
+251345,S,Smailes,U,,GBR
+251346,,Landon,U,,GBR
+251347,,Whyte,U,,GBR
+251348,M B,Brock,U,,GBR
+251349,Mrs A,Osborne,U,,GBR
+251350,R K,Chesterfield,U,,GBR
+251351,J,Soughton,U,,GBR
+251352,M E,Stone,U,,GBR
+251353,V,Ashton,U,,GBR
+251354,Mrs H,Mallenam,U,,GBR
+251355,,Wurth,U,,
+251356,E,Oddy,U,,GBR
+251357,E,Eland,U,,GBR
+251358,Mrs A,Taylor,U,,GBR
+251359,N E,Collett,U,,GBR
+251360,E M,Clark,U,,GBR
+251361,C M,Macnah,U,,GBR
+251362,J B,Hodge,U,,GBR
+251363,Q,Proctor,U,,GBR
+251364,Mrs,Swaynson,U,,GBR
+251365,M G,Barlow,U,,GBR
+251366,M,Boumphrey,U,,GBR
+251367,D S,Taylor,U,,GBR
+251368,H,Johnson,U,,GBR
+251369,V,Pearce,U,,GBR
+251370,G E,Shepherd,U,,GBR
+251371,M J,Murslon,U,,GBR
+251372,P,Fraser,U,,GBR
+251373,Mrs H G,Bell,U,,GBR
+251374,E F,Cassidy,U,,GBR
+251375,B M,Brown,U,,GBR
+251376,P,Parke,U,,GBR
+251377,L T,Shaw,U,,GBR
+251378,D,Goldsworth,U,,GBR
+251379,Mrs G C,Pearce,U,,GBR
+251380,Mrs L M,Marsh,U,,GBR
+251381,L,Marchant,U,,GBR
+251382,L,Hightower,U,,USA
+251383,M,Terwilliger,U,,USA
+251384,M,Armstrong,U,,USA
+251385,Marion,Leachman,U,,USA
+251386,Mrs H,Long,U,,USA
+251387,Mrs M,Tusher,U,,USA
+251388,Margaret,Ullum,U,,USA
+251389,L,Cartwright,U,,USA
+251390,Sally,Heaton,U,,USA
+251391,Mrs Robert,Harold,U,,USA
+251392,Marjorie,Dallett,U,,USA
+251393,E,Moss,U,,USA
+251394,H,Westphal,U,,USA
+251395,Mrs E R,Turner,U,,USA
+251396,M,Synge,U,,USA
+251397,C,Davies,U,,USA
+251398,E N,Moretou,U,,USA
+251399,M C,Toulmin,U,,USA
+251400,D T,Laing,U,,USA
+251401,D L,Redmayne,U,,USA
+251402,Mrs C D,Swinhoe,U,,USA
+251403,A,Kayser,U,,USA
+251404,E A,Reeves,U,,USA
+251405,E,Burr,U,,USA
+251406,B,Speer,U,,USA
+251407,G,Chaplin,U,,USA
+251408,K,Powell,U,,USA
+251409,M,Barnard,U,,USA
+251410,C,Madden,U,,USA
+251411,,Ling,U,,USA
+251412,Mary,Rochon,U,,USA
+251413,,Comte,U,,SUI
+251414,,Dubelbeiss,U,,SUI
+251415,Mrs,Humfrey,U,,GBR
+251416,H R,Crawford,U,,GBR
+251417,Mrs,Alderson,U,,GBR
+251418,Mrs W A,Boyd,U,,GBR
+251419,,Pratt,U,,GBR
+251420,Mrs,Wyatt,U,,GBR
+251421,,Peacock,U,,GBR
+251422,,Wilson,U,,GBR
+251423,,Webb,U,,GBR
+251424,Mrs,Buzzard,U,,GBR
+251425,Mrs R J,Mullings,U,,GBR
+251426,Mrs,Borlace,U,,GBR
+251427,,Dillon,U,,GBR
+251428,D M,Charles,U,,GBR
+251429,Mrs,Hodgson Wilson,U,,GBR
+251430,Mrs,Hobbs,U,,GBR
+251431,Mrs W,Rawle,U,,GBR
+251432,,Morris,U,,GBR
+251433,V,Christian,U,,GBR
+251434,,Schweishard,U,,CRO
+251435,G,Ralz,U,,AUT
+251436,A C,Chesterfield,U,,GBR
+251437,A,Quaife,U,,GBR
+251438,Mrs M,Hasler,U,,GBR
+251439,Mrs H M,Bucknall,U,,GBR
+251440,J,Paine,U,,GBR
+251441,D,Agius,U,,GBR
+251442,D A,Broomfield,U,,GBR
+251443,E,Bruce,U,,GBR
+251444,M,Walters,U,,GBR
+251445,N,Gow,U,,GBR
+251446,P,Allender,U,,GBR
+251447,Mrs R E,Colyer,U,,GBR
+251448,Mrs D H,Leek,U,,GBR
+251449,Mrs D M,Woods,U,,GBR
+251450,P,Wallers,U,,GBR
+251451,E A,Dawnay,U,,GBR
+251452,S V,Hodges,U,,GBR
+251453,Mary,Martin,U,,USA
+251454,Mrs Herman,Kobbe,U,,USA
+251455,Mrs Francis,Capper,U,,USA
+251456,Mrs C,Branfoot,U,,GBR
+251457,M,Hutton,U,,GBR
+251458,,Goldston,U,,GBR
+251459,,Burton Fanning,U,,GBR
+251460,Mrs K,Sneeman,U,,GBR
+251461,M,Hayles,U,,GBR
+251462,Mrs N,Henniker Gotley,U,,GBR
+251463,I K,Lewis,U,,GBR
+251464,Mrs E,Banks,U,,GBR
+251465,Mrs M G,Slocombe,U,,GBR
+251466,Mrs H,Proctor,U,,GBR
+251467,Mrs G M,Blagden,U,,GBR
+251468,Mrs C,Turner,U,,GBR
+251469,Mrs,Bovein Brown,U,,GBR
+251470,R,Lloyd,U,,GBR
+251471,E,Caven,U,,GBR
+251472,S,Stephenson,U,,GBR
+251473,Mrs E J,Russell,U,,GBR
+251474,K M,Hughes,U,,GBR
+251475,G,Walton Brown,U,,GBR
+251476,W,Mcconnell,U,,GBR
+251477,M,Sadler,U,,GBR
+251478,,Haydon,U,,GBR
+251479,P,Kempson,U,,GBR
+251480,H A,Pruit,U,,GBR
+251481,M,Caller,U,,GBR
+251482,Mrs S,Pearce,U,,GBR
+251483,F,Caller,U,,GBR
+251484,H,Dodsworth,U,,GBR
+251485,L,Stallworthy,U,,GBR
+251486,Mrs T C,Hassell,U,,GBR
+251487,Mrs J,Hughes,U,,GBR
+251488,K L,Clark,U,,GBR
+251489,Mrs,Guthrie,U,,GBR
+251490,E N,Westcott,U,,GBR
+251491,A R,White,U,,GBR
+251492,C T,Potts,U,,GBR
+251493,B,Robertson,U,,GBR
+251494,A D,Sadler,U,,GBR
+251495,H,Stevenson,U,,GBR
+251496,E J,Weymouth,U,,GBR
+251497,E M,Draper,U,,GBR
+251498,,Tyson,U,,USA
+251499,,Hegeler,U,,USA
+251500,Mrs,Curtiss,U,,USA
+251501,Hope,Walker,U,,USA
+251502,Mrs H,Burr,U,,GBR
+251503,Mrs H,Wentworth Smith,U,,GBR
+251504,A,Echenique,U,,MEX
+251505,Mrs N,Cockburn,U,,
+251506,C,Echenique,U,,MEX
+251507,V,Norris,U,,GBR
+251508,M L,Church,U,,GBR
+251509,Mrs G L,Lang,U,,GBR
+251510,Teresa,Liencres,U,,ESP
+251511,Carmen,Alaman,U,,ESP
+251512,Carola,Fabra,U,,ESP
+251513,Gertrude,Laderman,U,,USA
+251514,Thelma,Wolff,U,,USA
+251515,Margaret,Osgood,U,,USA
+251516,Ila,Wilcox,U,,USA
+251517,Johanna,Gunzberger,U,,USA
+251518,Blanche,Ashbaugh,U,,USA
+251519,Ann,Colton,U,,USA
+251520,Jean,Gelston,U,,USA
+251521,Lillian,Lee,U,,USA
+251522,Muriel,Dinzen,U,,USA
+251523,Helen,Smidt,U,,USA
+251524,Friede,Smidt,U,,USA
+251525,Emma,Hausell,U,,USA
+251526,N,Baltin,U,,USA
+251527,Mrs J R,Helmle,U,,USA
+251528,Mrs Armand,Bruneau,U,,USA
+251529,Idda,Jova,U,,USA
+251530,Polly,Odell,U,,USA
+251531,Ella May,Yearsley,U,,USA
+251532,Jane,Maxwell,U,,USA
+251533,F,Cozzens,U,,USA
+251534,Frances,Barnhard,U,,USA
+251535,,Labouchere,U,,FRA
+251536,,Cerf,U,,FRA
+251537,,Seilert,U,,FRA
+251538,,Eymeoud,U,,FRA
+251539,,Henry,U,,FRA
+251540,,Thierry,U,,FRA
+251541,,Picquee,U,,FRA
+251542,Eugenie,Reid,U,,USA
+251543,Mrs R,Hamilton,U,,USA
+251544,Martha,Coleman,U,,USA
+251545,,Gomez,U,,USA
+251546,Mary,Henry,U,,USA
+251547,Mrs T C,Williams,U,,USA
+251548,Adeline,Vaughan,U,,USA
+251549,V,Downing,U,,USA
+251550,Mrs H R,Earle,U,,USA
+251551,Genevieve,Adrien,U,,USA
+251552,Daisy,Atterbury,U,,USA
+251553,Mrs George,Miller,U,,USA
+251554,Mrs George V,Meyer,U,,USA
+251555,Mrs E E,Green,U,,USA
+251556,Mrs Eugene,Beggs,U,,USA
+251557,Mrs M H,Higgers,U,,USA
+251558,Muriel,Macdonald,U,,USA
+251559,Elizabeth,Stevens,U,,USA
+251560,Dorothy,Planten,U,,USA
+251561,Ethel,Moorhead,U,,USA
+251562,Mrs C B,Sackett,U,,USA
+251563,Daisy,Upham,U,,USA
+251564,Evelyn,Gassagne,U,,USA
+251565,Katherine,Watson,U,,USA
+251566,Elizabeth,Wheeler,U,,USA
+251567,Molly,Walcott,U,,USA
+251568,Lucille,Murphy,U,,USA
+251569,Beatrice,Grofood,U,,USA
+251570,Josephine,Cronin,U,,USA
+251571,Edith,Pitkin,U,,USA
+251572,Mrs G Peabody,Gardner,U,,USA
+251573,Eleanor,Gibson,U,,USA
+251574,Betty,Soule,U,,USA
+251575,Ruth,Bremer,U,,USA
+251576,Ruth,Gibson,U,,USA
+251577,Virginia,Oakes,U,,USA
+251578,Mrs J H,Robb,U,,USA
+251579,Kathryn,Butman,U,,USA
+251580,Emily,Winslow,U,,USA
+251581,Alice,Luce,U,,USA
+251582,Mrs H,Livermore,U,,USA
+251583,Adie,Kirkridge,U,,USA
+251584,Gertrude,Richman,U,,USA
+251585,Louella,Pressy,U,,USA
+251586,Rachel,Warrington,U,,USA
+251587,Leona,Rosenbaum,U,,USA
+251588,Mary,Faherty,U,,USA
+251589,Susan,Beall,U,,USA
+251590,V,Clinedinst,U,,USA
+251591,Katherine,Sullivan,U,,USA
+251592,Eloise,Roman,U,,USA
+251593,Marjorie,Wiley,U,,USA
+251594,Molly,French,U,,IRL
+251595,Eleanor,Kaufman,U,,USA
+251596,Sally,Brooks,U,,USA
+251597,Barbara,Way,U,,USA
+251598,Sarah,Brewster,U,,USA
+251599,Maribel,Tinton,U,,USA
+251600,Frances,Fettiziv,U,,USA
+251601,Nancy,Way,U,,USA
