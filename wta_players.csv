@@ -74,7 +74,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 200071,Lenka,Nemeckova,R,19760420,CZE,170,Q3229475
 200072,Cara,Black,R,19790217,ZIM,167,Q229128
 200073,Julie,Pullin,L,19751105,GBR,,Q6308474
-200074,Jane,Chi,R,19740621,USA,,Q24347657
+200074,Jane,Chi,R,19740621,USA,165,Q24347657
 200075,Jing Qian,Yi,R,19740228,CHN,168,Q3572264
 200076,Laurence,Courtois,R,19760118,BEL,172,Q221591
 200077,Jennifer,Capriati,R,19760329,USA,170,Q11680
@@ -241,7 +241,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 200238,Nathalie,Fuchs,U,19520903,FRA,,Q3336584
 200239,Kathy,Walker,U,,AUS,,
 200240,Eugenia,Birioukova,U,19521218,AZE,,Q3059579
-200241,Duk Hee,Lee,U,19530713,KOR,,Q625153
+200241,Duk Hee,Lee,U,19530713,KOR,157,Q625153
 200242,Helen,Young,U,,AUS,,
 200243,Glynis,Coles,R,19540220,GBR,,Q3109370
 200244,Moira,Whitely,U,,AUS,,
@@ -459,7 +459,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 200456,Masako,Yanagi,U,19591111,JPN,,Q16193239
 200457,Andrea,Holikova,U,19680115,TCH,,Q2846348
 200458,Rebecca,Bryant,U,19631220,AUS,,Q84513065
-200459,Linda,Gates,U,19691224,USA,,
+200459,Linda,Gates,U,19631001,USA,175,
 200460,Regina,Marsikova,U,19581211,CZE,,Q459614
 200461,Lisa,Spain Short,R,19620714,USA,,Q91012931
 200462,Belinda,Cordwell,U,19650921,NZL,,Q461059
@@ -511,7 +511,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 200508,Virginie,Paquet,U,19670506,FRA,,Q59528105
 200509,Michelle,Turk,U,19670923,AUS,,Q88325115
 200510,Julie,Richardson,U,19670330,NZL,173,Q3189264
-200511,Amy,Jonsson Raaholt,U,19670608,NOR,,Q11957772
+200511,Amy,Jonsson,U,19670608,NOR,,Q11957772
 200512,Clare,Thompson,U,19630610,AUS,,Q66892360
 200513,Pamela,Jung,U,19630703,USA,,Q105817097
 200514,Monique,Javer,R,19670722,GBR,,Q3320862
@@ -570,7 +570,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 200567,Jennifer,Santrock,U,19690226,USA,,Q29871322
 200568,Andrea,Farley,U,19710930,USA,,Q96621204
 200569,Petra,Langrova,U,19700627,TCH,,Q3377586
-200570,Veronika,Martinek,U,19720403,GER,,Q76091
+200570,Veronika,Martinek,U,19720403,GER,160,Q76091
 200571,Jonna,Jonerup,U,19690722,SWE,,Q61775853
 200572,Gabriela,Sabatini,R,19700516,ARG,175,Q105868
 200573,Cecilia,Dahlman,U,19680724,SWE,,Q2943714
@@ -648,7 +648,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 200645,Maja,Zivec Skulj,U,19730925,GER,,Q1885999
 200646,Francesca,Romano,U,19710207,ITA,,Q22957666
 200647,Noelle,Van Lottum,U,19720712,FRA,170,Q511721
-200648,Marketa,Kochta,U,19750714,GER,,Q1900652
+200648,Marketa,Kochta,R,19750714,GER,168,Q1900652
 200649,Ginger,Helgeson,R,19680914,USA,,
 200650,Isabel,Cueto,U,19681203,GER,,Q68151
 200651,Sabine,Hack,U,19690712,GER,170,Q84320
@@ -657,7 +657,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 200654,Patty,Oreilly,U,19680118,USA,,
 200655,Nicole,Arendt,L,19690826,USA,,Q172132
 200656,Jessica,Emmons,U,19700913,USA,,Q61722976
-200657,Radka,Bobkova,R,19730212,CZE,,Q3417073
+200657,Radka,Bobkova,R,19730212,CZE,172,Q3417073
 200658,Fang,Li,R,19730101,CHN,166,Q3237546
 200659,Rika,Hiraki,U,19711206,JPN,157,Q455453
 200660,Kimberly,Po Messerli,R,19711020,USA,157,Q297948
@@ -665,11 +665,11 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 200662,Joanne,Limmer,U,19740329,AUS,,Q11727569
 200663,Nanne,Dahlman,U,19700907,FIN,1.63,Q13531
 200664,Stephanie,Rehe,U,19691105,USA,,Q3498470
-200665,Yone,Kamio,U,19711122,JPN,,Q434034
+200665,Yone,Kamio,R,19711122,JPN,164,Q434034
 200666,Marion,Maruska,R,19721215,AUT,172,Q1899215
 200667,Ines,Gorrochategui,R,19730613,ARG,169,Q271734
 200668,Silke,Frankl,U,19700529,GER,,Q2286163
-200669,Debbie,Graham,R,19700825,USA,,Q509960
+200669,Debbie,Graham,R,19700825,USA,183,Q509960
 200670,Nathalie,Housset,U,19680729,FRA,,Q16354749
 200671,Meike,Babel,R,19741122,GER,173,Q71164
 200672,Barbara,Mulej,R,19740529,SLO,,Q18507824
@@ -686,11 +686,11 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 200683,Monique,Kiene,U,19740805,NED,,Q3320865
 200684,Shi Ting,Wang,R,19731019,TPE,,Q3566084
 200685,Christelle,Fauche,U,19730609,SUI,,Q47091207
-200686,Sandra,Dopfer,U,19700525,AUT,,Q8474464
+200686,Sandra,Dopfer,U,19700525,AUT,174,Q8474464
 200687,Katarzyna,Nowak,U,19690113,POL,,Q11294207
 200688,Noelia,Perez Penate,U,19721206,ESP,,Q53871158
 200689,Tessa,Price,U,19670325,RSA,,Q47544216
-200690,Kyoko,Nagatsuka,U,19740222,JPN,,Q455612
+200690,Kyoko,Nagatsuka,U,19740222,JPN,166,Q455612
 200691,Flora,Perfetti,R,19690129,ITA,159,Q13512713
 200692,Marzia,Grossi,U,19700902,ITA,,Q3296377
 200693,Elena,Makarova,U,19730201,RUS,,Q3050720
@@ -698,27 +698,27 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 200695,Tina,Krizan,R,19740318,SLO,175,Q542412
 200696,Christina,Papadaki,R,19730224,GRE,,Q2966680
 200697,Janette,Husarova,R,19740604,SVK,169,Q232443
-200698,Petra,Begerow,U,19750414,GER,,Q1275127
+200698,Petra,Begerow,R,19750414,GER,178,Q1275127
 200699,Meredith,Mcgrath,U,19710428,USA,,Q456740
 200700,Silvia,Farina Elia,R,19720427,ITA,172,Q237482
 200701,Caroline,Vis,R,19700304,NED,180,Q289121
-200702,Naoko,Kijimuta,U,19720326,JPN,,Q455457
+200702,Naoko,Kijimuta,R,19720326,JPN,164,Q455457
 200703,Katarina,Studenikova,R,19720902,SVK,172,Q3193948
 200704,Maria Jose,Gaidano,U,19730525,ARG,171,Q511678
 200705,Linda,Ferrando,U,19660112,ITA,170,Q3241336
-200706,Catalina,Cristea,R,19750602,ROU,,Q660289
+200706,Catalina,Cristea,R,19750602,ROU,178,Q660289
 200707,Romana,Tedjakusuma,U,19760724,INA,,Q3440970
 200708,Sandra,Cacic,R,19740910,USA,,Q3471893
 200709,Rossana,De Los Rios,R,19750916,PAR,170,Q1025215
 200710,Magdalena,Feistel,U,19700822,POL,,Q6729860
 200711,Tatiana,Ignatieva,U,19740611,BLR,,Q8334422
 200712,Katerina,Kroupova,U,19740220,CZE,,Q6376043
-200713,Yuka,Yoshida,R,19760401,JPN,,Q453385
+200713,Yuka,Yoshida,R,19760401,JPN,161,Q453385
 200714,Yvette,Basting,R,19770608,NED,,Q18605962
 200715,Mariaan,De Swardt,R,19710318,RSA,177,Q456551
-200716,Sung Hee,Park,U,19750217,KOR,,Q485902
+200716,Sung Hee,Park,R,19750217,KOR,165,Q485902
 200717,Anne,Miller,R,19770119,USA,,
-200718,Ludmila,Richterova,U,19770307,CZE,,Q279690
+200718,Ludmila,Richterova,U,19770307,CZE,180,Q279690
 200719,Siobhan,Drake Brockman,U,19780407,AUS,,Q9337190
 200720,Dally,Randriantefy,R,19770223,MAD,165,Q264088
 200721,Hiromi,Nagano,U,19710720,JPN,,Q66448878
@@ -734,12 +734,12 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 200731,Gail,Biggs,U,19700825,AUS,,Q56513364
 200732,Magdalena,Grzybowska,R,19781122,POL,184,Q1982663
 200733,Trudi,Musgrave,U,19770910,AUS,,Q440862
-200734,Tatjana,Jecmenica,U,19780704,SRB,,Q543369
+200734,Tatjana,Jecmenica,R,19780704,SRB,180,Q543369
 200735,Miho,Saeki,R,19760318,JPN,168,Q454229
 200736,Li Ling,Chen,U,19710313,CHN,165,Q2962591
-200737,Aleksandra,Olsza,U,19771208,POL,165,Q2437892
-200738,Lenka,Cenkova,U,19770124,CZE,,Q6522670
-200739,Stephanie,De Ville,U,19760724,BEL,,Q9345692
+200737,Aleksandra,Olsza,R,19771208,POL,165,Q2437892
+200738,Lenka,Cenkova,R,19770124,CZE,175,Q6522670
+200739,Stephanie,De Ville,R,19760724,BEL,172,Q9345692
 200740,Elena,Tatarkova,L,19760822,UKR,170,Q274435
 200741,Renee,Reid,U,19780528,AUS,,Q56513357
 200742,Olga,Lugina,U,19740108,UKR,,Q3350437
@@ -752,7 +752,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 200749,Samantha,Reeves,R,19790117,USA,,Q3470628
 200750,Karin,Miller,R,19771210,USA,,Q56697577
 200751,Conchita,Martinez Granados,R,19760120,ESP,,Q2947123
-200752,Raluca,Sandu,R,19800203,ROU,,Q7288404
+200752,Raluca,Sandu,R,19800203,ROU,177,Q7288404
 200753,Cindy,Watson,U,19780324,AUS,,Q5120610
 200754,Jill,Craybas,R,19740704,USA,160,Q232435
 200755,Daniela,Marzano,U,19500607,ITA,,Q17369705
@@ -848,7 +848,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 200845,Patricia,Walkden,R,19460212,RSA,,Q1568015
 200846,Michelle,Rodriguez,U,,CHI,,Q3311458
 200847,Dionissia,Asteri,U,,GRE,,
-200848,Maria,Bueno,R,19391011,BRA,,Q233247
+200848,Maria,Bueno,R,19391011,BRA,170,Q233247
 200849,Francesca,Gordigiani,U,19401220,ITA,,Q60040617
 200850,Monique,Salfati,R,19450518,ITA,,Q57550844
 200851,Margarita,Zuleta,U,,ECU,,
@@ -1078,7 +1078,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 201075,Liezel,Huber,R,19760821,USA,180,Q53565
 201076,Sophie,Georges,U,19770208,FRA,,Q52063985
 201077,Sophie,Lefevre,R,19810223,FRA,,Q82092
-201078,Eugenia,Kulikovskaya,U,19781221,RUS,163,Q3061554
+201078,Eugenia,Kulikovskaya,L,19781221,RUS,163,Q3061554
 201079,Hannah,Collin,R,19820218,GBR,,Q18592844
 201080,Louise,Latimer,R,19780119,GBR,,Q18814709
 201081,Joanne,Ward,U,19750622,GBR,,Q18642306
@@ -1203,7 +1203,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 201200,Miriam,Schnitzer,R,19770114,GER,,Q1938168
 201201,Surina,De Beer,R,19780628,RSA,177,Q9348369
 201202,Abigail,Tordoff,U,19790718,GBR,,Q61465387
-201203,Alena,Nesticka,R,19751108,CZE,175,Q4716128
+201203,Alena,Vaskova,R,19751108,CZE,175,Q4716128
 201204,Iroda,Tulyaganova,R,19820107,UZB,170,Q264521
 201205,Tracy,Almeda Singian,U,19791006,USA,,Q18649447
 201206,Allison,Bradshaw,R,19801114,USA,,
@@ -1263,7 +1263,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 201260,Kelly,Henry,U,19620418,USA,,Q63877522
 201261,Lisa,Doherty,U,19590305,USA,,
 201262,Lucy,Gordon,U,,USA,,
-201263,Jody,Appelbaum,U,19560704,USA,,
+201263,Jodi,Appelbaum,U,19560407,USA,165,
 201264,Germaine,Ohaco,U,19621208,CHI,,
 201265,Phyllis,Blackwell,U,19570326,USA,,Q96754838
 201266,Linda,Howell,U,19631106,USA,,
@@ -1334,7 +1334,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 201331,Iveta,Benesova,L,19830201,CZE,170,Q230371
 201332,Jane,Odonoghue,R,19830329,GBR,172,Q13512700
 201333,Angelika,Roesch,R,19770608,GER,172,Q74509
-201334,Zuzana,Ondraskova,R,19800503,CZE,,Q231229
+201334,Zuzana,Ondraskova,R,19800503,CZE,174,Q231229
 201335,Myriam,Casanova,R,19850620,SUI,172,Q452511
 201336,Dinara,Safina,R,19860427,RUS,185,Q1029664
 201337,Allison,Baker,L,19860410,USA,,
@@ -1453,7 +1453,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 201450,Tsvetana,Pironkova,R,19870913,BUL,180,Q229460
 201451,Kathrin,Woerle,R,19840218,GER,175,Q77300
 201452,Lourdes,Dominguez Lino,R,19810331,ESP,163,Q232544
-201453,Hana,Sromova,U,19780410,CZE,,Q615646
+201453,Hana,Sromova,R,19780410,CZE,168,Q615646
 201454,Akgul,Amanmuradova,R,19840623,UZB,190,Q236858
 201455,Elena,Vesnina,R,19860801,RUS,176,Q634844
 201456,Olga,Savchuk,R,19870920,UKR,175,Q237503
@@ -4867,7 +4867,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 204864,Anzela,Zguna,U,19731016,LAT,,Q55106216
 204865,Giulia,Baldoni,U,19830519,ITA,,
 204866,Giorgia,Buchanan,R,19840106,ITA,,
-204867,Daniela,Klemenschits,U,19821113,AUT,,Q450209
+204867,Daniela,Klemenschits,R,19821113,AUT,,Q450209
 204868,Stefanie,Weis,U,19820224,GER,,
 204869,Claire,Carter,U,19810712,GBR,,
 204870,Melissa,Berry,U,19830629,GBR,,
@@ -23848,7 +23848,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 223855,Amelie,Hacks,U,,GER,,
 223856,Gaby,Tremus,U,,GER,,
 223857,Susan,Eagar,U,,CAN,,
-223858,Chris,Beck,U,,USA,,
+223858,Chris,Safford,U,19430710,USA,,
 223859,Linda,Lewis,U,,USA,,
 223860,Louise,Brough,R,19230311,USA,171,Q53338
 223861,L,Halim,U,,INA,,
@@ -24099,7 +24099,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 224106,Rosemary,Fletcher,U,,CAN,,
 224107,Hiroko,Kosaka,U,,JPN,,
 224108,Judy,Travis,U,,CAN,,
-224109,Carol,Wendell Wood,U,,USA,,
+224109,Carol,Wendell Wood,U,19360620,USA,,
 224110,Gretchen,Vosters,U,19470707,USA,,
 224111,Ann,Rowbotham,U,19330206,USA,,
 224112,Susan,Anawalt,U,,USA,,
@@ -24119,7 +24119,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 224126,Helen,Retter,U,,GBR,,
 224127,Merrill,Jones,U,,AUS,,
 224128,Jill,Starr,U,,AUS,,
-224129,Julie,Parrott,U,,AUS,,
+224129,Julie,Parrott,U,19480910,AUS,,
 224130,Irene,De Lansalut,U,,FRA,,
 224131,Florence,Arnaud,U,,FRA,,
 224132,Rauza,Islanova,U,19480208,URS,,Q7296273
@@ -24516,7 +24516,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 224523,Jacqueline,Bolens,U,,USA,,
 224524,Carolyn,Liguori,U,,USA,,
 224525,Nancy,Derenna,U,,USA,,
-224526,Gerry,Carter,U,,USA,,
+224526,Gerry,Carter,U,19240324,USA,,
 224527,Nancy,Nikcevich,U,,USA,,
 224528,Pat,Welles,U,,USA,,
 224529,Elesa,Nelson,U,,USA,,
@@ -24673,7 +24673,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 224680,M,Lydon,U,,IRL,,
 224681,Theresa,Carton,U,,IRL,,
 224682,Judy,Gallagher,U,,IRL,,
-224683,Carol,Marquardt,U,,USA,,
+224683,Carol,Southmayd,U,19430810,USA,,
 224684,Pat,Mosely,U,,USA,,
 224685,Mary Anne,Scheneber,U,,USA,,
 224686,Shirley,Jones,U,,USA,,
@@ -24705,7 +24705,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 224712,J,Marsh,U,,GBR,,
 224713,R,Brogdon,U,,GBR,,
 224714,Regina,Kawohl,U,,GER,,
-224715,Joanne,Swanson,U,,USA,,
+224715,Joanne,Swanson,U,19450516,USA,,
 224716,T,Kermen,U,,,,
 224717,I,Beets,U,,,,
 224718,E,Kaarmus,U,,URS,,
@@ -24720,7 +24720,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 224727,Jana,Skonska,U,,,,
 224728,A,Naudin,U,,FRA,,
 224729,Olga,Lendlova,U,19350802,TCH,,
-224730,Linda,Van Der Meer,U,,USA,,
+224730,Linda,Vail,U,19371009,USA,,
 224731,Toni,Alford,U,,USA,,
 224732,,Auerbach,U,,USA,,
 224733,Ulla,Garell,U,,SWE,,
@@ -25595,7 +25595,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 225602,Caroline,Lyon,U,,GBR,,
 225603,B,Fish,U,,GBR,,
 225604,DUPE Jean,Gardner,U,,RSA,,
-225605,Judy,Tee,U,,GBR,,
+225605,Judy,Tee,U,19410814,GBR,,
 225606,Suzanne,Venning,U,,USA,,
 225607,Debbie,Simmons,U,,USA,,
 225608,Doris,Morris,U,,USA,,
@@ -25611,7 +25611,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 225618,Ruth,Latner,U,,USA,,
 225619,S,Hall,U,,GBR,,
 225620,Joan,Morton,U,,IRL,,
-225621,Mary,Osullivan,U,,IRL,,
+225621,Mary,Osullivan,U,19360227,IRL,,
 225622,Heather,Boyd,U,,IRL,,
 225623,Patricia,Doyle,U,,IRL,,
 225624,A P,Thacker,U,,GBR,,
@@ -25975,7 +25975,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 225982,Dalaille,Nicholas,U,,RSA,,
 225983,Lucy,Maia,U,,BRA,,
 225984,Kathy,Chabot,U,19431121,USA,,
-225985,Molly,Danielson,U,,USA,,
+225985,Molly,Danielson,U,19431006,USA,,
 225986,R,Consiglio,U,,ITA,,
 225987,Mrs P,Billingham,U,,GBR,,
 225988,A,Coombs,U,,GBR,,
@@ -26736,7 +26736,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 226743,Christiane,Ortelli,U,,FRA,,
 226744,Joan,Arscott,U,,,,
 226745,Gay,Millener,U,,,,
-226746,Virginia,Connolly,U,,USA,,
+226746,Virginia,Connolly,U,19380723,USA,,
 226747,Xenia,Vassiliadis,U,,GRE,,
 226748,Mary,Evans,U,,,,
 226749,Dora,Pasarell,U,,PUR,,
@@ -26771,7 +26771,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 226778,T,Anstey,U,,GBR,,
 226779,H,Herold,U,,GBR,,
 226780,S,Mallett,U,,GBR,,
-226781,Mrs Leonie,Brighton,U,,GBR,,
+226781,Leonie,Brighton,U,19160129,GBR,,
 226782,J,Hewitt,U,,GBR,,
 226783,P W,Barnes,U,,GBR,,
 226784,A,Gillespie,U,,GBR,,
@@ -26893,7 +26893,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 226900,Lorna,Raymond,U,,USA,,
 226901,Lori,Johnson,U,,USA,,
 226902,Lucille,Beers,U,,USA,,
-226903,Hope,Crocker,U,,USA,,
+226903,Hope,Crocker,U,19430911,USA,,
 226904,S,Tate,U,,RSA,,
 226905,Joan,Griffin,U,19281023,CAN,,
 226906,Margaret,Benson,U,,CAN,,
@@ -27220,7 +27220,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 227227,Genevieve,Obrien,U,19390607,AUS,,
 227228,Isabella,Del Frate,U,,ITA,,
 227229,Paola,Frontoni,U,,ITA,,
-227230,Donna,Brusco,U,,USA,,
+227230,Donna,Brusco,U,19370818,USA,,
 227231,Betty,Epstein,U,,USA,,
 227232,Ute,Luenehemann,U,,USA,,
 227233,Gillian,Findlay,U,,GBR,,
@@ -27330,7 +27330,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 227337,Eva,Pilarova,U,,TCH,,
 227338,,Blahova,U,,TCH,,
 227339,Elle,Dicker,U,,USA,,
-227340,Wendy,Stone,U,,USA,,
+227340,Wendy,Stone,U,19420507,USA,,
 227341,Nina,Balaschew,U,,USA,,
 227342,Melie,Kawilarang,U,,USA,,
 227343,Florence,Sabino,U,,USA,,
@@ -27809,7 +27809,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 227816,A M,Wingate Sand,U,,GBR,,
 227817,J,Covell,U,,GBR,,
 227818,Georgia,Johnston,U,,USA,,
-227819,Nancy,Loop,U,,USA,,
+227819,Nancy,Loop,U,19381003,USA,,
 227820,Sally,Raymond,U,,USA,,
 227821,L,Hazel,U,,GBR,,
 227822,R,Leonard,U,,GBR,,
@@ -27888,10 +27888,10 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 227895,M,Maclean,U,,GBR,,
 227896,F,Marcot,U,,GBR,,
 227897,W,Barnes,U,,GBR,,
-227898,Carolyn,Wikoff,U,19350415,USA,,
+227898,Carolyn,Wikoff,U,19390415,USA,,
 227899,Merceina,Weiss,U,19150801,USA,,
 227900,Alicia,Guri,U,19290728,ESP,,
-227901,Bonnie,Barnes,U,19330313,USA,,
+227901,Bonnie,Mackay,U,19330313,USA,,
 227902,Heather,Flynn,U,,IRL,,
 227903,R,Mcguire,U,,IRL,,
 227904,M,Dawson,U,,IRL,,
@@ -27957,7 +27957,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 227964,Pat,Cushman,U,,USA,,
 227965,Ginny,Mayne,U,,USA,,
 227966,Connie,Wilford,U,,USA,,
-227967,Jean,Laird,U,,USA,,
+227967,Jean,Laird,U,19350412,USA,,
 227968,Barbara,Barth,U,,USA,,
 227969,Baby,Vivanco,U,,MEX,,
 227970,Dot,Duff,U,,AUS,,
@@ -28470,7 +28470,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 228477,Dorothy,Ghee,U,,USA,,
 228478,Miriam,Thornton,U,,USA,,
 228479,Kay,Winthrop Mckean,U,19140717,USA,,Q35985779
-228480,Patsy,Heard,U,,USA,,
+228480,Patsy,Heard,U,19331024,USA,,
 228481,Lee,Balke,U,,USA,,
 228482,Martha,Omerly,U,19360524,USA,,
 228483,J,Valcke,U,,BEL,,
@@ -28565,7 +28565,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 228572,Nancy,Dwyer,U,,USA,,
 228573,Josefa,De Riba,U,19130720,ESP,,
 228574,Elaine,Launay,U,,FRA,,
-228575,Sara,Comer,U,,USA,,
+228575,Sara,Comer,U,19120907,USA,,
 228576,Mary,Hudcovich,U,,USA,,
 228577,Estelle,Kristenson,U,,USA,,
 228578,D,Dolard,U,,FRA,,
@@ -28958,7 +28958,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 228965,Donna,Smith,U,,USA,,
 228966,Jeanine,Pearce,U,,USA,,
 228967,Beth,Ruffin,U,19320602,AUS,,
-228968,Pat,Sullivan,U,,USA,,
+228968,Pat,Sullivan,U,19350304,USA,,
 228969,Mrs B S,Ridgeley,U,,USA,,
 228970,Edythe,Mcgoldrick,U,,USA,,
 228971,Norma,Harris,U,,USA,,
@@ -29081,13 +29081,13 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 229088,Terry,Tracy,U,,USA,,
 229089,Gloria,Martin,U,,USA,,
 229090,Pat,Oneil,U,,USA,,
-229091,Barbara,Scarlett Allen,U,,USA,,
+229091,Barbara,Scarlett,U,19300402,USA,,
 229092,Dot,Semay,U,,USA,,
 229093,Dot,Katz,U,,USA,,
 229094,Anne,Toomey,U,,USA,,
 229095,Jane,Woodworth,U,,USA,,
 229096,Bambi,Whitridge,U,,USA,,
-229097,Rosemary,Buck,U,,USA,,
+229097,Rosemary,Buck,U,19260921,USA,,
 229098,Jean,Johannes,U,,USA,,
 229099,Bobby,Gilchrist,U,,USA,,
 229100,Nancy,Swenson,U,,USA,,
@@ -29214,7 +29214,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 229221,Vivian,Robberding,U,,USA,,
 229222,Jean,Farrington,U,,USA,,
 229223,J M,Grant,U,,GBR,,
-229224,Carol,Cummings,U,,USA,,
+229224,Carol,Cummings,U,19370827,USA,,
 229225,J E,Fulton,U,,GBR,,
 229226,Janine,De La Giroday,U,,FRA,,
 229227,,Pendert,U,,,,
@@ -29936,7 +29936,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 229943,Mary Jane,Metcalf,U,19220711,USA,,
 229944,Betsy,Ross,U,,USA,,
 229945,Belinda,Reyes,U,,USA,,
-229946,Judy,Mills,U,,USA,,
+229946,Judy,Mills,U,19370902,USA,,
 229947,Lee Ann,Allen,U,,USA,,
 229948,Mary Margaret,Schmitz,U,19340108,USA,,
 229949,Jan,Cannon,U,,USA,,
@@ -30347,7 +30347,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 230354,,Kefalas,U,,,,
 230355,G,Mufarrij,U,,,,
 230356,Jane,Walsh,U,,USA,,
-230357,Gwen,Bryant,U,,AUS,,
+230357,Gwen,Bryant,L,,AUS,,
 230358,Angela,Fulton,U,,AUS,,
 230359,B,Franklin,U,,AUS,,
 230360,F,Martin,U,,AUS,,
@@ -30685,7 +30685,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 230692,Frances,Ziegler,U,,CAN,,
 230693,June,Merrill,U,,CAN,,
 230694,Henrietta,Trankle,U,,CAN,,
-230695,Pat,Longton,U,,CAN,,
+230695,Pat,Longton,U,,NZL,,
 230696,Elizabeth,Fisher,U,,USA,,
 230697,Ann,Watson,U,,USA,,
 230698,Annie,Francis,U,,USA,,
@@ -30944,7 +30944,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 230951,,James,U,,USA,,
 230952,Catherine,Duke,U,,USA,,
 230953,E,Stead,U,,GBR,,
-230954,Margaret,Fischer,U,,AUT,,
+230954,Margaret,Fisher,U,19300504,AUS,,
 230955,Mrs G K,Brock,U,,GBR,,
 230956,Mrs A M,Newman,U,,GBR,,
 230957,Maureen,Reeves,U,,RSA,,
@@ -31606,7 +31606,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 231613,V,Solomon,U,,AUS,,
 231614,H,Holstein,U,,AUS,,
 231615,P,Petitt,U,,AUS,,
-231616,Beryl,Hobbs Rocavert,U,,AUS,,
+231616,Beryl,Hobbs,U,,AUS,,
 231617,P,Franklin,U,,AUS,,
 231618,Ilse,Ribeiro,U,,BRA,,
 231619,Esme,Robertson,U,,AUS,,
@@ -31744,7 +31744,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 231751,Miriam,Alexander,U,,USA,,
 231752,Sheila,Piercey Summers,U,19190318,RSA,,Q534058
 231753,S,Brown,U,,,,
-231754,B,Bennett,U,,AUS,,
+231754,Bernice,Bennett,U,19280729,AUS,,
 231755,K,Norman,U,,AUS,,
 231756,L,Lyons,U,,AUS,,
 231757,Mrs J,Manser,U,,AUS,,
@@ -32164,7 +32164,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 232171,L,Lindquist,U,,USA,,
 232172,Betty,Lalone,U,,USA,,
 232173,Florence,Allen,U,,USA,,
-232174,Lee,Van Keuren,U,,USA,,
+232174,Lee,Van Keuren,U,19310213,USA,,
 232175,V,Waldron,U,,USA,,
 232176,R,Lee,U,,USA,,
 232177,Mrs C H,Kingsley,U,,GBR,,
@@ -32605,7 +32605,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 232612,Jurne,Viljoen,U,,RSA,,
 232613,Derryn,Haygarth,U,,RSA,,
 232614,G,Mason,U,,AUS,,
-232615,L,Nottage,U,,AUS,,
+232615,Lottie,Nottage,U,,AUS,,
 232616,J,Hazelgrove,U,,AUS,,
 232617,Sybil,Sheidow,U,,AUS,,
 232618,V,Macfarlane White,U,,AUS,,
@@ -32629,7 +32629,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 232636,Norma,Depperman,U,,USA,,
 232637,Kay,Stammers,L,19140403,GBR,,Q508114
 232638,Alice,Weiwers,U,19100817,LUX,,
-232639,Ann,Chamberlain,U,,AUS,,
+232639,Anne,Chamberlain,L,,AUS,,
 232640,,Hearn,U,,AUS,,
 232641,Ann,Lavendar,U,,USA,,
 232642,Louise,Darlington,U,,USA,,
@@ -32666,7 +32666,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 232673,Mrs B,Gourlay,U,,GBR,,
 232674,H,Bennett,U,,AUS,,
 232675,Heather,Hargreave,U,,AUS,,
-232676,B,Bligh,U,,AUS,,
+232676,Betty,Bligh,U,,AUS,,
 232677,G M,Mansell,U,,GBR,,
 232678,Phyllis,Lowe,U,,GBR,,
 232679,S E,Silverstone,U,,GBR,,
@@ -32726,7 +32726,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 232733,N,Cooper,U,,GBR,,
 232734,Joan,Hartigan,R,19120606,AUS,,Q434867
 232735,Gladys,Lewis,U,,GBR,,
-232736,S,Johnston,U,,AUS,,
+232736,Sylvia,Johnston,U,,AUS,,
 232737,Mrs L,Black,U,,GBR,,
 232738,Sarah,Mcchrystal,U,19171123,USA,,
 232739,Margot,Stewart,U,19150311,GBR,,
@@ -33082,9 +33082,9 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 233089,Mary,Morrison,U,,USA,,
 233090,Betty,Miner,U,,USA,,
 233091,Beulah,Murray,U,,USA,,
-233092,V,Earle,U,,AUS,,
+233092,Viola,Earle,U,19261228,AUS,,
 233093,N,Martin,U,,AUS,,
-233094,B,Murphy,U,,AUS,,
+233094,Bernice,Murphy,U,,AUS,,
 233095,B,Mcdermott,U,,AUS,,
 233096,Veronica,Linehan,U,,AUS,,
 233097,Denise,Radford,U,,AUS,,
@@ -33946,7 +33946,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 233953,,Cooper,U,,GBR,,
 233954,,Cameron,U,,GBR,,
 233955,,Clisset,U,,GBR,,
-233956,V,Miles,U,,GBR,,
+233956,Valerie,Miles,U,,GBR,,
 233957,Peggy,Scriven Vivian,L,19120817,GBR,,Q447885
 233958,,Brutton,U,,GBR,,
 233959,Jean,Saunders,R,19140730,GBR,,
@@ -34525,7 +34525,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 234532,Peggy,Feightner,U,,USA,,
 234533,Marjorie,Stevens,U,,AUS,,
 234534,Doreen,Cock,U,,AUS,,
-234535,Val,Pellew,U,,AUS,,
+234535,Val,Pellew,U,19261202,AUS,,
 234536,Barbara,Cane,U,,AUS,,
 234537,Shirley,Grant,U,,AUS,,
 234538,Norma,Reid,U,,AUS,,
@@ -34539,7 +34539,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 234546,Betty,Grimes,U,,USA,,
 234547,Dottie,Jefferson,U,,USA,,
 234548,Melba,Garcia,U,,CAN,,
-234549,Catherine,Sample,U,,USA,,
+234549,Catherine,Sample,U,19130226,USA,,
 234550,Marta,Quitllian,U,,USA,,
 234551,Madeline,Kirchman,U,,USA,,
 234552,DUPE Mary Lou,Beyer,U,,USA,,
@@ -34794,7 +34794,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 234801,Cosette,Saint Omer Roy,U,19070306,FRA,,Q104532209
 234802,Anny,Oetiker,U,,SUI,,
 234803,,Pillois,U,,SUI,,
-234804,Ruth,Maguire,U,,USA,,
+234804,Ruth,Maguire,U,19121209,USA,,
 234805,Jane,Wilmerdind,U,,USA,,
 234806,D S B,Day,U,,GBR,,
 234807,V S,Wilson,U,,GBR,,
@@ -34889,7 +34889,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 234896,P,Smith,U,,GBR,,
 234897,Barbara,Ball,U,,USA,,
 234898,Gloria,Ross,U,,USA,,
-234899,Theodosia,Smith,U,,USA,,
+234899,Theodosia,Smith,U,19090225,USA,,
 234900,Jane,Mcclain,U,,USA,,
 234901,L,Williamson,U,,USA,,
 234902,Mary,Rose,U,,USA,,
@@ -34903,7 +34903,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 234910,N,Southwell,U,,AUS,,
 234911,Luz,De Novoa,U,,MEX,,
 234912,Teresa,Mundet,U,,MEX,,
-234913,Raquel,Moch De Martinez,U,,MEX,,
+234913,Raquel,Moch,U,19150206,MEX,,
 234914,Emma Rosa,Gutierrez De Marquez,U,,MEX,,
 234915,M,Chambers,U,,GBR,,
 234916,Mrs,Horne,U,,GBR,,
@@ -35331,7 +35331,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 235338,Kathryn,Irvis Jones,U,,USA,,
 235339,G,Davis,U,,USA,,
 235340,Gwendolyn,Mcdaniel,U,,USA,,
-235341,Geraldine,Leitner,U,,USA,,
+235341,Geraldine,Leitner,U,19070126,USA,,
 235342,DUPE,Hrdlickova,U,,CZE,,
 235343,,Vseteckova,U,,CZE,,
 235344,Diemer,Kool,U,,NED,,
@@ -35392,7 +35392,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 235399,Sharni,Rothacker,U,,AUS,,
 235400,Stefanie,Sammaritano,U,,FRA,,
 235401,Eva,Mendonca,U,,POR,,
-235402,Miko,Hemsi,U,,USA,,
+235402,Miko,Hemsi,U,19740225,USA,,
 235403,Yolanda,Rodriguez,U,,MEX,,
 235404,Carola,Danoveitia,U,,CHI,,
 235405,Stephanie,Sirota,U,,USA,,
@@ -36679,7 +36679,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 236686,Audrey,Smidt,U,,USA,,
 236687,Julia,Schieszer,U,,USA,,
 236688,Ann,Desloge,U,,USA,,
-236689,Thelma,Kenefick,U,,USA,,
+236689,Thelma,Kenefick,U,19110704,USA,,
 236690,Polly,Walsh,U,,USA,,
 236691,Elda,Stemmler,U,,USA,,
 236692,Nancy,Craig,U,,USA,,
@@ -37030,7 +37030,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 237037,Doris,Koenig,U,,USA,,
 237038,Berta,Norris,U,,USA,,
 237039,Jean,Nash,U,,USA,,
-237040,Ann,Walker,U,,USA,,
+237040,Ann,Walker,U,19040418,USA,,
 237041,Eleanor,Smithwick,U,,USA,,
 237042,Virginia,Ellis,U,,USA,,
 237043,Mrs George,Kunhardt,U,,USA,,
@@ -37204,7 +37204,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 237211,Marjorie,Stone,U,,USA,,
 237212,Alice,Dickey,U,,USA,,
 237213,Mary,Porter,U,,USA,,
-237214,Helen,Spencer,R,,USA,,
+237214,Helen,Schuhmann,R,19080418,USA,,
 237215,Dakin,Brownell,U,,USA,,
 237216,DUPE Mary,Mackey Robbens,U,,USA,,
 237217,Jane,Horrell,U,,USA,,
@@ -37784,11 +37784,11 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 237791,L,Booth,U,,AUS,,
 237792,A,Mcgilvray,U,,AUS,,
 237793,Kitty,Lawrence,U,,USA,,
-237794,Virginia,Hollinger,U,,USA,,
+237794,Virginia,Hollinger,U,19170204,USA,,
 237795,Rose,Dowling,U,,USA,,
 237796,Josephine,Otter,U,,USA,,
 237797,Virginia,Hitt,U,,USA,,
-237798,Louise,Hofmeister,U,,USA,,
+237798,Louise,Hofmeister,U,19050609,USA,,
 237799,Florence,Wittleder,U,,USA,,
 237800,Katharine,Bogan,U,,USA,,
 237801,Masie,Howard,U,,USA,,
@@ -37910,7 +37910,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 237917,Eleanor,Colitor,U,,USA,,
 237918,Ellen,Chaney,U,,USA,,
 237919,Kay,Lovejoy,U,,USA,,
-237920,Grace,Surber,U,,USA,,
+237920,Grace,Surber,U,19120114,USA,,
 237921,Mrs William,Demuth,U,,USA,,
 237922,Helen,Rowley,U,,USA,,
 237923,Betty,Brandstrom,U,,USA,,
@@ -38010,7 +38010,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 238017,,Schmitz Otto,U,,SUI,,
 238018,,Lerwill,U,,RSA,,
 238019,Susie,Van Niekerk,U,,RSA,,
-238020,Frances,Farquharson,U,,RSA,,
+238020,Frances,Farquharson,U,19090722,RSA,,
 238021,C,Mulcahy,U,,RSA,,
 238022,E,Whittaker,U,,RSA,,
 238023,Norma,Simmons,U,,USA,,
@@ -38446,7 +38446,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 238453,Virginia,Stein,U,,USA,,
 238454,Gussie,Raegener,L,,USA,,
 238455,Hazel,Utz,U,,USA,,
-238456,Parvin,Dinshaw,U,,IND,,
+238456,Parvin,Dinshaw,U,19140411,IND,,
 238457,,Lemasson,U,,FRA,,
 238458,,Gibson,U,,FRA,,
 238459,,D Anella,U,,FRA,,
@@ -38484,7 +38484,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 238491,Dorothy,Holman,R,18830718,GBR,,Q440169
 238492,,Homan,U,,FRA,,
 238493,Rabia,Sultana,U,,IND,,
-238494,Mucca,Dinshaw,U,,IND,,
+238494,Mucca,Dinshaw,U,19161204,IND,,
 238495,Marie,Heidenreich,U,,NOR,,
 238496,,Van Heckeren,U,,GER,,
 238497,L,Sobotkova,U,,CZE,,
@@ -38880,7 +38880,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 238887,Peggy,Balan,U,,USA,,
 238888,Mrs William,Howe,U,,USA,,
 238889,Ann,Motley,U,,USA,,
-238890,Ottilie,Gaertner,U,,USA,,
+238890,Ottilie,Gaertner,U,19060601,USA,,
 238891,Mrs Archibald,Cox,U,,USA,,
 238892,Virginia,Cross,U,19081101,USA,,
 238893,Frances,Pringle,U,,USA,,
@@ -38995,7 +38995,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 239002,Gertrude,Rasyeja,U,,USA,,
 239003,Elizabeth,Mcdevitt,U,,USA,,
 239004,Janet,Lorentz,U,,USA,,
-239005,Virginia,Dueker,U,,USA,,
+239005,Virginia,Dueker,U,19040506,USA,,
 239006,Rose,Baldasare,U,,USA,,
 239007,Claire,Hotchner,U,,USA,,
 239008,Ellen,Kades,U,,USA,,
@@ -39494,7 +39494,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 239501,,Sanguan,U,,THA,,
 239502,,Kuat,U,,THA,,
 239503,Gwen,Stevenson,U,,AUS,,
-239504,Barbara,Drew,U,,GBR,,
+239504,Barbara,Drew,U,19051027,GBR,,
 239505,Mrs G R,Genge,U,,IND,,
 239506,G J,Kavasji,U,,IND,,
 239507,Inge,Behrens,U,,DEN,,
@@ -39740,7 +39740,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 239747,Mrs Guy,Bostwick,U,,USA,,
 239748,Sena,Waxel,U,,USA,,
 239749,V,Duecker,U,,USA,,
-239750,Helen,Gruchalla,U,,USA,,
+239750,Helen,Gruchalla,U,19110826,USA,,
 239751,W,Winters,U,,USA,,
 239752,Wilma,Perry,U,,USA,,
 239753,Ann,Ellis,U,,USA,,
@@ -40000,7 +40000,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 240007,,Johnson,U,,USA,,
 240008,B,Cottier,U,,USA,,
 240009,,Kawai,U,,USA,,
-240010,Elizabeth,Deike,U,,USA,,
+240010,Elizabeth,Deike,U,19100209,USA,,
 240011,Ellen,Kadas,U,,USA,,
 240012,Lucille,Nicholls,U,,USA,,
 240013,Estelle,Graves,U,,USA,,
@@ -40663,7 +40663,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 240670,A,Potter,U,,GBR,,
 240671,Mrs V M,Dickinson,U,,GBR,,
 240672,Suzanne,Martin,U,,FRA,,
-240673,Natalie,Waidner,U,,USA,,
+240673,Natalie,Waidner,U,19180531,USA,,
 240674,Betty,Butler,U,,USA,,
 240675,S,Ward,U,,GBR,,
 240676,D,Duder,U,,GBR,,
@@ -40754,7 +40754,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 240761,W,Sargeant,U,,GBR,,
 240762,Irene,Edwards,U,,GBR,,
 240763,,Markus,U,,FRA,,
-240764,Gloria,Ferrante Di Ruffano,U,,ITA,,
+240764,Gloria,Ferrante Di Ruffano,U,19211127,ITA,,
 240765,,Vollemer,U,,AUT,,
 240766,V S,Gardner,U,,GBR,,
 240767,D E,Waller,U,,GBR,,
@@ -40802,7 +40802,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 240809,Vera,Hanlan,U,,USA,,
 240810,Mrs A W,Macpherson,U,,USA,,
 240811,Mrs A J,Mccaffrey,U,,USA,,
-240812,Mrs W J,Clothier,U,,USA,,
+240812,Anita,Clothier,U,18860622,USA,,
 240813,Frieda,Scharman,U,,USA,,
 240814,Mrs M R,Bent,U,,USA,,
 240815,Mrs C,Heflin,U,,USA,,
@@ -41087,7 +41087,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 241095,L,Perkins,U,,BER,,
 241096,Elizabeth,Gorham,U,,USA,,
 241097,R,Reid,U,,BER,,
-241098,Margaret,Cluett,U,,USA,,
+241098,Margaret,Cluett,U,19100228,USA,,
 241099,DUPE Brenda,Boocock,U,,USA,,
 241100,Mrs C B,Dumont,U,,BER,,
 241101,Mrs M B,Clarke,U,,BER,,
@@ -41584,10 +41584,10 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 241592,Mrs H P,Davis,U,,AUS,,
 241593,A,Weygood,U,,AUS,,
 241594,Mrs T J,Lacey,U,,AUS,,
-241595,Edith,Von Hadeln,U,,USA,,
+241595,Edith,Von Hadeln,U,18971215,USA,,
 241596,Norma,Kane,U,,USA,,
 241597,Janet,Wright,U,,USA,,
-241598,Winifred,Ottinger,R,,USA,,
+241598,Winifred,Suhr,R,19040517,USA,,
 241599,Edith,Hurtgen,U,,USA,,
 241600,Betty,Pierce,U,,USA,,
 241601,Marie,De Launay,R,,AUS,,
@@ -41604,8 +41604,8 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 241612,A,Gerosa,U,,ITA,,
 241613,Ippolita,Griccioli,U,,ITA,,
 241614,Eugenia,Gabetti,U,,ITA,,
-241615,Jane,Sharp,R,,USA,,
-241616,Sanae,Okada,U,,JPN,,
+241615,Jane,Sharp,R,,USA,157,
+241616,Sanae,Okada,U,19130513,JPN,,Q11373032
 241617,M C,Rayner,U,,GBR,,
 241618,M,Hodgson,U,,GBR,,
 241619,Mrs,Simmons Hodge,U,,GBR,,
@@ -42077,7 +42077,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 242085,Mrs J C,Mcpherson,U,,SIN,,
 242086,S,Abed,U,,SIN,,
 242087,Molly,Huggins,U,,SIN,,
-242088,K A,Pierrepont,U,,SIN,,
+242088,Kathleen,Pierrepont,U,,SIN,,
 242089,Effie,Swinchatt,U,,SIN,,
 242090,Eileen,Corbett,U,,SIN,,
 242091,Mrs,Sturgess,U,,SIN,,
@@ -42182,7 +42182,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 242190,Frances,Todd,U,,USA,,
 242191,Alice,Cooper,U,,USA,,
 242192,Mary,Marschen,U,,USA,,
-242193,Elizabeth,Huling,U,,USA,,
+242193,Elizabeth,Huling,U,19000708,USA,,
 242194,D,Finnigan,U,,USA,,
 242195,Mrs,Bower,U,,USA,,
 242196,Mrs,Jensen,U,,USA,,
@@ -42317,7 +42317,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 242325,Charlotte,Baker,U,,USA,,
 242326,Elizabeth,Young,U,,GBR,,
 242327,Cecil,Mclaren,U,,USA,,
-242328,Margaret,Brosin,U,,USA,,
+242328,Margaret,Brosin,U,19161230,USA,,
 242329,Ruth,Bailey,U,,USA,,
 242330,Edna,Helms,U,,USA,,
 242331,Dorothy,Lancaster,U,,USA,,
@@ -42812,7 +42812,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 242820,Venus,Hanes,U,,USA,,
 242821,Dorothy,Mitchell,U,,USA,,
 242822,Vinita,Betts,U,,USA,,
-242823,Eunice,Hilliard,U,,USA,,
+242823,Eunice,Hilliard,U,18990908,USA,,
 242824,Mary,Poor,U,,USA,,
 242825,Evelyn,Ellis,U,,USA,,
 242826,Lucille,Mccain,U,,USA,,
@@ -43042,7 +43042,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 243050,Grace,Fetheroff,U,,USA,,
 243051,A,Phillips,U,,USA,,
 243052,Ellen,Hoffmann,U,,GER,,
-243053,Lisa,Von Cramm,U,,GER,,
+243053,Lisa,Von Dobeneck,U,,GER,,
 243054,,Moykopf,U,,,,
 243055,,Mallinger,U,,GER,,
 243056,Sybil,Dando,U,,GBR,,
@@ -43117,7 +43117,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 243125,Myrtle,Clausen,U,,USA,,
 243126,DUPE Esther,Challoce,U,,USA,,
 243127,,Thielman,U,,USA,,
-243128,Elizabeth,Anselm,U,,USA,,
+243128,Elizabeth,Anselm,U,19090903,USA,,
 243129,Gertrude,Schulze,U,,USA,,
 243130,Ruth,Ronald,U,,USA,,
 243131,Theresa,Smith,U,,USA,,
@@ -43879,7 +43879,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 243887,Bernice,Alvarez,U,,USA,,
 243888,Mrs Kent,Barberg,U,,USA,,
 243889,Gladys,Manson,U,,GBR,,
-243890,Loma,Moulton,U,,USA,,
+243890,Loma,Moulton,U,19130815,USA,,
 243891,O,Padway,U,,USA,,
 243892,Fern,Mosle,U,,USA,,
 243893,Hilary,Sweet,U,,USA,,
@@ -44318,7 +44318,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 244326,Mary Lee,Barrows,U,,USA,,
 244327,Mary,Law,U,,USA,,
 244328,Mary,Mattson,U,,USA,,
-244329,Eleanor,Cottman,R,,USA,,
+244329,Eleanor,Cottman,R,18981005,USA,,
 244330,Mrs J G,Butler,U,,USA,,
 244331,Betty,Ballard,U,,USA,,
 244332,Barbara,Glazier,U,,USA,,
@@ -44397,7 +44397,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 244405,Bobby,Ratterman,U,,USA,,
 244406,Violet,Furlong,U,,USA,,
 244407,Nancy,Cramer,U,,USA,,
-244408,Ruth,Oexman,R,,USA,,
+244408,Ruth,Oexman,R,19091117,USA,,
 244409,Virginia,Pogue,U,,USA,,
 244410,Betty Jane,Schroeder,U,,USA,,
 244411,DUPE Marjorie Lee,Collins,U,,USA,,
@@ -44417,7 +44417,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 244425,Leslie,Suenga,U,,USA,,
 244426,Juanita,Woerner,U,,USA,,
 244427,Gertrude,Herrick,U,,USA,,
-244428,Lucy Jane,Hedberg,U,,USA,,
+244428,Lucy Jane,Hedberg,U,19120704,USA,,
 244429,DUPE Pearl,Shapos,U,,USA,,
 244430,Adele,Cragin,U,,USA,,
 244431,Matilda,Richardson,U,,USA,,
@@ -44852,7 +44852,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 244860,Mrs Wilmer,May,U,,USA,,
 244861,Margaret,Maccullock,U,,USA,,
 244862,Helen,Godsil,U,,USA,,
-244863,Jessie,Grieve,U,,USA,,
+244863,Jessie,Grieve,U,18950411,USA,,
 244864,Mrs L N,Harris,U,,USA,,
 244865,Midge,Butler,U,,USA,,
 244866,Helen,Teaze,U,,USA,,
@@ -45237,7 +45237,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 245245,DUPE Gladys,Thompson,U,,GBR,,
 245246,Agnes,Steer Watkins,U,,GBR,,
 245247,K M,Walker,U,,GBR,,
-245248,Victoria,Burgess Smith,U,,GBR,,
+245248,Victoria,Burgess Smith,U,18870706,GBR,,
 245249,M,Bridge,U,,GBR,,
 245250,E E,Johnson,U,,GBR,,
 245251,Pirzio,Biroli,U,,ITA,,
@@ -45984,7 +45984,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 245992,Mrs C,Hingston,U,,AUS,,
 245993,G,Moon,U,,AUS,,
 245994,I,Burns,U,,AUS,,
-245995,Inez,Harding,U,,USA,,
+245995,Inez,Harding,U,19140111,USA,,
 245996,Laura,Herron,U,,USA,,
 245997,Mrs B L,Air,U,,GBR,,
 245998,M,Pryce Harrison,U,,GBR,,
@@ -46094,7 +46094,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 246102,Sally,Cannon,U,,USA,,
 246103,Mrs Joe,Craig,U,,USA,,
 246104,Helen,Block,U,,USA,,
-246105,Stella,Fording,U,,USA,,
+246105,Stella,Fording,U,18780814,USA,,
 246106,Elizabeth,Salisbury,U,,USA,,
 246107,M F,Parsons,U,,USA,,
 246108,Mrs,Condon,U,,USA,,
@@ -46581,7 +46581,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 246589,Marguerite,Deridder,U,,USA,,
 246590,Janet,Page,U,,USA,,
 246591,Mrs A W,Erdman,U,,USA,,
-246592,Elizabeth,Hugus,U,,USA,,
+246592,Elizabeth,Hugus,U,18950817,USA,,
 246593,Barbara,Stephenson,U,,USA,,
 246594,Sally,Buell,U,,USA,,
 246595,Gertrude,Robinson,U,,USA,,
@@ -46908,7 +46908,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 246916,Virginia,Pope,U,,USA,,
 246917,Mary,Lamotte,U,,USA,,
 246918,Doris,Beale,U,,USA,,
-246919,Marywill,Wakeford,U,,USA,,
+246919,Marywill,Wakeford,U,18970318,USA,,
 246920,Josephine,Dunham,U,,USA,,
 246921,Mrs,Gile,U,,USA,,
 246922,M G,Munn,U,,GBR,,
@@ -47194,7 +47194,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 247202,N,Burgi,U,,ITA,,
 247203,Vivian,Smith,U,,USA,,
 247204,Katherine,Berger,U,,USA,,
-247205,Avery,Follett,L,,USA,,
+247205,Avery,Follett,L,19041028,USA,,
 247206,E,Sharkey,U,,USA,,
 247207,Helen,Peterson,U,,USA,,
 247208,Ruth,Collins,U,,USA,,
@@ -47405,7 +47405,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 247413,Isabel,Lane,U,,USA,,
 247414,Emily,Tarr,U,,USA,,
 247415,Emmy Lou,Watt,U,,USA,,
-247416,Alberta,Edtl,U,,USA,,
+247416,Alberta,Edtl,U,19051015,USA,,
 247417,Mrs,Mcgahey,U,,CAN,,
 247418,,Norman,U,,CAN,,
 247419,,Thomas,U,,CAN,,
@@ -47667,7 +47667,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 247675,Naledi,Manyube,U,20040630,RSA,,
 247676,Betty,Odonnell,U,,AUS,,
 247677,,Claeysens,U,,,,
-247678,A,Trudeau,U,,FRA,,
+247678,Alice,Trudeau,U,19041010,GBR,,
 247679,V,Mulock,U,,,,
 247680,Tracy,Adams,U,,NZL,,
 247681,,Hutchins,U,,GBR,,
@@ -48095,7 +48095,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 248103,Mrs,Van Crisp,U,,USA,,
 248104,Betsy,Clarke,U,,USA,,
 248105,Frances,Ottley,U,,USA,,
-248106,Phyllis,Walsh,U,,USA,,
+248106,Phyllis,Walsh,U,18970625,USA,,
 248107,Mrs J R,Lowell,U,,USA,,
 248108,Mrs C E,Woodhouse,U,,CAN,,
 248109,K,Moth,U,,CAN,,
@@ -48289,8 +48289,8 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 248297,C,Turner,U,,GBR,,
 248298,Gladis,Light,U,,USA,,
 248299,Clara,Hinde,U,,USA,,
-248300,Elizabeth,Boussus,U,,USA,,
-248301,Gertrude,Dobbs,U,,USA,,
+248300,Elizabeth,Boussus,U,19050312,USA,,
+248301,Gertrude,Dobbs,U,19061109,USA,,
 248302,Mrs J C,Macdonald,U,,CAN,,
 248303,,Mawhood,U,,CAN,,
 248304,M,Ryall,U,,CAN,,
@@ -49989,7 +49989,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 249997,Cassandra,Stewart,U,,USA,,
 249998,DUPE Mrs Alfred,Reise,U,,USA,,
 249999,Jean,Mclanahan,U,,USA,,
-250000,Suzanne,Lenglen,R,18990524,FRA,,
+250000,Suzanne,Lenglen,R,18990524,FRA,178,
 250001,Pearl,Snuddy,U,,USA,,
 250002,Mrs C M,Buchanan,U,,USA,,
 250003,Mrs Harry,Thompson,U,,USA,,
@@ -50147,7 +50147,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 250155,H M,Lovell,U,,GBR,,
 250156,D I,Marshall,U,,GBR,,
 250157,Elizabeth,Huggins,U,,USA,,
-250158,Marie,Marquette,U,,USA,,
+250158,Marie,Marquette,U,19040317,USA,,
 250159,Bess,Weddington,U,,USA,,
 250160,Mrs F S,Durfee,U,,USA,,
 250161,Caroline,Cheney,U,,USA,,
@@ -50199,7 +50199,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 250207,Frances,Cummings,U,,USA,,
 250208,Alice,Eno,U,,USA,,
 250209,DUPE Blanche,Bordem,U,,USA,,
-250210,Alice,Jenckes,U,,USA,,
+250210,Alice,Jencken,U,19010520,USA,,
 250211,Mrs Robert,Haydock,U,,USA,,
 250212,Mrs Hale,Holden,U,,USA,,
 250213,W,Wilkinson,U,,GBR,,
@@ -50501,7 +50501,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 250509,A,Walsworth,U,,USA,,
 250510,Hazel,Benedict,U,,USA,,
 250511,P,Kilkelley,U,,USA,,
-250512,Marguerite,Chesney,U,,USA,,
+250512,Marguerite,Chesney,U,18930812,USA,,
 250513,Berna,Perz,U,,USA,,
 250514,Margaret,Robinson,U,,USA,,
 250515,R,Strachan,U,,GBR,,
@@ -51113,7 +51113,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 251121,Molly,Mann,U,,GBR,,
 251122,Mrs,Cross,U,,GBR,,
 251123,Mrs Coleman,Romain,U,,USA,,
-251124,Irving,Murphy,U,,USA,,
+251124,Irving,Murphy,U,18900216,USA,,
 251125,Gwendoline,Peters,U,,USA,,
 251126,Marguerite,Ellis,U,,USA,,
 251127,Tuttle,Flaspoller,U,,USA,,
@@ -51380,7 +51380,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 251388,Margaret,Ullum,U,,USA,,
 251389,L,Cartwright,U,,USA,,
 251390,Sally,Heaton,U,,USA,,
-251391,Mrs Robert,Herold,U,,USA,,
+251391,Ethel,Herold,U,,USA,,
 251392,Marjorie,Dallett,U,,USA,,
 251393,E,Moss,U,,USA,,
 251394,H,Westphal,U,,USA,,
@@ -51506,7 +51506,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 251514,Thelma,Wolff,U,,USA,,
 251515,Margaret,Osgood,U,,USA,,
 251516,Ila,Wilcox,U,,USA,,
-251517,Johanna,Gunzberger,U,,USA,,
+251517,Johanna,Gunzberger,U,19010218,USA,,
 251518,Blanche,Ashbaugh,U,,USA,,
 251519,Ann,Colton,U,,USA,,
 251520,Jean,Gelston,U,,USA,,
@@ -51984,7 +51984,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 251992,Suzanne,Hiltenbrandt,U,,FRA,,
 251993,Mrs Thorton,Emmons,U,,USA,,
 251994,Virginia,Thompson,U,,USA,,
-251995,Eleanor,Hyslop,U,,USA,,
+251995,Eleanor,Hyslop,U,19050421,USA,,
 251996,Madeline,Emigh,U,,USA,,
 251997,Margaret,Fisher,U,,USA,,
 251998,E,Willis,U,,GBR,,
@@ -52617,7 +52617,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 252625,M C,Hawey,U,,,,
 252626,,Oudlette,U,,FRA,,
 252627,Mrs J R,Sutliffe,U,,USA,,
-252628,Ceres,Baker,U,,USA,,
+252628,Ceres,Baker,U,19040824,USA,,
 252629,Mrs B F,Bergen,U,,USA,,
 252630,F,Lord,U,,,,
 252631,Mrs C E,Long Price,U,,GBR,,
@@ -52901,7 +52901,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 252909,Mrs George,Hirsch,U,,USA,,
 252910,DUPE Mrs E S,Miles,U,,USA,,
 252911,Mrs K,Mitchell,U,,IND,,
-252912,Winifred,Walker,U,,IND,,
+252912,Winifred,Walker,U,,GBR,,
 252913,Mrs G H,Wright,U,,GBR,,
 252914,Mrs G,Sanders,U,,GBR,,
 252915,Mrs C,Robinson,U,,GBR,,
@@ -53682,7 +53682,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 253689,L,Hawker,U,,AUS,,
 253690,Phyllis,Evans,U,,AUS,,
 253691,Mrs V L,Adams,U,,AUS,,
-253692,Margaret,Hunnewell,U,,USA,,
+253692,Margaret,Hunnewell,U,18780521,USA,,
 253693,M V,Hoyle,U,,,,
 253694,A L,Eno,U,,,,
 253695,,Maclean,U,,,,
@@ -53778,7 +53778,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 253785,M,Rainsford,U,,BER,,
 253786,M,Prescott,U,,BER,,
 253787,B,Appleby,U,,BER,,
-253788,Mrs Lloyd,Jones,U,,BER,,
+253788,Dorothy,Ballantyne,U,18950531,USA,,
 253789,Mrs R G,Robinson,U,,BER,,
 253790,Jean,Robinson,U,,BER,,
 253791,,Smith Ryland,U,,,,
@@ -53982,7 +53982,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 253989,Grace,Miller,U,,USA,,
 253990,Polly,Sheldon,U,,USA,,
 253991,Annetta,Stites,U,,USA,,
-253992,Mrs Richard,Nalle,U,,USA,,
+253992,Dorothy,Disston,U,18910905,USA,,
 253993,Evelyn,Martin,U,,USA,,
 253994,Deirdre,Oshea,U,,USA,,
 253995,Deborah,Seal,U,,USA,,
@@ -54094,7 +54094,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 254101,Mrs William,Schiff,U,,USA,,
 254102,Mrs Arthur,Thomas,U,,USA,,
 254103,Ella,Ginsberg,U,,USA,,
-254104,Barbara,Killey,U,,USA,,
+254104,Barbara,Killey,U,18970929,USA,,
 254105,Mrs G D,Selden,U,,USA,,
 254106,Susan,Adsit,U,,USA,,
 254107,Mary,Clark,U,,USA,,
@@ -54213,7 +54213,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 254220,Franzi,Munory,U,,GER,,
 254221,,Sintl,U,,GER,,
 254222,,Elias,U,,GER,,
-254223,Edythe,Tyler,U,,USA,,
+254223,Edythe,Tyler,U,19040918,USA,,
 254224,Rosalind,Straup,U,,USA,,
 254225,Polly,Rich,U,,USA,,
 254226,Louise,Martineau,U,,USA,,
@@ -54405,7 +54405,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 254412,R,Enticknay,U,,FRA,,
 254413,,Ferte,U,,FRA,,
 254414,,Cacheux,U,,FRA,,
-254415,Christine,Jansing,U,,USA,,
+254415,Christine,Jansing,U,19031221,USA,,
 254416,A,Brusselbach,U,,USA,,
 254417,Lillian,Geiger,U,,USA,,
 254418,Mrs,Emminger,U,,USA,,
@@ -55213,7 +55213,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 255220,L,Phaff,U,,NED,,
 255221,P,Veltman,U,,NED,,
 255222,Ursel,Berns,U,,GER,,
-255223,Mrs J P,Mulder,U,,USA,,
+255223,Emma,Rood,U,18870726,USA,,
 255224,Elsie,Goodwin,U,,USA,,
 255225,Ann,Towey,U,,USA,,
 255226,Kathleen,Bristow,U,,USA,,
@@ -55482,7 +55482,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 255489,Jean,Kullman,U,,USA,,
 255490,M,Vickers,U,,USA,,
 255491,Mrs W S,Bourne,U,,USA,,
-255492,Carmen,Tarilton,U,,USA,,
+255492,Carmen,Tarilton,U,18970114,USA,,
 255493,Mrs A M,Grocer,U,,USA,,
 255494,P,Parker,U,,GBR,,
 255495,,Humphries,U,,GBR,,
@@ -55621,7 +55621,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 255628,Mary,Herring,U,,AUS,,
 255629,Rosemary,Clapperton,U,,AUS,,
 255630,Mrs,Colville Steele,U,,AUS,,
-255631,M,Kerry,U,,AUS,,
+255631,Margery,Kerry,U,,AUS,,
 255632,Mrs F W,Falkiner,U,,AUS,,
 255633,A,Abrahams,U,,AUS,,
 255634,O,Hodgson,U,,AUS,,
@@ -55775,7 +55775,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 255782,Kathleen,Rogerson,U,,USA,,
 255783,,Dunlop,U,,USA,,
 255784,,Cumming,U,,USA,,
-255785,I,Scott,U,,USA,,
+255785,Irene,Adger,U,,USA,,
 255786,M,Hawes,U,,USA,,
 255787,Alma,Osteen,U,,USA,,
 255788,Mrs Arthur,Houle,U,,USA,,
@@ -55939,7 +55939,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 255946,H A,Davis,U,,GBR,,
 255947,Betty,Crundell Prunnett,U,,GBR,,
 255948,,Schnurer,U,,CZE,,
-255949,Mildred,Rask,U,,USA,,
+255949,Mildred,Rask,U,19020717,USA,,
 255950,Jane,Brooks,U,,USA,,
 255951,,Ganson,U,,USA,,
 255952,Margaret,Plastino,U,,USA,,
@@ -56249,7 +56249,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 256256,Eleanor,Budy,U,,USA,,
 256257,A,Niclack,U,,USA,,
 256258,E,Klotz,U,,USA,,
-256259,Mrs F C,Letts,U,,USA,,
+256259,Marjorie,Dodd,U,18940114,USA,,
 256260,Mrs M,Granger,U,,USA,,
 256261,Mrs F,Moulding,U,,USA,,
 256262,J,Paulding,U,,USA,,
@@ -56297,8 +56297,8 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 256304,Mrs W C,Tuttle,U,,USA,,
 256305,Mrs H,Walter,U,,USA,,
 256306,,Hill,U,,USA,,
-256307,Mary,Mason,U,,USA,,
-256308,Madelle,Lyons,U,,USA,,
+256307,Mary,Mason,U,18980710,USA,,
+256308,Madelle,Lyons,U,18971004,USA,,
 256309,Mrs T N,Farnes,U,,GBR,,
 256310,Mrs D,Gunnell,U,,GBR,,
 256311,E,Webber,U,,GBR,,
@@ -56488,7 +56488,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 256495,Mrs H A,Throckmorton,U,,USA,,
 256496,Judith,Jenks,U,,USA,,
 256497,Mrs J R,Bragdon,U,,USA,,
-256498,,Paravicini,U,,FRA,,
+256498,Lilian,Paravicini,U,18860725,SUI,,
 256499,I E,Ward,U,,GBR,,
 256500,M,Mckim,U,,USA,,
 256501,Maxine,Waterman,U,,USA,,
@@ -56548,7 +56548,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 256555,Mrs H T,Stanley,U,,USA,,
 256556,C,Truxton,U,,USA,,
 256557,Mrs I T,Yates,U,,USA,,
-256558,Mrs W,Hardy,U,,USA,,
+256558,Carrie,Hardy,U,18750119,USA,,
 256559,Mrs,Krauss,U,,USA,,
 256560,Mrs A A,Duncan,U,,USA,,
 256561,R,Moore,U,,USA,,
@@ -56591,7 +56591,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 256598,W,Elliott,U,,USA,,
 256599,Jennie,Doolittle,U,,USA,,
 256600,Theodosia,Seibold,U,,USA,,
-256601,Sadie,Doolittle,U,,USA,,
+256601,Sadie,Doolittle,U,18840301,USA,,
 256602,Mrs A M,Doyle,U,,USA,,
 256603,Mrs C H,Warner,U,,USA,,
 256604,Nell,Hendricks,U,,USA,,
@@ -56606,7 +56606,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 256613,Elizabeth,Thompson,U,,USA,,
 256614,Margaret,Dixon,U,,USA,,
 256615,W,Sundean,U,,USA,,
-256616,Edith,Latham Heathcote,U,,IND,,
+256616,Edith,Latham,U,,GBR,,
 256617,Jane,Rawson,U,,USA,,
 256618,Irene,Johnson,U,,USA,,
 256619,Henrietta,Brown,U,,USA,,
@@ -56912,8 +56912,8 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 256919,Tillie,Friend,U,,USA,,
 256920,Elizabeth,Crawford,U,,USA,,
 256921,Mrs William,Orourke,U,,USA,,
-256922,Mrs W,Chester,U,,USA,,
-256923,Eloise,Wilsey,U,,USA,,
+256922,Alice,Miller,U,18930107,USA,,
+256923,Eloise,Wilsey,U,18921201,USA,,
 256924,Sara,Livingstone,U,,USA,,
 256925,D,Du Boisson,U,,USA,,
 256926,C,Caldwell,U,,USA,,
@@ -56989,7 +56989,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 256996,,Hickok,U,,USA,,
 256997,Carolyn,Parker,U,,USA,,
 256998,Mrs George H,Clarke,U,,USA,,
-256999,Milada,Skrobova,U,,CZE,,
+256999,Milada,Skrbkova,U,18970530,CZE,,
 257000,May,Rae,U,,JAM,,
 257001,Elisabeth,De Noailles,U,,FRA,,
 257002,Frances,Brainard,U,,USA,,
@@ -57314,7 +57314,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 257321,,Tufts,U,,USA,,
 257322,,Morse,U,,USA,,
 257323,Mrs,Call,U,,USA,,
-257324,Mrs J A,Rameson,U,,USA,,
+257324,Adelaide,Cox,U,18920120,USA,,
 257325,F,Cole,U,,AUS,,
 257326,M,Holyman,U,,AUS,,
 257327,Amy,Rex,U,,AUS,,
@@ -57743,3 +57743,112 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 257750,Eve,Smith,U,,NZL,,
 257751,Pam,Smith,U,,NZL,,
 257752,M,Whyte,U,,NZL,,
+257753,Elfie,Gale,U,,NZL,,
+257754,,Roechling,U,,GER,,
+257755,,Poujade,U,,FRA,,
+257756,Mme,Gautier,U,,FRA,,
+257757,Mme,Pujet,U,,FRA,,
+257758,Jessie,Coles,U,18710129,GBR,,
+257759,Mrs,Paine,U,,GBR,,
+257760,Madzy,Haitsma Mulier,U,18871107,NED,,
+257761,Annie,Rice,U,,IRL,,
+257762,Lena,Rice,U,18660621,IRL,,
+257763,Eleanor,Noble,U,,GBR,,
+257764,Mrs,Robinson,U,,GBR,,
+257765,Mrs,Riseley,U,,GBR,,
+257766,Constance,Bryan,U,,GBR,,
+257767,Virginia,Macveagh,U,,USA,,
+257768,Mrs,Ritchie,U,,GBR,,
+257769,Cecelia,Fernandez,U,19630628,USA,,
+257770,Anna,Hendrick,U,18611030,USA,,
+257771,Mayme,Hendrick,U,,USA,,
+257772,Flora,Nockolds,U,,GBR,,
+257773,Eva,Varney,U,18840101,USA,,
+257774,Maud,Varney,U,18850329,USA,,
+257775,Eleanor,Peralta,U,18850827,USA,,
+257776,Mme,Fath,U,,FRA,,
+257777,May,Kerry,U,,AUS,,
+257778,Violet,Summerhayes,U,18780513,GBR,,
+257779,Winifred,Nickless,U,,GBR,,
+257780,Phyllis,Vance,U,,USA,,
+257781,Peggy,Stone,U,,BER,,
+257782,Jessica,Stevens,U,19040512,GBR,,
+257783,Madeleine,Force,U,18930619,USA,,
+257784,Louise,Cragin,U,,USA,,
+257785,Jennie,Craven,U,18750125,USA,,
+257786,Hallie,Champlin,U,18721001,USA,,
+257787,Edith,Rotch,U,18740811,USA,,
+257788,Margaretta,Myers,U,18951212,USA,,
+257789,Sarah,Myers,U,18970823,USA,,
+257790,Miriam,Steever,U,18780918,USA,,
+257791,Maud,Banks,R,18800909,USA,,
+257792,Beatrice,Banks,U,18860530,USA,,
+257793,Edith,Kenderdine,U,18751118,USA,,
+257794,Blanche,Donnell,U,,USA,,
+257795,Orrilla,Donnell,U,,USA,,
+257796,Huldah,Steel,U,18800924,USA,,
+257797,Ethel,Steel,U,18791103,USA,,
+257798,Lucy,Disston,U,18840917,USA,,
+257799,Marie,Disston,U,18900407,USA,,
+257800,Sarah,Homas,U,18721218,USA,,
+257801,Laura,Knight,U,,USA,,
+257802,Bessie,Williams,U,18671009,USA,,
+257803,Alice,Janney,U,18631114,USA,,
+257804,Digna,Mijer,U,18830328,NED,,
+257805,Annabelle,Vodden,U,18891007,USA,,
+257806,Rachel,Josephi,U,18781007,USA,,
+257807,Nan,Robertson,U,18850909,USA,,
+257808,Amy,Heitshu,U,18801125,USA,,
+257809,Sarah,Coffin,U,18760310,USA,,
+257810,Mary,Lyons,U,18930918,USA,,
+257811,Mrs G J,Cooper,U,,GBR,,
+257812,Marie,Kettenbach,U,18931216,USA,,
+257813,Pearl,Newby,U,18910128,USA,,
+257814,Gwendolyn,Rees,U,18920405,USA,,
+257815,Elsie,Thirlby,U,18851213,GBR,,
+257816,Vera,Beyfuss,U,18900430,USA,,
+257817,Joan,Gent,U,,AUS,,
+257818,Margaret,Loyless,U,18980405,USA,,
+257819,Katherine,Fix,U,,USA,,
+257820,Eleanor,Stockton,U,18780825,USA,,
+257821,Jane,Stockton,U,18801127,USA,,
+257822,Edith,Gurney,U,,GBR,,
+257823,E F,Hudson,U,,GBR,,
+257824,L M,Nash,U,,GBR,,
+257825,May,Langrishe,U,18641221,IRL,,
+257826,Beatrice,Langrishe,U,,IRL,,
+257827,Gabriella,Szerviitzky,U,18831028,HUN,,
+257828,Jane,Lambuth,U,18920729,USA,,
+257829,Myra,Lambuth,U,18920729,USA,,
+257830,Adela,Langrishe,U,,IRL,,
+257831,Aline,Terry,U,,USA,,
+257832,Hilda,Stone,U,18721028,USA,,
+257833,Ida,Mearns,U,,USA,,
+257834,Lessie,Leadbetter,U,18870607,USA,,
+257835,Priscilla,Beall,U,18870926,USA,,
+257836,Rose,Schleifer,U,,USA,,
+257837,Ruth,Briggs,U,19281009,USA,,
+257838,Margaret,Searle,U,18810804,GBR,,
+257839,Diana,Walke,U,18871221,USA,,
+257840,Dorothy,Walke,U,18810706,USA,,
+257841,F M,Pearson,U,,GBR,,
+257842,A M,Chambers,U,,GBR,,
+257843,Julia,Mackenzie,U,,GBR,,
+257844,Biba,Krepelkova,U,19220727,CZE,,
+257845,Hedwig,Rosenbaumova,U,18640702,CZE,,
+257846,Maria Pia,Enderlin,U,,SUI,,
+257847,Lisa,Kupfer,U,,SUI,,
+257848,Renata,Wieting,U,,SUI,,
+257849,Lucy,Morris,U,,GBR,,
+257850,Ellen,Maltby,U,,GBR,,
+257851,Mary,Maltby,U,,GBR,,
+257852,Edith,Athlerley,U,,GBR,,
+257853,Louisa,Athlerley,U,,GBR,,
+257854,May,Athlerley,U,18600110,GBR,,
+257855,Myra,Brarens,L,18971118,USA,,
+257856,Mary,Mcfarlane,U,,AUS,,
+257857,B,James,U,,GBR,,
+257858,Jane,Hole,U,,GBR,,
+257859,Katherine,Hole,U,,GBR,,
+257860,Kate,Cornford,U,,GBR,,
+257861,Florence,Kemmis,U,18570427,IRL,,
