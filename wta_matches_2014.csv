@@ -18,9 +18,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-D006,Fed Cup WG SF: AUS vs GER,Hard,4,D,20140419,1,201492,,,Andrea Petkovic,R,180,GER,26.6091718001,201325,,,Samantha Stosur,R,172,AUS,30.0533880903,6-1 7-6(7),3,RR,,,,,,,,,,,,,,,,,,,,28,1705,19,2485
 2014-D006,Fed Cup WG SF: AUS vs GER,Hard,4,D,20140419,2,201493,,,Angelique Kerber,L,173,GER,26.250513347,201348,,,Casey Dellacqua,L,165,AUS,29.18275154,6-1 6-0,3,RR,,,,,,,,,,,,,,,,,,,,7,4110,53,1044
 2014-D006,Fed Cup WG SF: AUS vs GER,Hard,4,D,20140419,3,201493,,,Angelique Kerber,L,173,GER,26.250513347,201325,,,Samantha Stosur,R,172,AUS,30.0533880903,4-6 6-0 6-4,3,RR,,,,,,,,,,,,,,,,,,,,7,4110,19,2485
-2014-D007,Fed Cup WG F: CZE vs GER,,4,D,20141108,1,201520,,,Petra Kvitova,L,183,CZE,24.6707734428,201492,,,Andrea Petkovic,R,180,GER,27.1649555099,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,4,5966,14,2780
-2014-D007,Fed Cup WG F: CZE vs GER,,4,D,20141108,2,201425,,,Lucie Safarova,L,177,CZE,27.7590691307,201493,,,Angelique Kerber,L,173,GER,26.8062970568,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,17,2615,10,3480
-2014-D007,Fed Cup WG F: CZE vs GER,,4,D,20141108,3,201520,,,Petra Kvitova,L,183,CZE,24.6707734428,201493,,,Angelique Kerber,L,173,GER,26.8062970568,7-6(5) 4-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,4,5966,10,3480
+2014-D007,Fed Cup WG F: CZE vs GER,Hard,4,D,20141108,1,201520,,,Petra Kvitova,L,183,CZE,24.6707734428,201492,,,Andrea Petkovic,R,180,GER,27.1649555099,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,4,5966,14,2780
+2014-D007,Fed Cup WG F: CZE vs GER,Hard,4,D,20141108,2,201425,,,Lucie Safarova,L,177,CZE,27.7590691307,201493,,,Angelique Kerber,L,173,GER,26.8062970568,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,17,2615,10,3480
+2014-D007,Fed Cup WG F: CZE vs GER,Hard,4,D,20141108,3,201520,,,Petra Kvitova,L,183,CZE,24.6707734428,201493,,,Angelique Kerber,L,173,GER,26.8062970568,7-6(5) 4-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,4,5966,10,3480
 2014-D008,Fed Cup G1 RR: PAR vs VEN,Clay,4,D,20140207,1,206329,,,Montserrat Gonzalez,R,1.7,PAR,19.6057494867,203521,,,Andrea Gamiz,R,,VEN,21.2703627652,7-5 6-3,3,RR,,,,,,,,,,,,,,,,,,,,260,212,303,159
 2014-D008,Fed Cup G1 RR: PAR vs VEN,Clay,4,D,20140207,2,202705,,,Veronica Cepede Royg,R,163,PAR,22.0479123888,203584,,,Adriana Perez,R,,VEN,21.2156057495,6-1 6-4,3,RR,,,,,,,,,,,,,,,,,,,,180,335,191,316
 2014-D009,Fed Cup G1 RR: PAR vs MEX,Clay,4,D,20140206,1,206329,,,Montserrat Gonzalez,R,1.7,PAR,19.6030116359,204420,,,Marcela Zacarias,R,,MEX,19.8685831622,6-3 6-0,3,RR,,,,,,,,,,,,,,,,,,,,260,212,371,114
@@ -264,18 +264,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-D121,Fed Cup G2 RR: URU vs CRC,Hard,4,D,20140409,2,210160,,,Carolina De Los Santos,U,,URU,23.9206023272,214641,,,Ariana Rahmanparast,U,,CRC,17.2758384668,7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2014-D122,Fed Cup G2 RR: TRI vs CRC,Hard,4,D,20140411,1,212165,,,Anneliese Rose,U,,TRI,35.446954141,212312,,,Juli Raventos,U,,CRC,18.4065708419,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2014-D122,Fed Cup G2 RR: TRI vs CRC,Hard,4,D,20140411,2,214641,,,Ariana Rahmanparast,U,,CRC,17.2813141684,212230,,,Olivia Bennett,U,,TRI,23.2525667351,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2014-D123,Fed Cup G2 PO: DOM vs BOL,,4,D,20140412,1,211394,,,Daniela Ruiz,R,,BOL,16.9363449692,212282,,,Michelle Marie Valdez,U,,DOM,19.0171115674,7-6(5) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2014-D123,Fed Cup G2 PO: DOM vs BOL,,4,D,20140412,2,202900,,,Maria Fernanda Alvarez Teran,R,,BOL,25.1170431211,205787,,,Francesca Segarelli,R,,DOM,23.6002737851,6-2 3-6 7-6(2),3,RR,,,,,,,,,,,,,,,,,,,,410,94,583,51
-2014-D124,Fed Cup G2 PO: CHI vs CRC,,4,D,20140412,1,202393,,,Andrea Koch Benvenuto,R,1.74,CHI,28.9609856263,212176,,,Andrea Brenes,U,,CRC,27.7234770705,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,412,94,,
-2014-D124,Fed Cup G2 PO: CHI vs CRC,,4,D,20140412,2,206037,,,Daniela Seguel,U,,CHI,21.4045174538,214641,,,Ariana Rahmanparast,U,,CRC,17.2840520192,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,260,200,,
-2014-D125,Fed Cup G2 PO: PUR vs TRI,,4,D,20140412,1,213795,,,Ariana Rodriguez,U,,USA,18.2094455852,212230,,,Olivia Bennett,U,,TRI,23.2553045859,6-3 2-6 7-6(4),3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2014-D125,Fed Cup G2 PO: PUR vs TRI,,4,D,20140412,2,201620,,,Monica Puig,R,170,PUR,20.5393566051,212233,,,Shenelle Mohammed,U,,TRI,23.5208761123,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,54,1025,,
-2014-D126,Fed Cup G2 PO: GUA vs PER,,4,D,20140412,1,208531,,,Kirsten Andrea Weedon,U,,GUA,25.144421629,206240,,,Patricia Ku Flores,R,,PER,20.3175906913,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,850,19
-2014-D126,Fed Cup G2 PO: GUA vs PER,,4,D,20140412,2,201683,,,Bianca Botto,L,,PER,22.8501026694,214634,,,Camila Ramazzini,U,,GUA,17.1279945243,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,558,55,,
-2014-D127,Fed Cup G2 PO: PAN vs BER,,4,D,20140412,1,214642,,,Cayla Cross,U,,BER,22.5106091718,214636,,,Daniela Diez,U,,PAN,16.9719370294,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2014-D127,Fed Cup G2 PO: PAN vs BER,,4,D,20140412,2,214640,,,Tyler Smith,U,,BER,17.3963039014,214635,,,Karla Contreras,U,,PAN,15.2169746749,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2014-D128,Fed Cup G2 PO: BAR vs URU,,4,D,20140412,1,214637,,,Kiana Marshall,U,,BAR,16.4928131417,214606,,,Margot Mercier,U,,URU,17.5386721424,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
-2014-D128,Fed Cup G2 PO: BAR vs URU,,4,D,20140412,2,214139,,,Magdalena Boado,R,,URU,17.5414099932,214638,,,Melena Lopez,U,,BAR,17.711156742,7-5 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2014-D123,Fed Cup G2 PO: DOM vs BOL,Hard,4,D,20140412,1,211394,,,Daniela Ruiz,R,,BOL,16.9363449692,212282,,,Michelle Marie Valdez,U,,DOM,19.0171115674,7-6(5) 6-1,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2014-D123,Fed Cup G2 PO: DOM vs BOL,Hard,4,D,20140412,2,202900,,,Maria Fernanda Alvarez Teran,R,,BOL,25.1170431211,205787,,,Francesca Segarelli,R,,DOM,23.6002737851,6-2 3-6 7-6(2),3,RR,,,,,,,,,,,,,,,,,,,,410,94,583,51
+2014-D124,Fed Cup G2 PO: CHI vs CRC,Hard,4,D,20140412,1,202393,,,Andrea Koch Benvenuto,R,1.74,CHI,28.9609856263,212176,,,Andrea Brenes,U,,CRC,27.7234770705,6-1 6-2,3,RR,,,,,,,,,,,,,,,,,,,,412,94,,
+2014-D124,Fed Cup G2 PO: CHI vs CRC,Hard,4,D,20140412,2,206037,,,Daniela Seguel,U,,CHI,21.4045174538,214641,,,Ariana Rahmanparast,U,,CRC,17.2840520192,6-4 6-3,3,RR,,,,,,,,,,,,,,,,,,,,260,200,,
+2014-D125,Fed Cup G2 PO: PUR vs TRI,Hard,4,D,20140412,1,213795,,,Ariana Rodriguez,U,,USA,18.2094455852,212230,,,Olivia Bennett,U,,TRI,23.2553045859,6-3 2-6 7-6(4),3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2014-D125,Fed Cup G2 PO: PUR vs TRI,Hard,4,D,20140412,2,201620,,,Monica Puig,R,170,PUR,20.5393566051,212233,,,Shenelle Mohammed,U,,TRI,23.5208761123,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,54,1025,,
+2014-D126,Fed Cup G2 PO: GUA vs PER,Hard,4,D,20140412,1,208531,,,Kirsten Andrea Weedon,U,,GUA,25.144421629,206240,,,Patricia Ku Flores,R,,PER,20.3175906913,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,850,19
+2014-D126,Fed Cup G2 PO: GUA vs PER,Hard,4,D,20140412,2,201683,,,Bianca Botto,L,,PER,22.8501026694,214634,,,Camila Ramazzini,U,,GUA,17.1279945243,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,558,55,,
+2014-D127,Fed Cup G2 PO: PAN vs BER,Hard,4,D,20140412,1,214642,,,Cayla Cross,U,,BER,22.5106091718,214636,,,Daniela Diez,U,,PAN,16.9719370294,6-0 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2014-D127,Fed Cup G2 PO: PAN vs BER,Hard,4,D,20140412,2,214640,,,Tyler Smith,U,,BER,17.3963039014,214635,,,Karla Contreras,U,,PAN,15.2169746749,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2014-D128,Fed Cup G2 PO: BAR vs URU,Hard,4,D,20140412,1,214637,,,Kiana Marshall,U,,BAR,16.4928131417,214606,,,Margot Mercier,U,,URU,17.5386721424,6-4 6-4,3,RR,,,,,,,,,,,,,,,,,,,,,,,
+2014-D128,Fed Cup G2 PO: BAR vs URU,Hard,4,D,20140412,2,214139,,,Magdalena Boado,R,,URU,17.5414099932,214638,,,Melena Lopez,U,,BAR,17.711156742,7-5 6-0,3,RR,,,,,,,,,,,,,,,,,,,,,,,
 2014-D129,Fed Cup G2 RR: MNE vs FIN,Hard,4,D,20140417,1,201441,,,Emma Laine,L,164,FIN,28.0602327173,214030,,,Nikoleta Bulatovic,R,,MNE,16.3586584531,6-2 6-0,3,RR,,,,,,,,,,,,,,,,,,,,967,13,,
 2014-D129,Fed Cup G2 RR: MNE vs FIN,Hard,4,D,20140417,2,203290,,,Piia Suomalainen,R,1.72,FIN,29.7713894593,213994,,,Tamara Bojanic,U,,MNE,15.1622176591,7-5 6-2,3,RR,,,,,,,,,,,,,,,,,,,,833,20,,
 2014-D130,Fed Cup G2 RR: LTU vs MNE,Hard,4,D,20140418,1,211105,,,Akvile Parazinskaite,U,,LTU,17.3826146475,214030,,,Nikoleta Bulatovic,R,,MNE,16.3613963039,6-0 6-3,3,RR,,,,,,,,,,,,,,,,,,,,883,17,,
