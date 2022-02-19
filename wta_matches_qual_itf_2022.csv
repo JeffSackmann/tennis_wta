@@ -2,7 +2,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-ARG-01A-2022,W25 Tucuman,Clay,32,25,20220131,101,202440,1,,Paula Ormaechea,R,170,ARG,29.3415468857,220699,,,Julia Riera,U,,ARG,19.6769336071,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,176,381,590,72
 2022-W-ITF-ARG-01A-2022,W25 Tucuman,Clay,32,25,20220131,102,214777,,Q,Taylor Ng,U,,USA,26.5051334702,222032,,,Gabriella Price,R,,USA,18.6420260096,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,718,46,720,45
 2022-W-ITF-ARG-01A-2022,W25 Tucuman,Clay,32,25,20220131,103,221333,,WC,Solana Sierra,U,,ARG,17.6235455168,219625,,Q,Fernanda Labrana,R,,CHI,22.8884325804,7-5 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,836,32,1008,20
-2022-W-ITF-ARG-01A-2022,W25 Tucuman,Clay,32,25,20220131,104,211903,8,,Barbara Gatica,U,,CHI,25.4592744695,222134,,Q,Linda Salvi,U,,ITA,,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,312,209,976,21
+2022-W-ITF-ARG-01A-2022,W25 Tucuman,Clay,32,25,20220131,104,211903,8,,Barbara Gatica,U,,CHI,25.4592744695,222134,,Q,Linda Salvi,U,,ITA,19.947980835,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,312,209,976,21
 2022-W-ITF-ARG-01A-2022,W25 Tucuman,Clay,32,25,20220131,105,220589,3,,Elina Avanesyan,R,,RUS,19.3730321697,206406,,Q,Berta Bonardi,U,,ARG,26.6146475017,2-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,186,356,1127,14
 2022-W-ITF-ARG-01A-2022,W25 Tucuman,Clay,32,25,20220131,106,213849,,,Nicole Fossa Huergo,U,,ITA,26.6858316222,221331,,Q,Merlina Sarno,U,,ARG,18.5434633812,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,599,70,,
 2022-W-ITF-ARG-01A-2022,W25 Tucuman,Clay,32,25,20220131,107,259104,,JE,Brenda Fruhvirtova,R,,CZE,14.8336755647,210847,,Q,Miriana Tona,U,,ITA,27.06091718,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1079,16,876,28
@@ -279,7 +279,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-EGY-01A-2022,W15 Cairo,Clay,32,15,20220103,501,220364,2,,Sapfo Sakellaridi,U,,GRE,18.7597535934,213737,1,,Anastasia Evgenyevna Nefedova,R,,RUS,22.9787816564,7-5 6-3,3,F,,,,,,,,,,,,,,,,,,,,592,72,577,75
 2022-W-ITF-EGY-02A-2022,W15 Cairo,Clay,32,15,20220110,101,221209,1,,Anastasia Zolotareva,U,,RUS,19.9780971937,256702,,Q,Vittoria Modesti,U,,ITA,19.4551676934,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,479,100,,
 2022-W-ITF-EGY-02A-2022,W15 Cairo,Clay,32,15,20220110,102,204381,,,Louise Brunskog,U,,SWE,29.0212183436,220556,,,Tamara Malesevic,U,,SRB,21.2895277207,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1018,20,988,21
-2022-W-ITF-EGY-02A-2022,W15 Cairo,Clay,32,15,20220110,103,222233,,,Marina Stakusic,U,,CAN,,258191,,Q,Ana Grubor,U,,CAN,18.0232717317,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1294,9,,
+2022-W-ITF-EGY-02A-2022,W15 Cairo,Clay,32,15,20220110,103,222233,,,Marina Stakusic,U,,CAN,17.1197809719,258191,,Q,Ana Grubor,U,,CAN,18.0232717317,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1294,9,,
 2022-W-ITF-EGY-02A-2022,W15 Cairo,Clay,32,15,20220110,104,221357,,Q,Maria Fernanda Morales,R,,SWE,19.3839835729,221994,8,WC,Demi Tran,R,,NED,21.1225188227,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,959,22,952,23
 2022-W-ITF-EGY-02A-2022,W15 Cairo,Clay,32,15,20220110,105,220391,4,,Anna Ureke,U,,RUS,22.1902806297,221337,,,Hala Fouad,U,,EGY,22.9103353867,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,804,36,1492,5
 2022-W-ITF-EGY-02A-2022,W15 Cairo,Clay,32,15,20220110,106,230127,,Q,Jermine Sherif,U,,EGY,16.2902121834,220633,,,Mariia Bergen,U,,UKR,20.5804243669,7-6(5) 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,,,1202,12
@@ -294,14 +294,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-EGY-02A-2022,W15 Cairo,Clay,32,15,20220110,115,221773,,,Honoka Kobayashi,U,,JPN,21.7166324435,241749,,Q,Rozalia Gruszczynska,U,,POL,17.8179329227,7-5 6-7(6) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1036,19,,
 2022-W-ITF-EGY-02A-2022,W15 Cairo,Clay,32,15,20220110,116,213737,2,,Anastasia Evgenyevna Nefedova,R,,RUS,22.9979466119,221473,,,Merna Refaat,U,,EGY,17.401779603,6-2 3-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,580,75,1204,12
 2022-W-ITF-EGY-02A-2022,W15 Cairo,Clay,32,15,20220110,201,221209,1,,Anastasia Zolotareva,U,,RUS,19.9780971937,204381,,,Louise Brunskog,U,,SWE,29.0212183436,1-6 6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,479,100,1018,20
-2022-W-ITF-EGY-02A-2022,W15 Cairo,Clay,32,15,20220110,202,222233,,,Marina Stakusic,U,,CAN,,221357,,Q,Maria Fernanda Morales,R,,SWE,19.3839835729,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1294,9,959,22
+2022-W-ITF-EGY-02A-2022,W15 Cairo,Clay,32,15,20220110,202,222233,,,Marina Stakusic,U,,CAN,17.1197809719,221357,,Q,Maria Fernanda Morales,R,,SWE,19.3839835729,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1294,9,959,22
 2022-W-ITF-EGY-02A-2022,W15 Cairo,Clay,32,15,20220110,203,220391,4,,Anna Ureke,U,,RUS,22.1902806297,230127,,Q,Jermine Sherif,U,,EGY,16.2902121834,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,804,36,,
 2022-W-ITF-EGY-02A-2022,W15 Cairo,Clay,32,15,20220110,204,203553,,,Riko Sawayanagi,R,163,JPN,27.2114989733,221086,5,,Mariia Tkacheva,U,,RUS,20.0657084189,1-6 7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1129,14,808,35
 2022-W-ITF-EGY-02A-2022,W15 Cairo,Clay,32,15,20220110,205,221465,,Q,Sofia Rocchetti,R,,ITA,19.3839835729,221568,,WC,Madelief Hageman,L,,NED,18.9514031485,6-2 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,1251,10,,
 2022-W-ITF-EGY-02A-2022,W15 Cairo,Clay,32,15,20220110,206,220364,3,,Sapfo Sakellaridi,U,,GRE,18.7789185489,259569,,WC,Mariam Atia,U,,EGY,,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,579,75,,
 2022-W-ITF-EGY-02A-2022,W15 Cairo,Clay,32,15,20220110,207,220560,6,,Lian Tran,R,,NED,19.4798083504,220644,,,Arina Solomatina,U,,RUS,20.5092402464,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,874,29,,
 2022-W-ITF-EGY-02A-2022,W15 Cairo,Clay,32,15,20220110,208,213737,2,,Anastasia Evgenyevna Nefedova,R,,RUS,22.9979466119,221773,,,Honoka Kobayashi,U,,JPN,21.7166324435,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,580,75,1036,19
-2022-W-ITF-EGY-02A-2022,W15 Cairo,Clay,32,15,20220110,301,221209,1,,Anastasia Zolotareva,U,,RUS,19.9780971937,222233,,,Marina Stakusic,U,,CAN,,6-2 2-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,479,100,1294,9
+2022-W-ITF-EGY-02A-2022,W15 Cairo,Clay,32,15,20220110,301,221209,1,,Anastasia Zolotareva,U,,RUS,19.9780971937,222233,,,Marina Stakusic,U,,CAN,17.1197809719,6-2 2-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,479,100,1294,9
 2022-W-ITF-EGY-02A-2022,W15 Cairo,Clay,32,15,20220110,302,220391,4,,Anna Ureke,U,,RUS,22.1902806297,203553,,,Riko Sawayanagi,R,163,JPN,27.2114989733,7-6(3) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,804,36,1129,14
 2022-W-ITF-EGY-02A-2022,W15 Cairo,Clay,32,15,20220110,303,220364,3,,Sapfo Sakellaridi,U,,GRE,18.7789185489,221465,,Q,Sofia Rocchetti,R,,ITA,19.3839835729,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,579,75,1251,10
 2022-W-ITF-EGY-02A-2022,W15 Cairo,Clay,32,15,20220110,304,213737,2,,Anastasia Evgenyevna Nefedova,R,,RUS,22.9979466119,220560,6,,Lian Tran,R,,NED,19.4798083504,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,580,75,874,29
@@ -321,7 +321,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-EGY-03A-2022,W15 Cairo,Clay,32,15,20220117,111,220391,,,Anna Ureke,U,,RUS,22.2094455852,220644,,Q,Arina Solomatina,U,,RUS,20.5284052019,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,805,36,,
 2022-W-ITF-EGY-03A-2022,W15 Cairo,Clay,32,15,20220117,112,221209,3,,Anastasia Zolotareva,U,,RUS,19.9972621492,220560,,,Lian Tran,R,,NED,19.498973306,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,480,100,864,30
 2022-W-ITF-EGY-03A-2022,W15 Cairo,Clay,32,15,20220117,113,201659,7,,Melanie Klaffner,R,171,AUT,31.6577686516,219444,,Q,Giuliana Bestetti,R,,ITA,24.295687885,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,590,73,,
-2022-W-ITF-EGY-03A-2022,W15 Cairo,Clay,32,15,20220117,114,222233,,,Marina Stakusic,U,,CAN,,230127,,WC,Jermine Sherif,U,,EGY,16.3093771389,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1292,9,,
+2022-W-ITF-EGY-03A-2022,W15 Cairo,Clay,32,15,20220117,114,222233,,,Marina Stakusic,U,,CAN,17.1389459274,230127,,WC,Jermine Sherif,U,,EGY,16.3093771389,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1292,9,,
 2022-W-ITF-EGY-03A-2022,W15 Cairo,Clay,32,15,20220117,115,203553,,Q,Riko Sawayanagi,R,163,JPN,27.2306639288,241003,,Q,Joody Elkady,U,,EGY,15.8932238193,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1050,18,,
 2022-W-ITF-EGY-03A-2022,W15 Cairo,Clay,32,15,20220117,116,221257,2,,Sinja Kraus,U,,AUT,19.7207392197,256699,,WC,Daria Domova,U,,RUS,15.9069130732,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,457,108,,
 2022-W-ITF-EGY-03A-2022,W15 Cairo,Clay,32,15,20220117,201,221194,,,Flavie Brugnone,R,,FRA,18.8747433265,211646,1,,Oana Georgeta Simion,R,,ROU,25.8617385352,6-1 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,1081,16,432,121
@@ -330,7 +330,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-EGY-03A-2022,W15 Cairo,Clay,32,15,20220117,204,213737,6,,Anastasia Evgenyevna Nefedova,R,,RUS,23.0171115674,221994,,,Demi Tran,R,,NED,21.1416837782,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,564,78,934,24
 2022-W-ITF-EGY-03A-2022,W15 Cairo,Clay,32,15,20220117,205,215909,8,,Adrienn Nagy,R,,HUN,20.8186173854,221465,,Q,Sofia Rocchetti,R,,ITA,19.4031485284,3-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,783,38,1248,10
 2022-W-ITF-EGY-03A-2022,W15 Cairo,Clay,32,15,20220117,206,221209,3,,Anastasia Zolotareva,U,,RUS,19.9972621492,220391,,,Anna Ureke,U,,RUS,22.2094455852,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,480,100,805,36
-2022-W-ITF-EGY-03A-2022,W15 Cairo,Clay,32,15,20220117,207,201659,7,,Melanie Klaffner,R,171,AUT,31.6577686516,222233,,,Marina Stakusic,U,,CAN,,5-7 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,590,73,1292,9
+2022-W-ITF-EGY-03A-2022,W15 Cairo,Clay,32,15,20220117,207,201659,7,,Melanie Klaffner,R,171,AUT,31.6577686516,222233,,,Marina Stakusic,U,,CAN,17.1389459274,5-7 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,590,73,1292,9
 2022-W-ITF-EGY-03A-2022,W15 Cairo,Clay,32,15,20220117,208,221257,2,,Sinja Kraus,U,,AUT,19.7207392197,203553,,Q,Riko Sawayanagi,R,163,JPN,27.2306639288,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,457,108,1050,18
 2022-W-ITF-EGY-03A-2022,W15 Cairo,Clay,32,15,20220117,301,220364,5,,Sapfo Sakellaridi,U,,GRE,18.7980835044,221194,,,Flavie Brugnone,R,,FRA,18.8747433265,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,562,79,1081,16
 2022-W-ITF-EGY-03A-2022,W15 Cairo,Clay,32,15,20220117,302,221911,4,,Selena Janicijevic,U,,FRA,19.4880219028,213737,6,,Anastasia Evgenyevna Nefedova,R,,RUS,23.0171115674,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,566,77,564,78
@@ -558,7 +558,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-ESP-05A-2022,W15 Villena,Hard,32,15,20220207,501,222601,1,,Jessica Bouzas Maneiro,R,,ESP,19.3730321697,216076,4,,Ashley Lahey,U,,USA,22.2861054073,6-2 6-1,3,F,,,,,,,,,,,,,,,,,,,,375,154,636,60
 2022-W-ITF-FRA-01A-2022,W60 Grenoble,Hard,32,60,20220207,101,201551,1,,Arantxa Rus,L,180,NED,31.1540041068,223402,,Q,Chloe Noel,U,,FRA,17.8809034908,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,63,958,1238,10
 2022-W-ITF-FRA-01A-2022,W60 Grenoble,Hard,32,60,20220207,102,211316,,,Jessika Ponchet,R,,FRA,25.3661875428,214317,,WC,Mallaurie Noel,U,,FRA,27.1978097194,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,184,364,386,146
-2022-W-ITF-FRA-01A-2022,W60 Grenoble,Hard,32,60,20220207,103,221039,,,Elsa Jacquemot,R,,FRA,18.7679671458,215002,,Q,Anna Gabric,R,,GER,23.7070499658,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,262,255,606,68
+2022-W-ITF-FRA-01A-2022,W60 Grenoble,Hard,32,60,20220207,103,221039,,,Elsa Jacquemot,R,,FRA,18.7679671458,215002,,Q,Anna Gabric,R,,GER,23.7207392197,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,262,255,606,68
 2022-W-ITF-FRA-01A-2022,W60 Grenoble,Hard,32,60,20220207,104,215020,8,,Anna Blinkova,R,179,RUS,23.4113620808,211337,,,Tamara Korpatsch,R,170,GER,26.7433264887,3-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,156,428,174,388
 2022-W-ITF-FRA-01A-2022,W60 Grenoble,Hard,32,60,20220207,105,203564,4,,Chloe Paquet,R,179,FRA,27.6057494867,221886,,Q,Kamilla Bartone,R,,LAT,19.6714579055,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,124,576,394,141
 2022-W-ITF-FRA-01A-2022,W60 Grenoble,Hard,32,60,20220207,106,223253,,Q,Alexandra Eala,L,173,PHI,16.7118412047,215111,,,Joanne Zuger,U,,SUI,21.2238193018,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,587,72,264,255
@@ -623,11 +623,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,103,259591,,WC,Ella Mcdonald,U,,GBR,,223208,,WC,Eva Shaw,R,,GBR,16.6379192334,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,104,216116,8,,Elena Malygina,U,,EST,21.6235455168,220272,,,Sofia Nami Samavati,U,,DEN,21.9055441478,3-6 6-2 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,502,94,770,39
 2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,105,215795,,WC,Lauryn John Baptiste,U,,GBR,22.4613278576,219983,4,,Olga Helmi,R,,DEN,21.7905544148,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,460,108
-2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,106,213873,,Q,Gabriela Andrea Knutson,R,,CZE,24.7227926078,222350,,Q,Lissi Kubre,U,,EST,,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1377,7
+2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,106,213873,,Q,Gabriela Andrea Knutson,R,,CZE,24.7227926078,222350,,Q,Lissi Kubre,U,,EST,19.2498288843,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1377,7
 2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,107,220266,,,Kathleen Kanev,U,,GER,21.453798768,220283,,,Valentina Gaggini,U,,ITA,20.8049281314,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,840,32,1200,12
 2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,108,211432,5,,Eden Silva,R,,GBR,25.826146475,201399,,,Emily Webley Smith,R,,GBR,37.492128679,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,462,107,617,65
 2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,109,216385,6,,Caijsa Wilda Hennemann,R,,SWE,20.8049281314,216355,,Q,Giorgie Jones,U,,AUS,24.8843258042,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,493,95,,
-2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,110,222470,,Q,Amelia Bissett,U,,GBR,,258192,,Q,Kate Mansfield,U,,USA,17.2128678987,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1471,5,,
+2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,110,222470,,Q,Amelia Bissett,U,,GBR,18.6310746064,258192,,Q,Kate Mansfield,U,,USA,17.2128678987,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1471,5,,
 2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,111,221044,,Q,Danielle Daley,U,,GBR,21.5715263518,215430,,Q,Holly Hutchinson,R,,GBR,24.3312799452,6-3 3-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,1496,5
 2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,112,216030,,,Anna Ozerova,U,,LAT,24.2327173169,215077,3,,Viktoria Morvayova,U,,SVK,20.8377823409,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1197,12,415,130
 2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,113,220466,7,,Joanna Garland,R,,TPE,20.4873374401,222472,,Q,Abigail Amos,U,,GBR,,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,501,94,,
@@ -638,7 +638,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,202,216116,8,,Elena Malygina,U,,EST,21.6235455168,259591,,WC,Ella Mcdonald,U,,GBR,,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,502,94,,
 2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,203,213873,,Q,Gabriela Andrea Knutson,R,,CZE,24.7227926078,215795,,WC,Lauryn John Baptiste,U,,GBR,22.4613278576,4-6 6-3 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,204,211432,5,,Eden Silva,R,,GBR,25.826146475,220266,,,Kathleen Kanev,U,,GER,21.453798768,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,462,107,840,32
-2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,205,216385,6,,Caijsa Wilda Hennemann,R,,SWE,20.8049281314,222470,,Q,Amelia Bissett,U,,GBR,,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,493,95,1471,5
+2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,205,216385,6,,Caijsa Wilda Hennemann,R,,SWE,20.8049281314,222470,,Q,Amelia Bissett,U,,GBR,18.6310746064,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,493,95,1471,5
 2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,206,216030,,,Anna Ozerova,U,,LAT,24.2327173169,221044,,Q,Danielle Daley,U,,GBR,21.5715263518,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1197,12,,
 2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,207,212043,,,Freya Christie,R,180,GBR,24.1724845996,220466,7,,Joanna Garland,R,,TPE,20.4873374401,3-6 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,674,53,501,94
 2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,208,211031,2,,Sarah Beth Askew,L,,GBR,26.4202600958,223198,,,Jasmine Conway,U,,GBR,17.054072553,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,319,205,1132,14
@@ -651,7 +651,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,501,216385,6,,Caijsa Wilda Hennemann,R,,SWE,20.8049281314,216340,,,Eliz Maloney,U,,GBR,21.4182067077,6-1 7-5,3,F,,,,,,,,,,,,,,,,,,,,493,95,992,21
 2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,101,213734,1,,Mariam Bolkvadze,L,,GEO,24.0629705681,211328,,SR,Deborah Chiesa,R,170,ITA,25.6153319644,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,178,386,548,82
 2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,102,220466,,,Joanna Garland,R,,TPE,20.5256673511,216385,,,Caijsa Wilda Hennemann,R,,SWE,20.8432580424,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,501,94,493,95
-2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,103,222661,,WC,Sonay Kartal,U,,GBR,,212043,,,Freya Christie,R,180,GBR,24.2108145106,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,867,29,673,53
+2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,103,222661,,WC,Sonay Kartal,U,,GBR,20.2409308693,212043,,,Freya Christie,R,180,GBR,24.2108145106,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,867,29,673,53
 2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,104,211031,7,,Sarah Beth Askew,L,,GBR,26.4585900068,219983,,,Olga Helmi,R,,DEN,21.8288843258,6-1 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,317,205,458,108
 2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,105,213544,4,,Jana Fett,R,168,CRO,25.2265571526,215633,,Q,Ambre Feder,U,,FRA,21.6153319644,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,237,303,1265,10
 2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,106,215077,,,Viktoria Morvayova,U,,SVK,20.8761122519,216579,,,Weronika Falkowska,R,,POL,21.6043805613,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,412,130,387,148
@@ -661,17 +661,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,110,220494,,,Arina Gabriela Vasilescu,U,,ROU,24.887063655,213767,,,Ayla Aksu,R,170,USA,25.5277207392,4-6 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,615,66,702,49
 2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,111,216340,,WC,Eliz Maloney,U,,GBR,21.4565366188,215431,,Q,Emily Appleton,U,,GBR,22.3983572895,5-7 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,988,21,853,31
 2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,112,214741,3,,Anastasia Kulikova,L,,FIN,21.9411362081,215795,,WC,Lauryn John Baptiste,U,,GBR,22.4996577687,7-6(2) 6-7(5) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,235,305,,
-2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,113,215002,,,Anna Gabric,R,,GER,23.6687200548,201664,8,,Pemra Ozgen,R,170,TUR,35.7152635181,4-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,626,64,327,192
+2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,113,215002,,,Anna Gabric,R,,GER,23.6824093087,201664,8,,Pemra Ozgen,R,170,TUR,35.7152635181,4-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,626,64,327,192
 2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,114,216116,,,Elena Malygina,U,,EST,21.6618754278,223198,,WC,Jasmine Conway,U,,GBR,17.0924024641,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,502,94,1128,14
 2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,115,259685,,Q,Mingge Xu,U,,GBR,,259590,,Q,Emma Wilson,U,,GBR,,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,116,222276,,LL,Jasmijn Gimbrere,R,,NED,20.887063655,259686,,Q,Talia Neilson Gatenby,U,,GBR,,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,779,38,,
 2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,201,213734,1,,Mariam Bolkvadze,L,,GEO,24.0629705681,220466,,,Joanna Garland,R,,TPE,20.5256673511,6-3 6-7(5) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,178,386,501,94
-2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,202,211031,7,,Sarah Beth Askew,L,,GBR,26.4585900068,222661,,WC,Sonay Kartal,U,,GBR,,7-6(4) 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,317,205,867,29
+2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,202,211031,7,,Sarah Beth Askew,L,,GBR,26.4585900068,222661,,WC,Sonay Kartal,U,,GBR,20.2409308693,7-6(4) 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,317,205,867,29
 2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,203,213544,4,,Jana Fett,R,168,CRO,25.2265571526,215077,,,Viktoria Morvayova,U,,SVK,20.8761122519,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,237,303,412,130
 2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,204,213873,,Q,Gabriela Andrea Knutson,R,,CZE,24.7611225188,211432,,,Eden Silva,R,,GBR,25.864476386,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,461,107
 2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,205,220272,,Q,Sofia Nami Samavati,U,,DEN,21.9438740589,220494,,,Arina Gabriela Vasilescu,U,,ROU,24.887063655,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,769,39,615,66
 2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,206,214741,3,,Anastasia Kulikova,L,,FIN,21.9411362081,216340,,WC,Eliz Maloney,U,,GBR,21.4565366188,6-2 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,235,305,988,21
-2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,207,216116,,,Elena Malygina,U,,EST,21.6618754278,215002,,,Anna Gabric,R,,GER,23.6687200548,6-3 6-7(2) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,502,94,626,64
+2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,207,216116,,,Elena Malygina,U,,EST,21.6618754278,215002,,,Anna Gabric,R,,GER,23.6824093087,6-3 6-7(2) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,502,94,626,64
 2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,208,222276,,LL,Jasmijn Gimbrere,R,,NED,20.887063655,259685,,Q,Mingge Xu,U,,GBR,,6-7(5) 6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,779,38,,
 2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,301,213734,1,,Mariam Bolkvadze,L,,GEO,24.0629705681,211031,7,,Sarah Beth Askew,L,,GBR,26.4585900068,6-4 4-6 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,178,386,317,205
 2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,302,213873,,Q,Gabriela Andrea Knutson,R,,CZE,24.7611225188,213544,4,,Jana Fett,R,168,CRO,25.2265571526,6-1 7-5,3,QF,,,,,,,,,,,,,,,,,,,,,,237,303
@@ -680,7 +680,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,401,213734,1,,Mariam Bolkvadze,L,,GEO,24.0629705681,213873,,Q,Gabriela Andrea Knutson,R,,CZE,24.7611225188,7-5 4-6 6-1,3,SF,,,,,,,,,,,,,,,,,,,,178,386,,
 2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,402,220272,,Q,Sofia Nami Samavati,U,,DEN,21.9438740589,216116,,,Elena Malygina,U,,EST,21.6618754278,6-4 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,,769,39,502,94
 2022-W-ITF-GBR-02A-2022,W25 Loughborough,Hard,32,25,20220124,501,220272,,Q,Sofia Nami Samavati,U,,DEN,21.9438740589,213734,1,,Mariam Bolkvadze,L,,GEO,24.0629705681,6-2 5-5 RET,3,F,,,,,,,,,,,,,,,,,,,,769,39,178,386
-2022-W-ITF-GBR-04A-2022,W25 Birmingham,Hard,32,25,20220207,101,222661,,WC,Sonay Kartal,U,,GBR,,204246,1,,Lesley Kerkhove,R,172,NED,30.2614647502,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,820,34,141,478
+2022-W-ITF-GBR-04A-2022,W25 Birmingham,Hard,32,25,20220207,101,222661,,WC,Sonay Kartal,U,,GBR,20.2792607803,204246,1,,Lesley Kerkhove,R,172,NED,30.2614647502,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,820,34,141,478
 2022-W-ITF-GBR-04A-2022,W25 Birmingham,Hard,32,25,20220207,102,202425,,Q,Samantha Murray,R,178,GBR,34.3326488706,202478,,,Tara Moore,R,163,GBR,29.5058179329,6-1 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,282,239,402,138
 2022-W-ITF-GBR-04A-2022,W25 Birmingham,Hard,32,25,20220207,103,220332,,,Eva Lys,R,165,GER,20.0711841205,202693,,,Ya Hsuan Lee,R,165,TPE,26.5544147844,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,343,181,384,148
 2022-W-ITF-GBR-04A-2022,W25 Birmingham,Hard,32,25,20220207,104,259760,,WC,Isabelle Lacy,U,,GBR,,202414,7,,Catherine Harrison,U,,USA,27.832991102,6-3 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,261,257
@@ -696,7 +696,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-GBR-04A-2022,W25 Birmingham,Hard,32,25,20220207,114,259686,,WC,Talia Neilson Gatenby,U,,GBR,,205723,,,Anna Zaja,R,183,GER,30.6228610541,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,323,197
 2022-W-ITF-GBR-04A-2022,W25 Birmingham,Hard,32,25,20220207,115,216116,,Q,Elena Malygina,U,,EST,21.7002053388,211225,,,Quinn Gleason,R,178,USA,27.2443531828,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,446,115,476,102
 2022-W-ITF-GBR-04A-2022,W25 Birmingham,Hard,32,25,20220207,116,201664,,,Pemra Ozgen,R,170,TUR,35.7535934292,213734,2,,Mariam Bolkvadze,L,,GEO,24.1013004791,5-7 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,328,192,168,396
-2022-W-ITF-GBR-04A-2022,W25 Birmingham,Hard,32,25,20220207,201,222661,,WC,Sonay Kartal,U,,GBR,,202425,,Q,Samantha Murray,R,178,GBR,34.3326488706,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,820,34,282,239
+2022-W-ITF-GBR-04A-2022,W25 Birmingham,Hard,32,25,20220207,201,222661,,WC,Sonay Kartal,U,,GBR,20.2792607803,202425,,Q,Samantha Murray,R,178,GBR,34.3326488706,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,820,34,282,239
 2022-W-ITF-GBR-04A-2022,W25 Birmingham,Hard,32,25,20220207,202,220332,,,Eva Lys,R,165,GER,20.0711841205,259760,,WC,Isabelle Lacy,U,,GBR,,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,343,181,,
 2022-W-ITF-GBR-04A-2022,W25 Birmingham,Hard,32,25,20220207,203,221768,,,Nastasja Mariana Schunk,U,,GER,18.4777549624,211765,3,,Emina Bektas,R,,USA,28.8596851472,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,302,223,200,340
 2022-W-ITF-GBR-04A-2022,W25 Birmingham,Hard,32,25,20220207,204,215795,,Q,Lauryn John Baptiste,U,,GBR,22.5379876797,221354,,,Lisa Pigato,R,,ITA,18.6338124572,7-6(5) 0-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,433,120
@@ -704,16 +704,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-GBR-04A-2022,W25 Birmingham,Hard,32,25,20220207,206,214839,4,,Jodie Anna Burrage,R,,GBR,22.6995208761,214694,,,Karman Thandi,R,183,IND,23.6468172485,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,208,328,437,117
 2022-W-ITF-GBR-04A-2022,W25 Birmingham,Hard,32,25,20220207,207,259686,,WC,Talia Neilson Gatenby,U,,GBR,,223323,,Q,Barbora Palicova,R,,CZE,17.9110198494,6-4 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-GBR-04A-2022,W25 Birmingham,Hard,32,25,20220207,208,201664,,,Pemra Ozgen,R,170,TUR,35.7535934292,216116,,Q,Elena Malygina,U,,EST,21.7002053388,0-6 7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,328,192,446,115
-2022-W-ITF-GBR-04A-2022,W25 Birmingham,Hard,32,25,20220207,301,222661,,WC,Sonay Kartal,U,,GBR,,220332,,,Eva Lys,R,165,GER,20.0711841205,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,820,34,343,181
+2022-W-ITF-GBR-04A-2022,W25 Birmingham,Hard,32,25,20220207,301,222661,,WC,Sonay Kartal,U,,GBR,20.2792607803,220332,,,Eva Lys,R,165,GER,20.0711841205,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,820,34,343,181
 2022-W-ITF-GBR-04A-2022,W25 Birmingham,Hard,32,25,20220207,302,221768,,,Nastasja Mariana Schunk,U,,GER,18.4777549624,215795,,Q,Lauryn John Baptiste,U,,GBR,22.5379876797,6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,302,223,,
 2022-W-ITF-GBR-04A-2022,W25 Birmingham,Hard,32,25,20220207,303,213855,,,Magali Kempen,R,,BEL,24.1889117043,214839,4,,Jodie Anna Burrage,R,,GBR,22.6995208761,2-6 6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,461,108,208,328
 2022-W-ITF-GBR-04A-2022,W25 Birmingham,Hard,32,25,20220207,304,259686,,WC,Talia Neilson Gatenby,U,,GBR,,201664,,,Pemra Ozgen,R,170,TUR,35.7535934292,7-5 7-5,3,QF,,,,,,,,,,,,,,,,,,,,,,328,192
-2022-W-ITF-GBR-04A-2022,W25 Birmingham,Hard,32,25,20220207,401,222661,,WC,Sonay Kartal,U,,GBR,,221768,,,Nastasja Mariana Schunk,U,,GER,18.4777549624,3-6 6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,820,34,302,223
+2022-W-ITF-GBR-04A-2022,W25 Birmingham,Hard,32,25,20220207,401,222661,,WC,Sonay Kartal,U,,GBR,20.2792607803,221768,,,Nastasja Mariana Schunk,U,,GER,18.4777549624,3-6 6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,820,34,302,223
 2022-W-ITF-GBR-04A-2022,W25 Birmingham,Hard,32,25,20220207,402,259686,,WC,Talia Neilson Gatenby,U,,GBR,,213855,,,Magali Kempen,R,,BEL,24.1889117043,6-7(5) 7-6(4) 6-1,3,SF,,,,,,,,,,,,,,,,,,,,,,461,108
-2022-W-ITF-GBR-04A-2022,W25 Birmingham,Hard,32,25,20220207,501,222661,,WC,Sonay Kartal,U,,GBR,,259686,,WC,Talia Neilson Gatenby,U,,GBR,,5-7 6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,820,34,,
+2022-W-ITF-GBR-04A-2022,W25 Birmingham,Hard,32,25,20220207,501,222661,,WC,Sonay Kartal,U,,GBR,20.2792607803,259686,,WC,Talia Neilson Gatenby,U,,GBR,,5-7 6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,820,34,,
 2022-W-ITF-IND-01A-2022,W15 Jhajjar,Clay,32,15,20220207,101,215163,1,,Zeel Desai,R,,IND,22.970568104,259761,,Q,Anjali Rathi,U,,IND,,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,592,72,,
 2022-W-ITF-IND-01A-2022,W15 Jhajjar,Clay,32,15,20220207,102,220048,,,Elena Jamshidi,R,,DEN,20.8980150582,214367,,,Arthi M,U,,IND,27.0800821355,3-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1179,13,1483,5
-2022-W-ITF-IND-01A-2022,W15 Jhajjar,Clay,32,15,20220207,103,259762,,,Shruti Ahlawat,U,,IND,,222499,,,Shreya Tatavarthy,U,,IND,,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1488,5
+2022-W-ITF-IND-01A-2022,W15 Jhajjar,Clay,32,15,20220207,103,259762,,,Shruti Ahlawat,U,,IND,,222499,,,Shreya Tatavarthy,U,,IND,21.6509240246,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1488,5
 2022-W-ITF-IND-01A-2022,W15 Jhajjar,Clay,32,15,20220207,104,211080,,,Sai Samhitha Chamarthi,R,,IND,27.0581793292,221794,8,,Farhat Aleen Qamar,U,,IND,19.370294319,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1324,8,1161,13
 2022-W-ITF-IND-01A-2022,W15 Jhajjar,Clay,32,15,20220207,105,220392,3,,Punnin Kovapitukted,U,,THA,19.0061601643,222095,,,Shria Atturu,U,,USA,,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,830,33,,
 2022-W-ITF-IND-01A-2022,W15 Jhajjar,Clay,32,15,20220207,106,234221,,,Jagmeet Kaur Grewal,U,,IND,19.2525667351,215659,,WC,Sai Dedeepya Yeddula,U,,IND,20.4791238877,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -742,14 +742,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-IND-01A-2022,W15 Jhajjar,Clay,32,15,20220207,401,215163,1,,Zeel Desai,R,,IND,22.970568104,220392,3,,Punnin Kovapitukted,U,,THA,19.0061601643,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,592,72,830,33
 2022-W-ITF-IND-01A-2022,W15 Jhajjar,Clay,32,15,20220207,402,220391,2,,Anna Ureke,U,,RUS,22.2669404517,214418,4,,Vaidehi Chaudhari,U,,IND,21.9822039699,6-1 6-1,3,SF,,,,,,,,,,,,,,,,,,,,717,47,862,29
 2022-W-ITF-IND-01A-2022,W15 Jhajjar,Clay,32,15,20220207,501,220391,2,,Anna Ureke,U,,RUS,22.2669404517,215163,1,,Zeel Desai,R,,IND,22.970568104,6-4 4-6 6-4,3,F,,,,,,,,,,,,,,,,,,,,717,47,592,72
-2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,101,214696,1,,Jessica Failla,U,,USA,24.6187542779,236980,,,Astrid Cirotte,U,,FRA,18.0889801506,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,500,94,1230,11
+2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,101,214696,1,,Jessica Failla,U,,USA,24.5366187543,236980,,,Astrid Cirotte,U,,FRA,18.0889801506,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,500,94,1230,11
 2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,102,221496,,,Jade Bornay,R,,FRA,19.9370294319,223146,,WC,Isabella Barrera Aguirre,U,,USA,18.8665297741,6-1 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1132,14,,
 2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,103,221342,,,Bianca Behulova,U,,SVK,18.7789185489,215153,,,Kristin Younes,U,,ISR,20.7857631759,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1367,7,1392,7
 2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,104,221688,,,Anastasia Sysoeva,U,,RUS,18.7871321013,221988,8,,Bianca Jolie Fernandez,R,,CAN,17.8973305955,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1007,20,946,23
 2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,105,214577,4,,Stacey Fung,U,,CAN,24.9445585216,222000,,,Maria Camila Torres Murcia,L,,COL,19.1868583162,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,713,47,1392,7
-2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,106,222895,,,Lara Pfeifer,U,,ITA,,221912,,WC,Bryn Johnson,U,,USA,18.5872689938,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1436,6,,
+2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,106,222895,,,Lara Pfeifer,U,,ITA,17.4674880219,221912,,WC,Bryn Johnson,U,,USA,18.5872689938,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1436,6,,
 2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,107,221478,,Q,Jessica Marmorstein,U,,USA,20.7967145791,221067,,Q,Alessandra Crump,U,,USA,21.826146475,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,108,222080,5,,Hina Inoue,R,,USA,,210913,,,Ana Filipa Santos,R,,POR,25.9301848049,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,726,45,1276,10
+2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,108,222080,5,,Hina Inoue,R,,USA,18.6310746064,210913,,,Ana Filipa Santos,R,,POR,25.9301848049,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,726,45,1276,10
 2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,109,221018,7,,Julie Belgraver,R,,FRA,19.5400410678,214398,,,Natsuho Arakawa,L,,JPN,24.372347707,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,786,37,1344,8
 2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,110,206271,,,Chisa Hosonuma,U,,JPN,25.8124572211,254743,,Q,Versace Gatti,U,,USA,20.1232032854,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1027,19,,
 2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,111,219892,,,Mayuka Aikawa,L,,JPN,23.794661191,222351,,Q,Gala Arangio,U,,MEX,,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,965,22,,
@@ -758,21 +758,21 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,114,210533,,,Haine Ogata,R,,JPN,28.386036961,239491,,,Paris Corley,U,,USA,24.038329911,7-6(5) 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1259,10,1210,11
 2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,115,239186,,Q,Lexington Reed,U,,USA,15.7645448323,213739,,,Jessica Hinojosa Gomez,U,,MEX,24.3312799452,6-3 1-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,1220,11
 2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,116,215019,2,,Maria Jose Portillo Ramirez,R,,MEX,22.6967830253,248667,,WC,Esther Vyrlan,U,,USA,15.665982204,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,517,89,,
-2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,201,214696,1,,Jessica Failla,U,,USA,24.6187542779,221496,,,Jade Bornay,R,,FRA,19.9370294319,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,500,94,1132,14
+2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,201,214696,1,,Jessica Failla,U,,USA,24.5366187543,221496,,,Jade Bornay,R,,FRA,19.9370294319,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,500,94,1132,14
 2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,202,221342,,,Bianca Behulova,U,,SVK,18.7789185489,221688,,,Anastasia Sysoeva,U,,RUS,18.7871321013,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1367,7,1007,20
-2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,203,214577,4,,Stacey Fung,U,,CAN,24.9445585216,222895,,,Lara Pfeifer,U,,ITA,,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,713,47,1436,6
-2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,204,222080,5,,Hina Inoue,R,,USA,,221478,,Q,Jessica Marmorstein,U,,USA,20.7967145791,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,726,45,,
+2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,203,214577,4,,Stacey Fung,U,,CAN,24.9445585216,222895,,,Lara Pfeifer,U,,ITA,17.4674880219,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,713,47,1436,6
+2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,204,222080,5,,Hina Inoue,R,,USA,18.6310746064,221478,,Q,Jessica Marmorstein,U,,USA,20.7967145791,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,726,45,,
 2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,205,221018,7,,Julie Belgraver,R,,FRA,19.5400410678,206271,,,Chisa Hosonuma,U,,JPN,25.8124572211,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,786,37,1027,19
 2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,206,210870,3,,Natalia Siedliska,U,,POL,26.1081451061,219892,,,Mayuka Aikawa,L,,JPN,23.794661191,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,703,49,965,22
 2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,207,221382,6,,Katarina Kuzmova,U,,SVK,20.4462696783,210533,,,Haine Ogata,R,,JPN,28.386036961,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,746,42,1259,10
 2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,208,215019,2,,Maria Jose Portillo Ramirez,R,,MEX,22.6967830253,239186,,Q,Lexington Reed,U,,USA,15.7645448323,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,517,89,,
-2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,301,214696,1,,Jessica Failla,U,,USA,24.6187542779,221342,,,Bianca Behulova,U,,SVK,18.7789185489,6-1 4-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,500,94,1367,7
-2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,302,222080,5,,Hina Inoue,R,,USA,,214577,4,,Stacey Fung,U,,CAN,24.9445585216,6-4 7-6(7),3,QF,,,,,,,,,,,,,,,,,,,,726,45,713,47
+2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,301,214696,1,,Jessica Failla,U,,USA,24.5366187543,221342,,,Bianca Behulova,U,,SVK,18.7789185489,6-1 4-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,500,94,1367,7
+2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,302,222080,5,,Hina Inoue,R,,USA,18.6310746064,214577,4,,Stacey Fung,U,,CAN,24.9445585216,6-4 7-6(7),3,QF,,,,,,,,,,,,,,,,,,,,726,45,713,47
 2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,303,210870,3,,Natalia Siedliska,U,,POL,26.1081451061,221018,7,,Julie Belgraver,R,,FRA,19.5400410678,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,703,49,786,37
 2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,304,215019,2,,Maria Jose Portillo Ramirez,R,,MEX,22.6967830253,221382,6,,Katarina Kuzmova,U,,SVK,20.4462696783,6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,517,89,746,42
-2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,401,222080,5,,Hina Inoue,R,,USA,,214696,1,,Jessica Failla,U,,USA,24.6187542779,4-6 6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,726,45,500,94
+2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,401,222080,5,,Hina Inoue,R,,USA,18.6310746064,214696,1,,Jessica Failla,U,,USA,24.5366187543,4-6 6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,726,45,500,94
 2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,402,215019,2,,Maria Jose Portillo Ramirez,R,,MEX,22.6967830253,210870,3,,Natalia Siedliska,U,,POL,26.1081451061,7-6(5) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,517,89,703,49
-2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,501,222080,5,,Hina Inoue,R,,USA,,215019,2,,Maria Jose Portillo Ramirez,R,,MEX,22.6967830253,1-6 6-3 7-6,3,F,,,,,,,,,,,,,,,,,,,,726,45,517,89
+2022-W-ITF-MEX-01A-2022,W15 Cancun,Hard,32,15,20220117,501,222080,5,,Hina Inoue,R,,USA,18.6310746064,215019,2,,Maria Jose Portillo Ramirez,R,,MEX,22.6967830253,1-6 6-3 7-6,3,F,,,,,,,,,,,,,,,,,,,,726,45,517,89
 2022-W-ITF-MEX-02A-2022,W15 Cancun,Hard,32,15,20220124,101,206077,1,,Miharu Imanishi,R,162,JPN,29.6810403833,259688,,Q,Aanya Goel,U,,USA,,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,600,70,,
 2022-W-ITF-MEX-02A-2022,W15 Cancun,Hard,32,15,20220124,102,239186,,WC,Lexington Reed,U,,USA,15.7837097878,215153,,,Kristin Younes,U,,ISR,20.8049281314,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1392,7
 2022-W-ITF-MEX-02A-2022,W15 Cancun,Hard,32,15,20220124,103,221496,,,Jade Bornay,R,,FRA,19.9561943874,213739,,,Jessica Hinojosa Gomez,U,,MEX,24.3504449008,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1132,14,1220,11
@@ -784,7 +784,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-MEX-02A-2022,W15 Cancun,Hard,32,15,20220124,109,221018,6,,Julie Belgraver,R,,FRA,19.5592060233,221067,,Q,Alessandra Crump,U,,USA,21.8453114305,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,786,37,,
 2022-W-ITF-MEX-02A-2022,W15 Cancun,Hard,32,15,20220124,110,221688,,,Anastasia Sysoeva,U,,RUS,18.8062970568,222351,,Q,Gala Arangio,U,,MEX,,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1007,20,,
 2022-W-ITF-MEX-02A-2022,W15 Cancun,Hard,32,15,20220124,111,219892,,,Mayuka Aikawa,L,,JPN,23.8138261465,209771,,,Stephanie Kent,U,,USA,31.8302532512,6-1 2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,965,22,1136,14
-2022-W-ITF-MEX-02A-2022,W15 Cancun,Hard,32,15,20220124,112,221342,,,Bianca Behulova,U,,SVK,18.7980835044,222080,4,,Hina Inoue,R,,USA,,6-0 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1367,7,726,45
+2022-W-ITF-MEX-02A-2022,W15 Cancun,Hard,32,15,20220124,112,221342,,,Bianca Behulova,U,,SVK,18.7980835044,222080,4,,Hina Inoue,R,,USA,18.6502395619,6-0 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,1367,7,726,45
 2022-W-ITF-MEX-02A-2022,W15 Cancun,Hard,32,15,20220124,113,221311,,,Petra Csabi,R,,CZE,19.6221765914,216225,7,,Denisa Hindova,U,,CZE,19.523613963,7-6(4) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1160,13,904,26
 2022-W-ITF-MEX-02A-2022,W15 Cancun,Hard,32,15,20220124,114,210533,,,Haine Ogata,R,,JPN,28.4052019165,210913,,WC,Ana Filipa Santos,R,,POR,25.9493497604,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1259,10,1276,10
 2022-W-ITF-MEX-02A-2022,W15 Cancun,Hard,32,15,20220124,115,206271,,,Chisa Hosonuma,U,,JPN,25.8316221766,248667,,Q,Esther Vyrlan,U,,USA,15.6851471595,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1027,19,,
@@ -835,7 +835,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-MEX-03A-2022,W15 Cancun,Hard,32,15,20220131,401,206077,5,,Miharu Imanishi,R,162,JPN,29.7002053388,214577,8,,Stacey Fung,U,,CAN,24.9828884326,6-4 6-0,3,SF,,,,,,,,,,,,,,,,,,,,600,70,711,47
 2022-W-ITF-MEX-03A-2022,W15 Cancun,Hard,32,15,20220131,402,221018,,,Julie Belgraver,R,,FRA,19.5783709788,221914,6,,Jenna Defalco,U,,USA,19.2169746749,7-5 6-1,3,SF,,,,,,,,,,,,,,,,,,,,792,36,618,64
 2022-W-ITF-MEX-03A-2022,W15 Cancun,Hard,32,15,20220131,501,221018,,,Julie Belgraver,R,,FRA,19.5783709788,206077,5,,Miharu Imanishi,R,162,JPN,29.7002053388,1-6 6-3 7-5,3,F,,,,,,,,,,,,,,,,,,,,792,36,600,70
-2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,101,211702,1,,Nao Hibino,R,163,JPN,27.1950718686,222189,,Q,Anna Sinclair Rogers,U,,USA,,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,135,518,1028,19
+2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,101,211702,1,,Nao Hibino,R,163,JPN,27.1950718686,222189,,Q,Anna Sinclair Rogers,U,,USA,23.8850102669,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,135,518,1028,19
 2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,102,220722,,,Elvina Kalieva,R,,USA,18.5352498289,222299,,Q,Adriana Reami,R,,USA,24.2354551677,7-6(5) 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,325,194,780,37
 2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,103,221985,,Q,Darja Semenistaja,R,,LAT,19.394934976,203475,,,Carol Zhao,R,165,CAN,26.636550308,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,549,81,299,226
 2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,104,213706,7,,Irene Burillo Escorihuela,R,,ESP,24.5448323066,214560,,WC,Caroline Lampl,U,,USA,24.5366187543,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,251,273,902,26
@@ -909,7 +909,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-RUS-01A-2022,W15 Kazan,Hard,32,15,20220117,110,223304,,WC,Victoria Matasova,U,,RUS,17.5441478439,222183,,,Hanna Vinahradava,U,,BLR,,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-RUS-01A-2022,W15 Kazan,Hard,32,15,20220117,111,223156,,Q,Ksenia Agureeva,U,,RUS,17.7932922656,220159,,,Kseniya Yersh,U,,BLR,20.9911019849,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1436,6
 2022-W-ITF-RUS-01A-2022,W15 Kazan,Hard,32,15,20220117,112,215218,4,,Anna Ukolova,U,,RUS,22.81724846,244077,,,Aglaya Fedorova,U,,RUS,17.9493497604,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,695,50,1411,6
-2022-W-ITF-RUS-01A-2022,W15 Kazan,Hard,32,15,20220117,113,222977,,,Dana Shakirova,U,,RUS,,215234,5,,Daria Kruzhkova,L,,RUS,23.6988364134,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1468,5,813,35
+2022-W-ITF-RUS-01A-2022,W15 Kazan,Hard,32,15,20220117,113,222977,,,Dana Shakirova,U,,RUS,19.7316906229,215234,5,,Daria Kruzhkova,L,,RUS,23.6988364134,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1468,5,813,35
 2022-W-ITF-RUS-01A-2022,W15 Kazan,Hard,32,15,20220117,114,221902,,Q,Alena Bairasheuskaya,U,,BLR,21.568788501,222557,,Q,Alina Trynkina,U,,RUS,,3-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-RUS-01A-2022,W15 Kazan,Hard,32,15,20220117,115,239158,,,Daria Zelinskaya,U,,RUS,17.3935660507,221325,,,Iuliia Nikitina,U,,RUS,19.9288158795,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1331,8,1301,9
 2022-W-ITF-RUS-01A-2022,W15 Kazan,Hard,32,15,20220117,116,203236,2,,Angelina Gabueva,U,,RUS,33.1115674196,236955,,,Tatiana Barkova,U,,RUS,18.2724161533,7-6(0) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,607,67,1284,9
@@ -919,7 +919,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-RUS-01A-2022,W15 Kazan,Hard,32,15,20220117,204,223289,,Q,Anastasiya Apalikhina,U,,RUS,20.1423682409,223325,,,Polina Iatcenko,U,,RUS,18.1054072553,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,1322,8
 2022-W-ITF-RUS-01A-2022,W15 Kazan,Hard,32,15,20220117,205,223018,8,,Anastasia Kovaleva,U,,RUS,19.5263518138,223304,,WC,Victoria Matasova,U,,RUS,17.5441478439,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1157,13,,
 2022-W-ITF-RUS-01A-2022,W15 Kazan,Hard,32,15,20220117,206,215218,4,,Anna Ukolova,U,,RUS,22.81724846,223156,,Q,Ksenia Agureeva,U,,RUS,17.7932922656,7-5 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,695,50,,
-2022-W-ITF-RUS-01A-2022,W15 Kazan,Hard,32,15,20220117,207,221902,,Q,Alena Bairasheuskaya,U,,BLR,21.568788501,222977,,,Dana Shakirova,U,,RUS,,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,1468,5
+2022-W-ITF-RUS-01A-2022,W15 Kazan,Hard,32,15,20220117,207,221902,,Q,Alena Bairasheuskaya,U,,BLR,21.568788501,222977,,,Dana Shakirova,U,,RUS,19.7316906229,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,1468,5
 2022-W-ITF-RUS-01A-2022,W15 Kazan,Hard,32,15,20220117,208,203236,2,,Angelina Gabueva,U,,RUS,33.1115674196,239158,,,Daria Zelinskaya,U,,RUS,17.3935660507,6-3 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,607,67,1331,8
 2022-W-ITF-RUS-01A-2022,W15 Kazan,Hard,32,15,20220117,301,221236,1,,Polina Kudermetova,U,,RUS,18.6228610541,221901,,Q,Darya Shauha,U,,BLR,18.2997946612,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,543,83,,
 2022-W-ITF-RUS-01A-2022,W15 Kazan,Hard,32,15,20220117,302,221375,,,Alisa Kummel,R,,RUS,19.2881587953,223289,,Q,Anastasiya Apalikhina,U,,RUS,20.1423682409,7-5 7-5,3,QF,,,,,,,,,,,,,,,,,,,,1209,11,,
@@ -1097,8 +1097,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-TUN-06A-2022,W15 Monastir,Hard,32,15,20220207,112,220453,3,,Adithya Karunaratne,U,,SRI,20.1779603012,215654,,Q,Diana Chehoudi,U,,NED,23.794661191,6-4 6-7(2) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,676,52,1035,19
 2022-W-ITF-TUN-06A-2022,W15 Monastir,Hard,32,15,20220207,113,215807,8,,Manon Leonard,R,,FRA,21.0485968515,241713,,WC,Chiara Tomasetti,U,,DEU,23.9452429843,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,825,34,,
 2022-W-ITF-TUN-06A-2022,W15 Monastir,Hard,32,15,20220207,114,233718,,WC,Maria Sholokhova,U,,RUS,18.0725530459,223399,,WC,Selina Dal,U,,GER,20.1943874059,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1133,14,,
-2022-W-ITF-TUN-06A-2022,W15 Monastir,Hard,32,15,20220207,115,222092,,,Radka Zelnickova,R,,SVK,,221994,,,Demi Tran,R,,NED,21.1991786448,7-6(8) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,995,20,925,25
-2022-W-ITF-TUN-06A-2022,W15 Monastir,Hard,32,15,20220207,116,220489,2,,Valentina Ryser,U,,SUI,20.8815879535,222416,,,Mia Mack,U,,GER,,6-2 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,542,83,1107,15
+2022-W-ITF-TUN-06A-2022,W15 Monastir,Hard,32,15,20220207,115,222092,,,Radka Zelnickova,R,,SVK,18.6557152635,221994,,,Demi Tran,R,,NED,21.1991786448,7-6(8) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,995,20,925,25
+2022-W-ITF-TUN-06A-2022,W15 Monastir,Hard,32,15,20220207,116,220489,2,,Valentina Ryser,U,,SUI,20.8815879535,222416,,,Mia Mack,U,,GER,17.311430527,6-2 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,542,83,1107,15
 2022-W-ITF-TUN-06A-2022,W15 Monastir,Hard,32,15,20220207,201,214505,1,,Haruna Arakawa,U,,JPN,22.2833675565,222602,,,Nina Radovanovic,U,,FRA,18.2970568104,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,508,93,833,33
 2022-W-ITF-TUN-06A-2022,W15 Monastir,Hard,32,15,20220207,202,220808,,,Kristina Dmitruk,R,,BLR,18.3709787817,215272,,,Zhuoma Ni Ma,U,,CHN,21.1225188227,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,932,24,1142,14
 2022-W-ITF-TUN-06A-2022,W15 Monastir,Hard,32,15,20220207,203,215778,,,Emma Lene,U,,FRA,22.5681040383,220560,,,Lian Tran,R,,NED,19.5564681725,6-1 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1015,20,850,31
@@ -1106,7 +1106,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-TUN-06A-2022,W15 Monastir,Hard,32,15,20220207,205,203504,,Q,Miyu Kato,R,156,JPN,27.2142368241,215647,,Q,Lara Schmidt,R,,GER,22.3216974675,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1311,8,1181,13
 2022-W-ITF-TUN-06A-2022,W15 Monastir,Hard,32,15,20220207,206,220453,3,,Adithya Karunaratne,U,,SRI,20.1779603012,215657,,,Kelia Le Bihan,U,,FRA,23.0855578371,5-7 6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,676,52,847,31
 2022-W-ITF-TUN-06A-2022,W15 Monastir,Hard,32,15,20220207,207,233718,,WC,Maria Sholokhova,U,,RUS,18.0725530459,215807,8,,Manon Leonard,R,,FRA,21.0485968515,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1133,14,825,34
-2022-W-ITF-TUN-06A-2022,W15 Monastir,Hard,32,15,20220207,208,220489,2,,Valentina Ryser,U,,SUI,20.8815879535,222092,,,Radka Zelnickova,R,,SVK,,6-4 6-7(4) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,542,83,995,20
+2022-W-ITF-TUN-06A-2022,W15 Monastir,Hard,32,15,20220207,208,220489,2,,Valentina Ryser,U,,SUI,20.8815879535,222092,,,Radka Zelnickova,R,,SVK,18.6557152635,6-4 6-7(4) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,542,83,995,20
 2022-W-ITF-TUN-06A-2022,W15 Monastir,Hard,32,15,20220207,301,220808,,,Kristina Dmitruk,R,,BLR,18.3709787817,214505,1,,Haruna Arakawa,U,,JPN,22.2833675565,7-6(5) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,932,24,508,93
 2022-W-ITF-TUN-06A-2022,W15 Monastir,Hard,32,15,20220207,302,243420,,,Hanne Vandewinkel,U,,BEL,17.7166324435,215778,,,Emma Lene,U,,FRA,22.5681040383,6-0 3-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,1015,20
 2022-W-ITF-TUN-06A-2022,W15 Monastir,Hard,32,15,20220207,303,203504,,Q,Miyu Kato,R,156,JPN,27.2142368241,220453,3,,Adithya Karunaratne,U,,SRI,20.1779603012,6-3 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,1311,8,676,52
@@ -1123,7 +1123,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-TUR-01A-2022,W15 Antalya,Clay,32,15,20220110,107,214605,,,Agustina Chlpac,U,,ARG,24.9144421629,259592,,WC,Simay Keles,U,,TUR,,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1021,20,,
 2022-W-ITF-TUR-01A-2022,W15 Antalya,Clay,32,15,20220110,108,211643,,,Kajsa Rinaldo Persson,R,,SWE,24.1642710472,221150,6,,Eszter Meri,U,,SVK,19.0828199863,7-5 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,1268,10,814,35
 2022-W-ITF-TUR-01A-2022,W15 Antalya,Clay,32,15,20220110,109,213976,5,,Diana Demidova,U,,RUS,24.2902121834,222856,,Q,Defne Cirpanli,R,,TUR,,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,764,40,,
-2022-W-ITF-TUR-01A-2022,W15 Antalya,Clay,32,15,20220110,110,222637,,,Anika Jaskova,R,,SVK,,222703,,,Ioana Zvonaru,R,,ROU,18.0123203285,3-6 7-6(2) 10-4,3,R32,,,,,,,,,,,,,,,,,,,,1261,10,1552,4
+2022-W-ITF-TUR-01A-2022,W15 Antalya,Clay,32,15,20220110,110,222637,,,Anika Jaskova,R,,SVK,18.7351129363,222703,,,Ioana Zvonaru,R,,ROU,18.0123203285,3-6 7-6(2) 10-4,3,R32,,,,,,,,,,,,,,,,,,,,1261,10,1552,4
 2022-W-ITF-TUR-01A-2022,W15 Antalya,Clay,32,15,20220110,111,216227,,WC,Lola Marandel,U,,FRA,19.498973306,259593,,WC,Allison Nicole Isaacs,U,,USA,,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-TUR-01A-2022,W15 Antalya,Clay,32,15,20220110,112,216179,4,,Valeriya Olyanovskaya,U,,RUS,20.8323066393,252587,,Q,Xinxin Yao,U,,CHN,18.2258726899,5-7 6-3 10-7,3,R32,,,,,,,,,,,,,,,,,,,,723,46,1337,8
 2022-W-ITF-TUR-01A-2022,W15 Antalya,Clay,32,15,20220110,113,223323,7,,Barbora Palicova,R,,CZE,17.8343600274,222803,,Q,Ozlem Uslu,R,,TUR,17.8343600274,6-0 6-7(3) 10-6,3,R32,,,,,,,,,,,,,,,,,,,,,,870,29
@@ -1134,7 +1134,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-TUR-01A-2022,W15 Antalya,Clay,32,15,20220110,202,221097,,Q,Anastasia Piangerelli,U,,ITA,21.3853524983,245094,,,Lavinia Tanasie,U,,ROU,18.0807665982,3-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1273,10,1122,14
 2022-W-ITF-TUR-01A-2022,W15 Antalya,Clay,32,15,20220110,203,223117,,Q,Mihaela Tsoneva,U,,BUL,17.2101300479,215879,3,,Ilay Yoruk,R,,TUR,20.180698152,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1369,7,682,52
 2022-W-ITF-TUR-01A-2022,W15 Antalya,Clay,32,15,20220110,204,211643,,,Kajsa Rinaldo Persson,R,,SWE,24.1642710472,214605,,,Agustina Chlpac,U,,ARG,24.9144421629,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1268,10,1021,20
-2022-W-ITF-TUR-01A-2022,W15 Antalya,Clay,32,15,20220110,205,213976,5,,Diana Demidova,U,,RUS,24.2902121834,222637,,,Anika Jaskova,R,,SVK,,6-1 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,764,40,1261,10
+2022-W-ITF-TUR-01A-2022,W15 Antalya,Clay,32,15,20220110,205,213976,5,,Diana Demidova,U,,RUS,24.2902121834,222637,,,Anika Jaskova,R,,SVK,18.7351129363,6-1 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,764,40,1261,10
 2022-W-ITF-TUR-01A-2022,W15 Antalya,Clay,32,15,20220110,206,216179,4,,Valeriya Olyanovskaya,U,,RUS,20.8323066393,216227,,WC,Lola Marandel,U,,FRA,19.498973306,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,723,46,,
 2022-W-ITF-TUR-01A-2022,W15 Antalya,Clay,32,15,20220110,207,223323,7,,Barbora Palicova,R,,CZE,17.8343600274,214420,,,Adriana Rajkovic,U,,CRO,25.8754277892,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,1016,20
 2022-W-ITF-TUR-01A-2022,W15 Antalya,Clay,32,15,20220110,208,221168,,,Ilinca Dalina Amariei,U,,ROU,19.4496919918,206336,2,,Julia Stamatova,L,,BUL,28.6023271732,6-4 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1120,14,671,54
@@ -1146,7 +1146,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-TUR-01A-2022,W15 Antalya,Clay,32,15,20220110,402,223323,7,,Barbora Palicova,R,,CZE,17.8343600274,213976,5,,Diana Demidova,U,,RUS,24.2902121834,6-0 6-1,3,SF,,,,,,,,,,,,,,,,,,,,,,764,40
 2022-W-ITF-TUR-01A-2022,W15 Antalya,Clay,32,15,20220110,501,215794,1,,Hurricane Tyra Black,R,,USA,20.8596851472,223323,7,,Barbora Palicova,R,,CZE,17.8343600274,6-0 6-4,3,F,,,,,,,,,,,,,,,,,,,,522,89,,
 2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,101,211967,1,,Nina Potocnik,R,,SLO,25.0130047912,214605,,,Agustina Chlpac,U,,ARG,24.9336071184,6-2 2-6 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,360,164,1019,20
-2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,102,223323,,,Barbora Palicova,R,,CZE,17.8535249829,222134,,,Linda Salvi,U,,ITA,,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,973,21
+2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,102,223323,,,Barbora Palicova,R,,CZE,17.8535249829,222134,,,Linda Salvi,U,,ITA,19.909650924,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,973,21
 2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,103,221168,,Q,Ilinca Dalina Amariei,U,,ROU,19.4688569473,221150,,,Eszter Meri,U,,SVK,19.1019849418,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1116,14,814,35
 2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,104,221254,8,,Nadine Keller,U,,SUI,21.6810403833,211925,,,Yana Mogilnitskaya,R,,RUS,25.9493497604,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,801,36,1035,19
 2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,105,206336,3,,Julia Stamatova,L,,BUL,28.6214921287,211643,,WC,Kajsa Rinaldo Persson,R,,SWE,24.1834360027,4-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,668,54,1265,10
@@ -1181,7 +1181,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,103,259690,,Q,Rinko Matsuda,U,,JPN,,220276,,,Evgeniya Burdina,U,,RUS,21.0184804928,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1032,19
 2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,104,216179,8,,Valeriya Olyanovskaya,U,,RUS,20.8706365503,228110,,WC,Elif Tuana Gunal,U,,TUR,16.6680355921,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,721,46,,
 2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,105,213976,,,Diana Demidova,U,,RUS,24.3285420945,206336,4,,Julia Stamatova,L,,BUL,28.6406570842,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,773,39,668,54
-2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,106,216287,,Q,Ekaterina Shalimova,U,,RUS,21.6481861739,222019,,LL,Nino Natsvlishvili,U,,GEO,,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,420,125,1199,12
+2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,106,216287,,Q,Ekaterina Shalimova,U,,RUS,21.6481861739,222019,,LL,Nino Natsvlishvili,U,,GEO,19.0499657769,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,420,125,1199,12
 2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,107,215110,,,Joanna Zawadzka,U,,POL,24.9253935661,222140,,Q,Mua Shigeta,U,,JPN,,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,950,23,,
 2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,108,215879,5,,Ilay Yoruk,R,,TUR,20.219028063,222703,,,Ioana Zvonaru,R,,ROU,18.0506502396,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,681,52,,
 2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,109,215174,6,,Claudia Hoste Ferrer,U,,ESP,23.2005475702,222507,,Q,Tamari Gagoshidze,U,,GEO,18.2532511978,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,696,50,1251,10
@@ -1205,7 +1205,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,303,215174,6,,Claudia Hoste Ferrer,U,,ESP,23.2005475702,211310,,,Ingrid Vojcinakova,U,,SVK,28.219028063,6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,696,50,1059,18
 2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,304,201699,2,,Martina Caregaro,R,165,ITA,29.6837782341,215442,,Q,Zinovia Vaneva,U,,BUL,22.2395619439,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,414,129,,
 2022-W-ITF-TUR-04A-2022,W15 Antalya,Clay,32,15,20220131,101,213976,,,Diana Demidova,U,,RUS,24.34770705,201699,1,,Martina Caregaro,R,165,ITA,29.7029431896,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,744,41,414,127
-2022-W-ITF-TUR-04A-2022,W15 Antalya,Clay,32,15,20220131,102,222847,,,Vanessa Ioana Georgiana Popa Teiusanu,U,,ROU,,220751,,WC,Melis Ayda Uyar,U,,TUR,18.9979466119,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,995,20,1530,4
+2022-W-ITF-TUR-04A-2022,W15 Antalya,Clay,32,15,20220131,102,222847,,,Vanessa Ioana Georgiana Popa Teiusanu,U,,ROU,18.0725530459,220751,,WC,Melis Ayda Uyar,U,,TUR,18.9979466119,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,995,20,1530,4
 2022-W-ITF-TUR-04A-2022,W15 Antalya,Clay,32,15,20220131,103,215110,,,Joanna Zawadzka,U,,POL,24.9445585216,220356,,,Doga Turkmen,U,,TUR,19.3100616016,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,953,23,1110,15
 2022-W-ITF-TUR-04A-2022,W15 Antalya,Clay,32,15,20220131,104,215174,7,,Claudia Hoste Ferrer,U,,ESP,23.2197125257,221528,,Q,Rachele Elisa Zingale,R,,ITA,19.7891854894,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,702,49,,
 2022-W-ITF-TUR-04A-2022,W15 Antalya,Clay,32,15,20220131,105,205875,4,,Chantal Skamlova,R,,SVK,28.4079397673,219927,,WC,Gozde Turhan,U,,TUR,20.1998631075,6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,705,48,,
@@ -1220,7 +1220,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-TUR-04A-2022,W15 Antalya,Clay,32,15,20220131,114,214812,,,Aleksandra Pospelova,U,,RUS,23.7782340862,211925,,,Yana Mogilnitskaya,R,,RUS,25.9876796715,6-2 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1145,14,1013,20
 2022-W-ITF-TUR-04A-2022,W15 Antalya,Clay,32,15,20220131,115,222017,,,Anouk Koevermans,R,,NED,18.0807665982,222856,,Q,Defne Cirpanli,R,,TUR,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1057,18,,
 2022-W-ITF-TUR-04A-2022,W15 Antalya,Clay,32,15,20220131,116,215794,2,,Hurricane Tyra Black,R,,USA,20.9171800137,259690,,Q,Rinko Matsuda,U,,JPN,,3-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,501,94,,
-2022-W-ITF-TUR-04A-2022,W15 Antalya,Clay,32,15,20220131,201,213976,,,Diana Demidova,U,,RUS,24.34770705,222847,,,Vanessa Ioana Georgiana Popa Teiusanu,U,,ROU,,6-1 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,744,41,995,20
+2022-W-ITF-TUR-04A-2022,W15 Antalya,Clay,32,15,20220131,201,213976,,,Diana Demidova,U,,RUS,24.34770705,222847,,,Vanessa Ioana Georgiana Popa Teiusanu,U,,ROU,18.0725530459,6-1 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,744,41,995,20
 2022-W-ITF-TUR-04A-2022,W15 Antalya,Clay,32,15,20220131,202,215110,,,Joanna Zawadzka,U,,POL,24.9445585216,215174,7,,Claudia Hoste Ferrer,U,,ESP,23.2197125257,6-3 6-7(1) 10-7,3,R16,,,,,,,,,,,,,,,,,,,,953,23,702,49
 2022-W-ITF-TUR-04A-2022,W15 Antalya,Clay,32,15,20220131,203,205875,4,,Chantal Skamlova,R,,SVK,28.4079397673,215956,,,Yuka Hosoki,R,,JPN,22.7022587269,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,705,48,1145,14
 2022-W-ITF-TUR-04A-2022,W15 Antalya,Clay,32,15,20220131,204,215879,6,,Ilay Yoruk,R,,TUR,20.2381930185,220286,,,Gloria Ceschi,U,,ITA,23.6906228611,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,652,56,1198,12
@@ -1249,7 +1249,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,112,206027,4,,Angelica Moratelli,R,173,ITA,27.4770704997,205875,,,Chantal Skamlova,R,,SVK,28.4271047228,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,492,96,810,35
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,113,221004,,,Amarissa Kiara Toth,U,,HUN,18.9924709103,222458,7,,Pia Lovric,R,,SLO,19.794661191,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,839,32,531,85
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,114,223152,,Q,Pimrada Jattavapornvanit,U,,THA,18.3107460643,216315,,Q,Anri Nagata,U,,JPN,21.7659137577,7-5 5-7 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1159,13,1328,8
-2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,115,222847,,,Vanessa Ioana Georgiana Popa Teiusanu,U,,ROU,,202691,,,Ani Vangelova,U,,BUL,28.5694729637,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,992,20,860,30
+2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,115,222847,,,Vanessa Ioana Georgiana Popa Teiusanu,U,,ROU,18.0917180014,202691,,,Ani Vangelova,U,,BUL,28.5694729637,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,992,20,860,30
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,116,214480,2,,Miriam Bianca Bulgaru,R,,ROU,23.3347022587,216227,,WC,Lola Marandel,U,,FRA,19.575633128,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,403,137,1462,5
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,201,220997,,,Naho Sato,R,,JPN,21.0403832991,222703,,,Ioana Zvonaru,R,,ROU,18.0889801506,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,643,58,1547,4
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,202,221911,8,,Selena Janicijevic,U,,FRA,19.5455167693,215627,,,Nicole Khirin,R,,ISR,21.0595482546,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,417,127,615,65
@@ -1258,11 +1258,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,205,214599,,,Oana Gavrila,R,,ROU,23.8056125941,215879,,,Ilay Yoruk,R,,TUR,20.257357974,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,656,56,623,64
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,206,206027,4,,Angelica Moratelli,R,173,ITA,27.4770704997,223120,,Q,Briana Szabo,U,,ROU,16.1998631075,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,492,96,1273,9
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,207,221004,,,Amarissa Kiara Toth,U,,HUN,18.9924709103,223152,,Q,Pimrada Jattavapornvanit,U,,THA,18.3107460643,4-6 6-3 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,839,32,1159,13
-2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,208,222847,,,Vanessa Ioana Georgiana Popa Teiusanu,U,,ROU,,214480,2,,Miriam Bianca Bulgaru,R,,ROU,23.3347022587,6-2 RET,3,R16,,,,,,,,,,,,,,,,,,,,992,20,403,137
+2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,208,222847,,,Vanessa Ioana Georgiana Popa Teiusanu,U,,ROU,18.0917180014,214480,2,,Miriam Bianca Bulgaru,R,,ROU,23.3347022587,6-2 RET,3,R16,,,,,,,,,,,,,,,,,,,,992,20,403,137
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,301,221911,8,,Selena Janicijevic,U,,FRA,19.5455167693,220997,,,Naho Sato,R,,JPN,21.0403832991,3-6 6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,417,127,643,58
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,302,215572,3,,Nuria Brancaccio,R,,ITA,21.6235455168,214216,,Q,Marta Huqi Gonzalez Encinas,U,,ESP,23.394934976,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,444,115,,
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,303,206027,4,,Angelica Moratelli,R,173,ITA,27.4770704997,214599,,,Oana Gavrila,R,,ROU,23.8056125941,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,492,96,656,56
-2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,304,221004,,,Amarissa Kiara Toth,U,,HUN,18.9924709103,222847,,,Vanessa Ioana Georgiana Popa Teiusanu,U,,ROU,,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,839,32,992,20
+2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,304,221004,,,Amarissa Kiara Toth,U,,HUN,18.9924709103,222847,,,Vanessa Ioana Georgiana Popa Teiusanu,U,,ROU,18.0917180014,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,839,32,992,20
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,401,221911,8,,Selena Janicijevic,U,,FRA,19.5455167693,215572,3,,Nuria Brancaccio,R,,ITA,21.6235455168,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,417,127,444,115
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,402,206027,4,,Angelica Moratelli,R,173,ITA,27.4770704997,221004,,,Amarissa Kiara Toth,U,,HUN,18.9924709103,6-1 6-3,3,SF,,,,,,,,,,,,,,,,,,,,492,96,839,32
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,501,221911,8,,Selena Janicijevic,U,,FRA,19.5455167693,206027,4,,Angelica Moratelli,R,173,ITA,27.4770704997,6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,417,127,492,96
@@ -1384,7 +1384,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-ARG-01A-2022,W25 Tucuman,Clay,32,25,20220131,204,220844,9,,Susan Doldan,U,,PAR,21.0047912389,259739,,,Marina Bulbarella,U,,ARG,,6-1 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,1266,10,,
 2022-W-ITF-ARG-01A-2022,W25 Tucuman,Clay,32,25,20220131,205,210847,3,,Miriana Tona,U,,ITA,27.06091718,252539,,,Maria Victoria Burstein,U,,ARG,16.7310061602,6-2 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,876,28,,
 2022-W-ITF-ARG-01A-2022,W25 Tucuman,Clay,32,25,20220131,206,220665,10,,Brittany Collens,R,,USA,26.8254620123,220698,,,Agostina Landa,U,,ARG,21.3744010951,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,1405,6,,
-2022-W-ITF-ARG-01A-2022,W25 Tucuman,Clay,32,25,20220131,207,222134,4,,Linda Salvi,U,,ITA,,237458,,,Maria Sofia Madrid Rocca,U,,ARG,17.4784394251,6-2 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,976,21,,
+2022-W-ITF-ARG-01A-2022,W25 Tucuman,Clay,32,25,20220131,207,222134,4,,Linda Salvi,U,,ITA,19.947980835,237458,,,Maria Sofia Madrid Rocca,U,,ARG,17.4784394251,6-2 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,976,21,,
 2022-W-ITF-ARG-01A-2022,W25 Tucuman,Clay,32,25,20220131,208,222644,,,Sol Faga,U,,ARG,,221933,11,,Marian Gomez Pezuela Cano,U,,MEX,20.3531827515,6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,,,1530,4
 2022-W-ITF-ARG-01A-2022,W25 Tucuman,Clay,32,25,20220131,209,219625,5,,Fernanda Labrana,R,,CHI,22.8884325804,236968,,WC,Lourdes Ayala,U,,ARG,15.6221765914,6-4 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,1008,20,,
 2022-W-ITF-ARG-01A-2022,W25 Tucuman,Clay,32,25,20220131,210,215717,12,,Candela Bugnon,U,,ARG,24.1560574949,259742,,,Maria Milagros Guerrero,U,,ARG,,6-0 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
@@ -1397,7 +1397,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-ARG-01A-2022,W25 Tucuman,Clay,32,25,20220131,301,214777,1,,Taylor Ng,U,,USA,26.5051334702,236972,15,WC,Luisina Giovannini,U,,ARG,15.2306639288,7-5 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,718,46,,
 2022-W-ITF-ARG-01A-2022,W25 Tucuman,Clay,32,25,20220131,302,221331,,,Merlina Sarno,U,,ARG,18.5434633812,220844,9,,Susan Doldan,U,,PAR,21.0047912389,6-2 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,,,1266,10
 2022-W-ITF-ARG-01A-2022,W25 Tucuman,Clay,32,25,20220131,303,210847,3,,Miriana Tona,U,,ITA,27.06091718,220665,10,,Brittany Collens,R,,USA,26.8254620123,6-1 6-0,3,Q3,,,,,,,,,,,,,,,,,,,,876,28,1405,6
-2022-W-ITF-ARG-01A-2022,W25 Tucuman,Clay,32,25,20220131,304,222134,4,,Linda Salvi,U,,ITA,,222644,,,Sol Faga,U,,ARG,,6-3 2-6 10-4,3,Q3,,,,,,,,,,,,,,,,,,,,976,21,,
+2022-W-ITF-ARG-01A-2022,W25 Tucuman,Clay,32,25,20220131,304,222134,4,,Linda Salvi,U,,ITA,19.947980835,222644,,,Sol Faga,U,,ARG,,6-3 2-6 10-4,3,Q3,,,,,,,,,,,,,,,,,,,,976,21,,
 2022-W-ITF-ARG-01A-2022,W25 Tucuman,Clay,32,25,20220131,305,219625,5,,Fernanda Labrana,R,,CHI,22.8884325804,215717,12,,Candela Bugnon,U,,ARG,24.1560574949,6-3 7-6(4),3,Q3,,,,,,,,,,,,,,,,,,,,1008,20,,
 2022-W-ITF-ARG-01A-2022,W25 Tucuman,Clay,32,25,20220131,306,222689,,WC,Tiziana Rossini,U,,ARG,,259745,,,Serena Pereyra Giubbani,U,,ARG,,4-6 6-4 10-8,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-ARG-01A-2022,W25 Tucuman,Clay,32,25,20220131,307,206406,7,,Berta Bonardi,U,,ARG,26.6146475017,219909,13,,Dolores Molina Portela,U,,ARG,24.0,6-1 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,1127,14,,
@@ -1431,7 +1431,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-ARG-02A-2022,W25 Tucuman,Clay,32,25,20220207,204,221933,10,,Marian Gomez Pezuela Cano,U,,MEX,20.372347707,212036,,,Karina Natalia Lojo,U,,ARG,29.3853524983,6-2 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,1525,4,,
 2022-W-ITF-ARG-02A-2022,W25 Tucuman,Clay,32,25,20220207,205,211921,3,,Julieta Lara Estable,R,,ARG,24.5667351129,259735,,,Sara Milagros Floris,U,,ARG,,6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,914,25,,
 2022-W-ITF-ARG-02A-2022,W25 Tucuman,Clay,32,25,20220207,206,237458,,,Maria Sofia Madrid Rocca,U,,ARG,17.4976043806,259747,,,Maria Agustina Farina,U,,ARG,,6-2 3-6 10-7,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
-2022-W-ITF-ARG-02A-2022,W25 Tucuman,Clay,32,25,20220207,207,222134,4,,Linda Salvi,U,,ITA,,222594,,,Camila Keller,U,,ARG,,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,974,21,,
+2022-W-ITF-ARG-02A-2022,W25 Tucuman,Clay,32,25,20220207,207,222134,4,,Linda Salvi,U,,ITA,19.9671457906,222594,,,Camila Keller,U,,ARG,,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,974,21,,
 2022-W-ITF-ARG-02A-2022,W25 Tucuman,Clay,32,25,20220207,208,236972,15,,Luisina Giovannini,U,,ARG,15.2498288843,221335,,,Paula Corbalan,U,,ARG,19.1978097194,6-7(2) 6-2 10-5,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-ARG-02A-2022,W25 Tucuman,Clay,32,25,20220207,209,222644,,,Sol Faga,U,,ARG,,219625,5,,Fernanda Labrana,R,,CHI,22.9075975359,6-3 3-6 10-7,3,Q2,,,,,,,,,,,,,,,,,,,,,,1005,20
 2022-W-ITF-ARG-02A-2022,W25 Tucuman,Clay,32,25,20220207,210,222659,,,Luciana Blatter,U,,ARG,,220665,9,,Brittany Collens,R,,USA,26.8446269678,W/O,3,Q2,,,,,,,,,,,,,,,,,,,,,,1402,6
@@ -1444,7 +1444,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-ARG-02A-2022,W25 Tucuman,Clay,32,25,20220207,301,215459,1,,Emily Seibold,R,,GER,22.1026694045,219909,12,,Dolores Molina Portela,U,,ARG,24.0191649555,6-1 6-0,3,Q3,,,,,,,,,,,,,,,,,,,,815,35,,
 2022-W-ITF-ARG-02A-2022,W25 Tucuman,Clay,32,25,20220207,302,210847,2,,Miriana Tona,U,,ITA,27.0800821355,221933,10,,Marian Gomez Pezuela Cano,U,,MEX,20.372347707,6-2 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,876,28,1525,4
 2022-W-ITF-ARG-02A-2022,W25 Tucuman,Clay,32,25,20220207,303,211921,3,,Julieta Lara Estable,R,,ARG,24.5667351129,237458,,,Maria Sofia Madrid Rocca,U,,ARG,17.4976043806,6-0 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,914,25,,
-2022-W-ITF-ARG-02A-2022,W25 Tucuman,Clay,32,25,20220207,304,236972,15,,Luisina Giovannini,U,,ARG,15.2498288843,222134,4,,Linda Salvi,U,,ITA,,3-6 6-3 10-5,3,Q3,,,,,,,,,,,,,,,,,,,,,,974,21
+2022-W-ITF-ARG-02A-2022,W25 Tucuman,Clay,32,25,20220207,304,236972,15,,Luisina Giovannini,U,,ARG,15.2498288843,222134,4,,Linda Salvi,U,,ITA,19.9671457906,3-6 6-3 10-5,3,Q3,,,,,,,,,,,,,,,,,,,,,,974,21
 2022-W-ITF-ARG-02A-2022,W25 Tucuman,Clay,32,25,20220207,305,222644,,,Sol Faga,U,,ARG,,222659,,,Luciana Blatter,U,,ARG,,6-2 6-7(7) 10-8,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-ARG-02A-2022,W25 Tucuman,Clay,32,25,20220207,306,259739,,,Marina Bulbarella,U,,ARG,,252539,,,Maria Victoria Burstein,U,,ARG,16.7501711157,6-4 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-ARG-02A-2022,W25 Tucuman,Clay,32,25,20220207,307,206147,7,,Sofia Luini,R,,ARG,29.2402464066,215461,14,,Delfina Glorioso,U,,ARG,23.2553045859,7-6(3) 7-6(4),3,Q3,,,,,,,,,,,,,,,,,,,,1211,11,,
@@ -1948,7 +1948,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-FRA-01A-2022,W60 Grenoble,Hard,32,60,20220207,101,211031,1,,Sarah Beth Askew,L,,GBR,26.4969199179,216156,,,Himari Sato,R,168,JPN,19.8302532512,6-3 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,308,217,736,43
 2022-W-ITF-FRA-01A-2022,W60 Grenoble,Hard,32,60,20220207,102,206230,11,,Alicia Barnett,R,,GBR,28.3066392882,221682,,,Jenifer Anger,U,,FRA,20.1368925394,6-1 7-6(5),3,Q1,,,,,,,,,,,,,,,,,,,,611,66,1221,11
 2022-W-ITF-FRA-01A-2022,W60 Grenoble,Hard,32,60,20220207,103,201505,2,,Ekaterina Makarova,L,178,RUS,33.6700889802,234489,,,Clarisse Aussert,U,,FRA,19.2498288843,7-6(4) 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,1358,7
-2022-W-ITF-FRA-01A-2022,W60 Grenoble,Hard,32,60,20220207,104,215218,16,,Anna Ukolova,U,,RUS,22.8747433265,222347,,WC,Marine Szostak,U,,FRA,,4-6 6-4 10-7,3,Q1,,,,,,,,,,,,,,,,,,,,683,51,1231,11
+2022-W-ITF-FRA-01A-2022,W60 Grenoble,Hard,32,60,20220207,104,215218,16,,Anna Ukolova,U,,RUS,22.8747433265,222347,,WC,Marine Szostak,U,,FRA,20.0985626283,4-6 6-4 10-7,3,Q1,,,,,,,,,,,,,,,,,,,,683,51,1231,11
 2022-W-ITF-FRA-01A-2022,W60 Grenoble,Hard,32,60,20220207,105,216134,3,,Vlada Koval,R,,RUS,20.5776865161,221377,,,Fabienne Gettwart,U,,GER,26.0971937029,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,358,166,950,23
 2022-W-ITF-FRA-01A-2022,W60 Grenoble,Hard,32,60,20220207,106,223402,,,Chloe Noel,U,,FRA,17.8809034908,221468,13,,Lucie Nguyen Tan,U,,FRA,18.6940451745,6-7(5) 7-6(6) 10-4,3,Q1,,,,,,,,,,,,,,,,,,,,1238,10,630,62
 2022-W-ITF-FRA-01A-2022,W60 Grenoble,Hard,32,60,20220207,107,215472,,,Fiona Ganz,U,,SUI,21.3935660507,214220,4,,Margot Yerolymos,R,178,FRA,24.8049281314,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,708,48,393,142
@@ -1960,7 +1960,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-FRA-01A-2022,W60 Grenoble,Hard,32,60,20220207,113,221522,,,Evita Ramirez,U,,FRA,18.9815195072,214654,7,,Anna Turati,U,,ITA,24.643394935,0-6 6-4 10-7,3,Q1,,,,,,,,,,,,,,,,,,,,733,43,427,123
 2022-W-ITF-FRA-01A-2022,W60 Grenoble,Hard,32,60,20220207,114,204366,15,,Victoria Muntean,R,,FRA,25.0403832991,215776,,,Emmanuelle Girard,U,,FRA,22.5900068446,7-5 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,669,53,1341,8
 2022-W-ITF-FRA-01A-2022,W60 Grenoble,Hard,32,60,20220207,115,202656,8,,Estelle Cascino,R,,FRA,25.9055441478,211021,,,Lea Tholey,L,,FRA,26.431211499,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,449,113,1173,13
-2022-W-ITF-FRA-01A-2022,W60 Grenoble,Hard,32,60,20220207,116,215002,12,,Anna Gabric,R,,GER,23.7070499658,220512,,,Maelys Bougrat,R,,FRA,19.8850102669,7-5 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,606,68,1097,16
+2022-W-ITF-FRA-01A-2022,W60 Grenoble,Hard,32,60,20220207,116,215002,12,,Anna Gabric,R,,GER,23.7207392197,220512,,,Maelys Bougrat,R,,FRA,19.8850102669,7-5 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,606,68,1097,16
 2022-W-ITF-FRA-01A-2022,W60 Grenoble,Hard,32,60,20220207,201,206230,11,,Alicia Barnett,R,,GBR,28.3066392882,211031,1,,Sarah Beth Askew,L,,GBR,26.4969199179,7-6(4) 6-7(7) 10-6,3,Q2,,,,,,,,,,,,,,,,,,,,611,66,308,217
 2022-W-ITF-FRA-01A-2022,W60 Grenoble,Hard,32,60,20220207,202,201505,2,,Ekaterina Makarova,L,178,RUS,33.6700889802,215218,16,,Anna Ukolova,U,,RUS,22.8747433265,6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,,,683,51
 2022-W-ITF-FRA-01A-2022,W60 Grenoble,Hard,32,60,20220207,203,223402,,,Chloe Noel,U,,FRA,17.8809034908,216134,3,,Vlada Koval,R,,RUS,20.5776865161,7-6(2) 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,1238,10,358,166
@@ -1968,9 +1968,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-FRA-01A-2022,W60 Grenoble,Hard,32,60,20220207,205,221886,5,,Kamilla Bartone,R,,LAT,19.6714579055,221052,,,Aubane Droguet,R,,FRA,19.1156741958,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,394,141,803,35
 2022-W-ITF-FRA-01A-2022,W60 Grenoble,Hard,32,60,20220207,206,223253,10,,Alexandra Eala,L,173,PHI,16.7118412047,206338,6,,Stefania Rubini,U,,ITA,29.1745379877,4-6 6-4 10-4,3,Q2,,,,,,,,,,,,,,,,,,,,587,72,410,131
 2022-W-ITF-FRA-01A-2022,W60 Grenoble,Hard,32,60,20220207,207,221522,,,Evita Ramirez,U,,FRA,18.9815195072,204366,15,,Victoria Muntean,R,,FRA,25.0403832991,7-6(2) 7-6(6),3,Q2,,,,,,,,,,,,,,,,,,,,733,43,669,53
-2022-W-ITF-FRA-01A-2022,W60 Grenoble,Hard,32,60,20220207,208,215002,12,,Anna Gabric,R,,GER,23.7070499658,202656,8,,Estelle Cascino,R,,FRA,25.9055441478,6-2 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,606,68,449,113
+2022-W-ITF-FRA-01A-2022,W60 Grenoble,Hard,32,60,20220207,208,215002,12,,Anna Gabric,R,,GER,23.7207392197,202656,8,,Estelle Cascino,R,,FRA,25.9055441478,6-2 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,606,68,449,113
 2022-W-ITF-FRA-04A-2022,W60 Andrezieux-Boutheon,Hard,32,60,20220124,102,219979,15,,Marie Villet,U,,FRA,25.1854893908,215432,,,Olivia Nicholls,R,,GBR,27.2470910335,4-6 6-2 10-5,3,Q1,,,,,,,,,,,,,,,,,,,,1041,19,,
-2022-W-ITF-FRA-04A-2022,W60 Andrezieux-Boutheon,Hard,32,60,20220124,104,222347,,,Marine Szostak,U,,FRA,,214299,10,,Lucie Wargnier,U,,FRA,22.9431895962,6-2 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,1263,10,715,47
+2022-W-ITF-FRA-04A-2022,W60 Andrezieux-Boutheon,Hard,32,60,20220124,104,222347,,,Marine Szostak,U,,FRA,20.0602327173,214299,10,,Lucie Wargnier,U,,FRA,22.9431895962,6-2 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,1263,10,715,47
 2022-W-ITF-FRA-04A-2022,W60 Andrezieux-Boutheon,Hard,32,60,20220124,105,214507,3,,Berfu Cengiz,R,,TUR,22.2696783025,259708,,,Lola Collin,U,,FRA,,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,352,173,,
 2022-W-ITF-FRA-04A-2022,W60 Andrezieux-Boutheon,Hard,32,60,20220124,106,210108,14,,Sandy Marti,R,,SUI,29.5879534565,232446,,WC,Noemie Oliveras,U,,FRA,15.6741957563,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,890,27,,
 2022-W-ITF-FRA-04A-2022,W60 Andrezieux-Boutheon,Hard,32,60,20220124,107,206417,4,,Leolia Jeanjean,R,,FRA,26.4476386037,234474,,,Alyssa Reguer,U,,FRA,15.7262149213,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,373,157,,
@@ -1984,7 +1984,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-FRA-04A-2022,W60 Andrezieux-Boutheon,Hard,32,60,20220124,115,259711,,,Meline Chaumeil,U,,FRA,,203449,8,,Sarah Rebecca Sekulic,L,,GER,29.5605749487,6-3 3-6 10-7,3,Q1,,,,,,,,,,,,,,,,,,,,,,637,60
 2022-W-ITF-FRA-04A-2022,W60 Andrezieux-Boutheon,Hard,32,60,20220124,116,202706,12,,Manon Arcangioli,R,162,FRA,27.40862423,220934,,,Juliette Mazzoni,U,,FRA,21.6317590691,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,748,42,,
 2022-W-ITF-FRA-04A-2022,W60 Andrezieux-Boutheon,Hard,32,60,20220124,201,213779,1,,Raluca Georgiana Serban,R,,ROU,24.605065024,219979,15,,Marie Villet,U,,FRA,25.1854893908,6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,292,233,1041,19
-2022-W-ITF-FRA-04A-2022,W60 Andrezieux-Boutheon,Hard,32,60,20220124,202,222965,2,,Erika Andreeva,R,,RUS,17.5852156057,222347,,,Marine Szostak,U,,FRA,,2-6 6-0 10-7,3,Q2,,,,,,,,,,,,,,,,,,,,315,211,1263,10
+2022-W-ITF-FRA-04A-2022,W60 Andrezieux-Boutheon,Hard,32,60,20220124,202,222965,2,,Erika Andreeva,R,,RUS,17.5852156057,222347,,,Marine Szostak,U,,FRA,20.0602327173,2-6 6-0 10-7,3,Q2,,,,,,,,,,,,,,,,,,,,315,211,1263,10
 2022-W-ITF-FRA-04A-2022,W60 Andrezieux-Boutheon,Hard,32,60,20220124,203,214507,3,,Berfu Cengiz,R,,TUR,22.2696783025,210108,14,,Sandy Marti,R,,SUI,29.5879534565,5-7 6-2 10-7,3,Q2,,,,,,,,,,,,,,,,,,,,352,173,890,27
 2022-W-ITF-FRA-04A-2022,W60 Andrezieux-Boutheon,Hard,32,60,20220124,204,206417,4,,Leolia Jeanjean,R,,FRA,26.4476386037,221052,13,,Aubane Droguet,R,,FRA,19.0773442847,7-5 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,373,157,832,32
 2022-W-ITF-FRA-04A-2022,W60 Andrezieux-Boutheon,Hard,32,60,20220124,205,234489,,,Clarisse Aussert,U,,FRA,19.2114989733,202656,5,,Estelle Cascino,R,,FRA,25.8672142368,6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,,,447,113
@@ -2005,8 +2005,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,115,221044,8,,Danielle Daley,U,,GBR,21.5715263518,255659,,,Minola Slavenschi,U,,MDA,17.6755646817,6-0 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,116,219635,12,,Nadia Rawson,R,,GBR,23.3483915127,259617,,,Elina Popescu,U,,ROU,,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,201,213873,,,Gabriela Andrea Knutson,R,,CZE,24.7227926078,241718,1,,Vanda Vargova,U,,SVK,18.636550308,6-3 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,,,1334,8
-2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,202,222350,2,,Lissi Kubre,U,,EST,,220161,,,Lauren Bishop,R,,GBR,24.8131416838,6-4 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,1377,7,,
-2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,203,222470,3,,Amelia Bissett,U,,GBR,,259607,,,Brooke Black,U,,GBR,,6-4 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,1471,5,,
+2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,202,222350,2,,Lissi Kubre,U,,EST,19.2498288843,220161,,,Lauren Bishop,R,,GBR,24.8131416838,6-4 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,1377,7,,
+2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,203,222470,3,,Amelia Bissett,U,,GBR,18.6310746064,259607,,,Brooke Black,U,,GBR,,6-4 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,1471,5,,
 2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,204,215430,4,,Holly Hutchinson,R,,GBR,24.3312799452,259610,,,Francesca Davis,U,,GBR,,6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,1496,5,,
 2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,205,222472,11,,Abigail Amos,U,,GBR,,259612,,,Hannah Smith,U,,GBR,,6-4 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-GBR-01A-2022,W25 Bath,Hard,32,25,20220110,206,216355,6,,Giorgie Jones,U,,AUS,24.8843258042,259615,,,Freya Davies,U,,GBR,,7-6(9) 3-6 10-5,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
@@ -2127,7 +2127,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-MEX-02A-2022,W15 Cancun,Hard,32,15,20220124,203,248660,,,Lya Fernandez,U,,MEX,14.5051334702,222000,2,,Maria Camila Torres Murcia,L,,COL,19.2060232717,6-2 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,,,1392,7
 2022-W-ITF-MEX-02A-2022,W15 Cancun,Hard,32,15,20220124,204,259688,,,Aanya Goel,U,,USA,,221912,12,,Bryn Johnson,U,,USA,18.6064339493,6-2 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-MEX-02A-2022,W15 Cancun,Hard,32,15,20220124,206,248667,,,Esther Vyrlan,U,,USA,15.6851471595,221611,7,,Katya Ramirez,U,,MEX,21.7138945927,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
-2022-W-ITF-MEX-02A-2022,W15 Cancun,Hard,32,15,20220124,207,222895,4,,Lara Pfeifer,U,,ITA,,254743,,,Versace Gatti,U,,USA,20.1423682409,7-6(2) 2-6 10-6,3,Q2,,,,,,,,,,,,,,,,,,,,1436,6,,
+2022-W-ITF-MEX-02A-2022,W15 Cancun,Hard,32,15,20220124,207,222895,4,,Lara Pfeifer,U,,ITA,17.4866529774,254743,,,Versace Gatti,U,,USA,20.1423682409,7-6(2) 2-6 10-6,3,Q2,,,,,,,,,,,,,,,,,,,,1436,6,,
 2022-W-ITF-MEX-02A-2022,W15 Cancun,Hard,32,15,20220124,208,222041,8,,Maja Radenkovic,U,,SWE,,237483,,,Isabella Lynch,U,,GBR,18.9514031485,6-2 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-MEX-02A-2022,W15 Cancun,Hard,32,15,20220124,209,223299,5,,Longi Noelly Nsimba,U,,CAN,26.0807665982,221523,,,Nikita Liebkind,U,,FIN,22.3244353183,7-5 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-MEX-02A-2022,W15 Cancun,Hard,32,15,20220124,210,221067,11,,Alessandra Crump,U,,USA,21.8453114305,221689,,,Drew Anderson,U,,USA,26.9787816564,6-3 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
@@ -2136,7 +2136,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-MEX-02A-2022,W15 Cancun,Hard,32,15,20220124,301,222351,9,,Gala Arangio,U,,MEX,,255638,,,Mia Popovic,U,,USA,17.28678987,6-0 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-MEX-02A-2022,W15 Cancun,Hard,32,15,20220124,302,259688,,,Aanya Goel,U,,USA,,248660,,,Lya Fernandez,U,,MEX,14.5051334702,7-5 2-6 10-6,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-MEX-02A-2022,W15 Cancun,Hard,32,15,20220124,303,248667,,,Esther Vyrlan,U,,USA,15.6851471595,221478,,,Jessica Marmorstein,U,,USA,20.8158795346,6-2 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
-2022-W-ITF-MEX-02A-2022,W15 Cancun,Hard,32,15,20220124,304,222041,8,,Maja Radenkovic,U,,SWE,,222895,4,,Lara Pfeifer,U,,ITA,,6-1 2-6 11-9,3,Q3,,,,,,,,,,,,,,,,,,,,,,1436,6
+2022-W-ITF-MEX-02A-2022,W15 Cancun,Hard,32,15,20220124,304,222041,8,,Maja Radenkovic,U,,SWE,,222895,4,,Lara Pfeifer,U,,ITA,17.4866529774,6-1 2-6 11-9,3,Q3,,,,,,,,,,,,,,,,,,,,,,1436,6
 2022-W-ITF-MEX-02A-2022,W15 Cancun,Hard,32,15,20220124,305,221067,11,,Alessandra Crump,U,,USA,21.8453114305,223299,5,,Longi Noelly Nsimba,U,,CAN,26.0807665982,0-6 6-3 10-4,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-MEX-02A-2022,W15 Cancun,Hard,32,15,20220124,306,253684,,,Theadora Rabman,U,,USA,16.7419575633,222913,,,Marika Jones,U,,USA,,6-2 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-MEX-03A-2022,W15 Cancun,Hard,32,15,20220131,102,259688,,,Aanya Goel,U,,USA,,252585,,,Amelie Nicole Jewelewicz,U,,USA,15.7344284736,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
@@ -2155,7 +2155,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-MEX-03A-2022,W15 Cancun,Hard,32,15,20220131,120,222000,10,,Maria Camila Torres Murcia,L,,COL,19.2251882272,221912,,,Bryn Johnson,U,,USA,18.6255989049,6-2 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,1389,7,,
 2022-W-ITF-MEX-03A-2022,W15 Cancun,Hard,32,15,20220131,122,223268,,,Samantha Imbo Nloga,U,,USA,18.1820670773,221611,,,Katya Ramirez,U,,MEX,21.7330595483,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-MEX-03A-2022,W15 Cancun,Hard,32,15,20220131,123,222041,,,Maja Radenkovic,U,,SWE,,223267,,,Janet Imbo Nloga,U,,USA,19.485284052,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
-2022-W-ITF-MEX-03A-2022,W15 Cancun,Hard,32,15,20220131,124,222895,11,,Lara Pfeifer,U,,ITA,,222351,,,Gala Arangio,U,,MEX,,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,1389,7,,
+2022-W-ITF-MEX-03A-2022,W15 Cancun,Hard,32,15,20220131,124,222895,11,,Lara Pfeifer,U,,ITA,17.5058179329,222351,,,Gala Arangio,U,,MEX,,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,1389,7,,
 2022-W-ITF-MEX-03A-2022,W15 Cancun,Hard,32,15,20220131,201,220757,1,,Lia Karatancheva,U,,BUL,18.3983572895,259688,,,Aanya Goel,U,,USA,,6-4 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,959,22,,
 2022-W-ITF-MEX-03A-2022,W15 Cancun,Hard,32,15,20220131,202,214398,8,,Natsuho Arakawa,L,,JPN,24.4106776181,223146,,,Isabella Barrera Aguirre,U,,USA,18.9048596851,6-4 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,1343,8,,
 2022-W-ITF-MEX-03A-2022,W15 Cancun,Hard,32,15,20220131,203,221235,2,,Maria Gabriela Rivera Corado,R,,GUA,20.1095140315,254743,,,Versace Gatti,U,,USA,20.1615331964,6-0 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,1109,15,,
@@ -2167,13 +2167,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-MEX-03A-2022,W15 Cancun,Hard,32,15,20220131,209,239491,5,,Paris Corley,U,,USA,24.076659822,259749,,,Lya Fernandez,U,,MEX,,6-2 4-6 11-9,3,Q2,,,,,,,,,,,,,,,,,,,,1216,11,,
 2022-W-ITF-MEX-03A-2022,W15 Cancun,Hard,32,15,20220131,210,221417,,,Ana Paula Martinez Mora,U,,MEX,18.6447638604,222000,10,,Maria Camila Torres Murcia,L,,COL,19.2251882272,6-0 5-7 10-6,3,Q2,,,,,,,,,,,,,,,,,,,,,,1389,7
 2022-W-ITF-MEX-03A-2022,W15 Cancun,Hard,32,15,20220131,211,236980,6,,Astrid Cirotte,U,,FRA,18.1273100616,223268,,,Samantha Imbo Nloga,U,,USA,18.1820670773,6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,1261,10,,
-2022-W-ITF-MEX-03A-2022,W15 Cancun,Hard,32,15,20220131,212,222895,11,,Lara Pfeifer,U,,ITA,,222041,,,Maja Radenkovic,U,,SWE,,7-5 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,1389,7,,
+2022-W-ITF-MEX-03A-2022,W15 Cancun,Hard,32,15,20220131,212,222895,11,,Lara Pfeifer,U,,ITA,17.5058179329,222041,,,Maja Radenkovic,U,,SWE,,7-5 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,1389,7,,
 2022-W-ITF-MEX-03A-2022,W15 Cancun,Hard,32,15,20220131,301,220757,1,,Lia Karatancheva,U,,BUL,18.3983572895,214398,8,,Natsuho Arakawa,L,,JPN,24.4106776181,7-6(7) 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,959,22,1343,8
 2022-W-ITF-MEX-03A-2022,W15 Cancun,Hard,32,15,20220131,302,221235,2,,Maria Gabriela Rivera Corado,R,,GUA,20.1095140315,220689,,,Karolina Vlckova,U,,CZE,21.2895277207,6-2 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,1109,15,,
 2022-W-ITF-MEX-03A-2022,W15 Cancun,Hard,32,15,20220131,303,223299,12,,Longi Noelly Nsimba,U,,CAN,26.0999315537,221093,,,Shelby Prince,U,,USA,22.288843258,7-5 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-MEX-03A-2022,W15 Cancun,Hard,32,15,20220131,304,210533,7,,Haine Ogata,R,,JPN,28.424366872,221311,4,,Petra Csabi,R,,CZE,19.6413415469,7-5 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,1233,11,1162,13
 2022-W-ITF-MEX-03A-2022,W15 Cancun,Hard,32,15,20220131,305,239491,5,,Paris Corley,U,,USA,24.076659822,221417,,,Ana Paula Martinez Mora,U,,MEX,18.6447638604,6-3 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,1216,11,,
-2022-W-ITF-MEX-03A-2022,W15 Cancun,Hard,32,15,20220131,306,236980,6,,Astrid Cirotte,U,,FRA,18.1273100616,222895,11,,Lara Pfeifer,U,,ITA,,3-6 6-3 11-9,3,Q3,,,,,,,,,,,,,,,,,,,,1261,10,1389,7
+2022-W-ITF-MEX-03A-2022,W15 Cancun,Hard,32,15,20220131,306,236980,6,,Astrid Cirotte,U,,FRA,18.1273100616,222895,11,,Lara Pfeifer,U,,ITA,17.5058179329,3-6 6-3 11-9,3,Q3,,,,,,,,,,,,,,,,,,,,1261,10,1389,7
 2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,102,221688,,,Anastasia Sysoeva,U,,RUS,18.8446269678,239491,,,Paris Corley,U,,USA,24.0958247775,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,1009,20,1189,12
 2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,103,222000,,,Maria Camila Torres Murcia,L,,COL,19.2443531828,222339,,,Patricia Cano,U,,PER,,6-0 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,1385,7,,
 2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,104,221985,9,,Darja Semenistaja,R,,LAT,19.394934976,222351,,,Gala Arangio,U,,MEX,,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,549,81,,
@@ -2193,9 +2193,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,118,223335,,,Cadence Brace,U,,CAN,16.9500342231,213739,,,Jessica Hinojosa Gomez,U,,MEX,24.3887748118,6-4 7-6(2),3,Q1,,,,,,,,,,,,,,,,,,,,1276,9,1224,11
 2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,119,222299,,,Adriana Reami,R,,USA,24.2354551677,213657,,,Martha Matoula,R,,GRE,24.7857631759,6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,780,37,796,36
 2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,120,221914,10,,Jenna Defalco,U,,USA,19.2361396304,223268,,WC,Samantha Imbo Nloga,U,,USA,18.2012320329,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,620,64,,
-2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,121,214696,6,,Jessica Failla,U,,USA,24.6762491444,222050,,WC,Erika Sandor Zur,R,,USA,,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,488,97,,
+2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,121,214696,6,,Jessica Failla,U,,USA,24.5941136208,222050,,WC,Erika Sandor Zur,R,,USA,,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,488,97,,
 2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,122,220757,,,Lia Karatancheva,U,,BUL,18.417522245,256681,,,Saniya Singh,U,,USA,17.1800136893,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,957,22,,
-2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,123,222189,,,Anna Sinclair Rogers,U,,USA,,220592,,,Emily Welker,U,,GER,21.5222450376,6-3 5-7 10-4,3,Q1,,,,,,,,,,,,,,,,,,,,1028,19,964,22
+2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,123,222189,,,Anna Sinclair Rogers,U,,USA,23.8850102669,220592,,,Emily Welker,U,,GER,21.5222450376,6-3 5-7 10-4,3,Q1,,,,,,,,,,,,,,,,,,,,1028,19,964,22
 2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,124,215726,11,,Tiphanie Fiquet,R,,FRA,21.7275838467,221067,,,Alessandra Crump,U,,USA,21.8836413415,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,692,50,,
 2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,201,220305,1,,Salma Djoubri,R,,FRA,19.1348391513,221688,,,Anastasia Sysoeva,U,,RUS,18.8446269678,6-0 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,441,116,1009,20
 2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,202,221985,9,,Darja Semenistaja,R,,LAT,19.394934976,222000,,,Maria Camila Torres Murcia,L,,COL,19.2443531828,6-1 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,549,81,1385,7
@@ -2207,14 +2207,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,208,213771,,,Rasheeda Mcadoo,U,,USA,26.6091718001,221988,,,Bianca Jolie Fernandez,R,,CAN,17.954825462,6-2 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,748,41,918,25
 2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,209,223335,,,Cadence Brace,U,,CAN,16.9500342231,211864,5,,Maria Fernanda Herazo Gonzalez,L,166,COL,24.8815879535,7-5 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,1276,9,480,101
 2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,210,222299,,,Adriana Reami,R,,USA,24.2354551677,221914,10,,Jenna Defalco,U,,USA,19.2361396304,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,780,37,620,64
-2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,211,214696,6,,Jessica Failla,U,,USA,24.6762491444,220757,,,Lia Karatancheva,U,,BUL,18.417522245,6-0 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,488,97,957,22
-2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,212,222189,,,Anna Sinclair Rogers,U,,USA,,215726,11,,Tiphanie Fiquet,R,,FRA,21.7275838467,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,1028,19,692,50
+2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,211,214696,6,,Jessica Failla,U,,USA,24.5941136208,220757,,,Lia Karatancheva,U,,BUL,18.417522245,6-0 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,488,97,957,22
+2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,212,222189,,,Anna Sinclair Rogers,U,,USA,23.8850102669,215726,11,,Tiphanie Fiquet,R,,FRA,21.7275838467,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,1028,19,692,50
 2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,301,221985,9,,Darja Semenistaja,R,,LAT,19.394934976,220305,1,,Salma Djoubri,R,,FRA,19.1348391513,6-1 4-6 10-7,3,Q3,,,,,,,,,,,,,,,,,,,,549,81,441,116
 2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,302,220770,2,,Eva Vedder,R,,NED,22.2094455852,215019,8,,Maria Jose Portillo Ramirez,R,,MEX,22.7542778919,6-3 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,400,139,501,94
 2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,303,259749,,,Lya Fernandez,U,,MEX,,210533,,,Haine Ogata,R,,JPN,28.4435318275,5-7 6-1 13-11,3,Q3,,,,,,,,,,,,,,,,,,,,,,1173,13
 2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,304,213771,,,Rasheeda Mcadoo,U,,USA,26.6091718001,215993,,,Christina Rosca,U,,USA,24.5393566051,6-3 2-6 10-5,3,Q3,,,,,,,,,,,,,,,,,,,,748,41,890,27
 2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,305,222299,,,Adriana Reami,R,,USA,24.2354551677,223335,,,Cadence Brace,U,,CAN,16.9500342231,3-0 RET,3,Q3,,,,,,,,,,,,,,,,,,,,780,37,1276,9
-2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,306,222189,,,Anna Sinclair Rogers,U,,USA,,214696,6,,Jessica Failla,U,,USA,24.6762491444,7-5 7-5,3,Q3,,,,,,,,,,,,,,,,,,,,1028,19,488,97
+2022-W-ITF-MEX-06A-2022,W25 Cancun,Hard,32,25,20220207,306,222189,,,Anna Sinclair Rogers,U,,USA,23.8850102669,214696,6,,Jessica Failla,U,,USA,24.5941136208,7-5 7-5,3,Q3,,,,,,,,,,,,,,,,,,,,1028,19,488,97
 2022-W-ITF-POR-01A-2022,W25 Porto,Hard,32,25,20220207,102,223407,16,,Ellie Logotheti,U,,GRE,19.2197125257,241011,,,Andra Sutherland,U,,GBR,17.4647501711,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,1369,7,,
 2022-W-ITF-POR-01A-2022,W25 Porto,Hard,32,25,20220207,104,213721,11,,Ines Murta,U,,POR,24.6899383984,222309,,,Sana Garakani,U,,IRI,,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,801,36,,
 2022-W-ITF-POR-01A-2022,W25 Porto,Hard,32,25,20220207,105,214301,3,,Tatiana Pieri,U,,ITA,22.8637919233,222716,,,Sashi Kempster,R,,GBR,,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,562,79,,
@@ -2223,7 +2223,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-POR-01A-2022,W25 Porto,Hard,32,25,20220207,108,256711,,,Lena Couto,U,,POR,14.688569473,212026,15,,Kwan Yau Ng,U,,HKG,24.9664613279,6-4 3-6 10-7,3,Q1,,,,,,,,,,,,,,,,,,,,,,1357,7
 2022-W-ITF-POR-01A-2022,W25 Porto,Hard,32,25,20220207,109,211456,5,,Julia Terziyska,R,180,BUL,25.9274469541,219955,,,Ana Maria Gavrilovici,U,,ROU,23.4880219028,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,621,64,,
 2022-W-ITF-POR-01A-2022,W25 Porto,Hard,32,25,20220207,110,220701,9,,Dorka Drahota Szabo,R,,HUN,20.0191649555,222381,,,Anet Angelika Koskel,U,,EST,,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,729,44,,
-2022-W-ITF-POR-01A-2022,W25 Porto,Hard,32,25,20220207,111,220715,6,,Federica Rossi,R,,ITA,20.6707734428,222779,,,Elizaveta Shebekina,R,,RUS,,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,640,59,1374,7
+2022-W-ITF-POR-01A-2022,W25 Porto,Hard,32,25,20220207,111,220715,6,,Federica Rossi,R,,ITA,20.6707734428,222779,,,Elizaveta Shebekina,R,,RUS,18.3052703628,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,640,59,1374,7
 2022-W-ITF-POR-01A-2022,W25 Porto,Hard,32,25,20220207,112,215588,13,,Yasmine Mansouri,R,,FRA,20.733744011,223435,,,Milla Sequeira,U,,SUI,18.4585900068,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,828,34,,
 2022-W-ITF-POR-01A-2022,W25 Porto,Hard,32,25,20220207,113,220662,7,,Veronika Erjavec,R,,SLO,22.1081451061,256710,,,Analu Freitas,U,,POR,14.4065708419,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,652,56,,
 2022-W-ITF-POR-01A-2022,W25 Porto,Hard,32,25,20220207,114,211382,10,,Caroline Romeo,U,,FRA,27.5646817248,223069,,,Baylen Brown,U,,USA,17.6481861739,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,789,37,,
@@ -2272,7 +2272,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-TUN-01A-2022,W25 Monastir,Hard,32,25,20220103,122,228912,,,Ons Boubaker,U,,TUN,16.090349076,259112,,,Sarah Ben Aba,U,,TUN,14.212183436,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-TUN-01A-2022,W25 Monastir,Hard,32,25,20220103,123,214229,,,Man Ying Maggie Ng,R,,HKG,25.7686516085,221524,,,Margaux Komano,U,,FRA,20.0246406571,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,895,27,1347,8
 2022-W-ITF-TUN-01A-2022,W25 Monastir,Hard,32,25,20220103,201,215946,1,,Ye Xin Ma,U,,CHN,22.5681040383,213630,,,Valeria Koussenkova,R,,ESP,26.6666666667,6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,537,84,1177,13
-2022-W-ITF-TUN-01A-2022,W25 Monastir,Hard,32,25,20220103,202,221952,10,,Ekaterina Maklakova,R,,RUS,,215647,,,Lara Schmidt,R,,GER,22.2258726899,4-6 7-6(4) 10-6,3,Q2,,,,,,,,,,,,,,,,,,,,777,38,1180,13
+2022-W-ITF-TUN-01A-2022,W25 Monastir,Hard,32,25,20220103,202,221952,10,,Ekaterina Maklakova,R,,RUS,17.7960301164,215647,,,Lara Schmidt,R,,GER,22.2258726899,4-6 7-6(4) 10-6,3,Q2,,,,,,,,,,,,,,,,,,,,777,38,1180,13
 2022-W-ITF-TUN-01A-2022,W25 Monastir,Hard,32,25,20220103,203,222919,2,,Julia Avdeeva,R,,RUS,19.4962354552,221258,,,Laura Boehner,U,,GER,20.4298425736,6-4 4-6 10-8,3,Q2,,,,,,,,,,,,,,,,,,,,579,74,,
 2022-W-ITF-TUN-01A-2022,W25 Monastir,Hard,32,25,20220103,204,215472,7,,Fiona Ganz,U,,SUI,21.2977412731,223398,,,Anastasiya Kuparev,U,,GER,20.5831622177,6-1 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,763,40,,
 2022-W-ITF-TUN-01A-2022,W25 Monastir,Hard,32,25,20220103,205,220054,3,,Alexandra Vecic,U,,GER,19.9890485969,221214,,,Zdena Safarova,U,,CZE,18.3737166324,3-6 6-4 10-7,3,Q2,,,,,,,,,,,,,,,,,,,,567,76,1381,7
@@ -2283,7 +2283,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-TUN-01A-2022,W25 Monastir,Hard,32,25,20220103,210,215372,9,,Ksenia Laskutova,R,,RUS,25.3470225873,214605,,,Agustina Chlpac,U,,ARG,24.8952772074,6-2 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,745,42,1021,20
 2022-W-ITF-TUN-01A-2022,W25 Monastir,Hard,32,25,20220103,211,215697,6,,Arlinda Rushiti,R,,SUI,22.7734428474,228912,,,Ons Boubaker,U,,TUN,16.090349076,6-2 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,668,54,,
 2022-W-ITF-TUN-01A-2022,W25 Monastir,Hard,32,25,20220103,212,214229,,,Man Ying Maggie Ng,R,,HKG,25.7686516085,215909,8,,Adrienn Nagy,R,,HUN,20.7802874743,7-6(10) 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,895,27,770,39
-2022-W-ITF-TUN-01A-2022,W25 Monastir,Hard,32,25,20220103,301,215946,1,,Ye Xin Ma,U,,CHN,22.5681040383,221952,10,,Ekaterina Maklakova,R,,RUS,,4-6 6-4 10-7,3,Q3,,,,,,,,,,,,,,,,,,,,537,84,777,38
+2022-W-ITF-TUN-01A-2022,W25 Monastir,Hard,32,25,20220103,301,215946,1,,Ye Xin Ma,U,,CHN,22.5681040383,221952,10,,Ekaterina Maklakova,R,,RUS,17.7960301164,4-6 6-4 10-7,3,Q3,,,,,,,,,,,,,,,,,,,,537,84,777,38
 2022-W-ITF-TUN-01A-2022,W25 Monastir,Hard,32,25,20220103,302,215472,7,,Fiona Ganz,U,,SUI,21.2977412731,222919,2,,Julia Avdeeva,R,,RUS,19.4962354552,7-5 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,763,40,579,74
 2022-W-ITF-TUN-01A-2022,W25 Monastir,Hard,32,25,20220103,303,219887,,,Saki Imamura,R,,JPN,19.7180013689,220054,3,,Alexandra Vecic,U,,GER,19.9890485969,2-6 6-4 10-5,3,Q3,,,,,,,,,,,,,,,,,,,,1077,16,567,76
 2022-W-ITF-TUN-01A-2022,W25 Monastir,Hard,32,25,20220103,304,216587,,,Hong Yi Cody Wong,U,,HKG,19.8083504449,220429,11,,Elena Milovanovic,R,,SRB,20.9226557153,6-1 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,797,36,816,34
@@ -2297,7 +2297,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-TUN-02A-2022,W25 Monastir,Hard,32,25,20220110,110,223284,,,Luana Plaza Araujo,U,,BRA,16.4079397673,221402,,,Nour Gueblaoui,U,,TUN,17.9712525667,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-TUN-02A-2022,W25 Monastir,Hard,32,25,20220110,111,216587,,,Hong Yi Cody Wong,U,,HKG,19.8275154004,215472,,,Fiona Ganz,U,,SUI,21.3169062286,6-2 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,830,33,775,39
 2022-W-ITF-TUN-02A-2022,W25 Monastir,Hard,32,25,20220110,112,215878,11,,Aurora Zantedeschi,R,,ITA,21.1882272416,210108,,,Sandy Marti,R,,SUI,29.5496235455,5-7 6-4 10-6,3,Q1,,,,,,,,,,,,,,,,,,,,581,74,892,27
-2022-W-ITF-TUN-02A-2022,W25 Monastir,Hard,32,25,20220110,114,221952,,,Ekaterina Maklakova,R,,RUS,,220593,,,Kristina Milenkovic,R,,SUI,20.5831622177,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,777,38,1141,14
+2022-W-ITF-TUN-02A-2022,W25 Monastir,Hard,32,25,20220110,114,221952,,,Ekaterina Maklakova,R,,RUS,17.8151950719,220593,,,Kristina Milenkovic,R,,SUI,20.5831622177,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,777,38,1141,14
 2022-W-ITF-TUN-02A-2022,W25 Monastir,Hard,32,25,20220110,115,222442,,,Beatrice Laura Pirtac,U,,IRL,,223446,,,Ghalia Guizani,U,,TUN,15.5783709788,1-6 6-4 10-5,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-TUN-02A-2022,W25 Monastir,Hard,32,25,20220110,116,220309,10,,Zeynep Sonmez,U,,TUR,19.6988364134,221746,,,Oceane Babel,U,,FRA,17.8726899384,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,542,83,854,30
 2022-W-ITF-TUN-02A-2022,W25 Monastir,Hard,32,25,20220110,118,221777,,WC,Feryel Ben Hassen,R,,TUN,17.2621492129,215272,,,Zhuoma Ni Ma,U,,CHN,21.0458590007,3-6 6-4 12-10,3,Q1,,,,,,,,,,,,,,,,,,,,,,1145,14
@@ -2311,7 +2311,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-TUN-02A-2022,W25 Monastir,Hard,32,25,20220110,204,201481,,,Tamira Paszek,R,165,AUT,31.0965092402,215553,,,Viktoriia Dema,U,,UKR,21.1772758385,6-0 7-6(2),3,Q2,,,,,,,,,,,,,,,,,,,,790,37,887,28
 2022-W-ITF-TUN-02A-2022,W25 Monastir,Hard,32,25,20220110,205,223284,,,Luana Plaza Araujo,U,,BRA,16.4079397673,221139,3,,Ziva Falkner,U,,SLO,19.5126625599,W/O,3,Q2,,,,,,,,,,,,,,,,,,,,,,483,99
 2022-W-ITF-TUN-02A-2022,W25 Monastir,Hard,32,25,20220110,206,215878,11,,Aurora Zantedeschi,R,,ITA,21.1882272416,216587,,,Hong Yi Cody Wong,U,,HKG,19.8275154004,6-2 7-6(4),3,Q2,,,,,,,,,,,,,,,,,,,,581,74,830,33
-2022-W-ITF-TUN-02A-2022,W25 Monastir,Hard,32,25,20220110,207,211269,4,,Eudice Wong Chong,U,,HKG,25.7193702943,221952,,,Ekaterina Maklakova,R,,RUS,,7-6(6) 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,485,99,777,38
+2022-W-ITF-TUN-02A-2022,W25 Monastir,Hard,32,25,20220110,207,211269,4,,Eudice Wong Chong,U,,HKG,25.7193702943,221952,,,Ekaterina Maklakova,R,,RUS,17.8151950719,7-6(6) 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,485,99,777,38
 2022-W-ITF-TUN-02A-2022,W25 Monastir,Hard,32,25,20220110,208,220309,10,,Zeynep Sonmez,U,,TUR,19.6988364134,222442,,,Beatrice Laura Pirtac,U,,IRL,,6-2 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,542,83,,
 2022-W-ITF-TUN-02A-2022,W25 Monastir,Hard,32,25,20220110,209,201674,5,,Sabina Sharipova,R,174,UZB,27.3511293634,221777,,WC,Feryel Ben Hassen,R,,TUN,17.2621492129,6-1 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,487,97,,
 2022-W-ITF-TUN-02A-2022,W25 Monastir,Hard,32,25,20220110,210,214505,7,,Haruna Arakawa,U,,JPN,22.2067077344,202481,,WC,Chi Chi Scholl,R,,USA,29.5167693361,6-4 2-6 10-7,3,Q2,,,,,,,,,,,,,,,,,,,,509,93,610,67
@@ -2330,7 +2330,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-TUN-03A-2022,W25 Monastir,Hard,32,25,20220117,107,213832,,,Rebeka Stolmar,R,,HUN,24.8898015058,221522,,,Evita Ramirez,U,,FRA,18.9240246407,6-0 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,940,23,743,42
 2022-W-ITF-TUN-03A-2022,W25 Monastir,Hard,32,25,20220117,108,211269,11,,Eudice Wong Chong,U,,HKG,25.7385352498,215177,,,Polina Bakhmutkina,U,,RUS,22.7323750856,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,459,108,848,31
 2022-W-ITF-TUN-03A-2022,W25 Monastir,Hard,32,25,20220117,110,214505,,,Haruna Arakawa,U,,JPN,22.2258726899,210412,,,Robu Kajitani,U,,JPN,27.9726214921,7-6(4) 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,507,93,,
-2022-W-ITF-TUN-03A-2022,W25 Monastir,Hard,32,25,20220117,111,221952,,,Ekaterina Maklakova,R,,RUS,,221767,,WC,Wiem Boubaker,U,,TUN,18.6255989049,6-0 3-0 RET,3,Q1,,,,,,,,,,,,,,,,,,,,777,38,,
+2022-W-ITF-TUN-03A-2022,W25 Monastir,Hard,32,25,20220117,111,221952,,,Ekaterina Maklakova,R,,RUS,17.8343600274,221767,,WC,Wiem Boubaker,U,,TUN,18.6255989049,6-0 3-0 RET,3,Q1,,,,,,,,,,,,,,,,,,,,777,38,,
 2022-W-ITF-TUN-03A-2022,W25 Monastir,Hard,32,25,20220117,112,211529,7,,Sandra Samir,R,170,EGY,24.2026009582,221524,,,Margaux Komano,U,,FRA,20.0629705681,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,435,119,1344,8
 2022-W-ITF-TUN-03A-2022,W25 Monastir,Hard,32,25,20220117,114,221746,,,Oceane Babel,U,,FRA,17.8918548939,215272,,,Zhuoma Ni Ma,U,,CHN,21.0650239562,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,854,30,1141,14
 2022-W-ITF-TUN-03A-2022,W25 Monastir,Hard,32,25,20220117,115,222919,,,Julia Avdeeva,R,,RUS,19.5345653662,206077,,,Miharu Imanishi,R,162,JPN,29.6618754278,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,582,74,600,70
@@ -2346,7 +2346,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-TUN-03A-2022,W25 Monastir,Hard,32,25,20220117,203,221395,2,,Ekaterina Reyngold,U,,RUS,20.7802874743,211105,,,Akvile Parazinskaite,U,,LTU,25.1334702259,6-1 5-7 10-5,3,Q2,,,,,,,,,,,,,,,,,,,,404,137,594,71
 2022-W-ITF-TUN-03A-2022,W25 Monastir,Hard,32,25,20220117,204,211269,11,,Eudice Wong Chong,U,,HKG,25.7385352498,213832,,,Rebeka Stolmar,R,,HUN,24.8898015058,4-6 6-4 10-7,3,Q2,,,,,,,,,,,,,,,,,,,,459,108,940,23
 2022-W-ITF-TUN-03A-2022,W25 Monastir,Hard,32,25,20220117,205,214480,3,,Miriam Bianca Bulgaru,R,,ROU,23.2772073922,214505,,,Haruna Arakawa,U,,JPN,22.2258726899,4-6 6-4 10-6,3,Q2,,,,,,,,,,,,,,,,,,,,406,135,507,93
-2022-W-ITF-TUN-03A-2022,W25 Monastir,Hard,32,25,20220117,206,211529,7,,Sandra Samir,R,170,EGY,24.2026009582,221952,,,Ekaterina Maklakova,R,,RUS,,6-2 2-6 10-5,3,Q2,,,,,,,,,,,,,,,,,,,,435,119,777,38
+2022-W-ITF-TUN-03A-2022,W25 Monastir,Hard,32,25,20220117,206,211529,7,,Sandra Samir,R,170,EGY,24.2026009582,221952,,,Ekaterina Maklakova,R,,RUS,17.8343600274,6-2 2-6 10-5,3,Q2,,,,,,,,,,,,,,,,,,,,435,119,777,38
 2022-W-ITF-TUN-03A-2022,W25 Monastir,Hard,32,25,20220117,207,211544,4,,Nagi Hanatani,R,,JPN,26.8665297741,221746,,,Oceane Babel,U,,FRA,17.8918548939,3-6 6-2 10-8,3,Q2,,,,,,,,,,,,,,,,,,,,405,135,854,30
 2022-W-ITF-TUN-03A-2022,W25 Monastir,Hard,32,25,20220117,208,222919,,,Julia Avdeeva,R,,RUS,19.5345653662,220305,8,,Salma Djoubri,R,,FRA,19.0773442847,6-3 3-6 10-5,3,Q2,,,,,,,,,,,,,,,,,,,,582,74,467,106
 2022-W-ITF-TUN-03A-2022,W25 Monastir,Hard,32,25,20220117,209,211099,5,,Nicoleta Catalina Dascalu,R,,ROU,26.0807665982,215553,,,Viktoriia Dema,U,,UKR,21.196440794,6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,417,127,886,28
@@ -2478,7 +2478,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,108,259593,,,Allison Nicole Isaacs,U,,USA,,216559,15,,Izabela Gabriela Novac,U,,ROU,22.6146475017,6-2 2-6 10-5,3,Q1,,,,,,,,,,,,,,,,,,,,,,1546,4
 2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,110,216057,,,Soumeya Anane,U,,GBR,28.3586584531,222341,,,Aditi Sinha,U,,USA,,2-0 RET,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,111,259726,,,Jade Haller,U,,SUI,,255664,,,Ipek Sakiroglu,U,,TUR,14.9295003422,3-6 6-3 10-7,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
-2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,112,222637,9,,Anika Jaskova,R,,SVK,,222140,,,Mua Shigeta,U,,JPN,,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,1258,10,,
+2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,112,222637,9,,Anika Jaskova,R,,SVK,18.7542778919,222140,,,Mua Shigeta,U,,JPN,,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,1258,10,,
 2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,114,258534,,,Miray Muge Kesal,U,,TUR,14.984257358,259619,,,Zeynep Canturk,U,,TUR,,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,115,259727,,,Alessia Manca,U,,ITA,,235156,,,Nicol Benesova,U,,CZE,17.3360711841,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,116,221097,10,,Anastasia Piangerelli,U,,ITA,21.4045174538,259728,,,Nazli Deniz Saka,U,,TUR,,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,1270,10,,
@@ -2499,20 +2499,20 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,203,221168,2,,Ilinca Dalina Amariei,U,,ROU,19.4688569473,259725,,,Jovana Grujic,U,,SRB,,6-2 7-6(3),3,Q2,,,,,,,,,,,,,,,,,,,,1116,14,,
 2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,204,259593,,,Allison Nicole Isaacs,U,,USA,,253660,,,Bianca Bulat,U,,ROU,16.7611225188,6-0 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,205,245094,3,,Lavinia Tanasie,U,,ROU,18.0999315537,216057,,,Soumeya Anane,U,,GBR,28.3586584531,6-2 7-6(8),3,Q2,,,,,,,,,,,,,,,,,,,,1118,14,,
-2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,206,222637,9,,Anika Jaskova,R,,SVK,,259726,,,Jade Haller,U,,SUI,,6-0 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,1258,10,,
+2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,206,222637,9,,Anika Jaskova,R,,SVK,18.7542778919,259726,,,Jade Haller,U,,SUI,,6-0 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,1258,10,,
 2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,207,221315,4,,Beatris Spasova,R,,BUL,19.794661191,258534,,,Miray Muge Kesal,U,,TUR,14.984257358,6-2 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,1126,14,,
 2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,208,221097,10,,Anastasia Piangerelli,U,,ITA,21.4045174538,259727,,,Alessia Manca,U,,ITA,,6-0 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,1270,10,,
 2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,209,220772,,,Julia Victoria Rennert,U,,GER,21.0239561944,215956,5,,Yuka Hosoki,R,,JPN,22.6639288159,6-1 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,,,1144,14
 2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,210,252587,12,,Xinxin Yao,U,,CHN,18.2450376454,220431,,,Noa Krznaric,L,,CRO,18.7488021903,4-6 6-2 10-8,3,Q2,,,,,,,,,,,,,,,,,,,,1334,8,,
 2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,211,211931,6,,Gebriela Mihaylova,U,,BUL,25.3169062286,222570,,,Rebeca Maria Tudose,U,,ROU,,6-4 7-6(8),3,Q2,,,,,,,,,,,,,,,,,,,,1144,14,,
 2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,212,220759,11,,Daria Shalamanova,U,,BUL,19.1238877481,256732,,,Kamea Medora,U,,USA,16.5694729637,6-0 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,1323,8,,
-2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,213,222856,,,Defne Cirpanli,R,,TUR,,222019,7,,Nino Natsvlishvili,U,,GEO,,6-2 3-6 10-5,3,Q2,,,,,,,,,,,,,,,,,,,,,,1199,12
+2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,213,222856,,,Defne Cirpanli,R,,TUR,,222019,7,,Nino Natsvlishvili,U,,GEO,19.0308008214,6-2 3-6 10-5,3,Q2,,,,,,,,,,,,,,,,,,,,,,1199,12
 2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,214,220564,16,,Judith Perello Saavedra,U,,ESP,19.9835728953,241021,,,Darya Volkova,U,,UKR,18.2395619439,6-0 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,1546,4,,
 2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,215,222507,8,,Tamari Gagoshidze,U,,GEO,18.2340862423,259690,,,Rinko Matsuda,U,,JPN,,7-5 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,1251,10,,
 2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,216,221714,,,Stefana Lazar,U,,ROU,19.9315537303,220751,14,,Melis Ayda Uyar,U,,TUR,18.9596167009,6-3 7-6(5),3,Q2,,,,,,,,,,,,,,,,,,,,,,1528,4
 2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,301,223117,13,,Mihaela Tsoneva,U,,BUL,17.2292950034,220276,1,,Evgeniya Burdina,U,,RUS,20.9993155373,7-6(4) 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,1365,7,1032,19
 2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,302,221168,2,,Ilinca Dalina Amariei,U,,ROU,19.4688569473,259593,,,Allison Nicole Isaacs,U,,USA,,6-2 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,1116,14,,
-2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,303,245094,3,,Lavinia Tanasie,U,,ROU,18.0999315537,222637,9,,Anika Jaskova,R,,SVK,,6-3 7-6(6),3,Q3,,,,,,,,,,,,,,,,,,,,1118,14,1258,10
+2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,303,245094,3,,Lavinia Tanasie,U,,ROU,18.0999315537,222637,9,,Anika Jaskova,R,,SVK,18.7542778919,6-3 7-6(6),3,Q3,,,,,,,,,,,,,,,,,,,,1118,14,1258,10
 2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,304,221315,4,,Beatris Spasova,R,,BUL,19.794661191,221097,10,,Anastasia Piangerelli,U,,ITA,21.4045174538,6-2 2-6 15-13,3,Q3,,,,,,,,,,,,,,,,,,,,1126,14,1270,10
 2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,305,220772,,,Julia Victoria Rennert,U,,GER,21.0239561944,252587,12,,Xinxin Yao,U,,CHN,18.2450376454,6-4 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,,,1334,8
 2022-W-ITF-TUR-02A-2022,W15 Antalya,Clay,32,15,20220117,306,211931,6,,Gebriela Mihaylova,U,,BUL,25.3169062286,220759,11,,Daria Shalamanova,U,,BUL,19.1238877481,2-6 7-5 14-12,3,Q3,,,,,,,,,,,,,,,,,,,,1144,14,1323,8
@@ -2543,7 +2543,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,126,259726,,,Jade Haller,U,,SUI,,259731,,,Diana Khaydarshina,U,,RUS,,6-2 3-6 10-5,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,127,215442,,,Zinovia Vaneva,U,,BUL,22.2395619439,252597,,,Mariia Maksimova,U,,RUS,18.1574264203,6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,128,221472,16,,Chiara Girelli,U,,ITA,19.112936345,222686,,,Maria Zolotukhina,U,,RUS,,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,1528,4,,
-2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,129,222019,8,,Nino Natsvlishvili,U,,GEO,,241021,,,Darya Volkova,U,,UKR,18.2587268994,6-1 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,1199,12,,
+2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,129,222019,8,,Nino Natsvlishvili,U,,GEO,19.0499657769,241021,,,Darya Volkova,U,,UKR,18.2587268994,6-1 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,1199,12,,
 2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,130,221346,,,Anastasia Mozgaleva,L,,RUS,20.2546201232,253671,,,Georgia Kalamaris,U,,FRA,15.3292265572,6-2 4-6 10-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,131,252519,,,Alisa Vasileva,U,,RUS,16.2600958248,220133,,,Ilaria Sposetti,U,,ITA,21.3360711841,6-7(5) 6-1 11-9,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,132,223120,9,,Briana Szabo,U,,ROU,16.1615331964,259732,,,Diana Moshoy,U,,RUS,,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,1202,11,,
@@ -2561,7 +2561,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,212,252587,12,,Xinxin Yao,U,,CHN,18.264202601,259725,,,Jovana Grujic,U,,SRB,,7-6(5) 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,1334,8,,
 2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,213,259726,,,Jade Haller,U,,SUI,,211931,7,,Gebriela Mihaylova,U,,BUL,25.3360711841,6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,,,1144,14
 2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,214,215442,,,Zinovia Vaneva,U,,BUL,22.2395619439,221472,16,,Chiara Girelli,U,,ITA,19.112936345,7-6(3) 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,,,1528,4
-2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,215,222019,8,,Nino Natsvlishvili,U,,GEO,,221346,,,Anastasia Mozgaleva,L,,RUS,20.2546201232,6-2 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,1199,12,,
+2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,215,222019,8,,Nino Natsvlishvili,U,,GEO,19.0499657769,221346,,,Anastasia Mozgaleva,L,,RUS,20.2546201232,6-2 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,1199,12,,
 2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,216,223120,9,,Briana Szabo,U,,ROU,16.1615331964,252519,,,Alisa Vasileva,U,,RUS,16.2600958248,6-3 4-6 10-7,3,Q2,,,,,,,,,,,,,,,,,,,,1202,11,,
 2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,301,216287,1,,Ekaterina Shalimova,U,,RUS,21.6481861739,223411,,,Carlotta Moccia,U,,ITA,18.8583162218,6-4 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,420,125,,
 2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,302,222140,,,Mua Shigeta,U,,JPN,,222803,2,,Ozlem Uslu,R,,TUR,17.8726899384,6-1 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,,,872,29
@@ -2570,8 +2570,8 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,305,214812,5,,Aleksandra Pospelova,U,,RUS,23.7590691307,215799,14,,Giulia Carbonaro,U,,ITA,21.3826146475,6-4 4-6 10-8,3,Q3,,,,,,,,,,,,,,,,,,,,1110,15,1392,7
 2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,306,252587,12,,Xinxin Yao,U,,CHN,18.264202601,259622,,,Anastasia Zhilina,U,,RUS,,6-1 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,1334,8,,
 2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,307,215442,,,Zinovia Vaneva,U,,BUL,22.2395619439,259726,,,Jade Haller,U,,SUI,,6-1 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
-2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,308,223120,9,,Briana Szabo,U,,ROU,16.1615331964,222019,8,,Nino Natsvlishvili,U,,GEO,,6-2 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,1202,11,1199,12
-2022-W-ITF-TUR-04A-2022,W15 Antalya,Clay,32,15,20220131,101,222019,1,,Nino Natsvlishvili,U,,GEO,,256732,,,Kamea Medora,U,,USA,16.6078028747,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,1206,12,,
+2022-W-ITF-TUR-03A-2022,W15 Antalya,Clay,32,15,20220124,308,223120,9,,Briana Szabo,U,,ROU,16.1615331964,222019,8,,Nino Natsvlishvili,U,,GEO,19.0499657769,6-2 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,1202,11,1199,12
+2022-W-ITF-TUR-04A-2022,W15 Antalya,Clay,32,15,20220131,101,222019,1,,Nino Natsvlishvili,U,,GEO,19.0691307324,256732,,,Kamea Medora,U,,USA,16.6078028747,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,1206,12,,
 2022-W-ITF-TUR-04A-2022,W15 Antalya,Clay,32,15,20220131,102,253659,,,Sofia Pizzoni,U,,ITA,18.9650924025,222893,,,Melisa Senli,U,,TUR,,6-4 1-6 10-5,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-TUR-04A-2022,W15 Antalya,Clay,32,15,20220131,103,214216,,,Marta Huqi Gonzalez Encinas,U,,ESP,23.3757700205,253671,,,Georgia Kalamaris,U,,FRA,15.3483915127,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-TUR-04A-2022,W15 Antalya,Clay,32,15,20220131,104,222292,11,,Jelena Kovac,U,,SRB,,259689,,WC,Vesa Gjinaj,U,,UNK,,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
@@ -2602,7 +2602,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-TUR-04A-2022,W15 Antalya,Clay,32,15,20220131,130,221528,,WC,Rachele Elisa Zingale,R,,ITA,19.7891854894,239450,,,Nehir Ergun,U,,TUR,17.2484599589,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-TUR-04A-2022,W15 Antalya,Clay,32,15,20220131,131,245098,,,Sofiia Mykhailets,U,,UKR,14.8254620123,253681,,WC,Irem Kurt,U,,TUR,14.6529774127,7-6(6) 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-TUR-04A-2022,W15 Antalya,Clay,32,15,20220131,132,259623,,,Chia Yi Tsao,U,,TPE,,222291,14,,Greta Medeghini,U,,ITA,,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
-2022-W-ITF-TUR-04A-2022,W15 Antalya,Clay,32,15,20220131,201,253659,,,Sofia Pizzoni,U,,ITA,18.9650924025,222019,1,,Nino Natsvlishvili,U,,GEO,,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,,,1206,12
+2022-W-ITF-TUR-04A-2022,W15 Antalya,Clay,32,15,20220131,201,253659,,,Sofia Pizzoni,U,,ITA,18.9650924025,222019,1,,Nino Natsvlishvili,U,,GEO,19.0691307324,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,,,1206,12
 2022-W-ITF-TUR-04A-2022,W15 Antalya,Clay,32,15,20220131,202,214216,,,Marta Huqi Gonzalez Encinas,U,,ESP,23.3757700205,222292,11,,Jelena Kovac,U,,SRB,,6-1 2-0 RET,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-TUR-04A-2022,W15 Antalya,Clay,32,15,20220131,203,239167,,,Diana Maria Ilie,U,,ROU,15.3812457221,223120,2,,Briana Szabo,U,,ROU,16.180698152,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,,,1278,9
 2022-W-ITF-TUR-04A-2022,W15 Antalya,Clay,32,15,20220131,204,215966,10,,Maria Toma,U,,ROU,23.0171115674,223422,,,Annika Barth,U,,NED,17.7138945927,6-2 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
@@ -2637,7 +2637,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,112,223120,14,,Briana Szabo,U,,ROU,16.1998631075,223086,,,Beyza Yaniklar,U,,TUR,17.9958932238,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,1273,9,,
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,114,220431,,,Noa Krznaric,L,,CRO,18.8062970568,223422,,,Annika Barth,U,,NED,17.7330595483,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,115,252587,,,Xinxin Yao,U,,CHN,18.302532512,221346,,,Anastasia Mozgaleva,L,,RUS,20.2929500342,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,1293,9,,
-2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,116,222637,11,,Anika Jaskova,R,,SVK,,225857,,,Paola Maria Moreno Bautista,U,,ESP,19.5263518138,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,1232,11,,
+2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,116,222637,11,,Anika Jaskova,R,,SVK,18.8117727584,225857,,,Paola Maria Moreno Bautista,U,,ESP,19.5263518138,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,1232,11,,
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,117,255666,,,Anastasia Safta,U,,ROU,17.2785763176,220276,5,,Evgeniya Burdina,U,,RUS,21.0568104038,6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,1090,16
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,118,205881,,,Lucia Martinez Gomez,U,,ESP,30.7323750856,259732,,,Diana Moshoy,U,,RUS,,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,119,221472,,,Chiara Girelli,U,,ITA,19.151266256,239449,,,Krystyna Pochtovyk,U,,UKR,23.3976728268,6-3 1-6 10-3,3,Q1,,,,,,,,,,,,,,,,,,,,1525,4,1409,6
@@ -2649,7 +2649,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,125,259623,,,Chia Yi Tsao,U,,TPE,,215956,7,,Yuka Hosoki,R,,JPN,22.7214236824,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,1145,14
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,126,221471,,,Asia Serafini,U,,ITA,18.8254620123,233746,,,Andjela Lopicic,U,,SRB,18.7707049966,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,1525,4,,
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,127,220269,,,Marketa Panackova,R,,CZE,19.5318275154,259731,,WC,Diana Khaydarshina,U,,RUS,,W/O,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
-2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,128,222859,12,,Maria Sara Popa,L,,ROU,,239463,,,Anna Lanciaprima,U,,ITA,21.3771389459,6-4 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,1233,11,,
+2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,128,222859,12,,Maria Sara Popa,L,,ROU,16.5284052019,239463,,,Anna Lanciaprima,U,,ITA,21.3771389459,6-4 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,1233,11,,
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,129,214812,8,,Aleksandra Pospelova,U,,RUS,23.7973990418,259689,,,Vesa Gjinaj,U,,UNK,,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,1145,14,,
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,130,259690,,,Rinko Matsuda,U,,JPN,,222183,,,Hanna Vinahradava,U,,BLR,,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,131,214216,,,Marta Huqi Gonzalez Encinas,U,,ESP,23.394934976,252541,,,Ananya Vartak,U,,GBR,18.1793292266,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
@@ -2661,13 +2661,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,205,253679,,,Nanari Katsumi,U,,JPN,18.9733059548,223018,3,,Anastasia Kovaleva,U,,RUS,19.5838466804,0-6 7-5 11-9,3,Q2,,,,,,,,,,,,,,,,,,,,,,1026,19
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,206,223120,14,,Briana Szabo,U,,ROU,16.1998631075,252519,,,Alisa Vasileva,U,,RUS,16.2984257358,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,1273,9,,
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,207,245094,4,,Lavinia Tanasie,U,,ROU,18.1574264203,220431,,,Noa Krznaric,L,,CRO,18.8062970568,6-3 1-6 10-7,3,Q2,,,,,,,,,,,,,,,,,,,,1083,16,,
-2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,208,252587,,,Xinxin Yao,U,,CHN,18.302532512,222637,11,,Anika Jaskova,R,,SVK,,6-1 3-6 10-7,3,Q2,,,,,,,,,,,,,,,,,,,,1293,9,1232,11
+2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,208,252587,,,Xinxin Yao,U,,CHN,18.302532512,222637,11,,Anika Jaskova,R,,SVK,18.8117727584,6-1 3-6 10-7,3,Q2,,,,,,,,,,,,,,,,,,,,1293,9,1232,11
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,209,205881,,,Lucia Martinez Gomez,U,,ESP,30.7323750856,255666,,,Anastasia Safta,U,,ROU,17.2785763176,7-6(3) 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,210,216315,16,,Anri Nagata,U,,JPN,21.7659137577,221472,,,Chiara Girelli,U,,ITA,19.151266256,6-2 4-6 10-4,3,Q2,,,,,,,,,,,,,,,,,,,,1328,8,1525,4
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,211,221069,,,Eleonora Alvisi,R,,ITA,18.9075975359,222856,,,Defne Cirpanli,R,,TUR,,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,1462,5,,
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,212,223152,9,,Pimrada Jattavapornvanit,U,,THA,18.3107460643,221371,,,Lyubov Kostenko,R,,UKR,18.8665297741,6-2 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,1159,13,1369,7
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,213,221471,,,Asia Serafini,U,,ITA,18.8254620123,259623,,,Chia Yi Tsao,U,,TPE,,2-6 6-2 11-9,3,Q2,,,,,,,,,,,,,,,,,,,,1525,4,,
-2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,214,222859,12,,Maria Sara Popa,L,,ROU,,220269,,,Marketa Panackova,R,,CZE,19.5318275154,6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,1233,11,,
+2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,214,222859,12,,Maria Sara Popa,L,,ROU,16.5284052019,220269,,,Marketa Panackova,R,,CZE,19.5318275154,6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,1233,11,,
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,215,214812,8,,Aleksandra Pospelova,U,,RUS,23.7973990418,259690,,,Rinko Matsuda,U,,JPN,,3-6 6-2 10-3,3,Q2,,,,,,,,,,,,,,,,,,,,1145,14,,
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,216,214216,,,Marta Huqi Gonzalez Encinas,U,,ESP,23.394934976,220286,10,,Gloria Ceschi,U,,ITA,23.7097878166,7-5 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,,,1198,12
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,301,221229,1,,Natsumi Kawaguchi,L,,JPN,19.613963039,215966,,,Maria Toma,U,,ROU,23.0362765229,6-0 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,949,23,,
@@ -2676,7 +2676,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,304,245094,4,,Lavinia Tanasie,U,,ROU,18.1574264203,252587,,,Xinxin Yao,U,,CHN,18.302532512,6-2 7-6(3),3,Q3,,,,,,,,,,,,,,,,,,,,1083,16,1293,9
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,305,216315,16,,Anri Nagata,U,,JPN,21.7659137577,205881,,,Lucia Martinez Gomez,U,,ESP,30.7323750856,2-6 6-3 10-4,3,Q3,,,,,,,,,,,,,,,,,,,,1328,8,,
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,306,223152,9,,Pimrada Jattavapornvanit,U,,THA,18.3107460643,221069,,,Eleonora Alvisi,R,,ITA,18.9075975359,7-5 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,1159,13,1462,5
-2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,307,221471,,,Asia Serafini,U,,ITA,18.8254620123,222859,12,,Maria Sara Popa,L,,ROU,,1-6 6-1 10-3,3,Q3,,,,,,,,,,,,,,,,,,,,1525,4,1233,11
+2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,307,221471,,,Asia Serafini,U,,ITA,18.8254620123,222859,12,,Maria Sara Popa,L,,ROU,16.5284052019,1-6 6-1 10-3,3,Q3,,,,,,,,,,,,,,,,,,,,1525,4,1233,11
 2022-W-ITF-TUR-05A-2022,W15 Antalya,Clay,32,15,20220207,308,214216,,,Marta Huqi Gonzalez Encinas,U,,ESP,23.394934976,214812,8,,Aleksandra Pospelova,U,,RUS,23.7973990418,6-3 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,,,1145,14
 2022-W-ITF-USA-02A-2022,W25 Vero Beach FL,Clay,32,25,20220110,101,222034,1,WC,Reese Brantmeier,R,,USA,17.2648870637,215085,,,Zoe Hitt,R,,USA,20.8432580424,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,603,69,1385,7
 2022-W-ITF-USA-02A-2022,W25 Vero Beach FL,Clay,32,25,20220110,102,252551,15,,Anastasiya Antal,U,,RUS,24.9883641342,205917,,,Kyle Mcphillips,R,,USA,27.7672826831,6-4 4-6 10-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
@@ -2687,10 +2687,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-USA-02A-2022,W25 Vero Beach FL,Clay,32,25,20220110,107,215492,4,,Lisa Marie Rioux,U,,JPN,24.6954140999,256674,,,Sara Stosljevic,U,,USA,28.1451060917,6-0 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,866,29,,
 2022-W-ITF-USA-02A-2022,W25 Vero Beach FL,Clay,32,25,20220110,108,220014,12,,Safiya Carrington,R,,USA,20.5503080082,252549,,,Carly Kunkler,U,,USA,20.2984257358,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,1222,11,,
 2022-W-ITF-USA-02A-2022,W25 Vero Beach FL,Clay,32,25,20220110,109,259594,,WC,Grace Levelston,U,,USA,,220757,5,,Lia Karatancheva,U,,BUL,18.340862423,2-6 6-4 10-8,3,Q1,,,,,,,,,,,,,,,,,,,,,,921,25
-2022-W-ITF-USA-02A-2022,W25 Vero Beach FL,Clay,32,25,20220110,110,222262,10,,Jamilah Snells,U,,USA,,207990,,WC,Marine Nizri Spiegel,L,,USA,43.2826830938,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,1101,15,,
+2022-W-ITF-USA-02A-2022,W25 Vero Beach FL,Clay,32,25,20220110,110,222262,10,,Jamilah Snells,U,,USA,19.3675564682,207990,,WC,Marine Nizri Spiegel,L,,USA,43.2826830938,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,1101,15,,
 2022-W-ITF-USA-02A-2022,W25 Vero Beach FL,Clay,32,25,20220110,111,221988,6,,Bianca Jolie Fernandez,R,,CAN,17.87816564,215236,,,Maria Kononova,U,,RUS,24.8542094456,6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,947,23,,
 2022-W-ITF-USA-02A-2022,W25 Vero Beach FL,Clay,32,25,20220110,112,206406,11,,Berta Bonardi,U,,ARG,26.5571526352,221633,,,Sophie Williams,U,,USA,17.8945927447,6-2 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,1166,13,,
-2022-W-ITF-USA-02A-2022,W25 Vero Beach FL,Clay,32,25,20220110,113,215993,7,,Christina Rosca,U,,USA,24.462696783,221942,,,Kendra Bunch,L,,USA,,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,977,21,1427,6
+2022-W-ITF-USA-02A-2022,W25 Vero Beach FL,Clay,32,25,20220110,113,215993,7,,Christina Rosca,U,,USA,24.462696783,221942,,,Kendra Bunch,L,,USA,25.9493497604,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,977,21,1427,6
 2022-W-ITF-USA-02A-2022,W25 Vero Beach FL,Clay,32,25,20220110,114,216155,9,,Jada Hart,R,,USA,23.8138261465,259625,,,Alisa Lyshko,U,,USA,,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,1077,16,,
 2022-W-ITF-USA-02A-2022,W25 Vero Beach FL,Clay,32,25,20220110,115,221688,8,,Anastasia Sysoeva,U,,RUS,18.7679671458,239186,,,Lexington Reed,U,,USA,15.7453798768,6-1 3-6 10-5,3,Q1,,,,,,,,,,,,,,,,,,,,1010,20,,
 2022-W-ITF-USA-02A-2022,W25 Vero Beach FL,Clay,32,25,20220110,116,211841,13,,Eleonore Tchakarova,R,,BUL,27.4524298426,253661,,,Kacie Harvey,U,,USA,20.372347707,6-7(3) 7-6(5) 11-9,3,Q1,,,,,,,,,,,,,,,,,,,,1262,10,,
@@ -2698,12 +2698,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-USA-02A-2022,W25 Vero Beach FL,Clay,32,25,20220110,202,213771,2,,Rasheeda Mcadoo,U,,USA,26.5325119781,202273,16,,Liga Dekmeijere,R,171,LAT,38.6420260096,6-1 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,863,30,1348,8
 2022-W-ITF-USA-02A-2022,W25 Vero Beach FL,Clay,32,25,20220110,203,222081,14,,Eleana Yu,R,,USA,17.1718001369,215555,3,,Roosh Wijesundera,U,,USA,29.8069815195,6-3 7-6(5),3,Q2,,,,,,,,,,,,,,,,,,,,1283,9,897,27
 2022-W-ITF-USA-02A-2022,W25 Vero Beach FL,Clay,32,25,20220110,204,220014,12,,Safiya Carrington,R,,USA,20.5503080082,215492,4,,Lisa Marie Rioux,U,,JPN,24.6954140999,6-4 2-6 10-7,3,Q2,,,,,,,,,,,,,,,,,,,,1222,11,866,29
-2022-W-ITF-USA-02A-2022,W25 Vero Beach FL,Clay,32,25,20220110,205,259594,,WC,Grace Levelston,U,,USA,,222262,10,,Jamilah Snells,U,,USA,,6-1 3-1 RET,3,Q2,,,,,,,,,,,,,,,,,,,,,,1101,15
+2022-W-ITF-USA-02A-2022,W25 Vero Beach FL,Clay,32,25,20220110,205,259594,,WC,Grace Levelston,U,,USA,,222262,10,,Jamilah Snells,U,,USA,19.3675564682,6-1 3-1 RET,3,Q2,,,,,,,,,,,,,,,,,,,,,,1101,15
 2022-W-ITF-USA-02A-2022,W25 Vero Beach FL,Clay,32,25,20220110,206,206406,11,,Berta Bonardi,U,,ARG,26.5571526352,221988,6,,Bianca Jolie Fernandez,R,,CAN,17.87816564,7-5 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,1166,13,947,23
 2022-W-ITF-USA-02A-2022,W25 Vero Beach FL,Clay,32,25,20220110,207,215993,7,,Christina Rosca,U,,USA,24.462696783,216155,9,,Jada Hart,R,,USA,23.8138261465,6-3 5-7 10-8,3,Q2,,,,,,,,,,,,,,,,,,,,977,21,1077,16
 2022-W-ITF-USA-02A-2022,W25 Vero Beach FL,Clay,32,25,20220110,208,211841,13,,Eleonore Tchakarova,R,,BUL,27.4524298426,221688,8,,Anastasia Sysoeva,U,,RUS,18.7679671458,5-7 7-6(2) 10-6,3,Q2,,,,,,,,,,,,,,,,,,,,1262,10,1010,20
 2022-W-ITF-USA-03A-2022,W60 Orlando FL,Hard,32,60,20220124,101,202424,1,,Conny Perrin,R,174,SUI,31.0828199863,211965,,,Jasmin Jebawy,U,,GER,25.3059548255,6-0 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,231,310,617,65
-2022-W-ITF-USA-03A-2022,W60 Orlando FL,Hard,32,60,20220124,102,206277,14,,Marine Partaud,R,,FRA,27.2087611225,214696,,,Jessica Failla,U,,USA,24.6379192334,3-6 7-6(6) 10-4,3,Q1,,,,,,,,,,,,,,,,,,,,393,145,500,94
+2022-W-ITF-USA-03A-2022,W60 Orlando FL,Hard,32,60,20220124,102,206277,14,,Marine Partaud,R,,FRA,27.2087611225,214696,,,Jessica Failla,U,,USA,24.5557837098,3-6 7-6(6) 10-4,3,Q1,,,,,,,,,,,,,,,,,,,,393,145,500,94
 2022-W-ITF-USA-03A-2022,W60 Orlando FL,Hard,32,60,20220124,103,213949,2,,Hanna Chang,U,,USA,23.9123887748,216155,,WC,Jada Hart,R,,USA,23.8521560575,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,249,291,1076,16
 2022-W-ITF-USA-03A-2022,W60 Orlando FL,Hard,32,60,20220124,104,214304,15,,Vera Lapko,R,184,BLR,23.3210130048,220723,,A,Jessica Livianu,R,,USA,23.9206023272,6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,409,132,857,30
 2022-W-ITF-USA-03A-2022,W60 Orlando FL,Hard,32,60,20220124,105,213530,3,,Allie Kiick,R,170,USA,26.5708418891,215726,,,Tiphanie Fiquet,R,,FRA,21.6892539357,6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,256,274,708,48
@@ -2712,7 +2712,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-USA-03A-2022,W60 Orlando FL,Hard,32,60,20220124,108,213771,,WC,Rasheeda Mcadoo,U,,USA,26.5708418891,211635,9,,Louisa Chirico,R,175,USA,25.6919917864,4-6 6-4 10-3,3,Q1,,,,,,,,,,,,,,,,,,,,863,30,333,187
 2022-W-ITF-USA-03A-2022,W60 Orlando FL,Hard,32,60,20220124,109,203398,5,,Danielle Lao,R,160,USA,30.6611909651,222034,,,Reese Brantmeier,R,,USA,17.3032169747,6-3 4-6 10-5,3,Q1,,,,,,,,,,,,,,,,,,,,262,262,602,69
 2022-W-ITF-USA-03A-2022,W60 Orlando FL,Hard,32,60,20220124,110,214453,13,,Sophie Chang,R,,USA,24.6598220397,215993,,WC,Christina Rosca,U,,USA,24.501026694,6-0 2-6 10-4,3,Q1,,,,,,,,,,,,,,,,,,,,391,147,975,21
-2022-W-ITF-USA-03A-2022,W60 Orlando FL,Hard,32,60,20220124,111,204420,6,,Marcela Zacarias,R,,MEX,27.832991102,222189,,WC,Anna Sinclair Rogers,U,,USA,,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,266,261,1028,19
+2022-W-ITF-USA-03A-2022,W60 Orlando FL,Hard,32,60,20220124,111,204420,6,,Marcela Zacarias,R,,MEX,27.832991102,222189,,WC,Anna Sinclair Rogers,U,,USA,23.8466803559,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,266,261,1028,19
 2022-W-ITF-USA-03A-2022,W60 Orlando FL,Hard,32,60,20220124,112,220332,10,,Eva Lys,R,165,GER,20.0328542094,201691,,,Dia Evtimova,R,168,BUL,34.7378507871,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,344,179,737,44
 2022-W-ITF-USA-03A-2022,W60 Orlando FL,Hard,32,60,20220124,113,213583,7,,Tatjana Maria,R,172,GER,34.4640657084,221914,,WC,Jenna Defalco,U,,USA,19.1978097194,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,287,234,624,64
 2022-W-ITF-USA-03A-2022,W60 Orlando FL,Hard,32,60,20220124,114,205922,16,,Chanelle Van Nguyen,U,,USA,28.0136892539,222299,,,Adriana Reami,R,,USA,24.1971252567,6-0 7-6(4),3,Q1,,,,,,,,,,,,,,,,,,,,462,107,787,37
