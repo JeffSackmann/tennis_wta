@@ -623,7 +623,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-W-C10-BUL-03A-2006,Sofia 10K,Clay,32,10,20061002,2,202546,,,Tanya Germanlieva,R,,BUL,17.2,202467,,,Elitsa Kostova,R,172,BUL,16.4,6-2 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,819,10,1118,4
 2006-W-C10-BUL-03A-2006,Sofia 10K,Clay,32,10,20061002,3,204262,,,Karolina Nowak,R,,GER,22.1,209246,,,Alina Petras,R,,BUL,16.7,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,969,6,1254,3
 2006-W-C10-BUL-03A-2006,Sofia 10K,Clay,32,10,20061002,4,205438,,,Alexandra Popa,U,,ROU,23.0,205584,8,,Diana Andreea Gae,L,,ROU,18.5,4-6 6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,820,10,654,17
-2006-W-C10-BUL-03A-2006,Sofia 10K,Clay,32,10,20061002,5,202456,,,Alexandra Cadantu,R,170,ROU,16.4,203239,3,,Andrea Popovic,R,,SRB,18.7,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,687,15,405,42
+2006-W-C10-BUL-03A-2006,Sofia 10K,Clay,32,10,20061002,5,202456,,,Alexandra Cadantu Ignatik,R,170,ROU,16.4,203239,3,,Andrea Popovic,R,,SRB,18.7,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,687,15,405,42
 2006-W-C10-BUL-03A-2006,Sofia 10K,Clay,32,10,20061002,6,203330,,,Ionela Andreea Iova,R,,ROU,16.1,205303,,WC,Tanya Stoimenova,U,,BUL,17.6,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,977,6,,
 2006-W-C10-BUL-03A-2006,Sofia 10K,Clay,32,10,20061002,7,203324,,,Dessislava Mladenova,L,179,BUL,18.2,205074,,,Fernanda Hermenegildo,R,,BRA,17.9,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,942,7,750,12
 2006-W-C10-BUL-03A-2006,Sofia 10K,Clay,32,10,20061002,8,203305,5,Q,Antonia Xenia Tout,U,,ROU,20.2,205301,,,Lora Stancheva,U,,BUL,16.1,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,546,24,,
@@ -637,7 +637,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-W-C10-BUL-03A-2006,Sofia 10K,Clay,32,10,20061002,16,202858,2,,Anne Schaefer,R,,GER,19.5,206135,,,Lutfiye Esen,U,,TUR,18.2,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,429,38,1440,1
 2006-W-C10-BUL-03A-2006,Sofia 10K,Clay,32,10,20061002,17,202546,,,Tanya Germanlieva,R,,BUL,17.2,204809,1,,Maria Penkova,U,,BUL,22.2,7-6(3) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,819,10,412,41
 2006-W-C10-BUL-03A-2006,Sofia 10K,Clay,32,10,20061002,18,205438,,,Alexandra Popa,U,,ROU,23.0,204262,,,Karolina Nowak,R,,GER,22.1,0-6 7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,820,10,969,6
-2006-W-C10-BUL-03A-2006,Sofia 10K,Clay,32,10,20061002,19,203330,,,Ionela Andreea Iova,R,,ROU,16.1,202456,,,Alexandra Cadantu,R,170,ROU,16.4,3-6 6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,977,6,687,15
+2006-W-C10-BUL-03A-2006,Sofia 10K,Clay,32,10,20061002,19,203330,,,Ionela Andreea Iova,R,,ROU,16.1,202456,,,Alexandra Cadantu Ignatik,R,170,ROU,16.4,3-6 6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,977,6,687,15
 2006-W-C10-BUL-03A-2006,Sofia 10K,Clay,32,10,20061002,20,203324,,,Dessislava Mladenova,L,179,BUL,18.2,203305,5,Q,Antonia Xenia Tout,U,,ROU,20.2,6-2 4-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,942,7,546,24
 2006-W-C10-BUL-03A-2006,Sofia 10K,Clay,32,10,20061002,21,202880,,Q,Soetkin Van Deun,R,,BEL,18.0,205011,7,,Nadejda Vassileva,U,,BUL,21.6,2-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,565,22
 2006-W-C10-BUL-03A-2006,Sofia 10K,Clay,32,10,20061002,22,205252,4,Q,Maria Belen Corbalan,R,,ARG,21.3,202557,,,Hulya Esen,U,,TUR,17.1,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,464,34,1360,2
@@ -5552,7 +5552,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-W-C10-ROU-02A-2006,Bucharest 2 10K,Clay,32,10,20060508,12,205155,3,,Gabriela Niculescu,R,,ROU,19.9,205584,,,Diana Andreea Gae,L,,ROU,18.1,6-3 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,430,34,734,12
 2006-W-C10-ROU-02A-2006,Bucharest 2 10K,Clay,32,10,20060508,13,201566,7,,Agnes Szatmari,R,,ROU,18.8,202593,,,Diana Buzean,R,,ROU,18.4,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,500,27,779,11
 2006-W-C10-ROU-02A-2006,Bucharest 2 10K,Clay,32,10,20060508,14,203548,,,Agnese Zucchini,R,,ITA,23.4,205011,,,Nadejda Vassileva,U,,BUL,21.2,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,781,11,821,10
-2006-W-C10-ROU-02A-2006,Bucharest 2 10K,Clay,32,10,20060508,15,202456,,Q,Alexandra Cadantu,R,170,ROU,16.0,208668,,,Andra Iulia Savu,U,,ROU,18.8,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1299,2,733,12
+2006-W-C10-ROU-02A-2006,Bucharest 2 10K,Clay,32,10,20060508,15,202456,,Q,Alexandra Cadantu Ignatik,R,170,ROU,16.0,208668,,,Andra Iulia Savu,U,,ROU,18.8,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1299,2,733,12
 2006-W-C10-ROU-02A-2006,Bucharest 2 10K,Clay,32,10,20060508,16,202817,2,,Simona Iulia Matei,R,,ROU,20.8,209248,,WC,Nicoleta Ana Maria Bara,R,,ROU,17.4,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,345,57,,
 2006-W-C10-ROU-02A-2006,Bucharest 2 10K,Clay,32,10,20060508,17,201512,1,,Monica Niculescu,R,168,ROU,18.6,207133,,,Raluca Ciulei,R,,ROU,26.2,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,265,93,940,7
 2006-W-C10-ROU-02A-2006,Bucharest 2 10K,Clay,32,10,20060508,18,205432,,Q,Maria Luiza Craciun,R,,ROU,15.8,202845,8,,Vojislava Lukic,R,,SRB,19.1,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1268,2,587,20
@@ -5561,7 +5561,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-W-C10-ROU-02A-2006,Bucharest 2 10K,Clay,32,10,20060508,21,201698,5,,Liana Gabriela Ungur,U,,ROU,21.3,201504,,,Julia Goerges,R,180,GER,17.5,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,484,29,949,6
 2006-W-C10-ROU-02A-2006,Bucharest 2 10K,Clay,32,10,20060508,22,205155,3,,Gabriela Niculescu,R,,ROU,19.9,207602,,,Alexandra Orasanu,U,,ROU,20.2,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,430,34,648,16
 2006-W-C10-ROU-02A-2006,Bucharest 2 10K,Clay,32,10,20060508,23,201566,7,,Agnes Szatmari,R,,ROU,18.8,203548,,,Agnese Zucchini,R,,ITA,23.4,1-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,500,27,781,11
-2006-W-C10-ROU-02A-2006,Bucharest 2 10K,Clay,32,10,20060508,24,202817,2,,Simona Iulia Matei,R,,ROU,20.8,202456,,Q,Alexandra Cadantu,R,170,ROU,16.0,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,345,57,1299,2
+2006-W-C10-ROU-02A-2006,Bucharest 2 10K,Clay,32,10,20060508,24,202817,2,,Simona Iulia Matei,R,,ROU,20.8,202456,,Q,Alexandra Cadantu Ignatik,R,170,ROU,16.0,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,345,57,1299,2
 2006-W-C10-ROU-02A-2006,Bucharest 2 10K,Clay,32,10,20060508,25,201512,1,,Monica Niculescu,R,168,ROU,18.6,205432,,Q,Maria Luiza Craciun,R,,ROU,15.8,6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,265,93,1268,2
 2006-W-C10-ROU-02A-2006,Bucharest 2 10K,Clay,32,10,20060508,26,201514,6,,Sorana Cirstea,R,176,ROU,16.0,202558,4,,Veronika Kapshay,U,175,UKR,19.4,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,491,28,475,30
 2006-W-C10-ROU-02A-2006,Bucharest 2 10K,Clay,32,10,20060508,27,201698,5,,Liana Gabriela Ungur,U,,ROU,21.3,205155,3,,Gabriela Niculescu,R,,ROU,19.9,6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,484,29,430,34
@@ -5573,7 +5573,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-W-C10-ROU-03A-2006,Pitesti 10K,Clay,32,10,20060515,2,206706,,Q,Marina Parashkevova,R,,BUL,23.0,208173,,,Maren Kassens,U,,GER,19.2,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,758,12
 2006-W-C10-ROU-03A-2006,Pitesti 10K,Clay,32,10,20060515,3,202593,,,Diana Buzean,R,,ROU,18.4,206427,,WC,Daiana Negreanu,U,,ROU,17.8,4-6 6-1 5-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,780,11,,
 2006-W-C10-ROU-03A-2006,Pitesti 10K,Clay,32,10,20060515,4,201566,5,,Agnes Szatmari,R,,ROU,18.8,207602,,,Alexandra Orasanu,U,,ROU,20.2,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,503,27,645,16
-2006-W-C10-ROU-03A-2006,Pitesti 10K,Clay,32,10,20060515,5,201698,4,,Liana Gabriela Ungur,U,,ROU,21.3,202456,,Q,Alexandra Cadantu,R,170,ROU,16.0,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,474,30,1302,2
+2006-W-C10-ROU-03A-2006,Pitesti 10K,Clay,32,10,20060515,5,201698,4,,Liana Gabriela Ungur,U,,ROU,21.3,202456,,Q,Alexandra Cadantu Ignatik,R,170,ROU,16.0,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,474,30,1302,2
 2006-W-C10-ROU-03A-2006,Pitesti 10K,Clay,32,10,20060515,6,207133,,,Raluca Ciulei,R,,ROU,26.2,209246,,Q,Alina Petras,R,,BUL,16.3,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,929,7,,
 2006-W-C10-ROU-03A-2006,Pitesti 10K,Clay,32,10,20060515,7,205567,,,Paola Sprovieri,U,,GER,17.9,203323,,,Anna Koumantou,R,,GRE,23.4,2-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,845,9,742,12
 2006-W-C10-ROU-03A-2006,Pitesti 10K,Clay,32,10,20060515,8,202845,7,,Vojislava Lukic,R,,SRB,19.1,208668,,,Andra Iulia Savu,U,,ROU,18.8,7-6(5) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,586,20,734,12
@@ -5606,7 +5606,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-W-C10-ROU-04A-2006,Bals 10K,Clay,32,10,20060522,4,202825,5,,Bianca Ioana Bonifate,L,,ROU,17.5,209260,,Q,Andra Elena Voinea,U,,ROU,17.4,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,616,19,,
 2006-W-C10-ROU-04A-2006,Bals 10K,Clay,32,10,20060522,5,205155,3,,Gabriela Niculescu,R,,ROU,19.9,203589,,WC,Camelia Elena Hristea,R,,ROU,15.2,5-7 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,472,30,,
 2006-W-C10-ROU-04A-2006,Bals 10K,Clay,32,10,20060522,6,207133,,,Raluca Ciulei,R,,ROU,26.2,209246,,Q,Alina Petras,R,,BUL,16.3,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,898,8,,
-2006-W-C10-ROU-04A-2006,Bals 10K,Clay,32,10,20060522,7,202578,,,Laura Ioana Andrei,R,173,ROU,17.9,202456,,,Alexandra Cadantu,R,170,ROU,16.0,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1227,3,1124,4
+2006-W-C10-ROU-04A-2006,Bals 10K,Clay,32,10,20060522,7,202578,,,Laura Ioana Andrei,R,173,ROU,17.9,202456,,,Alexandra Cadantu Ignatik,R,170,ROU,16.0,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1227,3,1124,4
 2006-W-C10-ROU-04A-2006,Bals 10K,Clay,32,10,20060522,8,202595,,WC,Alexandra Damaschin,R,,ROU,15.2,205304,7,WC,Andrada Lacramioara Dinu,U,,ROU,18.6,2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,716,13
 2006-W-C10-ROU-04A-2006,Bals 10K,Clay,32,10,20060522,9,205584,8,,Diana Andreea Gae,L,,ROU,18.2,208469,,,Alexandra Iulia Iacob,U,,ROU,19.3,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,737,12,896,8
 2006-W-C10-ROU-04A-2006,Bals 10K,Clay,32,10,20060522,10,209261,,Q,Anne Christine Voicu,R,,CAN,15.7,208679,,,Delia Damaschin,U,,ROU,17.1,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -5675,7 +5675,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-W-C10-ROU-06A-2006,Bucharest 3 10K,Clay,32,10,20060619,11,202872,,,Varvara Galanina,R,,RUS,20.1,203373,,Q,Volha Duko,R,,BLR,17.4,6-3 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,794,10,875,8
 2006-W-C10-ROU-06A-2006,Bucharest 3 10K,Clay,32,10,20060619,12,202593,,,Diana Buzean,R,,ROU,18.5,204809,3,,Maria Penkova,U,,BUL,21.9,5-7 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,644,16,486,28
 2006-W-C10-ROU-06A-2006,Bucharest 3 10K,Clay,32,10,20060619,13,201553,7,,Lenka Wienerova,R,,SVK,18.1,202825,,,Bianca Ioana Bonifate,L,,ROU,17.6,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,588,20,581,20
-2006-W-C10-ROU-06A-2006,Bucharest 3 10K,Clay,32,10,20060619,14,203254,,,Anamaria Alexandra Sere,R,,ROU,17.5,202456,,Q,Alexandra Cadantu,R,170,ROU,16.1,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,697,14,1134,4
+2006-W-C10-ROU-06A-2006,Bucharest 3 10K,Clay,32,10,20060619,14,203254,,,Anamaria Alexandra Sere,R,,ROU,17.5,202456,,Q,Alexandra Cadantu Ignatik,R,170,ROU,16.1,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,697,14,1134,4
 2006-W-C10-ROU-06A-2006,Bucharest 3 10K,Clay,32,10,20060619,15,205148,,,Katerina Polunina,R,,UKR,18.2,205304,,,Andrada Lacramioara Dinu,U,,ROU,18.7,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,648,16,715,13
 2006-W-C10-ROU-06A-2006,Bucharest 3 10K,Clay,32,10,20060619,16,205155,2,WC,Gabriela Niculescu,R,,ROU,20.0,208469,,Q,Alexandra Iulia Iacob,U,,ROU,19.3,6-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,510,26,953,6
 2006-W-C10-ROU-06A-2006,Bucharest 3 10K,Clay,32,10,20060619,17,201680,,,Anna Gerasimou,R,,GRE,18.6,202578,,Q,Laura Ioana Andrei,R,173,ROU,18.0,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,565,21,1009,5
@@ -5703,7 +5703,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-W-C10-ROU-07A-2006,Galati 10K,Clay,32,10,20060626,8,205011,8,,Nadejda Vassileva,U,,BUL,21.3,208458,,Q,Carmen Raluca Tibuleac,U,,ROU,22.4,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,706,14,,
 2006-W-C10-ROU-07A-2006,Galati 10K,Clay,32,10,20060626,9,202872,,,Varvara Galanina,R,,RUS,20.1,205584,6,,Diana Andreea Gae,L,,ROU,18.3,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,764,12,590,20
 2006-W-C10-ROU-07A-2006,Galati 10K,Clay,32,10,20060626,10,201594,,WC,Simona Halep,R,168,ROU,14.7,203362,,,Vivian Segnini,R,165,BRA,17.4,6-2 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,701,14
-2006-W-C10-ROU-07A-2006,Galati 10K,Clay,32,10,20060626,11,202456,,,Alexandra Cadantu,R,170,ROU,16.1,202594,,Q,Elena Bogdan,L,183,ROU,14.2,4-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1148,4,,
+2006-W-C10-ROU-07A-2006,Galati 10K,Clay,32,10,20060626,11,202456,,,Alexandra Cadantu Ignatik,R,170,ROU,16.1,202594,,Q,Elena Bogdan,L,183,ROU,14.2,4-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1148,4,,
 2006-W-C10-ROU-07A-2006,Galati 10K,Clay,32,10,20060626,12,202825,4,,Bianca Ioana Bonifate,L,,ROU,17.6,209332,,Q,Cristina Bianca Danaila,L,,ROU,14.6,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,569,22,,
 2006-W-C10-ROU-07A-2006,Galati 10K,Clay,32,10,20060626,13,203254,7,,Anamaria Alexandra Sere,R,,ROU,17.5,205557,,,Oana Alexandra Stanica,R,,ROU,16.7,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,703,14,1302,2
 2006-W-C10-ROU-07A-2006,Galati 10K,Clay,32,10,20060626,14,203330,,Q,Ionela Andreea Iova,R,,ROU,15.9,209333,,Q,Nicoleta Mihaela Negru,U,,ROU,18.1,7-6(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -5714,18 +5714,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-W-C10-ROU-07A-2006,Galati 10K,Clay,32,10,20060626,19,205322,3,,Josanne Van Bennekom,R,,NED,19.0,201593,,WC,Irina Camelia Begu,R,181,ROU,15.8,2-6 7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,570,22,,
 2006-W-C10-ROU-07A-2006,Galati 10K,Clay,32,10,20060626,20,205011,8,,Nadejda Vassileva,U,,BUL,21.3,208679,,,Delia Damaschin,U,,ROU,17.2,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,706,14,1022,5
 2006-W-C10-ROU-07A-2006,Galati 10K,Clay,32,10,20060626,21,202872,,,Varvara Galanina,R,,RUS,20.1,201594,,WC,Simona Halep,R,168,ROU,14.7,2-6 6-3 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,764,12,,
-2006-W-C10-ROU-07A-2006,Galati 10K,Clay,32,10,20060626,22,202456,,,Alexandra Cadantu,R,170,ROU,16.1,202825,4,,Bianca Ioana Bonifate,L,,ROU,17.6,3-6 7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1148,4,569,22
+2006-W-C10-ROU-07A-2006,Galati 10K,Clay,32,10,20060626,22,202456,,,Alexandra Cadantu Ignatik,R,170,ROU,16.1,202825,4,,Bianca Ioana Bonifate,L,,ROU,17.6,3-6 7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1148,4,569,22
 2006-W-C10-ROU-07A-2006,Galati 10K,Clay,32,10,20060626,23,203254,7,,Anamaria Alexandra Sere,R,,ROU,17.5,203330,,Q,Ionela Andreea Iova,R,,ROU,15.9,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,703,14,,
 2006-W-C10-ROU-07A-2006,Galati 10K,Clay,32,10,20060626,24,201680,2,,Anna Gerasimou,R,,GRE,18.6,208986,,Q,Elitsa Mileva,U,,BUL,16.4,2-6 6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,576,21,1119,4
 2006-W-C10-ROU-07A-2006,Galati 10K,Clay,32,10,20060626,25,202845,1,,Vojislava Lukic,R,,SRB,19.2,208961,,WC,Antia Ghiorghiu,U,,ROU,18.3,6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,477,31,1215,3
 2006-W-C10-ROU-07A-2006,Galati 10K,Clay,32,10,20060626,26,205322,3,,Josanne Van Bennekom,R,,NED,19.0,205011,8,,Nadejda Vassileva,U,,BUL,21.3,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,570,22,706,14
-2006-W-C10-ROU-07A-2006,Galati 10K,Clay,32,10,20060626,27,202872,,,Varvara Galanina,R,,RUS,20.1,202456,,,Alexandra Cadantu,R,170,ROU,16.1,4-6 6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,764,12,1148,4
+2006-W-C10-ROU-07A-2006,Galati 10K,Clay,32,10,20060626,27,202872,,,Varvara Galanina,R,,RUS,20.1,202456,,,Alexandra Cadantu Ignatik,R,170,ROU,16.1,4-6 6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,764,12,1148,4
 2006-W-C10-ROU-07A-2006,Galati 10K,Clay,32,10,20060626,28,203254,7,,Anamaria Alexandra Sere,R,,ROU,17.5,201680,2,,Anna Gerasimou,R,,GRE,18.6,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,703,14,576,21
 2006-W-C10-ROU-07A-2006,Galati 10K,Clay,32,10,20060626,29,202845,1,,Vojislava Lukic,R,,SRB,19.2,205322,3,,Josanne Van Bennekom,R,,NED,19.0,6-0 6-2,3,SF,,,,,,,,,,,,,,,,,,,,477,31,570,22
 2006-W-C10-ROU-07A-2006,Galati 10K,Clay,32,10,20060626,30,203254,7,,Anamaria Alexandra Sere,R,,ROU,17.5,202872,,,Varvara Galanina,R,,RUS,20.1,6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,703,14,764,12
 2006-W-C10-ROU-07A-2006,Galati 10K,Clay,32,10,20060626,31,203254,7,,Anamaria Alexandra Sere,R,,ROU,17.5,202845,1,,Vojislava Lukic,R,,SRB,19.2,6-2 7-6(5),3,F,,,,,,,,,,,,,,,,,,,,703,14,477,31
 2006-W-C10-ROU-08A-2006,Bucharest 4 10K,Clay,32,10,20060717,1,202845,1,WC,Vojislava Lukic,R,,SRB,19.2,202852,,,Karolina Jovanovic,R,,SRB,18.4,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,435,34,622,18
-2006-W-C10-ROU-08A-2006,Bucharest 4 10K,Clay,32,10,20060717,2,202456,,Q,Alexandra Cadantu,R,170,ROU,16.2,205584,,,Diana Andreea Gae,L,,ROU,18.3,6-2 5-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,970,6,640,17
+2006-W-C10-ROU-08A-2006,Bucharest 4 10K,Clay,32,10,20060717,2,202456,,Q,Alexandra Cadantu Ignatik,R,170,ROU,16.2,205584,,,Diana Andreea Gae,L,,ROU,18.3,6-2 5-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,970,6,640,17
 2006-W-C10-ROU-08A-2006,Bucharest 4 10K,Clay,32,10,20060717,3,205557,,Q,Oana Alexandra Stanica,R,,ROU,16.8,202864,,,Amina Rakhim,R,,KAZ,17.3,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1124,4,921,7
 2006-W-C10-ROU-08A-2006,Bucharest 4 10K,Clay,32,10,20060717,4,202540,8,Q,Neda Kozic,R,,SRB,20.6,203431,,,Keren Shlomo,R,167,ISR,18.5,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,619,18,1124,4
 2006-W-C10-ROU-08A-2006,Bucharest 4 10K,Clay,32,10,20060717,5,205155,3,,Gabriela Niculescu,R,,ROU,20.1,205207,,,Lenore Lazaroiu,U,,ROU,19.0,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,529,24,1003,5
@@ -5740,7 +5740,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-W-C10-ROU-08A-2006,Bucharest 4 10K,Clay,32,10,20060717,14,205438,,,Alexandra Popa,U,,ROU,22.7,205585,,Q,Beatris Simion,R,,ROU,19.8,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1023,5,,
 2006-W-C10-ROU-08A-2006,Bucharest 4 10K,Clay,32,10,20060717,15,203323,,,Anna Koumantou,R,,GRE,23.6,203331,,WC,Irina Alexandra Paraschiv,R,,ROU,16.5,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,722,13,,
 2006-W-C10-ROU-08A-2006,Bucharest 4 10K,Clay,32,10,20060717,16,204809,2,,Maria Penkova,U,,BUL,22.0,202578,,,Laura Ioana Andrei,R,173,ROU,18.1,6-7(6) 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,438,34,876,8
-2006-W-C10-ROU-08A-2006,Bucharest 4 10K,Clay,32,10,20060717,17,202845,1,WC,Vojislava Lukic,R,,SRB,19.2,202456,,Q,Alexandra Cadantu,R,170,ROU,16.2,4-6 6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,435,34,970,6
+2006-W-C10-ROU-08A-2006,Bucharest 4 10K,Clay,32,10,20060717,17,202845,1,WC,Vojislava Lukic,R,,SRB,19.2,202456,,Q,Alexandra Cadantu Ignatik,R,170,ROU,16.2,4-6 6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,435,34,970,6
 2006-W-C10-ROU-08A-2006,Bucharest 4 10K,Clay,32,10,20060717,18,202540,8,Q,Neda Kozic,R,,SRB,20.6,205557,,Q,Oana Alexandra Stanica,R,,ROU,16.8,7-6(9) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,619,18,1124,4
 2006-W-C10-ROU-08A-2006,Bucharest 4 10K,Clay,32,10,20060717,19,205155,3,,Gabriela Niculescu,R,,ROU,20.1,207133,,,Raluca Ciulei,R,,ROU,26.4,4-6 6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,529,24,925,7
 2006-W-C10-ROU-08A-2006,Bucharest 4 10K,Clay,32,10,20060717,20,205011,7,Q,Nadejda Vassileva,U,,BUL,21.4,202451,,,Nicole Rottmann,U,,AUT,17.0,2-6 7-6(6) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,623,18,1026,5
@@ -5759,7 +5759,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-W-C10-ROU-09A-2006,Arad 10K,Clay,32,10,20060724,2,205311,,Q,Monika Kochanova,R,,SVK,17.4,205207,,,Lenore Lazaroiu,U,,ROU,19.0,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1005,5
 2006-W-C10-ROU-09A-2006,Arad 10K,Clay,32,10,20060724,3,207133,,,Raluca Ciulei,R,,ROU,26.4,208670,,WC,Cristina Mirela Prodanel,U,,ROU,17.9,6-4 2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,929,7,,
 2006-W-C10-ROU-09A-2006,Arad 10K,Clay,32,10,20060724,4,201566,5,,Agnes Szatmari,R,,ROU,19.0,205271,,Q,Doron Muravnik,R,,ISR,17.4,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,547,23,,
-2006-W-C10-ROU-09A-2006,Arad 10K,Clay,32,10,20060724,5,202456,,Q,Alexandra Cadantu,R,170,ROU,16.2,205322,4,,Josanne Van Bennekom,R,,NED,19.1,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,972,6,546,23
+2006-W-C10-ROU-09A-2006,Arad 10K,Clay,32,10,20060724,5,202456,,Q,Alexandra Cadantu Ignatik,R,170,ROU,16.2,205322,4,,Josanne Van Bennekom,R,,NED,19.1,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,972,6,546,23
 2006-W-C10-ROU-09A-2006,Arad 10K,Clay,32,10,20060724,6,203330,,Q,Ionela Andreea Iova,R,,ROU,16.0,202872,,,Varvara Galanina,R,,RUS,20.2,5-7 6-3 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,,,671,15
 2006-W-C10-ROU-09A-2006,Arad 10K,Clay,32,10,20060724,7,202578,,,Laura Ioana Andrei,R,173,ROU,18.1,209375,,Q,Tina Pieger,R,,GER,17.3,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,881,8,,
 2006-W-C10-ROU-09A-2006,Arad 10K,Clay,32,10,20060724,8,202540,6,,Neda Kozic,R,,SRB,20.6,205549,,LL,Lenka Hojckova,R,,SVK,18.9,4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,636,17,1043,5
@@ -5773,7 +5773,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-W-C10-ROU-09A-2006,Arad 10K,Clay,32,10,20060724,16,203305,2,,Antonia Xenia Tout,U,,ROU,20.0,209261,,Q,Anne Christine Voicu,R,,CAN,15.9,4-6 6-2 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,483,30,,
 2006-W-C10-ROU-09A-2006,Arad 10K,Clay,32,10,20060724,17,204809,1,,Maria Penkova,U,,BUL,22.0,205311,,Q,Monika Kochanova,R,,SVK,17.4,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,442,34,,
 2006-W-C10-ROU-09A-2006,Arad 10K,Clay,32,10,20060724,18,201566,5,,Agnes Szatmari,R,,ROU,19.0,207133,,,Raluca Ciulei,R,,ROU,26.4,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,547,23,929,7
-2006-W-C10-ROU-09A-2006,Arad 10K,Clay,32,10,20060724,19,203330,,Q,Ionela Andreea Iova,R,,ROU,16.0,202456,,Q,Alexandra Cadantu,R,170,ROU,16.2,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,972,6
+2006-W-C10-ROU-09A-2006,Arad 10K,Clay,32,10,20060724,19,203330,,Q,Ionela Andreea Iova,R,,ROU,16.0,202456,,Q,Alexandra Cadantu Ignatik,R,170,ROU,16.2,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,972,6
 2006-W-C10-ROU-09A-2006,Arad 10K,Clay,32,10,20060724,20,202578,,,Laura Ioana Andrei,R,173,ROU,18.1,202540,6,,Neda Kozic,R,,SRB,20.6,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,881,8,636,17
 2006-W-C10-ROU-09A-2006,Arad 10K,Clay,32,10,20060724,21,202852,7,,Karolina Jovanovic,R,,SRB,18.4,205557,,Q,Oana Alexandra Stanica,R,,ROU,16.8,6-4 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,617,18,1128,4
 2006-W-C10-ROU-09A-2006,Arad 10K,Clay,32,10,20060724,22,205155,3,,Gabriela Niculescu,R,,ROU,20.1,205317,,,Eva Pera,U,,NED,19.6,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,537,24,710,14
@@ -5798,7 +5798,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-W-C10-ROU-10A-2006,Bucharest 5 10K,Clay,32,10,20060731,10,205487,,Q,Anja Vanessa Peter,R,,PHI,17.8,208670,,WC,Cristina Mirela Prodanel,U,,ROU,18.0,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1377,2,,
 2006-W-C10-ROU-10A-2006,Bucharest 5 10K,Clay,32,10,20060731,11,202578,,,Laura Ioana Andrei,R,173,ROU,18.1,208173,,,Maren Kassens,U,,GER,19.4,7-6(1) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,876,8,900,8
 2006-W-C10-ROU-10A-2006,Bucharest 5 10K,Clay,32,10,20060731,12,201566,4,,Agnes Szatmari,R,,ROU,19.0,205304,,,Andrada Lacramioara Dinu,U,,ROU,18.8,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,571,22,896,8
-2006-W-C10-ROU-10A-2006,Bucharest 5 10K,Clay,32,10,20060731,13,202540,7,,Neda Kozic,R,,SRB,20.6,202456,,,Alexandra Cadantu,R,170,ROU,16.2,4-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,612,19,895,8
+2006-W-C10-ROU-10A-2006,Bucharest 5 10K,Clay,32,10,20060731,13,202540,7,,Neda Kozic,R,,SRB,20.6,202456,,,Alexandra Cadantu Ignatik,R,170,ROU,16.2,4-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,612,19,895,8
 2006-W-C10-ROU-10A-2006,Bucharest 5 10K,Clay,32,10,20060731,14,208679,,,Delia Damaschin,U,,ROU,17.3,205317,,,Eva Pera,U,,NED,19.6,4-6 6-2 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,984,6,707,14
 2006-W-C10-ROU-10A-2006,Bucharest 5 10K,Clay,32,10,20060731,15,202546,,,Tanya Germanlieva,R,,BUL,17.0,203330,,Q,Ionela Andreea Iova,R,,ROU,16.0,6-2 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,814,10,,
 2006-W-C10-ROU-10A-2006,Bucharest 5 10K,Clay,32,10,20060731,16,205155,2,,Gabriela Niculescu,R,,ROU,20.1,208469,,,Alexandra Iulia Iacob,U,,ROU,19.4,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,552,24,980,6
@@ -5823,7 +5823,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-W-C10-ROU-11A-2006,Timisoara 10K,Clay,32,10,20060828,4,202593,6,,Diana Buzean,R,,ROU,18.7,205557,,,Oana Alexandra Stanica,R,,ROU,16.9,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,537,25,957,7
 2006-W-C10-ROU-11A-2006,Timisoara 10K,Clay,32,10,20060828,5,203254,4,,Anamaria Alexandra Sere,R,,ROU,17.7,209416,,Q,Vanessa Kretsch,R,,GER,18.5,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,507,27,,
 2006-W-C10-ROU-11A-2006,Timisoara 10K,Clay,32,10,20060828,6,206200,,Q,Alice Andrada Radu,R,,ROU,15.2,205642,,Q,Nevena Selakovic,R,,SRB,17.4,3-6 6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,8,,,,
-2006-W-C10-ROU-11A-2006,Timisoara 10K,Clay,32,10,20060828,7,202456,,,Alexandra Cadantu,R,170,ROU,16.3,202671,,WC,Cristina Andreea Mitu,R,175,ROU,14.9,7-6(5) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,858,9,,
+2006-W-C10-ROU-11A-2006,Timisoara 10K,Clay,32,10,20060828,7,202456,,,Alexandra Cadantu Ignatik,R,170,ROU,16.3,202671,,WC,Cristina Andreea Mitu,R,175,ROU,14.9,7-6(5) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,858,9,,
 2006-W-C10-ROU-11A-2006,Timisoara 10K,Clay,32,10,20060828,8,205011,7,Q,Nadejda Vassileva,U,,BUL,21.5,202864,,,Amina Rakhim,R,,KAZ,17.5,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,633,19,936,7
 2006-W-C10-ROU-11A-2006,Timisoara 10K,Clay,32,10,20060828,9,202578,,,Laura Ioana Andrei,R,173,ROU,18.2,205584,8,,Diana Andreea Gae,L,,ROU,18.4,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,783,11,634,19
 2006-W-C10-ROU-11A-2006,Timisoara 10K,Clay,32,10,20060828,10,209417,,Q,Iuliia Kiriienko,U,,UKR,15.2,203421,,,Chen Astrogo,R,156,ISR,16.5,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1096,4
@@ -5836,13 +5836,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-W-C10-ROU-11A-2006,Timisoara 10K,Clay,32,10,20060828,17,203245,1,,Corina Claudia Corduneanu,R,,ROU,18.5,208679,,,Delia Damaschin,U,,ROU,17.3,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,350,58,943,7
 2006-W-C10-ROU-11A-2006,Timisoara 10K,Clay,32,10,20060828,18,202593,6,,Diana Buzean,R,,ROU,18.7,203589,,Q,Camelia Elena Hristea,R,,ROU,15.5,2-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,537,25,,
 2006-W-C10-ROU-11A-2006,Timisoara 10K,Clay,32,10,20060828,19,203254,4,,Anamaria Alexandra Sere,R,,ROU,17.7,206200,,Q,Alice Andrada Radu,R,,ROU,15.2,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,507,27,,
-2006-W-C10-ROU-11A-2006,Timisoara 10K,Clay,32,10,20060828,20,202456,,,Alexandra Cadantu,R,170,ROU,16.3,205011,7,Q,Nadejda Vassileva,U,,BUL,21.5,6-4 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,858,9,633,19
+2006-W-C10-ROU-11A-2006,Timisoara 10K,Clay,32,10,20060828,20,202456,,,Alexandra Cadantu Ignatik,R,170,ROU,16.3,205011,7,Q,Nadejda Vassileva,U,,BUL,21.5,6-4 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,858,9,633,19
 2006-W-C10-ROU-11A-2006,Timisoara 10K,Clay,32,10,20060828,21,202578,,,Laura Ioana Andrei,R,173,ROU,18.2,209417,,Q,Iuliia Kiriienko,U,,UKR,15.2,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,783,11,,
 2006-W-C10-ROU-11A-2006,Timisoara 10K,Clay,32,10,20060828,22,201566,3,,Agnes Szatmari,R,,ROU,19.1,201593,,WC,Irina Camelia Begu,R,181,ROU,16.0,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,494,29,1223,3
 2006-W-C10-ROU-11A-2006,Timisoara 10K,Clay,32,10,20060828,23,203095,,WC,Ioana Gaspar,R,,ROU,23.3,202873,,,Ana Savic,U,,CRO,16.8,1-6 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,953,7
 2006-W-C10-ROU-11A-2006,Timisoara 10K,Clay,32,10,20060828,24,203239,2,,Andrea Popovic,R,,SRB,18.6,209291,,Q,Sina Ladage,R,,GER,18.8,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,474,31,,
 2006-W-C10-ROU-11A-2006,Timisoara 10K,Clay,32,10,20060828,25,203245,1,,Corina Claudia Corduneanu,R,,ROU,18.5,202593,6,,Diana Buzean,R,,ROU,18.7,6-7(4) 6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,350,58,537,25
-2006-W-C10-ROU-11A-2006,Timisoara 10K,Clay,32,10,20060828,26,203254,4,,Anamaria Alexandra Sere,R,,ROU,17.7,202456,,,Alexandra Cadantu,R,170,ROU,16.3,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,507,27,858,9
+2006-W-C10-ROU-11A-2006,Timisoara 10K,Clay,32,10,20060828,26,203254,4,,Anamaria Alexandra Sere,R,,ROU,17.7,202456,,,Alexandra Cadantu Ignatik,R,170,ROU,16.3,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,507,27,858,9
 2006-W-C10-ROU-11A-2006,Timisoara 10K,Clay,32,10,20060828,27,201566,3,,Agnes Szatmari,R,,ROU,19.1,202578,,,Laura Ioana Andrei,R,173,ROU,18.2,6-2 3-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,494,29,783,11
 2006-W-C10-ROU-11A-2006,Timisoara 10K,Clay,32,10,20060828,28,203239,2,,Andrea Popovic,R,,SRB,18.6,203095,,WC,Ioana Gaspar,R,,ROU,23.3,4-6 6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,474,31,,
 2006-W-C10-ROU-11A-2006,Timisoara 10K,Clay,32,10,20060828,29,203245,1,,Corina Claudia Corduneanu,R,,ROU,18.5,203254,4,,Anamaria Alexandra Sere,R,,ROU,17.7,7-6(2) 7-5,3,SF,,,,,,,,,,,,,,,,,,,,350,58,507,27
@@ -5853,7 +5853,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-W-C10-ROU-12A-2006,Bucharest 6 10K,Clay,32,10,20060904,3,202671,,Q,Cristina Andreea Mitu,R,175,ROU,14.9,208986,,LL,Elitsa Mileva,U,,BUL,16.6,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1060,5
 2006-W-C10-ROU-12A-2006,Bucharest 6 10K,Clay,32,10,20060904,4,205011,6,,Nadejda Vassileva,U,,BUL,21.5,206200,,Q,Alice Andrada Radu,R,,ROU,15.2,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,633,19,,
 2006-W-C10-ROU-12A-2006,Bucharest 6 10K,Clay,32,10,20060904,5,203305,3,,Antonia Xenia Tout,U,,ROU,20.1,208679,,,Delia Damaschin,U,,ROU,17.3,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,509,27,943,7
-2006-W-C10-ROU-12A-2006,Bucharest 6 10K,Clay,32,10,20060904,6,202456,,,Alexandra Cadantu,R,170,ROU,16.3,203095,,SE,Ioana Gaspar,R,,ROU,23.3,6-2 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,858,9,,
+2006-W-C10-ROU-12A-2006,Bucharest 6 10K,Clay,32,10,20060904,6,202456,,,Alexandra Cadantu Ignatik,R,170,ROU,16.3,203095,,SE,Ioana Gaspar,R,,ROU,23.3,6-2 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,858,9,,
 2006-W-C10-ROU-12A-2006,Bucharest 6 10K,Clay,32,10,20060904,7,202864,,,Amina Rakhim,R,,KAZ,17.5,209085,,Q,Mihaela Florina Bunea,R,,ROU,16.9,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,936,7,1239,3
 2006-W-C10-ROU-12A-2006,Bucharest 6 10K,Clay,32,10,20060904,8,204439,,SE,Oana Elena Golimbioschi,R,,ROU,26.2,205584,7,,Diana Andreea Gae,L,,ROU,18.4,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,995,6,634,19
 2006-W-C10-ROU-12A-2006,Bucharest 6 10K,Clay,32,10,20060904,9,202578,8,,Laura Ioana Andrei,R,173,ROU,18.2,203330,,Q,Ionela Andreea Iova,R,,ROU,16.1,4-6 6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,783,11,1027,5
@@ -5866,19 +5866,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2006-W-C10-ROU-12A-2006,Bucharest 6 10K,Clay,32,10,20060904,16,201566,2,,Agnes Szatmari,R,,ROU,19.1,205585,,Q,Beatris Simion,R,,ROU,19.9,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,494,29,1184,4
 2006-W-C10-ROU-12A-2006,Bucharest 6 10K,Clay,32,10,20060904,17,204809,1,,Maria Penkova,U,,BUL,22.1,205444,,,Miljana Adanko,R,,SRB,18.8,6-2 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,428,38,790,11
 2006-W-C10-ROU-12A-2006,Bucharest 6 10K,Clay,32,10,20060904,18,202671,,Q,Cristina Andreea Mitu,R,175,ROU,14.9,205011,6,,Nadejda Vassileva,U,,BUL,21.5,6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,,,633,19
-2006-W-C10-ROU-12A-2006,Bucharest 6 10K,Clay,32,10,20060904,19,202456,,,Alexandra Cadantu,R,170,ROU,16.3,203305,3,,Antonia Xenia Tout,U,,ROU,20.1,6-1 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,858,9,509,27
+2006-W-C10-ROU-12A-2006,Bucharest 6 10K,Clay,32,10,20060904,19,202456,,,Alexandra Cadantu Ignatik,R,170,ROU,16.3,203305,3,,Antonia Xenia Tout,U,,ROU,20.1,6-1 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,858,9,509,27
 2006-W-C10-ROU-12A-2006,Bucharest 6 10K,Clay,32,10,20060904,20,202864,,,Amina Rakhim,R,,KAZ,17.5,204439,,SE,Oana Elena Golimbioschi,R,,ROU,26.2,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,936,7,995,6
 2006-W-C10-ROU-12A-2006,Bucharest 6 10K,Clay,32,10,20060904,21,202578,8,,Laura Ioana Andrei,R,173,ROU,18.2,209375,,Q,Tina Pieger,R,,GER,17.4,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,783,11,,
 2006-W-C10-ROU-12A-2006,Bucharest 6 10K,Clay,32,10,20060904,22,201593,,WC,Irina Camelia Begu,R,181,ROU,16.0,209261,,WC,Anne Christine Voicu,R,,CAN,16.0,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1223,3,1258,3
 2006-W-C10-ROU-12A-2006,Bucharest 6 10K,Clay,32,10,20060904,23,201594,,WC,Simona Halep,R,168,ROU,14.9,205432,,,Maria Luiza Craciun,R,,ROU,16.1,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,905,8
 2006-W-C10-ROU-12A-2006,Bucharest 6 10K,Clay,32,10,20060904,24,201566,2,,Agnes Szatmari,R,,ROU,19.1,203589,,Q,Camelia Elena Hristea,R,,ROU,15.5,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,494,29,,
 2006-W-C10-ROU-12A-2006,Bucharest 6 10K,Clay,32,10,20060904,25,204809,1,,Maria Penkova,U,,BUL,22.1,202671,,Q,Cristina Andreea Mitu,R,175,ROU,14.9,4-6 6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,428,38,,
-2006-W-C10-ROU-12A-2006,Bucharest 6 10K,Clay,32,10,20060904,26,202456,,,Alexandra Cadantu,R,170,ROU,16.3,202864,,,Amina Rakhim,R,,KAZ,17.5,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,858,9,936,7
+2006-W-C10-ROU-12A-2006,Bucharest 6 10K,Clay,32,10,20060904,26,202456,,,Alexandra Cadantu Ignatik,R,170,ROU,16.3,202864,,,Amina Rakhim,R,,KAZ,17.5,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,858,9,936,7
 2006-W-C10-ROU-12A-2006,Bucharest 6 10K,Clay,32,10,20060904,27,201593,,WC,Irina Camelia Begu,R,181,ROU,16.0,202578,8,,Laura Ioana Andrei,R,173,ROU,18.2,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,1223,3,783,11
 2006-W-C10-ROU-12A-2006,Bucharest 6 10K,Clay,32,10,20060904,28,201566,2,,Agnes Szatmari,R,,ROU,19.1,201594,,WC,Simona Halep,R,168,ROU,14.9,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,494,29,,
-2006-W-C10-ROU-12A-2006,Bucharest 6 10K,Clay,32,10,20060904,29,202456,,,Alexandra Cadantu,R,170,ROU,16.3,204809,1,,Maria Penkova,U,,BUL,22.1,2-6 6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,858,9,428,38
+2006-W-C10-ROU-12A-2006,Bucharest 6 10K,Clay,32,10,20060904,29,202456,,,Alexandra Cadantu Ignatik,R,170,ROU,16.3,204809,1,,Maria Penkova,U,,BUL,22.1,2-6 6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,858,9,428,38
 2006-W-C10-ROU-12A-2006,Bucharest 6 10K,Clay,32,10,20060904,30,201593,,WC,Irina Camelia Begu,R,181,ROU,16.0,201566,2,,Agnes Szatmari,R,,ROU,19.1,6-2 6-7(6) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,1223,3,494,29
-2006-W-C10-ROU-12A-2006,Bucharest 6 10K,Clay,32,10,20060904,31,202456,,,Alexandra Cadantu,R,170,ROU,16.3,201593,,WC,Irina Camelia Begu,R,181,ROU,16.0,6-3 1-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,858,9,1223,3
+2006-W-C10-ROU-12A-2006,Bucharest 6 10K,Clay,32,10,20060904,31,202456,,,Alexandra Cadantu Ignatik,R,170,ROU,16.3,201593,,WC,Irina Camelia Begu,R,181,ROU,16.0,6-3 1-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,858,9,1223,3
 2006-W-C10-RSA-01A-2006,Pretoria 10K,Hard,32,10,20061023,1,201201,1,,Surina De Beer,R,177,RSA,28.3,205187,,WC,Michelle Snyman,R,,RSA,20.3,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,569,23,,
 2006-W-C10-RSA-01A-2006,Pretoria 10K,Hard,32,10,20061023,2,209329,,,Aurelie Caffa,U,,FRA,19.0,209535,,,Alexa Geldenhuys,U,,RSA,22.0,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2006-W-C10-RSA-01A-2006,Pretoria 10K,Hard,32,10,20061023,3,202766,,,Nicole Rencken,R,,RSA,25.3,209536,,Q,Lynn Novack,U,,USA,26.8,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
