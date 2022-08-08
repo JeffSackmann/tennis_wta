@@ -120,7 +120,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-AUS-01A-2022,W60+H Traralgon,Hard,32,60,20220103,113,201597,6,,Kurumi Nara,R,155,JPN,30.0,215899,,,Simona Waltert,R,,SUI,21.0,2-6 6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,185,366,219,319
 2022-W-ITF-AUS-01A-2022,W60+H Traralgon,Hard,32,60,20220103,114,202440,,,Paula Ormaechea,R,170,ARG,29.2,221045,,WC,Annerly Poulos,R,,AUS,18.9,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,212,330,,
 2022-W-ITF-AUS-01A-2022,W60+H Traralgon,Hard,32,60,20220103,115,202414,,Q,Catherine Harrison,U,,USA,27.7,202425,,SR,Samantha Murray,R,178,GBR,34.2,6-7(2) 6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,264,264,288,239
-2022-W-ITF-AUS-01A-2022,W60+H Traralgon,Hard,32,60,20220103,116,220465,2,,Katie Volynets,R,,USA,20.0,241000,,,Sujeong Jang,U,,KOR,26.8,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,180,382,,
+2022-W-ITF-AUS-01A-2022,W60+H Traralgon,Hard,32,60,20220103,116,220465,2,,Katie Volynets,R,,USA,20.0,204294,,,Su Jeong Jang,R,,KOR,26.8,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,180,382,209,333
 2022-W-ITF-AUS-01A-2022,W60+H Traralgon,Hard,32,60,20220103,201,202659,,Q,Tereza Mrdeza,R,173,CRO,31.1,216016,1,,Xiyu Wang,L,,CHN,20.7,2-6 7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,227,313,131,582
 2022-W-ITF-AUS-01A-2022,W60+H Traralgon,Hard,32,60,20220103,202,203500,,,Sachia Vickery,R,162,USA,26.6,211814,5,,Julia Grabher,R,170,AUT,25.5,6-3 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,221,317,184,367
 2022-W-ITF-AUS-01A-2022,W60+H Traralgon,Hard,32,60,20220103,203,206294,,,Yue Yuan,U,184,CHN,30.5,213672,3,,Usue Maitane Arconada,R,165,USA,23.1,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,199,341,181,382
@@ -233,7 +233,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-AUS-05A-2022,W60 Canberra,Clay,32,60,20220321,102,203288,,,Jia Jing Lu,R,173,CHN,32.3,202454,,Q,Erika Sema,R,163,JPN,33.3,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,342,170,563,75
 2022-W-ITF-AUS-05A-2022,W60 Canberra,Clay,32,60,20220321,103,206075,,Q,Hiroko Kuwata,R,,JPN,31.2,205923,,WC,Abbie Myers,R,175,AUS,27.6,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,554,77,488,95
 2022-W-ITF-AUS-05A-2022,W60 Canberra,Clay,32,60,20220321,104,204291,5,,Na Lae Han,L,,KOR,29.7,211544,,Q,Nagi Hanatani,R,,JPN,27.0,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,210,314,410,124
-2022-W-ITF-AUS-05A-2022,W60 Canberra,Clay,32,60,20220321,105,241000,3,,Sujeong Jang,U,,KOR,27.0,211881,,Q,Olivia Tjandramulia,R,167,AUS,24.8,6-2 3-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,506,88
+2022-W-ITF-AUS-05A-2022,W60 Canberra,Clay,32,60,20220321,105,204294,3,,Su Jeong Jang,R,,KOR,27.0,211881,,Q,Olivia Tjandramulia,R,167,AUS,24.8,6-2 3-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,179,367,506,88
 2022-W-ITF-AUS-05A-2022,W60 Canberra,Clay,32,60,20220321,106,215018,,WC,Destanee Aiava,R,175,AUS,21.8,214540,,,Chihiro Muramatsu,L,161,JPN,23.8,4-6 7-6(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,446,110,352,158
 2022-W-ITF-AUS-05A-2022,W60 Canberra,Clay,32,60,20220321,107,206102,,,Ankita Raina,R,163,IND,29.1,215811,,WC,Alexandra Bozovic,R,,AUS,23.0,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,323,189,456,107
 2022-W-ITF-AUS-05A-2022,W60 Canberra,Clay,32,60,20220321,108,214040,,WC,Kimberly Birrell,R,170,AUS,23.8,213544,8,,Jana Fett,R,168,CRO,25.3,6-0 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,670,51,234,283
@@ -247,14 +247,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-AUS-05A-2022,W60 Canberra,Clay,32,60,20220321,116,215096,,,Jaimee Fourlis,R,168,AUS,22.5,201613,2,,Arina Rodionova,R,168,RUS,32.2,3-6 7-6(2) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,246,278,182,361
 2022-W-ITF-AUS-05A-2022,W60 Canberra,Clay,32,60,20220321,201,216265,,,Olivia Gadecki,R,,AUS,19.9,203288,,,Jia Jing Lu,R,173,CHN,32.3,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,202,324,342,170
 2022-W-ITF-AUS-05A-2022,W60 Canberra,Clay,32,60,20220321,202,204291,5,,Na Lae Han,L,,KOR,29.7,206075,,Q,Hiroko Kuwata,R,,JPN,31.2,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,210,314,554,77
-2022-W-ITF-AUS-05A-2022,W60 Canberra,Clay,32,60,20220321,203,241000,3,,Sujeong Jang,U,,KOR,27.0,215018,,WC,Destanee Aiava,R,175,AUS,21.8,6-4 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,,,446,110
+2022-W-ITF-AUS-05A-2022,W60 Canberra,Clay,32,60,20220321,203,204294,3,,Su Jeong Jang,R,,KOR,27.0,215018,,WC,Destanee Aiava,R,175,AUS,21.8,6-4 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,179,367,446,110
 2022-W-ITF-AUS-05A-2022,W60 Canberra,Clay,32,60,20220321,204,214040,,WC,Kimberly Birrell,R,170,AUS,23.8,206102,,,Ankita Raina,R,163,IND,29.1,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,670,51,323,189
 2022-W-ITF-AUS-05A-2022,W60 Canberra,Clay,32,60,20220321,205,206391,6,,Ellen Perez,L,169,AUS,26.4,206105,,Q,Rutuja Bhosale,R,,IND,25.9,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,196,329,516,86
 2022-W-ITF-AUS-05A-2022,W60 Canberra,Clay,32,60,20220321,206,201597,4,,Kurumi Nara,R,155,JPN,30.2,220491,,Q,Merel Hoedt,U,,NED,22.5,5-7 7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,195,331,584,72
 2022-W-ITF-AUS-05A-2022,W60 Canberra,Clay,32,60,20220321,207,220416,,,Moyuka Uchijima,R,171,JPN,20.6,216044,7,,Yuki Naito,R,,JPN,21.0,6-4 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,282,235,224,295
 2022-W-ITF-AUS-05A-2022,W60 Canberra,Clay,32,60,20220321,208,215096,,,Jaimee Fourlis,R,168,AUS,22.5,214782,,,Fernanda Contreras Gomez,R,,MEX,24.4,6-4 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,246,278,242,281
 2022-W-ITF-AUS-05A-2022,W60 Canberra,Clay,32,60,20220321,301,216265,,,Olivia Gadecki,R,,AUS,19.9,204291,5,,Na Lae Han,L,,KOR,29.7,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,202,324,210,314
-2022-W-ITF-AUS-05A-2022,W60 Canberra,Clay,32,60,20220321,302,214040,,WC,Kimberly Birrell,R,170,AUS,23.8,241000,3,,Sujeong Jang,U,,KOR,27.0,6-2 6-7(7) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,670,51,,
+2022-W-ITF-AUS-05A-2022,W60 Canberra,Clay,32,60,20220321,302,214040,,WC,Kimberly Birrell,R,170,AUS,23.8,204294,3,,Su Jeong Jang,R,,KOR,27.0,6-2 6-7(7) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,670,51,179,367
 2022-W-ITF-AUS-05A-2022,W60 Canberra,Clay,32,60,20220321,303,201597,4,,Kurumi Nara,R,155,JPN,30.2,206391,6,,Ellen Perez,L,169,AUS,26.4,5-7 6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,195,331,196,329
 2022-W-ITF-AUS-05A-2022,W60 Canberra,Clay,32,60,20220321,304,220416,,,Moyuka Uchijima,R,171,JPN,20.6,215096,,,Jaimee Fourlis,R,168,AUS,22.5,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,282,235,246,278
 2022-W-ITF-AUS-05A-2022,W60 Canberra,Clay,32,60,20220321,401,216265,,,Olivia Gadecki,R,,AUS,19.9,214040,,WC,Kimberly Birrell,R,170,AUS,23.8,0-6 6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,202,324,670,51
@@ -275,7 +275,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-AUS-06A-2022,W60 Canberra,Clay,32,60,20220328,113,204291,7,,Na Lae Han,L,,KOR,29.7,220491,,Q,Merel Hoedt,U,,NED,22.6,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-AUS-06A-2022,W60 Canberra,Clay,32,60,20220328,114,206102,,Q,Ankita Raina,R,163,IND,29.2,215037,,,Kayla Day,L,173,USA,22.4,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-AUS-06A-2022,W60 Canberra,Clay,32,60,20220328,115,210370,,Q,Sowjanya Bavisetti,L,,IND,28.2,211941,,WC,Zoe Hives,R,,AUS,25.4,2-6 6-4 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2022-W-ITF-AUS-06A-2022,W60 Canberra,Clay,32,60,20220328,116,241000,2,,Sujeong Jang,U,,KOR,27.0,206075,,Q,Hiroko Kuwata,R,,JPN,31.2,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2022-W-ITF-AUS-06A-2022,W60 Canberra,Clay,32,60,20220328,116,204294,2,,Su Jeong Jang,R,,KOR,27.0,206075,,Q,Hiroko Kuwata,R,,JPN,31.2,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,179,367,,
 2022-W-ITF-AUS-06A-2022,W60 Canberra,Clay,32,60,20220328,201,214782,,,Fernanda Contreras Gomez,R,,MEX,24.4,206362,,,Naiktha Bains,R,174,GBR,24.2,4-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-AUS-06A-2022,W60 Canberra,Clay,32,60,20220328,202,220416,,,Moyuka Uchijima,R,171,JPN,20.6,221761,,Q,Charlotte Kempenaers Pocz,U,,AUS,17.5,7-6(5) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,1090,15
 2022-W-ITF-AUS-06A-2022,W60 Canberra,Clay,32,60,20220328,203,203288,,,Jia Jing Lu,R,173,CHN,32.3,201597,4,,Kurumi Nara,R,155,JPN,30.2,2-6 6-3 2-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,,,195,331
@@ -283,15 +283,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-AUS-06A-2022,W60 Canberra,Clay,32,60,20220328,205,216265,6,,Olivia Gadecki,R,,AUS,19.9,204288,,Q,Ji Hee Choi,R,,KOR,27.1,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,794,35
 2022-W-ITF-AUS-06A-2022,W60 Canberra,Clay,32,60,20220328,206,215018,,Q,Destanee Aiava,R,175,AUS,21.8,201613,3,,Arina Rodionova,R,168,RUS,32.2,2-6 6-2 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,,,182,361
 2022-W-ITF-AUS-06A-2022,W60 Canberra,Clay,32,60,20220328,207,206102,,Q,Ankita Raina,R,163,IND,29.2,204291,7,,Na Lae Han,L,,KOR,29.7,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
-2022-W-ITF-AUS-06A-2022,W60 Canberra,Clay,32,60,20220328,208,241000,2,,Sujeong Jang,U,,KOR,27.0,210370,,Q,Sowjanya Bavisetti,L,,IND,28.2,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2022-W-ITF-AUS-06A-2022,W60 Canberra,Clay,32,60,20220328,208,204294,2,,Su Jeong Jang,R,,KOR,27.0,210370,,Q,Sowjanya Bavisetti,L,,IND,28.2,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,179,367,,
 2022-W-ITF-AUS-06A-2022,W60 Canberra,Clay,32,60,20220328,301,214782,,,Fernanda Contreras Gomez,R,,MEX,24.4,220416,,,Moyuka Uchijima,R,171,JPN,20.6,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-AUS-06A-2022,W60 Canberra,Clay,32,60,20220328,302,216044,8,,Yuki Naito,R,,JPN,21.1,203288,,,Jia Jing Lu,R,173,CHN,32.3,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,,
 2022-W-ITF-AUS-06A-2022,W60 Canberra,Clay,32,60,20220328,303,216265,6,,Olivia Gadecki,R,,AUS,19.9,215018,,Q,Destanee Aiava,R,175,AUS,21.8,6-2 RET,3,QF,,,,,,,,,,,,,,,,,,,,,,,
-2022-W-ITF-AUS-06A-2022,W60 Canberra,Clay,32,60,20220328,304,241000,2,,Sujeong Jang,U,,KOR,27.0,206102,,Q,Ankita Raina,R,163,IND,29.2,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+2022-W-ITF-AUS-06A-2022,W60 Canberra,Clay,32,60,20220328,304,204294,2,,Su Jeong Jang,R,,KOR,27.0,206102,,Q,Ankita Raina,R,163,IND,29.2,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,179,367,,
 2022-W-ITF-AUS-06A-2022,W60 Canberra,Clay,32,60,20220328,401,216044,8,,Yuki Naito,R,,JPN,21.1,214782,,,Fernanda Contreras Gomez,R,,MEX,24.4,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,,
-2022-W-ITF-AUS-06A-2022,W60 Canberra,Clay,32,60,20220328,402,241000,2,,Sujeong Jang,U,,KOR,27.0,216265,6,,Olivia Gadecki,R,,AUS,19.9,7-6(0) 7-5,3,SF,,,,,,,,,,,,,,,,,,,,,,,
-2022-W-ITF-AUS-06A-2022,W60 Canberra,Clay,32,60,20220328,501,241000,2,,Sujeong Jang,U,,KOR,27.0,216044,8,,Yuki Naito,R,,JPN,21.1,6-7(3) 6-1 6-4,3,F,,,,,,,,,,,,,,,,,,,,,,,
-2022-W-ITF-AUS-07A-2022,W25 Bendigo,Hard,32,25,20220228,101,210370,,Q,Sowjanya Bavisetti,L,,IND,28.2,241000,1,,Sujeong Jang,U,,KOR,26.9,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,649,56,,
+2022-W-ITF-AUS-06A-2022,W60 Canberra,Clay,32,60,20220328,402,204294,2,,Su Jeong Jang,R,,KOR,27.0,216265,6,,Olivia Gadecki,R,,AUS,19.9,7-6(0) 7-5,3,SF,,,,,,,,,,,,,,,,,,,,179,367,,
+2022-W-ITF-AUS-06A-2022,W60 Canberra,Clay,32,60,20220328,501,204294,2,,Su Jeong Jang,R,,KOR,27.0,216044,8,,Yuki Naito,R,,JPN,21.1,6-7(3) 6-1 6-4,3,F,,,,,,,,,,,,,,,,,,,,179,367,,
+2022-W-ITF-AUS-07A-2022,W25 Bendigo,Hard,32,25,20220228,101,210370,,Q,Sowjanya Bavisetti,L,,IND,28.2,204294,1,,Su Jeong Jang,R,,KOR,26.9,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,649,56,181,367
 2022-W-ITF-AUS-07A-2022,W25 Bendigo,Hard,32,25,20220228,102,214540,,,Chihiro Muramatsu,L,161,JPN,23.7,202639,,,Akiko Omae,R,162,JPN,29.0,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,360,154,404,131
 2022-W-ITF-AUS-07A-2022,W25 Bendigo,Hard,32,25,20220228,103,215811,,,Alexandra Bozovic,R,,AUS,23.0,220735,,WC,Tina Nadine Smith,L,,AUS,19.7,2-6 6-0 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,455,109,581,73
 2022-W-ITF-AUS-07A-2022,W25 Bendigo,Hard,32,25,20220228,104,206391,5,,Ellen Perez,L,169,AUS,26.3,204288,,Q,Ji Hee Choi,R,,KOR,27.0,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,213,311,816,34
@@ -337,7 +337,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-AUS-08A-2022,W25 Bendigo,Hard,32,25,20220307,113,215096,7,,Jaimee Fourlis,R,168,AUS,22.4,206362,,,Naiktha Bains,R,174,GBR,24.2,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,294,225,321,194
 2022-W-ITF-AUS-08A-2022,W25 Bendigo,Hard,32,25,20220307,114,206105,,Q,Rutuja Bhosale,R,,IND,25.9,216579,,,Weronika Falkowska,R,,POL,21.7,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,509,89,398,132
 2022-W-ITF-AUS-08A-2022,W25 Bendigo,Hard,32,25,20220307,115,206075,,Q,Hiroko Kuwata,R,,JPN,31.2,203288,,,Jia Jing Lu,R,173,CHN,32.2,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,537,83,322,194
-2022-W-ITF-AUS-08A-2022,W25 Bendigo,Hard,32,25,20220307,116,241000,2,,Sujeong Jang,U,,KOR,26.9,202639,,,Akiko Omae,R,162,JPN,29.1,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,401,131
+2022-W-ITF-AUS-08A-2022,W25 Bendigo,Hard,32,25,20220307,116,204294,2,,Su Jeong Jang,R,,KOR,26.9,202639,,,Akiko Omae,R,162,JPN,29.1,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,178,367,401,131
 2022-W-ITF-AUS-08A-2022,W25 Bendigo,Hard,32,25,20220307,201,201613,1,,Arina Rodionova,R,168,RUS,32.2,202454,,Q,Erika Sema,R,163,JPN,33.2,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,177,368,594,70
 2022-W-ITF-AUS-08A-2022,W25 Bendigo,Hard,32,25,20220307,202,220416,8,,Moyuka Uchijima,R,171,JPN,20.5,220491,,Q,Merel Hoedt,U,,NED,22.5,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,299,220,600,68
 2022-W-ITF-AUS-08A-2022,W25 Bendigo,Hard,32,25,20220307,203,206391,4,,Ellen Perez,L,169,AUS,26.4,221124,,LL,Himeno Sakatsume,U,,JPN,20.5,7-6(2) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,212,311,613,65
@@ -345,7 +345,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-AUS-08A-2022,W25 Bendigo,Hard,32,25,20220307,205,215018,,,Destanee Aiava,R,175,AUS,21.8,211846,,,Kyoka Okamura,R,,JPN,26.4,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,502,93,355,157
 2022-W-ITF-AUS-08A-2022,W25 Bendigo,Hard,32,25,20220307,206,204291,3,,Na Lae Han,L,,KOR,29.6,214540,,,Chihiro Muramatsu,L,161,JPN,23.7,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,209,314,359,154
 2022-W-ITF-AUS-08A-2022,W25 Bendigo,Hard,32,25,20220307,207,215096,7,,Jaimee Fourlis,R,168,AUS,22.4,206105,,Q,Rutuja Bhosale,R,,IND,25.9,6-7(1) 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,294,225,509,89
-2022-W-ITF-AUS-08A-2022,W25 Bendigo,Hard,32,25,20220307,208,206075,,Q,Hiroko Kuwata,R,,JPN,31.2,241000,2,,Sujeong Jang,U,,KOR,26.9,0-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,537,83,,
+2022-W-ITF-AUS-08A-2022,W25 Bendigo,Hard,32,25,20220307,208,206075,,Q,Hiroko Kuwata,R,,JPN,31.2,204294,2,,Su Jeong Jang,R,,KOR,26.9,0-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,537,83,178,367
 2022-W-ITF-AUS-08A-2022,W25 Bendigo,Hard,32,25,20220307,301,220416,8,,Moyuka Uchijima,R,171,JPN,20.5,201613,1,,Arina Rodionova,R,168,RUS,32.2,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,299,220,177,368
 2022-W-ITF-AUS-08A-2022,W25 Bendigo,Hard,32,25,20220307,302,216265,6,,Olivia Gadecki,R,,AUS,19.8,206391,4,,Ellen Perez,L,169,AUS,26.4,6-1 6-0,3,QF,,,,,,,,,,,,,,,,,,,,250,269,212,311
 2022-W-ITF-AUS-08A-2022,W25 Bendigo,Hard,32,25,20220307,303,215018,,,Destanee Aiava,R,175,AUS,21.8,204291,3,,Na Lae Han,L,,KOR,29.6,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,502,93,209,314
@@ -3632,7 +3632,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2022-W-ITF-GBR-10A-2022,W100 Ilkley,Grass,32,100,20220613,103,201605,,Q,Mandy Minella,R,180,LUX,36.5,211878,,,Lizette Cabrera,R,167,AUS,24.4,6-1 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,271,251,188,362
 2022-W-ITF-GBR-10A-2022,W100 Ilkley,Grass,32,100,20220613,104,203513,7,,Robin Anderson,R,160,USA,29.1,220416,,,Moyuka Uchijima,R,171,JPN,20.8,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,138,458,178,376
 2022-W-ITF-GBR-10A-2022,W100 Ilkley,Grass,32,100,20220613,105,220465,3,,Katie Volynets,R,,USA,20.4,211598,,Q,Anna Brogan,U,,GBR,24.8,3-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,121,526,508,90
-2022-W-ITF-GBR-10A-2022,W100 Ilkley,Grass,32,100,20220613,106,210738,,Q,Aldila Sutjiadi,R,170,INA,27.1,241000,,,Sujeong Jang,U,,KOR,27.2,4-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,430,120,,
+2022-W-ITF-GBR-10A-2022,W100 Ilkley,Grass,32,100,20220613,106,210738,,Q,Aldila Sutjiadi,R,170,INA,27.1,204294,,,Su Jeong Jang,R,,KOR,27.2,4-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,430,120,157,414
 2022-W-ITF-GBR-10A-2022,W100 Ilkley,Grass,32,100,20220613,107,211880,,Q,Priscilla Hon,R,171,AUS,24.0,211316,,,Jessika Ponchet,R,,FRA,25.7,4-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,198,347,193,354
 2022-W-ITF-GBR-10A-2022,W100 Ilkley,Grass,32,100,20220613,108,216081,,,Maja Chwalinska,L,,POL,20.6,214405,6,,Mirjam Bjorklund,U,,SWE,23.8,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,185,366,124,518
 2022-W-ITF-GBR-10A-2022,W100 Ilkley,Grass,32,100,20220613,109,215988,5,,Mai Hontama,R,,JPN,22.7,203509,,Q,Diana Marcinkevica,R,170,LAT,29.8,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,136,466,308,210
