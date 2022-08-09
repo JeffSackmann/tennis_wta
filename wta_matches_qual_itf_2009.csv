@@ -850,7 +850,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-W-C10-BEL-01A-2009,Brussels 10K,Clay,32,10,20090706,12,201621,4,,Mona Barthel,R,185,GER,18.9,202430,,Q,Alize Lim,R,173,FRA,18.9,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,502,62,797,23
 2009-W-C10-BEL-01A-2009,Brussels 10K,Clay,32,10,20090706,13,203322,7,,Aleksandra Grela,U,,POL,17.6,203508,,,Sheila Solsona Carcasona,R,,ESP,22.1,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,494,65,678,35
 2009-W-C10-BEL-01A-2009,Brussels 10K,Clay,32,10,20090706,14,203443,,,Sofie Oyen,R,160,BEL,17.4,205322,,Q,Josanne Van Bennekom,R,,NED,22.1,6-1 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,697,33,1070,7
-2009-W-C10-BEL-01A-2009,Brussels 10K,Clay,32,10,20090706,15,202628,,Q,Maryna Zanevska,R,175,UKR,15.8,205857,,WC,Marine Verbeken,R,,BEL,18.5,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2009-W-C10-BEL-01A-2009,Brussels 10K,Clay,32,10,20090706,15,202628,,Q,Maryna Zanevska,R,175,BEL,15.8,205857,,WC,Marine Verbeken,R,,BEL,18.5,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2009-W-C10-BEL-01A-2009,Brussels 10K,Clay,32,10,20090706,16,202584,2,,Leonie Mekel,R,,NED,25.6,202633,,Q,Nina Zander,R,170,GER,19.4,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,409,97,967,12
 2009-W-C10-BEL-01A-2009,Brussels 10K,Clay,32,10,20090706,17,202876,,,Simona Dobra,R,,CZE,22.0,202368,,,Tanja Ostertag,R,,GER,21.7,6-3 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,559,52,694,34
 2009-W-C10-BEL-01A-2009,Brussels 10K,Clay,32,10,20090706,18,201565,5,,Katarzyna Piter,R,173,POL,18.3,202791,,,Debbrich Feys,R,,BEL,24.5,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,531,58,754,27
@@ -859,14 +859,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-W-C10-BEL-01A-2009,Brussels 10K,Clay,32,10,20090706,21,202880,,Q,Soetkin Van Deun,R,,BEL,20.8,202544,6,,Vivienne Vierin,R,,ITA,18.2,6-4 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,936,14,535,58
 2009-W-C10-BEL-01A-2009,Brussels 10K,Clay,32,10,20090706,22,201621,4,,Mona Barthel,R,185,GER,18.9,202481,,Q,Chi Chi Scholl,R,,USA,17.0,7-6(5) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,502,62,793,23
 2009-W-C10-BEL-01A-2009,Brussels 10K,Clay,32,10,20090706,23,203443,,,Sofie Oyen,R,160,BEL,17.4,203322,7,,Aleksandra Grela,U,,POL,17.6,6-4 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,697,33,494,65
-2009-W-C10-BEL-01A-2009,Brussels 10K,Clay,32,10,20090706,24,202628,,Q,Maryna Zanevska,R,175,UKR,15.8,202584,2,,Leonie Mekel,R,,NED,25.6,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,409,97
+2009-W-C10-BEL-01A-2009,Brussels 10K,Clay,32,10,20090706,24,202628,,Q,Maryna Zanevska,R,175,BEL,15.8,202584,2,,Leonie Mekel,R,,NED,25.6,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,409,97
 2009-W-C10-BEL-01A-2009,Brussels 10K,Clay,32,10,20090706,25,201565,5,,Katarzyna Piter,R,173,POL,18.3,202876,,,Simona Dobra,R,,CZE,22.0,7-6(10) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,531,58,559,52
 2009-W-C10-BEL-01A-2009,Brussels 10K,Clay,32,10,20090706,26,203284,8,,Katerina Vankova,L,,CZE,19.5,206250,,WC,Michaela Boev,U,,BEL,18.0,6-2 4-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,540,57,,
 2009-W-C10-BEL-01A-2009,Brussels 10K,Clay,32,10,20090706,27,201621,4,,Mona Barthel,R,185,GER,18.9,202880,,Q,Soetkin Van Deun,R,,BEL,20.8,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,502,62,936,14
-2009-W-C10-BEL-01A-2009,Brussels 10K,Clay,32,10,20090706,28,202628,,Q,Maryna Zanevska,R,175,UKR,15.8,203443,,,Sofie Oyen,R,160,BEL,17.4,4-6 6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,697,33
+2009-W-C10-BEL-01A-2009,Brussels 10K,Clay,32,10,20090706,28,202628,,Q,Maryna Zanevska,R,175,BEL,15.8,203443,,,Sofie Oyen,R,160,BEL,17.4,4-6 6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,697,33
 2009-W-C10-BEL-01A-2009,Brussels 10K,Clay,32,10,20090706,29,201565,5,,Katarzyna Piter,R,173,POL,18.3,203284,8,,Katerina Vankova,L,,CZE,19.5,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,531,58,540,57
-2009-W-C10-BEL-01A-2009,Brussels 10K,Clay,32,10,20090706,30,202628,,Q,Maryna Zanevska,R,175,UKR,15.8,201621,4,,Mona Barthel,R,185,GER,18.9,6-7(3) 6-1 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,,,,502,62
-2009-W-C10-BEL-01A-2009,Brussels 10K,Clay,32,10,20090706,31,202628,,Q,Maryna Zanevska,R,175,UKR,15.8,201565,5,,Katarzyna Piter,R,173,POL,18.3,0-6 7-5 7-5,3,F,,,,,,,,,,,,,,,,,,,,,,531,58
+2009-W-C10-BEL-01A-2009,Brussels 10K,Clay,32,10,20090706,30,202628,,Q,Maryna Zanevska,R,175,BEL,15.8,201621,4,,Mona Barthel,R,185,GER,18.9,6-7(3) 6-1 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,,,,502,62
+2009-W-C10-BEL-01A-2009,Brussels 10K,Clay,32,10,20090706,31,202628,,Q,Maryna Zanevska,R,175,BEL,15.8,201565,5,,Katarzyna Piter,R,173,POL,18.3,0-6 7-5 7-5,3,F,,,,,,,,,,,,,,,,,,,,,,531,58
 2009-W-C10-BEL-02A-2009,Bree 10K,Clay,32,10,20090727,1,202592,,,Julia Babilon,R,,GER,25.0,202869,1,,Nicole Thyssen,R,176,NED,21.1,3-6 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,541,55,344,123
 2009-W-C10-BEL-02A-2009,Bree 10K,Clay,32,10,20090727,2,205856,,WC,Anouk Delefortrie,R,,BEL,18.6,202375,,,Emilie Bacquet,U,,FRA,25.2,1-6 7-6(5) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,992,10,652,36
 2009-W-C10-BEL-02A-2009,Bree 10K,Clay,32,10,20090727,3,202621,,,Elixane Lechemia,L,,FRA,17.8,203379,,,Marina Melnikova,R,173,RUS,20.4,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,600,43,534,56
@@ -882,7 +882,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-W-C10-BEL-02A-2009,Bree 10K,Clay,32,10,20090727,13,203487,,Q,Andrea Ka,R,,FRA,17.2,202542,7,,Valentina Sulpizio,R,,ITA,24.9,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,962,11,486,70
 2009-W-C10-BEL-02A-2009,Bree 10K,Clay,32,10,20090727,14,205577,,,Marcella Koek,R,,NED,21.1,203443,,,Sofie Oyen,R,160,BEL,17.4,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,683,34,639,37
 2009-W-C10-BEL-02A-2009,Bree 10K,Clay,32,10,20090727,15,204243,,Q,Tara Wigan,R,,GBR,23.3,205322,,LL,Josanne Van Bennekom,R,,NED,22.1,6-4 2-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1078,6,879,16
-2009-W-C10-BEL-02A-2009,Bree 10K,Clay,32,10,20090727,16,202628,,Q,Maryna Zanevska,R,175,UKR,15.9,202135,2,,Vanessa Henke,R,,GER,28.5,5-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,521,58
+2009-W-C10-BEL-02A-2009,Bree 10K,Clay,32,10,20090727,16,202628,,Q,Maryna Zanevska,R,175,BEL,15.9,202135,2,,Vanessa Henke,R,,GER,28.5,5-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,521,58
 2009-W-C10-BEL-02A-2009,Bree 10K,Clay,32,10,20090727,17,202592,,,Julia Babilon,R,,GER,25.0,205856,,WC,Anouk Delefortrie,R,,BEL,18.6,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,541,55,992,10
 2009-W-C10-BEL-02A-2009,Bree 10K,Clay,32,10,20090727,18,202621,,,Elixane Lechemia,L,,FRA,17.8,210008,,Q,Tereza Bekerova,R,,CZE,18.0,6-3 1-6 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,13,600,43,,
 2009-W-C10-BEL-02A-2009,Bree 10K,Clay,32,10,20090727,19,202428,,Q,Kiki Bertens,R,182,NED,17.6,202658,,,Audrey Bergot,R,175,FRA,24.4,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,859,17,557,53
@@ -890,13 +890,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-W-C10-BEL-02A-2009,Bree 10K,Clay,32,10,20090727,21,203522,,,Yevgeniya Kryvoruchko,R,,UKR,18.3,202481,,Q,Chi Chi Scholl,R,,USA,17.0,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,726,30,765,25
 2009-W-C10-BEL-02A-2009,Bree 10K,Clay,32,10,20090727,22,202420,,WC,An Sophie Mestach,R,170,BEL,15.3,204376,,WC,Demi Schuurs,R,170,NED,15.9,6-3 5-7 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1016,8,,
 2009-W-C10-BEL-02A-2009,Bree 10K,Clay,32,10,20090727,23,203487,,Q,Andrea Ka,R,,FRA,17.2,205577,,,Marcella Koek,R,,NED,21.1,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,962,11,683,34
-2009-W-C10-BEL-02A-2009,Bree 10K,Clay,32,10,20090727,24,202628,,Q,Maryna Zanevska,R,175,UKR,15.9,204243,,Q,Tara Wigan,R,,GBR,23.3,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,1078,6
+2009-W-C10-BEL-02A-2009,Bree 10K,Clay,32,10,20090727,24,202628,,Q,Maryna Zanevska,R,175,BEL,15.9,204243,,Q,Tara Wigan,R,,GBR,23.3,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,1078,6
 2009-W-C10-BEL-02A-2009,Bree 10K,Clay,32,10,20090727,25,202592,,,Julia Babilon,R,,GER,25.0,202621,,,Elixane Lechemia,L,,FRA,17.8,6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,541,55,600,43
 2009-W-C10-BEL-02A-2009,Bree 10K,Clay,32,10,20090727,26,202428,,Q,Kiki Bertens,R,182,NED,17.6,203284,5,,Katerina Vankova,L,,CZE,19.5,6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,859,17,477,71
 2009-W-C10-BEL-02A-2009,Bree 10K,Clay,32,10,20090727,27,203522,,,Yevgeniya Kryvoruchko,R,,UKR,18.3,202420,,WC,An Sophie Mestach,R,170,BEL,15.3,4-6 6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,726,30,1016,8
-2009-W-C10-BEL-02A-2009,Bree 10K,Clay,32,10,20090727,28,202628,,Q,Maryna Zanevska,R,175,UKR,15.9,203487,,Q,Andrea Ka,R,,FRA,17.2,4-6 6-0 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,962,11
+2009-W-C10-BEL-02A-2009,Bree 10K,Clay,32,10,20090727,28,202628,,Q,Maryna Zanevska,R,175,BEL,15.9,203487,,Q,Andrea Ka,R,,FRA,17.2,4-6 6-0 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,962,11
 2009-W-C10-BEL-02A-2009,Bree 10K,Clay,32,10,20090727,29,202592,,,Julia Babilon,R,,GER,25.0,202428,,Q,Kiki Bertens,R,182,NED,17.6,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,541,55,859,17
-2009-W-C10-BEL-02A-2009,Bree 10K,Clay,32,10,20090727,30,203522,,,Yevgeniya Kryvoruchko,R,,UKR,18.3,202628,,Q,Maryna Zanevska,R,175,UKR,15.9,6-1 6-0,3,SF,,,,,,,,,,,,,,,,,,,,726,30,,
+2009-W-C10-BEL-02A-2009,Bree 10K,Clay,32,10,20090727,30,203522,,,Yevgeniya Kryvoruchko,R,,UKR,18.3,202628,,Q,Maryna Zanevska,R,175,BEL,15.9,6-1 6-0,3,SF,,,,,,,,,,,,,,,,,,,,726,30,,
 2009-W-C10-BEL-02A-2009,Bree 10K,Clay,32,10,20090727,31,202592,,,Julia Babilon,R,,GER,25.0,203522,,,Yevgeniya Kryvoruchko,R,,UKR,18.3,6-3 7-5,3,F,,,,,,,,,,,,,,,,,,,,541,55,726,30
 2009-W-C10-BEL-03A-2009,Rebecq 10K,Clay,32,10,20090803,1,202535,1,,Karla Mraz,R,,FRA,27.0,206250,,WC,Michaela Boev,U,,BEL,18.0,6-2 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,275,164,,
 2009-W-C10-BEL-03A-2009,Rebecq 10K,Clay,32,10,20090803,2,202480,,Q,Richel Hogenkamp,R,168,NED,17.2,202621,,,Elixane Lechemia,L,,FRA,17.9,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,609,42
@@ -940,7 +940,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-W-C10-BIH-01A-2009,Mostar 10K,Clay,32,10,20090504,9,205732,,WC,Mara Zovko,U,,CRO,19.2,205731,5,,Ema Polic,R,,SRB,18.6,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1085,6,761,26
 2009-W-C10-BIH-01A-2009,Mostar 10K,Clay,32,10,20090504,10,203435,,,Dalila Jakupovic,R,178,SLO,18.1,203350,,,Nives Pavlovic,U,,SRB,19.3,4-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,902,15,1085,6
 2009-W-C10-BIH-01A-2009,Mostar 10K,Clay,32,10,20090504,11,203546,,,Anja Prislan,R,,SLO,23.3,210273,,Q,Sara Pilic,U,,ITA,16.1,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,10,841,18,,
-2009-W-C10-BIH-01A-2009,Mostar 10K,Clay,32,10,20090504,12,202878,4,,Indire Akiki,R,,CRO,17.8,202628,,WC,Maryna Zanevska,R,175,UKR,15.6,2-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,720,30,,
+2009-W-C10-BIH-01A-2009,Mostar 10K,Clay,32,10,20090504,12,202878,4,,Indire Akiki,R,,CRO,17.8,202628,,WC,Maryna Zanevska,R,175,BEL,15.6,2-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,720,30,,
 2009-W-C10-BIH-01A-2009,Mostar 10K,Clay,32,10,20090504,13,205719,8,,Barbora Krtickova,R,,CZE,18.5,203456,,Q,Jelena Simic,U,,BIH,17.2,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,779,24,,
 2009-W-C10-BIH-01A-2009,Mostar 10K,Clay,32,10,20090504,14,205392,,,Alessia Bertoia,U,,ITA,19.9,209860,,Q,Zeljka Gavrilovic,U,,SRB,18.9,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,966,11,,
 2009-W-C10-BIH-01A-2009,Mostar 10K,Clay,32,10,20090504,15,203429,,Q,Tamara Curovic,R,,SRB,14.5,203349,,WC,Milana Spremo,R,,SRB,17.4,3-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -2456,7 +2456,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-W-C10-ESP-15A-2009,Les Franqueses Del Valles 10K,Hard,32,10,20091005,10,210485,,Q,Melina Gonzalez,R,,SUI,16.4,205736,,,Carmen Lopez Rueda,R,,ESP,19.7,6-4 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,782,23
 2009-W-C10-ESP-15A-2009,Les Franqueses Del Valles 10K,Hard,32,10,20091005,11,205582,,WC,Farah Abougeib Selo,U,,ESP,19.5,203523,,Q,Isabel Rapisarda Calvo,U,,ESP,18.3,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1070,6,1051,6
 2009-W-C10-ESP-15A-2009,Les Franqueses Del Valles 10K,Hard,32,10,20091005,12,205723,,,Anna Zaja,R,183,GER,18.2,202849,3,,Sara Del Barrio Aragon,R,,ESP,22.4,1-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,776,23,498,60
-2009-W-C10-ESP-15A-2009,Les Franqueses Del Valles 10K,Hard,32,10,20091005,13,202628,,Q,Maryna Zanevska,R,175,UKR,16.1,205842,8,,Carla Lucero,R,,ARG,18.9,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,594,44
+2009-W-C10-ESP-15A-2009,Les Franqueses Del Valles 10K,Hard,32,10,20091005,13,202628,,Q,Maryna Zanevska,R,175,BEL,16.1,205842,8,,Carla Lucero,R,,ARG,18.9,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,594,44
 2009-W-C10-ESP-15A-2009,Les Franqueses Del Valles 10K,Hard,32,10,20091005,14,203405,,,Ana Belzunce Crompin,U,,ESP,19.2,203508,,,Sheila Solsona Carcasona,R,,ESP,22.4,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,701,30,740,26
 2009-W-C10-ESP-15A-2009,Les Franqueses Del Valles 10K,Hard,32,10,20091005,15,202640,,SE,Irina Ramialison,R,158,FRA,18.3,210486,,WC,Helena Martinez Soler,R,,ESP,17.5,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2009-W-C10-ESP-15A-2009,Les Franqueses Del Valles 10K,Hard,32,10,20091005,16,203465,2,,Amanda Carreras,R,,GBR,19.3,202469,,Q,Garbine Muguruza,R,182,ESP,15.9,2-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,417,87,733,26
@@ -2466,12 +2466,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-W-C10-ESP-15A-2009,Les Franqueses Del Valles 10K,Hard,32,10,20091005,20,204237,5,,Diana Arutyunova,L,,RUS,24.0,203522,,,Yevgeniya Kryvoruchko,R,,UKR,18.5,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,569,48,607,42
 2009-W-C10-ESP-15A-2009,Les Franqueses Del Valles 10K,Hard,32,10,20091005,21,202869,6,,Nicole Thyssen,R,176,NED,21.3,210485,,Q,Melina Gonzalez,R,,SUI,16.4,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,564,49,,
 2009-W-C10-ESP-15A-2009,Les Franqueses Del Valles 10K,Hard,32,10,20091005,22,205582,,WC,Farah Abougeib Selo,U,,ESP,19.5,205723,,,Anna Zaja,R,183,GER,18.2,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1070,6,776,23
-2009-W-C10-ESP-15A-2009,Les Franqueses Del Valles 10K,Hard,32,10,20091005,23,202628,,Q,Maryna Zanevska,R,175,UKR,16.1,203405,,,Ana Belzunce Crompin,U,,ESP,19.2,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,701,30
+2009-W-C10-ESP-15A-2009,Les Franqueses Del Valles 10K,Hard,32,10,20091005,23,202628,,Q,Maryna Zanevska,R,175,BEL,16.1,203405,,,Ana Belzunce Crompin,U,,ESP,19.2,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,701,30
 2009-W-C10-ESP-15A-2009,Les Franqueses Del Valles 10K,Hard,32,10,20091005,24,202640,,SE,Irina Ramialison,R,158,FRA,18.3,203465,2,,Amanda Carreras,R,,GBR,19.3,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,417,87
 2009-W-C10-ESP-15A-2009,Les Franqueses Del Valles 10K,Hard,32,10,20091005,25,203453,1,,Aranza Salut,R,170,ARG,18.2,203463,,Q,Nuria Parrizas Diaz,R,167,ESP,18.2,3-6 6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,372,103,846,17
 2009-W-C10-ESP-15A-2009,Les Franqueses Del Valles 10K,Hard,32,10,20091005,26,202603,4,,Cindy Chala,L,,FRA,18.3,204237,5,,Diana Arutyunova,L,,RUS,24.0,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,526,56,569,48
 2009-W-C10-ESP-15A-2009,Les Franqueses Del Valles 10K,Hard,32,10,20091005,27,205582,,WC,Farah Abougeib Selo,U,,ESP,19.5,202869,6,,Nicole Thyssen,R,176,NED,21.3,6-2 6-7(4) 7-5,3,QF,,,,,,,,,,,,,,,,,,,,1070,6,564,49
-2009-W-C10-ESP-15A-2009,Les Franqueses Del Valles 10K,Hard,32,10,20091005,28,202640,,SE,Irina Ramialison,R,158,FRA,18.3,202628,,Q,Maryna Zanevska,R,175,UKR,16.1,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+2009-W-C10-ESP-15A-2009,Les Franqueses Del Valles 10K,Hard,32,10,20091005,28,202640,,SE,Irina Ramialison,R,158,FRA,18.3,202628,,Q,Maryna Zanevska,R,175,BEL,16.1,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,,
 2009-W-C10-ESP-15A-2009,Les Franqueses Del Valles 10K,Hard,32,10,20091005,29,202603,4,,Cindy Chala,L,,FRA,18.3,203453,1,,Aranza Salut,R,170,ARG,18.2,6-1 6-3,3,SF,,,,,,,,,,,,,,,,,,,,526,56,372,103
 2009-W-C10-ESP-15A-2009,Les Franqueses Del Valles 10K,Hard,32,10,20091005,30,202640,,SE,Irina Ramialison,R,158,FRA,18.3,205582,,WC,Farah Abougeib Selo,U,,ESP,19.5,6-1 5-7 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,1070,6
 2009-W-C10-ESP-15A-2009,Les Franqueses Del Valles 10K,Hard,32,10,20091005,31,202640,,SE,Irina Ramialison,R,158,FRA,18.3,202603,4,,Cindy Chala,L,,FRA,18.3,3-6 6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,,,526,56
@@ -9233,7 +9233,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-W-C25-CZE-02A-2009,Prerov 25K,Hard,32,25,20091130,4,202429,8,,Camila Giorgi,R,168,ITA,17.9,201356,,,Eva Birnerova,R,170,CZE,25.2,7-6(2) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,229,225,252,197
 2009-W-C25-CZE-02A-2009,Prerov 25K,Hard,32,25,20091130,5,201561,4,,Claire Feuerstein,L,178,FRA,23.7,204265,,WC,Martina Borecka,R,,CZE,18.5,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,191,293,834,16
 2009-W-C25-CZE-02A-2009,Prerov 25K,Hard,32,25,20091130,6,202438,,Q,Ani Mijacika,R,,CRO,22.4,205781,,WC,Klara Koprivova,R,,CZE,17.7,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,265,179,,
-2009-W-C25-CZE-02A-2009,Prerov 25K,Hard,32,25,20091130,7,202628,,Q,Maryna Zanevska,R,175,UKR,16.2,201621,,Q,Mona Barthel,R,185,GER,19.3,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,766,22,356,107
+2009-W-C25-CZE-02A-2009,Prerov 25K,Hard,32,25,20091130,7,202628,,Q,Maryna Zanevska,R,175,BEL,16.2,201621,,Q,Mona Barthel,R,185,GER,19.3,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,766,22,356,107
 2009-W-C25-CZE-02A-2009,Prerov 25K,Hard,32,25,20091130,8,201594,6,,Simona Halep,R,168,ROU,18.1,203460,,WC,Martina Kubicikova,R,,CZE,17.9,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,187,299,809,18
 2009-W-C25-CZE-02A-2009,Prerov 25K,Hard,32,25,20091130,9,200764,7,,Elena Bovina,R,189,RUS,26.7,201662,,,Karolina Pliskova,R,184,CZE,17.6,6-7(5) 7-6(5) 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,219,235,220,234
 2009-W-C25-CZE-02A-2009,Prerov 25K,Hard,32,25,20091130,10,201565,,Q,Katarzyna Piter,R,173,POL,18.7,205647,,WC,Tereza Malikova,R,,CZE,18.3,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,6,345,112,,
@@ -9246,13 +9246,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-W-C25-CZE-02A-2009,Prerov 25K,Hard,32,25,20091130,17,202911,,,Anastasiya Vasylyeva,L,182,UKR,17.8,201484,1,,Sandra Zahlavova,U,,CZE,24.1,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,282,165,98,644
 2009-W-C25-CZE-02A-2009,Prerov 25K,Hard,32,25,20091130,18,202429,8,,Camila Giorgi,R,168,ITA,17.9,201660,,,Tereza Hladikova,R,,CZE,21.6,6-1 2-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,229,225,291,155
 2009-W-C25-CZE-02A-2009,Prerov 25K,Hard,32,25,20091130,19,201561,4,,Claire Feuerstein,L,178,FRA,23.7,202438,,Q,Ani Mijacika,R,,CRO,22.4,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,191,293,265,179
-2009-W-C25-CZE-02A-2009,Prerov 25K,Hard,32,25,20091130,20,202628,,Q,Maryna Zanevska,R,175,UKR,16.2,201594,6,,Simona Halep,R,168,ROU,18.1,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,766,22,187,299
+2009-W-C25-CZE-02A-2009,Prerov 25K,Hard,32,25,20091130,20,202628,,Q,Maryna Zanevska,R,175,BEL,16.2,201594,6,,Simona Halep,R,168,ROU,18.1,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,766,22,187,299
 2009-W-C25-CZE-02A-2009,Prerov 25K,Hard,32,25,20091130,21,200764,7,,Elena Bovina,R,189,RUS,26.7,201565,,Q,Katarzyna Piter,R,173,POL,18.7,6-2 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,219,235,345,112
 2009-W-C25-CZE-02A-2009,Prerov 25K,Hard,32,25,20091130,22,201671,3,,Ksenia Lykina,R,165,RUS,19.4,202348,,,Lina Stanciute,R,,LTU,23.8,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,214,241,255,194
 2009-W-C25-CZE-02A-2009,Prerov 25K,Hard,32,25,20091130,23,201587,5,,Bojana Jovanovski,R,175,SRB,17.9,202894,,Q,Justine Ozga,R,,GER,21.8,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,154,374,318,128
 2009-W-C25-CZE-02A-2009,Prerov 25K,Hard,32,25,20091130,24,200765,2,,Katalin Marosi,R,178,HUN,30.0,202659,,,Tereza Mrdeza,R,173,CRO,19.0,3-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,173,336,295,151
 2009-W-C25-CZE-02A-2009,Prerov 25K,Hard,32,25,20091130,25,202911,,,Anastasiya Vasylyeva,L,182,UKR,17.8,202429,8,,Camila Giorgi,R,168,ITA,17.9,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,282,165,229,225
-2009-W-C25-CZE-02A-2009,Prerov 25K,Hard,32,25,20091130,26,201561,4,,Claire Feuerstein,L,178,FRA,23.7,202628,,Q,Maryna Zanevska,R,175,UKR,16.2,4-6 6-1 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,191,293,766,22
+2009-W-C25-CZE-02A-2009,Prerov 25K,Hard,32,25,20091130,26,201561,4,,Claire Feuerstein,L,178,FRA,23.7,202628,,Q,Maryna Zanevska,R,175,BEL,16.2,4-6 6-1 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,191,293,766,22
 2009-W-C25-CZE-02A-2009,Prerov 25K,Hard,32,25,20091130,27,201671,3,,Ksenia Lykina,R,165,RUS,19.4,200764,7,,Elena Bovina,R,189,RUS,26.7,3-6 6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,214,241,219,235
 2009-W-C25-CZE-02A-2009,Prerov 25K,Hard,32,25,20091130,28,200765,2,,Katalin Marosi,R,178,HUN,30.0,201587,5,,Bojana Jovanovski,R,175,SRB,17.9,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,173,336,154,374
 2009-W-C25-CZE-02A-2009,Prerov 25K,Hard,32,25,20091130,29,201561,4,,Claire Feuerstein,L,178,FRA,23.7,202911,,,Anastasiya Vasylyeva,L,182,UKR,17.8,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,191,293,282,165
@@ -14716,7 +14716,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-W-PR-GBR-01A-2009,Eastbourne,Grass,32,P,20090615,2,201450,,,Tsvetana Pironkova,R,180,BUL,21.7,201477,,,Stephanie Dubois,R,162,CAN,22.6,5-7 6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,85,789,104,622
 2009-W-PR-GBR-01A-2009,Eastbourne,Grass,32,P,20090615,3,201454,,,Akgul Amanmuradova,R,190,UZB,24.9,201444,,,Su Wei Hsieh,R,169,TPE,23.4,6-4 2-6 7-6(2),3,Q1,,,,,,,,,,,,,,,,,,,,131,490,140,464
 2009-W-PR-GBR-01A-2009,Eastbourne,Grass,32,P,20090615,4,201457,7,,Jarmila Gajdosova,R,174,AUS,22.1,201417,,,Marta Domachowska,R,176,POL,23.4,3-6 6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,66,951,112,587
-2009-W-PR-GBR-01A-2009,Eastbourne,Grass,32,P,20090615,5,201505,2,,Ekaterina Makarova,L,178,RUS,21.0,201569,,WC,Georgie Gent,R,165,GBR,21.4,6-4 7-6(2),3,Q1,,,,,,,,,,,,,,,,,,,,46,1325,188,314
+2009-W-PR-GBR-01A-2009,Eastbourne,Grass,32,P,20090615,5,201505,2,,Kate Makarova,L,178,RUS,21.0,201569,,WC,Georgie Gent,R,165,GBR,21.4,6-4 7-6(2),3,Q1,,,,,,,,,,,,,,,,,,,,46,1325,188,314
 2009-W-PR-GBR-01A-2009,Eastbourne,Grass,32,P,20090615,6,201396,,,Katie Obrien,R,167,GBR,23.1,201648,,WC,Naomi Broady,R,189,GBR,19.2,7-5 4-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,108,600,357,117
 2009-W-PR-GBR-01A-2009,Eastbourne,Grass,32,P,20090615,7,201284,,A,Tatiana Poutchek,R,176,BLR,30.4,201420,,,Sania Mirza,R,153,IND,22.5,6-4 3-2 RET,3,Q1,,,,,,,,,,,,,,,,,,,,180,324,78,825
 2009-W-PR-GBR-01A-2009,Eastbourne,Grass,32,P,20090615,8,201452,,,Lourdes Dominguez Lino,R,163,ESP,28.2,201485,8,,Alla Kudryavtseva,R,178,RUS,21.6,7-5 0-0 RET,3,Q1,,,,,,,,,,,,,,,,,,,,70,890,68,944
@@ -14730,14 +14730,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2009-W-PR-GBR-01A-2009,Eastbourne,Grass,32,P,20090615,16,201524,,,Urszula Radwanska,R,177,POL,18.5,201503,6,,Ayumi Morita,R,163,JPN,19.2,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,71,885,65,961
 2009-W-PR-GBR-01A-2009,Eastbourne,Grass,32,P,20090615,17,201287,1,,Maria Jose Martinez Sanchez,L,176,ESP,26.8,201450,,,Tsvetana Pironkova,R,180,BUL,21.7,7-6(3) 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,44,1331,85,789
 2009-W-PR-GBR-01A-2009,Eastbourne,Grass,32,P,20090615,18,201457,7,,Jarmila Gajdosova,R,174,AUS,22.1,201454,,,Akgul Amanmuradova,R,190,UZB,24.9,6-2 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,66,951,131,490
-2009-W-PR-GBR-01A-2009,Eastbourne,Grass,32,P,20090615,19,201505,2,,Ekaterina Makarova,L,178,RUS,21.0,201396,,,Katie Obrien,R,167,GBR,23.1,6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,46,1325,108,600
+2009-W-PR-GBR-01A-2009,Eastbourne,Grass,32,P,20090615,19,201505,2,,Kate Makarova,L,178,RUS,21.0,201396,,,Katie Obrien,R,167,GBR,23.1,6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,46,1325,108,600
 2009-W-PR-GBR-01A-2009,Eastbourne,Grass,32,P,20090615,20,201452,,,Lourdes Dominguez Lino,R,163,ESP,28.2,201284,,A,Tatiana Poutchek,R,176,BLR,30.4,6-3 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,70,890,180,324
 2009-W-PR-GBR-01A-2009,Eastbourne,Grass,32,P,20090615,21,201371,3,,Vera Dushevina,R,180,RUS,22.6,200754,,,Jill Craybas,R,160,USA,34.9,6-0 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,52,1169,90,763
 2009-W-PR-GBR-01A-2009,Eastbourne,Grass,32,P,20090615,22,201469,,,Melanie South,R,175,GBR,23.1,201400,5,,Nicole Vaidisova,R,181,CZE,20.1,6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,130,491,67,950
 2009-W-PR-GBR-01A-2009,Eastbourne,Grass,32,P,20090615,23,201556,4,,Lucie Hradecka,R,177,CZE,24.0,201516,,,Evgeniya Rodina,R,170,RUS,20.3,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,57,1022,122,544
 2009-W-PR-GBR-01A-2009,Eastbourne,Grass,32,P,20090615,24,201524,,,Urszula Radwanska,R,177,POL,18.5,201448,,,Galina Voskoboeva,R,183,KAZ,24.4,6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,71,885,89,766
 2009-W-PR-GBR-01A-2009,Eastbourne,Grass,32,P,20090615,25,201457,7,,Jarmila Gajdosova,R,174,AUS,22.1,201287,1,,Maria Jose Martinez Sanchez,L,176,ESP,26.8,6-4 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,66,951,44,1331
-2009-W-PR-GBR-01A-2009,Eastbourne,Grass,32,P,20090615,26,201505,2,,Ekaterina Makarova,L,178,RUS,21.0,201452,,,Lourdes Dominguez Lino,R,163,ESP,28.2,6-2 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,46,1325,70,890
+2009-W-PR-GBR-01A-2009,Eastbourne,Grass,32,P,20090615,26,201505,2,,Kate Makarova,L,178,RUS,21.0,201452,,,Lourdes Dominguez Lino,R,163,ESP,28.2,6-2 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,46,1325,70,890
 2009-W-PR-GBR-01A-2009,Eastbourne,Grass,32,P,20090615,27,201371,3,,Vera Dushevina,R,180,RUS,22.6,201469,,,Melanie South,R,175,GBR,23.1,6-4 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,52,1169,130,491
 2009-W-PR-GBR-01A-2009,Eastbourne,Grass,32,P,20090615,28,201524,,,Urszula Radwanska,R,177,POL,18.5,201556,4,,Lucie Hradecka,R,177,CZE,24.0,6-4 6-7(4) 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,71,885,57,1022
 2009-W-PR-GER-01A-2009,Stuttgart,Clay,32,P,20090427,1,201450,1,,Tsvetana Pironkova,R,180,BUL,21.6,201209,,,Selima Sfar,R,166,TUN,31.8,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,50,1199,193,299

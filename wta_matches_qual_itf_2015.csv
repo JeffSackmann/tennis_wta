@@ -74,7 +74,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-W125-FRA-01A-2015,Limoges,Hard,32,C,20151109,11,201428,,WC,Mathilde Johansson,R,173,FRA,30.5,201526,,WC,Julie Coin,R,172,FRA,32.9,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,175,292,236,198
 2015-W-W125-FRA-01A-2015,Limoges,Hard,32,C,20151109,12,211635,,,Louisa Chirico,R,175,USA,19.4,202470,4,,Annika Beck,R,170,GER,21.7,5-7 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,120,486,56,976
 2015-W-W125-FRA-01A-2015,Limoges,Hard,32,C,20151109,13,202506,6,,Margarita Gasparyan,R,183,RUS,21.1,203521,,Q,Andrea Gamiz,R,162,VEN,23.0,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,62,918,265,168
-2015-W-W125-FRA-01A-2015,Limoges,Hard,32,C,20151109,14,202628,,,Maryna Zanevska,R,175,UKR,22.2,201562,,,Silvia Soler Espinosa,R,169,ESP,27.9,4-6 6-3 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,140,388,142,384
+2015-W-W125-FRA-01A-2015,Limoges,Hard,32,C,20151109,14,202628,,,Maryna Zanevska,R,175,BEL,22.2,201562,,,Silvia Soler Espinosa,R,169,ESP,27.9,4-6 6-3 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,140,388,142,384
 2015-W-W125-FRA-01A-2015,Limoges,Hard,32,C,20151109,15,201212,,,Francesca Schiavone,R,166,ITA,35.3,201697,,,Kristyna Pliskova,L,184,CZE,23.6,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,121,485,113,532
 2015-W-W125-FRA-01A-2015,Limoges,Hard,32,C,20151109,16,201605,,LL,Mandy Minella,R,180,LUX,29.9,201527,,,Stefanie Voegele,R,170,SUI,25.6,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,162,311,122,485
 2015-W-W125-FRA-01A-2015,Limoges,Hard,32,C,20151109,17,211701,,,Katerina Siniakova,R,174,CZE,19.4,201426,,,Pauline Parmentier,R,175,FRA,29.7,7-6(8) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,108,584,116,513
@@ -83,7 +83,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-W125-FRA-01A-2015,Limoges,Hard,32,C,20151109,20,202499,,,Donna Vekic,R,179,CRO,19.3,202489,7,,Carina Witthoeft,R,176,GER,20.7,3-6 6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,105,600,65,913
 2015-W-W125-FRA-01A-2015,Limoges,Hard,32,C,20151109,21,203462,,Q,Kateryna Baindl,R,175,UKR,21.7,203575,5,,Danka Kovinic,R,169,MNE,20.9,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,165,308,58,972
 2015-W-W125-FRA-01A-2015,Limoges,Hard,32,C,20151109,22,211635,,,Louisa Chirico,R,175,USA,19.4,201428,,WC,Mathilde Johansson,R,173,FRA,30.5,3-6 6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,120,486,175,292
-2015-W-W125-FRA-01A-2015,Limoges,Hard,32,C,20151109,23,202506,6,,Margarita Gasparyan,R,183,RUS,21.1,202628,,,Maryna Zanevska,R,175,UKR,22.2,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,62,918,140,388
+2015-W-W125-FRA-01A-2015,Limoges,Hard,32,C,20151109,23,202506,6,,Margarita Gasparyan,R,183,RUS,21.1,202628,,,Maryna Zanevska,R,175,BEL,22.2,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,62,918,140,388
 2015-W-W125-FRA-01A-2015,Limoges,Hard,32,C,20151109,24,201212,,,Francesca Schiavone,R,166,ITA,35.3,201605,,LL,Mandy Minella,R,180,LUX,29.9,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,121,485,162,311
 2015-W-W125-FRA-01A-2015,Limoges,Hard,32,C,20151109,25,211701,,,Katerina Siniakova,R,174,CZE,19.4,204431,8,,Anna Lena Friedsam,R,,GER,21.7,7-5 2-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,108,584,99,641
 2015-W-W125-FRA-01A-2015,Limoges,Hard,32,C,20151109,26,201614,3,WC,Caroline Garcia,R,177,FRA,22.0,202499,,,Donna Vekic,R,179,CRO,19.3,3-6 6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,35,1320,105,600
@@ -188,7 +188,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C100-FRA-01A-2015,Poitiers $100K,Hard,32,100,20151026,1,201512,1,,Monica Niculescu,R,168,ROU,28.0,201640,,,Maria Teresa Torro Flor,R,173,ESP,23.4,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,46,1125,128,432
 2015-W-C100-FRA-01A-2015,Poitiers $100K,Hard,32,100,20151026,2,206219,,,Oceane Dodin,R,,FRA,19.0,201697,,,Kristyna Pliskova,L,184,CZE,23.5,3-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,144,394,115,532
 2015-W-C100-FRA-01A-2015,Poitiers $100K,Hard,32,100,20151026,3,211843,,,Anhelina Kalinina,R,179,UKR,18.7,201526,,WC,Julie Coin,R,172,FRA,32.8,6-4 5-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,158,331,227,204
-2015-W-C100-FRA-01A-2015,Poitiers $100K,Hard,32,100,20151026,4,202428,8,,Kiki Bertens,R,182,NED,23.8,202628,,,Maryna Zanevska,R,175,UKR,22.1,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,105,606,143,398
+2015-W-C100-FRA-01A-2015,Poitiers $100K,Hard,32,100,20151026,4,202428,8,,Kiki Bertens,R,182,NED,23.8,202628,,,Maryna Zanevska,R,175,BEL,22.1,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,105,606,143,398
 2015-W-C100-FRA-01A-2015,Poitiers $100K,Hard,32,100,20151026,5,202489,3,,Carina Witthoeft,R,176,GER,20.6,211635,,,Louisa Chirico,R,175,USA,19.4,6-3 2-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,66,903,123,472
 2015-W-C100-FRA-01A-2015,Poitiers $100K,Hard,32,100,20151026,6,200617,,,Kimiko Date Krumm,R,163,JPN,45.0,202424,,Q,Conny Perrin,R,174,SUI,24.8,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,147,375,367,96
 2015-W-C100-FRA-01A-2015,Poitiers $100K,Hard,32,100,20151026,7,206420,,Q,Ekaterina Alexandrova,R,175,RUS,20.9,202480,,,Richel Hogenkamp,R,168,NED,23.5,7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,293,146,127,432
@@ -223,7 +223,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C100-FRA-12A-2015,Cagnes sur Mer $100K,Clay,32,100,20150504,5,202694,4,,Teliana Pereira,R,168,BRA,26.7,201481,,SR,Tamira Paszek,R,165,AUT,24.4,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,75,752,162,314
 2015-W-C100-FRA-12A-2015,Cagnes sur Mer $100K,Clay,32,100,20150504,6,205925,,,Aliaksandra Sasnovich,R,174,BLR,21.1,202498,,,Julia Glushko,R,171,ISR,25.3,7-6(3) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,145,374,117,482
 2015-W-C100-FRA-12A-2015,Cagnes sur Mer $100K,Clay,32,100,20150504,7,204434,,Q,Ysaline Bonaventure,L,178,BEL,20.6,201542,,Q,Olivia Rogowska,R,175,AUS,23.9,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,195,262,187,273
-2015-W-C100-FRA-12A-2015,Cagnes sur Mer $100K,Clay,32,100,20150504,8,202428,6,,Kiki Bertens,R,182,NED,23.3,202628,,,Maryna Zanevska,R,175,UKR,21.6,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,92,656,132,416
+2015-W-C100-FRA-12A-2015,Cagnes sur Mer $100K,Clay,32,100,20150504,8,202428,6,,Kiki Bertens,R,182,NED,23.3,202628,,,Maryna Zanevska,R,175,BEL,21.6,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,92,656,132,416
 2015-W-C100-FRA-12A-2015,Cagnes sur Mer $100K,Clay,32,100,20150504,9,201426,8,,Pauline Parmentier,R,175,FRA,29.2,206404,,,Elizaveta Kulichkova,R,,RUS,19.0,6-1 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,93,654,111,516
 2015-W-C100-FRA-12A-2015,Cagnes sur Mer $100K,Clay,32,100,20150504,10,202663,,,Magda Linette,R,171,POL,23.2,202659,,,Tereza Mrdeza,R,173,CRO,24.4,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,105,567,182,278
 2015-W-C100-FRA-12A-2015,Cagnes sur Mer $100K,Clay,32,100,20150504,11,202427,,,Johanna Konta,R,180,GBR,23.9,206219,,,Oceane Dodin,R,,FRA,18.5,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,140,394,137,403
@@ -252,7 +252,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C100-FRA-14A-2015,Marseille $100K,Clay,32,100,20150601,3,203281,,WC,Amandine Hesse,R,164,FRA,22.3,211382,,WC,Caroline Romeo,U,,FRA,20.8,6-1 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,272,158,520,46
 2015-W-C100-FRA-14A-2015,Marseille $100K,Clay,32,100,20150601,4,201426,8,,Pauline Parmentier,R,175,FRA,29.3,206255,,,Patricia Maria Tig,R,,ROU,20.8,3-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,95,640,176,296
 2015-W-C100-FRA-14A-2015,Marseille $100K,Clay,32,100,20150601,5,201555,4,,Polona Hercog,R,182,SLO,24.3,206374,,,Yafan Wang,R,170,CHN,21.0,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,75,745,135,407
-2015-W-C100-FRA-14A-2015,Marseille $100K,Clay,32,100,20150601,6,202628,,,Maryna Zanevska,R,175,UKR,21.7,201527,,,Stefanie Voegele,R,170,SUI,25.2,6-3 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,140,396,96,638
+2015-W-C100-FRA-14A-2015,Marseille $100K,Clay,32,100,20150601,6,202628,,,Maryna Zanevska,R,175,BEL,21.7,201527,,,Stefanie Voegele,R,170,SUI,25.2,6-3 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,140,396,96,638
 2015-W-C100-FRA-14A-2015,Marseille $100K,Clay,32,100,20150601,7,201435,,,Kateryna Bondarenko,R,175,UKR,28.8,201588,,,Anna Tatishvili,R,171,GEO,25.3,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,138,398,136,405
 2015-W-C100-FRA-14A-2015,Marseille $100K,Clay,32,100,20150601,8,201668,,,Alexandra Panova,R,179,RUS,26.2,201516,7,,Evgeniya Rodina,R,170,RUS,26.3,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,149,362,90,659
 2015-W-C100-FRA-14A-2015,Marseille $100K,Clay,32,100,20150601,9,202434,5,,Aleksandra Krunic,R,163,SRB,22.2,202611,,Q,Oksana Kalashnikova,L,184,GEO,24.7,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,87,678,656,29
@@ -265,7 +265,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C100-FRA-14A-2015,Marseille $100K,Clay,32,100,20150601,16,201512,2,,Monica Niculescu,R,168,ROU,27.6,211796,,,Francoise Abanda,R,178,CAN,18.3,6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,67,838,247,184
 2015-W-C100-FRA-14A-2015,Marseille $100K,Clay,32,100,20150601,17,203564,,WC,Chloe Paquet,R,179,FRA,20.9,205925,,,Aliaksandra Sasnovich,R,174,BLR,21.1,7-6(4) 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,344,103,127,431
 2015-W-C100-FRA-14A-2015,Marseille $100K,Clay,32,100,20150601,18,201426,8,,Pauline Parmentier,R,175,FRA,29.3,203281,,WC,Amandine Hesse,R,164,FRA,22.3,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,95,640,272,158
-2015-W-C100-FRA-14A-2015,Marseille $100K,Clay,32,100,20150601,19,201555,4,,Polona Hercog,R,182,SLO,24.3,202628,,,Maryna Zanevska,R,175,UKR,21.7,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,75,745,140,396
+2015-W-C100-FRA-14A-2015,Marseille $100K,Clay,32,100,20150601,19,201555,4,,Polona Hercog,R,182,SLO,24.3,202628,,,Maryna Zanevska,R,175,BEL,21.7,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,75,745,140,396
 2015-W-C100-FRA-14A-2015,Marseille $100K,Clay,32,100,20150601,20,201435,,,Kateryna Bondarenko,R,175,UKR,28.8,201668,,,Alexandra Panova,R,179,RUS,26.2,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,138,398,149,362
 2015-W-C100-FRA-14A-2015,Marseille $100K,Clay,32,100,20150601,21,201531,,,Mariana Duque Marino,R,169,COL,25.8,202434,5,,Aleksandra Krunic,R,163,SRB,22.2,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,104,576,87,678
 2015-W-C100-FRA-14A-2015,Marseille $100K,Clay,32,100,20150601,22,201545,,Q,Anastasija Sevastova,R,169,LAT,25.1,202705,,,Veronica Cepede Royg,R,163,PAR,23.3,1-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,274,157,173,300
@@ -310,7 +310,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C100-FRA-18A-2015,Contrexeville $100K,Clay,32,100,20150706,30,201709,8,,Yulia Putintseva,R,163,KAZ,20.4,203575,7,,Danka Kovinic,R,169,MNE,20.6,6-1 6-3,3,SF,,,,,,,,,,,,,,,,,,,,95,652,92,680
 2015-W-C100-FRA-18A-2015,Contrexeville $100K,Clay,32,100,20150706,31,201567,1,,Alexandra Dulgheru,R,172,ROU,26.0,201709,8,,Yulia Putintseva,R,163,KAZ,20.4,6-3 1-6 7-5,3,F,,,,,,,,,,,,,,,,,,,,60,937,95,652
 2015-W-C100-FRA-20A-2015,Biarritz $100K,Clay,32,100,20150907,1,201567,1,,Alexandra Dulgheru,R,172,ROU,26.2,202626,,,Stephanie Vogt,R,167,LIE,25.5,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,52,1036,163,320
-2015-W-C100-FRA-20A-2015,Biarritz $100K,Clay,32,100,20150907,2,202628,,,Maryna Zanevska,R,175,UKR,22.0,200043,,,Virginie Razzano,R,173,FRA,32.3,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,141,391,169,305
+2015-W-C100-FRA-20A-2015,Biarritz $100K,Clay,32,100,20150907,2,202628,,,Maryna Zanevska,R,175,BEL,22.0,200043,,,Virginie Razzano,R,173,FRA,32.3,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,141,391,169,305
 2015-W-C100-FRA-20A-2015,Biarritz $100K,Clay,32,100,20150907,3,202701,,,Irina Khromacheva,L,170,RUS,20.3,202703,,WC,Constance Sibille,R,,FRA,24.8,6-1 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,269,166,357,102
 2015-W-C100-FRA-20A-2015,Biarritz $100K,Clay,32,100,20150907,4,201696,6,,Laura Siegemund,R,168,GER,27.5,206166,,WC,Jade Suvrijn,R,,FRA,20.3,7-6(6) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,126,455,745,20
 2015-W-C100-FRA-20A-2015,Biarritz $100K,Clay,32,100,20150907,5,201670,,Q,Amra Sadikovic,R,186,SUI,26.3,201466,3,,Kaia Kanepi,R,181,EST,30.2,4-6 6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,494,54,89,656
@@ -325,7 +325,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C100-FRA-20A-2015,Biarritz $100K,Clay,32,100,20150907,14,206183,,,Cindy Burger,R,,NED,22.7,205363,,Q,Cristina Sanchez Quintanar,R,,ESP,26.4,6-2 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,205,235,446,67
 2015-W-C100-FRA-20A-2015,Biarritz $100K,Clay,32,100,20150907,15,202436,,,Reka Luca Jani,R,161,HUN,24.1,203364,,Q,Tatiana Bua,L,,ARG,25.6,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,212,226,816,16
 2015-W-C100-FRA-20A-2015,Biarritz $100K,Clay,32,100,20150907,16,202694,2,,Teliana Pereira,R,168,BRA,27.1,212001,,,Natalia Vikhlyantseva,R,185,RUS,18.5,6-7(5) 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,54,1034,247,184
-2015-W-C100-FRA-20A-2015,Biarritz $100K,Clay,32,100,20150907,17,202628,,,Maryna Zanevska,R,175,UKR,22.0,201567,1,,Alexandra Dulgheru,R,172,ROU,26.2,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,141,391,52,1036
+2015-W-C100-FRA-20A-2015,Biarritz $100K,Clay,32,100,20150907,17,202628,,,Maryna Zanevska,R,175,BEL,22.0,201567,1,,Alexandra Dulgheru,R,172,ROU,26.2,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,141,391,52,1036
 2015-W-C100-FRA-20A-2015,Biarritz $100K,Clay,32,100,20150907,18,201696,6,,Laura Siegemund,R,168,GER,27.5,202701,,,Irina Khromacheva,L,170,RUS,20.3,3-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,126,455,269,166
 2015-W-C100-FRA-20A-2015,Biarritz $100K,Clay,32,100,20150907,19,201545,,,Anastasija Sevastova,R,169,LAT,25.4,201670,,Q,Amra Sadikovic,R,186,SUI,26.3,6-0 3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,144,374,494,54
 2015-W-C100-FRA-20A-2015,Biarritz $100K,Clay,32,100,20150907,20,201344,5,,Klara Koukalova,R,166,CZE,33.5,206216,,LL,Olga Saez Larra,U,,ESP,20.9,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,109,565,336,115
@@ -333,7 +333,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C100-FRA-20A-2015,Biarritz $100K,Clay,32,100,20150907,22,200773,,,Stephanie Foretz Gacon,R,166,FRA,34.3,201452,4,,Lourdes Dominguez Lino,R,163,ESP,34.4,7-6(3) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,188,272,105,601
 2015-W-C100-FRA-20A-2015,Biarritz $100K,Clay,32,100,20150907,23,206183,,,Cindy Burger,R,,NED,22.7,206219,8,,Oceane Dodin,R,,FRA,18.8,5-7 7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,205,235,128,439
 2015-W-C100-FRA-20A-2015,Biarritz $100K,Clay,32,100,20150907,24,202694,2,,Teliana Pereira,R,168,BRA,27.1,202436,,,Reka Luca Jani,R,161,HUN,24.1,3-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,54,1034,212,226
-2015-W-C100-FRA-20A-2015,Biarritz $100K,Clay,32,100,20150907,25,201696,6,,Laura Siegemund,R,168,GER,27.5,202628,,,Maryna Zanevska,R,175,UKR,22.0,W/O,3,QF,,,,,,,,,,,,,,,,,,,,126,455,141,391
+2015-W-C100-FRA-20A-2015,Biarritz $100K,Clay,32,100,20150907,25,201696,6,,Laura Siegemund,R,168,GER,27.5,202628,,,Maryna Zanevska,R,175,BEL,22.0,W/O,3,QF,,,,,,,,,,,,,,,,,,,,126,455,141,391
 2015-W-C100-FRA-20A-2015,Biarritz $100K,Clay,32,100,20150907,26,201344,5,,Klara Koukalova,R,166,CZE,33.5,201545,,,Anastasija Sevastova,R,169,LAT,25.4,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,109,565,144,374
 2015-W-C100-FRA-20A-2015,Biarritz $100K,Clay,32,100,20150907,27,201472,7,,Romina Oprandi,R,172,SUI,29.4,200773,,,Stephanie Foretz Gacon,R,166,FRA,34.3,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,127,447,188,272
 2015-W-C100-FRA-20A-2015,Biarritz $100K,Clay,32,100,20150907,28,202694,2,,Teliana Pereira,R,168,BRA,27.1,206183,,,Cindy Burger,R,,NED,22.7,6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,54,1034,205,235
@@ -1665,7 +1665,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-CRO-01A-2015,Bol $10K,Clay,32,10,20150420,9,201649,7,,Lenka Jurikova,R,,SVK,24.6,214521,,WC,Lea Boskovic,U,,CRO,15.5,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,606,33,,
 2015-W-C10-CRO-01A-2015,Bol $10K,Clay,32,10,20150420,10,213598,,Q,Lisa Bastianello,U,,ITA,22.1,215131,,WC,Nefisa Berberovic,U,,BIH,15.7,6-7(3) 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1170,4,,
 2015-W-C10-CRO-01A-2015,Bol $10K,Clay,32,10,20150420,11,211738,,,Pia Cuk,R,,SLO,18.7,204389,,,Anna Maria Heil,U,,AUT,19.8,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,865,14,771,18
-2015-W-C10-CRO-01A-2015,Bol $10K,Clay,32,10,20150420,12,211329,4,,Tena Lukas,U,,CRO,19.9,214209,,Q,Klara Mrcela,U,,CRO,16.1,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,434,67,,
+2015-W-C10-CRO-01A-2015,Bol $10K,Clay,32,10,20150420,12,211329,4,,Tena Lukas,R,,CRO,19.9,214209,,Q,Klara Mrcela,U,,CRO,16.1,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,434,67,,
 2015-W-C10-CRO-01A-2015,Bol $10K,Clay,32,10,20150420,13,210742,,WC,Mariana Drazic,R,,CRO,20.2,205700,6,,Emma Flood,U,,NOR,24.5,6-1 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,980,9,495,50
 2015-W-C10-CRO-01A-2015,Bol $10K,Clay,32,10,20150420,14,206034,,,Katerina Kaminkova,R,,CZE,21.2,211716,,Q,Iuliana Oante,U,,ROU,24.7,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,947,10,,
 2015-W-C10-CRO-01A-2015,Bol $10K,Clay,32,10,20150420,15,214360,,Q,Natalie Cvackova,U,,CZE,19.2,214656,,WC,Milica Cubranovic,U,,SRB,17.7,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -1675,15 +1675,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-CRO-01A-2015,Bol $10K,Clay,32,10,20150420,19,211406,3,,Gabriela Pantuckova,R,,CZE,20.1,211696,,,Eva Rutarova,R,,CZE,19.7,5-7 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,414,74,939,10
 2015-W-C10-CRO-01A-2015,Bol $10K,Clay,32,10,20150420,20,213646,5,,Dalma Galfi,U,,HUN,16.6,214026,,,Natalija Sipek,U,,SLO,18.3,6-2 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,443,62,724,21
 2015-W-C10-CRO-01A-2015,Bol $10K,Clay,32,10,20150420,21,201649,7,,Lenka Jurikova,R,,SVK,24.6,213598,,Q,Lisa Bastianello,U,,ITA,22.1,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,606,33,1170,4
-2015-W-C10-CRO-01A-2015,Bol $10K,Clay,32,10,20150420,22,211329,4,,Tena Lukas,U,,CRO,19.9,211738,,,Pia Cuk,R,,SLO,18.7,4-6 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,434,67,865,14
+2015-W-C10-CRO-01A-2015,Bol $10K,Clay,32,10,20150420,22,211329,4,,Tena Lukas,R,,CRO,19.9,211738,,,Pia Cuk,R,,SLO,18.7,4-6 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,434,67,865,14
 2015-W-C10-CRO-01A-2015,Bol $10K,Clay,32,10,20150420,23,206034,,,Katerina Kaminkova,R,,CZE,21.2,210742,,WC,Mariana Drazic,R,,CRO,20.2,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,947,10,980,9
 2015-W-C10-CRO-01A-2015,Bol $10K,Clay,32,10,20150420,24,210741,2,,Iva Mekovec,R,,CRO,20.1,214360,,Q,Natalie Cvackova,U,,CZE,19.2,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,350,98,,
 2015-W-C10-CRO-01A-2015,Bol $10K,Clay,32,10,20150420,25,211643,,,Kajsa Rinaldo Persson,R,,SWE,17.4,214461,,,Tamara Zidansek,R,168,SLO,17.3,6-2 3-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,783,17,698,23
 2015-W-C10-CRO-01A-2015,Bol $10K,Clay,32,10,20150420,26,211406,3,,Gabriela Pantuckova,R,,CZE,20.1,213646,5,,Dalma Galfi,U,,HUN,16.6,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,414,74,443,62
-2015-W-C10-CRO-01A-2015,Bol $10K,Clay,32,10,20150420,27,211329,4,,Tena Lukas,U,,CRO,19.9,201649,7,,Lenka Jurikova,R,,SVK,24.6,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,434,67,606,33
+2015-W-C10-CRO-01A-2015,Bol $10K,Clay,32,10,20150420,27,211329,4,,Tena Lukas,R,,CRO,19.9,201649,7,,Lenka Jurikova,R,,SVK,24.6,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,434,67,606,33
 2015-W-C10-CRO-01A-2015,Bol $10K,Clay,32,10,20150420,28,210741,2,,Iva Mekovec,R,,CRO,20.1,206034,,,Katerina Kaminkova,R,,CZE,21.2,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,350,98,947,10
 2015-W-C10-CRO-01A-2015,Bol $10K,Clay,32,10,20150420,29,211406,3,,Gabriela Pantuckova,R,,CZE,20.1,211643,,,Kajsa Rinaldo Persson,R,,SWE,17.4,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,414,74,783,17
-2015-W-C10-CRO-01A-2015,Bol $10K,Clay,32,10,20150420,30,210741,2,,Iva Mekovec,R,,CRO,20.1,211329,4,,Tena Lukas,U,,CRO,19.9,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,350,98,434,67
+2015-W-C10-CRO-01A-2015,Bol $10K,Clay,32,10,20150420,30,210741,2,,Iva Mekovec,R,,CRO,20.1,211329,4,,Tena Lukas,R,,CRO,19.9,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,350,98,434,67
 2015-W-C10-CRO-01A-2015,Bol $10K,Clay,32,10,20150420,31,211406,3,,Gabriela Pantuckova,R,,CZE,20.1,210741,2,,Iva Mekovec,R,,CRO,20.1,1-6 6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,414,74,350,98
 2015-W-C10-CRO-02A-2015,Bol $10K,Clay,32,10,20150504,1,214461,,,Tamara Zidansek,R,168,SLO,17.3,205824,1,,Ema Mikulcic,R,,CRO,23.0,6-3 4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,674,25,295,137
 2015-W-C10-CRO-02A-2015,Bol $10K,Clay,32,10,20150504,2,206290,,Q,Nives Baric,R,,AUS,22.3,211543,,Q,Jennifer Zerbone,L,,FRA,19.8,2-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,973,9,,
@@ -1696,7 +1696,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-CRO-02A-2015,Bol $10K,Clay,32,10,20150504,9,204384,7,,Agnes Bukta,R,,HUN,21.5,211344,,Q,Caroline Uebelhoer,U,,GER,19.0,3-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,534,42,779,17
 2015-W-C10-CRO-02A-2015,Bol $10K,Clay,32,10,20150504,10,211738,,,Pia Cuk,R,,SLO,18.7,203457,,,Polona Rebersak,U,,SLO,28.2,6-1 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,836,15,930,11
 2015-W-C10-CRO-02A-2015,Bol $10K,Clay,32,10,20150504,11,214460,,Q,Manca Pislak,L,,SLO,17.6,206251,,,Kimberley Zimmermann,R,,BEL,19.4,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1176,4,930,11
-2015-W-C10-CRO-02A-2015,Bol $10K,Clay,32,10,20150504,12,211329,4,,Tena Lukas,U,,CRO,19.9,211857,,Q,Dominika Paterova,R,,CZE,19.6,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,426,70,1073,6
+2015-W-C10-CRO-02A-2015,Bol $10K,Clay,32,10,20150504,12,211329,4,,Tena Lukas,R,,CRO,19.9,211857,,Q,Dominika Paterova,R,,CZE,19.6,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,426,70,1073,6
 2015-W-C10-CRO-02A-2015,Bol $10K,Clay,32,10,20150504,13,203376,8,,Eugeniya Pashkova,R,,RUS,26.2,215147,,WC,Nina Marjanovic,R,,SRB,17.1,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,584,35,,
 2015-W-C10-CRO-02A-2015,Bol $10K,Clay,32,10,20150504,14,202938,,,Zuzana Luknarova,R,,SVK,23.8,214148,,Q,Magdalena Pantuckova,U,,CZE,16.2,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,707,23,,
 2015-W-C10-CRO-02A-2015,Bol $10K,Clay,32,10,20150504,15,203349,,,Milana Spremo,R,,SRB,23.4,210436,,,India Maggen,R,,BEL,21.6,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,688,24,807,16
@@ -1706,16 +1706,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-CRO-02A-2015,Bol $10K,Clay,32,10,20150504,19,203566,,,Christina Shakovets,R,,GER,21.0,210958,,WC,Alexandra Perper,R,,MDA,23.7,3-6 6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,709,23,1037,7
 2015-W-C10-CRO-02A-2015,Bol $10K,Clay,32,10,20150504,20,202433,6,,Anna Giulia Remondina,R,,ITA,25.9,214026,,,Natalija Sipek,U,,SLO,18.3,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,491,50,714,22
 2015-W-C10-CRO-02A-2015,Bol $10K,Clay,32,10,20150504,21,211738,,,Pia Cuk,R,,SLO,18.7,204384,7,,Agnes Bukta,R,,HUN,21.5,6-4 5-7 6-3,3,R16,,,,,,,,,,,,,,,,,,,,836,15,534,42
-2015-W-C10-CRO-02A-2015,Bol $10K,Clay,32,10,20150504,22,211329,4,,Tena Lukas,U,,CRO,19.9,214460,,Q,Manca Pislak,L,,SLO,17.6,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,426,70,1176,4
+2015-W-C10-CRO-02A-2015,Bol $10K,Clay,32,10,20150504,22,211329,4,,Tena Lukas,R,,CRO,19.9,214460,,Q,Manca Pislak,L,,SLO,17.6,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,426,70,1176,4
 2015-W-C10-CRO-02A-2015,Bol $10K,Clay,32,10,20150504,23,202938,,,Zuzana Luknarova,R,,SVK,23.8,203376,8,,Eugeniya Pashkova,R,,RUS,26.2,7-6(2) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,707,23,584,35
 2015-W-C10-CRO-02A-2015,Bol $10K,Clay,32,10,20150504,24,211227,2,,Lina Gjorcheska,R,180,MKD,20.7,203349,,,Milana Spremo,R,,SRB,23.4,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,393,81,688,24
 2015-W-C10-CRO-02A-2015,Bol $10K,Clay,32,10,20150504,25,214461,,,Tamara Zidansek,R,168,SLO,17.3,214081,,,Katharina Hobgarski,R,171,GER,17.8,4-2 RET,3,QF,,,,,,,,,,,,,,,,,,,,674,25,602,32
 2015-W-C10-CRO-02A-2015,Bol $10K,Clay,32,10,20150504,26,202433,6,,Anna Giulia Remondina,R,,ITA,25.9,203566,,,Christina Shakovets,R,,GER,21.0,6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,491,50,709,23
-2015-W-C10-CRO-02A-2015,Bol $10K,Clay,32,10,20150504,27,211329,4,,Tena Lukas,U,,CRO,19.9,211738,,,Pia Cuk,R,,SLO,18.7,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,426,70,836,15
+2015-W-C10-CRO-02A-2015,Bol $10K,Clay,32,10,20150504,27,211329,4,,Tena Lukas,R,,CRO,19.9,211738,,,Pia Cuk,R,,SLO,18.7,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,426,70,836,15
 2015-W-C10-CRO-02A-2015,Bol $10K,Clay,32,10,20150504,28,202938,,,Zuzana Luknarova,R,,SVK,23.8,211227,2,,Lina Gjorcheska,R,180,MKD,20.7,6-1 6-0,3,QF,,,,,,,,,,,,,,,,,,,,707,23,393,81
 2015-W-C10-CRO-02A-2015,Bol $10K,Clay,32,10,20150504,29,214461,,,Tamara Zidansek,R,168,SLO,17.3,202433,6,,Anna Giulia Remondina,R,,ITA,25.9,0-6 6-1 7-6(4),3,SF,,,,,,,,,,,,,,,,,,,,674,25,491,50
-2015-W-C10-CRO-02A-2015,Bol $10K,Clay,32,10,20150504,30,211329,4,,Tena Lukas,U,,CRO,19.9,202938,,,Zuzana Luknarova,R,,SVK,23.8,3-6 6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,426,70,707,23
-2015-W-C10-CRO-02A-2015,Bol $10K,Clay,32,10,20150504,31,211329,4,,Tena Lukas,U,,CRO,19.9,214461,,,Tamara Zidansek,R,168,SLO,17.3,6-2 6-3,3,F,,,,,,,,,,,,,,,,,,,,426,70,674,25
+2015-W-C10-CRO-02A-2015,Bol $10K,Clay,32,10,20150504,30,211329,4,,Tena Lukas,R,,CRO,19.9,202938,,,Zuzana Luknarova,R,,SVK,23.8,3-6 6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,426,70,707,23
+2015-W-C10-CRO-02A-2015,Bol $10K,Clay,32,10,20150504,31,211329,4,,Tena Lukas,R,,CRO,19.9,214461,,,Tamara Zidansek,R,168,SLO,17.3,6-2 6-3,3,F,,,,,,,,,,,,,,,,,,,,426,70,674,25
 2015-W-C10-CRO-03A-2015,Bol $10K,Clay,32,10,20150511,1,211406,1,,Gabriela Pantuckova,R,,CZE,20.2,203349,,,Milana Spremo,R,,SRB,23.4,6-7(3) 6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,385,86,732,21
 2015-W-C10-CRO-03A-2015,Bol $10K,Clay,32,10,20150511,2,210786,,,Anastasia Vdovenco,R,,MDA,21.0,206290,,WC,Nives Baric,R,,AUS,22.3,6-3 1-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,720,22,975,9
 2015-W-C10-CRO-03A-2015,Bol $10K,Clay,32,10,20150511,3,206403,,Q,Alena Fomina,R,,RUS,25.8,214460,,Q,Manca Pislak,L,,SLO,17.6,6-4 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,579,35,1180,4
@@ -1727,7 +1727,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-CRO-03A-2015,Bol $10K,Clay,32,10,20150511,9,204384,7,,Agnes Bukta,R,,HUN,21.5,211956,,,Ariadna Marti Riembau,R,,ESP,18.8,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,533,42,863,14
 2015-W-C10-CRO-03A-2015,Bol $10K,Clay,32,10,20150511,10,203566,,,Christina Shakovets,R,,GER,21.0,214026,,,Natalija Sipek,U,,SLO,18.3,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,713,23,717,22
 2015-W-C10-CRO-03A-2015,Bol $10K,Clay,32,10,20150511,11,211344,,,Caroline Uebelhoer,U,,GER,19.0,211565,,Q,Martina Basic,U,,CRO,18.3,4-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,784,17,1011,8
-2015-W-C10-CRO-03A-2015,Bol $10K,Clay,32,10,20150511,12,211329,3,,Tena Lukas,U,,CRO,20.0,210742,,Q,Mariana Drazic,R,,CRO,20.3,6-2 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,430,70,956,10
+2015-W-C10-CRO-03A-2015,Bol $10K,Clay,32,10,20150511,12,211329,3,,Tena Lukas,R,,CRO,20.0,210742,,Q,Mariana Drazic,R,,CRO,20.3,6-2 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,430,70,956,10
 2015-W-C10-CRO-03A-2015,Bol $10K,Clay,32,10,20150511,13,210958,,WC,Alexandra Perper,R,,MDA,23.7,211472,6,,Oleksandra Korashvili,R,,UKR,19.1,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1039,7,524,44
 2015-W-C10-CRO-03A-2015,Bol $10K,Clay,32,10,20150511,14,211323,,,Natalia Vajdova,U,,SVK,20.0,211817,,WC,Elena Gabriela Ruse,U,,ROU,17.5,6-3 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,756,20,,
 2015-W-C10-CRO-03A-2015,Bol $10K,Clay,32,10,20150511,15,214461,,,Tamara Zidansek,R,168,SLO,17.3,202938,,,Zuzana Luknarova,R,,SVK,23.8,7-5 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,676,25,710,23
@@ -1737,12 +1737,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-CRO-03A-2015,Bol $10K,Clay,32,10,20150511,19,206419,,,Karin Kennel,R,,SUI,19.8,211738,,Q,Pia Cuk,R,,SLO,18.7,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,693,24,840,15
 2015-W-C10-CRO-03A-2015,Bol $10K,Clay,32,10,20150511,20,211856,,,Anastasiya Komardina,L,,RUS,17.8,213690,,WC,Camilla Scala,U,,ITA,20.8,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,594,34,1118,5
 2015-W-C10-CRO-03A-2015,Bol $10K,Clay,32,10,20150511,21,204384,7,,Agnes Bukta,R,,HUN,21.5,203566,,,Christina Shakovets,R,,GER,21.0,7-6(5) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,533,42,713,23
-2015-W-C10-CRO-03A-2015,Bol $10K,Clay,32,10,20150511,22,211329,3,,Tena Lukas,U,,CRO,20.0,211344,,,Caroline Uebelhoer,U,,GER,19.0,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,430,70,784,17
+2015-W-C10-CRO-03A-2015,Bol $10K,Clay,32,10,20150511,22,211329,3,,Tena Lukas,R,,CRO,20.0,211344,,,Caroline Uebelhoer,U,,GER,19.0,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,430,70,784,17
 2015-W-C10-CRO-03A-2015,Bol $10K,Clay,32,10,20150511,23,211323,,,Natalia Vajdova,U,,SVK,20.0,210958,,WC,Alexandra Perper,R,,MDA,23.7,4-6 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,756,20,1039,7
 2015-W-C10-CRO-03A-2015,Bol $10K,Clay,32,10,20150511,24,211227,2,,Lina Gjorcheska,R,180,MKD,20.7,214461,,,Tamara Zidansek,R,168,SLO,17.3,6-4 2-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,402,81,676,25
 2015-W-C10-CRO-03A-2015,Bol $10K,Clay,32,10,20150511,25,211406,1,,Gabriela Pantuckova,R,,CZE,20.2,202433,5,,Anna Giulia Remondina,R,,ITA,25.9,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,385,86,475,56
 2015-W-C10-CRO-03A-2015,Bol $10K,Clay,32,10,20150511,26,211856,,,Anastasiya Komardina,L,,RUS,17.8,206419,,,Karin Kennel,R,,SUI,19.8,4-6 6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,594,34,693,24
-2015-W-C10-CRO-03A-2015,Bol $10K,Clay,32,10,20150511,27,204384,7,,Agnes Bukta,R,,HUN,21.5,211329,3,,Tena Lukas,U,,CRO,20.0,7-5 7-5,3,QF,,,,,,,,,,,,,,,,,,,,533,42,430,70
+2015-W-C10-CRO-03A-2015,Bol $10K,Clay,32,10,20150511,27,204384,7,,Agnes Bukta,R,,HUN,21.5,211329,3,,Tena Lukas,R,,CRO,20.0,7-5 7-5,3,QF,,,,,,,,,,,,,,,,,,,,533,42,430,70
 2015-W-C10-CRO-03A-2015,Bol $10K,Clay,32,10,20150511,28,211227,2,,Lina Gjorcheska,R,180,MKD,20.7,211323,,,Natalia Vajdova,U,,SVK,20.0,3-6 7-5 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,402,81,756,20
 2015-W-C10-CRO-03A-2015,Bol $10K,Clay,32,10,20150511,29,211856,,,Anastasiya Komardina,L,,RUS,17.8,211406,1,,Gabriela Pantuckova,R,,CZE,20.2,7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,594,34,385,86
 2015-W-C10-CRO-03A-2015,Bol $10K,Clay,32,10,20150511,30,211227,2,,Lina Gjorcheska,R,180,MKD,20.7,204384,7,,Agnes Bukta,R,,HUN,21.5,2-6 6-2 7-5,3,SF,,,,,,,,,,,,,,,,,,,,402,81,533,42
@@ -1758,7 +1758,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-CRO-04A-2015,Bol $10K,Clay,32,10,20150518,9,211472,5,,Oleksandra Korashvili,R,,UKR,19.2,211194,,Q,Theresa Kleinsteuber,U,,GER,21.3,1-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,525,44,1090,6
 2015-W-C10-CRO-04A-2015,Bol $10K,Clay,32,10,20150518,10,211738,,,Pia Cuk,R,,SLO,18.8,210742,,Q,Mariana Drazic,R,,CRO,20.3,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,788,17,952,10
 2015-W-C10-CRO-04A-2015,Bol $10K,Clay,32,10,20150518,11,203566,,,Christina Shakovets,R,,GER,21.0,211722,,,Szabina Szlavikovics,R,,HUN,19.6,5-7 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,701,24,692,25
-2015-W-C10-CRO-04A-2015,Bol $10K,Clay,32,10,20150518,12,211329,3,,Tena Lukas,U,,CRO,20.0,211961,,Q,Emmanuelle Salas,U,,FRA,17.0,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,399,81,,
+2015-W-C10-CRO-04A-2015,Bol $10K,Clay,32,10,20150518,12,211329,3,,Tena Lukas,R,,CRO,20.0,211961,,Q,Emmanuelle Salas,U,,FRA,17.0,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,399,81,,
 2015-W-C10-CRO-04A-2015,Bol $10K,Clay,32,10,20150518,13,211921,8,,Julieta Lara Estable,R,,ARG,17.8,214220,,Q,Margot Yerolymos,R,178,FRA,18.0,4-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,558,39,950,10
 2015-W-C10-CRO-04A-2015,Bol $10K,Clay,32,10,20150518,14,206290,,WC,Nives Baric,R,,AUS,22.3,214360,,WC,Natalie Cvackova,U,,CZE,19.3,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,948,10,1212,3
 2015-W-C10-CRO-04A-2015,Bol $10K,Clay,32,10,20150518,15,211442,,Q,Daniela Farfan,R,,ARG,18.2,210436,,,India Maggen,R,,BEL,21.6,6-3 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,857,14,858,14
@@ -1768,17 +1768,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-CRO-04A-2015,Bol $10K,Clay,32,10,20150518,19,211323,,,Natalia Vajdova,U,,SVK,20.0,202656,4,,Estelle Cascino,R,,FRA,19.1,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,752,20,498,49
 2015-W-C10-CRO-04A-2015,Bol $10K,Clay,32,10,20150518,20,211856,7,,Anastasiya Komardina,L,,RUS,17.8,202302,,,Maria Fernanda Alves,L,174,BRA,32.0,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,597,34,648,29
 2015-W-C10-CRO-04A-2015,Bol $10K,Clay,32,10,20150518,21,211738,,,Pia Cuk,R,,SLO,18.8,211472,5,,Oleksandra Korashvili,R,,UKR,19.2,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,788,17,525,44
-2015-W-C10-CRO-04A-2015,Bol $10K,Clay,32,10,20150518,22,211329,3,,Tena Lukas,U,,CRO,20.0,203566,,,Christina Shakovets,R,,GER,21.0,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,399,81,701,24
+2015-W-C10-CRO-04A-2015,Bol $10K,Clay,32,10,20150518,22,211329,3,,Tena Lukas,R,,CRO,20.0,203566,,,Christina Shakovets,R,,GER,21.0,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,399,81,701,24
 2015-W-C10-CRO-04A-2015,Bol $10K,Clay,32,10,20150518,23,211921,8,,Julieta Lara Estable,R,,ARG,17.8,206290,,WC,Nives Baric,R,,AUS,22.3,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,558,39,948,10
 2015-W-C10-CRO-04A-2015,Bol $10K,Clay,32,10,20150518,24,211227,2,,Lina Gjorcheska,R,180,MKD,20.7,211442,,Q,Daniela Farfan,R,,ARG,18.2,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,396,82,857,14
 2015-W-C10-CRO-04A-2015,Bol $10K,Clay,32,10,20150518,25,214461,,,Tamara Zidansek,R,168,SLO,17.3,211565,,WC,Martina Basic,U,,CRO,18.3,6-0 6-2,3,QF,,,,,,,,,,,,,,,,,,,,611,32,1015,8
 2015-W-C10-CRO-04A-2015,Bol $10K,Clay,32,10,20150518,26,211856,7,,Anastasiya Komardina,L,,RUS,17.8,211323,,,Natalia Vajdova,U,,SVK,20.0,4-6 6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,597,34,752,20
-2015-W-C10-CRO-04A-2015,Bol $10K,Clay,32,10,20150518,27,211329,3,,Tena Lukas,U,,CRO,20.0,211738,,,Pia Cuk,R,,SLO,18.8,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,399,81,788,17
+2015-W-C10-CRO-04A-2015,Bol $10K,Clay,32,10,20150518,27,211329,3,,Tena Lukas,R,,CRO,20.0,211738,,,Pia Cuk,R,,SLO,18.8,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,399,81,788,17
 2015-W-C10-CRO-04A-2015,Bol $10K,Clay,32,10,20150518,28,211227,2,,Lina Gjorcheska,R,180,MKD,20.7,211921,8,,Julieta Lara Estable,R,,ARG,17.8,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,396,82,558,39
 2015-W-C10-CRO-04A-2015,Bol $10K,Clay,32,10,20150518,29,211856,7,,Anastasiya Komardina,L,,RUS,17.8,214461,,,Tamara Zidansek,R,168,SLO,17.3,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,597,34,611,32
-2015-W-C10-CRO-04A-2015,Bol $10K,Clay,32,10,20150518,30,211227,2,,Lina Gjorcheska,R,180,MKD,20.7,211329,3,,Tena Lukas,U,,CRO,20.0,3-6 6-4 6-0,3,SF,,,,,,,,,,,,,,,,,,,,396,82,399,81
+2015-W-C10-CRO-04A-2015,Bol $10K,Clay,32,10,20150518,30,211227,2,,Lina Gjorcheska,R,180,MKD,20.7,211329,3,,Tena Lukas,R,,CRO,20.0,3-6 6-4 6-0,3,SF,,,,,,,,,,,,,,,,,,,,396,82,399,81
 2015-W-C10-CRO-04A-2015,Bol $10K,Clay,32,10,20150518,31,211856,7,,Anastasiya Komardina,L,,RUS,17.8,211227,2,,Lina Gjorcheska,R,180,MKD,20.7,6-3 1-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,597,34,396,82
-2015-W-C10-CRO-05A-2015,Bol $10K,Clay,32,10,20150525,1,211329,1,,Tena Lukas,U,,CRO,20.0,209742,,WC,Regina Husak,U,,NED,25.3,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,396,82,,
+2015-W-C10-CRO-05A-2015,Bol $10K,Clay,32,10,20150525,1,211329,1,,Tena Lukas,R,,CRO,20.0,209742,,WC,Regina Husak,U,,NED,25.3,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,396,82,,
 2015-W-C10-CRO-05A-2015,Bol $10K,Clay,32,10,20150525,2,213875,,,Nina Holanova,L,,CZE,17.8,215194,,WC,Eliska Petrackova,R,,CZE,18.1,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,858,14,,
 2015-W-C10-CRO-05A-2015,Bol $10K,Clay,32,10,20150525,3,214318,,Q,Eleonore Barrere,L,,FRA,18.9,215195,,Q,Miriam Siljic,U,,CRO,16.5,3-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2015-W-C10-CRO-05A-2015,Bol $10K,Clay,32,10,20150525,4,211722,8,,Szabina Szlavikovics,R,,HUN,19.7,214293,,Q,Milica Novakovic,U,,SRB,18.9,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,699,25,,
@@ -1794,7 +1794,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-CRO-05A-2015,Bol $10K,Clay,32,10,20150525,14,211599,,,Ailen Crespo Azconzabal,U,,ARG,19.3,213925,,WC,Natalia Zorgovska,U,,SVK,18.6,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1014,8,,
 2015-W-C10-CRO-05A-2015,Bol $10K,Clay,32,10,20150525,15,211813,,,Luisa Marie Huber,U,,GER,19.9,214378,,WC,Margita Sunjic,R,,CRO,17.4,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,929,11,,
 2015-W-C10-CRO-05A-2015,Bol $10K,Clay,32,10,20150525,16,214706,,Q,Dana Kremer,R,,GER,17.7,211472,2,,Oleksandra Korashvili,R,,UKR,19.2,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,529,44
-2015-W-C10-CRO-05A-2015,Bol $10K,Clay,32,10,20150525,17,211329,1,,Tena Lukas,U,,CRO,20.0,213875,,,Nina Holanova,L,,CZE,17.8,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,396,82,858,14
+2015-W-C10-CRO-05A-2015,Bol $10K,Clay,32,10,20150525,17,211329,1,,Tena Lukas,R,,CRO,20.0,213875,,,Nina Holanova,L,,CZE,17.8,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,396,82,858,14
 2015-W-C10-CRO-05A-2015,Bol $10K,Clay,32,10,20150525,18,211722,8,,Szabina Szlavikovics,R,,HUN,19.7,214318,,Q,Eleonore Barrere,L,,FRA,18.9,7-5 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,699,25,,
 2015-W-C10-CRO-05A-2015,Bol $10K,Clay,32,10,20150525,19,213853,,Q,Eliessa Vanlangendonck,U,,BEL,18.1,211565,,,Martina Basic,U,,CRO,18.3,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,1020,8
 2015-W-C10-CRO-05A-2015,Bol $10K,Clay,32,10,20150525,20,201607,,,Sally Peers,R,162,AUS,23.9,202302,7,,Maria Fernanda Alves,L,174,BRA,32.1,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,660,29,661,29
@@ -1802,13 +1802,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-CRO-05A-2015,Bol $10K,Clay,32,10,20150525,22,211921,3,,Julieta Lara Estable,R,,ARG,17.8,211920,,Q,Martina Capurro Taborda,L,,ARG,17.4,6-2 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,560,39,,
 2015-W-C10-CRO-05A-2015,Bol $10K,Clay,32,10,20150525,23,213923,6,,Nina Alibalic,U,,CRO,16.4,211599,,,Ailen Crespo Azconzabal,U,,ARG,19.3,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,644,30,1014,8
 2015-W-C10-CRO-05A-2015,Bol $10K,Clay,32,10,20150525,24,214706,,Q,Dana Kremer,R,,GER,17.7,211813,,,Luisa Marie Huber,U,,GER,19.9,6-3 3-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,929,11
-2015-W-C10-CRO-05A-2015,Bol $10K,Clay,32,10,20150525,25,211329,1,,Tena Lukas,U,,CRO,20.0,211722,8,,Szabina Szlavikovics,R,,HUN,19.7,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,396,82,699,25
+2015-W-C10-CRO-05A-2015,Bol $10K,Clay,32,10,20150525,25,211329,1,,Tena Lukas,R,,CRO,20.0,211722,8,,Szabina Szlavikovics,R,,HUN,19.7,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,396,82,699,25
 2015-W-C10-CRO-05A-2015,Bol $10K,Clay,32,10,20150525,26,201607,,,Sally Peers,R,162,AUS,23.9,213853,,Q,Eliessa Vanlangendonck,U,,BEL,18.1,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,660,29,,
 2015-W-C10-CRO-05A-2015,Bol $10K,Clay,32,10,20150525,27,211921,3,,Julieta Lara Estable,R,,ARG,17.8,206248,,,Iva Primorac,U,,CRO,19.1,6-4 6-7(2) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,560,39,807,16
 2015-W-C10-CRO-05A-2015,Bol $10K,Clay,32,10,20150525,28,213923,6,,Nina Alibalic,U,,CRO,16.4,214706,,Q,Dana Kremer,R,,GER,17.7,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,644,30,,
-2015-W-C10-CRO-05A-2015,Bol $10K,Clay,32,10,20150525,29,211329,1,,Tena Lukas,U,,CRO,20.0,201607,,,Sally Peers,R,162,AUS,23.9,6-4 7-6(3),3,SF,,,,,,,,,,,,,,,,,,,,396,82,660,29
+2015-W-C10-CRO-05A-2015,Bol $10K,Clay,32,10,20150525,29,211329,1,,Tena Lukas,R,,CRO,20.0,201607,,,Sally Peers,R,162,AUS,23.9,6-4 7-6(3),3,SF,,,,,,,,,,,,,,,,,,,,396,82,660,29
 2015-W-C10-CRO-05A-2015,Bol $10K,Clay,32,10,20150525,30,213923,6,,Nina Alibalic,U,,CRO,16.4,211921,3,,Julieta Lara Estable,R,,ARG,17.8,3-6 7-6(5) 7-6(1),3,SF,,,,,,,,,,,,,,,,,,,,644,30,560,39
-2015-W-C10-CRO-05A-2015,Bol $10K,Clay,32,10,20150525,31,211329,1,,Tena Lukas,U,,CRO,20.0,213923,6,,Nina Alibalic,U,,CRO,16.4,6-4 4-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,396,82,644,30
+2015-W-C10-CRO-05A-2015,Bol $10K,Clay,32,10,20150525,31,211329,1,,Tena Lukas,R,,CRO,20.0,213923,6,,Nina Alibalic,U,,CRO,16.4,6-4 4-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,396,82,644,30
 2015-W-C10-CRO-06A-2015,Bol $10K,Clay,32,10,20150601,1,210741,1,,Iva Mekovec,R,,CRO,20.2,214700,,WC,Joanne Karaitiana,U,,AUS,26.3,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,349,101,,
 2015-W-C10-CRO-06A-2015,Bol $10K,Clay,32,10,20150601,2,213832,,Q,Rebeka Stolmar,R,,HUN,18.2,213853,,Q,Eliessa Vanlangendonck,U,,BEL,18.1,4-6 7-6(5) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,989,9,,
 2015-W-C10-CRO-06A-2015,Bol $10K,Clay,32,10,20150601,3,202615,,,Natasha Fourouclas,R,,RSA,21.3,213827,,Q,Magdalena Stoilkovska,R,,MKD,19.1,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,671,28,1219,3
@@ -1820,7 +1820,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-CRO-06A-2015,Bol $10K,Clay,32,10,20150601,9,210870,,,Natalia Siedliska,U,,POL,19.4,204384,5,,Agnes Bukta,R,,HUN,21.5,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,699,25,514,47
 2015-W-C10-CRO-06A-2015,Bol $10K,Clay,32,10,20150601,10,206166,,,Jade Suvrijn,R,,FRA,20.0,214378,,WC,Margita Sunjic,R,,CRO,17.4,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,681,26,,
 2015-W-C10-CRO-06A-2015,Bol $10K,Clay,32,10,20150601,11,206248,,,Iva Primorac,U,,CRO,19.1,211813,,,Luisa Marie Huber,U,,GER,19.9,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,807,16,929,11
-2015-W-C10-CRO-06A-2015,Bol $10K,Clay,32,10,20150601,12,211329,3,,Tena Lukas,U,,CRO,20.0,214148,,WC,Magdalena Pantuckova,U,,CZE,16.3,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,396,82,,
+2015-W-C10-CRO-06A-2015,Bol $10K,Clay,32,10,20150601,12,211329,3,,Tena Lukas,R,,CRO,20.0,214148,,WC,Magdalena Pantuckova,U,,CZE,16.3,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,396,82,,
 2015-W-C10-CRO-06A-2015,Bol $10K,Clay,32,10,20150601,13,211600,,Q,Ana Victoria Gobbi Monllau,U,,ARG,18.4,201607,7,,Sally Peers,R,162,AUS,24.0,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1183,4,662,29
 2015-W-C10-CRO-06A-2015,Bol $10K,Clay,32,10,20150601,14,205723,,,Anna Zaja,R,183,GER,23.9,210742,,,Mariana Drazic,R,,CRO,20.3,4-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,893,12,956,10
 2015-W-C10-CRO-06A-2015,Bol $10K,Clay,32,10,20150601,15,211722,,,Szabina Szlavikovics,R,,HUN,19.7,211599,,LL,Ailen Crespo Azconzabal,U,,ARG,19.3,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,701,25,1014,8
@@ -1830,7 +1830,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-CRO-06A-2015,Bol $10K,Clay,32,10,20150601,19,211296,4,,Dea Herdzelas,R,,BIH,18.5,215053,,Q,Dorien Cuypers,U,,BEL,17.8,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,443,66,,
 2015-W-C10-CRO-06A-2015,Bol $10K,Clay,32,10,20150601,20,214318,,Q,Eleonore Barrere,L,,FRA,18.9,211557,,,Nina Stadler,U,,SUI,19.6,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,877,13
 2015-W-C10-CRO-06A-2015,Bol $10K,Clay,32,10,20150601,21,206166,,,Jade Suvrijn,R,,FRA,20.0,210870,,,Natalia Siedliska,U,,POL,19.4,6-2 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,681,26,699,25
-2015-W-C10-CRO-06A-2015,Bol $10K,Clay,32,10,20150601,22,206248,,,Iva Primorac,U,,CRO,19.1,211329,3,,Tena Lukas,U,,CRO,20.0,7-5 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,807,16,396,82
+2015-W-C10-CRO-06A-2015,Bol $10K,Clay,32,10,20150601,22,206248,,,Iva Primorac,U,,CRO,19.1,211329,3,,Tena Lukas,R,,CRO,20.0,7-5 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,807,16,396,82
 2015-W-C10-CRO-06A-2015,Bol $10K,Clay,32,10,20150601,23,205723,,,Anna Zaja,R,183,GER,23.9,211600,,Q,Ana Victoria Gobbi Monllau,U,,ARG,18.4,3-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,893,12,1183,4
 2015-W-C10-CRO-06A-2015,Bol $10K,Clay,32,10,20150601,24,211406,2,,Gabriela Pantuckova,R,,CZE,20.3,211722,,,Szabina Szlavikovics,R,,HUN,19.7,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,378,89,701,25
 2015-W-C10-CRO-06A-2015,Bol $10K,Clay,32,10,20150601,25,210741,1,,Iva Mekovec,R,,CRO,20.2,211980,8,,Janneke Wikkerink,U,,NED,22.6,6-3 3-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,349,101,670,28
@@ -1844,7 +1844,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-CRO-07A-2015,Bol $10K,Clay,32,10,20150608,2,201607,,,Sally Peers,R,162,AUS,24.0,211565,,,Martina Basic,U,,CRO,18.4,7-6(5) 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,622,33,930,11
 2015-W-C10-CRO-07A-2015,Bol $10K,Clay,32,10,20150608,3,214378,,,Margita Sunjic,R,,CRO,17.5,215253,,Q,Klara Skopac,U,,CRO,20.2,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2015-W-C10-CRO-07A-2015,Bol $10K,Clay,32,10,20150608,4,206277,,,Marine Partaud,R,,FRA,20.5,205875,5,,Chantal Skamlova,R,,SVK,21.7,6-2 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,989,9,503,48
-2015-W-C10-CRO-07A-2015,Bol $10K,Clay,32,10,20150608,5,214148,,Q,Magdalena Pantuckova,U,,CZE,16.3,211329,3,WC,Tena Lukas,U,,CRO,20.0,6-3 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,390,87
+2015-W-C10-CRO-07A-2015,Bol $10K,Clay,32,10,20150608,5,214148,,Q,Magdalena Pantuckova,U,,CZE,16.3,211329,3,WC,Tena Lukas,R,,CRO,20.0,6-3 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,390,87
 2015-W-C10-CRO-07A-2015,Bol $10K,Clay,32,10,20150608,6,210870,,,Natalia Siedliska,U,,POL,19.4,213827,,,Magdalena Stoilkovska,R,,MKD,19.1,5-7 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,698,25,1211,3
 2015-W-C10-CRO-07A-2015,Bol $10K,Clay,32,10,20150608,7,214187,,Q,Anastasia Smirnova,U,,BEL,16.6,202615,,,Natasha Fourouclas,R,,RSA,21.3,6-4 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,739,21
 2015-W-C10-CRO-07A-2015,Bol $10K,Clay,32,10,20150608,8,205939,8,,Anna Shkudun,R,,UKR,20.3,203376,,,Eugeniya Pashkova,R,,RUS,26.2,6-1 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,530,45,652,30
@@ -1902,7 +1902,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-CRO-08A-2015,Vinkovci $10K,Clay,32,10,20150817,29,211407,8,,Dejana Radanovic,U,,SRB,19.2,214388,7,,Anna Bondar,R,,HUN,18.2,7-6(4) 6-1,3,SF,,,,,,,,,,,,,,,,,,,,636,32,577,39
 2015-W-C10-CRO-08A-2015,Vinkovci $10K,Clay,32,10,20150817,30,205875,4,,Chantal Skamlova,R,,SVK,21.9,203349,5,,Milana Spremo,R,,SRB,23.7,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,531,46,558,42
 2015-W-C10-CRO-08A-2015,Vinkovci $10K,Clay,32,10,20150817,31,205875,4,,Chantal Skamlova,R,,SVK,21.9,211407,8,,Dejana Radanovic,U,,SRB,19.2,4-6 6-3 7-5,3,F,,,,,,,,,,,,,,,,,,,,531,46,636,32
-2015-W-C10-CRO-09A-2015,Cakovec $10K,Clay,32,10,20150824,1,211329,1,,Tena Lukas,U,,CRO,20.2,211565,,,Martina Basic,U,,CRO,18.6,7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,316,129,971,10
+2015-W-C10-CRO-09A-2015,Cakovec $10K,Clay,32,10,20150824,1,211329,1,,Tena Lukas,R,,CRO,20.2,211565,,,Martina Basic,U,,CRO,18.6,7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,316,129,971,10
 2015-W-C10-CRO-09A-2015,Cakovec $10K,Clay,32,10,20150824,2,206357,,,Angelique Svinos,U,,AUS,19.5,214147,,WC,Pia Brglez,U,,SLO,18.8,7-6(6) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,968,10,,
 2015-W-C10-CRO-09A-2015,Cakovec $10K,Clay,32,10,20150824,3,213875,,,Nina Holanova,L,,CZE,18.1,215483,,WC,Leonarda Horvat,U,,CRO,15.0,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,934,11,,
 2015-W-C10-CRO-09A-2015,Cakovec $10K,Clay,32,10,20150824,4,211977,5,,Adrijana Lekaj,R,170,CRO,20.1,204389,,,Anna Maria Heil,U,,AUT,20.1,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,404,80,846,14
@@ -1918,7 +1918,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-CRO-09A-2015,Cakovec $10K,Clay,32,10,20150824,14,214553,,,Natalie Novotna,U,,CZE,18.6,214378,,Q,Margita Sunjic,R,,CRO,17.7,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1032,8,,
 2015-W-C10-CRO-09A-2015,Cakovec $10K,Clay,32,10,20150824,15,203293,,,Karolina Wlodarczak,R,178,AUS,28.1,215485,,Q,Alexandra Lazarova,R,,SVK,17.3,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,834,15,,
 2015-W-C10-CRO-09A-2015,Cakovec $10K,Clay,32,10,20150824,16,205824,2,,Ema Mikulcic,R,,CRO,23.3,214117,,Q,Diana Spissakova,U,,SVK,18.4,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,337,114,,
-2015-W-C10-CRO-09A-2015,Cakovec $10K,Clay,32,10,20150824,17,211329,1,,Tena Lukas,U,,CRO,20.2,206357,,,Angelique Svinos,U,,AUS,19.5,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,316,129,968,10
+2015-W-C10-CRO-09A-2015,Cakovec $10K,Clay,32,10,20150824,17,211329,1,,Tena Lukas,R,,CRO,20.2,206357,,,Angelique Svinos,U,,AUS,19.5,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,316,129,968,10
 2015-W-C10-CRO-09A-2015,Cakovec $10K,Clay,32,10,20150824,18,211977,5,,Adrijana Lekaj,R,170,CRO,20.1,213875,,,Nina Holanova,L,,CZE,18.1,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,404,80,934,11
 2015-W-C10-CRO-09A-2015,Cakovec $10K,Clay,32,10,20150824,19,214080,,Q,Nicole Coopersmith,R,,USA,16.2,210741,4,,Iva Mekovec,R,,CRO,20.5,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,371,93
 2015-W-C10-CRO-09A-2015,Cakovec $10K,Clay,32,10,20150824,20,203349,7,,Milana Spremo,R,,SRB,23.7,214048,,,Katarina Stresnakova,R,,SVK,18.1,6-3 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,558,42,1053,8
@@ -1926,14 +1926,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-CRO-09A-2015,Cakovec $10K,Clay,32,10,20150824,22,211406,3,,Gabriela Pantuckova,R,,CZE,20.5,203428,,,Vivien Juhaszova,R,,SVK,22.1,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,348,105,971,10
 2015-W-C10-CRO-09A-2015,Cakovec $10K,Clay,32,10,20150824,23,204384,8,,Agnes Bukta,R,,HUN,21.8,214553,,,Natalie Novotna,U,,CZE,18.6,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,709,23,1032,8
 2015-W-C10-CRO-09A-2015,Cakovec $10K,Clay,32,10,20150824,24,203293,,,Karolina Wlodarczak,R,178,AUS,28.1,205824,2,,Ema Mikulcic,R,,CRO,23.3,6-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,834,15,337,114
-2015-W-C10-CRO-09A-2015,Cakovec $10K,Clay,32,10,20150824,25,211977,5,,Adrijana Lekaj,R,170,CRO,20.1,211329,1,,Tena Lukas,U,,CRO,20.2,6-0 5-7 6-4,3,QF,,,,,,,,,,,,,,,,,,,,404,80,316,129
+2015-W-C10-CRO-09A-2015,Cakovec $10K,Clay,32,10,20150824,25,211977,5,,Adrijana Lekaj,R,170,CRO,20.1,211329,1,,Tena Lukas,R,,CRO,20.2,6-0 5-7 6-4,3,QF,,,,,,,,,,,,,,,,,,,,404,80,316,129
 2015-W-C10-CRO-09A-2015,Cakovec $10K,Clay,32,10,20150824,26,214080,,Q,Nicole Coopersmith,R,,USA,16.2,203349,7,,Milana Spremo,R,,SRB,23.7,6-1 3-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,558,42
 2015-W-C10-CRO-09A-2015,Cakovec $10K,Clay,32,10,20150824,27,211406,3,,Gabriela Pantuckova,R,,CZE,20.5,211967,,,Nina Potocnik,R,,SLO,18.6,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,348,105,956,10
 2015-W-C10-CRO-09A-2015,Cakovec $10K,Clay,32,10,20150824,28,204384,8,,Agnes Bukta,R,,HUN,21.8,203293,,,Karolina Wlodarczak,R,178,AUS,28.1,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,709,23,834,15
 2015-W-C10-CRO-09A-2015,Cakovec $10K,Clay,32,10,20150824,29,214080,,Q,Nicole Coopersmith,R,,USA,16.2,211977,5,,Adrijana Lekaj,R,170,CRO,20.1,5-7 6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,404,80
 2015-W-C10-CRO-09A-2015,Cakovec $10K,Clay,32,10,20150824,30,211406,3,,Gabriela Pantuckova,R,,CZE,20.5,204384,8,,Agnes Bukta,R,,HUN,21.8,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,348,105,709,23
 2015-W-C10-CRO-09A-2015,Cakovec $10K,Clay,32,10,20150824,31,214080,,Q,Nicole Coopersmith,R,,USA,16.2,211406,3,,Gabriela Pantuckova,R,,CZE,20.5,7-6(2) 3-6 6-1,3,F,,,,,,,,,,,,,,,,,,,,,,348,105
-2015-W-C10-CRO-10A-2015,Bol $10K,Clay,32,10,20150831,1,211329,1,,Tena Lukas,U,,CRO,20.3,215510,,WC,Mirna Curcic,U,,CRO,18.8,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,319,129,,
+2015-W-C10-CRO-10A-2015,Bol $10K,Clay,32,10,20150831,1,211329,1,,Tena Lukas,R,,CRO,20.3,215510,,WC,Mirna Curcic,U,,CRO,18.8,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,319,129,,
 2015-W-C10-CRO-10A-2015,Bol $10K,Clay,32,10,20150831,2,213832,,,Rebeka Stolmar,R,,HUN,18.5,210314,,Q,Dominique Wahl,U,,GER,22.8,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,871,14,,
 2015-W-C10-CRO-10A-2015,Bol $10K,Clay,32,10,20150831,3,215025,,Q,Tamara Kupkova,U,,SVK,17.5,214751,,WC,Barbora Miklova,R,,CZE,17.4,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2015-W-C10-CRO-10A-2015,Bol $10K,Clay,32,10,20150831,4,214026,7,,Natalija Sipek,U,,SLO,18.6,203400,,,Tea Faber,R,,CRO,26.1,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,673,29,1065,8
@@ -1949,7 +1949,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-CRO-10A-2015,Bol $10K,Clay,32,10,20150831,14,211565,,,Martina Basic,U,,CRO,18.6,214520,,,Andrea Raaholdt,R,,NOR,19.3,1-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,979,10,1241,3
 2015-W-C10-CRO-10A-2015,Bol $10K,Clay,32,10,20150831,15,214118,,Q,Luca Nagymihaly,U,,HUN,17.9,203543,,,Stefanie Vorih,R,,GER,18.7,5-7 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1109,6
 2015-W-C10-CRO-10A-2015,Bol $10K,Clay,32,10,20150831,16,210741,2,,Iva Mekovec,R,,CRO,20.5,215514,,Q,Anamarija Stevanovic,R,,SRB,18.0,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,373,93,,
-2015-W-C10-CRO-10A-2015,Bol $10K,Clay,32,10,20150831,17,211329,1,,Tena Lukas,U,,CRO,20.3,213832,,,Rebeka Stolmar,R,,HUN,18.5,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,319,129,871,14
+2015-W-C10-CRO-10A-2015,Bol $10K,Clay,32,10,20150831,17,211329,1,,Tena Lukas,R,,CRO,20.3,213832,,,Rebeka Stolmar,R,,HUN,18.5,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,319,129,871,14
 2015-W-C10-CRO-10A-2015,Bol $10K,Clay,32,10,20150831,18,214026,7,,Natalija Sipek,U,,SLO,18.6,215025,,Q,Tamara Kupkova,U,,SVK,17.5,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,673,29,,
 2015-W-C10-CRO-10A-2015,Bol $10K,Clay,32,10,20150831,19,201694,4,,Silvia Njiric,R,163,CRO,22.1,210871,,,Steffi Carruthers,R,,SAM,22.2,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,423,75,979,10
 2015-W-C10-CRO-10A-2015,Bol $10K,Clay,32,10,20150831,20,210786,8,,Anastasia Vdovenco,R,,MDA,21.3,211065,,LL,Charlotte Van Der Meij,U,,NED,23.6,6-1 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,712,23,,
@@ -1957,13 +1957,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-CRO-10A-2015,Bol $10K,Clay,32,10,20150831,22,211977,3,,Adrijana Lekaj,R,170,CRO,20.1,206371,,,Alina Silich,U,,RUS,19.1,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,408,80,895,13
 2015-W-C10-CRO-10A-2015,Bol $10K,Clay,32,10,20150831,23,214388,5,,Anna Bondar,R,,HUN,18.2,211565,,,Martina Basic,U,,CRO,18.6,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,557,43,979,10
 2015-W-C10-CRO-10A-2015,Bol $10K,Clay,32,10,20150831,24,214118,,Q,Luca Nagymihaly,U,,HUN,17.9,210741,2,,Iva Mekovec,R,,CRO,20.5,6-1 1-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,,,373,93
-2015-W-C10-CRO-10A-2015,Bol $10K,Clay,32,10,20150831,25,211329,1,,Tena Lukas,U,,CRO,20.3,214026,7,,Natalija Sipek,U,,SLO,18.6,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,319,129,673,29
+2015-W-C10-CRO-10A-2015,Bol $10K,Clay,32,10,20150831,25,211329,1,,Tena Lukas,R,,CRO,20.3,214026,7,,Natalija Sipek,U,,SLO,18.6,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,319,129,673,29
 2015-W-C10-CRO-10A-2015,Bol $10K,Clay,32,10,20150831,26,210786,8,,Anastasia Vdovenco,R,,MDA,21.3,201694,4,,Silvia Njiric,R,163,CRO,22.1,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,712,23,423,75
 2015-W-C10-CRO-10A-2015,Bol $10K,Clay,32,10,20150831,27,214148,,Q,Magdalena Pantuckova,U,,CZE,16.5,211977,3,,Adrijana Lekaj,R,170,CRO,20.1,3-6 6-0 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,408,80
 2015-W-C10-CRO-10A-2015,Bol $10K,Clay,32,10,20150831,28,214388,5,,Anna Bondar,R,,HUN,18.2,214118,,Q,Luca Nagymihaly,U,,HUN,17.9,6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,557,43,,
-2015-W-C10-CRO-10A-2015,Bol $10K,Clay,32,10,20150831,29,211329,1,,Tena Lukas,U,,CRO,20.3,210786,8,,Anastasia Vdovenco,R,,MDA,21.3,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,319,129,712,23
+2015-W-C10-CRO-10A-2015,Bol $10K,Clay,32,10,20150831,29,211329,1,,Tena Lukas,R,,CRO,20.3,210786,8,,Anastasia Vdovenco,R,,MDA,21.3,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,319,129,712,23
 2015-W-C10-CRO-10A-2015,Bol $10K,Clay,32,10,20150831,30,214388,5,,Anna Bondar,R,,HUN,18.2,214148,,Q,Magdalena Pantuckova,U,,CZE,16.5,6-1 6-1,3,SF,,,,,,,,,,,,,,,,,,,,557,43,,
-2015-W-C10-CRO-10A-2015,Bol $10K,Clay,32,10,20150831,31,214388,5,,Anna Bondar,R,,HUN,18.2,211329,1,,Tena Lukas,U,,CRO,20.3,6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,557,43,319,129
+2015-W-C10-CRO-10A-2015,Bol $10K,Clay,32,10,20150831,31,214388,5,,Anna Bondar,R,,HUN,18.2,211329,1,,Tena Lukas,R,,CRO,20.3,6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,557,43,319,129
 2015-W-C10-CRO-11A-2015,Bol $10K,Clay,32,10,20150907,1,214890,,Q,Petra Ivankovic,U,,CRO,19.2,214147,,LL,Pia Brglez,U,,SLO,18.8,6-4 5-7 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1241,3,,
 2015-W-C10-CRO-11A-2015,Bol $10K,Clay,32,10,20150907,2,214118,,WC,Luca Nagymihaly,U,,HUN,17.9,203400,,LL,Tea Faber,R,,CRO,26.1,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1065,8
 2015-W-C10-CRO-11A-2015,Bol $10K,Clay,32,10,20150907,3,214148,,SE,Magdalena Pantuckova,U,,CZE,16.6,203457,,,Polona Rebersak,U,,SLO,28.5,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,968,10
@@ -2026,7 +2026,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-CRO-12A-2015,Bol $10K,Clay,32,10,20150914,29,206248,,,Iva Primorac,U,,CRO,19.4,206419,,,Karin Kennel,R,,SUI,20.1,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,712,22,893,13
 2015-W-C10-CRO-12A-2015,Bol $10K,Clay,32,10,20150914,30,213628,2,,Melanie Stokke,R,,NOR,18.9,211323,4,,Natalia Vajdova,U,,SVK,20.3,7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,466,62,547,44
 2015-W-C10-CRO-12A-2015,Bol $10K,Clay,32,10,20150914,31,213628,2,,Melanie Stokke,R,,NOR,18.9,206248,,,Iva Primorac,U,,CRO,19.4,5-7 6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,466,62,712,22
-2015-W-C10-CRO-13A-2015,Bol $10K,Clay,32,10,20150921,1,214191,,Q,Seone Mendez,R,,AUS,16.3,211329,1,,Tena Lukas,U,,CRO,20.3,1-6 7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1022,8,262,164
+2015-W-C10-CRO-13A-2015,Bol $10K,Clay,32,10,20150921,1,214191,,Q,Seone Mendez,R,,AUS,16.3,211329,1,,Tena Lukas,R,,CRO,20.3,1-6 7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1022,8,262,164
 2015-W-C10-CRO-13A-2015,Bol $10K,Clay,32,10,20150921,2,214654,,Q,Anna Turati,U,,ITA,18.2,214319,,Q,Sara Cakarevic,R,,FRA,18.5,6-3 1-6 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,1148,5,,
 2015-W-C10-CRO-13A-2015,Bol $10K,Clay,32,10,20150921,3,206248,,,Iva Primorac,U,,CRO,19.4,214152,,,Federica Prati,U,,ITA,19.7,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,712,22,1034,8
 2015-W-C10-CRO-13A-2015,Bol $10K,Clay,32,10,20150921,4,214466,,WC,Sarlota Cesnekova,R,,SVK,18.7,206030,5,,Julia Wachaczyk,L,,GER,21.4,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,567,40
@@ -3489,7 +3489,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-ESP-01A-2015,Palmanova Mallorca $10K,Clay,32,10,20150209,29,206216,1,,Olga Saez Larra,U,,ESP,20.3,204330,7,,Alice Savoretti,R,,ITA,22.6,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,329,102,470,57
 2015-W-C10-ESP-01A-2015,Palmanova Mallorca $10K,Clay,32,10,20150209,30,203465,3,,Amanda Carreras,R,,GBR,24.7,210705,5,,Irina Bara,R,,ROU,19.8,6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,401,78,445,63
 2015-W-C10-ESP-01A-2015,Palmanova Mallorca $10K,Clay,32,10,20150209,31,203465,3,,Amanda Carreras,R,,GBR,24.7,206216,1,,Olga Saez Larra,U,,ESP,20.3,6-4 7-6(3),3,F,,,,,,,,,,,,,,,,,,,,401,78,329,102
-2015-W-C10-ESP-02A-2015,Palmanova Mallorca $10K,Clay,32,10,20150216,1,213710,,Q,Cristina Bucsa,U,,MDA,17.1,203406,1,,Lucia Cervera Vazquez,R,,ESP,23.8,6-4 3-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,1158,4,356,94
+2015-W-C10-ESP-02A-2015,Palmanova Mallorca $10K,Clay,32,10,20150216,1,213710,,Q,Cristina Bucsa,U,,ESP,17.1,203406,1,,Lucia Cervera Vazquez,R,,ESP,23.8,6-4 3-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,1158,4,356,94
 2015-W-C10-ESP-02A-2015,Palmanova Mallorca $10K,Clay,32,10,20150216,2,210786,,,Anastasia Vdovenco,R,,MDA,20.8,205439,,,Giulia Bruzzone,L,,ITA,23.9,6-3 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,698,23,728,21
 2015-W-C10-ESP-02A-2015,Palmanova Mallorca $10K,Clay,32,10,20150216,3,213803,,LL,Inger Van Dijkman,U,,NED,18.3,214317,,Q,Mallaurie Noel,U,,FRA,20.2,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1118,5,1213,3
 2015-W-C10-ESP-02A-2015,Palmanova Mallorca $10K,Clay,32,10,20150216,4,206253,8,,Ivonne Cavalle Reimers,R,,ESP,22.7,211334,,,Charlotte Klasen,U,,GER,19.3,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,516,47,612,32
@@ -3505,7 +3505,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-ESP-02A-2015,Palmanova Mallorca $10K,Clay,32,10,20150216,14,211901,,,Aliona Bolsova,R,172,MDA,17.2,211529,,Q,Sandra Samir,R,170,EGY,17.2,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,681,25,797,16
 2015-W-C10-ESP-02A-2015,Palmanova Mallorca $10K,Clay,32,10,20150216,15,214461,,,Tamara Zidansek,R,168,SLO,17.1,213730,,WC,Aina Schaffner Riera,R,,ESP,18.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,722,21,987,9
 2015-W-C10-ESP-02A-2015,Palmanova Mallorca $10K,Clay,32,10,20150216,16,203465,2,,Amanda Carreras,R,,GBR,24.7,211019,,,Audrey Albie,R,,FRA,20.3,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,400,78,631,30
-2015-W-C10-ESP-02A-2015,Palmanova Mallorca $10K,Clay,32,10,20150216,17,213710,,Q,Cristina Bucsa,U,,MDA,17.1,210786,,,Anastasia Vdovenco,R,,MDA,20.8,6-0 7-6(0),3,R16,,,,,,,,,,,,,,,,,,,,1158,4,698,23
+2015-W-C10-ESP-02A-2015,Palmanova Mallorca $10K,Clay,32,10,20150216,17,213710,,Q,Cristina Bucsa,U,,ESP,17.1,210786,,,Anastasia Vdovenco,R,,MDA,20.8,6-0 7-6(0),3,R16,,,,,,,,,,,,,,,,,,,,1158,4,698,23
 2015-W-C10-ESP-02A-2015,Palmanova Mallorca $10K,Clay,32,10,20150216,18,206253,8,,Ivonne Cavalle Reimers,R,,ESP,22.7,213803,,LL,Inger Van Dijkman,U,,NED,18.3,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,516,47,1118,5
 2015-W-C10-ESP-02A-2015,Palmanova Mallorca $10K,Clay,32,10,20150216,19,202463,4,,Ines Ferrer Suarez,U,,ESP,24.7,213629,,Q,Marina Guinart Espana,U,,ESP,18.6,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,446,63,,
 2015-W-C10-ESP-02A-2015,Palmanova Mallorca $10K,Clay,32,10,20150216,20,204330,6,,Alice Savoretti,R,,ITA,22.6,214937,,Q,Eva Guerrero Alvarez,U,,ESP,15.4,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,473,57,,
@@ -3513,15 +3513,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-ESP-02A-2015,Palmanova Mallorca $10K,Clay,32,10,20150216,22,211105,,,Akvile Parazinskaite,U,,LTU,18.2,213706,,Q,Irene Burillo Escorihuela,R,,ESP,17.5,1-6 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,670,26,,
 2015-W-C10-ESP-02A-2015,Palmanova Mallorca $10K,Clay,32,10,20150216,23,211901,,,Aliona Bolsova,R,172,MDA,17.2,213628,7,,Melanie Stokke,R,,NOR,18.3,3-6 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,681,25,508,49
 2015-W-C10-ESP-02A-2015,Palmanova Mallorca $10K,Clay,32,10,20150216,24,203465,2,,Amanda Carreras,R,,GBR,24.7,214461,,,Tamara Zidansek,R,168,SLO,17.1,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,400,78,722,21
-2015-W-C10-ESP-02A-2015,Palmanova Mallorca $10K,Clay,32,10,20150216,25,213710,,Q,Cristina Bucsa,U,,MDA,17.1,206253,8,,Ivonne Cavalle Reimers,R,,ESP,22.7,3-6 7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1158,4,516,47
+2015-W-C10-ESP-02A-2015,Palmanova Mallorca $10K,Clay,32,10,20150216,25,213710,,Q,Cristina Bucsa,U,,ESP,17.1,206253,8,,Ivonne Cavalle Reimers,R,,ESP,22.7,3-6 7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1158,4,516,47
 2015-W-C10-ESP-02A-2015,Palmanova Mallorca $10K,Clay,32,10,20150216,26,204330,6,,Alice Savoretti,R,,ITA,22.6,202463,4,,Ines Ferrer Suarez,U,,ESP,24.7,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,473,57,446,63
 2015-W-C10-ESP-02A-2015,Palmanova Mallorca $10K,Clay,32,10,20150216,27,210705,5,,Irina Bara,R,,ROU,19.9,211105,,,Akvile Parazinskaite,U,,LTU,18.2,6-2 3-6 6-0,3,QF,,,,,,,,,,,,,,,,,,,,419,71,670,26
 2015-W-C10-ESP-02A-2015,Palmanova Mallorca $10K,Clay,32,10,20150216,28,203465,2,,Amanda Carreras,R,,GBR,24.7,211901,,,Aliona Bolsova,R,172,MDA,17.2,6-1 7-5,3,QF,,,,,,,,,,,,,,,,,,,,400,78,681,25
-2015-W-C10-ESP-02A-2015,Palmanova Mallorca $10K,Clay,32,10,20150216,29,213710,,Q,Cristina Bucsa,U,,MDA,17.1,204330,6,,Alice Savoretti,R,,ITA,22.6,2-6 6-1 6-0,3,SF,,,,,,,,,,,,,,,,,,,,1158,4,473,57
+2015-W-C10-ESP-02A-2015,Palmanova Mallorca $10K,Clay,32,10,20150216,29,213710,,Q,Cristina Bucsa,U,,ESP,17.1,204330,6,,Alice Savoretti,R,,ITA,22.6,2-6 6-1 6-0,3,SF,,,,,,,,,,,,,,,,,,,,1158,4,473,57
 2015-W-C10-ESP-02A-2015,Palmanova Mallorca $10K,Clay,32,10,20150216,30,203465,2,,Amanda Carreras,R,,GBR,24.7,210705,5,,Irina Bara,R,,ROU,19.9,6-1 6-0,3,SF,,,,,,,,,,,,,,,,,,,,400,78,419,71
-2015-W-C10-ESP-02A-2015,Palmanova Mallorca $10K,Clay,32,10,20150216,31,203465,2,,Amanda Carreras,R,,GBR,24.7,213710,,Q,Cristina Bucsa,U,,MDA,17.1,7-5 6-0,3,F,,,,,,,,,,,,,,,,,,,,400,78,1158,4
+2015-W-C10-ESP-02A-2015,Palmanova Mallorca $10K,Clay,32,10,20150216,31,203465,2,,Amanda Carreras,R,,GBR,24.7,213710,,Q,Cristina Bucsa,U,,ESP,17.1,7-5 6-0,3,F,,,,,,,,,,,,,,,,,,,,400,78,1158,4
 2015-W-C10-ESP-03A-2015,Palmanova Mallorca $10K,Clay,32,10,20150223,1,203465,1,,Amanda Carreras,R,,GBR,24.7,214693,,Q,Marta Garcia Gausi,U,,ESP,17.9,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,366,89,,
-2015-W-C10-ESP-03A-2015,Palmanova Mallorca $10K,Clay,32,10,20150223,2,213710,,SE,Cristina Bucsa,U,,MDA,17.1,206171,,,Alice Bacquie,U,,FRA,19.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1160,4,670,26
+2015-W-C10-ESP-03A-2015,Palmanova Mallorca $10K,Clay,32,10,20150223,2,213710,,SE,Cristina Bucsa,U,,ESP,17.1,206171,,,Alice Bacquie,U,,FRA,19.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1160,4,670,26
 2015-W-C10-ESP-03A-2015,Palmanova Mallorca $10K,Clay,32,10,20150223,3,212021,,WC,Yuenu Li,U,,CHN,16.6,210786,,,Anastasia Vdovenco,R,,MDA,20.8,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,694,23
 2015-W-C10-ESP-03A-2015,Palmanova Mallorca $10K,Clay,32,10,20150223,4,204384,8,,Agnes Bukta,R,,HUN,21.3,213835,,Q,Alba Carrillo Marin,U,,ESP,18.9,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,533,44,1122,5
 2015-W-C10-ESP-03A-2015,Palmanova Mallorca $10K,Clay,32,10,20150223,5,211901,,,Aliona Bolsova,R,172,MDA,17.2,210705,3,,Irina Bara,R,,ROU,19.9,5-7 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,680,25,419,71
@@ -3536,7 +3536,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-ESP-03A-2015,Palmanova Mallorca $10K,Clay,32,10,20150223,14,211654,,Q,Ana Bianca Mihaila,U,,ROU,18.3,206339,,,Olga Parres Azcoitia,U,,ESP,21.9,4-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1046,7,699,23
 2015-W-C10-ESP-03A-2015,Palmanova Mallorca $10K,Clay,32,10,20150223,15,213803,,Q,Inger Van Dijkman,U,,NED,18.4,213702,,WC,Marta Sexmilo Pascual,R,,ESP,18.7,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1122,5,1082,6
 2015-W-C10-ESP-03A-2015,Palmanova Mallorca $10K,Clay,32,10,20150223,16,211406,2,,Gabriela Pantuckova,R,,CZE,20.0,214461,,,Tamara Zidansek,R,168,SLO,17.1,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,410,74,714,21
-2015-W-C10-ESP-03A-2015,Palmanova Mallorca $10K,Clay,32,10,20150223,17,213710,,SE,Cristina Bucsa,U,,MDA,17.1,203465,1,,Amanda Carreras,R,,GBR,24.7,6-7(6) 1-2 RET,3,R16,,,,,,,,,,,,,,,,,,,,1160,4,366,89
+2015-W-C10-ESP-03A-2015,Palmanova Mallorca $10K,Clay,32,10,20150223,17,213710,,SE,Cristina Bucsa,U,,ESP,17.1,203465,1,,Amanda Carreras,R,,GBR,24.7,6-7(6) 1-2 RET,3,R16,,,,,,,,,,,,,,,,,,,,1160,4,366,89
 2015-W-C10-ESP-03A-2015,Palmanova Mallorca $10K,Clay,32,10,20150223,18,204384,8,,Agnes Bukta,R,,HUN,21.3,212021,,WC,Yuenu Li,U,,CHN,16.6,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,533,44,,
 2015-W-C10-ESP-03A-2015,Palmanova Mallorca $10K,Clay,32,10,20150223,19,211901,,,Aliona Bolsova,R,172,MDA,17.2,213789,,,Katarina Jokic,U,,BIH,16.8,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,680,25,702,22
 2015-W-C10-ESP-03A-2015,Palmanova Mallorca $10K,Clay,32,10,20150223,20,206253,7,,Ivonne Cavalle Reimers,R,,ESP,22.7,211959,,WC,Ksenija Sharifova,R,,RUS,18.8,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,518,47,1064,6
@@ -3544,7 +3544,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-ESP-03A-2015,Palmanova Mallorca $10K,Clay,32,10,20150223,22,211508,,Q,Josephine Boualem,U,,ESP,21.5,211831,,Q,Roos Van Der Zwaan,R,,NED,19.0,7-6(4) 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,770,18,1160,4
 2015-W-C10-ESP-03A-2015,Palmanova Mallorca $10K,Clay,32,10,20150223,23,211529,,Q,Sandra Samir,R,170,EGY,17.3,211654,,Q,Ana Bianca Mihaila,U,,ROU,18.3,1-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,801,16,1046,7
 2015-W-C10-ESP-03A-2015,Palmanova Mallorca $10K,Clay,32,10,20150223,24,213803,,Q,Inger Van Dijkman,U,,NED,18.4,211406,2,,Gabriela Pantuckova,R,,CZE,20.0,7-5 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1122,5,410,74
-2015-W-C10-ESP-03A-2015,Palmanova Mallorca $10K,Clay,32,10,20150223,25,204384,8,,Agnes Bukta,R,,HUN,21.3,213710,,SE,Cristina Bucsa,U,,MDA,17.1,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,533,44,1160,4
+2015-W-C10-ESP-03A-2015,Palmanova Mallorca $10K,Clay,32,10,20150223,25,204384,8,,Agnes Bukta,R,,HUN,21.3,213710,,SE,Cristina Bucsa,U,,ESP,17.1,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,533,44,1160,4
 2015-W-C10-ESP-03A-2015,Palmanova Mallorca $10K,Clay,32,10,20150223,26,206253,7,,Ivonne Cavalle Reimers,R,,ESP,22.7,211901,,,Aliona Bolsova,R,172,MDA,17.2,5-7 6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,518,47,680,25
 2015-W-C10-ESP-03A-2015,Palmanova Mallorca $10K,Clay,32,10,20150223,27,211508,,Q,Josephine Boualem,U,,ESP,21.5,204330,5,,Alice Savoretti,R,,ITA,22.6,7-5 7-5,3,QF,,,,,,,,,,,,,,,,,,,,770,18,455,60
 2015-W-C10-ESP-03A-2015,Palmanova Mallorca $10K,Clay,32,10,20150223,28,211529,,Q,Sandra Samir,R,170,EGY,17.3,213803,,Q,Inger Van Dijkman,U,,NED,18.4,6-2 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,801,16,1122,5
@@ -3596,7 +3596,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-ESP-05A-2015,Madrid $10K,Clay,32,10,20150601,12,201638,4,,Estrella Cabeza Candela,R,173,ESP,28.2,213557,,WC,Maria Gutierrez Carrasco,U,,ESP,17.7,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,468,57,1183,4
 2015-W-C10-ESP-05A-2015,Madrid $10K,Clay,32,10,20150601,13,206430,7,,Carolina Alves,U,,BRA,19.1,211956,,,Ariadna Marti Riembau,R,,ESP,18.9,6-1 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,521,45,901,12
 2015-W-C10-ESP-05A-2015,Madrid $10K,Clay,32,10,20150601,14,211959,,,Ksenija Sharifova,R,,RUS,19.0,214754,,Q,Andrea Garcia Fernandez,U,,ESP,17.0,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,790,17,,
-2015-W-C10-ESP-05A-2015,Madrid $10K,Clay,32,10,20150601,15,213710,,,Cristina Bucsa,U,,MDA,17.4,211323,,,Natalia Vajdova,U,,SVK,20.0,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,895,12,726,22
+2015-W-C10-ESP-05A-2015,Madrid $10K,Clay,32,10,20150601,15,213710,,,Cristina Bucsa,U,,ESP,17.4,211323,,,Natalia Vajdova,U,,SVK,20.0,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,895,12,726,22
 2015-W-C10-ESP-05A-2015,Madrid $10K,Clay,32,10,20150601,16,205790,2,,Alexandra Nancarrow,R,165,AUS,21.7,211028,,SE,Maria Martinez Martinez,R,,ESP,19.1,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,420,73,929,11
 2015-W-C10-ESP-05A-2015,Madrid $10K,Clay,32,10,20150601,17,206216,1,,Olga Saez Larra,U,,ESP,20.7,213702,,Q,Marta Sexmilo Pascual,R,,ESP,18.9,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,341,104,1050,7
 2015-W-C10-ESP-05A-2015,Madrid $10K,Clay,32,10,20150601,18,202704,,WC,Rocio De La Torre Sanchez,U,,ESP,24.6,210703,,,Steffi Distelmans,U,,BEL,21.9,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1103,5,710,23
@@ -3605,7 +3605,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-ESP-05A-2015,Madrid $10K,Clay,32,10,20150601,21,206175,6,,Tess Sugnaux,R,,SUI,20.2,206390,,,Isabelle Wallace,L,,AUS,18.7,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,485,53,650,30
 2015-W-C10-ESP-05A-2015,Madrid $10K,Clay,32,10,20150601,22,201638,4,,Estrella Cabeza Candela,R,173,ESP,28.2,214216,,WC,Marta Huqi Gonzalez Encinas,U,,ESP,16.7,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,468,57,943,10
 2015-W-C10-ESP-05A-2015,Madrid $10K,Clay,32,10,20150601,23,206430,7,,Carolina Alves,U,,BRA,19.1,211959,,,Ksenija Sharifova,R,,RUS,19.0,4-6 6-2 6-2 RET,3,R16,,,,,,,,,,,,,,,,,,,,521,45,790,17
-2015-W-C10-ESP-05A-2015,Madrid $10K,Clay,32,10,20150601,24,205790,2,,Alexandra Nancarrow,R,165,AUS,21.7,213710,,,Cristina Bucsa,U,,MDA,17.4,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,420,73,895,12
+2015-W-C10-ESP-05A-2015,Madrid $10K,Clay,32,10,20150601,24,205790,2,,Alexandra Nancarrow,R,165,AUS,21.7,213710,,,Cristina Bucsa,U,,ESP,17.4,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,420,73,895,12
 2015-W-C10-ESP-05A-2015,Madrid $10K,Clay,32,10,20150601,25,206216,1,,Olga Saez Larra,U,,ESP,20.7,202704,,WC,Rocio De La Torre Sanchez,U,,ESP,24.6,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,341,104,1103,5
 2015-W-C10-ESP-05A-2015,Madrid $10K,Clay,32,10,20150601,26,205363,5,,Cristina Sanchez Quintanar,R,,ESP,26.1,214701,,Q,Natalia Serrano Garcia,R,,ESP,18.2,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,472,57,,
 2015-W-C10-ESP-05A-2015,Madrid $10K,Clay,32,10,20150601,27,201638,4,,Estrella Cabeza Candela,R,173,ESP,28.2,206175,6,,Tess Sugnaux,R,,SUI,20.2,4-6 6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,468,57,485,53
@@ -3626,7 +3626,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-ESP-06A-2015,Madrid $10K,Clay,32,10,20150608,11,213702,,Q,Marta Sexmilo Pascual,R,,ESP,18.9,206418,,,Imane Maelle Kocher,R,,SUI,20.6,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1054,7,899,12
 2015-W-C10-ESP-06A-2015,Madrid $10K,Clay,32,10,20150608,12,213728,,Q,Maria Del Rosario Canero Perez,U,,ESP,18.4,205363,4,,Cristina Sanchez Quintanar,R,,ESP,26.2,6-4 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1176,4,471,57
 2015-W-C10-ESP-06A-2015,Madrid $10K,Clay,32,10,20150608,13,206430,6,,Carolina Alves,U,,BRA,19.1,211028,,Q,Maria Martinez Martinez,R,,ESP,19.1,3-6 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,520,45,831,15
-2015-W-C10-ESP-06A-2015,Madrid $10K,Clay,32,10,20150608,14,213710,,,Cristina Bucsa,U,,MDA,17.4,206276,,,Ainhoa Atucha Gomez,L,,ESP,22.0,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,898,12,877,13
+2015-W-C10-ESP-06A-2015,Madrid $10K,Clay,32,10,20150608,14,213710,,,Cristina Bucsa,U,,ESP,17.4,206276,,,Ainhoa Atucha Gomez,L,,ESP,22.0,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,898,12,877,13
 2015-W-C10-ESP-06A-2015,Madrid $10K,Clay,32,10,20150608,15,202704,,Q,Rocio De La Torre Sanchez,U,,ESP,24.6,211959,,,Ksenija Sharifova,R,,RUS,19.1,6-2 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1103,5,791,17
 2015-W-C10-ESP-06A-2015,Madrid $10K,Clay,32,10,20150608,16,205790,2,,Alexandra Nancarrow,R,165,AUS,21.7,214212,,Q,Noelia Bouzo Zanotti,R,,ESP,15.7,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,422,73,,
 2015-W-C10-ESP-06A-2015,Madrid $10K,Clay,32,10,20150608,17,203406,1,,Lucia Cervera Vazquez,R,,ESP,24.1,201646,,,Maria Joao Koehler,U,174,POR,22.6,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,367,94,862,13
@@ -3635,16 +3635,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-ESP-06A-2015,Madrid $10K,Clay,32,10,20150608,20,205855,,,Elyne Boeykens,R,,BEL,24.1,205123,7,,Alice Balducci,R,,ITA,28.7,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,897,12,547,41
 2015-W-C10-ESP-06A-2015,Madrid $10K,Clay,32,10,20150608,21,211901,8,,Aliona Bolsova,R,172,MDA,17.5,206390,,,Isabelle Wallace,L,,AUS,18.7,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,570,38,651,30
 2015-W-C10-ESP-06A-2015,Madrid $10K,Clay,32,10,20150608,22,213702,,Q,Marta Sexmilo Pascual,R,,ESP,18.9,213728,,Q,Maria Del Rosario Canero Perez,U,,ESP,18.4,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1054,7,1176,4
-2015-W-C10-ESP-06A-2015,Madrid $10K,Clay,32,10,20150608,23,213710,,,Cristina Bucsa,U,,MDA,17.4,206430,6,,Carolina Alves,U,,BRA,19.1,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,898,12,520,45
+2015-W-C10-ESP-06A-2015,Madrid $10K,Clay,32,10,20150608,23,213710,,,Cristina Bucsa,U,,ESP,17.4,206430,6,,Carolina Alves,U,,BRA,19.1,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,898,12,520,45
 2015-W-C10-ESP-06A-2015,Madrid $10K,Clay,32,10,20150608,24,202704,,Q,Rocio De La Torre Sanchez,U,,ESP,24.6,205790,2,,Alexandra Nancarrow,R,165,AUS,21.7,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1103,5,422,73
 2015-W-C10-ESP-06A-2015,Madrid $10K,Clay,32,10,20150608,25,203406,1,,Lucia Cervera Vazquez,R,,ESP,24.1,206175,5,,Tess Sugnaux,R,,SUI,20.2,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,367,94,485,53
 2015-W-C10-ESP-06A-2015,Madrid $10K,Clay,32,10,20150608,26,201638,3,,Estrella Cabeza Candela,R,173,ESP,28.2,205855,,,Elyne Boeykens,R,,BEL,24.1,0-6 6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,509,47,897,12
 2015-W-C10-ESP-06A-2015,Madrid $10K,Clay,32,10,20150608,27,211901,8,,Aliona Bolsova,R,172,MDA,17.5,213702,,Q,Marta Sexmilo Pascual,R,,ESP,18.9,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,570,38,1054,7
-2015-W-C10-ESP-06A-2015,Madrid $10K,Clay,32,10,20150608,28,202704,,Q,Rocio De La Torre Sanchez,U,,ESP,24.6,213710,,,Cristina Bucsa,U,,MDA,17.4,2-1 RET,3,QF,,,,,,,,,,,,,,,,,,,,1103,5,898,12
+2015-W-C10-ESP-06A-2015,Madrid $10K,Clay,32,10,20150608,28,202704,,Q,Rocio De La Torre Sanchez,U,,ESP,24.6,213710,,,Cristina Bucsa,U,,ESP,17.4,2-1 RET,3,QF,,,,,,,,,,,,,,,,,,,,1103,5,898,12
 2015-W-C10-ESP-06A-2015,Madrid $10K,Clay,32,10,20150608,29,203406,1,,Lucia Cervera Vazquez,R,,ESP,24.1,201638,3,,Estrella Cabeza Candela,R,173,ESP,28.2,6-3 1-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,367,94,509,47
 2015-W-C10-ESP-06A-2015,Madrid $10K,Clay,32,10,20150608,30,211901,8,,Aliona Bolsova,R,172,MDA,17.5,202704,,Q,Rocio De La Torre Sanchez,U,,ESP,24.6,6-7(6) 6-1 6-3,3,SF,,,,,,,,,,,,,,,,,,,,570,38,1103,5
 2015-W-C10-ESP-06A-2015,Madrid $10K,Clay,32,10,20150608,31,211901,8,,Aliona Bolsova,R,172,MDA,17.5,203406,1,,Lucia Cervera Vazquez,R,,ESP,24.1,7-5 3-6 6-4,3,F,,,,,,,,,,,,,,,,,,,,570,38,367,94
-2015-W-C10-ESP-07A-2015,Getxo $10K,Clay,32,10,20150706,1,203406,1,,Lucia Cervera Vazquez,R,,ESP,24.1,213710,,,Cristina Bucsa,U,,MDA,17.5,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,397,82,858,14
+2015-W-C10-ESP-07A-2015,Getxo $10K,Clay,32,10,20150706,1,203406,1,,Lucia Cervera Vazquez,R,,ESP,24.1,213710,,,Cristina Bucsa,U,,ESP,17.5,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,397,82,858,14
 2015-W-C10-ESP-07A-2015,Getxo $10K,Clay,32,10,20150706,2,202662,,,Camilla Rosatello,R,,ITA,20.1,211368,,WC,Judit Vives Joan,L,,ESP,19.9,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,758,20,,
 2015-W-C10-ESP-07A-2015,Getxo $10K,Clay,32,10,20150706,3,214212,,Q,Noelia Bouzo Zanotti,R,,ESP,15.8,215352,,WC,Victoria Emma,R,,USA,15.9,1-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2015-W-C10-ESP-07A-2015,Getxo $10K,Clay,32,10,20150706,4,205964,6,,Laetitia Sarrazin,R,,FRA,22.3,210908,,Q,Claudia Herrero Garcia Honorato,U,,ESP,20.2,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,658,30,,
@@ -3845,7 +3845,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-ESP-13A-2015,Madrid $10K,Hard,32,10,20150921,13,215042,7,,Katie Swan,R,170,GBR,16.4,214442,,WC,Lidia Moreno Arias,U,,ESP,18.6,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,612,33,,
 2015-W-C10-ESP-13A-2015,Madrid $10K,Hard,32,10,20150921,14,215020,,Q,Anna Blinkova,R,179,RUS,17.0,215468,,Q,Momoko Kobori,R,158,JPN,17.0,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2015-W-C10-ESP-13A-2015,Madrid $10K,Hard,32,10,20150921,15,211028,,,Maria Martinez Martinez,R,,ESP,19.4,214216,,,Marta Huqi Gonzalez Encinas,U,,ESP,17.0,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,795,17,681,26
-2015-W-C10-ESP-13A-2015,Madrid $10K,Hard,32,10,20150921,16,213710,,,Cristina Bucsa,U,,MDA,17.7,206216,2,,Olga Saez Larra,U,,ESP,21.0,6-1 1-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,769,18,318,117
+2015-W-C10-ESP-13A-2015,Madrid $10K,Hard,32,10,20150921,16,213710,,,Cristina Bucsa,U,,ESP,17.7,206216,2,,Olga Saez Larra,U,,ESP,21.0,6-1 1-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,769,18,318,117
 2015-W-C10-ESP-13A-2015,Madrid $10K,Hard,32,10,20150921,17,214119,,Q,Rebeka Masarova,R,186,ESP,16.1,202640,1,,Irina Ramialison,R,158,FRA,24.2,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,283,150
 2015-W-C10-ESP-13A-2015,Madrid $10K,Hard,32,10,20150921,18,214444,,WC,Estela Perez Somarriba,U,,ESP,17.1,210957,6,,Cornelia Lister,U,183,SWE,21.3,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,961,10,528,47
 2015-W-C10-ESP-13A-2015,Madrid $10K,Hard,32,10,20150921,19,205363,3,,Cristina Sanchez Quintanar,R,,ESP,26.4,202704,,,Rocio De La Torre Sanchez,U,,ESP,24.9,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,422,72,676,26
@@ -3853,11 +3853,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-ESP-13A-2015,Madrid $10K,Hard,32,10,20150921,21,206390,,,Isabelle Wallace,L,,AUS,19.0,214754,,Q,Andrea Garcia Fernandez,U,,ESP,17.3,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,921,12,,
 2015-W-C10-ESP-13A-2015,Madrid $10K,Hard,32,10,20150921,22,201638,4,,Estrella Cabeza Candela,R,173,ESP,28.5,213557,,WC,Maria Gutierrez Carrasco,U,,ESP,18.0,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,455,63,1034,8
 2015-W-C10-ESP-13A-2015,Madrid $10K,Hard,32,10,20150921,23,215042,7,,Katie Swan,R,170,GBR,16.4,215020,,Q,Anna Blinkova,R,179,RUS,17.0,6-2 4-6 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,612,33,,
-2015-W-C10-ESP-13A-2015,Madrid $10K,Hard,32,10,20150921,24,213710,,,Cristina Bucsa,U,,MDA,17.7,211028,,,Maria Martinez Martinez,R,,ESP,19.4,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,769,18,795,17
+2015-W-C10-ESP-13A-2015,Madrid $10K,Hard,32,10,20150921,24,213710,,,Cristina Bucsa,U,,ESP,17.7,211028,,,Maria Martinez Martinez,R,,ESP,19.4,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,769,18,795,17
 2015-W-C10-ESP-13A-2015,Madrid $10K,Hard,32,10,20150921,25,214119,,Q,Rebeka Masarova,R,186,ESP,16.1,214444,,WC,Estela Perez Somarriba,U,,ESP,17.1,6-3 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,,,961,10
 2015-W-C10-ESP-13A-2015,Madrid $10K,Hard,32,10,20150921,26,205363,3,,Cristina Sanchez Quintanar,R,,ESP,26.4,214937,,Q,Eva Guerrero Alvarez,U,,ESP,16.0,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,422,72,1061,7
 2015-W-C10-ESP-13A-2015,Madrid $10K,Hard,32,10,20150921,27,201638,4,,Estrella Cabeza Candela,R,173,ESP,28.5,206390,,,Isabelle Wallace,L,,AUS,19.0,4-6 6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,455,63,921,12
-2015-W-C10-ESP-13A-2015,Madrid $10K,Hard,32,10,20150921,28,215042,7,,Katie Swan,R,170,GBR,16.4,213710,,,Cristina Bucsa,U,,MDA,17.7,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,612,33,769,18
+2015-W-C10-ESP-13A-2015,Madrid $10K,Hard,32,10,20150921,28,215042,7,,Katie Swan,R,170,GBR,16.4,213710,,,Cristina Bucsa,U,,ESP,17.7,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,612,33,769,18
 2015-W-C10-ESP-13A-2015,Madrid $10K,Hard,32,10,20150921,29,205363,3,,Cristina Sanchez Quintanar,R,,ESP,26.4,214119,,Q,Rebeka Masarova,R,186,ESP,16.1,6-4 3-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,422,72,,
 2015-W-C10-ESP-13A-2015,Madrid $10K,Hard,32,10,20150921,30,215042,7,,Katie Swan,R,170,GBR,16.4,201638,4,,Estrella Cabeza Candela,R,173,ESP,28.5,3-0 RET,3,SF,,,,,,,,,,,,,,,,,,,,612,33,455,63
 2015-W-C10-ESP-13A-2015,Madrid $10K,Hard,32,10,20150921,31,215042,7,,Katie Swan,R,170,GBR,16.4,205363,3,,Cristina Sanchez Quintanar,R,,ESP,26.4,6-7(5) 6-2 6-3,3,F,,,,,,,,,,,,,,,,,,,,612,33,422,72
@@ -3955,7 +3955,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-ESP-16A-2015,Vinaroz $10K,Clay,32,10,20151102,30,201638,2,,Estrella Cabeza Candela,R,173,ESP,28.6,202435,5,,Vanda Lukacs,U,,HUN,22.8,6-2 4-6 7-5,3,SF,,,,,,,,,,,,,,,,,,,,393,88,539,48
 2015-W-C10-ESP-16A-2015,Vinaroz $10K,Clay,32,10,20151102,31,201638,2,,Estrella Cabeza Candela,R,173,ESP,28.6,214212,,WC,Noelia Bouzo Zanotti,R,,ESP,16.1,6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,393,88,1071,7
 2015-W-C10-ESP-17A-2015,Benicarlo $10K,Clay,32,10,20151109,1,203465,1,,Amanda Carreras,R,,GBR,25.4,214160,,Q,Eva Martinez Regalado,U,,ESP,19.3,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,307,133,1145,5
-2015-W-C10-ESP-17A-2015,Benicarlo $10K,Clay,32,10,20151109,2,213710,,,Cristina Bucsa,U,,MDA,17.8,215698,,WC,Paula Arias Manjon,U,,ESP,15.7,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,757,20,,
+2015-W-C10-ESP-17A-2015,Benicarlo $10K,Clay,32,10,20151109,2,213710,,,Cristina Bucsa,U,,ESP,17.8,215698,,WC,Paula Arias Manjon,U,,ESP,15.7,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,757,20,,
 2015-W-C10-ESP-17A-2015,Benicarlo $10K,Clay,32,10,20151109,3,214236,,Q,Angela Fita Boluda,U,,ESP,16.3,213835,,,Alba Carrillo Marin,U,,ESP,19.6,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,922,12
 2015-W-C10-ESP-17A-2015,Benicarlo $10K,Clay,32,10,20151109,4,202435,7,,Vanda Lukacs,U,,HUN,22.9,214273,,WC,Ksenia Kuznetsova,R,,RUS,17.7,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,539,48,,
 2015-W-C10-ESP-17A-2015,Benicarlo $10K,Clay,32,10,20151109,5,211472,3,,Oleksandra Korashvili,R,,UKR,19.6,211956,,,Ariadna Marti Riembau,R,,ESP,19.3,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,444,67,893,13
@@ -3970,7 +3970,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-ESP-17A-2015,Benicarlo $10K,Clay,32,10,20151109,14,211021,,,Lea Tholey,L,,FRA,20.1,214885,,Q,Meritxell Perera Ros,U,,ESP,17.0,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,944,11,1265,3
 2015-W-C10-ESP-17A-2015,Benicarlo $10K,Clay,32,10,20151109,15,214444,,,Estela Perez Somarriba,U,,ESP,17.2,211959,,,Ksenija Sharifova,R,,RUS,19.5,6-3 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,922,12,873,14
 2015-W-C10-ESP-17A-2015,Benicarlo $10K,Clay,32,10,20151109,16,211122,,,Charlotte Roemer,R,171,ECU,21.8,211221,,LL,Chiara Quattrone,R,,ITA,20.7,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,817,17,,
-2015-W-C10-ESP-17A-2015,Benicarlo $10K,Clay,32,10,20151109,17,203465,1,,Amanda Carreras,R,,GBR,25.4,213710,,,Cristina Bucsa,U,,MDA,17.8,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,307,133,757,20
+2015-W-C10-ESP-17A-2015,Benicarlo $10K,Clay,32,10,20151109,17,203465,1,,Amanda Carreras,R,,GBR,25.4,213710,,,Cristina Bucsa,U,,ESP,17.8,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,307,133,757,20
 2015-W-C10-ESP-17A-2015,Benicarlo $10K,Clay,32,10,20151109,18,202435,7,,Vanda Lukacs,U,,HUN,22.9,214236,,Q,Angela Fita Boluda,U,,ESP,16.3,7-6(4) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,539,48,,
 2015-W-C10-ESP-17A-2015,Benicarlo $10K,Clay,32,10,20151109,19,214191,,,Seone Mendez,R,,AUS,16.4,211472,3,,Oleksandra Korashvili,R,,UKR,19.6,1-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,961,10,444,67
 2015-W-C10-ESP-17A-2015,Benicarlo $10K,Clay,32,10,20151109,20,211508,5,,Josephine Boualem,U,,ESP,22.2,215550,,Q,Ayano Shimizu,R,,JPN,17.5,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,512,52,,
@@ -3995,7 +3995,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-ESP-18A-2015,Castellon $10K,Clay,32,10,20151116,8,214212,,WC,Noelia Bouzo Zanotti,R,,ESP,16.1,202435,7,,Vanda Lukacs,U,,HUN,22.9,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,894,13,518,51
 2015-W-C10-ESP-18A-2015,Castellon $10K,Clay,32,10,20151116,9,211508,6,,Josephine Boualem,U,,ESP,22.2,214273,,Q,Ksenia Kuznetsova,R,,RUS,17.7,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,506,53,,
 2015-W-C10-ESP-18A-2015,Castellon $10K,Clay,32,10,20151116,10,211028,,,Maria Martinez Martinez,R,,ESP,19.6,214215,,Q,Maria Toran Ribes,U,,ESP,17.2,7-6(4) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,750,22,,
-2015-W-C10-ESP-18A-2015,Castellon $10K,Clay,32,10,20151116,11,213710,,,Cristina Bucsa,U,,MDA,17.8,213702,,Q,Marta Sexmilo Pascual,R,,ESP,19.4,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,765,20,1014,9
+2015-W-C10-ESP-18A-2015,Castellon $10K,Clay,32,10,20151116,11,213710,,,Cristina Bucsa,U,,ESP,17.8,213702,,Q,Marta Sexmilo Pascual,R,,ESP,19.4,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,765,20,1014,9
 2015-W-C10-ESP-18A-2015,Castellon $10K,Clay,32,10,20151116,12,211472,4,,Oleksandra Korashvili,R,,UKR,19.7,214191,,,Seone Mendez,R,,AUS,16.5,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,441,69,964,10
 2015-W-C10-ESP-18A-2015,Castellon $10K,Clay,32,10,20151116,13,204330,8,,Alice Savoretti,R,,ITA,23.4,203586,,,Ioana Loredana Rosca,R,,ROU,19.1,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,540,48,564,44
 2015-W-C10-ESP-18A-2015,Castellon $10K,Clay,32,10,20151116,14,206145,,,Diana Sumova,U,,CZE,21.1,211956,,,Ariadna Marti Riembau,R,,ESP,19.3,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,678,28,883,14
@@ -4006,7 +4006,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-ESP-18A-2015,Castellon $10K,Clay,32,10,20151116,19,206216,3,,Olga Saez Larra,U,,ESP,21.1,215468,,Q,Momoko Kobori,R,158,JPN,17.2,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,348,108,,
 2015-W-C10-ESP-18A-2015,Castellon $10K,Clay,32,10,20151116,20,206390,,,Isabelle Wallace,L,,AUS,19.1,214212,,WC,Noelia Bouzo Zanotti,R,,ESP,16.1,6-3 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,784,19,894,13
 2015-W-C10-ESP-18A-2015,Castellon $10K,Clay,32,10,20151116,21,211508,6,,Josephine Boualem,U,,ESP,22.2,211028,,,Maria Martinez Martinez,R,,ESP,19.6,7-6(3) 6-7(6) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,506,53,750,22
-2015-W-C10-ESP-18A-2015,Castellon $10K,Clay,32,10,20151116,22,211472,4,,Oleksandra Korashvili,R,,UKR,19.7,213710,,,Cristina Bucsa,U,,MDA,17.8,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,441,69,765,20
+2015-W-C10-ESP-18A-2015,Castellon $10K,Clay,32,10,20151116,22,211472,4,,Oleksandra Korashvili,R,,UKR,19.7,213710,,,Cristina Bucsa,U,,ESP,17.8,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,441,69,765,20
 2015-W-C10-ESP-18A-2015,Castellon $10K,Clay,32,10,20151116,23,206145,,,Diana Sumova,U,,CZE,21.1,204330,8,,Alice Savoretti,R,,ITA,23.4,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,678,28,540,48
 2015-W-C10-ESP-18A-2015,Castellon $10K,Clay,32,10,20151116,24,213706,,,Irene Burillo Escorihuela,R,,ESP,18.3,215550,,Q,Ayano Shimizu,R,,JPN,17.5,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,710,25,,
 2015-W-C10-ESP-18A-2015,Castellon $10K,Clay,32,10,20151116,25,206302,5,,Gaia Sanesi,L,170,ITA,23.6,203521,1,,Andrea Gamiz,R,162,VEN,23.0,7-6(6) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,468,60,259,175
@@ -6185,7 +6185,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-ITA-11A-2015,Santa Margherita di Pula $10K,Clay,32,10,20150504,4,205964,8,,Laetitia Sarrazin,R,,FRA,22.1,213552,,Q,Adeliya Zabirova,U,,RUS,16.7,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,718,22,,
 2015-W-C10-ITA-11A-2015,Santa Margherita di Pula $10K,Clay,32,10,20150504,5,215155,,,Olesya Pervushina,R,,RUS,15.0,211880,3,,Priscilla Hon,R,171,AUS,16.9,4-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,499,47
 2015-W-C10-ITA-11A-2015,Santa Margherita di Pula $10K,Clay,32,10,20150504,6,206209,,WC,Maria Masini,R,,ITA,21.2,205588,,Q,Yasmine Guimaraes,U,,BRA,24.4,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2015-W-C10-ITA-11A-2015,Santa Margherita di Pula $10K,Clay,32,10,20150504,7,213710,,,Cristina Bucsa,U,,MDA,17.3,214602,,WC,Jovana Knezevic,U,,CYP,16.7,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,869,13,,
+2015-W-C10-ITA-11A-2015,Santa Margherita di Pula $10K,Clay,32,10,20150504,7,213710,,,Cristina Bucsa,U,,ESP,17.3,214602,,WC,Jovana Knezevic,U,,CYP,16.7,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,869,13,,
 2015-W-C10-ITA-11A-2015,Santa Margherita di Pula $10K,Clay,32,10,20150504,8,213926,7,,Bianca Turati,R,173,ITA,17.8,213934,,,Nora Niedmers,U,,GER,20.3,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,640,29,978,9
 2015-W-C10-ITA-11A-2015,Santa Margherita di Pula $10K,Clay,32,10,20150504,9,211901,6,,Aliona Bolsova,R,172,MDA,17.4,210152,,Q,Marcella Cucca,U,,ITA,22.1,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,619,31,,
 2015-W-C10-ITA-11A-2015,Santa Margherita di Pula $10K,Clay,32,10,20150504,10,211813,,,Luisa Marie Huber,U,,GER,19.8,204374,,Q,Frederikke Svarre,R,,DEN,18.1,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,842,14,,
@@ -6198,7 +6198,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C10-ITA-11A-2015,Santa Margherita di Pula $10K,Clay,32,10,20150504,17,206173,,,Beatrice Lombardo,U,,ITA,19.2,211063,1,,Valeriya Strakhova,R,,UKR,19.9,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1040,7,358,93
 2015-W-C10-ITA-11A-2015,Santa Margherita di Pula $10K,Clay,32,10,20150504,18,205964,8,,Laetitia Sarrazin,R,,FRA,22.1,211732,,,Alessia Piran,U,,ITA,22.9,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,718,22,,
 2015-W-C10-ITA-11A-2015,Santa Margherita di Pula $10K,Clay,32,10,20150504,19,215155,,,Olesya Pervushina,R,,RUS,15.0,206209,,WC,Maria Masini,R,,ITA,21.2,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,,
-2015-W-C10-ITA-11A-2015,Santa Margherita di Pula $10K,Clay,32,10,20150504,20,213926,7,,Bianca Turati,R,173,ITA,17.8,213710,,,Cristina Bucsa,U,,MDA,17.3,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,640,29,869,13
+2015-W-C10-ITA-11A-2015,Santa Margherita di Pula $10K,Clay,32,10,20150504,20,213926,7,,Bianca Turati,R,173,ITA,17.8,213710,,,Cristina Bucsa,U,,ESP,17.3,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,640,29,869,13
 2015-W-C10-ITA-11A-2015,Santa Margherita di Pula $10K,Clay,32,10,20150504,21,211901,6,,Aliona Bolsova,R,172,MDA,17.4,211813,,,Luisa Marie Huber,U,,GER,19.8,2-6 6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,619,31,842,14
 2015-W-C10-ITA-11A-2015,Santa Margherita di Pula $10K,Clay,32,10,20150504,22,203456,,,Jelena Simic,U,,BIH,23.2,212021,,Q,Yuenu Li,U,,CHN,16.8,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,747,20,,
 2015-W-C10-ITA-11A-2015,Santa Margherita di Pula $10K,Clay,32,10,20150504,23,214937,,Q,Eva Guerrero Alvarez,U,,ESP,15.6,206400,5,,Martina Spigarelli,U,,ITA,22.9,6-1 3-6 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,,,585,35
@@ -12283,7 +12283,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C25-ESP-01A-2015,Seville $25K,Clay,32,25,20150316,2,201440,,,Laura Pous Tio,U,173,ESP,30.4,206253,,Q,Ivonne Cavalle Reimers,R,,ESP,22.8,5-7 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,214,241,463,59
 2015-W-C25-ESP-01A-2015,Seville $25K,Clay,32,25,20150316,3,201638,,WC,Estrella Cabeza Candela,R,173,ESP,28.0,213557,,WC,Maria Gutierrez Carrasco,U,,ESP,17.4,3-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,299,130,,
 2015-W-C25-ESP-01A-2015,Seville $25K,Clay,32,25,20150316,4,204426,8,,Anett Kontaveit,R,174,EST,19.2,202642,,,Gioia Barbieri,R,170,ITA,23.6,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,189,274,213,243
-2015-W-C25-ESP-01A-2015,Seville $25K,Clay,32,25,20150316,5,202628,3,,Maryna Zanevska,R,175,UKR,21.5,206183,,Q,Cindy Burger,R,,NED,22.3,7-5 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,133,424,239,199
+2015-W-C25-ESP-01A-2015,Seville $25K,Clay,32,25,20150316,5,202628,3,,Maryna Zanevska,R,175,BEL,21.5,206183,,Q,Cindy Burger,R,,NED,22.3,7-5 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,133,424,239,199
 2015-W-C25-ESP-01A-2015,Seville $25K,Clay,32,25,20150316,6,206216,,Q,Olga Saez Larra,U,,ESP,20.4,211539,,Q,Fiona Ferro,R,170,FRA,18.0,6-4 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,334,105,352,97
 2015-W-C25-ESP-01A-2015,Seville $25K,Clay,32,25,20150316,7,202659,,,Tereza Mrdeza,R,173,CRO,24.3,203406,,WC,Lucia Cervera Vazquez,R,,ESP,23.8,7-6(2) 5-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,209,250,363,94
 2015-W-C25-ESP-01A-2015,Seville $25K,Clay,32,25,20150316,8,206252,6,,Barbora Krejcikova,R,178,CZE,19.2,201657,,Q,Nastja Kolar,R,176,SLO,20.6,6-3 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,153,365,245,196
@@ -12297,19 +12297,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C25-ESP-01A-2015,Seville $25K,Clay,32,25,20150316,16,202480,2,,Richel Hogenkamp,R,168,NED,22.9,206289,,Q,Maria Sakkari,R,172,GRE,19.6,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,127,448,268,157
 2015-W-C25-ESP-01A-2015,Seville $25K,Clay,32,25,20150316,17,203521,,LL,Andrea Gamiz,R,162,VEN,22.3,201440,,,Laura Pous Tio,U,173,ESP,30.4,0-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,342,103,214,241
 2015-W-C25-ESP-01A-2015,Seville $25K,Clay,32,25,20150316,18,204426,8,,Anett Kontaveit,R,174,EST,19.2,201638,,WC,Estrella Cabeza Candela,R,173,ESP,28.0,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,189,274,299,130
-2015-W-C25-ESP-01A-2015,Seville $25K,Clay,32,25,20150316,19,202628,3,,Maryna Zanevska,R,175,UKR,21.5,206216,,Q,Olga Saez Larra,U,,ESP,20.4,2-6 7-6(1) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,133,424,334,105
+2015-W-C25-ESP-01A-2015,Seville $25K,Clay,32,25,20150316,19,202628,3,,Maryna Zanevska,R,175,BEL,21.5,206216,,Q,Olga Saez Larra,U,,ESP,20.4,2-6 7-6(1) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,133,424,334,105
 2015-W-C25-ESP-01A-2015,Seville $25K,Clay,32,25,20150316,20,202659,,,Tereza Mrdeza,R,173,CRO,24.3,206252,6,,Barbora Krejcikova,R,178,CZE,19.2,6-3 4-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,209,250,153,365
 2015-W-C25-ESP-01A-2015,Seville $25K,Clay,32,25,20150316,21,203379,,,Marina Melnikova,R,173,RUS,26.1,201605,,,Mandy Minella,R,180,LUX,29.3,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,195,268,211,245
 2015-W-C25-ESP-01A-2015,Seville $25K,Clay,32,25,20150316,22,201501,4,,Olga Govortsova,R,182,BLR,26.5,211901,,WC,Aliona Bolsova,R,172,MDA,17.3,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,141,397,644,29
 2015-W-C25-ESP-01A-2015,Seville $25K,Clay,32,25,20150316,23,202579,,Q,Giulia Gatto Monticone,R,177,ITA,27.3,201565,,,Katarzyna Piter,R,173,POL,24.0,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,248,188,205,254
 2015-W-C25-ESP-01A-2015,Seville $25K,Clay,32,25,20150316,24,202480,2,,Richel Hogenkamp,R,168,NED,22.9,202467,,,Elitsa Kostova,R,172,BUL,24.9,6-4 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,127,448,200,261
 2015-W-C25-ESP-01A-2015,Seville $25K,Clay,32,25,20150316,25,204426,8,,Anett Kontaveit,R,174,EST,19.2,203521,,LL,Andrea Gamiz,R,162,VEN,22.3,6-0 6-2,3,QF,,,,,,,,,,,,,,,,,,,,189,274,342,103
-2015-W-C25-ESP-01A-2015,Seville $25K,Clay,32,25,20150316,26,202628,3,,Maryna Zanevska,R,175,UKR,21.5,202659,,,Tereza Mrdeza,R,173,CRO,24.3,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,133,424,209,250
+2015-W-C25-ESP-01A-2015,Seville $25K,Clay,32,25,20150316,26,202628,3,,Maryna Zanevska,R,175,BEL,21.5,202659,,,Tereza Mrdeza,R,173,CRO,24.3,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,133,424,209,250
 2015-W-C25-ESP-01A-2015,Seville $25K,Clay,32,25,20150316,27,201501,4,,Olga Govortsova,R,182,BLR,26.5,203379,,,Marina Melnikova,R,173,RUS,26.1,6-2 5-7 6-2,3,QF,,,,,,,,,,,,,,,,,,,,141,397,195,268
 2015-W-C25-ESP-01A-2015,Seville $25K,Clay,32,25,20150316,28,202480,2,,Richel Hogenkamp,R,168,NED,22.9,202579,,Q,Giulia Gatto Monticone,R,177,ITA,27.3,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,127,448,248,188
-2015-W-C25-ESP-01A-2015,Seville $25K,Clay,32,25,20150316,29,202628,3,,Maryna Zanevska,R,175,UKR,21.5,204426,8,,Anett Kontaveit,R,174,EST,19.2,6-4 7-6(1),3,SF,,,,,,,,,,,,,,,,,,,,133,424,189,274
+2015-W-C25-ESP-01A-2015,Seville $25K,Clay,32,25,20150316,29,202628,3,,Maryna Zanevska,R,175,BEL,21.5,204426,8,,Anett Kontaveit,R,174,EST,19.2,6-4 7-6(1),3,SF,,,,,,,,,,,,,,,,,,,,133,424,189,274
 2015-W-C25-ESP-01A-2015,Seville $25K,Clay,32,25,20150316,30,201501,4,,Olga Govortsova,R,182,BLR,26.5,202480,2,,Richel Hogenkamp,R,168,NED,22.9,6-1 6-1,3,SF,,,,,,,,,,,,,,,,,,,,141,397,127,448
-2015-W-C25-ESP-01A-2015,Seville $25K,Clay,32,25,20150316,31,201501,4,,Olga Govortsova,R,182,BLR,26.5,202628,3,,Maryna Zanevska,R,175,UKR,21.5,7-5 6-2,3,F,,,,,,,,,,,,,,,,,,,,141,397,133,424
+2015-W-C25-ESP-01A-2015,Seville $25K,Clay,32,25,20150316,31,201501,4,,Olga Govortsova,R,182,BLR,26.5,202628,3,,Maryna Zanevska,R,175,BEL,21.5,7-5 6-2,3,F,,,,,,,,,,,,,,,,,,,,141,397,133,424
 2015-W-C25-FRA-01A-2015,Equeurdreville $25K,Hard,32,25,20151109,1,200773,1,,Stephanie Foretz Gacon,R,166,FRA,34.5,211961,,WC,Emmanuelle Salas,U,,FRA,17.5,4-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,176,291,872,14
 2015-W-C25-FRA-01A-2015,Equeurdreville $25K,Hard,32,25,20151109,2,211019,,Q,Audrey Albie,R,,FRA,21.0,214299,,WC,Lucie Wargnier,U,,FRA,16.7,6-1 1-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,797,18,,
 2015-W-C25-FRA-01A-2015,Equeurdreville $25K,Hard,32,25,20151109,3,201561,,Q,Claire Feuerstein,L,178,FRA,29.6,202606,,,Claudia Giovine,R,,ITA,25.3,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,705,25,413,77
@@ -12341,7 +12341,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C25-FRA-01A-2015,Equeurdreville $25K,Hard,32,25,20151109,29,202410,3,,Sofia Shapatava,R,170,GEO,26.8,203541,8,,Elizaveta Ianchuk,R,,UKR,22.6,6-0 6-2,3,SF,,,,,,,,,,,,,,,,,,,,238,197,325,123
 2015-W-C25-FRA-01A-2015,Equeurdreville $25K,Hard,32,25,20151109,30,204246,2,,Lesley Pattinama Kerkhove,R,172,NED,24.0,211337,6,,Tamara Korpatsch,R,170,GER,20.4,7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,239,196,320,127
 2015-W-C25-FRA-01A-2015,Equeurdreville $25K,Hard,32,25,20151109,31,204246,2,,Lesley Pattinama Kerkhove,R,172,NED,24.0,202410,3,,Sofia Shapatava,R,170,GEO,26.8,7-5 6-3,3,F,,,,,,,,,,,,,,,,,,,,239,196,238,197
-2015-W-C25-FRA-03A-2015,Andrezieux Boutheon $25K,Hard,32,25,20150126,1,202628,1,,Maryna Zanevska,R,175,UKR,21.4,202490,,Q,Rebecca Peterson,R,173,SWE,19.4,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,125,443,228,204
+2015-W-C25-FRA-03A-2015,Andrezieux Boutheon $25K,Hard,32,25,20150126,1,202628,1,,Maryna Zanevska,R,175,BEL,21.4,202490,,Q,Rebecca Peterson,R,173,SWE,19.4,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,125,443,228,204
 2015-W-C25-FRA-03A-2015,Andrezieux Boutheon $25K,Hard,32,25,20150126,2,203530,,Q,Viktorija Golubic,R,169,SUI,22.2,204246,,,Lesley Pattinama Kerkhove,R,172,NED,23.2,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,236,195,220,224
 2015-W-C25-FRA-03A-2015,Andrezieux Boutheon $25K,Hard,32,25,20150126,3,201617,,,Ana Vrljic,R,,CRO,30.4,205944,,Q,Lidziya Marozava,R,183,BLR,22.2,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,222,219,528,46
 2015-W-C25-FRA-03A-2015,Andrezieux Boutheon $25K,Hard,32,25,20150126,4,200043,5,,Virginie Razzano,R,173,FRA,31.7,204267,,Q,Petra Krejsova,R,,CZE,24.5,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,161,329,323,109
@@ -12357,7 +12357,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C25-FRA-03A-2015,Andrezieux Boutheon $25K,Hard,32,25,20150126,14,203564,,WC,Chloe Paquet,R,179,FRA,20.5,211977,,LL,Adrijana Lekaj,R,170,CRO,19.5,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,409,74,348,96
 2015-W-C25-FRA-03A-2015,Andrezieux Boutheon $25K,Hard,32,25,20150126,15,206255,,,Patricia Maria Tig,R,,ROU,20.5,202707,,WC,Myrtille Georges,R,174,FRA,24.0,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,215,230,302,129
 2015-W-C25-FRA-03A-2015,Andrezieux Boutheon $25K,Hard,32,25,20150126,16,202506,,,Margarita Gasparyan,R,183,RUS,20.4,201697,2,Q,Kristyna Pliskova,L,184,CZE,22.8,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,219,226,131,422
-2015-W-C25-FRA-03A-2015,Andrezieux Boutheon $25K,Hard,32,25,20150126,17,202628,1,,Maryna Zanevska,R,175,UKR,21.4,203530,,Q,Viktorija Golubic,R,169,SUI,22.2,4-6 7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,125,443,236,195
+2015-W-C25-FRA-03A-2015,Andrezieux Boutheon $25K,Hard,32,25,20150126,17,202628,1,,Maryna Zanevska,R,175,BEL,21.4,203530,,Q,Viktorija Golubic,R,169,SUI,22.2,4-6 7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,125,443,236,195
 2015-W-C25-FRA-03A-2015,Andrezieux Boutheon $25K,Hard,32,25,20150126,18,201617,,,Ana Vrljic,R,,CRO,30.4,200043,5,,Virginie Razzano,R,173,FRA,31.7,3-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,222,219,161,329
 2015-W-C25-FRA-03A-2015,Andrezieux Boutheon $25K,Hard,32,25,20150126,19,203518,3,,Paula Kania,R,168,POL,22.2,202911,,,Anastasiya Vasylyeva,L,182,UKR,23.0,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,156,340,176,307
 2015-W-C25-FRA-03A-2015,Andrezieux Boutheon $25K,Hard,32,25,20150126,20,202467,,,Elitsa Kostova,R,172,BUL,24.7,202424,,Q,Conny Perrin,R,174,SUI,24.0,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,207,239,278,153
@@ -12365,7 +12365,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C25-FRA-03A-2015,Andrezieux Boutheon $25K,Hard,32,25,20150126,22,200773,,,Stephanie Foretz Gacon,R,166,FRA,33.7,202640,,Q,Irina Ramialison,R,158,FRA,23.6,7-6(3) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,197,249,277,153
 2015-W-C25-FRA-03A-2015,Andrezieux Boutheon $25K,Hard,32,25,20150126,23,203564,,WC,Chloe Paquet,R,179,FRA,20.5,211533,,JE,Jelena Ostapenko,R,177,LAT,17.6,6-3 5-7 6-2,3,R16,,,,,,,,,,,,,,,,,,,,409,74,270,159
 2015-W-C25-FRA-03A-2015,Andrezieux Boutheon $25K,Hard,32,25,20150126,24,202506,,,Margarita Gasparyan,R,183,RUS,20.4,206255,,,Patricia Maria Tig,R,,ROU,20.5,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,219,226,215,230
-2015-W-C25-FRA-03A-2015,Andrezieux Boutheon $25K,Hard,32,25,20150126,25,201617,,,Ana Vrljic,R,,CRO,30.4,202628,1,,Maryna Zanevska,R,175,UKR,21.4,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,222,219,125,443
+2015-W-C25-FRA-03A-2015,Andrezieux Boutheon $25K,Hard,32,25,20150126,25,201617,,,Ana Vrljic,R,,CRO,30.4,202628,1,,Maryna Zanevska,R,175,BEL,21.4,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,222,219,125,443
 2015-W-C25-FRA-03A-2015,Andrezieux Boutheon $25K,Hard,32,25,20150126,26,202467,,,Elitsa Kostova,R,172,BUL,24.7,203518,3,,Paula Kania,R,168,POL,22.2,6-1 6-0,3,QF,,,,,,,,,,,,,,,,,,,,207,239,156,340
 2015-W-C25-FRA-03A-2015,Andrezieux Boutheon $25K,Hard,32,25,20150126,27,203281,,Q,Amandine Hesse,R,164,FRA,22.0,200773,,,Stephanie Foretz Gacon,R,166,FRA,33.7,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,282,148,197,249
 2015-W-C25-FRA-03A-2015,Andrezieux Boutheon $25K,Hard,32,25,20150126,28,202506,,,Margarita Gasparyan,R,183,RUS,20.4,203564,,WC,Chloe Paquet,R,179,FRA,20.5,6-4 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,219,226,409,74
@@ -12527,7 +12527,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C25-GBR-01A-2015,Woking $25K,Hard,32,25,20150824,29,203530,4,,Viktorija Golubic,R,169,SUI,22.8,201664,7,,Pemra Ozgen,R,170,TUR,29.2,6-2 7-6(1),3,SF,,,,,,,,,,,,,,,,,,,,234,192,282,150
 2015-W-C25-GBR-01A-2015,Woking $25K,Hard,32,25,20150824,30,203591,,,Katy Dunne,R,167,GBR,20.5,203509,,,Diana Marcinkevica,R,170,LAT,23.0,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,326,119,346,105
 2015-W-C25-GBR-01A-2015,Woking $25K,Hard,32,25,20150824,31,203530,4,,Viktorija Golubic,R,169,SUI,22.8,203591,,,Katy Dunne,R,167,GBR,20.5,6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,234,192,326,119
-2015-W-C25-GBR-02A-2015,Glasgow $25K,Hard,32,25,20150202,1,202628,1,,Maryna Zanevska,R,175,UKR,21.4,202651,,WC,Lisa Whybourn,R,,GBR,23.7,6-3 1-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,118,460,,
+2015-W-C25-GBR-02A-2015,Glasgow $25K,Hard,32,25,20150202,1,202628,1,,Maryna Zanevska,R,175,BEL,21.4,202651,,WC,Lisa Whybourn,R,,GBR,23.7,6-3 1-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,118,460,,
 2015-W-C25-GBR-02A-2015,Glasgow $25K,Hard,32,25,20150202,2,202633,,,Nina Zander,R,170,GER,25.0,211887,,WC,Maia Lumsden,R,,GBR,17.0,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,358,89,,
 2015-W-C25-GBR-02A-2015,Glasgow $25K,Hard,32,25,20150202,3,202437,,,Anastasia Grymalska,R,,ITA,24.5,202604,,,Despina Papamichail,R,178,GRE,21.9,4-6 RET,3,R32,,,,,,,,,,,,,,,,,,,,294,135,340,99
 2015-W-C25-GBR-02A-2015,Glasgow $25K,Hard,32,25,20150202,4,204246,8,,Lesley Pattinama Kerkhove,R,172,NED,23.2,206003,,Q,Laura Schaeder,R,,GER,21.7,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,213,224,598,34
@@ -12543,7 +12543,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C25-GBR-02A-2015,Glasgow $25K,Hard,32,25,20150202,14,202606,,Q,Claudia Giovine,R,,ITA,24.5,202616,,Q,Justyna Jegiolka,U,,POL,23.3,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,476,56,391,79
 2015-W-C25-GBR-02A-2015,Glasgow $25K,Hard,32,25,20150202,15,212043,,WC,Freya Christie,R,180,GBR,17.2,205824,,,Ema Mikulcic,R,,CRO,22.7,7-6(7) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,995,8,272,154
 2015-W-C25-GBR-02A-2015,Glasgow $25K,Hard,32,25,20150202,16,201697,2,,Kristyna Pliskova,L,184,CZE,22.8,204265,,,Martina Borecka,R,,CZE,23.7,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,142,387,353,92
-2015-W-C25-GBR-02A-2015,Glasgow $25K,Hard,32,25,20150202,17,202633,,,Nina Zander,R,170,GER,25.0,202628,1,,Maryna Zanevska,R,175,UKR,21.4,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,358,89,118,460
+2015-W-C25-GBR-02A-2015,Glasgow $25K,Hard,32,25,20150202,17,202633,,,Nina Zander,R,170,GER,25.0,202628,1,,Maryna Zanevska,R,175,BEL,21.4,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,358,89,118,460
 2015-W-C25-GBR-02A-2015,Glasgow $25K,Hard,32,25,20150202,18,204246,8,,Lesley Pattinama Kerkhove,R,172,NED,23.2,202437,,,Anastasia Grymalska,R,,ITA,24.5,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,213,224,294,135
 2015-W-C25-GBR-02A-2015,Glasgow $25K,Hard,32,25,20150202,19,203591,,,Katy Dunne,R,167,GBR,19.9,211698,,,Pernilla Mendesova,R,,CZE,20.6,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,295,133,288,140
 2015-W-C25-GBR-02A-2015,Glasgow $25K,Hard,32,25,20150202,20,202536,7,,Ana Bogdan,R,171,ROU,22.1,203564,,Q,Chloe Paquet,R,179,FRA,20.5,6-4 5-7 6-2,3,R16,,,,,,,,,,,,,,,,,,,,199,241,402,74
@@ -12820,7 +12820,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C25-GER-05A-2015,Aschaffenburg $25K,Clay,32,25,20150713,12,201670,,Q,Amra Sadikovic,R,186,SUI,26.1,201664,,,Pemra Ozgen,R,170,TUR,29.1,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,272,154
 2015-W-C25-GER-05A-2015,Aschaffenburg $25K,Clay,32,25,20150713,13,206045,,,Quirine Lemoine,L,,NED,23.5,213832,,WC,Rebeka Stolmar,R,,HUN,18.3,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,277,150,,
 2015-W-C25-GER-05A-2015,Aschaffenburg $25K,Clay,32,25,20150713,14,204430,,,Antonia Lottner,R,185,GER,18.9,206003,,Q,Laura Schaeder,R,,GER,22.2,7-6(2) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,291,143,491,52
-2015-W-C25-GER-05A-2015,Aschaffenburg $25K,Clay,32,25,20150713,15,211329,,Q,Tena Lukas,U,,CRO,20.1,202493,,,Ekaterine Gorgodze,L,,GEO,23.6,6-1 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,409,75,335,113
+2015-W-C25-GER-05A-2015,Aschaffenburg $25K,Clay,32,25,20150713,15,211329,,Q,Tena Lukas,R,,CRO,20.1,202493,,,Ekaterine Gorgodze,L,,GEO,23.6,6-1 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,409,75,335,113
 2015-W-C25-GER-05A-2015,Aschaffenburg $25K,Clay,32,25,20150713,16,204377,,,Indy De Vroome,R,,NED,19.1,204268,,WC,Natalie Proese,R,,GER,24.7,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,235,190,,
 2015-W-C25-GER-05A-2015,Aschaffenburg $25K,Clay,32,25,20150713,17,211539,,,Fiona Ferro,R,170,FRA,18.3,213628,,Q,Melanie Stokke,R,,NOR,18.7,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,347,106,454,64
 2015-W-C25-GER-05A-2015,Aschaffenburg $25K,Clay,32,25,20150713,18,204391,,,Sofia Kvatsabaia,U,,GEO,26.9,202633,,,Nina Zander,R,170,GER,25.4,7-6(5) 4-6 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,407,76,312,131
@@ -12829,15 +12829,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C25-GER-05A-2015,Aschaffenburg $25K,Clay,32,25,20150713,21,210303,,Q,Kathinka Von Deichmann,R,176,LIE,21.1,214081,,WC,Katharina Hobgarski,R,171,GER,18.0,6-4 5-7 6-1,3,R16,,,,,,,,,,,,,,,,,,,,453,64,505,48
 2015-W-C25-GER-05A-2015,Aschaffenburg $25K,Clay,32,25,20150713,22,201670,,Q,Amra Sadikovic,R,186,SUI,26.1,205855,,Q,Elyne Boeykens,R,,BEL,24.2,7-6(6) 2-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,576,38
 2015-W-C25-GER-05A-2015,Aschaffenburg $25K,Clay,32,25,20150713,23,204430,,,Antonia Lottner,R,185,GER,18.9,206045,,,Quirine Lemoine,L,,NED,23.5,6-4 2-6 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,291,143,277,150
-2015-W-C25-GER-05A-2015,Aschaffenburg $25K,Clay,32,25,20150713,24,211329,,Q,Tena Lukas,U,,CRO,20.1,204377,,,Indy De Vroome,R,,NED,19.1,2-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,409,75,235,190
+2015-W-C25-GER-05A-2015,Aschaffenburg $25K,Clay,32,25,20150713,24,211329,,Q,Tena Lukas,R,,CRO,20.1,204377,,,Indy De Vroome,R,,NED,19.1,2-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,409,75,235,190
 2015-W-C25-GER-05A-2015,Aschaffenburg $25K,Clay,32,25,20150713,25,211539,,,Fiona Ferro,R,170,FRA,18.3,204391,,,Sofia Kvatsabaia,U,,GEO,26.9,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,347,106,407,76
 2015-W-C25-GER-05A-2015,Aschaffenburg $25K,Clay,32,25,20150713,26,202701,,,Irina Khromacheva,L,170,RUS,20.1,202482,,,Barbara Haas,R,165,AUT,19.3,6-4 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,259,166,303,134
 2015-W-C25-GER-05A-2015,Aschaffenburg $25K,Clay,32,25,20150713,27,210303,,Q,Kathinka Von Deichmann,R,176,LIE,21.1,201670,,Q,Amra Sadikovic,R,186,SUI,26.1,6-2 2-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,453,64,,
-2015-W-C25-GER-05A-2015,Aschaffenburg $25K,Clay,32,25,20150713,28,211329,,Q,Tena Lukas,U,,CRO,20.1,204430,,,Antonia Lottner,R,185,GER,18.9,6-7(4) 7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,409,75,291,143
+2015-W-C25-GER-05A-2015,Aschaffenburg $25K,Clay,32,25,20150713,28,211329,,Q,Tena Lukas,R,,CRO,20.1,204430,,,Antonia Lottner,R,185,GER,18.9,6-7(4) 7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,409,75,291,143
 2015-W-C25-GER-05A-2015,Aschaffenburg $25K,Clay,32,25,20150713,29,211539,,,Fiona Ferro,R,170,FRA,18.3,202701,,,Irina Khromacheva,L,170,RUS,20.1,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,347,106,259,166
-2015-W-C25-GER-05A-2015,Aschaffenburg $25K,Clay,32,25,20150713,30,211329,,Q,Tena Lukas,U,,CRO,20.1,210303,,Q,Kathinka Von Deichmann,R,176,LIE,21.1,1-6 6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,409,75,453,64
-2015-W-C25-GER-05A-2015,Aschaffenburg $25K,Clay,32,25,20150713,31,211329,,Q,Tena Lukas,U,,CRO,20.1,211539,,,Fiona Ferro,R,170,FRA,18.3,7-5 6-4,3,F,,,,,,,,,,,,,,,,,,,,409,75,347,106
-2015-W-C25-GER-06A-2015,Darmstadt $25K,Clay,32,25,20150720,1,211329,,SE,Tena Lukas,U,,CRO,20.1,202460,1,,Ons Jabeur,R,167,TUN,20.8,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,411,75,138,381
+2015-W-C25-GER-05A-2015,Aschaffenburg $25K,Clay,32,25,20150713,30,211329,,Q,Tena Lukas,R,,CRO,20.1,210303,,Q,Kathinka Von Deichmann,R,176,LIE,21.1,1-6 6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,409,75,453,64
+2015-W-C25-GER-05A-2015,Aschaffenburg $25K,Clay,32,25,20150713,31,211329,,Q,Tena Lukas,R,,CRO,20.1,211539,,,Fiona Ferro,R,170,FRA,18.3,7-5 6-4,3,F,,,,,,,,,,,,,,,,,,,,409,75,347,106
+2015-W-C25-GER-06A-2015,Darmstadt $25K,Clay,32,25,20150720,1,211329,,SE,Tena Lukas,R,,CRO,20.1,202460,1,,Ons Jabeur,R,167,TUN,20.8,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,411,75,138,381
 2015-W-C25-GER-06A-2015,Darmstadt $25K,Clay,32,25,20150720,2,203435,,,Dalila Jakupovic,R,178,SLO,24.3,204268,,WC,Natalie Proese,R,,GER,24.8,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,266,157,769,18
 2015-W-C25-GER-06A-2015,Darmstadt $25K,Clay,32,25,20150720,3,203564,,,Chloe Paquet,R,179,FRA,21.0,214123,,Q,Kristina Schmiedlova,R,,SVK,17.9,6-2 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,259,163,414,74
 2015-W-C25-GER-06A-2015,Darmstadt $25K,Clay,32,25,20150720,4,201617,7,,Ana Vrljic,R,,CRO,30.9,202701,,,Irina Khromacheva,L,170,RUS,20.1,6-4 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,228,204,262,162
@@ -12853,7 +12853,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C25-GER-06A-2015,Darmstadt $25K,Clay,32,25,20150720,14,201670,,Q,Amra Sadikovic,R,186,SUI,26.2,204377,,,Indy De Vroome,R,,NED,19.1,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,689,25,236,190
 2015-W-C25-GER-06A-2015,Darmstadt $25K,Clay,32,25,20150720,15,203514,,Q,Katarzyna Kawa,R,178,POL,22.6,201664,,,Pemra Ozgen,R,170,TUR,29.1,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,402,78,271,154
 2015-W-C25-GER-06A-2015,Darmstadt $25K,Clay,32,25,20150720,16,201472,2,,Romina Oprandi,R,172,SUI,29.3,202410,,,Sofia Shapatava,R,170,GEO,26.5,3-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,141,367,245,178
-2015-W-C25-GER-06A-2015,Darmstadt $25K,Clay,32,25,20150720,17,203435,,,Dalila Jakupovic,R,178,SLO,24.3,211329,,SE,Tena Lukas,U,,CRO,20.1,4-6 6-3 4-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,266,157,411,75
+2015-W-C25-GER-06A-2015,Darmstadt $25K,Clay,32,25,20150720,17,203435,,,Dalila Jakupovic,R,178,SLO,24.3,211329,,SE,Tena Lukas,R,,CRO,20.1,4-6 6-3 4-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,266,157,411,75
 2015-W-C25-GER-06A-2015,Darmstadt $25K,Clay,32,25,20150720,18,201617,7,,Ana Vrljic,R,,CRO,30.9,203564,,,Chloe Paquet,R,179,FRA,21.0,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,228,204,259,163
 2015-W-C25-GER-06A-2015,Darmstadt $25K,Clay,32,25,20150720,19,201339,3,,Renata Voracova,R,,CZE,31.7,211411,,,Nina Stojanovic,R,176,SRB,18.9,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,189,261,282,146
 2015-W-C25-GER-06A-2015,Darmstadt $25K,Clay,32,25,20150720,20,211539,,SE,Fiona Ferro,R,170,FRA,18.3,206289,6,,Maria Sakkari,R,172,GRE,19.9,6-3 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,347,106,210,225
@@ -12868,7 +12868,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C25-GER-06A-2015,Darmstadt $25K,Clay,32,25,20150720,29,203435,,,Dalila Jakupovic,R,178,SLO,24.3,211539,,SE,Fiona Ferro,R,170,FRA,18.3,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,266,157,347,106
 2015-W-C25-GER-06A-2015,Darmstadt $25K,Clay,32,25,20150720,30,204434,4,,Ysaline Bonaventure,L,178,BEL,20.8,201670,,Q,Amra Sadikovic,R,186,SUI,26.2,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,206,236,689,25
 2015-W-C25-GER-06A-2015,Darmstadt $25K,Clay,32,25,20150720,31,204434,4,,Ysaline Bonaventure,L,178,BEL,20.8,203435,,,Dalila Jakupovic,R,178,SLO,24.3,6-3 7-6(4),3,F,,,,,,,,,,,,,,,,,,,,206,236,266,157
-2015-W-C25-GER-07A-2015,Bad Saulgau $25K,Clay,32,25,20150803,1,202628,1,,Maryna Zanevska,R,175,UKR,21.9,204430,,,Antonia Lottner,R,185,GER,18.9,3-6 7-6(3) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,127,444,277,151
+2015-W-C25-GER-07A-2015,Bad Saulgau $25K,Clay,32,25,20150803,1,202628,1,,Maryna Zanevska,R,175,BEL,21.9,204430,,,Antonia Lottner,R,185,GER,18.9,3-6 7-6(3) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,127,444,277,151
 2015-W-C25-GER-07A-2015,Bad Saulgau $25K,Clay,32,25,20150803,2,206003,,WC,Laura Schaeder,R,,GER,22.2,202600,,Q,Viktoriya Tomova,R,170,BUL,20.4,6-3 4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,493,52,415,74
 2015-W-C25-GER-07A-2015,Bad Saulgau $25K,Clay,32,25,20150803,3,202669,,,Cristina Dinu,R,,ROU,22.5,206253,,,Ivonne Cavalle Reimers,R,,ESP,23.1,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,341,108,334,111
 2015-W-C25-GER-07A-2015,Bad Saulgau $25K,Clay,32,25,20150803,4,206194,8,,Gabriela Ce,L,,BRA,22.4,201691,,,Dia Evtimova,R,168,BUL,28.2,7-6(1) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,227,208,323,123
@@ -12884,7 +12884,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C25-GER-07A-2015,Bad Saulgau $25K,Clay,32,25,20150803,14,206070,,Q,Sofiya Kovalets,R,,UKR,21.0,204394,,Q,Valentini Grammatikopoulou,U,,GRE,18.4,6-7(4) 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,384,83,472,58
 2015-W-C25-GER-07A-2015,Bad Saulgau $25K,Clay,32,25,20150803,15,206031,,,Carolin Daniels,R,,GER,23.1,215001,,WC,Carmen Schultheiss,U,,GER,16.1,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,410,76,,
 2015-W-C25-GER-07A-2015,Bad Saulgau $25K,Clay,32,25,20150803,16,201472,2,,Romina Oprandi,R,172,SUI,29.3,202478,,,Tara Moore,R,163,GBR,22.9,2-6 6-0 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,149,354,361,98
-2015-W-C25-GER-07A-2015,Bad Saulgau $25K,Clay,32,25,20150803,17,206003,,WC,Laura Schaeder,R,,GER,22.2,202628,1,,Maryna Zanevska,R,175,UKR,21.9,4-6 6-3 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,493,52,127,444
+2015-W-C25-GER-07A-2015,Bad Saulgau $25K,Clay,32,25,20150803,17,206003,,WC,Laura Schaeder,R,,GER,22.2,202628,1,,Maryna Zanevska,R,175,BEL,21.9,4-6 6-3 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,493,52,127,444
 2015-W-C25-GER-07A-2015,Bad Saulgau $25K,Clay,32,25,20150803,18,202669,,,Cristina Dinu,R,,ROU,22.5,206194,8,,Gabriela Ce,L,,BRA,22.4,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,341,108,227,208
 2015-W-C25-GER-07A-2015,Bad Saulgau $25K,Clay,32,25,20150803,19,206216,,,Olga Saez Larra,U,,ESP,20.8,204434,4,,Ysaline Bonaventure,L,178,BEL,20.9,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,342,107,184,281
 2015-W-C25-GER-07A-2015,Bad Saulgau $25K,Clay,32,25,20150803,20,201657,,,Nastja Kolar,R,176,SLO,21.0,206183,5,,Cindy Burger,R,,NED,22.6,6-3 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,266,159,199,245
@@ -13810,7 +13810,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C25-MNE-01A-2015,Podgorica $25K,Clay,32,25,20150914,10,203354,,,Martina Trevisan,L,160,ITA,21.8,215402,,WC,Boba Kotlica,R,,SRB,16.5,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,351,102,,
 2015-W-C25-MNE-01A-2015,Podgorica $25K,Clay,32,25,20150914,11,203514,,,Katarzyna Kawa,R,178,POL,22.8,206336,,Q,Julia Stamatova,L,,BUL,22.2,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,362,97,497,54
 2015-W-C25-MNE-01A-2015,Podgorica $25K,Clay,32,25,20150914,12,202482,4,,Barbara Haas,R,165,AUT,19.4,203509,,,Diana Marcinkevica,R,170,LAT,23.1,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,299,134,325,117
-2015-W-C25-MNE-01A-2015,Podgorica $25K,Clay,32,25,20150914,13,211329,7,,Tena Lukas,U,,CRO,20.3,211412,,WC,Bojana Marinkovic,U,,SRB,18.8,2-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,298,135,800,17
+2015-W-C25-MNE-01A-2015,Podgorica $25K,Clay,32,25,20150914,13,211329,7,,Tena Lukas,R,,CRO,20.3,211412,,WC,Bojana Marinkovic,U,,SRB,18.8,2-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,298,135,800,17
 2015-W-C25-MNE-01A-2015,Podgorica $25K,Clay,32,25,20150914,14,206070,,,Sofiya Kovalets,R,,UKR,21.1,214602,,WC,Jovana Knezevic,U,,CYP,17.1,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,484,57,1024,8
 2015-W-C25-MNE-01A-2015,Podgorica $25K,Clay,32,25,20150914,15,211296,,,Dea Herdzelas,R,,BIH,18.8,201694,,,Silvia Njiric,R,163,CRO,22.1,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,402,81,416,76
 2015-W-C25-MNE-01A-2015,Podgorica $25K,Clay,32,25,20150914,16,202579,2,,Giulia Gatto Monticone,R,177,ITA,27.8,211098,,,Cristina Ene,R,,ROU,19.7,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,265,164,409,77
@@ -13820,12 +13820,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C25-MNE-01A-2015,Podgorica $25K,Clay,32,25,20150914,20,211406,,,Gabriela Pantuckova,R,,CZE,20.5,202642,5,,Gioia Barbieri,R,170,ITA,24.1,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,361,98,304,129
 2015-W-C25-MNE-01A-2015,Podgorica $25K,Clay,32,25,20150914,21,203354,,,Martina Trevisan,L,160,ITA,21.8,206045,6,,Quirine Lemoine,L,,NED,23.7,6-1 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,351,102,321,120
 2015-W-C25-MNE-01A-2015,Podgorica $25K,Clay,32,25,20150914,22,202482,4,,Barbara Haas,R,165,AUT,19.4,203514,,,Katarzyna Kawa,R,178,POL,22.8,4-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,299,134,362,97
-2015-W-C25-MNE-01A-2015,Podgorica $25K,Clay,32,25,20150914,23,211329,7,,Tena Lukas,U,,CRO,20.3,206070,,,Sofiya Kovalets,R,,UKR,21.1,5-7 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,298,135,484,57
+2015-W-C25-MNE-01A-2015,Podgorica $25K,Clay,32,25,20150914,23,211329,7,,Tena Lukas,R,,CRO,20.3,206070,,,Sofiya Kovalets,R,,UKR,21.1,5-7 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,298,135,484,57
 2015-W-C25-MNE-01A-2015,Podgorica $25K,Clay,32,25,20150914,24,211296,,,Dea Herdzelas,R,,BIH,18.8,202579,2,,Giulia Gatto Monticone,R,177,ITA,27.8,6-0 1-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,402,81,265,164
 2015-W-C25-MNE-01A-2015,Podgorica $25K,Clay,32,25,20150914,25,203488,,,Doroteja Eric,L,,SRB,23.1,213544,1,,Jana Fett,R,168,CRO,18.8,5-7 6-0 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,404,80,227,193
 2015-W-C25-MNE-01A-2015,Podgorica $25K,Clay,32,25,20150914,26,211406,,,Gabriela Pantuckova,R,,CZE,20.5,211539,3,,Fiona Ferro,R,170,FRA,18.5,W/O,3,QF,,,,,,,,,,,,,,,,,,,,361,98,274,159
 2015-W-C25-MNE-01A-2015,Podgorica $25K,Clay,32,25,20150914,27,202482,4,,Barbara Haas,R,165,AUT,19.4,203354,,,Martina Trevisan,L,160,ITA,21.8,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,299,134,351,102
-2015-W-C25-MNE-01A-2015,Podgorica $25K,Clay,32,25,20150914,28,211296,,,Dea Herdzelas,R,,BIH,18.8,211329,7,,Tena Lukas,U,,CRO,20.3,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,402,81,298,135
+2015-W-C25-MNE-01A-2015,Podgorica $25K,Clay,32,25,20150914,28,211296,,,Dea Herdzelas,R,,BIH,18.8,211329,7,,Tena Lukas,R,,CRO,20.3,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,402,81,298,135
 2015-W-C25-MNE-01A-2015,Podgorica $25K,Clay,32,25,20150914,29,203488,,,Doroteja Eric,L,,SRB,23.1,211406,,,Gabriela Pantuckova,R,,CZE,20.5,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,404,80,361,98
 2015-W-C25-MNE-01A-2015,Podgorica $25K,Clay,32,25,20150914,30,202482,4,,Barbara Haas,R,165,AUT,19.4,211296,,,Dea Herdzelas,R,,BIH,18.8,2-6 6-4 2-0 RET,3,SF,,,,,,,,,,,,,,,,,,,,299,134,402,81
 2015-W-C25-MNE-01A-2015,Podgorica $25K,Clay,32,25,20150914,31,202482,4,,Barbara Haas,R,165,AUT,19.4,203488,,,Doroteja Eric,L,,SRB,23.1,6-3 6-1,3,F,,,,,,,,,,,,,,,,,,,,299,134,404,80
@@ -13833,7 +13833,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C25-NED-01A-2015,Alphen A D Rijn $25K,Clay,32,25,20150907,2,202457,,Q,Bibiane Schoofs,R,170,NED,27.3,205964,,Q,Laetitia Sarrazin,R,,FRA,22.4,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,689,26,615,35
 2015-W-C25-NED-01A-2015,Alphen A D Rijn $25K,Clay,32,25,20150907,3,211885,,,Alice Matteucci,R,,ITA,19.9,211159,,WC,Nikki Luttikhuis,R,,NED,19.9,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,385,88,1171,4
 2015-W-C25-NED-01A-2015,Alphen A D Rijn $25K,Clay,32,25,20150907,4,201551,5,,Arantxa Rus,L,180,NED,24.7,206184,,WC,Kelly Versteeg,U,,NED,20.8,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,254,178,512,50
-2015-W-C25-NED-01A-2015,Alphen A D Rijn $25K,Clay,32,25,20150907,5,211329,,,Tena Lukas,U,,CRO,20.3,203564,4,,Chloe Paquet,R,179,FRA,21.1,5-7 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,319,129,250,182
+2015-W-C25-NED-01A-2015,Alphen A D Rijn $25K,Clay,32,25,20150907,5,211329,,,Tena Lukas,R,,CRO,20.3,203564,4,,Chloe Paquet,R,179,FRA,21.1,5-7 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,319,129,250,182
 2015-W-C25-NED-01A-2015,Alphen A D Rijn $25K,Clay,32,25,20150907,6,211160,,WC,Mandy Wagemaker,R,,NED,21.3,202448,,Q,Zoe Gwen Scandalis,R,,USA,21.9,6-3 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,669,29,,
 2015-W-C25-NED-01A-2015,Alphen A D Rijn $25K,Clay,32,25,20150907,7,202437,,,Anastasia Grymalska,R,,ITA,25.1,203441,,,Sviatlana Pirazhenka,R,,BLR,22.9,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,382,89,459,65
 2015-W-C25-NED-01A-2015,Alphen A D Rijn $25K,Clay,32,25,20150907,8,202642,8,,Gioia Barbieri,R,170,ITA,24.1,202874,,Q,Chayenne Ewijk,R,,NED,27.0,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,292,144,,
@@ -13847,19 +13847,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C25-NED-01A-2015,Alphen A D Rijn $25K,Clay,32,25,20150907,16,201462,2,,Alberta Brianti,R,165,ITA,35.4,214880,,Q,Iana Tishchenko,R,,MDA,19.3,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,197,254,1241,3
 2015-W-C25-NED-01A-2015,Alphen A D Rijn $25K,Clay,32,25,20150907,17,202480,1,,Richel Hogenkamp,R,168,NED,23.3,202457,,Q,Bibiane Schoofs,R,170,NED,27.3,6-2 4-6 3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,122,481,689,26
 2015-W-C25-NED-01A-2015,Alphen A D Rijn $25K,Clay,32,25,20150907,18,201551,5,,Arantxa Rus,L,180,NED,24.7,211885,,,Alice Matteucci,R,,ITA,19.9,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,254,178,385,88
-2015-W-C25-NED-01A-2015,Alphen A D Rijn $25K,Clay,32,25,20150907,19,211329,,,Tena Lukas,U,,CRO,20.3,211160,,WC,Mandy Wagemaker,R,,NED,21.3,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,319,129,669,29
+2015-W-C25-NED-01A-2015,Alphen A D Rijn $25K,Clay,32,25,20150907,19,211329,,,Tena Lukas,R,,CRO,20.3,211160,,WC,Mandy Wagemaker,R,,NED,21.3,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,319,129,669,29
 2015-W-C25-NED-01A-2015,Alphen A D Rijn $25K,Clay,32,25,20150907,20,202642,8,,Gioia Barbieri,R,170,ITA,24.1,202437,,,Anastasia Grymalska,R,,ITA,25.1,3-6 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,292,144,382,89
 2015-W-C25-NED-01A-2015,Alphen A D Rijn $25K,Clay,32,25,20150907,21,211736,6,,Ivana Jorovic,R,174,SRB,18.3,210303,,,Kathinka Von Deichmann,R,176,LIE,21.3,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,270,164,393,84
 2015-W-C25-NED-01A-2015,Alphen A D Rijn $25K,Clay,32,25,20150907,22,204246,3,,Lesley Pattinama Kerkhove,R,172,NED,23.8,203514,,,Katarzyna Kawa,R,178,POL,22.8,2-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,217,216,372,93
 2015-W-C25-NED-01A-2015,Alphen A D Rijn $25K,Clay,32,25,20150907,23,206045,,,Quirine Lemoine,L,,NED,23.7,202593,,,Diana Buzean,R,,ROU,27.7,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,305,135,381,90
 2015-W-C25-NED-01A-2015,Alphen A D Rijn $25K,Clay,32,25,20150907,24,211260,,,Marie Benoit,L,,BEL,20.4,201462,2,,Alberta Brianti,R,165,ITA,35.4,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,370,95,197,254
 2015-W-C25-NED-01A-2015,Alphen A D Rijn $25K,Clay,32,25,20150907,25,202480,1,,Richel Hogenkamp,R,168,NED,23.3,201551,5,,Arantxa Rus,L,180,NED,24.7,7-6(6) 6-7(4) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,122,481,254,178
-2015-W-C25-NED-01A-2015,Alphen A D Rijn $25K,Clay,32,25,20150907,26,211329,,,Tena Lukas,U,,CRO,20.3,202642,8,,Gioia Barbieri,R,170,ITA,24.1,6-0 6-2,3,QF,,,,,,,,,,,,,,,,,,,,319,129,292,144
+2015-W-C25-NED-01A-2015,Alphen A D Rijn $25K,Clay,32,25,20150907,26,211329,,,Tena Lukas,R,,CRO,20.3,202642,8,,Gioia Barbieri,R,170,ITA,24.1,6-0 6-2,3,QF,,,,,,,,,,,,,,,,,,,,319,129,292,144
 2015-W-C25-NED-01A-2015,Alphen A D Rijn $25K,Clay,32,25,20150907,27,204246,3,,Lesley Pattinama Kerkhove,R,172,NED,23.8,211736,6,,Ivana Jorovic,R,174,SRB,18.3,1-6 6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,217,216,270,164
 2015-W-C25-NED-01A-2015,Alphen A D Rijn $25K,Clay,32,25,20150907,28,211260,,,Marie Benoit,L,,BEL,20.4,206045,,,Quirine Lemoine,L,,NED,23.7,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,370,95,305,135
-2015-W-C25-NED-01A-2015,Alphen A D Rijn $25K,Clay,32,25,20150907,29,211329,,,Tena Lukas,U,,CRO,20.3,202480,1,,Richel Hogenkamp,R,168,NED,23.3,6-1 3-6 7-6(9),3,SF,,,,,,,,,,,,,,,,,,,,319,129,122,481
+2015-W-C25-NED-01A-2015,Alphen A D Rijn $25K,Clay,32,25,20150907,29,211329,,,Tena Lukas,R,,CRO,20.3,202480,1,,Richel Hogenkamp,R,168,NED,23.3,6-1 3-6 7-6(9),3,SF,,,,,,,,,,,,,,,,,,,,319,129,122,481
 2015-W-C25-NED-01A-2015,Alphen A D Rijn $25K,Clay,32,25,20150907,30,211260,,,Marie Benoit,L,,BEL,20.4,204246,3,,Lesley Pattinama Kerkhove,R,172,NED,23.8,7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,370,95,217,216
-2015-W-C25-NED-01A-2015,Alphen A D Rijn $25K,Clay,32,25,20150907,31,211260,,,Marie Benoit,L,,BEL,20.4,211329,,,Tena Lukas,U,,CRO,20.3,5-7 6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,370,95,319,129
+2015-W-C25-NED-01A-2015,Alphen A D Rijn $25K,Clay,32,25,20150907,31,211260,,,Marie Benoit,L,,BEL,20.4,211329,,,Tena Lukas,R,,CRO,20.3,5-7 6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,370,95,319,129
 2015-W-C25-NGR-02A-2015,Lagos $25K,Hard,32,25,20151214,1,211063,1,,Valeriya Strakhova,R,,UKR,20.5,205655,,WC,Christie Agugbom,U,,NGR,33.0,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,268,168,,
 2015-W-C25-NGR-02A-2015,Lagos $25K,Hard,32,25,20151214,2,210357,,,Mara Schmidt,U,,USA,23.8,206299,,WC,Sarah Adegoke,R,,NGR,18.4,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2015-W-C25-NGR-02A-2015,Lagos $25K,Hard,32,25,20151214,3,210526,,,Valeria Bhunu,R,,ZIM,20.6,204415,,,Alexandra Riley,U,,USA,24.6,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,734,23,864,15
@@ -14170,7 +14170,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C25-RUS-05A-2015,Saint Petersburg $25K,Clay,32,25,20150817,29,212001,7,,Natalia Vikhlyantseva,R,185,RUS,18.4,203538,,,Polina Vinogradova,R,,RUS,21.7,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,274,155,300,136
 2015-W-C25-RUS-05A-2015,Saint Petersburg $25K,Clay,32,25,20150817,30,210672,,,Polina Leykina,R,,RUS,20.9,203549,5,,Olga Ianchuk,R,,UKR,20.3,7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,371,92,269,160
 2015-W-C25-RUS-05A-2015,Saint Petersburg $25K,Clay,32,25,20150817,31,210672,,,Polina Leykina,R,,RUS,20.9,212001,7,,Natalia Vikhlyantseva,R,185,RUS,18.4,6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,,371,92,274,155
-2015-W-C25-SLO-01A-2015,Maribor $25K,Clay,32,25,20150525,1,202628,1,,Maryna Zanevska,R,175,UKR,21.7,205918,,Q,Ulrikke Eikeri,R,,NOR,22.4,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,140,396,614,32
+2015-W-C25-SLO-01A-2015,Maribor $25K,Clay,32,25,20150525,1,202628,1,,Maryna Zanevska,R,175,BEL,21.7,205918,,Q,Ulrikke Eikeri,R,,NOR,22.4,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,140,396,614,32
 2015-W-C25-SLO-01A-2015,Maribor $25K,Clay,32,25,20150525,2,202579,,,Giulia Gatto Monticone,R,177,ITA,27.5,202482,,,Barbara Haas,R,165,AUT,19.1,7-5 5-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,296,136,302,131
 2015-W-C25-SLO-01A-2015,Maribor $25K,Clay,32,25,20150525,3,205824,,,Ema Mikulcic,R,,CRO,23.0,213744,,WC,Eva Zagorac,U,,SLO,19.5,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,298,136,1089,6
 2015-W-C25-SLO-01A-2015,Maribor $25K,Clay,32,25,20150525,4,206049,5,,Jovana Jaksic,R,180,SRB,21.6,211977,,Q,Adrijana Lekaj,R,170,CRO,19.9,7-6(4) 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,244,186,340,105
@@ -14186,7 +14186,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C25-SLO-01A-2015,Maribor $25K,Clay,32,25,20150525,14,202493,,,Ekaterine Gorgodze,L,,GEO,23.4,202631,,,Lara Michel,L,173,SUI,23.4,6-7(8) 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,335,107,327,112
 2015-W-C25-SLO-01A-2015,Maribor $25K,Clay,32,25,20150525,15,214026,,WC,Natalija Sipek,U,,SLO,18.4,211321,,,Klaartje Liebens,R,,BEL,20.3,7-6(8) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,732,21,309,125
 2015-W-C25-SLO-01A-2015,Maribor $25K,Clay,32,25,20150525,16,203488,,Q,Doroteja Eric,L,,SRB,22.8,201657,2,,Nastja Kolar,R,176,SLO,20.8,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,428,70,227,211
-2015-W-C25-SLO-01A-2015,Maribor $25K,Clay,32,25,20150525,17,202579,,,Giulia Gatto Monticone,R,177,ITA,27.5,202628,1,,Maryna Zanevska,R,175,UKR,21.7,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,296,136,140,396
+2015-W-C25-SLO-01A-2015,Maribor $25K,Clay,32,25,20150525,17,202579,,,Giulia Gatto Monticone,R,177,ITA,27.5,202628,1,,Maryna Zanevska,R,175,BEL,21.7,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,296,136,140,396
 2015-W-C25-SLO-01A-2015,Maribor $25K,Clay,32,25,20150525,18,205824,,,Ema Mikulcic,R,,CRO,23.0,206049,5,,Jovana Jaksic,R,180,SRB,21.6,6-2 5-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,298,136,244,186
 2015-W-C25-SLO-01A-2015,Maribor $25K,Clay,32,25,20150525,19,202490,3,,Rebecca Peterson,R,173,SWE,19.8,201656,,,Tadeja Majeric,R,178,SLO,24.7,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,220,226,322,115
 2015-W-C25-SLO-01A-2015,Maribor $25K,Clay,32,25,20150525,20,203537,,Q,Victoria Kan,R,,RUS,19.8,202633,8,,Nina Zander,R,170,GER,25.3,6-3 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,326,113,316,119
@@ -14271,7 +14271,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C25-SVK-01A-2015,Bratislava $25K,Hard,32,25,20151109,6,214149,,,Viktoria Kuzmova,R,,SVK,17.4,202922,,Q,Michaela Honcova,R,,SVK,22.8,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,440,68,461,62
 2015-W-C25-SVK-01A-2015,Bratislava $25K,Hard,32,25,20151109,7,214954,,,Marketa Vondrousova,L,173,CZE,16.3,205875,,,Chantal Skamlova,R,,SVK,22.1,7-6(3) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,429,71,431,71
 2015-W-C25-SVK-01A-2015,Bratislava $25K,Hard,32,25,20151109,8,203435,5,,Dalila Jakupovic,R,178,SLO,24.6,214148,,Q,Magdalena Pantuckova,U,,CZE,16.7,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,243,188,810,17
-2015-W-C25-SVK-01A-2015,Bratislava $25K,Hard,32,25,20151109,9,211406,,,Gabriela Pantuckova,R,,CZE,20.7,211329,6,,Tena Lukas,U,,CRO,20.5,6-4 6-7(2) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,362,100,271,163
+2015-W-C25-SVK-01A-2015,Bratislava $25K,Hard,32,25,20151109,9,211406,,,Gabriela Pantuckova,R,,CZE,20.7,211329,6,,Tena Lukas,R,,CRO,20.5,6-4 6-7(2) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,362,100,271,163
 2015-W-C25-SVK-01A-2015,Bratislava $25K,Hard,32,25,20151109,10,201694,,,Silvia Njiric,R,163,CRO,22.3,214004,,Q,Vendula Zovincova,R,,CZE,18.5,6-1 6-7(8) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,411,77,704,26
 2015-W-C25-SVK-01A-2015,Bratislava $25K,Hard,32,25,20151109,11,212053,,,Anastasia Pribylova,U,,RUS,19.7,215437,,Q,Monika Kilnarova,U,,CZE,16.0,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,380,92,1265,3
 2015-W-C25-SVK-01A-2015,Bratislava $25K,Hard,32,25,20151109,12,214096,,,Karolina Muchova,R,178,CZE,19.2,201339,4,,Renata Voracova,R,,CZE,32.0,6-2 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,419,75,242,188
@@ -14616,7 +14616,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C25-USA-02A-2015,Daytona Beach FL $25K,Clay,32,25,20150119,10,201558,,Q,Lauren Embree,R,,USA,24.0,211685,,Q,Rebecca Sramkova,R,,SVK,18.2,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,353,93,434,65
 2015-W-C25-USA-02A-2015,Daytona Beach FL $25K,Clay,32,25,20150119,11,204377,,,Indy De Vroome,R,,NED,18.6,201308,,Q,Maria Elena Camerin,R,164,ITA,32.8,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,253,173,371,86
 2015-W-C25-USA-02A-2015,Daytona Beach FL $25K,Clay,32,25,20150119,12,201592,,,Beatriz Garcia Vidagany,U,,ESP,26.1,201683,4,,Bianca Botto,L,178,PER,23.6,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,240,191,210,238
-2015-W-C25-USA-02A-2015,Daytona Beach FL $25K,Clay,32,25,20150119,13,211329,,Q,Tena Lukas,U,,CRO,19.6,206178,7,,Susanne Celik,R,,SWE,20.1,3-6 6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,443,63,233,199
+2015-W-C25-USA-02A-2015,Daytona Beach FL $25K,Clay,32,25,20150119,13,211329,,Q,Tena Lukas,R,,CRO,19.6,206178,7,,Susanne Celik,R,,SWE,20.1,3-6 6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,443,63,233,199
 2015-W-C25-USA-02A-2015,Daytona Beach FL $25K,Clay,32,25,20150119,14,202496,,SE,Samantha Crawford,R,188,USA,19.9,212001,,Q,Natalia Vikhlyantseva,R,185,RUS,17.9,7-5 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,279,152,428,66
 2015-W-C25-USA-02A-2015,Daytona Beach FL $25K,Clay,32,25,20150119,15,204427,,,Sara Sorribes Tormo,R,176,ESP,18.2,203567,,Q,Ipek Soylu,R,174,TUR,18.7,6-3 6-7(5) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,248,183,303,129
 2015-W-C25-USA-02A-2015,Daytona Beach FL $25K,Clay,32,25,20150119,16,202477,2,,Dinah Pfizenmaier,R,171,GER,23.0,206242,,,Beatriz Haddad Maia,L,185,BRA,18.6,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,143,385,237,194
@@ -14626,7 +14626,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C25-USA-02A-2015,Daytona Beach FL $25K,Clay,32,25,20150119,20,201551,,,Arantxa Rus,L,180,NED,24.1,202500,8,WC,Maria Sanchez,R,178,USA,25.1,6-0 2-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,244,188,235,196
 2015-W-C25-USA-02A-2015,Daytona Beach FL $25K,Clay,32,25,20150119,21,214082,,JE,Daria Kasatkina,R,170,RUS,17.7,201558,,Q,Lauren Embree,R,,USA,24.0,4-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,350,95,353,93
 2015-W-C25-USA-02A-2015,Daytona Beach FL $25K,Clay,32,25,20150119,22,204377,,,Indy De Vroome,R,,NED,18.6,201592,,,Beatriz Garcia Vidagany,U,,ESP,26.1,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,253,173,240,191
-2015-W-C25-USA-02A-2015,Daytona Beach FL $25K,Clay,32,25,20150119,23,202496,,SE,Samantha Crawford,R,188,USA,19.9,211329,,Q,Tena Lukas,U,,CRO,19.6,1-6 6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,279,152,443,63
+2015-W-C25-USA-02A-2015,Daytona Beach FL $25K,Clay,32,25,20150119,23,202496,,SE,Samantha Crawford,R,188,USA,19.9,211329,,Q,Tena Lukas,R,,CRO,19.6,1-6 6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,279,152,443,63
 2015-W-C25-USA-02A-2015,Daytona Beach FL $25K,Clay,32,25,20150119,24,204427,,,Sara Sorribes Tormo,R,176,ESP,18.2,202477,2,,Dinah Pfizenmaier,R,171,GER,23.0,6-0 3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,248,183,143,385
 2015-W-C25-USA-02A-2015,Daytona Beach FL $25K,Clay,32,25,20150119,25,210722,,,Elise Mertens,R,179,BEL,19.1,205591,,Q,Paula Cristina Goncalves,R,173,BRA,24.4,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,246,187,301,131
 2015-W-C25-USA-02A-2015,Daytona Beach FL $25K,Clay,32,25,20150119,26,201551,,,Arantxa Rus,L,180,NED,24.1,201387,,,Sofia Arvidsson,R,176,SWE,30.9,6-3 1-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,244,188,261,164
@@ -14644,7 +14644,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C25-USA-03A-2015,Sunrise FL $25K,Clay,32,25,20150126,7,201365,,Q,Edina Gallovits Hall,R,165,ROU,30.1,214939,,WC,Anna Kalinskaya,R,175,RUS,16.1,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,339,101,,
 2015-W-C25-USA-03A-2015,Sunrise FL $25K,Clay,32,25,20150126,8,211702,,,Nao Hibino,R,163,JPN,20.1,201683,8,,Bianca Botto,L,178,PER,23.6,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,214,232,210,238
 2015-W-C25-USA-03A-2015,Sunrise FL $25K,Clay,32,25,20150126,9,212001,,Q,Natalia Vikhlyantseva,R,185,RUS,17.9,211635,5,WC,Louisa Chirico,R,175,USA,18.6,6-1 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,428,66,185,286
-2015-W-C25-USA-03A-2015,Sunrise FL $25K,Clay,32,25,20150126,10,205591,,Q,Paula Cristina Goncalves,R,173,BRA,24.4,211329,,Q,Tena Lukas,U,,CRO,19.7,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,301,131,443,63
+2015-W-C25-USA-03A-2015,Sunrise FL $25K,Clay,32,25,20150126,10,205591,,Q,Paula Cristina Goncalves,R,173,BRA,24.4,211329,,Q,Tena Lukas,R,,CRO,19.7,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,301,131,443,63
 2015-W-C25-USA-03A-2015,Sunrise FL $25K,Clay,32,25,20150126,11,202410,,,Sofia Shapatava,R,170,GEO,26.0,206242,,,Beatriz Haddad Maia,L,185,BRA,18.6,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,218,228,237,194
 2015-W-C25-USA-03A-2015,Sunrise FL $25K,Clay,32,25,20150126,12,202500,,,Maria Sanchez,R,178,USA,25.1,202477,3,,Dinah Pfizenmaier,R,171,GER,23.0,2-6 7-6(3) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,235,196,143,385
 2015-W-C25-USA-03A-2015,Sunrise FL $25K,Clay,32,25,20150126,13,203500,7,,Sachia Vickery,R,162,USA,19.7,206178,,,Susanne Celik,R,,SWE,20.1,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,195,261,233,199
@@ -14728,7 +14728,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C25-USA-05A-2015,Rancho Santa Fe CA $25K,Hard,32,25,20150223,29,214263,6,,Catherine Cartan Bellis,R,,USA,15.8,203567,,,Ipek Soylu,R,174,TUR,18.8,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,247,182,299,128
 2015-W-C25-USA-05A-2015,Rancho Santa Fe CA $25K,Hard,32,25,20150223,30,202500,4,,Maria Sanchez,R,178,USA,25.2,203341,,,Sanaz Marand,L,,USA,26.6,4-6 6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,229,207,289,138
 2015-W-C25-USA-05A-2015,Rancho Santa Fe CA $25K,Hard,32,25,20150223,31,214263,6,,Catherine Cartan Bellis,R,,USA,15.8,202500,4,,Maria Sanchez,R,178,USA,25.2,6-2 6-0,3,F,,,,,,,,,,,,,,,,,,,,247,182,229,207
-2015-W-C25-USA-06A-2015,Palm Harbor FL $25K,Clay,32,25,20150323,1,202628,1,,Maryna Zanevska,R,175,UKR,21.5,202426,,,Julia Boserup,R,181,USA,23.5,6-7(7) 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,136,409,183,276
+2015-W-C25-USA-06A-2015,Palm Harbor FL $25K,Clay,32,25,20150323,1,202628,1,,Maryna Zanevska,R,175,BEL,21.5,202426,,,Julia Boserup,R,181,USA,23.5,6-7(7) 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,136,409,183,276
 2015-W-C25-USA-06A-2015,Palm Harbor FL $25K,Clay,32,25,20150323,2,202659,,,Tereza Mrdeza,R,173,CRO,24.3,201565,,,Katarzyna Piter,R,173,POL,24.0,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,205,250,202,253
 2015-W-C25-USA-06A-2015,Palm Harbor FL $25K,Clay,32,25,20150323,3,202490,,,Rebecca Peterson,R,173,SWE,19.6,206329,,,Montserrat Gonzalez,R,170,PAR,20.7,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,224,217,228,213
 2015-W-C25-USA-06A-2015,Palm Harbor FL $25K,Clay,32,25,20150323,4,201435,6,,Kateryna Bondarenko,R,175,UKR,28.6,205591,,Q,Paula Cristina Goncalves,R,173,BRA,24.6,6-4 5-7 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,167,311,270,158
@@ -14744,7 +14744,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C25-USA-06A-2015,Palm Harbor FL $25K,Clay,32,25,20150323,14,201443,,SE,Alexa Glatch,R,183,USA,25.5,201691,,Q,Dia Evtimova,R,168,BUL,27.8,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,343,100,310,121
 2015-W-C25-USA-06A-2015,Palm Harbor FL $25K,Clay,32,25,20150323,15,211854,,Q,Katerina Stewart,R,,USA,17.6,211843,,Q,Anhelina Kalinina,R,179,UKR,18.1,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,338,103,282,147
 2015-W-C25-USA-06A-2015,Palm Harbor FL $25K,Clay,32,25,20150323,16,201605,,,Mandy Minella,R,180,LUX,29.3,201537,2,,Patricia Mayr Achleitner,R,169,AUT,28.3,6-0 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,208,245,135,412
-2015-W-C25-USA-06A-2015,Palm Harbor FL $25K,Clay,32,25,20150323,17,202628,1,,Maryna Zanevska,R,175,UKR,21.5,202659,,,Tereza Mrdeza,R,173,CRO,24.3,6-4 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,136,409,205,250
+2015-W-C25-USA-06A-2015,Palm Harbor FL $25K,Clay,32,25,20150323,17,202628,1,,Maryna Zanevska,R,175,BEL,21.5,202659,,,Tereza Mrdeza,R,173,CRO,24.3,6-4 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,136,409,205,250
 2015-W-C25-USA-06A-2015,Palm Harbor FL $25K,Clay,32,25,20150323,18,202490,,,Rebecca Peterson,R,173,SWE,19.6,201435,6,,Kateryna Bondarenko,R,175,UKR,28.6,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,224,217,167,311
 2015-W-C25-USA-06A-2015,Palm Harbor FL $25K,Clay,32,25,20150323,19,214082,,Q,Daria Kasatkina,R,170,RUS,17.8,201696,4,,Laura Siegemund,R,168,GER,27.0,4-6 6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,261,166,154,363
 2015-W-C25-USA-06A-2015,Palm Harbor FL $25K,Clay,32,25,20150323,20,202395,8,,Maria Irigoyen,L,171,ARG,27.7,213673,,Q,Ellie Halbauer,U,,USA,17.7,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,200,254,586,35
@@ -14752,13 +14752,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C25-USA-06A-2015,Palm Harbor FL $25K,Clay,32,25,20150323,22,213530,,,Allie Kiick,R,170,USA,19.7,202440,3,,Paula Ormaechea,R,170,ARG,22.4,2-6 7-6(5) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,252,180,139,398
 2015-W-C25-USA-06A-2015,Palm Harbor FL $25K,Clay,32,25,20150323,23,201443,,SE,Alexa Glatch,R,183,USA,25.5,201542,7,,Olivia Rogowska,R,175,AUS,23.7,3-6 6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,343,100,194,266
 2015-W-C25-USA-06A-2015,Palm Harbor FL $25K,Clay,32,25,20150323,24,211854,,Q,Katerina Stewart,R,,USA,17.6,201605,,,Mandy Minella,R,180,LUX,29.3,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,338,103,208,245
-2015-W-C25-USA-06A-2015,Palm Harbor FL $25K,Clay,32,25,20150323,25,202628,1,,Maryna Zanevska,R,175,UKR,21.5,202490,,,Rebecca Peterson,R,173,SWE,19.6,7-6(2) 0-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,136,409,224,217
+2015-W-C25-USA-06A-2015,Palm Harbor FL $25K,Clay,32,25,20150323,25,202628,1,,Maryna Zanevska,R,175,BEL,21.5,202490,,,Rebecca Peterson,R,173,SWE,19.6,7-6(2) 0-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,136,409,224,217
 2015-W-C25-USA-06A-2015,Palm Harbor FL $25K,Clay,32,25,20150323,26,202395,8,,Maria Irigoyen,L,171,ARG,27.7,214082,,Q,Daria Kasatkina,R,170,RUS,17.8,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,200,254,261,166
 2015-W-C25-USA-06A-2015,Palm Harbor FL $25K,Clay,32,25,20150323,27,213530,,,Allie Kiick,R,170,USA,19.7,206242,,,Beatriz Haddad Maia,L,185,BRA,18.8,2-6 6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,252,180,204,252
 2015-W-C25-USA-06A-2015,Palm Harbor FL $25K,Clay,32,25,20150323,28,211854,,Q,Katerina Stewart,R,,USA,17.6,201443,,SE,Alexa Glatch,R,183,USA,25.5,5-7 6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,338,103,343,100
-2015-W-C25-USA-06A-2015,Palm Harbor FL $25K,Clay,32,25,20150323,29,202628,1,,Maryna Zanevska,R,175,UKR,21.5,202395,8,,Maria Irigoyen,L,171,ARG,27.7,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,136,409,200,254
+2015-W-C25-USA-06A-2015,Palm Harbor FL $25K,Clay,32,25,20150323,29,202628,1,,Maryna Zanevska,R,175,BEL,21.5,202395,8,,Maria Irigoyen,L,171,ARG,27.7,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,136,409,200,254
 2015-W-C25-USA-06A-2015,Palm Harbor FL $25K,Clay,32,25,20150323,30,211854,,Q,Katerina Stewart,R,,USA,17.6,213530,,,Allie Kiick,R,170,USA,19.7,6-1 1-0 RET,3,SF,,,,,,,,,,,,,,,,,,,,338,103,252,180
-2015-W-C25-USA-06A-2015,Palm Harbor FL $25K,Clay,32,25,20150323,31,211854,,Q,Katerina Stewart,R,,USA,17.6,202628,1,,Maryna Zanevska,R,175,UKR,21.5,1-6 6-3 2-0 RET,3,F,,,,,,,,,,,,,,,,,,,,338,103,136,409
+2015-W-C25-USA-06A-2015,Palm Harbor FL $25K,Clay,32,25,20150323,31,211854,,Q,Katerina Stewart,R,,USA,17.6,202628,1,,Maryna Zanevska,R,175,BEL,21.5,1-6 6-3 2-0 RET,3,F,,,,,,,,,,,,,,,,,,,,338,103,136,409
 2015-W-C25-USA-07A-2015,Jackson MS $25K,Clay,32,25,20150406,1,202427,1,,Johanna Konta,R,180,GBR,23.8,211876,,Q,Angelina Zhuravleva,U,,RUS,18.3,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,146,373,1171,4
 2015-W-C25-USA-07A-2015,Jackson MS $25K,Clay,32,25,20150406,2,214296,,Q,Erica Oosterhout,U,,USA,17.0,214877,,Q,Makenna Jones,U,,USA,17.1,7-6(3) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2015-W-C25-USA-07A-2015,Jackson MS $25K,Clay,32,25,20150406,3,202447,,,Alexandra Mueller,R,180,USA,27.1,203581,,Q,Elizabeth Anita Alexandria Profit,U,,USA,18.6,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,500,48,947,10
@@ -15918,7 +15918,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C50-GER-05A-2015,Versmold $50K,Clay,32,50,20150706,10,211337,,Q,Tamara Korpatsch,R,170,GER,20.1,202467,,,Elitsa Kostova,R,172,BUL,25.2,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,401,80,179,292
 2015-W-C50-GER-05A-2015,Versmold $50K,Clay,32,50,20150706,11,203549,,,Olga Ianchuk,R,,UKR,20.2,214082,,,Daria Kasatkina,R,170,RUS,18.1,2-6 7-6(4) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,275,154,161,320
 2015-W-C50-GER-05A-2015,Versmold $50K,Clay,32,50,20150706,12,202858,,,Anne Schaefer,R,,GER,28.3,201424,4,,Shahar Peer,R,170,ISR,28.1,6-7(1) 6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,246,175,120,470
-2015-W-C50-GER-05A-2015,Versmold $50K,Clay,32,50,20150706,13,202424,,,Conny Perrin,R,174,SUI,24.5,202628,7,,Maryna Zanevska,R,175,UKR,21.8,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,305,135,138,386
+2015-W-C50-GER-05A-2015,Versmold $50K,Clay,32,50,20150706,13,202424,,,Conny Perrin,R,174,SUI,24.5,202628,7,,Maryna Zanevska,R,175,BEL,21.8,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,305,135,138,386
 2015-W-C50-GER-05A-2015,Versmold $50K,Clay,32,50,20150706,14,203284,,,Katerina Vankova,L,,CZE,25.5,206035,,Q,Petra Rohanova,R,,CZE,19.8,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,235,199,731,22
 2015-W-C50-GER-05A-2015,Versmold $50K,Clay,32,50,20150706,15,204430,,,Antonia Lottner,R,185,GER,18.8,205647,,LL,Tereza Malikova,R,,CZE,23.9,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,340,111,579,39
 2015-W-C50-GER-05A-2015,Versmold $50K,Clay,32,50,20150706,16,201596,2,WC,Johanna Larsson,R,174,SWE,26.8,201339,,,Renata Voracova,R,,CZE,31.7,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,73,796,192,274
@@ -16750,7 +16750,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C75-CZE-01A-2015,Prague $75K,Clay,32,75,20150810,5,214096,,WC,Karolina Muchova,R,178,CZE,18.9,202480,4,,Richel Hogenkamp,R,168,NED,23.3,7-5 RET,3,R32,,,,,,,,,,,,,,,,,,,,529,46,119,497
 2015-W-C75-CZE-01A-2015,Prague $75K,Clay,32,75,20150810,6,201568,,,Kristina Kucova,R,163,SVK,25.2,206252,,,Barbora Krejcikova,R,178,CZE,19.6,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,169,307,145,362
 2015-W-C75-CZE-01A-2015,Prague $75K,Clay,32,75,20150810,7,211856,,Q,Anastasiya Komardina,L,,RUS,18.0,204265,,Q,Martina Borecka,R,,CZE,24.2,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,272,156,415,75
-2015-W-C75-CZE-01A-2015,Prague $75K,Clay,32,75,20150810,8,202628,5,,Maryna Zanevska,R,175,UKR,21.9,201551,,Q,Arantxa Rus,L,180,NED,24.6,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,139,399,265,162
+2015-W-C75-CZE-01A-2015,Prague $75K,Clay,32,75,20150810,8,202628,5,,Maryna Zanevska,R,175,BEL,21.9,201551,,Q,Arantxa Rus,L,180,NED,24.6,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,139,399,265,162
 2015-W-C75-CZE-01A-2015,Prague $75K,Clay,32,75,20150810,9,201640,7,,Maria Teresa Torro Flor,R,173,ESP,23.2,203537,,SR,Victoria Kan,R,,RUS,20.0,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,141,374,291,144
 2015-W-C75-CZE-01A-2015,Prague $75K,Clay,32,75,20150810,10,201565,,,Katarzyna Piter,R,173,POL,24.4,202490,,,Rebecca Peterson,R,173,SWE,20.0,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,213,225,146,361
 2015-W-C75-CZE-01A-2015,Prague $75K,Clay,32,75,20150810,11,201400,,WC,Nicole Vaidisova,R,181,CZE,26.2,202467,,,Elitsa Kostova,R,172,BUL,25.3,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,260,168,205,237
@@ -16762,16 +16762,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-C75-CZE-01A-2015,Prague $75K,Clay,32,75,20150810,17,202653,1,,Denisa Allertova,R,180,CZE,22.4,214954,,WC,Marketa Vondrousova,L,173,CZE,16.1,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,85,708,468,59
 2015-W-C75-CZE-01A-2015,Prague $75K,Clay,32,75,20150810,18,204434,,,Ysaline Bonaventure,L,178,BEL,20.9,201668,6,,Alexandra Panova,R,179,RUS,26.4,3-6 7-6(5) 3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,184,281,131,418
 2015-W-C75-CZE-01A-2015,Prague $75K,Clay,32,75,20150810,19,201568,,,Kristina Kucova,R,163,SVK,25.2,214096,,WC,Karolina Muchova,R,178,CZE,18.9,7-6(4) 4-6 4-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,169,307,529,46
-2015-W-C75-CZE-01A-2015,Prague $75K,Clay,32,75,20150810,20,202628,5,,Maryna Zanevska,R,175,UKR,21.9,211856,,Q,Anastasiya Komardina,L,,RUS,18.0,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,139,399,272,156
+2015-W-C75-CZE-01A-2015,Prague $75K,Clay,32,75,20150810,20,202628,5,,Maryna Zanevska,R,175,BEL,21.9,211856,,Q,Anastasiya Komardina,L,,RUS,18.0,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,139,399,272,156
 2015-W-C75-CZE-01A-2015,Prague $75K,Clay,32,75,20150810,21,201640,7,,Maria Teresa Torro Flor,R,173,ESP,23.2,201565,,,Katarzyna Piter,R,173,POL,24.4,6-7(3) 6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,141,374,213,225
 2015-W-C75-CZE-01A-2015,Prague $75K,Clay,32,75,20150810,22,201400,,WC,Nicole Vaidisova,R,181,CZE,26.2,201440,,,Laura Pous Tio,U,173,ESP,30.8,6-1 4-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,260,168,182,283
 2015-W-C75-CZE-01A-2015,Prague $75K,Clay,32,75,20150810,23,201508,,WC,Petra Cetkovska,R,172,CZE,30.4,201514,,,Sorana Cirstea,R,176,ROU,25.3,7-6(5) 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,166,312,178,289
 2015-W-C75-CZE-01A-2015,Prague $75K,Clay,32,75,20150810,24,204427,,,Sara Sorribes Tormo,R,176,ESP,18.8,201452,2,,Lourdes Dominguez Lino,R,163,ESP,34.3,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,143,366,93,646
 2015-W-C75-CZE-01A-2015,Prague $75K,Clay,32,75,20150810,25,202653,1,,Denisa Allertova,R,180,CZE,22.4,204434,,,Ysaline Bonaventure,L,178,BEL,20.9,4-6 6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,85,708,184,281
-2015-W-C75-CZE-01A-2015,Prague $75K,Clay,32,75,20150810,26,202628,5,,Maryna Zanevska,R,175,UKR,21.9,201568,,,Kristina Kucova,R,163,SVK,25.2,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,139,399,169,307
+2015-W-C75-CZE-01A-2015,Prague $75K,Clay,32,75,20150810,26,202628,5,,Maryna Zanevska,R,175,BEL,21.9,201568,,,Kristina Kucova,R,163,SVK,25.2,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,139,399,169,307
 2015-W-C75-CZE-01A-2015,Prague $75K,Clay,32,75,20150810,27,201640,7,,Maria Teresa Torro Flor,R,173,ESP,23.2,201400,,WC,Nicole Vaidisova,R,181,CZE,26.2,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,141,374,260,168
 2015-W-C75-CZE-01A-2015,Prague $75K,Clay,32,75,20150810,28,201508,,WC,Petra Cetkovska,R,172,CZE,30.4,204427,,,Sara Sorribes Tormo,R,176,ESP,18.8,6-3 RET,3,QF,,,,,,,,,,,,,,,,,,,,166,312,143,366
-2015-W-C75-CZE-01A-2015,Prague $75K,Clay,32,75,20150810,29,202653,1,,Denisa Allertova,R,180,CZE,22.4,202628,5,,Maryna Zanevska,R,175,UKR,21.9,0-6 6-3 7-6(3),3,SF,,,,,,,,,,,,,,,,,,,,85,708,139,399
+2015-W-C75-CZE-01A-2015,Prague $75K,Clay,32,75,20150810,29,202653,1,,Denisa Allertova,R,180,CZE,22.4,202628,5,,Maryna Zanevska,R,175,BEL,21.9,0-6 6-3 7-6(3),3,SF,,,,,,,,,,,,,,,,,,,,85,708,139,399
 2015-W-C75-CZE-01A-2015,Prague $75K,Clay,32,75,20150810,30,201640,7,,Maria Teresa Torro Flor,R,173,ESP,23.2,201508,,WC,Petra Cetkovska,R,172,CZE,30.4,7-6(9) 7-5,3,SF,,,,,,,,,,,,,,,,,,,,141,374,166,312
 2015-W-C75-CZE-01A-2015,Prague $75K,Clay,32,75,20150810,31,201640,7,,Maria Teresa Torro Flor,R,173,ESP,23.2,202653,1,,Denisa Allertova,R,180,CZE,22.4,6-3 7-6(5),3,F,,,,,,,,,,,,,,,,,,,,141,374,85,708
 2015-W-C75-JPN-01A-2015,Gifu $75K,Hard,32,75,20150427,1,202453,1,,Saisai Zheng,R,170,CHN,21.2,206075,,,Hiroko Kuwata,R,,JPN,24.3,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,75,736,168,312
@@ -17374,7 +17374,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-WITF-ESP-13A-2015,Barcelona 15K,Clay,32,15,20150831,296,203538,4,,Polina Vinogradova,R,,RUS,21.7,215698,,Q,Paula Arias Manjon,U,,ESP,15.5,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,279,153,,
 2015-W-WITF-ESP-13A-2015,Barcelona 15K,Clay,32,15,20150831,295,203364,,Q,Tatiana Bua,L,,ARG,25.6,206390,,,Isabelle Wallace,L,,AUS,18.9,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,816,16,650,31
 2015-W-WITF-ESP-13A-2015,Barcelona 15K,Clay,32,15,20150831,294,211901,,,Aliona Bolsova,R,172,MDA,17.8,205363,,,Cristina Sanchez Quintanar,R,,ESP,26.4,6-7(5) 6-1 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,523,48,446,67
-2015-W-WITF-ESP-13A-2015,Barcelona 15K,Clay,32,15,20150831,293,213710,,Q,Cristina Bucsa,U,,MDA,17.6,202606,7,,Claudia Giovine,R,,ITA,25.1,6-2 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,879,13,386,88
+2015-W-WITF-ESP-13A-2015,Barcelona 15K,Clay,32,15,20150831,293,213710,,Q,Cristina Bucsa,U,,ESP,17.6,202606,7,,Claudia Giovine,R,,ITA,25.1,6-2 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,879,13,386,88
 2015-W-WITF-ESP-13A-2015,Barcelona 15K,Clay,32,15,20150831,292,205790,8,,Alexandra Nancarrow,R,165,AUS,21.9,206427,,,Daiana Negreanu,U,,ROU,27.1,6-7(6) 7-6(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,394,84,564,42
 2015-W-WITF-ESP-13A-2015,Barcelona 15K,Clay,32,15,20150831,291,201638,,,Estrella Cabeza Candela,R,173,ESP,28.5,211472,,,Oleksandra Korashvili,R,,UKR,19.4,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,476,58,430,71
 2015-W-WITF-ESP-13A-2015,Barcelona 15K,Clay,32,15,20150831,290,204330,,,Alice Savoretti,R,,ITA,23.2,206302,,,Gaia Sanesi,L,170,ITA,23.4,3-6 6-3 7-6(8),3,R32,,,,,,,,,,,,,,,,,,,,475,59,454,65
@@ -17386,13 +17386,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-WITF-ESP-13A-2015,Barcelona 15K,Clay,32,15,20150831,284,202410,1,,Sofia Shapatava,R,170,GEO,26.6,214216,,Q,Marta Huqi Gonzalez Encinas,U,,ESP,16.9,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,253,178,704,25
 2015-W-WITF-ESP-13A-2015,Barcelona 15K,Clay,32,15,20150831,283,202916,6,,Georgina Garcia Perez,U,187,ESP,23.2,213835,,Q,Alba Carrillo Marin,U,,ESP,19.4,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,346,109,939,11
 2015-W-WITF-ESP-13A-2015,Barcelona 15K,Clay,32,15,20150831,282,203538,4,,Polina Vinogradova,R,,RUS,21.7,203364,,Q,Tatiana Bua,L,,ARG,25.6,6-4 5-7 6-0,3,R16,,,,,,,,,,,,,,,,,,,,279,153,816,16
-2015-W-WITF-ESP-13A-2015,Barcelona 15K,Clay,32,15,20150831,281,213710,,Q,Cristina Bucsa,U,,MDA,17.6,211901,,,Aliona Bolsova,R,172,MDA,17.8,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,879,13,523,48
+2015-W-WITF-ESP-13A-2015,Barcelona 15K,Clay,32,15,20150831,281,213710,,Q,Cristina Bucsa,U,,ESP,17.6,211901,,,Aliona Bolsova,R,172,MDA,17.8,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,879,13,523,48
 2015-W-WITF-ESP-13A-2015,Barcelona 15K,Clay,32,15,20150831,280,201638,,,Estrella Cabeza Candela,R,173,ESP,28.5,205790,8,,Alexandra Nancarrow,R,165,AUS,21.9,6-3 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,476,58,394,84
 2015-W-WITF-ESP-13A-2015,Barcelona 15K,Clay,32,15,20150831,279,202707,3,,Myrtille Georges,R,174,FRA,24.6,204330,,,Alice Savoretti,R,,ITA,23.2,6-1 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,267,167,475,59
 2015-W-WITF-ESP-13A-2015,Barcelona 15K,Clay,32,15,20150831,278,214225,,,Snehadevi S Reddy,R,,IND,18.5,215571,,WC,Guiomar Maristany Zuleta De Reales,U,,ESP,16.5,6-2 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,688,27,,
 2015-W-WITF-ESP-13A-2015,Barcelona 15K,Clay,32,15,20150831,277,214191,,Q,Seone Mendez,R,,AUS,16.2,211028,,Q,Maria Martinez Martinez,R,,ESP,19.4,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1241,3,735,21
 2015-W-WITF-ESP-13A-2015,Barcelona 15K,Clay,32,15,20150831,276,202916,6,,Georgina Garcia Perez,U,187,ESP,23.2,202410,1,,Sofia Shapatava,R,170,GEO,26.6,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,346,109,253,178
-2015-W-WITF-ESP-13A-2015,Barcelona 15K,Clay,32,15,20150831,275,203538,4,,Polina Vinogradova,R,,RUS,21.7,213710,,Q,Cristina Bucsa,U,,MDA,17.6,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,279,153,879,13
+2015-W-WITF-ESP-13A-2015,Barcelona 15K,Clay,32,15,20150831,275,203538,4,,Polina Vinogradova,R,,RUS,21.7,213710,,Q,Cristina Bucsa,U,,ESP,17.6,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,279,153,879,13
 2015-W-WITF-ESP-13A-2015,Barcelona 15K,Clay,32,15,20150831,274,202707,3,,Myrtille Georges,R,174,FRA,24.6,201638,,,Estrella Cabeza Candela,R,173,ESP,28.5,6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,267,167,476,58
 2015-W-WITF-ESP-13A-2015,Barcelona 15K,Clay,32,15,20150831,273,214225,,,Snehadevi S Reddy,R,,IND,18.5,214191,,Q,Seone Mendez,R,,AUS,16.2,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,688,27,1241,3
 2015-W-WITF-ESP-13A-2015,Barcelona 15K,Clay,32,15,20150831,272,202916,6,,Georgina Garcia Perez,U,187,ESP,23.2,203538,4,,Polina Vinogradova,R,,RUS,21.7,3-6 6-2 7-5,3,SF,,,,,,,,,,,,,,,,,,,,346,109,279,153
@@ -18105,7 +18105,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-INT-AUT-01A-2015,Bad Gastein,Clay,32,I,20150720,6,211854,10,,Katerina Stewart,R,,USA,18.0,202467,,,Elitsa Kostova,R,172,BUL,25.2,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,169,304,217,216
 2015-W-INT-AUT-01A-2015,Bad Gastein,Clay,32,I,20150720,7,203552,4,,Risa Ozaki,R,163,JPN,21.2,202413,,,Florencia Molinero,R,170,ARG,26.6,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,137,384,227,204
 2015-W-INT-AUT-01A-2015,Bad Gastein,Clay,32,I,20150720,8,201545,12,A,Anastasija Sevastova,R,169,LAT,25.2,206144,,A,Xenia Knoll,L,175,SUI,22.8,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,201,245,295,141
-2015-W-INT-AUT-01A-2015,Bad Gastein,Clay,32,I,20150720,9,202628,5,,Maryna Zanevska,R,175,UKR,21.9,201657,,,Nastja Kolar,R,176,SLO,21.0,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,133,414,244,179
+2015-W-INT-AUT-01A-2015,Bad Gastein,Clay,32,I,20150720,9,202628,5,,Maryna Zanevska,R,175,BEL,21.9,201657,,,Nastja Kolar,R,176,SLO,21.0,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,133,414,244,179
 2015-W-INT-AUT-01A-2015,Bad Gastein,Clay,32,I,20150720,10,201565,,,Katarzyna Piter,R,173,POL,24.4,201443,9,,Alexa Glatch,R,183,USA,25.8,6-4 3-6 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,202,243,161,317
 2015-W-INT-AUT-01A-2015,Bad Gastein,Clay,32,I,20150720,11,201549,6,,Petra Martic,R,181,CRO,24.4,204390,,WC,Pia Konig,R,,AUT,22.1,6-0 7-6(1),3,Q1,,,,,,,,,,,,,,,,,,,,139,375,337,113
 2015-W-INT-AUT-01A-2015,Bad Gastein,Clay,32,I,20150720,12,206124,,,Tereza Martincova,R,178,CZE,20.7,202626,7,,Stephanie Vogt,R,167,LIE,25.4,6-3 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,209,232,147,346
@@ -18113,7 +18113,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-INT-AUT-01A-2015,Bad Gastein,Clay,32,I,20150720,14,205925,2,,Aliaksandra Sasnovich,R,174,BLR,21.3,203379,11,,Marina Melnikova,R,173,RUS,26.4,6-1 7-6(4),3,Q2,,,,,,,,,,,,,,,,,,,,123,459,170,296
 2015-W-INT-AUT-01A-2015,Bad Gastein,Clay,32,I,20150720,15,202536,,,Ana Bogdan,R,171,ROU,22.6,211854,10,,Katerina Stewart,R,,USA,18.0,6-1 7-6(5),3,Q2,,,,,,,,,,,,,,,,,,,,199,245,169,304
 2015-W-INT-AUT-01A-2015,Bad Gastein,Clay,32,I,20150720,16,201545,12,A,Anastasija Sevastova,R,169,LAT,25.2,203552,4,,Risa Ozaki,R,163,JPN,21.2,6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,201,245,137,384
-2015-W-INT-AUT-01A-2015,Bad Gastein,Clay,32,I,20150720,17,202628,5,,Maryna Zanevska,R,175,UKR,21.9,201565,,,Katarzyna Piter,R,173,POL,24.4,6-2 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,133,414,202,243
+2015-W-INT-AUT-01A-2015,Bad Gastein,Clay,32,I,20150720,17,202628,5,,Maryna Zanevska,R,175,BEL,21.9,201565,,,Katarzyna Piter,R,173,POL,24.4,6-2 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,133,414,202,243
 2015-W-INT-AUT-01A-2015,Bad Gastein,Clay,32,I,20150720,18,201549,6,,Petra Martic,R,181,CRO,24.4,206124,,,Tereza Martincova,R,178,CZE,20.7,6-4 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,139,375,209,232
 2015-W-INT-AUT-02A-2015,Linz,Hard,32,I,20151012,1,202427,1,,Johanna Konta,R,180,GBR,24.4,201588,,,Anna Tatishvili,R,171,GEO,25.6,6-4 6-7(4) 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,47,1086,109,544
 2015-W-INT-AUT-02A-2015,Linz,Hard,32,I,20151012,2,201526,,,Julie Coin,R,172,FRA,32.8,211814,,WC,Julia Grabher,R,170,AUT,19.2,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,193,258,507,52
@@ -18127,7 +18127,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-INT-AUT-02A-2015,Linz,Hard,32,I,20151012,10,201466,,,Kaia Kanepi,R,181,EST,30.3,202626,,,Stephanie Vogt,R,167,LIE,25.6,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,126,435,164,320
 2015-W-INT-AUT-02A-2015,Linz,Hard,32,I,20151012,11,203281,,,Amandine Hesse,R,164,FRA,22.7,201537,,WC,Patricia Mayr Achleitner,R,169,AUT,28.9,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,158,325,315,126
 2015-W-INT-AUT-02A-2015,Linz,Hard,32,I,20151012,12,202434,7,,Aleksandra Krunic,R,163,SRB,22.5,201545,,,Anastasija Sevastova,R,169,LAT,25.4,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,99,636,134,419
-2015-W-INT-AUT-02A-2015,Linz,Hard,32,I,20151012,13,211533,4,,Jelena Ostapenko,R,177,LAT,18.3,202628,,,Maryna Zanevska,R,175,UKR,22.1,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,80,768,142,395
+2015-W-INT-AUT-02A-2015,Linz,Hard,32,I,20151012,13,211533,4,,Jelena Ostapenko,R,177,LAT,18.3,202628,,,Maryna Zanevska,R,175,BEL,22.1,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,80,768,142,395
 2015-W-INT-AUT-02A-2015,Linz,Hard,32,I,20151012,14,201668,,,Alexandra Panova,R,179,RUS,26.6,201562,,,Silvia Soler Espinosa,R,169,ESP,27.8,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,137,412,145,375
 2015-W-INT-AUT-02A-2015,Linz,Hard,32,I,20151012,15,202499,,,Donna Vekic,R,179,CRO,19.2,201603,,,Shelby Rogers,R,175,USA,22.9,4-6 6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,107,568,148,366
 2015-W-INT-AUT-02A-2015,Linz,Hard,32,I,20151012,16,201527,,,Stefanie Voegele,R,170,SUI,25.5,202702,5,,Tereza Smitkova,R,176,CZE,21.0,6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,165,319,93,667
@@ -18436,7 +18436,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-INT-LUX-01A-2015,Luxembourg,Hard,32,I,20151019,12,206219,8,,Oceane Dodin,R,,FRA,18.9,211736,,,Ivana Jorovic,R,174,SRB,18.4,6-1 7-6(3),3,Q1,,,,,,,,,,,,,,,,,,,,122,465,266,167
 2015-W-INT-LUX-01A-2015,Luxembourg,Hard,32,I,20151019,13,201696,4,,Laura Siegemund,R,168,GER,27.6,214081,,WC,Katharina Hobgarski,R,171,GER,18.3,6-4 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,101,643,595,38
 2015-W-INT-LUX-01A-2015,Luxembourg,Hard,32,I,20151019,14,206335,,,Jesika Maleckova,R,,CZE,21.1,213544,,,Jana Fett,R,168,CRO,18.9,6-4 2-6 7-6(4),3,Q1,,,,,,,,,,,,,,,,,,,,311,128,237,191
-2015-W-INT-LUX-01A-2015,Luxembourg,Hard,32,I,20151019,15,211329,,,Tena Lukas,U,,CRO,20.4,201603,,,Shelby Rogers,R,175,USA,23.0,7-6(3) RET,3,Q1,,,,,,,,,,,,,,,,,,,,284,155,147,366
+2015-W-INT-LUX-01A-2015,Luxembourg,Hard,32,I,20151019,15,211329,,,Tena Lukas,R,,CRO,20.4,201603,,,Shelby Rogers,R,175,USA,23.0,7-6(3) RET,3,Q1,,,,,,,,,,,,,,,,,,,,284,155,147,366
 2015-W-INT-LUX-01A-2015,Luxembourg,Hard,32,I,20151019,16,202480,,,Richel Hogenkamp,R,168,NED,23.5,201648,6,,Naomi Broady,R,189,GBR,25.6,6-4 3-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,131,424,116,489
 2015-W-INT-LUX-01A-2015,Luxembourg,Hard,32,I,20151019,17,201526,,,Julie Coin,R,172,FRA,32.8,201428,,,Mathilde Johansson,R,173,FRA,30.4,3-6 7-5 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,188,266,213,230
 2015-W-INT-LUX-01A-2015,Luxembourg,Hard,32,I,20151019,18,206124,,,Tereza Martincova,R,178,CZE,20.9,211635,7,WC,Louisa Chirico,R,175,USA,19.4,3-6 6-2 7-6(5),3,Q2,,,,,,,,,,,,,,,,,,,,195,257,121,470
@@ -18445,7 +18445,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-INT-LUX-01A-2015,Luxembourg,Hard,32,I,20151019,21,202450,,,Jana Cepelova,R,168,SVK,22.3,202428,3,,Kiki Bertens,R,182,NED,23.8,4-6 6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,150,356,105,606
 2015-W-INT-LUX-01A-2015,Luxembourg,Hard,32,I,20151019,22,206219,8,,Oceane Dodin,R,,FRA,18.9,201562,,,Silvia Soler Espinosa,R,169,ESP,27.9,6-1 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,122,465,144,375
 2015-W-INT-LUX-01A-2015,Luxembourg,Hard,32,I,20151019,23,201696,4,,Laura Siegemund,R,168,GER,27.6,206335,,,Jesika Maleckova,R,,CZE,21.1,6-0 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,101,643,311,128
-2015-W-INT-LUX-01A-2015,Luxembourg,Hard,32,I,20151019,24,202480,,,Richel Hogenkamp,R,168,NED,23.5,211329,,,Tena Lukas,U,,CRO,20.4,6-0 4-6 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,131,424,284,155
+2015-W-INT-LUX-01A-2015,Luxembourg,Hard,32,I,20151019,24,202480,,,Richel Hogenkamp,R,168,NED,23.5,211329,,,Tena Lukas,R,,CRO,20.4,6-0 4-6 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,131,424,284,155
 2015-W-INT-LUX-01A-2015,Luxembourg,Hard,32,I,20151019,25,201526,,,Julie Coin,R,172,FRA,32.8,206124,,,Tereza Martincova,R,178,CZE,20.9,6-1 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,188,266,195,257
 2015-W-INT-LUX-01A-2015,Luxembourg,Hard,32,I,20151019,26,201588,5,,Anna Tatishvili,R,171,GEO,25.7,202626,,,Stephanie Vogt,R,167,LIE,25.6,6-3 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,110,544,162,320
 2015-W-INT-LUX-01A-2015,Luxembourg,Hard,32,I,20151019,27,202450,,,Jana Cepelova,R,168,SVK,22.3,206219,8,,Oceane Dodin,R,,FRA,18.9,2-6 6-3 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,150,356,122,465
@@ -18461,7 +18461,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-INT-MAR-01A-2015,Marrakech,Clay,32,I,20150427,9,202421,3,,Alison Van Uytvanck,R,173,BEL,21.0,201592,,,Beatriz Garcia Vidagany,U,,ESP,26.4,2-0 RET,3,Q1,,,,,,,,,,,,,,,,,,,,91,653,291,138
 2015-W-INT-MAR-01A-2015,Marrakech,Clay,32,I,20150427,10,204427,,,Sara Sorribes Tormo,R,176,ESP,18.5,201605,,,Mandy Minella,R,180,LUX,29.4,3-6 6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,157,328,174,304
 2015-W-INT-MAR-01A-2015,Marrakech,Clay,32,I,20150427,11,202706,,,Manon Arcangioli,R,162,FRA,20.6,201494,,WC,Raluca Olaru,R,173,ROU,26.1,6-2 7-6(5),3,Q1,,,,,,,,,,,,,,,,,,,,279,147,841,14
-2015-W-INT-MAR-01A-2015,Marrakech,Clay,32,I,20150427,12,201542,,,Olivia Rogowska,R,175,AUS,23.8,202628,6,,Maryna Zanevska,R,175,UKR,21.6,7-6(3) 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,196,256,131,416
+2015-W-INT-MAR-01A-2015,Marrakech,Clay,32,I,20150427,12,201542,,,Olivia Rogowska,R,175,AUS,23.8,202628,6,,Maryna Zanevska,R,175,BEL,21.6,7-6(3) 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,196,256,131,416
 2015-W-INT-MAR-01A-2015,Marrakech,Clay,32,I,20150427,13,201456,,,Olga Savchuk,R,175,UKR,27.6,201452,4,,Lourdes Dominguez Lino,R,163,ESP,34.0,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,264,161,114,501
 2015-W-INT-MAR-01A-2015,Marrakech,Clay,32,I,20150427,14,201462,,,Alberta Brianti,R,165,ITA,35.0,206102,,,Ankita Raina,R,163,IND,22.2,7-5 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,182,286,235,193
 2015-W-INT-MAR-01A-2015,Marrakech,Clay,32,I,20150427,15,202395,,,Maria Irigoyen,L,171,ARG,27.8,203564,,,Chloe Paquet,R,179,FRA,20.8,6-3 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,223,202,378,86
@@ -18665,7 +18665,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-INT-SWE-01A-2015,Bastad,Clay,32,I,20150713,4,201605,,,Mandy Minella,R,180,LUX,29.6,201339,10,,Renata Voracova,R,,CZE,31.7,7-5 3-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,231,200,182,274
 2015-W-INT-SWE-01A-2015,Bastad,Clay,32,I,20150713,5,210957,,WC,Cornelia Lister,U,183,SWE,21.1,205925,3,,Aliaksandra Sasnovich,R,174,BLR,21.3,6-2 7-6(4),3,Q1,,,,,,,,,,,,,,,,,,,,,,122,470
 2015-W-INT-SWE-01A-2015,Bastad,Clay,32,I,20150713,6,204434,12,,Ysaline Bonaventure,L,178,BEL,20.8,201617,,,Ana Vrljic,R,,CRO,30.9,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,215,223,223,208
-2015-W-INT-SWE-01A-2015,Bastad,Clay,32,I,20150713,7,202628,4,,Maryna Zanevska,R,175,UKR,21.8,202424,,,Conny Perrin,R,174,SUI,24.5,6-3 3-6 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,139,371,288,145
+2015-W-INT-SWE-01A-2015,Bastad,Clay,32,I,20150713,7,202628,4,,Maryna Zanevska,R,175,BEL,21.8,202424,,,Conny Perrin,R,174,SUI,24.5,6-3 3-6 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,139,371,288,145
 2015-W-INT-SWE-01A-2015,Bastad,Clay,32,I,20150713,8,203379,8,,Marina Melnikova,R,173,RUS,26.4,201442,,,Yung Jan Chan,R,170,TPE,25.9,3-6 6-3 7-6(4),3,Q1,,,,,,,,,,,,,,,,,,,,175,293,217,221
 2015-W-INT-SWE-01A-2015,Bastad,Clay,32,I,20150713,9,204426,5,,Anett Kontaveit,R,174,EST,19.5,205924,,WC,Malin Ulvefeldt,R,,SWE,21.3,6-3 4-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,157,319,587,37
 2015-W-INT-SWE-01A-2015,Bastad,Clay,32,I,20150713,10,201462,9,,Alberta Brianti,R,165,ITA,35.2,211643,,WC,Kajsa Rinaldo Persson,R,,SWE,17.6,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,192,257,572,38
@@ -18674,7 +18674,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-INT-SWE-01A-2015,Bastad,Clay,32,I,20150713,13,202430,,,Alize Lim,R,173,FRA,24.9,201440,11,,Laura Pous Tio,U,173,ESP,30.7,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,253,170,179,280
 2015-W-INT-SWE-01A-2015,Bastad,Clay,32,I,20150713,14,201605,,,Mandy Minella,R,180,LUX,29.6,203518,2,,Paula Kania,R,168,POL,22.6,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,231,200,136,393
 2015-W-INT-SWE-01A-2015,Bastad,Clay,32,I,20150713,15,204434,12,,Ysaline Bonaventure,L,178,BEL,20.8,210957,,WC,Cornelia Lister,U,183,SWE,21.1,6-3 1-6 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,215,223,,
-2015-W-INT-SWE-01A-2015,Bastad,Clay,32,I,20150713,16,202628,4,,Maryna Zanevska,R,175,UKR,21.8,203379,8,,Marina Melnikova,R,173,RUS,26.4,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,139,371,175,293
+2015-W-INT-SWE-01A-2015,Bastad,Clay,32,I,20150713,16,202628,4,,Maryna Zanevska,R,175,BEL,21.8,203379,8,,Marina Melnikova,R,173,RUS,26.4,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,139,371,175,293
 2015-W-INT-SWE-01A-2015,Bastad,Clay,32,I,20150713,17,204426,5,,Anett Kontaveit,R,174,EST,19.5,201462,9,,Alberta Brianti,R,165,ITA,35.2,6-2 2-6 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,157,319,192,257
 2015-W-INT-SWE-01A-2015,Bastad,Clay,32,I,20150713,18,201551,,,Arantxa Rus,L,180,NED,24.5,202487,,,Nastassja Burnett,R,178,ITA,23.3,3-6 6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,264,163,596,36
 2015-W-INT-THA-01A-2015,Pattaya,Hard,32,I,20150209,1,201370,,,Anastasia Rodionova,R,167,AUS,32.7,201668,1,,Alexandra Panova,R,179,RUS,25.9,3-6 7-5 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,194,266,121,457
@@ -18726,11 +18726,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-INT-UZB-01A-2015,Tashkent,Hard,32,I,20150928,5,201527,3,,Stefanie Voegele,R,170,SUI,25.5,202387,,WC,Vlada Ekshibarova,R,,UZB,26.5,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,143,380,663,28
 2015-W-INT-UZB-01A-2015,Tashkent,Hard,32,I,20150928,6,201438,8,,Ekaterina Bychkova,R,171,RUS,30.3,206031,,,Carolin Daniels,R,,GER,23.2,6-3 3-6 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,200,245,389,86
 2015-W-INT-UZB-01A-2015,Tashkent,Hard,32,I,20150928,7,203518,4,,Paula Kania,R,168,POL,22.8,202611,,,Oksana Kalashnikova,L,184,GEO,25.0,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,142,384,685,26
-2015-W-INT-UZB-01A-2015,Tashkent,Hard,32,I,20150928,8,202628,5,,Maryna Zanevska,R,175,UKR,22.0,204397,,WC,Arina Folts,R,,UZB,18.7,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,140,388,804,17
+2015-W-INT-UZB-01A-2015,Tashkent,Hard,32,I,20150928,8,202628,5,,Maryna Zanevska,R,175,BEL,22.0,204397,,WC,Arina Folts,R,,UZB,18.7,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,140,388,804,17
 2015-W-INT-UZB-01A-2015,Tashkent,Hard,32,I,20150928,9,204426,1,,Anett Kontaveit,R,174,EST,19.7,201565,7,,Katarzyna Piter,R,173,POL,24.6,7-6(9) 4-6 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,90,674,201,245
 2015-W-INT-UZB-01A-2015,Tashkent,Hard,32,I,20150928,10,203462,,,Kateryna Baindl,R,175,UKR,21.6,201549,2,,Petra Martic,R,181,CRO,24.6,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,203,243,128,434
 2015-W-INT-UZB-01A-2015,Tashkent,Hard,32,I,20150928,11,201527,3,,Stefanie Voegele,R,170,SUI,25.5,201438,8,,Ekaterina Bychkova,R,171,RUS,30.3,7-5 2-6 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,143,380,200,245
-2015-W-INT-UZB-01A-2015,Tashkent,Hard,32,I,20150928,12,203518,4,,Paula Kania,R,168,POL,22.8,202628,5,,Maryna Zanevska,R,175,UKR,22.0,W/O,3,Q2,,,,,,,,,,,,,,,,,,,,142,384,140,388
+2015-W-INT-UZB-01A-2015,Tashkent,Hard,32,I,20150928,12,203518,4,,Paula Kania,R,168,POL,22.8,202628,5,,Maryna Zanevska,R,175,BEL,22.0,W/O,3,Q2,,,,,,,,,,,,,,,,,,,,142,384,140,388
 2015-W-P5-CAN-01A-2015,Toronto,Hard,56,P,20150810,1,202702,,,Tereza Smitkova,R,176,CZE,20.8,201709,13,,Yulia Putintseva,R,163,KAZ,20.5,1-0 RET,3,Q1,,,,,,,,,,,,,,,,,,,,102,601,78,752
 2015-W-P5-CAN-01A-2015,Toronto,Hard,56,P,20150810,2,201555,14,,Polona Hercog,R,182,SLO,24.5,215403,,WC,Natasha Irani,U,,CAN,16.4,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,71,795,,
 2015-W-P5-CAN-01A-2015,Toronto,Hard,56,P,20150810,3,201620,,,Monica Puig,R,170,PUR,21.8,201517,2,,Magdalena Rybarikova,R,180,SVK,26.8,2-6 6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,96,635,47,1065
@@ -18969,7 +18969,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-P700-RUS-01A-2015,Moscow,Hard,28,P,20151019,12,202536,,,Ana Bogdan,R,171,ROU,22.8,206255,7,,Patricia Maria Tig,R,,ROU,21.2,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,149,366,115,520
 2015-W-P700-RUS-01A-2015,Moscow,Hard,28,P,20151019,13,214082,4,,Daria Kasatkina,R,170,RUS,18.4,203462,,,Kateryna Baindl,R,175,UKR,21.6,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,104,610,192,259
 2015-W-P700-RUS-01A-2015,Moscow,Hard,28,P,20151019,14,214939,,WC,Anna Kalinskaya,R,175,RUS,16.8,201377,,,Yuliya Beygelzimer,R,174,UKR,31.9,1-6 6-2 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,855,14,196,254
-2015-W-P700-RUS-01A-2015,Moscow,Hard,28,P,20151019,15,202628,,,Maryna Zanevska,R,175,UKR,22.1,201440,,,Laura Pous Tio,U,173,ESP,31.0,7-5 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,143,390,197,252
+2015-W-P700-RUS-01A-2015,Moscow,Hard,28,P,20151019,15,202628,,,Maryna Zanevska,R,175,BEL,22.1,201440,,,Laura Pous Tio,U,173,ESP,31.0,7-5 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,143,390,197,252
 2015-W-P700-RUS-01A-2015,Moscow,Hard,28,P,20151019,16,203518,,,Paula Kania,R,168,POL,22.9,201466,8,,Kaia Kanepi,R,181,EST,30.3,1-6 7-6(4) 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,142,392,124,448
 2015-W-P700-RUS-01A-2015,Moscow,Hard,28,P,20151019,17,201545,,,Anastasija Sevastova,R,169,LAT,25.5,211533,1,,Jelena Ostapenko,R,177,LAT,18.3,6-3 3-1 RET,3,Q2,,,,,,,,,,,,,,,,,,,,134,420,80,767
 2015-W-P700-RUS-01A-2015,Moscow,Hard,28,P,20151019,18,202681,,,Gabriela Dabrowski,R,175,CAN,23.5,212001,,,Natalia Vikhlyantseva,R,185,RUS,18.6,6-3 3-6 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,229,203,238,190
@@ -18978,7 +18978,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-P700-RUS-01A-2015,Moscow,Hard,28,P,20151019,21,205925,3,,Aliaksandra Sasnovich,R,174,BLR,21.5,201672,,,Nigina Abduraimova,R,184,UZB,21.2,6-7(5) 6-1 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,103,610,216,226
 2015-W-P700-RUS-01A-2015,Moscow,Hard,28,P,20151019,22,202536,,,Ana Bogdan,R,171,ROU,22.8,215020,,WC,Anna Blinkova,R,179,RUS,17.1,7-5 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,149,366,1254,3
 2015-W-P700-RUS-01A-2015,Moscow,Hard,28,P,20151019,23,214082,4,,Daria Kasatkina,R,170,RUS,18.4,214939,,WC,Anna Kalinskaya,R,175,RUS,16.8,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,104,610,855,14
-2015-W-P700-RUS-01A-2015,Moscow,Hard,28,P,20151019,24,203518,,,Paula Kania,R,168,POL,22.9,202628,,,Maryna Zanevska,R,175,UKR,22.1,6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,142,392,143,390
+2015-W-P700-RUS-01A-2015,Moscow,Hard,28,P,20151019,24,203518,,,Paula Kania,R,168,POL,22.9,202628,,,Maryna Zanevska,R,175,BEL,22.1,6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,142,392,143,390
 2015-W-P700-RUS-01A-2015,Moscow,Hard,28,P,20151019,25,201545,,,Anastasija Sevastova,R,169,LAT,25.5,202681,,,Gabriela Dabrowski,R,175,CAN,23.5,6-4 5-7 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,134,420,229,203
 2015-W-P700-RUS-01A-2015,Moscow,Hard,28,P,20151019,26,201344,5,,Klara Koukalova,R,166,CZE,33.6,201371,,,Vera Dushevina,R,180,RUS,29.0,6-4 7-6(4),3,Q3,,,,,,,,,,,,,,,,,,,,107,593,633,32
 2015-W-P700-RUS-01A-2015,Moscow,Hard,28,P,20151019,27,205925,3,,Aliaksandra Sasnovich,R,174,BLR,21.5,202536,,,Ana Bogdan,R,171,ROU,22.8,6-3 7-6(4),3,Q3,,,,,,,,,,,,,,,,,,,,103,610,149,366
@@ -18986,7 +18986,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-P700-USA-01A-2015,Charleston,Clay,56,P,20150406,1,201556,1,,Lucie Hradecka,R,177,CZE,29.8,213673,,WC,Ellie Halbauer,U,,USA,17.7,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,110,537,548,40
 2015-W-P700-USA-01A-2015,Charleston,Clay,56,P,20150406,2,206252,12,,Barbora Krejcikova,R,178,CZE,19.2,201542,,,Olivia Rogowska,R,175,AUS,23.8,7-5 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,150,363,189,263
 2015-W-P700-USA-01A-2015,Charleston,Clay,56,P,20150406,3,202468,,WC,Jessica Pegula,R,170,USA,21.1,202684,2,,Lin Zhu,R,173,CHN,21.1,6-3 7-6(4),3,Q1,,,,,,,,,,,,,,,,,,,,614,31,111,536
-2015-W-P700-USA-01A-2015,Charleston,Clay,56,P,20150406,4,204246,,,Lesley Pattinama Kerkhove,R,172,NED,23.4,202628,9,,Maryna Zanevska,R,175,UKR,21.6,7-5 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,208,230,124,455
+2015-W-P700-USA-01A-2015,Charleston,Clay,56,P,20150406,4,204246,,,Lesley Pattinama Kerkhove,R,172,NED,23.4,202628,9,,Maryna Zanevska,R,175,BEL,21.6,7-5 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,208,230,124,455
 2015-W-P700-USA-01A-2015,Charleston,Clay,56,P,20150406,5,201402,3,,Sesil Karatantcheva,R,171,KAZ,25.6,201551,,,Arantxa Rus,L,180,NED,24.3,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,109,544,220,216
 2015-W-P700-USA-01A-2015,Charleston,Clay,56,P,20150406,6,211635,10,,Louisa Chirico,R,175,USA,18.8,202681,,,Gabriela Dabrowski,R,175,CAN,23.0,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,141,385,177,281
 2015-W-P700-USA-01A-2015,Charleston,Clay,56,P,20150406,7,204427,,,Sara Sorribes Tormo,R,176,ESP,18.4,201485,4,,Alla Kudryavtseva,R,178,RUS,27.4,6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,195,255,128,437
@@ -19183,7 +19183,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-PM-USA-02A-2015,Miami,Hard,96,PM,20150323,36,201426,12,,Pauline Parmentier,R,175,FRA,29.1,202479,14,,Grace Min,R,163,USA,20.8,6-2 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,95,619,104,580
 2015-W-PR-AUS-01A-2015,Brisbane,Hard,30,P,20150105,1,201468,1,,Yaroslava Shvedova,R,180,KAZ,27.3,202440,,,Paula Ormaechea,R,170,ARG,22.2,7-6(3) 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,66,782,119,457
 2015-W-PR-AUS-01A-2015,Brisbane,Hard,30,P,20150105,2,203518,,,Paula Kania,R,168,POL,22.1,205923,,WC,Abbie Myers,R,175,AUS,20.4,3-6 6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,156,328,558,40
-2015-W-PR-AUS-01A-2015,Brisbane,Hard,30,P,20150105,3,202628,,,Maryna Zanevska,R,175,UKR,21.3,201542,,,Olivia Rogowska,R,175,AUS,23.5,4-6 6-2 7-6(4),3,Q1,,,,,,,,,,,,,,,,,,,,125,438,124,443
+2015-W-PR-AUS-01A-2015,Brisbane,Hard,30,P,20150105,3,202628,,,Maryna Zanevska,R,175,BEL,21.3,201542,,,Olivia Rogowska,R,175,AUS,23.5,4-6 6-2 7-6(4),3,Q1,,,,,,,,,,,,,,,,,,,,125,438,124,443
 2015-W-PR-AUS-01A-2015,Brisbane,Hard,30,P,20150105,4,206049,,,Jovana Jaksic,R,180,SRB,21.2,202694,6,,Teliana Pereira,R,168,BRA,26.4,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,126,438,110,517
 2015-W-PR-AUS-01A-2015,Brisbane,Hard,30,P,20150105,5,200617,2,,Kimiko Date Krumm,R,163,JPN,44.2,201613,,,Arina Rodionova,R,168,RUS,25.0,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,102,567,254,175
 2015-W-PR-AUS-01A-2015,Brisbane,Hard,30,P,20150105,6,206404,,,Elizaveta Kulichkova,R,,RUS,18.7,211878,,WC,Lizette Cabrera,R,167,AUS,17.0,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,150,362,1008,8
@@ -19198,14 +19198,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-PR-AUS-01A-2015,Brisbane,Hard,30,P,20150105,15,201370,,,Anastasia Rodionova,R,167,AUS,32.6,204411,,WC,Storm Sanders,L,166,AUS,20.4,6-3 2-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,195,265,365,88
 2015-W-PR-AUS-01A-2015,Brisbane,Hard,30,P,20150105,16,201604,8,,Irina Falconi,R,163,USA,24.6,201516,,,Evgeniya Rodina,R,170,RUS,25.9,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,111,504,118,475
 2015-W-PR-AUS-01A-2015,Brisbane,Hard,30,P,20150105,17,201468,1,,Yaroslava Shvedova,R,180,KAZ,27.3,203518,,,Paula Kania,R,168,POL,22.1,6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,66,782,156,328
-2015-W-PR-AUS-01A-2015,Brisbane,Hard,30,P,20150105,18,202628,,,Maryna Zanevska,R,175,UKR,21.3,206049,,,Jovana Jaksic,R,180,SRB,21.2,6-1 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,125,438,126,438
+2015-W-PR-AUS-01A-2015,Brisbane,Hard,30,P,20150105,18,202628,,,Maryna Zanevska,R,175,BEL,21.3,206049,,,Jovana Jaksic,R,180,SRB,21.2,6-1 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,125,438,126,438
 2015-W-PR-AUS-01A-2015,Brisbane,Hard,30,P,20150105,19,206404,,,Elizaveta Kulichkova,R,,RUS,18.7,200617,2,,Kimiko Date Krumm,R,163,JPN,44.2,6-4 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,150,362,102,567
 2015-W-PR-AUS-01A-2015,Brisbane,Hard,30,P,20150105,20,201611,,,Daria Saville,R,166,AUS,20.8,200043,,,Virginie Razzano,R,173,FRA,31.6,6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,231,201,163,317
 2015-W-PR-AUS-01A-2015,Brisbane,Hard,30,P,20150105,21,201615,3,,Lesia Tsurenko,R,174,UKR,25.6,202681,,,Gabriela Dabrowski,R,175,CAN,22.7,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,88,614,171,305
 2015-W-PR-AUS-01A-2015,Brisbane,Hard,30,P,20150105,22,201485,5,,Alla Kudryavtseva,R,178,RUS,27.1,202426,,,Julia Boserup,R,181,USA,23.3,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,100,576,192,269
 2015-W-PR-AUS-01A-2015,Brisbane,Hard,30,P,20150105,23,201483,4,,Madison Brengle,R,168,USA,24.7,202480,,,Richel Hogenkamp,R,168,NED,22.7,6-4 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,91,605,139,395
 2015-W-PR-AUS-01A-2015,Brisbane,Hard,30,P,20150105,24,201604,8,,Irina Falconi,R,163,USA,24.6,201370,,,Anastasia Rodionova,R,167,AUS,32.6,6-4 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,111,504,195,265
-2015-W-PR-AUS-01A-2015,Brisbane,Hard,30,P,20150105,25,201468,1,,Yaroslava Shvedova,R,180,KAZ,27.3,202628,,,Maryna Zanevska,R,175,UKR,21.3,7-5 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,66,782,125,438
+2015-W-PR-AUS-01A-2015,Brisbane,Hard,30,P,20150105,25,201468,1,,Yaroslava Shvedova,R,180,KAZ,27.3,202628,,,Maryna Zanevska,R,175,BEL,21.3,7-5 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,66,782,125,438
 2015-W-PR-AUS-01A-2015,Brisbane,Hard,30,P,20150105,26,201611,,,Daria Saville,R,166,AUS,20.8,206404,,,Elizaveta Kulichkova,R,,RUS,18.7,7-6(2) 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,231,201,150,362
 2015-W-PR-AUS-01A-2015,Brisbane,Hard,30,P,20150105,27,201615,3,,Lesia Tsurenko,R,174,UKR,25.6,201485,5,,Alla Kudryavtseva,R,178,RUS,27.1,6-4 7-6(4),3,Q3,,,,,,,,,,,,,,,,,,,,88,614,100,576
 2015-W-PR-AUS-01A-2015,Brisbane,Hard,30,P,20150105,28,201483,4,,Madison Brengle,R,168,USA,24.7,201604,8,,Irina Falconi,R,163,USA,24.6,6-2 6-0,3,Q3,,,,,,,,,,,,,,,,,,,,91,605,111,504
@@ -19248,7 +19248,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-PR-BEL-01A-2015,Antwerp,Hard,28,P,20150209,9,202489,3,,Carina Witthoeft,R,176,GER,19.9,215039,,WC,Lara Salden,R,,BEL,16.0,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,90,645,,
 2015-W-PR-BEL-01A-2015,Antwerp,Hard,28,P,20150209,10,204434,,,Ysaline Bonaventure,L,178,BEL,20.4,201696,,,Laura Siegemund,R,168,GER,26.9,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,203,240,153,356
 2015-W-PR-BEL-01A-2015,Antwerp,Hard,28,P,20150209,11,211321,,WC,Klaartje Liebens,R,,BEL,20.0,206252,,,Barbora Krejcikova,R,178,CZE,19.1,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,327,103,160,332
-2015-W-PR-BEL-01A-2015,Antwerp,Hard,28,P,20150209,12,202642,,,Gioia Barbieri,R,170,ITA,23.5,202628,8,,Maryna Zanevska,R,175,UKR,21.4,7-6(0) 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,207,234,120,460
+2015-W-PR-BEL-01A-2015,Antwerp,Hard,28,P,20150209,12,202642,,,Gioia Barbieri,R,170,ITA,23.5,202628,8,,Maryna Zanevska,R,175,BEL,21.4,7-6(0) 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,207,234,120,460
 2015-W-PR-BEL-01A-2015,Antwerp,Hard,28,P,20150209,13,201435,,,Kateryna Bondarenko,R,175,UKR,28.5,201693,4,,Timea Babos,R,179,HUN,21.7,6-3 3-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,195,265,93,618
 2015-W-PR-BEL-01A-2015,Antwerp,Hard,28,P,20150209,14,211651,,WC,Paula Badosa,R,180,ESP,17.2,202911,,,Anastasiya Vasylyeva,L,182,UKR,23.0,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,457,59,179,292
 2015-W-PR-BEL-01A-2015,Antwerp,Hard,28,P,20150209,15,203297,,,Nadiya Kichenok,R,172,UKR,22.5,210722,,,Elise Mertens,R,179,BEL,19.2,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,209,232,215,225
@@ -19355,7 +19355,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-SL-AUS-01A-2015,Australian Open,Hard,128,G,20150119,37,201516,10,,Evgeniya Rodina,R,170,RUS,25.9,211880,,WC,Priscilla Hon,R,171,AUS,16.6,7-6(6) 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,116,488,721,21
 2015-W-SL-AUS-01A-2015,Australian Open,Hard,128,G,20150119,38,204426,,,Anett Kontaveit,R,174,EST,19.0,203518,,,Paula Kania,R,168,POL,22.2,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,173,308,156,340
 2015-W-SL-AUS-01A-2015,Australian Open,Hard,128,G,20150119,39,201568,,,Kristina Kucova,R,163,SVK,24.6,201442,,,Yung Jan Chan,R,170,TPE,25.4,6-4 2-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,147,378,174,307
-2015-W-SL-AUS-01A-2015,Australian Open,Hard,128,G,20150119,40,202628,14,,Maryna Zanevska,R,175,UKR,21.4,203576,,,Kai Lin Zhang,R,173,CHN,24.9,3-6 6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,125,443,165,320
+2015-W-SL-AUS-01A-2015,Australian Open,Hard,128,G,20150119,40,202628,14,,Maryna Zanevska,R,175,BEL,21.4,203576,,,Kai Lin Zhang,R,173,CHN,24.9,3-6 6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,125,443,165,320
 2015-W-SL-AUS-01A-2015,Australian Open,Hard,128,G,20150119,41,202685,11,,Misa Eguchi,R,173,JPN,22.7,202705,,,Veronica Cepede Royg,R,163,PAR,22.9,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,121,456,166,318
 2015-W-SL-AUS-01A-2015,Australian Open,Hard,128,G,20150119,42,201565,,,Katarzyna Piter,R,173,POL,23.9,202622,,,Lyudmyla Kichenok,R,175,UKR,22.4,7-5 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,177,306,199,247
 2015-W-SL-AUS-01A-2015,Australian Open,Hard,128,G,20150119,43,201454,,,Akgul Amanmuradova,R,190,UZB,30.5,203297,,,Nadiya Kichenok,R,172,UKR,22.4,6-3 6-7(2) 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,209,238,206,240
@@ -19383,7 +19383,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-SL-AUS-01A-2015,Australian Open,Hard,128,G,20150119,65,201424,9,,Shahar Peer,R,170,ISR,27.7,201370,,,Anastasia Rodionova,R,167,AUS,32.6,6-1 3-6 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,118,481,190,277
 2015-W-SL-AUS-01A-2015,Australian Open,Hard,128,G,20150119,66,202480,23,,Richel Hogenkamp,R,168,NED,22.7,211635,,,Louisa Chirico,R,175,USA,18.6,6-4 3-6 8-6,3,Q2,,,,,,,,,,,,,,,,,,,,138,408,185,286
 2015-W-SL-AUS-01A-2015,Australian Open,Hard,128,G,20150119,67,201516,10,,Evgeniya Rodina,R,170,RUS,25.9,204426,,,Anett Kontaveit,R,174,EST,19.0,2-6 6-2 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,116,488,173,308
-2015-W-SL-AUS-01A-2015,Australian Open,Hard,128,G,20150119,68,202628,14,,Maryna Zanevska,R,175,UKR,21.4,201568,,,Kristina Kucova,R,163,SVK,24.6,2-6 6-0 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,125,443,147,378
+2015-W-SL-AUS-01A-2015,Australian Open,Hard,128,G,20150119,68,202628,14,,Maryna Zanevska,R,175,BEL,21.4,201568,,,Kristina Kucova,R,163,SVK,24.6,2-6 6-0 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,125,443,147,378
 2015-W-SL-AUS-01A-2015,Australian Open,Hard,128,G,20150119,69,201565,,,Katarzyna Piter,R,173,POL,23.9,202685,11,,Misa Eguchi,R,173,JPN,22.7,3-6 6-4 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,177,306,121,456
 2015-W-SL-AUS-01A-2015,Australian Open,Hard,128,G,20150119,70,201588,24,,Anna Tatishvili,R,171,GEO,24.9,201454,,,Akgul Amanmuradova,R,190,UZB,30.5,7-6(0) 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,141,394,209,238
 2015-W-SL-AUS-01A-2015,Australian Open,Hard,128,G,20150119,71,203578,,,Fangzhou Liu,R,180,CHN,19.1,206252,,,Barbora Krejcikova,R,178,CZE,19.0,2-6 7-5 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,191,277,170,315
@@ -19397,7 +19397,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-SL-AUS-01A-2015,Australian Open,Hard,128,G,20150119,79,202460,,,Ons Jabeur,R,167,TUN,20.3,206374,,,Yafan Wang,R,170,CHN,20.7,6-2 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,140,397,180,299
 2015-W-SL-AUS-01A-2015,Australian Open,Hard,128,G,20150119,80,201524,,,Urszula Radwanska,R,177,POL,24.1,206075,,,Hiroko Kuwata,R,,JPN,24.0,2-6 6-1 7-5,3,Q3,,,,,,,,,,,,,,,,,,,,149,367,181,298
 2015-W-SL-AUS-01A-2015,Australian Open,Hard,128,G,20150119,81,202480,23,,Richel Hogenkamp,R,168,NED,22.7,201424,9,,Shahar Peer,R,170,ISR,27.7,6-7(2) 6-3 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,138,408,118,481
-2015-W-SL-AUS-01A-2015,Australian Open,Hard,128,G,20150119,82,201516,10,,Evgeniya Rodina,R,170,RUS,25.9,202628,14,,Maryna Zanevska,R,175,UKR,21.4,7-5 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,116,488,125,443
+2015-W-SL-AUS-01A-2015,Australian Open,Hard,128,G,20150119,82,201516,10,,Evgeniya Rodina,R,170,RUS,25.9,202628,14,,Maryna Zanevska,R,175,BEL,21.4,7-5 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,116,488,125,443
 2015-W-SL-AUS-01A-2015,Australian Open,Hard,128,G,20150119,83,201588,24,,Anna Tatishvili,R,171,GEO,24.9,201565,,,Katarzyna Piter,R,173,POL,23.9,6-2 6-0,3,Q3,,,,,,,,,,,,,,,,,,,,141,394,177,306
 2015-W-SL-AUS-01A-2015,Australian Open,Hard,128,G,20150119,84,201549,,,Petra Martic,R,181,CRO,24.0,203578,,,Fangzhou Liu,R,180,CHN,19.1,5-7 6-4 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,184,289,191,277
 2015-W-SL-FRA-01A-2015,Roland Garros,Clay,128,G,20150525,1,202694,1,,Teliana Pereira,R,168,BRA,26.8,200773,,,Stephanie Foretz Gacon,R,166,FRA,34.0,7-5 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,76,745,194,269
@@ -19442,7 +19442,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-SL-FRA-01A-2015,Roland Garros,Clay,128,G,20150525,40,201599,,,Andrea Hlavackova,R,174,CZE,28.7,201568,14,,Kristina Kucova,R,163,SVK,25.0,6-3 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,190,275,121,461
 2015-W-SL-FRA-01A-2015,Roland Garros,Clay,128,G,20150525,41,202506,11,,Margarita Gasparyan,R,183,RUS,20.7,202626,,,Stephanie Vogt,R,167,LIE,25.2,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,116,476,191,275
 2015-W-SL-FRA-01A-2015,Roland Garros,Clay,128,G,20150525,42,203576,,,Kai Lin Zhang,R,173,CHN,25.3,202440,,,Paula Ormaechea,R,170,ARG,22.6,6-4 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,151,348,172,300
-2015-W-SL-FRA-01A-2015,Roland Garros,Clay,128,G,20150525,43,202628,,,Maryna Zanevska,R,175,UKR,21.7,202707,,WC,Myrtille Georges,R,174,FRA,24.4,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,140,396,282,147
+2015-W-SL-FRA-01A-2015,Roland Garros,Clay,128,G,20150525,43,202628,,,Maryna Zanevska,R,175,BEL,21.7,202707,,WC,Myrtille Georges,R,174,FRA,24.4,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,140,396,282,147
 2015-W-SL-FRA-01A-2015,Roland Garros,Clay,128,G,20150525,44,206374,,,Yafan Wang,R,170,CHN,21.0,202480,15,,Richel Hogenkamp,R,168,NED,23.1,2-6 7-6(7) 8-6,3,Q1,,,,,,,,,,,,,,,,,,,,135,407,123,453
 2015-W-SL-FRA-01A-2015,Roland Garros,Clay,128,G,20150525,45,203537,,,Victoria Kan,R,,RUS,19.8,202504,12,,Ying Ying Duan,R,186,CHN,25.8,5-7 6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,326,113,117,475
 2015-W-SL-FRA-01A-2015,Roland Garros,Clay,128,G,20150525,46,202468,,,Jessica Pegula,R,170,USA,21.2,201377,,,Yuliya Beygelzimer,R,174,UKR,31.5,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,382,87,155,336
@@ -19469,7 +19469,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-SL-FRA-01A-2015,Roland Garros,Clay,128,G,20150525,67,201370,,,Anastasia Rodionova,R,167,AUS,33.0,201648,,,Naomi Broady,R,189,GBR,25.2,6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,195,267,238,194
 2015-W-SL-FRA-01A-2015,Roland Garros,Clay,128,G,20150525,68,201599,,,Andrea Hlavackova,R,174,CZE,28.7,201462,,,Alberta Brianti,R,165,ITA,35.1,6-4 6-7(7) 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,190,275,183,282
 2015-W-SL-FRA-01A-2015,Roland Garros,Clay,128,G,20150525,69,202506,11,,Margarita Gasparyan,R,183,RUS,20.7,203576,,,Kai Lin Zhang,R,173,CHN,25.3,6-1 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,116,476,151,348
-2015-W-SL-FRA-01A-2015,Roland Garros,Clay,128,G,20150525,70,202628,,,Maryna Zanevska,R,175,UKR,21.7,206374,,,Yafan Wang,R,170,CHN,21.0,0-6 6-4 9-7,3,Q2,,,,,,,,,,,,,,,,,,,,140,396,135,407
+2015-W-SL-FRA-01A-2015,Roland Garros,Clay,128,G,20150525,70,202628,,,Maryna Zanevska,R,175,BEL,21.7,206374,,,Yafan Wang,R,170,CHN,21.0,0-6 6-4 9-7,3,Q2,,,,,,,,,,,,,,,,,,,,140,396,135,407
 2015-W-SL-FRA-01A-2015,Roland Garros,Clay,128,G,20150525,71,202468,,,Jessica Pegula,R,170,USA,21.2,203537,,,Victoria Kan,R,,RUS,19.8,7-6(4) 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,382,87,326,113
 2015-W-SL-FRA-01A-2015,Roland Garros,Clay,128,G,20150525,72,203518,,,Paula Kania,R,168,POL,22.5,203564,,WC,Chloe Paquet,R,179,FRA,20.8,6-2 4-6 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,160,326,344,103
 2015-W-SL-FRA-01A-2015,Roland Garros,Clay,128,G,20150525,73,202694,1,,Teliana Pereira,R,168,BRA,26.8,201440,,,Laura Pous Tio,U,173,ESP,30.6,3-6 6-0 7-5,3,Q3,,,,,,,,,,,,,,,,,,,,76,745,207,245
@@ -19482,7 +19482,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-SL-FRA-01A-2015,Roland Garros,Clay,128,G,20150525,80,202477,,,Dinah Pfizenmaier,R,171,GER,23.3,201371,,,Vera Dushevina,R,180,RUS,28.6,0-6 6-3 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,145,367,1100,5
 2015-W-SL-FRA-01A-2015,Roland Garros,Clay,128,G,20150525,81,201452,9,,Lourdes Dominguez Lino,R,163,ESP,34.1,201424,13,,Shahar Peer,R,170,ISR,28.0,6-2 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,114,509,119,472
 2015-W-SL-FRA-01A-2015,Roland Garros,Clay,128,G,20150525,82,201599,,,Andrea Hlavackova,R,174,CZE,28.7,201370,,,Anastasia Rodionova,R,167,AUS,33.0,6-2 6-7(5) 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,190,275,195,267
-2015-W-SL-FRA-01A-2015,Roland Garros,Clay,128,G,20150525,83,202506,11,,Margarita Gasparyan,R,183,RUS,20.7,202628,,,Maryna Zanevska,R,175,UKR,21.7,6-3 6-7(5) 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,116,476,140,396
+2015-W-SL-FRA-01A-2015,Roland Garros,Clay,128,G,20150525,83,202506,11,,Margarita Gasparyan,R,183,RUS,20.7,202628,,,Maryna Zanevska,R,175,BEL,21.7,6-3 6-7(5) 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,116,476,140,396
 2015-W-SL-FRA-01A-2015,Roland Garros,Clay,128,G,20150525,84,203518,,,Paula Kania,R,168,POL,22.5,202468,,,Jessica Pegula,R,170,USA,21.2,7-5 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,160,326,382,87
 2015-W-SL-GBR-01A-2015,Wimbledon,Grass,128,G,20150629,1,201452,1,,Lourdes Dominguez Lino,R,163,ESP,34.2,202536,,,Ana Bogdan,R,171,ROU,22.5,7-5 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,90,684,181,291
 2015-W-SL-GBR-01A-2015,Wimbledon,Grass,128,G,20150629,2,201605,,,Mandy Minella,R,180,LUX,29.5,203465,,WC,Amanda Carreras,R,,GBR,25.1,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,208,254,307,134
@@ -19495,7 +19495,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-SL-GBR-01A-2015,Wimbledon,Grass,128,G,20150629,9,211635,3,,Louisa Chirico,R,175,USA,19.1,202681,,,Gabriela Dabrowski,R,175,CAN,23.2,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,121,467,186,278
 2015-W-SL-GBR-01A-2015,Wimbledon,Grass,128,G,20150629,10,201438,,,Ekaterina Bychkova,R,171,RUS,30.0,213530,,,Allie Kiick,R,170,USA,19.9,6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,202,264,244,177
 2015-W-SL-GBR-01A-2015,Wimbledon,Grass,128,G,20150629,11,201703,,,Yi Fan Xu,L,165,CHN,26.8,204294,,,Su Jeong Jang,R,,KOR,20.2,6-4 7-6(5),3,Q1,,,,,,,,,,,,,,,,,,,,176,302,242,182
-2015-W-SL-GBR-01A-2015,Wimbledon,Grass,128,G,20150629,12,203379,,,Marina Melnikova,R,173,RUS,26.3,202628,23,,Maryna Zanevska,R,175,UKR,21.8,6-2 5-7 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,174,303,138,386
+2015-W-SL-GBR-01A-2015,Wimbledon,Grass,128,G,20150629,12,203379,,,Marina Melnikova,R,173,RUS,26.3,202628,23,,Maryna Zanevska,R,175,BEL,21.8,6-2 5-7 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,174,303,138,386
 2015-W-SL-GBR-01A-2015,Wimbledon,Grass,128,G,20150629,13,203500,4,,Sachia Vickery,R,162,USA,20.1,201672,,,Nigina Abduraimova,R,184,UZB,20.9,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,112,503,188,278
 2015-W-SL-GBR-01A-2015,Wimbledon,Grass,128,G,20150629,14,201514,,,Sorana Cirstea,R,176,ROU,25.2,211768,,,Naomi Osaka,R,180,JPN,17.7,2-6 6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,191,275,167,314
 2015-W-SL-GBR-01A-2015,Wimbledon,Grass,128,G,20150629,15,202468,,,Jessica Pegula,R,170,USA,21.3,202498,,,Julia Glushko,R,171,ISR,25.4,6-1 4-3 RET,3,Q1,,,,,,,,,,,,,,,,,,,,300,136,155,334
@@ -19604,7 +19604,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-SL-USA-01A-2015,US Open,Hard,128,G,20150831,34,214906,,WC,Claire Liu,R,170,USA,15.2,202705,,,Veronica Cepede Royg,R,163,PAR,23.6,4-6 7-5 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,834,15,155,343
 2015-W-SL-USA-01A-2015,US Open,Hard,128,G,20150831,35,203518,,,Paula Kania,R,168,POL,22.8,201674,,,Sabina Sharipova,R,174,UZB,20.9,6-2 1-6 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,146,360,210,231
 2015-W-SL-USA-01A-2015,US Open,Hard,128,G,20150831,36,201668,26,,Alexandra Panova,R,179,RUS,26.4,201462,,,Alberta Brianti,R,165,ITA,35.4,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,132,426,197,254
-2015-W-SL-USA-01A-2015,US Open,Hard,128,G,20150831,37,202628,,,Maryna Zanevska,R,175,UKR,22.0,201697,10,,Kristyna Pliskova,L,184,CZE,23.4,7-5 7-6(5),3,Q1,,,,,,,,,,,,,,,,,,,,141,391,113,522
+2015-W-SL-USA-01A-2015,US Open,Hard,128,G,20150831,37,202628,,,Maryna Zanevska,R,175,BEL,22.0,201697,10,,Kristyna Pliskova,L,184,CZE,23.4,7-5 7-6(5),3,Q1,,,,,,,,,,,,,,,,,,,,141,391,113,522
 2015-W-SL-USA-01A-2015,US Open,Hard,128,G,20150831,38,201672,,,Nigina Abduraimova,R,184,UZB,21.1,203284,,,Katerina Vankova,L,,CZE,25.6,7-6(6) 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,175,289,228,204
 2015-W-SL-USA-01A-2015,US Open,Hard,128,G,20150831,39,203462,,,Kateryna Baindl,R,175,UKR,21.5,201703,,,Yi Fan Xu,L,165,CHN,27.0,6-3 5-7 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,209,232,178,284
 2015-W-SL-USA-01A-2015,US Open,Hard,128,G,20150831,40,201565,,,Katarzyna Piter,R,173,POL,24.5,202684,20,,Lin Zhu,R,173,CHN,21.5,6-3 2-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,206,234,125,459
@@ -19650,7 +19650,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-SL-USA-01A-2015,US Open,Hard,128,G,20150831,80,201339,,,Renata Voracova,R,,CZE,31.9,201442,,,Yung Jan Chan,R,170,TPE,26.0,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,204,237,222,212
 2015-W-SL-USA-01A-2015,US Open,Hard,128,G,20150831,81,214906,,WC,Claire Liu,R,170,USA,15.2,202450,9,,Jana Cepelova,R,168,SVK,22.2,7-6(4) 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,834,15,111,541
 2015-W-SL-USA-01A-2015,US Open,Hard,128,G,20150831,82,201668,26,,Alexandra Panova,R,179,RUS,26.4,203518,,,Paula Kania,R,168,POL,22.8,6-2 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,132,426,146,360
-2015-W-SL-USA-01A-2015,US Open,Hard,128,G,20150831,83,202628,,,Maryna Zanevska,R,175,UKR,22.0,201672,,,Nigina Abduraimova,R,184,UZB,21.1,6-3 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,141,391,175,289
+2015-W-SL-USA-01A-2015,US Open,Hard,128,G,20150831,83,202628,,,Maryna Zanevska,R,175,BEL,22.0,201672,,,Nigina Abduraimova,R,184,UZB,21.1,6-3 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,141,391,175,289
 2015-W-SL-USA-01A-2015,US Open,Hard,128,G,20150831,84,203462,,,Kateryna Baindl,R,175,UKR,21.5,201565,,,Katarzyna Piter,R,173,POL,24.5,6-3 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,209,232,206,234
 2015-W-SL-USA-01A-2015,US Open,Hard,128,G,20150831,85,211533,11,,Jelena Ostapenko,R,177,LAT,18.2,202498,,,Julia Glushko,R,171,ISR,25.6,2-6 6-0 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,114,516,158,331
 2015-W-SL-USA-01A-2015,US Open,Hard,128,G,20150831,86,214263,,,Catherine Cartan Bellis,R,,USA,16.3,201472,22,,Romina Oprandi,R,172,SUI,29.4,7-5 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,161,324,127,447
@@ -19673,7 +19673,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2015-W-SL-USA-01A-2015,US Open,Hard,128,G,20150831,103,206404,7,,Elizaveta Kulichkova,R,,RUS,19.3,214082,27,,Daria Kasatkina,R,170,RUS,18.3,6-2 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,107,570,133,426
 2015-W-SL-USA-01A-2015,US Open,Hard,128,G,20150831,104,202428,8,,Kiki Bertens,R,182,NED,23.7,201339,,,Renata Voracova,R,,CZE,31.9,6-0 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,110,565,204,237
 2015-W-SL-USA-01A-2015,US Open,Hard,128,G,20150831,105,201668,26,,Alexandra Panova,R,179,RUS,26.4,214906,,WC,Claire Liu,R,170,USA,15.2,6-4 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,132,426,834,15
-2015-W-SL-USA-01A-2015,US Open,Hard,128,G,20150831,106,203462,,,Kateryna Baindl,R,175,UKR,21.5,202628,,,Maryna Zanevska,R,175,UKR,22.0,6-1 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,209,232,141,391
+2015-W-SL-USA-01A-2015,US Open,Hard,128,G,20150831,106,203462,,,Kateryna Baindl,R,175,UKR,21.5,202628,,,Maryna Zanevska,R,175,BEL,22.0,6-1 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,209,232,141,391
 2015-W-SL-USA-01A-2015,US Open,Hard,128,G,20150831,107,211533,11,,Jelena Ostapenko,R,177,LAT,18.2,214263,,,Catherine Cartan Bellis,R,,USA,16.3,6-3 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,114,516,161,324
 2015-W-SL-USA-01A-2015,US Open,Hard,128,G,20150831,108,201696,21,,Laura Siegemund,R,168,GER,27.4,202430,,,Alize Lim,R,173,FRA,25.1,6-0 2-0 RET,3,Q3,,,,,,,,,,,,,,,,,,,,126,455,182,276
 2015-W-SL-USA-01A-2015,US Open,Hard,128,G,20150831,109,206349,,,Mayo Hibi,R,165,JPN,19.4,201514,,,Sorana Cirstea,R,176,ROU,25.3,6-4 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,177,286,176,286

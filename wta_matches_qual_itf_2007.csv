@@ -156,7 +156,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-C100-ITA-03A-2007,Biella 100K,Clay,32,100,20070709,31,201474,2,,Agnieszka Radwanska,R,170,POL,18.3,201498,5,,Karin Knapp,R,180,ITA,20.0,6-3 6-3,3,F,,,,,,,,,,,,,,,,,,,,36,605,69,419
 2007-W-C100-SVK-01A-2007a,Bratislava 1 100K,Hard,32,100,20071022,1,201495,1,,Dominika Cibulkova,R,161,SVK,18.4,201293,,,Catalina Castano,R,171,COL,28.2,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,49,614,103,320
 2007-W-C100-SVK-01A-2007a,Bratislava 1 100K,Hard,32,100,20071022,2,201331,,,Iveta Benesova,L,170,CZE,24.7,201339,,,Renata Voracova,R,,CZE,24.0,4-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,133,273,113,306
-2007-W-C100-SVK-01A-2007a,Bratislava 1 100K,Hard,32,100,20071022,3,201505,,,Ekaterina Makarova,L,178,RUS,19.3,200124,,,Anne Kremer,R,165,LUX,32.0,7-6(6) 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,110,317,84,390
+2007-W-C100-SVK-01A-2007a,Bratislava 1 100K,Hard,32,100,20071022,3,201505,,,Kate Makarova,L,178,RUS,19.3,200124,,,Anne Kremer,R,165,LUX,32.0,7-6(6) 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,110,317,84,390
 2007-W-C100-SVK-01A-2007a,Bratislava 1 100K,Hard,32,100,20071022,4,200068,,,Lilia Osterloh,R,170,USA,29.5,201301,8,,Camille Pin,R,162,FRA,26.1,7-6(2) 3-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,83,395,79,407
 2007-W-C100-SVK-01A-2007a,Bratislava 1 100K,Hard,32,100,20071022,5,201438,,,Ekaterina Bychkova,R,171,RUS,22.3,200109,3,,Nathalie Dechy,R,177,FRA,28.6,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,118,301,68,461
 2007-W-C100-SVK-01A-2007a,Bratislava 1 100K,Hard,32,100,20071022,6,201450,,,Tsvetana Pironkova,R,180,BUL,20.1,201492,,,Andrea Petkovic,R,180,GER,20.1,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,93,362,95,357
@@ -171,7 +171,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-C100-SVK-01A-2007a,Bratislava 1 100K,Hard,32,100,20071022,15,201520,,WC,Petra Kvitova,L,183,CZE,17.6,201308,,,Maria Elena Camerin,R,164,ITA,25.5,6-2 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,214,133,97,353
 2007-W-C100-SVK-01A-2007a,Bratislava 1 100K,Hard,32,100,20071022,16,201426,2,,Pauline Parmentier,R,175,FRA,21.7,201366,,Q,Barbora Strycova,R,164,CZE,21.5,6-1 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,60,500,156,202
 2007-W-C100-SVK-01A-2007a,Bratislava 1 100K,Hard,32,100,20071022,17,201331,,,Iveta Benesova,L,170,CZE,24.7,201495,1,,Dominika Cibulkova,R,161,SVK,18.4,6-3 4-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,133,273,49,614
-2007-W-C100-SVK-01A-2007a,Bratislava 1 100K,Hard,32,100,20071022,18,200068,,,Lilia Osterloh,R,170,USA,29.5,201505,,,Ekaterina Makarova,L,178,RUS,19.3,1-6 7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,83,395,110,317
+2007-W-C100-SVK-01A-2007a,Bratislava 1 100K,Hard,32,100,20071022,18,200068,,,Lilia Osterloh,R,170,USA,29.5,201505,,,Kate Makarova,L,178,RUS,19.3,1-6 7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,83,395,110,317
 2007-W-C100-SVK-01A-2007a,Bratislava 1 100K,Hard,32,100,20071022,19,201438,,,Ekaterina Bychkova,R,171,RUS,22.3,201450,,,Tsvetana Pironkova,R,180,BUL,20.1,3-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,118,301,93,362
 2007-W-C100-SVK-01A-2007a,Bratislava 1 100K,Hard,32,100,20071022,20,213583,,,Tatjana Maria,R,172,GER,20.2,201508,,,Petra Cetkovska,R,172,CZE,22.6,7-5 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,102,325,99,329
 2007-W-C100-SVK-01A-2007a,Bratislava 1 100K,Hard,32,100,20071022,21,201517,,WC,Magdalena Rybarikova,R,180,SVK,19.0,201392,,,Severine Beltrame,R,171,FRA,28.1,6-2 3-6 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,327,68,94,359
@@ -185,7 +185,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-C100-SVK-01A-2007a,Bratislava 1 100K,Hard,32,100,20071022,29,213583,,,Tatjana Maria,R,172,GER,20.2,201331,,,Iveta Benesova,L,170,CZE,24.7,7-5 7-6(4),3,SF,,,,,,,,,,,,,,,,,,,,102,325,133,273
 2007-W-C100-SVK-01A-2007a,Bratislava 1 100K,Hard,32,100,20071022,30,201520,,WC,Petra Kvitova,L,183,CZE,17.6,201456,,,Olga Savchuk,R,175,UKR,20.0,6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,214,133,106,319
 2007-W-C100-SVK-01A-2007a,Bratislava 1 100K,Hard,32,100,20071022,31,213583,,,Tatjana Maria,R,172,GER,20.2,201520,,WC,Petra Kvitova,L,183,CZE,17.6,6-2 7-6(7),3,F,,,,,,,,,,,,,,,,,,,,102,325,214,133
-2007-W-C100-UKR-01A-2007,Kharkov 100K,Hard,32,100,20070910,1,201416,1,WC,Alona Bondarenko,R,168,UKR,23.0,201505,,,Ekaterina Makarova,L,178,RUS,19.2,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,21,1166,112,305
+2007-W-C100-UKR-01A-2007,Kharkov 100K,Hard,32,100,20070910,1,201416,1,WC,Alona Bondarenko,R,168,UKR,23.0,201505,,,Kate Makarova,L,178,RUS,19.2,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,21,1166,112,305
 2007-W-C100-UKR-01A-2007,Kharkov 100K,Hard,32,100,20070910,2,200776,,,Angelika Bachmann,R,,GER,28.3,202529,,LL,Natalia Orlova,R,,RUS,18.4,6-3 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,167,188,395,48
 2007-W-C100-UKR-01A-2007,Kharkov 100K,Hard,32,100,20070910,3,201613,,Q,Arina Rodionova,R,168,RUS,17.7,202399,,,Margit Ruutel,R,,EST,24.0,3-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,386,49,211,130
 2007-W-C100-UKR-01A-2007,Kharkov 100K,Hard,32,100,20070910,4,200764,,Q,Elena Bovina,R,189,RUS,24.5,201412,5,,Anastasia Yakimova,R,165,BLR,20.8,6-1 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,390,49,118,290
@@ -7216,7 +7216,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-C25-BLR-01A-2007,Minsk 25K,Carpet,32,25,20070305,5,201622,4,,Iryna Bremond,R,,FRA,22.4,205506,,WC,Maria Meliuk,R,,BLR,15.9,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,226,117,,
 2007-W-C25-BLR-01A-2007,Minsk 25K,Carpet,32,25,20070305,6,202398,,,Veronika Chvojkova,R,,CZE,19.9,201636,,WC,Anna Orlik,R,169,BLR,13.9,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,313,70,,
 2007-W-C25-BLR-01A-2007,Minsk 25K,Carpet,32,25,20070305,7,202830,,,Eugenia Grebenyuk,R,,RUS,19.0,202824,,Q,Katerina Avdiyenko,R,,UKR,20.4,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,296,75,485,30
-2007-W-C25-BLR-01A-2007,Minsk 25K,Carpet,32,25,20070305,8,201505,,,Ekaterina Makarova,L,178,RUS,18.7,201454,7,,Akgul Amanmuradova,R,190,UZB,22.6,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,243,104,230,113
+2007-W-C25-BLR-01A-2007,Minsk 25K,Carpet,32,25,20070305,8,201505,,,Kate Makarova,L,178,RUS,18.7,201454,7,,Akgul Amanmuradova,R,190,UZB,22.6,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,243,104,230,113
 2007-W-C25-BLR-01A-2007,Minsk 25K,Carpet,32,25,20070305,9,201515,8,,Alisa Kleybanova,R,181,RUS,17.6,202348,,,Lina Stanciute,R,,LTU,21.0,3-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,239,107,270,86
 2007-W-C25-BLR-01A-2007,Minsk 25K,Carpet,32,25,20070305,10,201499,,,Anastasia Pavlyuchenkova,R,177,RUS,15.6,201690,,,Nina Bratchikova,R,178,RUS,21.6,2-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,299,74,263,90
 2007-W-C25-BLR-01A-2007,Minsk 25K,Carpet,32,25,20070305,11,202833,,,Olga Panova,R,,RUS,20.1,205306,,Q,Kristina Movsesyan,R,,RUS,21.4,3-6 6-2 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,325,65,717,13
@@ -7228,13 +7228,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-C25-BLR-01A-2007,Minsk 25K,Carpet,32,25,20070305,17,201511,1,,Ekaterina Ivanova,R,,RUS,19.2,201570,,,Vesna Dolonc,R,170,SRB,17.6,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,171,167,297,75
 2007-W-C25-BLR-01A-2007,Minsk 25K,Carpet,32,25,20070305,18,201525,,,Eva Hrdinova,R,,CZE,22.7,203373,,Q,Volha Duko,R,,BLR,18.1,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,279,80,1022,6
 2007-W-C25-BLR-01A-2007,Minsk 25K,Carpet,32,25,20070305,19,201622,4,,Iryna Bremond,R,,FRA,22.4,202398,,,Veronika Chvojkova,R,,CZE,19.9,6-2 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,226,117,313,70
-2007-W-C25-BLR-01A-2007,Minsk 25K,Carpet,32,25,20070305,20,201505,,,Ekaterina Makarova,L,178,RUS,18.7,202830,,,Eugenia Grebenyuk,R,,RUS,19.0,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,243,104,296,75
+2007-W-C25-BLR-01A-2007,Minsk 25K,Carpet,32,25,20070305,20,201505,,,Kate Makarova,L,178,RUS,18.7,202830,,,Eugenia Grebenyuk,R,,RUS,19.0,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,243,104,296,75
 2007-W-C25-BLR-01A-2007,Minsk 25K,Carpet,32,25,20070305,21,201515,8,,Alisa Kleybanova,R,181,RUS,17.6,201499,,,Anastasia Pavlyuchenkova,R,177,RUS,15.6,7-5 5-7 7-5,3,R16,,,,,,,,,,,,,,,,,,,,239,107,299,74
 2007-W-C25-BLR-01A-2007,Minsk 25K,Carpet,32,25,20070305,22,201398,3,,Amanda Keen,L,,GBR,29.1,202833,,,Olga Panova,R,,RUS,20.1,7-5 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,222,121,325,65
 2007-W-C25-BLR-01A-2007,Minsk 25K,Carpet,32,25,20070305,23,201501,5,WC,Olga Govortsova,R,182,BLR,18.5,201613,,Q,Arina Rodionova,R,168,RUS,17.2,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,253,99,428,40
 2007-W-C25-BLR-01A-2007,Minsk 25K,Carpet,32,25,20070305,24,201563,,,Darya Kustova,U,,BLR,20.7,203382,,Q,Elina Gasanova,R,,RUS,17.6,6-4 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,347,57,817,10
 2007-W-C25-BLR-01A-2007,Minsk 25K,Carpet,32,25,20070305,25,201525,,,Eva Hrdinova,R,,CZE,22.7,201511,1,,Ekaterina Ivanova,R,,RUS,19.2,6-3 6-7(5) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,279,80,171,167
-2007-W-C25-BLR-01A-2007,Minsk 25K,Carpet,32,25,20070305,26,201622,4,,Iryna Bremond,R,,FRA,22.4,201505,,,Ekaterina Makarova,L,178,RUS,18.7,6-1 7-5,3,QF,,,,,,,,,,,,,,,,,,,,226,117,243,104
+2007-W-C25-BLR-01A-2007,Minsk 25K,Carpet,32,25,20070305,26,201622,4,,Iryna Bremond,R,,FRA,22.4,201505,,,Kate Makarova,L,178,RUS,18.7,6-1 7-5,3,QF,,,,,,,,,,,,,,,,,,,,226,117,243,104
 2007-W-C25-BLR-01A-2007,Minsk 25K,Carpet,32,25,20070305,27,201398,3,,Amanda Keen,L,,GBR,29.1,201515,8,,Alisa Kleybanova,R,181,RUS,17.6,5-7 6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,222,121,239,107
 2007-W-C25-BLR-01A-2007,Minsk 25K,Carpet,32,25,20070305,28,201501,5,WC,Olga Govortsova,R,182,BLR,18.5,201563,,,Darya Kustova,U,,BLR,20.7,6-2 7-6(8),3,QF,,,,,,,,,,,,,,,,,,,,253,99,347,57
 2007-W-C25-BLR-01A-2007,Minsk 25K,Carpet,32,25,20070305,29,201525,,,Eva Hrdinova,R,,CZE,22.7,201622,4,,Iryna Bremond,R,,FRA,22.4,6-0 4-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,279,80,226,117
@@ -8957,7 +8957,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-C25-ITA-02A-2007,Putignano 25K,Hard,32,25,20070402,12,201482,3,,Andreja Klepac,R,,SLO,21.0,202340,,,Caroline Maes,R,167,BEL,24.3,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,167,167,226,116
 2007-W-C25-ITA-02A-2007,Putignano 25K,Hard,32,25,20070402,13,201343,6,,Maret Ani,R,176,EST,25.1,201333,,LL,Angelika Roesch,R,172,GER,29.8,7-5 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,188,151,343,58
 2007-W-C25-ITA-02A-2007,Putignano 25K,Hard,32,25,20070402,14,202266,,,Kelly Liggan,R,,IRL,28.1,202828,,,Larissa Carvalho,R,,BRA,22.0,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,230,113,240,105
-2007-W-C25-ITA-02A-2007,Putignano 25K,Hard,32,25,20070402,15,201505,,SE,Ekaterina Makarova,L,178,RUS,18.8,201500,,,Nika Ozegovic,R,170,CRO,21.8,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,244,104,247,102
+2007-W-C25-ITA-02A-2007,Putignano 25K,Hard,32,25,20070402,15,201505,,SE,Kate Makarova,L,178,RUS,18.8,201500,,,Nika Ozegovic,R,170,CRO,21.8,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,244,104,247,102
 2007-W-C25-ITA-02A-2007,Putignano 25K,Hard,32,25,20070402,16,201464,,,Nathalie Vierin,U,,ITA,24.4,202541,,WC,Verdiana Verardi,R,,ITA,19.2,6-2 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,210,131,444,39
 2007-W-C25-ITA-02A-2007,Putignano 25K,Hard,32,25,20070402,17,201658,,Q,Carmen Klaschka,R,,GER,20.2,202301,,,Sunitha Rao,R,170,IND,21.4,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,284,79,219,122
 2007-W-C25-ITA-02A-2007,Putignano 25K,Hard,32,25,20070402,18,202259,,Q,Valentina Sassi,R,,ITA,26.7,201519,,LL,Violette Huck,L,170,FRA,19.0,7-6(3) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,322,67,374,50
@@ -8966,17 +8966,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-C25-ITA-02A-2007,Putignano 25K,Hard,32,25,20070402,21,201504,,Q,Julia Goerges,R,180,GER,18.4,202845,,Q,Vojislava Lukic,R,,SRB,20.0,6-3 2-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,260,93,268,87
 2007-W-C25-ITA-02A-2007,Putignano 25K,Hard,32,25,20070402,22,201404,,Q,Jessica Kirkland,R,175,USA,19.3,201482,3,,Andreja Klepac,R,,SLO,21.0,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,288,77,167,167
 2007-W-C25-ITA-02A-2007,Putignano 25K,Hard,32,25,20070402,23,201343,6,,Maret Ani,R,176,EST,25.1,202266,,,Kelly Liggan,R,,IRL,28.1,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,188,151,230,113
-2007-W-C25-ITA-02A-2007,Putignano 25K,Hard,32,25,20070402,24,201505,,SE,Ekaterina Makarova,L,178,RUS,18.8,201464,,,Nathalie Vierin,U,,ITA,24.4,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,244,104,210,131
+2007-W-C25-ITA-02A-2007,Putignano 25K,Hard,32,25,20070402,24,201505,,SE,Kate Makarova,L,178,RUS,18.8,201464,,,Nathalie Vierin,U,,ITA,24.4,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,244,104,210,131
 2007-W-C25-ITA-02A-2007,Putignano 25K,Hard,32,25,20070402,25,201658,,Q,Carmen Klaschka,R,,GER,20.2,202259,,Q,Valentina Sassi,R,,ITA,26.7,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,284,79,322,67
 2007-W-C25-ITA-02A-2007,Putignano 25K,Hard,32,25,20070402,26,201321,,Q,Antonella Serra Zanetti,R,168,ITA,26.6,201663,,,Ekaterina Dzehalevich,R,168,BLR,20.9,7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,289,77,227,115
 2007-W-C25-ITA-02A-2007,Putignano 25K,Hard,32,25,20070402,27,201404,,Q,Jessica Kirkland,R,175,USA,19.3,201504,,Q,Julia Goerges,R,180,GER,18.4,1-6 7-6(5) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,288,77,260,93
-2007-W-C25-ITA-02A-2007,Putignano 25K,Hard,32,25,20070402,28,201343,6,,Maret Ani,R,176,EST,25.1,201505,,SE,Ekaterina Makarova,L,178,RUS,18.8,4-6 6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,188,151,244,104
+2007-W-C25-ITA-02A-2007,Putignano 25K,Hard,32,25,20070402,28,201343,6,,Maret Ani,R,176,EST,25.1,201505,,SE,Kate Makarova,L,178,RUS,18.8,4-6 6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,188,151,244,104
 2007-W-C25-ITA-02A-2007,Putignano 25K,Hard,32,25,20070402,29,201658,,Q,Carmen Klaschka,R,,GER,20.2,201321,,Q,Antonella Serra Zanetti,R,168,ITA,26.6,6-0 7-5,3,SF,,,,,,,,,,,,,,,,,,,,284,79,289,77
 2007-W-C25-ITA-02A-2007,Putignano 25K,Hard,32,25,20070402,30,201343,6,,Maret Ani,R,176,EST,25.1,201404,,Q,Jessica Kirkland,R,175,USA,19.3,6-3 6-7(5) 6-2,3,SF,,,,,,,,,,,,,,,,,,,,188,151,288,77
 2007-W-C25-ITA-02A-2007,Putignano 25K,Hard,32,25,20070402,31,201343,6,,Maret Ani,R,176,EST,25.1,201658,,Q,Carmen Klaschka,R,,GER,20.2,7-6(8) 6-4,3,F,,,,,,,,,,,,,,,,,,,,188,151,284,79
 2007-W-C25-ITA-03A-2007,Civitavecchia 25K,Clay,32,25,20070409,1,201498,1,,Karin Knapp,R,180,ITA,19.7,202524,,,Giulia Gabba,R,,ITA,20.1,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,102,289,226,118
 2007-W-C25-ITA-03A-2007,Civitavecchia 25K,Clay,32,25,20070409,2,201663,,,Ekaterina Dzehalevich,R,168,BLR,20.9,202797,,Q,Gaelle Widmer,L,,SUI,29.2,6-3 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,229,115,262,94
-2007-W-C25-ITA-03A-2007,Civitavecchia 25K,Clay,32,25,20070409,3,201434,,,Sabine Klaschka,R,,GER,26.6,201505,,,Ekaterina Makarova,L,178,RUS,18.8,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,232,111,214,127
+2007-W-C25-ITA-03A-2007,Civitavecchia 25K,Clay,32,25,20070409,3,201434,,,Sabine Klaschka,R,,GER,26.6,201505,,,Kate Makarova,L,178,RUS,18.8,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,232,111,214,127
 2007-W-C25-ITA-03A-2007,Civitavecchia 25K,Clay,32,25,20070409,4,201691,,LL,Dia Evtimova,R,168,BUL,19.9,203325,,WC,Martina Di Giuseppe,R,,ITA,16.1,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,283,81,1118,4
 2007-W-C25-ITA-03A-2007,Civitavecchia 25K,Clay,32,25,20070409,5,201482,4,,Andreja Klepac,R,,SLO,21.0,202344,,WC,Magda Mihalache,R,,ROU,25.7,6-2 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,174,164,255,98
 2007-W-C25-ITA-03A-2007,Civitavecchia 25K,Clay,32,25,20070409,6,202559,,Q,Anna Korzeniak,R,170,POL,18.8,201700,,JE,Nikola Hofmanova,R,178,AUT,16.1,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,363,55,1291,3
@@ -10407,7 +10407,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-C25-RUS-02A-2007,Moscow 25K,Hard,32,25,20070326,5,201584,,WC,Ksenia Pervak,L,170,KAZ,15.8,201663,3,,Ekaterina Dzehalevich,R,168,BLR,20.8,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,228,115
 2007-W-C25-RUS-02A-2007,Moscow 25K,Hard,32,25,20070326,6,203536,,Q,Nadezda Gorbachkova,R,,RUS,20.3,205293,,,Yulia Solonitskaya,R,,RUS,17.0,3-6 6-3 4-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,1191,4,515,27
 2007-W-C25-RUS-02A-2007,Moscow 25K,Hard,32,25,20070326,7,201613,,,Arina Rodionova,R,168,RUS,17.2,201489,,,Mariya Koryttseva,R,172,UKR,21.8,3-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,407,44,454,36
-2007-W-C25-RUS-02A-2007,Moscow 25K,Hard,32,25,20070326,8,201505,6,,Ekaterina Makarova,L,178,RUS,18.7,202680,,Q,Maria Zharkova,R,173,RUS,18.8,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,238,109,612,19
+2007-W-C25-RUS-02A-2007,Moscow 25K,Hard,32,25,20070326,8,201505,6,,Kate Makarova,L,178,RUS,18.7,202680,,Q,Maria Zharkova,R,173,RUS,18.8,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,238,109,612,19
 2007-W-C25-RUS-02A-2007,Moscow 25K,Hard,32,25,20070326,9,201500,5,,Nika Ozegovic,R,170,CRO,21.8,202532,,,Galyna Kosyk,R,,UKR,18.4,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,232,113,354,54
 2007-W-C25-RUS-02A-2007,Moscow 25K,Hard,32,25,20070326,10,202833,,,Olga Panova,R,,RUS,20.2,202465,,,Maria Abramovic,R,,CRO,19.6,4-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,318,68,348,56
 2007-W-C25-RUS-02A-2007,Moscow 25K,Hard,32,25,20070326,11,202769,,Q,Irina Bulykina,U,,RUS,22.8,203311,,WC,Aleksandra Razumova,R,,RUS,17.8,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1113,4
@@ -10419,18 +10419,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-C25-RUS-02A-2007,Moscow 25K,Hard,32,25,20070326,17,201511,1,,Ekaterina Ivanova,R,,RUS,19.2,205076,,,Martina Pavelec,U,,GER,19.8,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,166,171,373,50
 2007-W-C25-RUS-02A-2007,Moscow 25K,Hard,32,25,20070326,18,202830,8,,Eugenia Grebenyuk,R,,RUS,19.1,201583,,WC,Yana Buchina,R,168,RUS,15.1,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,279,79,,
 2007-W-C25-RUS-02A-2007,Moscow 25K,Hard,32,25,20070326,19,201584,,WC,Ksenia Pervak,L,170,KAZ,15.8,203536,,Q,Nadezda Gorbachkova,R,,RUS,20.3,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,1191,4
-2007-W-C25-RUS-02A-2007,Moscow 25K,Hard,32,25,20070326,20,201505,6,,Ekaterina Makarova,L,178,RUS,18.7,201613,,,Arina Rodionova,R,168,RUS,17.2,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,238,109,407,44
+2007-W-C25-RUS-02A-2007,Moscow 25K,Hard,32,25,20070326,20,201505,6,,Kate Makarova,L,178,RUS,18.7,201613,,,Arina Rodionova,R,168,RUS,17.2,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,238,109,407,44
 2007-W-C25-RUS-02A-2007,Moscow 25K,Hard,32,25,20070326,21,201500,5,,Nika Ozegovic,R,170,CRO,21.8,202833,,,Olga Panova,R,,RUS,20.2,7-6(5) 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,232,113,318,68
 2007-W-C25-RUS-02A-2007,Moscow 25K,Hard,32,25,20070326,22,201515,4,,Alisa Kleybanova,R,181,RUS,17.6,202769,,Q,Irina Bulykina,U,,RUS,22.8,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,229,114,,
 2007-W-C25-RUS-02A-2007,Moscow 25K,Hard,32,25,20070326,23,201690,7,,Nina Bratchikova,R,178,RUS,21.7,201546,,,Anna Lapushchenkova,R,172,RUS,20.4,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,264,88,307,71
 2007-W-C25-RUS-02A-2007,Moscow 25K,Hard,32,25,20070326,24,201516,2,,Evgeniya Rodina,R,170,RUS,18.1,201544,,,Oxana Lyubtsova,R,157,UKR,21.5,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,199,137,298,74
 2007-W-C25-RUS-02A-2007,Moscow 25K,Hard,32,25,20070326,25,202830,8,,Eugenia Grebenyuk,R,,RUS,19.1,201511,1,,Ekaterina Ivanova,R,,RUS,19.2,7-6(3) 5-7 6-4,3,QF,,,,,,,,,,,,,,,,,,,,279,79,166,171
-2007-W-C25-RUS-02A-2007,Moscow 25K,Hard,32,25,20070326,26,201505,6,,Ekaterina Makarova,L,178,RUS,18.7,201584,,WC,Ksenia Pervak,L,170,KAZ,15.8,6-3 4-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,238,109,,
+2007-W-C25-RUS-02A-2007,Moscow 25K,Hard,32,25,20070326,26,201505,6,,Kate Makarova,L,178,RUS,18.7,201584,,WC,Ksenia Pervak,L,170,KAZ,15.8,6-3 4-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,238,109,,
 2007-W-C25-RUS-02A-2007,Moscow 25K,Hard,32,25,20070326,27,201515,4,,Alisa Kleybanova,R,181,RUS,17.6,201500,5,,Nika Ozegovic,R,170,CRO,21.8,4-1 RET,3,QF,,,,,,,,,,,,,,,,,,,,229,114,232,113
 2007-W-C25-RUS-02A-2007,Moscow 25K,Hard,32,25,20070326,28,201516,2,,Evgeniya Rodina,R,170,RUS,18.1,201690,7,,Nina Bratchikova,R,178,RUS,21.7,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,199,137,264,88
-2007-W-C25-RUS-02A-2007,Moscow 25K,Hard,32,25,20070326,29,201505,6,,Ekaterina Makarova,L,178,RUS,18.7,202830,8,,Eugenia Grebenyuk,R,,RUS,19.1,6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,238,109,279,79
+2007-W-C25-RUS-02A-2007,Moscow 25K,Hard,32,25,20070326,29,201505,6,,Kate Makarova,L,178,RUS,18.7,202830,8,,Eugenia Grebenyuk,R,,RUS,19.1,6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,238,109,279,79
 2007-W-C25-RUS-02A-2007,Moscow 25K,Hard,32,25,20070326,30,201516,2,,Evgeniya Rodina,R,170,RUS,18.1,201515,4,,Alisa Kleybanova,R,181,RUS,17.6,6-4 7-6(4),3,SF,,,,,,,,,,,,,,,,,,,,199,137,229,114
-2007-W-C25-RUS-02A-2007,Moscow 25K,Hard,32,25,20070326,31,201505,6,,Ekaterina Makarova,L,178,RUS,18.7,201516,2,,Evgeniya Rodina,R,170,RUS,18.1,6-4 6-7(6) 6-3,3,F,,,,,,,,,,,,,,,,,,,,238,109,199,137
+2007-W-C25-RUS-02A-2007,Moscow 25K,Hard,32,25,20070326,31,201505,6,,Kate Makarova,L,178,RUS,18.7,201516,2,,Evgeniya Rodina,R,170,RUS,18.1,6-4 6-7(6) 6-3,3,F,,,,,,,,,,,,,,,,,,,,238,109,199,137
 2007-W-C25-RUS-03A-2007,Moscow 25K,Clay,32,25,20070528,1,201663,1,,Ekaterina Dzehalevich,R,168,BLR,21.0,202281,,,Ivanna Israilova,R,,RUS,21.3,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,189,157,556,25
 2007-W-C25-RUS-03A-2007,Moscow 25K,Clay,32,25,20070528,2,203308,,Q,Tatiana Kotelnikova,R,,RUS,19.6,205306,,Q,Kristina Movsesyan,R,,RUS,21.6,7-6(0) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1151,4,768,12
 2007-W-C25-RUS-03A-2007,Moscow 25K,Clay,32,25,20070528,3,202387,,Q,Vlada Ekshibarova,R,,UZB,18.2,205546,,Q,Iuliia Sandrakova,R,,UKR,19.5,6-4 2-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,615,21,1326,2
@@ -10442,7 +10442,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-C25-RUS-03A-2007,Moscow 25K,Clay,32,25,20070528,9,202373,7,,Ekaterina Afinogenova,R,,RUS,20.3,204840,,LL,Liudmila Nikoyan,R,,ARM,27.8,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,235,111,967,6
 2007-W-C25-RUS-03A-2007,Moscow 25K,Clay,32,25,20070528,10,201613,,WC,Arina Rodionova,R,168,RUS,17.4,203285,,,Vasilisa Davydova,L,,RUS,21.3,6-2 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,367,55,634,19
 2007-W-C25-RUS-03A-2007,Moscow 25K,Clay,32,25,20070528,11,202529,,,Natalia Orlova,R,,RUS,18.1,202833,,,Olga Panova,R,,RUS,20.3,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,442,39,310,74
-2007-W-C25-RUS-03A-2007,Moscow 25K,Clay,32,25,20070528,12,201505,3,,Ekaterina Makarova,L,178,RUS,18.9,202526,,,Marina Shamayko,R,,RUS,19.8,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,224,125,439,40
+2007-W-C25-RUS-03A-2007,Moscow 25K,Clay,32,25,20070528,12,201505,3,,Kate Makarova,L,178,RUS,18.9,202526,,,Marina Shamayko,R,,RUS,19.8,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,224,125,439,40
 2007-W-C25-RUS-03A-2007,Moscow 25K,Clay,32,25,20070528,13,201544,8,,Oxana Lyubtsova,R,157,UKR,21.7,202680,,Q,Maria Zharkova,R,173,RUS,19.0,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,305,76,658,18
 2007-W-C25-RUS-03A-2007,Moscow 25K,Clay,32,25,20070528,14,201584,,WC,Ksenia Pervak,L,170,KAZ,16.0,204297,,Q,Anna Arina Marenko,R,170,RUS,15.4,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,743,13,,
 2007-W-C25-RUS-03A-2007,Moscow 25K,Clay,32,25,20070528,15,201680,,,Anna Gerasimou,R,,GRE,19.6,202850,,,Ekaterina Dranets,R,,RUS,19.8,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,363,57,660,17
@@ -10452,16 +10452,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-C25-RUS-03A-2007,Moscow 25K,Clay,32,25,20070528,19,202824,,,Katerina Avdiyenko,R,,UKR,20.6,203296,,Q,Maria Mosolova,R,,RUS,17.6,7-5 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,584,23,904,8
 2007-W-C25-RUS-03A-2007,Moscow 25K,Clay,32,25,20070528,20,201532,,WC,Anastasia Pivovarova,R,181,RUS,16.9,203206,,,Oksana Uzhylovska,R,,UKR,21.8,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,561,25,598,22
 2007-W-C25-RUS-03A-2007,Moscow 25K,Clay,32,25,20070528,21,202373,7,,Ekaterina Afinogenova,R,,RUS,20.3,201613,,WC,Arina Rodionova,R,168,RUS,17.4,6-0 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,235,111,367,55
-2007-W-C25-RUS-03A-2007,Moscow 25K,Clay,32,25,20070528,22,201505,3,,Ekaterina Makarova,L,178,RUS,18.9,202529,,,Natalia Orlova,R,,RUS,18.1,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,224,125,442,39
+2007-W-C25-RUS-03A-2007,Moscow 25K,Clay,32,25,20070528,22,201505,3,,Kate Makarova,L,178,RUS,18.9,202529,,,Natalia Orlova,R,,RUS,18.1,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,224,125,442,39
 2007-W-C25-RUS-03A-2007,Moscow 25K,Clay,32,25,20070528,23,201584,,WC,Ksenia Pervak,L,170,KAZ,16.0,201544,8,,Oxana Lyubtsova,R,157,UKR,21.7,2-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,743,13,305,76
 2007-W-C25-RUS-03A-2007,Moscow 25K,Clay,32,25,20070528,24,201515,2,,Alisa Kleybanova,R,181,RUS,17.8,201680,,,Anna Gerasimou,R,,GRE,19.6,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,237,108,363,57
 2007-W-C25-RUS-03A-2007,Moscow 25K,Clay,32,25,20070528,25,202830,5,,Eugenia Grebenyuk,R,,RUS,19.2,201663,1,,Ekaterina Dzehalevich,R,168,BLR,21.0,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,262,99,189,157
 2007-W-C25-RUS-03A-2007,Moscow 25K,Clay,32,25,20070528,26,201532,,WC,Anastasia Pivovarova,R,181,RUS,16.9,202824,,,Katerina Avdiyenko,R,,UKR,20.6,3-6 6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,561,25,584,23
-2007-W-C25-RUS-03A-2007,Moscow 25K,Clay,32,25,20070528,27,201505,3,,Ekaterina Makarova,L,178,RUS,18.9,202373,7,,Ekaterina Afinogenova,R,,RUS,20.3,2-6 6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,224,125,235,111
+2007-W-C25-RUS-03A-2007,Moscow 25K,Clay,32,25,20070528,27,201505,3,,Kate Makarova,L,178,RUS,18.9,202373,7,,Ekaterina Afinogenova,R,,RUS,20.3,2-6 6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,224,125,235,111
 2007-W-C25-RUS-03A-2007,Moscow 25K,Clay,32,25,20070528,28,201515,2,,Alisa Kleybanova,R,181,RUS,17.8,201584,,WC,Ksenia Pervak,L,170,KAZ,16.0,4-6 6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,237,108,743,13
 2007-W-C25-RUS-03A-2007,Moscow 25K,Clay,32,25,20070528,29,201532,,WC,Anastasia Pivovarova,R,181,RUS,16.9,202830,5,,Eugenia Grebenyuk,R,,RUS,19.2,7-6(2) 6-4,3,SF,,,,,,,,,,,,,,,,,,,,561,25,262,99
-2007-W-C25-RUS-03A-2007,Moscow 25K,Clay,32,25,20070528,30,201505,3,,Ekaterina Makarova,L,178,RUS,18.9,201515,2,,Alisa Kleybanova,R,181,RUS,17.8,7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,224,125,237,108
-2007-W-C25-RUS-03A-2007,Moscow 25K,Clay,32,25,20070528,31,201532,,WC,Anastasia Pivovarova,R,181,RUS,16.9,201505,3,,Ekaterina Makarova,L,178,RUS,18.9,6-3 7-5,3,F,,,,,,,,,,,,,,,,,,,,561,25,224,125
+2007-W-C25-RUS-03A-2007,Moscow 25K,Clay,32,25,20070528,30,201505,3,,Kate Makarova,L,178,RUS,18.9,201515,2,,Alisa Kleybanova,R,181,RUS,17.8,7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,224,125,237,108
+2007-W-C25-RUS-03A-2007,Moscow 25K,Clay,32,25,20070528,31,201532,,WC,Anastasia Pivovarova,R,181,RUS,16.9,201505,3,,Kate Makarova,L,178,RUS,18.9,6-3 7-5,3,F,,,,,,,,,,,,,,,,,,,,561,25,224,125
 2007-W-C25-RUS-04A-2007,Moscow 25K,Clay,32,25,20070820,1,201515,1,,Alisa Kleybanova,R,181,RUS,18.0,202862,,,Anastasia Poltoratskaya,R,166,RUS,19.0,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,208,136,352,62
 2007-W-C25-RUS-04A-2007,Moscow 25K,Clay,32,25,20070820,2,202882,,Q,Maya Gaverova,U,,RUS,18.2,205141,,WC,Valentina Ponomartseva,R,,RUS,19.3,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,570,25,1173,3
 2007-W-C25-RUS-04A-2007,Moscow 25K,Clay,32,25,20070820,3,201685,,SE,Kristina Antoniychuk,U,170,UKR,16.9,202532,,,Galyna Kosyk,R,,UKR,18.8,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,420,44,323,71
@@ -10779,7 +10779,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-C25-USA-01A-2007,Tampa FL 25K,Hard,32,25,20070108,5,203196,,Q,Laurene Fayol,R,,FRA,18.5,202331,4,,Vilmarie Castellvi,R,,PUR,25.8,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,393,47,230,115
 2007-W-C25-USA-01A-2007,Tampa FL 25K,Hard,32,25,20070108,6,201661,,,Tina Schiechtl,R,170,AUT,22.9,201433,,,Sarah Borwell,R,,GBR,27.3,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,264,93,249,102
 2007-W-C25-USA-01A-2007,Tampa FL 25K,Hard,32,25,20070108,7,202545,,WC,Irina Kuzmina,R,,LAT,20.9,201389,,,Zuzana Kucova,R,,SVK,24.5,7-6(5) 6-7(3) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,446,38,278,85
-2007-W-C25-USA-01A-2007,Tampa FL 25K,Hard,32,25,20070108,8,202312,,,Olga Vymetalkova,U,,CZE,30.9,201505,8,,Ekaterina Makarova,L,178,RUS,18.5,4-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,267,91,248,102
+2007-W-C25-USA-01A-2007,Tampa FL 25K,Hard,32,25,20070108,8,202312,,,Olga Vymetalkova,U,,CZE,30.9,201505,8,,Kate Makarova,L,178,RUS,18.5,4-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,267,91,248,102
 2007-W-C25-USA-01A-2007,Tampa FL 25K,Hard,32,25,20070108,9,201510,7,,Julie Ditty,L,168,USA,28.0,201677,,Q,Mi Yoo,R,,KOR,20.6,5-7 7-6(3) 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,245,105,344,57
 2007-W-C25-USA-01A-2007,Tampa FL 25K,Hard,32,25,20070108,10,201514,,Q,Sorana Cirstea,R,176,ROU,16.7,201422,,,Mailyne Andrieux,R,,FRA,19.1,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,352,56,280,83
 2007-W-C25-USA-01A-2007,Tampa FL 25K,Hard,32,25,20070108,11,203201,,WC,Robin Stephenson,R,,USA,23.5,200776,,,Angelika Bachmann,R,,GER,27.6,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,269,90
@@ -10816,7 +10816,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-C25-USA-02A-2007,Fort Walton Beach FL 25K,Hard,32,25,20070115,11,201291,,,Nuria Llagostera Vives,R,156,ESP,26.6,201661,,,Tina Schiechtl,R,170,AUT,23.0,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,400,46,264,93
 2007-W-C25-USA-02A-2007,Fort Walton Beach FL 25K,Hard,32,25,20070115,12,201599,3,,Andrea Hlavackova,R,174,CZE,20.4,201539,,WC,Christina Mchale,R,170,USA,14.6,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,223,119,,
 2007-W-C25-USA-02A-2007,Fort Walton Beach FL 25K,Hard,32,25,20070115,13,202331,5,,Vilmarie Castellvi,R,,PUR,25.8,202472,,Q,Laura Thorpe,R,,FRA,19.6,6-4 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,230,114,325,65
-2007-W-C25-USA-02A-2007,Fort Walton Beach FL 25K,Hard,32,25,20070115,14,201505,,,Ekaterina Makarova,L,178,RUS,18.6,203315,,WC,Alexa Guarachi,R,173,USA,16.1,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,248,102,1335,3
+2007-W-C25-USA-02A-2007,Fort Walton Beach FL 25K,Hard,32,25,20070115,14,201505,,,Kate Makarova,L,178,RUS,18.6,203315,,WC,Alexa Guarachi,R,173,USA,16.1,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,248,102,1335,3
 2007-W-C25-USA-02A-2007,Fort Walton Beach FL 25K,Hard,32,25,20070115,15,202485,,Q,Jana Juricova,R,,SVK,19.1,201677,,Q,Mi Yoo,R,,KOR,20.6,2-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,335,61,342,57
 2007-W-C25-USA-02A-2007,Fort Walton Beach FL 25K,Hard,32,25,20070115,16,202370,2,,Jenifer Widjaja,R,,BRA,20.1,205370,,WC,Cammie Gray,U,,USA,19.1,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,210,125,,
 2007-W-C25-USA-02A-2007,Fort Walton Beach FL 25K,Hard,32,25,20070115,17,201426,1,,Pauline Parmentier,R,175,FRA,20.9,201433,,,Sarah Borwell,R,,GBR,27.4,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,186,144,249,102
@@ -10825,12 +10825,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-C25-USA-02A-2007,Fort Walton Beach FL 25K,Hard,32,25,20070115,20,202312,,,Olga Vymetalkova,U,,CZE,30.9,200776,,,Angelika Bachmann,R,,GER,27.6,6-0 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,267,91,269,90
 2007-W-C25-USA-02A-2007,Fort Walton Beach FL 25K,Hard,32,25,20070115,21,201528,,Q,Melanie Oudin,R,168,USA,15.3,201567,,Q,Alexandra Dulgheru,R,172,ROU,17.6,6-1 5-7 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1016,6,540,25
 2007-W-C25-USA-02A-2007,Fort Walton Beach FL 25K,Hard,32,25,20070115,22,201291,,,Nuria Llagostera Vives,R,156,ESP,26.6,201599,3,,Andrea Hlavackova,R,174,CZE,20.4,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,400,46,223,119
-2007-W-C25-USA-02A-2007,Fort Walton Beach FL 25K,Hard,32,25,20070115,23,201505,,,Ekaterina Makarova,L,178,RUS,18.6,202331,5,,Vilmarie Castellvi,R,,PUR,25.8,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,248,102,230,114
+2007-W-C25-USA-02A-2007,Fort Walton Beach FL 25K,Hard,32,25,20070115,23,201505,,,Kate Makarova,L,178,RUS,18.6,202331,5,,Vilmarie Castellvi,R,,PUR,25.8,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,248,102,230,114
 2007-W-C25-USA-02A-2007,Fort Walton Beach FL 25K,Hard,32,25,20070115,24,202485,,Q,Jana Juricova,R,,SVK,19.1,202370,2,,Jenifer Widjaja,R,,BRA,20.1,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,335,61,210,125
 2007-W-C25-USA-02A-2007,Fort Walton Beach FL 25K,Hard,32,25,20070115,25,201426,1,,Pauline Parmentier,R,175,FRA,20.9,202348,,Q,Lina Stanciute,R,,LTU,20.9,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,186,144,282,82
 2007-W-C25-USA-02A-2007,Fort Walton Beach FL 25K,Hard,32,25,20070115,26,201383,4,,Marie Eve Pelletier,R,172,CAN,24.6,202312,,,Olga Vymetalkova,U,,CZE,30.9,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,226,117,267,91
 2007-W-C25-USA-02A-2007,Fort Walton Beach FL 25K,Hard,32,25,20070115,27,201291,,,Nuria Llagostera Vives,R,156,ESP,26.6,201528,,Q,Melanie Oudin,R,168,USA,15.3,7-6(5) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,400,46,1016,6
-2007-W-C25-USA-02A-2007,Fort Walton Beach FL 25K,Hard,32,25,20070115,28,202485,,Q,Jana Juricova,R,,SVK,19.1,201505,,,Ekaterina Makarova,L,178,RUS,18.6,5-7 6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,335,61,248,102
+2007-W-C25-USA-02A-2007,Fort Walton Beach FL 25K,Hard,32,25,20070115,28,202485,,Q,Jana Juricova,R,,SVK,19.1,201505,,,Kate Makarova,L,178,RUS,18.6,5-7 6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,335,61,248,102
 2007-W-C25-USA-02A-2007,Fort Walton Beach FL 25K,Hard,32,25,20070115,29,201426,1,,Pauline Parmentier,R,175,FRA,20.9,201383,4,,Marie Eve Pelletier,R,172,CAN,24.6,6-1 7-5,3,SF,,,,,,,,,,,,,,,,,,,,186,144,226,117
 2007-W-C25-USA-02A-2007,Fort Walton Beach FL 25K,Hard,32,25,20070115,30,202485,,Q,Jana Juricova,R,,SVK,19.1,201291,,,Nuria Llagostera Vives,R,156,ESP,26.6,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,335,61,400,46
 2007-W-C25-USA-02A-2007,Fort Walton Beach FL 25K,Hard,32,25,20070115,31,201426,1,,Pauline Parmentier,R,175,FRA,20.9,202485,,Q,Jana Juricova,R,,SVK,19.1,6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,,186,144,335,61
@@ -11210,7 +11210,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-C50-BLR-01A-2007,Minsk 50K,Hard,32,50,20071105,2,201636,,WC,Anna Orlik,R,169,BLR,14.6,202344,,,Magda Mihalache,R,,ROU,26.3,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,253,105
 2007-W-C50-BLR-01A-2007,Minsk 50K,Hard,32,50,20071105,3,201445,,,Viktoria Kutuzova,R,170,UKR,19.2,201563,,,Darya Kustova,U,,BLR,21.4,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,172,183,189,155
 2007-W-C50-BLR-01A-2007,Minsk 50K,Hard,32,50,20071105,4,201516,8,,Evgeniya Rodina,R,170,RUS,18.7,202862,,,Anastasia Poltoratskaya,R,166,RUS,19.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,141,254,328,68
-2007-W-C50-BLR-01A-2007,Minsk 50K,Hard,32,50,20071105,5,201505,3,,Ekaterina Makarova,L,178,RUS,19.4,203163,,,Julia Efremova,R,183,RUS,22.7,2-6 6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,107,324,841,9
+2007-W-C50-BLR-01A-2007,Minsk 50K,Hard,32,50,20071105,5,201505,3,,Kate Makarova,L,178,RUS,19.4,203163,,,Julia Efremova,R,183,RUS,22.7,2-6 6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,107,324,841,9
 2007-W-C50-BLR-01A-2007,Minsk 50K,Hard,32,50,20071105,6,201663,,,Ekaterina Dzehalevich,R,168,BLR,21.5,203319,,Q,Viktoria Yemialyanava,U,,BLR,16.2,6-0 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,188,156,,
 2007-W-C50-BLR-01A-2007,Minsk 50K,Hard,32,50,20071105,7,202399,,,Margit Ruutel,R,,EST,24.1,201499,,,Anastasia Pavlyuchenkova,R,177,RUS,16.3,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,202,145,256,104
 2007-W-C50-BLR-01A-2007,Minsk 50K,Hard,32,50,20071105,8,201462,7,,Alberta Brianti,R,165,ITA,27.5,201511,,,Ekaterina Ivanova,R,,RUS,19.8,6-1 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,145,242,201,145
@@ -11224,7 +11224,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-C50-BLR-01A-2007,Minsk 50K,Hard,32,50,20071105,16,202830,,,Eugenia Grebenyuk,R,,RUS,19.7,201485,2,,Alla Kudryavtseva,R,178,RUS,20.0,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,285,84,82,386
 2007-W-C50-BLR-01A-2007,Minsk 50K,Hard,32,50,20071105,17,201431,1,,Aravane Rezai,R,165,FRA,20.6,201636,,WC,Anna Orlik,R,169,BLR,14.6,5-7 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,83,386,,
 2007-W-C50-BLR-01A-2007,Minsk 50K,Hard,32,50,20071105,18,201516,8,,Evgeniya Rodina,R,170,RUS,18.7,201445,,,Viktoria Kutuzova,R,170,UKR,19.2,7-6(6) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,141,254,172,183
-2007-W-C50-BLR-01A-2007,Minsk 50K,Hard,32,50,20071105,19,201663,,,Ekaterina Dzehalevich,R,168,BLR,21.5,201505,3,,Ekaterina Makarova,L,178,RUS,19.4,2-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,188,156,107,324
+2007-W-C50-BLR-01A-2007,Minsk 50K,Hard,32,50,20071105,19,201663,,,Ekaterina Dzehalevich,R,168,BLR,21.5,201505,3,,Kate Makarova,L,178,RUS,19.4,2-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,188,156,107,324
 2007-W-C50-BLR-01A-2007,Minsk 50K,Hard,32,50,20071105,20,202399,,,Margit Ruutel,R,,EST,24.1,201462,7,,Alberta Brianti,R,165,ITA,27.5,7-6(2) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,202,145,145,242
 2007-W-C50-BLR-01A-2007,Minsk 50K,Hard,32,50,20071105,21,201570,,,Vesna Dolonc,R,170,SRB,18.2,202398,,,Veronika Chvojkova,R,,CZE,20.5,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,170,186,294,81
 2007-W-C50-BLR-01A-2007,Minsk 50K,Hard,32,50,20071105,22,201514,4,,Sorana Cirstea,R,176,ROU,17.5,203284,,Q,Katerina Vankova,L,,CZE,17.8,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,117,307,408,46
@@ -11370,7 +11370,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-C50-CRO-01A-2007,Zagreb 50K,Clay,32,50,20070604,7,201500,,,Nika Ozegovic,R,170,CRO,22.0,202362,,LL,Teodora Mircic,R,168,SRB,19.2,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,185,159,405,47
 2007-W-C50-CRO-01A-2007,Zagreb 50K,Clay,32,50,20070604,8,201437,6,,Ivana Lisjak,R,180,CRO,20.2,201548,,WC,Ajla Tomljanovic,R,180,AUS,14.0,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,153,201,,
 2007-W-C50-CRO-01A-2007,Zagreb 50K,Clay,32,50,20070604,9,202340,5,,Caroline Maes,R,167,BEL,24.5,202873,,WC,Ana Savic,U,,CRO,17.6,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,151,202,545,26
-2007-W-C50-CRO-01A-2007,Zagreb 50K,Clay,32,50,20070604,10,201505,,,Ekaterina Makarova,L,178,RUS,18.9,203196,,Q,Laurene Fayol,R,,FRA,18.9,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,224,125,357,59
+2007-W-C50-CRO-01A-2007,Zagreb 50K,Clay,32,50,20070604,10,201505,,,Kate Makarova,L,178,RUS,18.9,203196,,Q,Laurene Fayol,R,,FRA,18.9,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,224,125,357,59
 2007-W-C50-CRO-01A-2007,Zagreb 50K,Clay,32,50,20070604,11,202556,,LL,Ana Jovanovic,R,,SRB,22.4,202862,,Q,Anastasia Poltoratskaya,R,166,RUS,18.8,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,698,16,342,62
 2007-W-C50-CRO-01A-2007,Zagreb 50K,Clay,32,50,20070604,12,202524,,,Giulia Gabba,R,,ITA,20.2,201428,3,,Mathilde Johansson,R,173,FRA,22.0,6-0 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,193,152,126,252
 2007-W-C50-CRO-01A-2007,Zagreb 50K,Clay,32,50,20070604,13,201211,7,,Kyra Nagy,R,,HUN,29.4,203285,,LL,Vasilisa Davydova,L,,RUS,21.3,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,157,195,634,19
@@ -11381,16 +11381,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-C50-CRO-01A-2007,Zagreb 50K,Clay,32,50,20070604,18,203191,,,Danica Krstajic,R,,MNE,20.2,202878,,WC,Indire Akiki,R,,CRO,15.9,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,283,87,887,8
 2007-W-C50-CRO-01A-2007,Zagreb 50K,Clay,32,50,20070604,19,201317,,,Aniko Kapros,R,173,HUN,23.5,201366,4,,Barbora Strycova,R,164,CZE,21.1,7-6(4) 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,403,47,134,238
 2007-W-C50-CRO-01A-2007,Zagreb 50K,Clay,32,50,20070604,20,201437,6,,Ivana Lisjak,R,180,CRO,20.2,201500,,,Nika Ozegovic,R,170,CRO,22.0,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,153,201,185,159
-2007-W-C50-CRO-01A-2007,Zagreb 50K,Clay,32,50,20070604,21,201505,,,Ekaterina Makarova,L,178,RUS,18.9,202340,5,,Caroline Maes,R,167,BEL,24.5,3-2 RET,3,R16,,,,,,,,,,,,,,,,,,,,224,125,151,202
+2007-W-C50-CRO-01A-2007,Zagreb 50K,Clay,32,50,20070604,21,201505,,,Kate Makarova,L,178,RUS,18.9,202340,5,,Caroline Maes,R,167,BEL,24.5,3-2 RET,3,R16,,,,,,,,,,,,,,,,,,,,224,125,151,202
 2007-W-C50-CRO-01A-2007,Zagreb 50K,Clay,32,50,20070604,22,202556,,LL,Ana Jovanovic,R,,SRB,22.4,202524,,,Giulia Gabba,R,,ITA,20.2,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,698,16,193,152
 2007-W-C50-CRO-01A-2007,Zagreb 50K,Clay,32,50,20070604,23,201211,7,,Kyra Nagy,R,,HUN,29.4,201622,,,Iryna Bremond,R,,FRA,22.6,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,157,195,217,130
 2007-W-C50-CRO-01A-2007,Zagreb 50K,Clay,32,50,20070604,24,201448,2,,Galina Voskoboeva,R,183,KAZ,22.4,201571,,,Masa Zec Peskiric,R,,SLO,20.3,7-6(5) 2-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,108,286,197,148
 2007-W-C50-CRO-01A-2007,Zagreb 50K,Clay,32,50,20070604,25,203191,,,Danica Krstajic,R,,MNE,20.2,201383,,,Marie Eve Pelletier,R,172,CAN,25.0,6-4 3-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,283,87,216,131
 2007-W-C50-CRO-01A-2007,Zagreb 50K,Clay,32,50,20070604,26,201437,6,,Ivana Lisjak,R,180,CRO,20.2,201317,,,Aniko Kapros,R,173,HUN,23.5,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,153,201,403,47
-2007-W-C50-CRO-01A-2007,Zagreb 50K,Clay,32,50,20070604,27,201505,,,Ekaterina Makarova,L,178,RUS,18.9,202556,,LL,Ana Jovanovic,R,,SRB,22.4,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,224,125,698,16
+2007-W-C50-CRO-01A-2007,Zagreb 50K,Clay,32,50,20070604,27,201505,,,Kate Makarova,L,178,RUS,18.9,202556,,LL,Ana Jovanovic,R,,SRB,22.4,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,224,125,698,16
 2007-W-C50-CRO-01A-2007,Zagreb 50K,Clay,32,50,20070604,28,201211,7,,Kyra Nagy,R,,HUN,29.4,201448,2,,Galina Voskoboeva,R,183,KAZ,22.4,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,157,195,108,286
 2007-W-C50-CRO-01A-2007,Zagreb 50K,Clay,32,50,20070604,29,201437,6,,Ivana Lisjak,R,180,CRO,20.2,203191,,,Danica Krstajic,R,,MNE,20.2,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,153,201,283,87
-2007-W-C50-CRO-01A-2007,Zagreb 50K,Clay,32,50,20070604,30,201211,7,,Kyra Nagy,R,,HUN,29.4,201505,,,Ekaterina Makarova,L,178,RUS,18.9,7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,157,195,224,125
+2007-W-C50-CRO-01A-2007,Zagreb 50K,Clay,32,50,20070604,30,201211,7,,Kyra Nagy,R,,HUN,29.4,201505,,,Kate Makarova,L,178,RUS,18.9,7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,157,195,224,125
 2007-W-C50-CRO-01A-2007,Zagreb 50K,Clay,32,50,20070604,31,201211,7,,Kyra Nagy,R,,HUN,29.4,201437,6,,Ivana Lisjak,R,180,CRO,20.2,2-6 7-6(3) 6-2,3,F,,,,,,,,,,,,,,,,,,,,157,195,153,201
 2007-W-C50-CZE-01A-2007,Zlin 50K,Clay,32,50,20070611,1,201409,,,Michaela Pastikova,R,176,CZE,27.2,201334,1,,Zuzana Ondraskova,R,174,CZE,27.1,3-6 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,267,97,111,280
 2007-W-C50-CZE-01A-2007,Zlin 50K,Clay,32,50,20070611,2,201545,,LL,Anastasija Sevastova,R,169,LAT,17.1,203291,,WC,Alena Nogolova,R,,CZE,17.3,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,309,76,,
@@ -11437,7 +11437,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-C50-ESP-01A-2007,Torrent 50K,Clay,32,50,20070423,12,201287,3,,Maria Jose Martinez Sanchez,L,176,ESP,24.6,202399,,,Margit Ruutel,R,,EST,23.6,6-3 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,151,192,252,99
 2007-W-C50-ESP-01A-2007,Torrent 50K,Clay,32,50,20070423,13,201494,7,,Raluca Olaru,R,173,ROU,18.1,201544,,Q,Oxana Lyubtsova,R,157,UKR,21.6,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,164,174,300,74
 2007-W-C50-ESP-01A-2007,Torrent 50K,Clay,32,50,20070423,14,200777,,WC,Marta Marrero,R,173,ESP,24.2,202402,,LL,Eloisa Maria Compostizo De Andres,L,,ESP,18.7,4-6 6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,794,11,531,27
-2007-W-C50-ESP-01A-2007,Torrent 50K,Clay,32,50,20070423,15,201505,,Q,Ekaterina Makarova,L,178,RUS,18.8,201367,,,Arantxa Parra Santonja,R,176,ESP,24.4,7-5 6-7(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,209,131,249,101
+2007-W-C50-ESP-01A-2007,Torrent 50K,Clay,32,50,20070423,15,201505,,Q,Kate Makarova,L,178,RUS,18.8,201367,,,Arantxa Parra Santonja,R,176,ESP,24.4,7-5 6-7(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,209,131,249,101
 2007-W-C50-ESP-01A-2007,Torrent 50K,Clay,32,50,20070423,16,201506,2,,Sara Errani,R,164,ITA,19.9,201300,,WC,Maria Emilia Salerni,R,174,ARG,23.9,2-6 6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,139,212,259,96
 2007-W-C50-ESP-01A-2007,Torrent 50K,Clay,32,50,20070423,17,201508,,,Petra Cetkovska,R,172,CZE,22.2,201592,,WC,Beatriz Garcia Vidagany,U,,ESP,18.4,6-2 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,168,169,551,25
 2007-W-C50-ESP-01A-2007,Torrent 50K,Clay,32,50,20070423,18,201492,,,Andrea Petkovic,R,180,GER,19.6,201451,,,Kathrin Woerle,R,175,GER,23.1,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,175,162,216,124
@@ -11446,11 +11446,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-C50-ESP-01A-2007,Torrent 50K,Clay,32,50,20070423,21,201417,6,,Marta Domachowska,R,176,POL,21.2,201599,,,Andrea Hlavackova,R,174,CZE,20.7,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,162,175,228,116
 2007-W-C50-ESP-01A-2007,Torrent 50K,Clay,32,50,20070423,22,201309,,,Tatiana Perebiynis,R,173,UKR,24.3,201287,3,,Maria Jose Martinez Sanchez,L,176,ESP,24.6,W/O,3,R16,,,,,,,,,,,,,,,,,,,,218,123,151,192
 2007-W-C50-ESP-01A-2007,Torrent 50K,Clay,32,50,20070423,23,201494,7,,Raluca Olaru,R,173,ROU,18.1,200777,,WC,Marta Marrero,R,173,ESP,24.2,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,164,174,794,11
-2007-W-C50-ESP-01A-2007,Torrent 50K,Clay,32,50,20070423,24,201505,,Q,Ekaterina Makarova,L,178,RUS,18.8,201506,2,,Sara Errani,R,164,ITA,19.9,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,209,131,139,212
+2007-W-C50-ESP-01A-2007,Torrent 50K,Clay,32,50,20070423,24,201505,,Q,Kate Makarova,L,178,RUS,18.8,201506,2,,Sara Errani,R,164,ITA,19.9,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,209,131,139,212
 2007-W-C50-ESP-01A-2007,Torrent 50K,Clay,32,50,20070423,25,201492,,,Andrea Petkovic,R,180,GER,19.6,201508,,,Petra Cetkovska,R,172,CZE,22.2,1-6 6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,175,162,168,169
 2007-W-C50-ESP-01A-2007,Torrent 50K,Clay,32,50,20070423,26,201511,,,Ekaterina Ivanova,R,,RUS,19.3,201343,4,,Maret Ani,R,176,EST,25.2,3-6 6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,163,175,143,202
 2007-W-C50-ESP-01A-2007,Torrent 50K,Clay,32,50,20070423,27,201309,,,Tatiana Perebiynis,R,173,UKR,24.3,201417,6,,Marta Domachowska,R,176,POL,21.2,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,218,123,162,175
-2007-W-C50-ESP-01A-2007,Torrent 50K,Clay,32,50,20070423,28,201494,7,,Raluca Olaru,R,173,ROU,18.1,201505,,Q,Ekaterina Makarova,L,178,RUS,18.8,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,164,174,209,131
+2007-W-C50-ESP-01A-2007,Torrent 50K,Clay,32,50,20070423,28,201494,7,,Raluca Olaru,R,173,ROU,18.1,201505,,Q,Kate Makarova,L,178,RUS,18.8,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,164,174,209,131
 2007-W-C50-ESP-01A-2007,Torrent 50K,Clay,32,50,20070423,29,201492,,,Andrea Petkovic,R,180,GER,19.6,201511,,,Ekaterina Ivanova,R,,RUS,19.3,6-3 6-0,3,SF,,,,,,,,,,,,,,,,,,,,175,162,163,175
 2007-W-C50-ESP-01A-2007,Torrent 50K,Clay,32,50,20070423,30,201494,7,,Raluca Olaru,R,173,ROU,18.1,201309,,,Tatiana Perebiynis,R,173,UKR,24.3,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,164,174,218,123
 2007-W-C50-ESP-01A-2007,Torrent 50K,Clay,32,50,20070423,31,201494,7,,Raluca Olaru,R,173,ROU,18.1,201492,,,Andrea Petkovic,R,180,GER,19.6,6-4 5-7 6-4,3,F,,,,,,,,,,,,,,,,,,,,164,174,175,162
@@ -11590,7 +11590,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-C50-FRA-05A-2007,Saint Raphael 50K,Hard,32,50,20071015,10,200773,,,Stephanie Foretz Gacon,R,166,FRA,26.4,201430,,,Yulia Fedossova,R,,FRA,19.2,2-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,146,237,141,252
 2007-W-C50-FRA-05A-2007,Saint Raphael 50K,Hard,32,50,20071015,11,201526,,WC,Julie Coin,R,172,FRA,24.8,201412,,,Anastasia Yakimova,R,165,BLR,20.9,7-6(5) 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,206,137,124,289
 2007-W-C50-FRA-05A-2007,Saint Raphael 50K,Hard,32,50,20071015,12,201390,,Q,Mervana Jugic Salkic,R,179,BIH,27.4,201492,4,,Andrea Petkovic,R,180,GER,20.0,2-6 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,240,113,96,357
-2007-W-C50-FRA-05A-2007,Saint Raphael 50K,Hard,32,50,20071015,13,201505,7,,Ekaterina Makarova,L,178,RUS,19.3,202381,,LL,Ksenia Milevskaya,R,172,BLR,17.1,1-6 6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,118,303,342,63
+2007-W-C50-FRA-05A-2007,Saint Raphael 50K,Hard,32,50,20071015,13,201505,7,,Kate Makarova,L,178,RUS,19.3,202381,,LL,Ksenia Milevskaya,R,172,BLR,17.1,1-6 6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,118,303,342,63
 2007-W-C50-FRA-05A-2007,Saint Raphael 50K,Hard,32,50,20071015,14,201663,,,Ekaterina Dzehalevich,R,168,BLR,21.4,203317,,LL,Amandine Cazeaux,L,,FRA,18.6,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,182,163,1037,4
 2007-W-C50-FRA-05A-2007,Saint Raphael 50K,Hard,32,50,20071015,15,201591,,,Margalita Chakhnashvili,R,172,GEO,24.8,202577,,WC,Florence Haring,R,,FRA,22.0,1-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,162,192,316,73
 2007-W-C50-FRA-05A-2007,Saint Raphael 50K,Hard,32,50,20071015,16,200014,2,,Tzipi Obziler,R,172,ISR,34.4,202533,,Q,Estelle Guisard,R,,FRA,18.5,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,88,379,810,10
@@ -11600,14 +11600,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-C50-FRA-05A-2007,Saint Raphael 50K,Hard,32,50,20071015,20,201361,,,Julia Schruff,R,166,GER,25.1,202399,,Q,Margit Ruutel,R,,EST,24.1,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,128,281,204,138
 2007-W-C50-FRA-05A-2007,Saint Raphael 50K,Hard,32,50,20071015,21,200773,,,Stephanie Foretz Gacon,R,166,FRA,26.4,201339,,,Renata Voracova,R,,CZE,24.0,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,146,237,117,305
 2007-W-C50-FRA-05A-2007,Saint Raphael 50K,Hard,32,50,20071015,22,201390,,Q,Mervana Jugic Salkic,R,179,BIH,27.4,201526,,WC,Julie Coin,R,172,FRA,24.8,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,240,113,206,137
-2007-W-C50-FRA-05A-2007,Saint Raphael 50K,Hard,32,50,20071015,23,201505,7,,Ekaterina Makarova,L,178,RUS,19.3,201663,,,Ekaterina Dzehalevich,R,168,BLR,21.4,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,118,303,182,163
+2007-W-C50-FRA-05A-2007,Saint Raphael 50K,Hard,32,50,20071015,23,201505,7,,Kate Makarova,L,178,RUS,19.3,201663,,,Ekaterina Dzehalevich,R,168,BLR,21.4,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,118,303,182,163
 2007-W-C50-FRA-05A-2007,Saint Raphael 50K,Hard,32,50,20071015,24,200014,2,,Tzipi Obziler,R,172,ISR,34.4,201591,,,Margalita Chakhnashvili,R,172,GEO,24.8,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,88,379,162,192
 2007-W-C50-FRA-05A-2007,Saint Raphael 50K,Hard,32,50,20071015,25,201462,,,Alberta Brianti,R,165,ITA,27.5,201514,8,,Sorana Cirstea,R,176,ROU,17.5,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,149,234,111,311
 2007-W-C50-FRA-05A-2007,Saint Raphael 50K,Hard,32,50,20071015,26,201361,,,Julia Schruff,R,166,GER,25.1,201292,,Q,Martina Sucha,R,170,SVK,26.8,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,128,281,174,175
 2007-W-C50-FRA-05A-2007,Saint Raphael 50K,Hard,32,50,20071015,27,200773,,,Stephanie Foretz Gacon,R,166,FRA,26.4,201390,,Q,Mervana Jugic Salkic,R,179,BIH,27.4,7-5 0-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,146,237,240,113
-2007-W-C50-FRA-05A-2007,Saint Raphael 50K,Hard,32,50,20071015,28,201505,7,,Ekaterina Makarova,L,178,RUS,19.3,200014,2,,Tzipi Obziler,R,172,ISR,34.4,6-4 1-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,118,303,88,379
+2007-W-C50-FRA-05A-2007,Saint Raphael 50K,Hard,32,50,20071015,28,201505,7,,Kate Makarova,L,178,RUS,19.3,200014,2,,Tzipi Obziler,R,172,ISR,34.4,6-4 1-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,118,303,88,379
 2007-W-C50-FRA-05A-2007,Saint Raphael 50K,Hard,32,50,20071015,29,201462,,,Alberta Brianti,R,165,ITA,27.5,201361,,,Julia Schruff,R,166,GER,25.1,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,149,234,128,281
-2007-W-C50-FRA-05A-2007,Saint Raphael 50K,Hard,32,50,20071015,30,200773,,,Stephanie Foretz Gacon,R,166,FRA,26.4,201505,7,,Ekaterina Makarova,L,178,RUS,19.3,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,146,237,118,303
+2007-W-C50-FRA-05A-2007,Saint Raphael 50K,Hard,32,50,20071015,30,200773,,,Stephanie Foretz Gacon,R,166,FRA,26.4,201505,7,,Kate Makarova,L,178,RUS,19.3,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,146,237,118,303
 2007-W-C50-FRA-05A-2007,Saint Raphael 50K,Hard,32,50,20071015,31,201462,,,Alberta Brianti,R,165,ITA,27.5,200773,,,Stephanie Foretz Gacon,R,166,FRA,26.4,6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,149,234,146,237
 2007-W-C50-FRA-06A-2007,Deauville 50K,Clay,32,50,20071112,1,201517,,Q,Magdalena Rybarikova,R,180,SVK,19.1,201442,1,,Yung Jan Chan,R,170,TPE,18.2,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,279,87,67,450
 2007-W-C50-FRA-06A-2007,Deauville 50K,Clay,32,50,20071112,2,201361,,,Julia Schruff,R,166,GER,25.2,201504,,,Julia Goerges,R,180,GER,19.0,6-4 2-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,120,295,131,268
@@ -11675,7 +11675,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-C50-ITA-02A-2007,Cuneo 50K,Clay,32,50,20070702,2,200709,,,Rossana De Los Rios,R,170,PAR,31.7,201484,,,Sandra Zahlavova,U,,CZE,21.7,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,162,188,143,223
 2007-W-C50-ITA-02A-2007,Cuneo 50K,Clay,32,50,20070702,3,201428,,,Mathilde Johansson,R,173,FRA,22.1,202380,,WC,Silvia Disderi,R,183,ITA,23.9,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,114,274,356,61
 2007-W-C50-ITA-02A-2007,Cuneo 50K,Clay,32,50,20070702,4,201492,6,,Andrea Petkovic,R,180,GER,19.8,202340,,,Caroline Maes,R,167,BEL,24.6,6-1 4-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,106,293,155,206
-2007-W-C50-ITA-02A-2007,Cuneo 50K,Clay,32,50,20070702,5,201356,4,,Eva Birnerova,R,170,CZE,22.8,201505,,,Ekaterina Makarova,L,178,RUS,19.0,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,97,321,179,171
+2007-W-C50-ITA-02A-2007,Cuneo 50K,Clay,32,50,20070702,5,201356,4,,Eva Birnerova,R,170,CZE,22.8,201505,,,Kate Makarova,L,178,RUS,19.0,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,97,321,179,171
 2007-W-C50-ITA-02A-2007,Cuneo 50K,Clay,32,50,20070702,6,201300,,,Maria Emilia Salerni,R,174,ARG,24.1,202588,,WC,Nicole Clerico,R,173,ITA,24.3,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,150,207,601,23
 2007-W-C50-ITA-02A-2007,Cuneo 50K,Clay,32,50,20070702,7,201482,,,Andreja Klepac,R,,SLO,21.3,201377,,,Yuliya Beygelzimer,R,174,UKR,23.6,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,137,230,136,234
 2007-W-C50-ITA-02A-2007,Cuneo 50K,Clay,32,50,20070702,8,201448,8,,Galina Voskoboeva,R,183,KAZ,22.5,201519,,,Violette Huck,L,170,FRA,19.2,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,112,276,249,106
@@ -11990,7 +11990,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-C50-USA-02A-2007,St Paul MN 50K,Hard,32,50,20070212,7,201754,,,Leanne Baker,L,173,NZL,26.0,203212,,WC,Danielle Mills,L,,USA,15.8,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,12,262,94,905,7
 2007-W-C50-USA-02A-2007,St Paul MN 50K,Hard,32,50,20070212,8,200062,6,,Kristina Brandi,R,168,PUR,29.8,202266,,,Kelly Liggan,R,,IRL,28.0,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,185,158,225,116
 2007-W-C50-USA-02A-2007,St Paul MN 50K,Hard,32,50,20070212,9,201390,,,Mervana Jugic Salkic,R,179,BIH,26.7,201708,7,,Natalie Grandin,L,175,RSA,25.9,0-6 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,284,80,188,154
-2007-W-C50-USA-02A-2007,St Paul MN 50K,Hard,32,50,20070212,10,201483,,Q,Madison Brengle,R,168,USA,16.8,201505,,,Ekaterina Makarova,L,178,RUS,18.6,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,464,33,240,107
+2007-W-C50-USA-02A-2007,St Paul MN 50K,Hard,32,50,20070212,10,201483,,Q,Madison Brengle,R,168,USA,16.8,201505,,,Kate Makarova,L,178,RUS,18.6,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,464,33,240,107
 2007-W-C50-USA-02A-2007,St Paul MN 50K,Hard,32,50,20070212,11,200707,,,Romana Tedjakusuma,R,,INA,30.5,202813,,,Sofia Melikishvili,U,,GEO,19.7,6-7(3) 6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,297,76,338,58
 2007-W-C50-USA-02A-2007,St Paul MN 50K,Hard,32,50,20070212,12,201303,3,,Anne Keothavong,R,175,GBR,23.4,201665,,Q,Ipek Senoglu,R,180,TUR,27.6,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,160,172,554,24
 2007-W-C50-USA-02A-2007,St Paul MN 50K,Hard,32,50,20070212,13,201376,8,,Angela Haynes,L,173,USA,22.3,201556,,,Lucie Hradecka,R,177,CZE,21.7,7-6(1) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,196,141,218,120
@@ -12202,7 +12202,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-C50-USA-10A-2007,Bronx NY 50K,Hard,32,50,20070813,2,201524,,Q,Urszula Radwanska,R,177,POL,16.6,200062,,,Kristina Brandi,R,168,PUR,30.3,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,625,20,166,195
 2007-W-C50-USA-10A-2007,Bronx NY 50K,Hard,32,50,20070813,3,202286,,,Elise Tamaela,L,,NED,23.5,201307,,WC,Amber Liu,R,,USA,23.1,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,183,175,324,70
 2007-W-C50-USA-10A-2007,Bronx NY 50K,Hard,32,50,20070813,4,201516,,,Evgeniya Rodina,R,170,RUS,18.5,201387,5,,Sofia Arvidsson,R,176,SWE,23.4,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,153,210,132,260
-2007-W-C50-USA-10A-2007,Bronx NY 50K,Hard,32,50,20070813,5,201505,,,Ekaterina Makarova,L,178,RUS,19.1,201438,3,,Ekaterina Bychkova,R,171,RUS,22.1,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,163,199,97,323
+2007-W-C50-USA-10A-2007,Bronx NY 50K,Hard,32,50,20070813,5,201505,,,Kate Makarova,L,178,RUS,19.1,201438,3,,Ekaterina Bychkova,R,171,RUS,22.1,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,163,199,97,323
 2007-W-C50-USA-10A-2007,Bronx NY 50K,Hard,32,50,20070813,6,201489,,,Mariya Koryttseva,R,172,UKR,22.2,201533,,,Shuai Zhang,R,177,CHN,18.5,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,178,181,147,219
 2007-W-C50-USA-10A-2007,Bronx NY 50K,Hard,32,50,20070813,7,201441,,,Emma Laine,L,164,FIN,21.3,201401,,,Abigail Spears,R,175,USA,26.0,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,192,161,168,193
 2007-W-C50-USA-10A-2007,Bronx NY 50K,Hard,32,50,20070813,8,201475,8,,Ahsha Rolle,R,172,USA,22.3,201343,,,Maret Ani,R,176,EST,25.5,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,122,280,145,222
@@ -12216,14 +12216,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-C50-USA-10A-2007,Bronx NY 50K,Hard,32,50,20070813,16,201348,2,,Casey Dellacqua,L,165,AUS,22.4,201510,,,Julie Ditty,L,168,USA,28.6,6-1 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,96,324,152,211
 2007-W-C50-USA-10A-2007,Bronx NY 50K,Hard,32,50,20070813,17,201423,1,,Yvonne Meusburger,R,175,AUT,23.8,201524,,Q,Urszula Radwanska,R,177,POL,16.6,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,63,463,625,20
 2007-W-C50-USA-10A-2007,Bronx NY 50K,Hard,32,50,20070813,18,201516,,,Evgeniya Rodina,R,170,RUS,18.5,202286,,,Elise Tamaela,L,,NED,23.5,1-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,153,210,183,175
-2007-W-C50-USA-10A-2007,Bronx NY 50K,Hard,32,50,20070813,19,201505,,,Ekaterina Makarova,L,178,RUS,19.1,201489,,,Mariya Koryttseva,R,172,UKR,22.2,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,163,199,178,181
+2007-W-C50-USA-10A-2007,Bronx NY 50K,Hard,32,50,20070813,19,201505,,,Kate Makarova,L,178,RUS,19.1,201489,,,Mariya Koryttseva,R,172,UKR,22.2,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,163,199,178,181
 2007-W-C50-USA-10A-2007,Bronx NY 50K,Hard,32,50,20070813,20,201475,8,,Ahsha Rolle,R,172,USA,22.3,201441,,,Emma Laine,L,164,FIN,21.3,7-6(7) 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,122,280,192,161
 2007-W-C50-USA-10A-2007,Bronx NY 50K,Hard,32,50,20070813,21,201426,6,,Pauline Parmentier,R,175,FRA,21.5,201367,,LL,Arantxa Parra Santonja,R,176,ESP,24.7,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,111,299,281,89
 2007-W-C50-USA-10A-2007,Bronx NY 50K,Hard,32,50,20070813,22,201572,,Q,Regina Kulikova,R,183,RUS,18.5,201417,,Q,Marta Domachowska,R,176,POL,21.5,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,197,149,182,176
 2007-W-C50-USA-10A-2007,Bronx NY 50K,Hard,32,50,20070813,23,201385,,,Yuliana Fedak,R,166,UKR,24.1,201443,,WC,Alexa Glatch,R,183,USA,17.9,0-6 7-6(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,109,299,306,76
 2007-W-C50-USA-10A-2007,Bronx NY 50K,Hard,32,50,20070813,24,201348,2,,Casey Dellacqua,L,165,AUS,22.4,202834,,WC,Story Tweedie Yates,U,,USA,24.2,6-4 6-7(2) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,96,324,358,59
 2007-W-C50-USA-10A-2007,Bronx NY 50K,Hard,32,50,20070813,25,201423,1,,Yvonne Meusburger,R,175,AUT,23.8,201516,,,Evgeniya Rodina,R,170,RUS,18.5,2-6 6-3 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,63,463,153,210
-2007-W-C50-USA-10A-2007,Bronx NY 50K,Hard,32,50,20070813,26,201475,8,,Ahsha Rolle,R,172,USA,22.3,201505,,,Ekaterina Makarova,L,178,RUS,19.1,6-4 0-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,122,280,163,199
+2007-W-C50-USA-10A-2007,Bronx NY 50K,Hard,32,50,20070813,26,201475,8,,Ahsha Rolle,R,172,USA,22.3,201505,,,Kate Makarova,L,178,RUS,19.1,6-4 0-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,122,280,163,199
 2007-W-C50-USA-10A-2007,Bronx NY 50K,Hard,32,50,20070813,27,201426,6,,Pauline Parmentier,R,175,FRA,21.5,201572,,Q,Regina Kulikova,R,183,RUS,18.5,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,111,299,197,149
 2007-W-C50-USA-10A-2007,Bronx NY 50K,Hard,32,50,20070813,28,201348,2,,Casey Dellacqua,L,165,AUS,22.4,201385,,,Yuliana Fedak,R,166,UKR,24.1,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,96,324,109,299
 2007-W-C50-USA-10A-2007,Bronx NY 50K,Hard,32,50,20070813,29,201475,8,,Ahsha Rolle,R,172,USA,22.3,201423,1,,Yvonne Meusburger,R,175,AUT,23.8,3-6 6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,122,280,63,463
@@ -13036,7 +13036,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-SL-FRA-01A-2007,Roland Garros,Clay,128,G,20070528,39,200751,,,Conchita Martinez Granados,R,,ESP,31.3,203196,,WC,Laurene Fayol,R,,FRA,18.8,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,232,112,357,59
 2007-W-SL-FRA-01A-2007,Roland Garros,Clay,128,G,20070528,40,201456,18,,Olga Savchuk,R,175,UKR,19.6,201398,,,Amanda Keen,L,,GBR,29.3,6-7(4) 7-6(4) 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,136,232,247,104
 2007-W-SL-FRA-01A-2007,Roland Garros,Clay,128,G,20070528,41,201494,11,,Raluca Olaru,R,173,ROU,18.2,201506,,,Sara Errani,R,164,ITA,20.0,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,122,257,148,210
-2007-W-SL-FRA-01A-2007,Roland Garros,Clay,128,G,20070528,42,201505,,,Ekaterina Makarova,L,178,RUS,18.9,202361,,,Erika Takao,R,,JPN,19.6,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,224,125,145,214
+2007-W-SL-FRA-01A-2007,Roland Garros,Clay,128,G,20070528,42,201505,,,Kate Makarova,L,178,RUS,18.9,202361,,,Erika Takao,R,,JPN,19.6,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,224,125,145,214
 2007-W-SL-FRA-01A-2007,Roland Garros,Clay,128,G,20070528,43,201309,,,Tatiana Perebiynis,R,173,UKR,24.4,202355,,,Sanja Ancic,R,,CRO,18.8,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,209,138,180,161
 2007-W-SL-FRA-01A-2007,Roland Garros,Clay,128,G,20070528,44,200776,,,Angelika Bachmann,R,,GER,28.0,201204,19,,Iroda Tulyaganova,R,170,UZB,25.3,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,187,157,137,231
 2007-W-SL-FRA-01A-2007,Roland Garros,Clay,128,G,20070528,45,201495,12,,Dominika Cibulkova,R,161,SVK,18.0,201437,,,Ivana Lisjak,R,180,CRO,20.1,2-6 7-5 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,131,241,153,201
@@ -13063,7 +13063,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-SL-FRA-01A-2007,Roland Garros,Clay,128,G,20070528,66,201441,22,,Emma Laine,L,164,FIN,21.1,201383,,,Marie Eve Pelletier,R,172,CAN,25.0,6-2 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,141,222,216,131
 2007-W-SL-FRA-01A-2007,Roland Garros,Clay,128,G,20070528,67,201387,10,,Sofia Arvidsson,R,176,SWE,23.2,201357,,,Virginie Pichet,R,,FRA,24.3,6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,121,262,170,170
 2007-W-SL-FRA-01A-2007,Roland Garros,Clay,128,G,20070528,68,201456,18,,Olga Savchuk,R,175,UKR,19.6,200751,,,Conchita Martinez Granados,R,,ESP,31.3,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,136,232,232,112
-2007-W-SL-FRA-01A-2007,Roland Garros,Clay,128,G,20070528,69,201494,11,,Raluca Olaru,R,173,ROU,18.2,201505,,,Ekaterina Makarova,L,178,RUS,18.9,6-1 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,122,257,224,125
+2007-W-SL-FRA-01A-2007,Roland Garros,Clay,128,G,20070528,69,201494,11,,Raluca Olaru,R,173,ROU,18.2,201505,,,Kate Makarova,L,178,RUS,18.9,6-1 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,122,257,224,125
 2007-W-SL-FRA-01A-2007,Roland Garros,Clay,128,G,20070528,70,200776,,,Angelika Bachmann,R,,GER,28.0,201309,,,Tatiana Perebiynis,R,173,UKR,24.4,6-4 3-6 10-8,3,Q2,,,,,,,,,,,,,,,,,,,,187,157,209,138
 2007-W-SL-FRA-01A-2007,Roland Garros,Clay,128,G,20070528,71,201495,12,,Dominika Cibulkova,R,161,SVK,18.0,201482,,,Andreja Klepac,R,,SLO,21.2,6-1 3-6 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,131,241,149,208
 2007-W-SL-FRA-01A-2007,Roland Garros,Clay,128,G,20070528,72,201460,,,Meng Yuan,U,,CHN,21.0,201303,,,Anne Keothavong,R,175,GBR,23.6,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,159,193,173,169
@@ -13124,7 +13124,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-SL-GBR-01A-2007,Wimbledon,Grass,128,G,20070625,43,201571,,,Masa Zec Peskiric,R,,SLO,20.4,201467,,,Ivana Abramovic,R,175,CRO,23.8,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,194,153,210,134
 2007-W-SL-GBR-01A-2007,Wimbledon,Grass,128,G,20070625,44,201459,,,Zi Yan,R,171,CHN,22.6,201385,16,,Yuliana Fedak,R,166,UKR,24.0,3-6 6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,197,152,115,268
 2007-W-SL-GBR-01A-2007,Wimbledon,Grass,128,G,20070625,45,200068,12,,Lilia Osterloh,R,170,USA,29.2,201343,,,Maret Ani,R,176,EST,25.3,7-5 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,113,274,160,194
-2007-W-SL-GBR-01A-2007,Wimbledon,Grass,128,G,20070625,46,201505,,,Ekaterina Makarova,L,178,RUS,19.0,202135,,,Vanessa Henke,R,,GER,26.4,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,179,171,223,122
+2007-W-SL-GBR-01A-2007,Wimbledon,Grass,128,G,20070625,46,201505,,,Kate Makarova,L,178,RUS,19.0,202135,,,Vanessa Henke,R,,GER,26.4,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,179,171,223,122
 2007-W-SL-GBR-01A-2007,Wimbledon,Grass,128,G,20070625,47,201366,,,Barbora Strycova,R,164,CZE,21.2,201511,,,Ekaterina Ivanova,R,,RUS,19.5,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,152,207,167,182
 2007-W-SL-GBR-01A-2007,Wimbledon,Grass,128,G,20070625,48,201211,18,,Kyra Nagy,R,,HUN,29.4,201434,,,Sabine Klaschka,R,,GER,26.8,6-7(2) 7-6(2) 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,145,218,256,101
 2007-W-SL-GBR-01A-2007,Wimbledon,Grass,128,G,20070625,49,201497,1,,Agnes Szavay,R,168,HUN,18.4,201433,,WC,Sarah Borwell,R,,GBR,27.8,6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,72,409,264,98
@@ -13149,7 +13149,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-SL-GBR-01A-2007,Wimbledon,Grass,128,G,20070625,68,200121,,,Alina Jidkova,R,168,RUS,30.4,201410,,,Monique Adamczak,R,170,AUS,24.4,7-6(2) 7-6(5),3,Q2,,,,,,,,,,,,,,,,,,,,173,177,202,149
 2007-W-SL-GBR-01A-2007,Wimbledon,Grass,128,G,20070625,69,201475,11,,Ahsha Rolle,R,172,USA,22.2,201480,,,Lioudmila Skavronskaia,R,,RUS,27.2,7-6(4) 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,119,266,198,151
 2007-W-SL-GBR-01A-2007,Wimbledon,Grass,128,G,20070625,70,201459,,,Zi Yan,R,171,CHN,22.6,201571,,,Masa Zec Peskiric,R,,SLO,20.4,6-2 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,197,152,194,153
-2007-W-SL-GBR-01A-2007,Wimbledon,Grass,128,G,20070625,71,201505,,,Ekaterina Makarova,L,178,RUS,19.0,200068,12,,Lilia Osterloh,R,170,USA,29.2,7-6(1) 7-6(6),3,Q2,,,,,,,,,,,,,,,,,,,,179,171,113,274
+2007-W-SL-GBR-01A-2007,Wimbledon,Grass,128,G,20070625,71,201505,,,Kate Makarova,L,178,RUS,19.0,200068,12,,Lilia Osterloh,R,170,USA,29.2,7-6(1) 7-6(6),3,Q2,,,,,,,,,,,,,,,,,,,,179,171,113,274
 2007-W-SL-GBR-01A-2007,Wimbledon,Grass,128,G,20070625,72,201366,,,Barbora Strycova,R,164,CZE,21.2,201211,18,,Kyra Nagy,R,,HUN,29.4,7-6(6) 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,152,207,145,218
 2007-W-SL-GBR-01A-2007,Wimbledon,Grass,128,G,20070625,73,201497,1,,Agnes Szavay,R,168,HUN,18.4,201454,24,,Akgul Amanmuradova,R,190,UZB,23.0,6-1 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,72,409,141,227
 2007-W-SL-GBR-01A-2007,Wimbledon,Grass,128,G,20070625,74,200062,,,Kristina Brandi,R,168,PUR,30.2,201463,,,Anda Perianu,R,170,ROU,27.2,6-1 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,204,142,221,124
@@ -13162,7 +13162,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-SL-GBR-01A-2007,Wimbledon,Grass,128,G,20070625,81,201309,,WC,Tatiana Perebiynis,R,173,UKR,24.5,200773,,,Stephanie Foretz Gacon,R,166,FRA,26.1,6-2 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,201,149,140,227
 2007-W-SL-GBR-01A-2007,Wimbledon,Grass,128,G,20070625,82,201453,,,Hana Sromova,R,168,CZE,29.2,200121,,,Alina Jidkova,R,168,RUS,30.4,6-4 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,170,181,173,177
 2007-W-SL-GBR-01A-2007,Wimbledon,Grass,128,G,20070625,83,201459,,,Zi Yan,R,171,CHN,22.6,201475,11,,Ahsha Rolle,R,172,USA,22.2,7-6(7) 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,197,152,119,266
-2007-W-SL-GBR-01A-2007,Wimbledon,Grass,128,G,20070625,84,201366,,,Barbora Strycova,R,164,CZE,21.2,201505,,,Ekaterina Makarova,L,178,RUS,19.0,2-6 7-6(4) 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,152,207,179,171
+2007-W-SL-GBR-01A-2007,Wimbledon,Grass,128,G,20070625,84,201366,,,Barbora Strycova,R,164,CZE,21.2,201505,,,Kate Makarova,L,178,RUS,19.0,2-6 7-6(4) 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,152,207,179,171
 2007-W-SL-USA-01A-2007,US Open,Hard,128,G,20070827,1,201309,,,Tatiana Perebiynis,R,173,UKR,24.6,200068,1,,Lilia Osterloh,R,170,USA,29.3,0-6 7-5 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,160,203,74,410
 2007-W-SL-USA-01A-2007,US Open,Hard,128,G,20070827,2,201521,,,Carla Suarez Navarro,R,162,ESP,18.9,200709,,,Rossana De Los Rios,R,170,PAR,31.9,6-0 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,174,182,150,218
 2007-W-SL-USA-01A-2007,US Open,Hard,128,G,20070827,3,202376,,,Raquel Kops Jones,R,,USA,24.7,201571,,,Masa Zec Peskiric,R,,SLO,20.5,6-3 2-6 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,181,173,187,165
@@ -13217,7 +13217,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-SL-USA-01A-2007,US Open,Hard,128,G,20070827,52,201211,29,,Kyra Nagy,R,,HUN,29.6,201467,,,Ivana Abramovic,R,175,CRO,23.9,3-6 6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,137,245,243,113
 2007-W-SL-USA-01A-2007,US Open,Hard,128,G,20070827,53,200773,14,,Stephanie Foretz Gacon,R,166,FRA,26.3,202371,,WC,Lindsey Nelson,R,,USA,21.7,7-6(5) 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,117,292,448,39
 2007-W-SL-USA-01A-2007,US Open,Hard,128,G,20070827,54,201579,,,Yurika Sema,L,168,JPN,20.6,201622,,,Iryna Bremond,R,,FRA,22.8,6-7(5) 4-4 RET,3,Q1,,,,,,,,,,,,,,,,,,,,209,135,244,111
-2007-W-SL-USA-01A-2007,US Open,Hard,128,G,20070827,55,201505,,,Ekaterina Makarova,L,178,RUS,19.2,201469,,,Melanie South,R,175,GBR,21.3,4-6 6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,156,205,228,119
+2007-W-SL-USA-01A-2007,US Open,Hard,128,G,20070827,55,201505,,,Kate Makarova,L,178,RUS,19.2,201469,,,Melanie South,R,175,GBR,21.3,4-6 6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,156,205,228,119
 2007-W-SL-USA-01A-2007,US Open,Hard,128,G,20070827,56,201608,,,Sheng Nan Sun,L,170,CHN,20.5,201396,28,,Katie Obrien,R,167,GBR,21.3,6-3 6-7(5) 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,255,104,136,249
 2007-W-SL-USA-01A-2007,US Open,Hard,128,G,20070827,57,201339,15,,Renata Voracova,R,,CZE,23.8,202359,,,Chin Wei Chan,R,169,TPE,22.6,6-4 7-6(4),3,Q1,,,,,,,,,,,,,,,,,,,,119,288,201,142
 2007-W-SL-USA-01A-2007,US Open,Hard,128,G,20070827,58,201377,,,Yuliya Beygelzimer,R,174,UKR,23.8,200107,,,Paola Suarez,R,170,ARG,31.1,1-6 6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,178,179,226,120
@@ -13254,7 +13254,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-SL-USA-01A-2007,US Open,Hard,128,G,20070827,89,201708,,,Natalie Grandin,L,175,RSA,26.4,201300,13,,Maria Emilia Salerni,R,174,ARG,24.2,6-7(6) 6-2 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,211,132,116,293
 2007-W-SL-USA-01A-2007,US Open,Hard,128,G,20070827,90,201211,29,,Kyra Nagy,R,,HUN,29.6,201499,,WC,Anastasia Pavlyuchenkova,R,177,RUS,16.1,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,137,245,290,85
 2007-W-SL-USA-01A-2007,US Open,Hard,128,G,20070827,91,200773,14,,Stephanie Foretz Gacon,R,166,FRA,26.3,201579,,,Yurika Sema,L,168,JPN,20.6,6-2 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,117,292,209,135
-2007-W-SL-USA-01A-2007,US Open,Hard,128,G,20070827,92,201505,,,Ekaterina Makarova,L,178,RUS,19.2,201608,,,Sheng Nan Sun,L,170,CHN,20.5,6-3 7-6(3),3,Q2,,,,,,,,,,,,,,,,,,,,156,205,255,104
+2007-W-SL-USA-01A-2007,US Open,Hard,128,G,20070827,92,201505,,,Kate Makarova,L,178,RUS,19.2,201608,,,Sheng Nan Sun,L,170,CHN,20.5,6-3 7-6(3),3,Q2,,,,,,,,,,,,,,,,,,,,156,205,255,104
 2007-W-SL-USA-01A-2007,US Open,Hard,128,G,20070827,93,201339,15,,Renata Voracova,R,,CZE,23.8,201377,,,Yuliya Beygelzimer,R,174,UKR,23.8,6-0 3-1 RET,3,Q2,,,,,,,,,,,,,,,,,,,,119,288,178,179
 2007-W-SL-USA-01A-2007,US Open,Hard,128,G,20070827,94,201510,,,Julie Ditty,L,168,USA,28.6,201590,,WC,Alison Riske Amritraj,R,173,USA,17.1,6-2 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,157,204,,
 2007-W-SL-USA-01A-2007,US Open,Hard,128,G,20070827,95,201477,16,,Stephanie Dubois,R,162,CAN,20.8,202353,,,Maria Jose Argeri,R,,ARG,23.1,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,120,288,221,123
@@ -13272,7 +13272,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-SL-USA-01A-2007,US Open,Hard,128,G,20070827,107,200746,11,,Sandra Kloesel,R,173,GER,28.1,201471,,,Naomi Cavaday,L,170,GBR,18.3,4-6 6-1 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,113,297,210,132
 2007-W-SL-USA-01A-2007,US Open,Hard,128,G,20070827,108,201488,12,,Jorgelina Cravero,R,163,ARG,25.5,201349,25,,Melinda Czink,L,178,HUN,24.8,6-3 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,114,296,133,259
 2007-W-SL-USA-01A-2007,US Open,Hard,128,G,20070827,109,201211,29,,Kyra Nagy,R,,HUN,29.6,201708,,,Natalie Grandin,L,175,RSA,26.4,7-6(6) 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,137,245,211,132
-2007-W-SL-USA-01A-2007,US Open,Hard,128,G,20070827,110,201505,,,Ekaterina Makarova,L,178,RUS,19.2,200773,14,,Stephanie Foretz Gacon,R,166,FRA,26.3,6-2 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,156,205,117,292
+2007-W-SL-USA-01A-2007,US Open,Hard,128,G,20070827,110,201505,,,Kate Makarova,L,178,RUS,19.2,200773,14,,Stephanie Foretz Gacon,R,166,FRA,26.3,6-2 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,156,205,117,292
 2007-W-SL-USA-01A-2007,US Open,Hard,128,G,20070827,111,201339,15,,Renata Voracova,R,,CZE,23.8,201510,,,Julie Ditty,L,168,USA,28.6,6-3 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,119,288,157,204
 2007-W-SL-USA-01A-2007,US Open,Hard,128,G,20070827,112,201450,24,,Tsvetana Pironkova,R,180,BUL,19.9,201477,16,,Stephanie Dubois,R,162,CAN,20.8,7-6(5) 1-6 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,130,260,120,288
 2007-W-T1-CAN-01A-2007,Toronto,Hard,56,T1,20070813,1,201281,1,,Laura Granville,R,175,USA,26.2,202341,,WC,Melanie Gloria,R,,CAN,20.1,6-2 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,62,477,678,16
@@ -13392,7 +13392,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-T1-RUS-01A-2007,Moscow,Hard,28,T1,20071008,6,201309,,,Tatiana Perebiynis,R,173,UKR,24.8,201515,,,Alisa Kleybanova,R,181,RUS,18.2,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,130,277,163,194
 2007-W-T1-RUS-01A-2007,Moscow,Hard,28,T1,20071008,7,201448,,,Galina Voskoboeva,R,183,KAZ,22.8,200554,,,Brenda Schultz Mccarthy,R,188,NED,36.7,7-5 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,132,270,193,149
 2007-W-T1-RUS-01A-2007,Moscow,Hard,28,T1,20071008,8,201584,,WC,Ksenia Pervak,L,170,KAZ,16.3,201284,7,,Tatiana Poutchek,R,176,BLR,28.7,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,325,67,96,370
-2007-W-T1-RUS-01A-2007,Moscow,Hard,28,T1,20071008,9,200008,3,,Alicia Molik,R,182,AUS,26.6,201505,,,Ekaterina Makarova,L,178,RUS,19.3,6-2 4-6 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,70,437,111,312
+2007-W-T1-RUS-01A-2007,Moscow,Hard,28,T1,20071008,9,200008,3,,Alicia Molik,R,182,AUS,26.6,201505,,,Kate Makarova,L,178,RUS,19.3,6-2 4-6 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,70,437,111,312
 2007-W-T1-RUS-01A-2007,Moscow,Hard,28,T1,20071008,10,201462,,,Alberta Brianti,R,165,ITA,27.5,202830,,,Eugenia Grebenyuk,R,,RUS,19.6,5-7 7-6(7) 5-0 RET,3,Q1,,,,,,,,,,,,,,,,,,,,148,234,253,102
 2007-W-T1-RUS-01A-2007,Moscow,Hard,28,T1,20071008,11,201516,,,Evgeniya Rodina,R,170,RUS,18.6,201499,,WC,Anastasia Pavlyuchenkova,R,177,RUS,16.2,2-6 6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,150,223,254,100
 2007-W-T1-RUS-01A-2007,Moscow,Hard,28,T1,20071008,12,201532,,WC,Anastasia Pivovarova,R,181,RUS,17.3,201331,8,,Iveta Benesova,L,170,CZE,24.6,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,242,111,103,332
@@ -13549,7 +13549,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-T1-USA-04A-2007,San Diego,Hard,56,T1,20070730,11,201333,,,Angelika Roesch,R,172,GER,30.1,201318,6,,Bethanie Mattek Sands,R,168,USA,22.3,6-4 3-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,210,130,96,329
 2007-W-T1-USA-04A-2007,San Diego,Hard,56,T1,20070730,12,200124,15,,Anne Kremer,R,165,LUX,31.7,200554,,,Brenda Schultz Mccarthy,R,188,NED,36.5,3-6 6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,125,268,201,148
 2007-W-T1-USA-04A-2007,San Diego,Hard,56,T1,20070730,13,201501,7,,Olga Govortsova,R,182,BLR,18.9,200697,,WC,Janette Husarova,R,169,SVK,33.1,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,70,409,654,17
-2007-W-T1-USA-04A-2007,San Diego,Hard,56,T1,20070730,14,201453,14,,Hana Sromova,R,168,CZE,29.3,201505,,,Ekaterina Makarova,L,178,RUS,19.1,6-3 5-7 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,124,270,165,191
+2007-W-T1-USA-04A-2007,San Diego,Hard,56,T1,20070730,14,201453,14,,Hana Sromova,R,168,CZE,29.3,201505,,,Kate Makarova,L,178,RUS,19.1,6-3 5-7 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,124,270,165,191
 2007-W-T1-USA-04A-2007,San Diego,Hard,56,T1,20070730,15,200068,8,,Lilia Osterloh,R,170,USA,29.3,201588,,,Anna Tatishvili,R,171,GEO,17.4,6-3 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,80,382,289,85
 2007-W-T1-USA-04A-2007,San Diego,Hard,56,T1,20070730,16,201385,13,,Yuliana Fedak,R,166,UKR,24.1,200083,,,Alexandra Stevenson,R,185,USA,26.6,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,126,261,443,39
 2007-W-T1-USA-04A-2007,San Diego,Hard,56,T1,20070730,17,201411,1,,Aiko Nakamura,R,163,JPN,23.5,201460,16,,Meng Yuan,U,,CHN,21.2,6-0 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,61,479,142,228
@@ -13759,7 +13759,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-T2-LUX-01A-2007,Luxembourg,Hard,28,T2,20070924,4,201450,8,,Tsvetana Pironkova,R,180,BUL,20.0,201456,,,Olga Savchuk,R,175,UKR,20.0,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,78,412,112,316
 2007-W-T2-LUX-01A-2007,Luxembourg,Hard,28,T2,20070924,5,201435,2,,Kateryna Bondarenko,R,175,UKR,21.1,209409,,WC,Lynn Blau,R,,LUX,18.1,6-2 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,45,605,,
 2007-W-T2-LUX-01A-2007,Luxembourg,Hard,28,T2,20070924,6,201465,,,Kirsten Flipkens,R,165,BEL,21.7,201492,,,Andrea Petkovic,R,180,GER,20.0,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,307,76,98,354
-2007-W-T2-LUX-01A-2007,Luxembourg,Hard,28,T2,20070924,7,201505,,,Ekaterina Makarova,L,178,RUS,19.2,201500,,,Nika Ozegovic,R,170,CRO,22.3,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,115,304,146,232
+2007-W-T2-LUX-01A-2007,Luxembourg,Hard,28,T2,20070924,7,201505,,,Kate Makarova,L,178,RUS,19.2,201500,,,Nika Ozegovic,R,170,CRO,22.3,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,115,304,146,232
 2007-W-T2-LUX-01A-2007,Luxembourg,Hard,28,T2,20070924,8,201490,,,Timea Bacsinszky,R,170,SUI,18.2,201308,5,,Maria Elena Camerin,R,164,ITA,25.5,1-6 6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,93,373,84,394
 2007-W-T2-LUX-01A-2007,Luxembourg,Hard,28,T2,20070924,9,201385,,,Yuliana Fedak,R,166,UKR,24.2,201498,3,,Karin Knapp,R,180,ITA,20.2,6-2 1-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,127,270,54,539
 2007-W-T2-LUX-01A-2007,Luxembourg,Hard,28,T2,20070924,10,201366,,,Barbora Strycova,R,164,CZE,21.4,201464,,,Nathalie Vierin,U,,ITA,24.9,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,152,219,176,175
@@ -13772,13 +13772,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-T2-LUX-01A-2007,Luxembourg,Hard,28,T2,20070924,17,201334,,,Zuzana Ondraskova,R,174,CZE,27.3,200068,9,,Lilia Osterloh,R,170,USA,29.4,6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,150,221,79,408
 2007-W-T2-LUX-01A-2007,Luxembourg,Hard,28,T2,20070924,18,201086,,,Greta Arn,R,180,HUN,28.4,201450,8,,Tsvetana Pironkova,R,180,BUL,20.0,6-4 3-6 7-6(7),3,Q2,,,,,,,,,,,,,,,,,,,,107,328,78,412
 2007-W-T2-LUX-01A-2007,Luxembourg,Hard,28,T2,20070924,19,201435,2,,Kateryna Bondarenko,R,175,UKR,21.1,201465,,,Kirsten Flipkens,R,165,BEL,21.7,3-6 6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,45,605,307,76
-2007-W-T2-LUX-01A-2007,Luxembourg,Hard,28,T2,20070924,20,201505,,,Ekaterina Makarova,L,178,RUS,19.2,201490,,,Timea Bacsinszky,R,170,SUI,18.2,6-1 2-6 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,115,304,93,373
+2007-W-T2-LUX-01A-2007,Luxembourg,Hard,28,T2,20070924,20,201505,,,Kate Makarova,L,178,RUS,19.2,201490,,,Timea Bacsinszky,R,170,SUI,18.2,6-1 2-6 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,115,304,93,373
 2007-W-T2-LUX-01A-2007,Luxembourg,Hard,28,T2,20070924,21,201385,,,Yuliana Fedak,R,166,UKR,24.2,201366,,,Barbora Strycova,R,164,CZE,21.4,3-6 6-2 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,127,270,152,219
 2007-W-T2-LUX-01A-2007,Luxembourg,Hard,28,T2,20070924,22,201344,,,Klara Koukalova,R,166,CZE,25.5,201331,,,Iveta Benesova,L,170,CZE,24.6,6-4 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,85,391,97,359
 2007-W-T2-LUX-01A-2007,Luxembourg,Hard,28,T2,20070924,23,213583,,,Tatjana Maria,R,172,GER,20.1,201309,,,Tatiana Perebiynis,R,173,UKR,24.7,6-4 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,109,327,130,267
 2007-W-T2-LUX-01A-2007,Luxembourg,Hard,28,T2,20070924,24,201504,,,Julia Goerges,R,180,GER,18.8,201518,,WC,Yanina Wickmayer,R,182,BEL,17.9,7-5 4-6 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,142,248,328,67
 2007-W-T2-LUX-01A-2007,Luxembourg,Hard,28,T2,20070924,25,201334,,,Zuzana Ondraskova,R,174,CZE,27.3,201086,,,Greta Arn,R,180,HUN,28.4,7-5 6-0,3,Q3,,,,,,,,,,,,,,,,,,,,150,221,107,328
-2007-W-T2-LUX-01A-2007,Luxembourg,Hard,28,T2,20070924,26,201435,2,,Kateryna Bondarenko,R,175,UKR,21.1,201505,,,Ekaterina Makarova,L,178,RUS,19.2,6-4 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,45,605,115,304
+2007-W-T2-LUX-01A-2007,Luxembourg,Hard,28,T2,20070924,26,201435,2,,Kateryna Bondarenko,R,175,UKR,21.1,201505,,,Kate Makarova,L,178,RUS,19.2,6-4 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,45,605,115,304
 2007-W-T2-LUX-01A-2007,Luxembourg,Hard,28,T2,20070924,27,201344,,,Klara Koukalova,R,166,CZE,25.5,201385,,,Yuliana Fedak,R,166,UKR,24.2,6-2 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,85,391,127,270
 2007-W-T2-LUX-01A-2007,Luxembourg,Hard,28,T2,20070924,28,201504,,,Julia Goerges,R,180,GER,18.8,213583,,,Tatjana Maria,R,172,GER,20.1,6-3 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,142,248,109,327
 2007-W-T2-POL-01A-2007,Warsaw,Clay,28,T2,20070430,1,201360,1,,Julia Vakulenko,R,183,UKR,23.8,201453,,,Hana Sromova,R,168,CZE,29.0,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,61,430,130,237
@@ -13928,7 +13928,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-T2-USA-03A-2007,Los Angeles,Hard,56,T2,20070806,9,201315,5,,Ashley Harkleroad,R,165,USA,22.2,201383,,,Marie Eve Pelletier,R,172,CAN,25.2,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,91,341,193,157
 2007-W-T2-USA-03A-2007,Los Angeles,Hard,56,T2,20070806,10,201453,16,,Hana Sromova,R,168,CZE,29.3,201307,,WC,Amber Liu,R,,USA,23.0,6-2 3-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,127,275,325,70
 2007-W-T2-USA-03A-2007,Los Angeles,Hard,56,T2,20070806,11,201318,6,,Bethanie Mattek Sands,R,168,USA,22.3,210065,,WC,Molly Scott,U,,USA,18.1,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,10,95,329,,
-2007-W-T2-USA-03A-2007,Los Angeles,Hard,56,T2,20070806,12,201505,,,Ekaterina Makarova,L,178,RUS,19.1,201454,10,,Akgul Amanmuradova,R,190,UZB,23.1,7-5 7-6(8),3,Q1,,,,,,,,,,,,,,,,,,,,168,191,106,316
+2007-W-T2-USA-03A-2007,Los Angeles,Hard,56,T2,20070806,12,201505,,,Kate Makarova,L,178,RUS,19.1,201454,10,,Akgul Amanmuradova,R,190,UZB,23.1,7-5 7-6(8),3,Q1,,,,,,,,,,,,,,,,,,,,168,191,106,316
 2007-W-T2-USA-03A-2007,Los Angeles,Hard,56,T2,20070806,13,201381,,,Tian Tian Sun,R,175,CHN,25.8,201506,7,,Sara Errani,R,164,ITA,20.2,6-7(7) 7-6(3) 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,135,253,102,323
 2007-W-T2-USA-03A-2007,Los Angeles,Hard,56,T2,20070806,14,201462,11,,Alberta Brianti,R,165,ITA,27.3,200776,,,Angelika Bachmann,R,,GER,28.2,6-1 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,112,301,164,198
 2007-W-T2-USA-03A-2007,Los Angeles,Hard,56,T2,20070806,15,201486,8,,Aleksandra Wozniak,R,175,CAN,19.9,202371,,WC,Lindsey Nelson,R,,USA,21.7,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,109,307,453,38
@@ -13938,7 +13938,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-T2-USA-03A-2007,Los Angeles,Hard,56,T2,20070806,19,200068,3,,Lilia Osterloh,R,170,USA,29.3,201376,,,Angela Haynes,L,173,USA,22.8,5-7 6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,81,387,207,133
 2007-W-T2-USA-03A-2007,Los Angeles,Hard,56,T2,20070806,20,201459,,,Zi Yan,R,171,CHN,22.7,203302,,WC,Natalie Frazier,U,,USA,22.3,5-7 6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,177,181,1039,5
 2007-W-T2-USA-03A-2007,Los Angeles,Hard,56,T2,20070806,21,201315,5,,Ashley Harkleroad,R,165,USA,22.2,201453,16,,Hana Sromova,R,168,CZE,29.3,7-6(5) 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,91,341,127,275
-2007-W-T2-USA-03A-2007,Los Angeles,Hard,56,T2,20070806,22,201505,,,Ekaterina Makarova,L,178,RUS,19.1,201318,6,,Bethanie Mattek Sands,R,168,USA,22.3,6-2 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,168,191,95,329
+2007-W-T2-USA-03A-2007,Los Angeles,Hard,56,T2,20070806,22,201505,,,Kate Makarova,L,178,RUS,19.1,201318,6,,Bethanie Mattek Sands,R,168,USA,22.3,6-2 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,168,191,95,329
 2007-W-T2-USA-03A-2007,Los Angeles,Hard,56,T2,20070806,23,201381,,,Tian Tian Sun,R,175,CHN,25.8,201462,11,,Alberta Brianti,R,165,ITA,27.3,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,135,253,112,301
 2007-W-T2-USA-03A-2007,Los Angeles,Hard,56,T2,20070806,24,201486,8,,Aleksandra Wozniak,R,175,CAN,19.9,200124,,,Anne Kremer,R,165,LUX,31.8,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,109,307,107,313
 2007-W-T2-USA-04A-2007,New Haven,Hard,28,T2,20070820,1,201497,1,,Agnes Szavay,R,168,HUN,18.6,212866,,WC,Carolyn Mcveigh,U,,USA,17.3,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,41,645,,
@@ -14306,7 +14306,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-T3-USA-01A-2007,Memphis,Hard,32,T3,20070219,8,201369,9,,Carly Gullickson,R,178,USA,20.2,201433,,,Sarah Borwell,R,,GBR,27.5,W/O,3,Q1,,,,,,,,,,,,,,,,,,,,202,137,215,124
 2007-W-T3-USA-01A-2007,Memphis,Hard,32,T3,20070219,9,201401,3,,Abigail Spears,R,175,USA,25.6,200554,,,Brenda Schultz Mccarthy,R,188,NED,36.1,6-1 3-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,138,218,250,101
 2007-W-T3-USA-01A-2007,Memphis,Hard,32,T3,20070219,10,202465,,,Maria Abramovic,R,,CRO,19.5,202417,,,Tetiana Luzhanska,R,,USA,22.4,6-3 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,359,53,384,47
-2007-W-T3-USA-01A-2007,Memphis,Hard,32,T3,20070219,11,200776,,,Angelika Bachmann,R,,GER,27.7,201505,,,Ekaterina Makarova,L,178,RUS,18.7,6-7(1) 7-6(8) 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,238,110,248,104
+2007-W-T3-USA-01A-2007,Memphis,Hard,32,T3,20070219,11,200776,,,Angelika Bachmann,R,,GER,27.7,201505,,,Kate Makarova,L,178,RUS,18.7,6-7(1) 7-6(8) 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,238,110,248,104
 2007-W-T3-USA-01A-2007,Memphis,Hard,32,T3,20070219,12,201541,,A,Chanelle Scheepers,R,176,RSA,22.9,201815,,,Petra Rampre,R,170,SLO,27.0,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,413,44,505,29
 2007-W-T3-USA-01A-2007,Memphis,Hard,32,T3,20070219,13,202266,,,Kelly Liggan,R,,IRL,28.0,201303,4,,Anne Keothavong,R,175,GBR,23.4,W/O,3,Q1,,,,,,,,,,,,,,,,,,,,229,116,155,179
 2007-W-T3-USA-01A-2007,Memphis,Hard,32,T3,20070219,14,202273,,,Liga Dekmeijere,R,171,LAT,23.7,211863,,WC,Marjorie Ondeck,U,,USA,18.8,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,330,63,,
@@ -14558,7 +14558,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-T4-POR-01A-2007,Estoril,Clay,32,T4,20070430,11,201622,,,Iryna Bremond,R,,FRA,22.5,201406,,,Shikha Uberoi,R,173,IND,24.0,6-0 3-0 RET,3,Q1,,,,,,,,,,,,,,,,,,,,212,130,239,107
 2007-W-T4-POR-01A-2007,Estoril,Clay,32,T4,20070430,12,201086,,,Greta Arn,R,180,HUN,28.0,201426,8,,Pauline Parmentier,R,175,FRA,21.2,7-5 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,176,166,148,205
 2007-W-T4-POR-01A-2007,Estoril,Clay,32,T4,20070430,13,201339,4,,Renata Voracova,R,,CZE,23.5,201209,,,Selima Sfar,R,166,TUN,29.8,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,123,245,174,168
-2007-W-T4-POR-01A-2007,Estoril,Clay,32,T4,20070430,14,201505,,,Ekaterina Makarova,L,178,RUS,18.8,207064,,WC,Katia Rodrigues,R,182,POR,25.4,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,199,141,,
+2007-W-T4-POR-01A-2007,Estoril,Clay,32,T4,20070430,14,201505,,,Kate Makarova,L,178,RUS,18.8,207064,,WC,Katia Rodrigues,R,182,POR,25.4,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,199,141,,
 2007-W-T4-POR-01A-2007,Estoril,Clay,32,T4,20070430,15,201367,,,Arantxa Parra Santonja,R,176,ESP,24.4,201456,,,Olga Savchuk,R,175,UKR,19.6,7-5 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,242,107,138,223
 2007-W-T4-POR-01A-2007,Estoril,Clay,32,T4,20070430,16,201470,5,,Kristina Barrois,R,183,GER,25.5,202620,,,Yuliya Kalabina,R,,RUS,17.0,3-6 6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,116,256,618,19
 2007-W-T4-POR-01A-2007,Estoril,Clay,32,T4,20070430,17,200751,,,Conchita Martinez Granados,R,,ESP,31.2,201491,,,Olivia Sanchez,R,172,FRA,24.4,7-5 4-0 RET,3,Q2,,,,,,,,,,,,,,,,,,,,198,141,171,170
@@ -14567,12 +14567,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2007-W-T4-POR-01A-2007,Estoril,Clay,32,T4,20070430,20,201500,,,Nika Ozegovic,R,170,CRO,21.9,201506,7,,Sara Errani,R,164,ITA,20.0,6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,267,92,147,206
 2007-W-T4-POR-01A-2007,Estoril,Clay,32,T4,20070430,21,201440,3,,Laura Pous Tio,U,173,ESP,22.5,202894,,,Justine Ozga,R,,GER,19.2,2-6 6-2 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,128,237,319,67
 2007-W-T4-POR-01A-2007,Estoril,Clay,32,T4,20070430,22,201086,,,Greta Arn,R,180,HUN,28.0,201622,,,Iryna Bremond,R,,FRA,22.5,6-0 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,176,166,212,130
-2007-W-T4-POR-01A-2007,Estoril,Clay,32,T4,20070430,23,201505,,,Ekaterina Makarova,L,178,RUS,18.8,201339,4,,Renata Voracova,R,,CZE,23.5,7-5 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,199,141,123,245
+2007-W-T4-POR-01A-2007,Estoril,Clay,32,T4,20070430,23,201505,,,Kate Makarova,L,178,RUS,18.8,201339,4,,Renata Voracova,R,,CZE,23.5,7-5 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,199,141,123,245
 2007-W-T4-POR-01A-2007,Estoril,Clay,32,T4,20070430,24,201367,,,Arantxa Parra Santonja,R,176,ESP,24.4,201470,5,,Kristina Barrois,R,183,GER,25.5,4-6 7-6(2) 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,242,107,116,256
 2007-W-T4-POR-01A-2007,Estoril,Clay,32,T4,20070430,25,201366,6,,Barbora Strycova,R,164,CZE,21.0,200751,,,Conchita Martinez Granados,R,,ESP,31.2,3-6 6-0 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,131,234,198,141
 2007-W-T4-POR-01A-2007,Estoril,Clay,32,T4,20070430,26,201500,,,Nika Ozegovic,R,170,CRO,21.9,202864,,,Amina Rakhim,R,,KAZ,18.1,6-2 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,267,92,326,62
 2007-W-T4-POR-01A-2007,Estoril,Clay,32,T4,20070430,27,201086,,,Greta Arn,R,180,HUN,28.0,201440,3,,Laura Pous Tio,U,173,ESP,22.5,6-1 7-5,3,Q3,,,,,,,,,,,,,,,,,,,,176,166,128,237
-2007-W-T4-POR-01A-2007,Estoril,Clay,32,T4,20070430,28,201367,,,Arantxa Parra Santonja,R,176,ESP,24.4,201505,,,Ekaterina Makarova,L,178,RUS,18.8,7-6(3) 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,242,107,199,141
+2007-W-T4-POR-01A-2007,Estoril,Clay,32,T4,20070430,28,201367,,,Arantxa Parra Santonja,R,176,ESP,24.4,201505,,,Kate Makarova,L,178,RUS,18.8,7-6(3) 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,242,107,199,141
 2007-W-T4-SLO-01A-2007,Portoroz,Hard,32,T4,20070917,1,201339,1,,Renata Voracova,R,,CZE,23.9,202553,,,Stamatia Fafaliou,U,,GRE,20.8,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,110,316,676,16
 2007-W-T4-SLO-01A-2007,Portoroz,Hard,32,T4,20070917,2,201556,,,Lucie Hradecka,R,177,CZE,22.3,202261,,,Joanna Sakowicz Kostecka,R,,POL,23.3,4-6 5-1 RET,3,Q1,,,,,,,,,,,,,,,,,,,,240,112,326,68
 2007-W-T4-SLO-01A-2007,Portoroz,Hard,32,T4,20070917,3,202347,,,Karolina Kosinska,R,,POL,21.2,201567,,,Alexandra Dulgheru,R,172,ROU,18.2,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,338,64,251,102

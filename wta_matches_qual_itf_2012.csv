@@ -838,7 +838,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-AUT-01A-2012,Bad Waltersdorf 10K,Clay,32,10,20120723,3,203284,,,Katerina Vankova,L,,CZE,22.5,206389,,,Domenica Gonzalez,R,,ECU,16.4,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,579,45,682,31
 2012-W-C10-AUT-01A-2012,Bad Waltersdorf 10K,Clay,32,10,20120723,4,204265,6,,Martina Borecka,R,,CZE,21.1,206222,,Q,Madeline Bosnjak,U,,GER,16.8,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,515,56,1186,3
 2012-W-C10-AUT-01A-2012,Bad Waltersdorf 10K,Clay,32,10,20120723,5,202621,4,,Elixane Lechemia,L,,FRA,20.8,211772,,Q,Ina Kaufinger,U,,GER,18.7,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,492,62,,
-2012-W-C10-AUT-01A-2012,Bad Waltersdorf 10K,Clay,32,10,20120723,6,210741,,,Iva Mekovec,R,,CRO,17.4,211329,,,Tena Lukas,U,,CRO,17.2,7-5 0-6 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,718,28,708,29
+2012-W-C10-AUT-01A-2012,Bad Waltersdorf 10K,Clay,32,10,20120723,6,210741,,,Iva Mekovec,R,,CRO,17.4,211329,,,Tena Lukas,R,,CRO,17.2,7-5 0-6 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,718,28,708,29
 2012-W-C10-AUT-01A-2012,Bad Waltersdorf 10K,Clay,32,10,20120723,7,206145,,,Diana Sumova,U,,CZE,17.8,211773,,Q,Silvia Tumova,U,,SVK,19.2,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,781,23,,
 2012-W-C10-AUT-01A-2012,Bad Waltersdorf 10K,Clay,32,10,20120723,8,202605,5,,Julia Mayr,R,,ITA,20.9,203352,,,Jasmina Kajtazovic,R,,BIH,21.4,7-6(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,540,52,933,13
 2012-W-C10-AUT-01A-2012,Bad Waltersdorf 10K,Clay,32,10,20120723,9,203531,,,Klara Fabikova,R,,CZE,18.7,202640,8,,Irina Ramialison,R,158,FRA,21.1,7-6(5) 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,713,28,563,47
@@ -904,7 +904,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-AUT-03A-2012,Innsbruck 10K,Clay,32,10,20120813,7,204263,,,Janina Toljan,R,,AUT,22.3,203524,,,Morgane Pons,R,,FRA,20.3,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,596,43,621,41
 2012-W-C10-AUT-03A-2012,Innsbruck 10K,Clay,32,10,20120813,8,206248,,Q,Iva Primorac,U,,CRO,16.3,203349,7,,Milana Spremo,R,,SRB,20.7,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,569,48
 2012-W-C10-AUT-03A-2012,Innsbruck 10K,Clay,32,10,20120813,9,202464,5,,Yuliana Lizarazo,R,175,COL,19.2,206034,,Q,Katerina Kaminkova,R,,CZE,18.5,6-2 5-7 7-5,3,R32,,,,,,,,,,,,,,,,,,,,430,80,,
-2012-W-C10-AUT-03A-2012,Innsbruck 10K,Clay,32,10,20120813,10,203468,,LL,Alexandra Grinchishina,U,,KAZ,16.8,211329,,,Tena Lukas,U,,CRO,17.2,6-2 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,1124,5,708,30
+2012-W-C10-AUT-03A-2012,Innsbruck 10K,Clay,32,10,20120813,10,203468,,LL,Alexandra Grinchishina,U,,KAZ,16.8,211329,,,Tena Lukas,R,,CRO,17.2,6-2 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,1124,5,708,30
 2012-W-C10-AUT-03A-2012,Innsbruck 10K,Clay,32,10,20120813,11,202482,,,Barbara Haas,R,165,AUT,16.4,203326,,,Lisa Sabino,U,,SUI,26.0,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,653,35,626,40
 2012-W-C10-AUT-03A-2012,Innsbruck 10K,Clay,32,10,20120813,12,203457,,Q,Polona Rebersak,U,,SLO,25.5,203555,4,,Mai Minokoshi,U,,JPN,20.3,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1063,7,390,100
 2012-W-C10-AUT-03A-2012,Innsbruck 10K,Clay,32,10,20120813,13,211814,,WC,Julia Grabher,R,170,AUT,16.1,203368,6,,Jasmin Steinherr,R,,GER,23.7,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,551,51
@@ -930,7 +930,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-AUT-04A-2012,Portschach 10K,Clay,32,10,20120820,2,206115,,,Carolina Prats Millan,R,,ESP,19.8,206047,,Q,Carlotta Orlando,R,,ITA,18.9,5-7 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,693,32,1176,3
 2012-W-C10-AUT-04A-2012,Portschach 10K,Clay,32,10,20120820,3,204384,,Q,Agnes Bukta,R,,HUN,18.8,210758,,Q,Francesca Fusinato,U,,ITA,18.1,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1017,9,1047,8
 2012-W-C10-AUT-04A-2012,Portschach 10K,Clay,32,10,20120820,4,205647,,,Tereza Malikova,R,,CZE,21.1,204383,8,,Beatrice Cedermark,R,,SWE,19.5,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,690,32,621,40
-2012-W-C10-AUT-04A-2012,Portschach 10K,Clay,32,10,20120820,5,211329,,,Tena Lukas,U,,CRO,17.2,203368,4,,Jasmin Steinherr,R,,GER,23.7,6-3 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,710,30,568,48
+2012-W-C10-AUT-04A-2012,Portschach 10K,Clay,32,10,20120820,5,211329,,,Tena Lukas,R,,CRO,17.2,203368,4,,Jasmin Steinherr,R,,GER,23.7,6-3 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,710,30,568,48
 2012-W-C10-AUT-04A-2012,Portschach 10K,Clay,32,10,20120820,6,210500,,,Karla Popovic,U,,CRO,16.9,210741,,,Iva Mekovec,R,,CRO,17.4,7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,613,41,721,29
 2012-W-C10-AUT-04A-2012,Portschach 10K,Clay,32,10,20120820,7,206175,,,Tess Sugnaux,R,,SUI,17.4,211814,,WC,Julia Grabher,R,170,AUT,16.1,3-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,894,15,,
 2012-W-C10-AUT-04A-2012,Portschach 10K,Clay,32,10,20120820,8,204263,7,,Janina Toljan,R,,AUT,22.4,206145,,,Diana Sumova,U,,CZE,17.9,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,626,39,842,18
@@ -944,14 +944,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-AUT-04A-2012,Portschach 10K,Clay,32,10,20120820,16,210223,,Q,Natasha Bredl,R,,AUT,21.0,203546,2,,Anja Prislan,R,,SLO,26.6,3-6 6-2 7-6(9),3,R32,,,,,,,,,,,,,,,,,,,,,,486,65
 2012-W-C10-AUT-04A-2012,Portschach 10K,Clay,32,10,20120820,17,206027,1,,Angelica Moratelli,R,173,ITA,18.0,206115,,,Carolina Prats Millan,R,,ESP,19.8,6-0 7-5,3,R16,,,,,,,,,,,,,,,,,,,,477,67,693,32
 2012-W-C10-AUT-04A-2012,Portschach 10K,Clay,32,10,20120820,18,204384,,Q,Agnes Bukta,R,,HUN,18.8,205647,,,Tereza Malikova,R,,CZE,21.1,6-7(7) 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1017,9,690,32
-2012-W-C10-AUT-04A-2012,Portschach 10K,Clay,32,10,20120820,19,211329,,,Tena Lukas,U,,CRO,17.2,210500,,,Karla Popovic,U,,CRO,16.9,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,710,30,613,41
+2012-W-C10-AUT-04A-2012,Portschach 10K,Clay,32,10,20120820,19,211329,,,Tena Lukas,R,,CRO,17.2,210500,,,Karla Popovic,U,,CRO,16.9,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,710,30,613,41
 2012-W-C10-AUT-04A-2012,Portschach 10K,Clay,32,10,20120820,20,204263,7,,Janina Toljan,R,,AUT,22.4,206175,,,Tess Sugnaux,R,,SUI,17.4,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,626,39,894,15
 2012-W-C10-AUT-04A-2012,Portschach 10K,Clay,32,10,20120820,21,204352,6,,Yvonne Neuwirth,U,,AUT,20.0,202631,,,Lara Michel,L,173,SUI,20.6,6-7(2) 7-6(10) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,569,47,956,12
 2012-W-C10-AUT-04A-2012,Portschach 10K,Clay,32,10,20120820,22,206248,,Q,Iva Primorac,U,,CRO,16.3,202435,3,,Vanda Lukacs,U,,HUN,19.6,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,543,52
 2012-W-C10-AUT-04A-2012,Portschach 10K,Clay,32,10,20120820,23,203349,5,,Milana Spremo,R,,SRB,20.7,211423,,Q,Lenka Kuncikova,U,,CZE,17.0,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,567,48,,
 2012-W-C10-AUT-04A-2012,Portschach 10K,Clay,32,10,20120820,24,204390,,WC,Pia Konig,R,,AUT,19.2,210223,,Q,Natasha Bredl,R,,AUT,21.0,6-4 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1139,4,,
 2012-W-C10-AUT-04A-2012,Portschach 10K,Clay,32,10,20120820,25,204384,,Q,Agnes Bukta,R,,HUN,18.8,206027,1,,Angelica Moratelli,R,173,ITA,18.0,4-6 6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1017,9,477,67
-2012-W-C10-AUT-04A-2012,Portschach 10K,Clay,32,10,20120820,26,204263,7,,Janina Toljan,R,,AUT,22.4,211329,,,Tena Lukas,U,,CRO,17.2,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,626,39,710,30
+2012-W-C10-AUT-04A-2012,Portschach 10K,Clay,32,10,20120820,26,204263,7,,Janina Toljan,R,,AUT,22.4,211329,,,Tena Lukas,R,,CRO,17.2,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,626,39,710,30
 2012-W-C10-AUT-04A-2012,Portschach 10K,Clay,32,10,20120820,27,204352,6,,Yvonne Neuwirth,U,,AUT,20.0,206248,,Q,Iva Primorac,U,,CRO,16.3,4-6 6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,569,47,,
 2012-W-C10-AUT-04A-2012,Portschach 10K,Clay,32,10,20120820,28,203349,5,,Milana Spremo,R,,SRB,20.7,204390,,WC,Pia Konig,R,,AUT,19.2,6-2 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,567,48,1139,4
 2012-W-C10-AUT-04A-2012,Portschach 10K,Clay,32,10,20120820,29,204263,7,,Janina Toljan,R,,AUT,22.4,204384,,Q,Agnes Bukta,R,,HUN,18.8,6-3 7-6(4),3,SF,,,,,,,,,,,,,,,,,,,,626,39,1017,9
@@ -1833,7 +1833,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-CRO-01A-2012,Hvar 10K,Clay,32,10,20120409,10,206124,,,Tereza Martincova,R,178,CZE,17.4,204318,,LL,Margarida Moura,R,,POR,18.6,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,693,32,755,25
 2012-W-C10-CRO-01A-2012,Hvar 10K,Clay,32,10,20120409,11,201407,,Q,Evgenia Linetskaya,R,,ISR,25.3,211330,,WC,Marlies Szupper,U,,AUT,16.8,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2012-W-C10-CRO-01A-2012,Hvar 10K,Clay,32,10,20120409,12,206035,,Q,Petra Rohanova,R,,CZE,16.6,201362,3,,Anais Laurendon,R,,FRA,26.9,0-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,421,90
-2012-W-C10-CRO-01A-2012,Hvar 10K,Clay,32,10,20120409,13,202657,5,,Dijana Banovec,R,,CRO,19.6,211329,,,Tena Lukas,U,,CRO,16.9,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,470,76,736,27
+2012-W-C10-CRO-01A-2012,Hvar 10K,Clay,32,10,20120409,13,202657,5,,Dijana Banovec,R,,CRO,19.6,211329,,,Tena Lukas,R,,CRO,16.9,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,470,76,736,27
 2012-W-C10-CRO-01A-2012,Hvar 10K,Clay,32,10,20120409,14,206070,,,Sofiya Kovalets,R,,UKR,17.7,211406,,WC,Gabriela Pantuckova,R,,CZE,17.1,2-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,632,40,,
 2012-W-C10-CRO-01A-2012,Hvar 10K,Clay,32,10,20120409,15,204384,,Q,Agnes Bukta,R,,HUN,18.4,205869,,Q,Alix Collombon,R,,FRA,19.0,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,810,22
 2012-W-C10-CRO-01A-2012,Hvar 10K,Clay,32,10,20120409,16,202362,2,,Teodora Mircic,R,168,SRB,24.1,205765,,,Dalia Zafirova,R,170,BUL,21.0,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,392,103,760,25
@@ -1859,7 +1859,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-CRO-02A-2012,Bol 10K,Clay,32,10,20120416,5,206420,,Q,Ekaterina Alexandrova,R,175,RUS,17.4,203546,4,,Anja Prislan,R,,SLO,26.3,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,533,60
 2012-W-C10-CRO-02A-2012,Bol 10K,Clay,32,10,20120416,6,206335,,,Jesika Maleckova,R,,CZE,17.6,211330,,WC,Marlies Szupper,U,,AUT,16.8,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,758,25,,
 2012-W-C10-CRO-02A-2012,Bol 10K,Clay,32,10,20120416,7,211068,,WC,Neda Koprcina,U,,CRO,17.3,204318,,,Margarida Moura,R,,POR,18.7,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,757,25
-2012-W-C10-CRO-02A-2012,Bol 10K,Clay,32,10,20120416,8,211329,,,Tena Lukas,U,,CRO,16.9,202689,7,,Vaszilisza Bulgakova,U,,HUN,19.1,5-7 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,737,27,586,49
+2012-W-C10-CRO-02A-2012,Bol 10K,Clay,32,10,20120416,8,211329,,,Tena Lukas,R,,CRO,16.9,202689,7,,Vaszilisza Bulgakova,U,,HUN,19.1,5-7 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,737,27,586,49
 2012-W-C10-CRO-02A-2012,Bol 10K,Clay,32,10,20120416,9,203384,,Q,Julia Parasyuk,U,,RUS,24.1,203280,6,,Gracia Radovanovic,R,,FRA,21.0,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,882,17,564,54
 2012-W-C10-CRO-02A-2012,Bol 10K,Clay,32,10,20120416,10,210500,,,Karla Popovic,U,,CRO,16.6,205954,,,Ivana Klepic,R,,CRO,21.1,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,762,25,776,24
 2012-W-C10-CRO-02A-2012,Bol 10K,Clay,32,10,20120416,11,206124,,,Tereza Martincova,R,178,CZE,17.4,211407,,Q,Dejana Radanovic,U,,SRB,15.9,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,694,32,,
@@ -1871,7 +1871,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-CRO-02A-2012,Bol 10K,Clay,32,10,20120416,17,201362,1,,Anais Laurendon,R,,FRA,27.0,202631,,Q,Lara Michel,L,173,SUI,20.3,6-3 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,421,90,,
 2012-W-C10-CRO-02A-2012,Bol 10K,Clay,32,10,20120416,18,205890,,,Barbara Sobaszkiewicz,R,,POL,21.4,202702,8,,Tereza Smitkova,R,176,CZE,17.5,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,679,34,579,51
 2012-W-C10-CRO-02A-2012,Bol 10K,Clay,32,10,20120416,19,206335,,,Jesika Maleckova,R,,CZE,17.6,206420,,Q,Ekaterina Alexandrova,R,175,RUS,17.4,3-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,758,25,,
-2012-W-C10-CRO-02A-2012,Bol 10K,Clay,32,10,20120416,20,211068,,WC,Neda Koprcina,U,,CRO,17.3,211329,,,Tena Lukas,U,,CRO,16.9,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,737,27
+2012-W-C10-CRO-02A-2012,Bol 10K,Clay,32,10,20120416,20,211068,,WC,Neda Koprcina,U,,CRO,17.3,211329,,,Tena Lukas,R,,CRO,16.9,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,737,27
 2012-W-C10-CRO-02A-2012,Bol 10K,Clay,32,10,20120416,21,210500,,,Karla Popovic,U,,CRO,16.6,203384,,Q,Julia Parasyuk,U,,RUS,24.1,3-6 7-6(6) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,762,25,882,17
 2012-W-C10-CRO-02A-2012,Bol 10K,Clay,32,10,20120416,22,206124,,,Tereza Martincova,R,178,CZE,17.4,203457,,Q,Polona Rebersak,U,,SLO,25.1,6-1 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,694,32,994,12
 2012-W-C10-CRO-02A-2012,Bol 10K,Clay,32,10,20120416,23,203428,5,,Vivien Juhaszova,R,,SVK,18.7,205869,,,Alix Collombon,R,,FRA,19.0,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,531,60,814,22
@@ -1889,7 +1889,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-CRO-03A-2012,Sibenik 10K,Clay,32,10,20120402,4,202432,5,,Hilda Melander,R,,SWE,20.3,211067,,WC,Blaga Delic,R,,CRO,16.2,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,485,71,,
 2012-W-C10-CRO-03A-2012,Sibenik 10K,Clay,32,10,20120402,5,202878,4,,Indire Akiki,R,,CRO,20.7,211602,,WC,Polina Ivanova,R,,RUS,15.2,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,447,82,,
 2012-W-C10-CRO-03A-2012,Sibenik 10K,Clay,32,10,20120402,6,205890,,,Barbara Sobaszkiewicz,R,,POL,21.4,211525,,Q,Ivana Vukovic,R,,CRO,18.8,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,678,34,1227,3
-2012-W-C10-CRO-03A-2012,Sibenik 10K,Clay,32,10,20120402,7,205954,,Q,Ivana Klepic,R,,CRO,21.1,211329,,,Tena Lukas,U,,CRO,16.8,6-1 4-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,833,20,735,27
+2012-W-C10-CRO-03A-2012,Sibenik 10K,Clay,32,10,20120402,7,205954,,Q,Ivana Klepic,R,,CRO,21.1,211329,,,Tena Lukas,R,,CRO,16.8,6-1 4-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,833,20,735,27
 2012-W-C10-CRO-03A-2012,Sibenik 10K,Clay,32,10,20120402,8,202917,,,Raluca Elena Platon,R,,ROU,18.8,203574,7,,Lisanne Van Riet,U,,NED,20.7,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,586,51,506,65
 2012-W-C10-CRO-03A-2012,Sibenik 10K,Clay,32,10,20120402,9,203460,6,,Martina Kubicikova,R,,CZE,20.3,206420,,Q,Ekaterina Alexandrova,R,175,RUS,17.3,6-3 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,501,66,,
 2012-W-C10-CRO-03A-2012,Sibenik 10K,Clay,32,10,20120402,10,203524,,,Morgane Pons,R,,FRA,19.9,205738,,,Karin Morgosova,U,,SVK,20.9,1-6 7-6(5) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,625,42,676,34
@@ -1916,7 +1916,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-CRO-03A-2012,Sibenik 10K,Clay,32,10,20120402,31,202878,4,,Indire Akiki,R,,CRO,20.7,206130,,Q,Tjasa Srimpf,U,,SLO,17.6,7-5 6-2,3,F,,,,,,,,,,,,,,,,,,,,447,82,777,24
 2012-W-C10-CRO-04A-2012,Osijek 10K,Clay,32,10,20120827,1,202832,1,,Katerina Kramperova,R,,CZE,23.6,211860,,Q,Dora Andrejszki,R,,HUN,19.4,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,345,133,,
 2012-W-C10-CRO-04A-2012,Osijek 10K,Clay,32,10,20120827,2,204267,,,Petra Krejsova,R,,CZE,22.1,204384,,SE,Agnes Bukta,R,,HUN,18.8,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,814,20,1014,9
-2012-W-C10-CRO-04A-2012,Osijek 10K,Clay,32,10,20120827,3,211329,,,Tena Lukas,U,,CRO,17.3,204438,,,Sabrina Bamburac,R,,GBR,19.2,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,790,22,876,15
+2012-W-C10-CRO-04A-2012,Osijek 10K,Clay,32,10,20120827,3,211329,,,Tena Lukas,R,,CRO,17.3,204438,,,Sabrina Bamburac,R,,GBR,19.2,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,790,22,876,15
 2012-W-C10-CRO-04A-2012,Osijek 10K,Clay,32,10,20120827,4,203428,5,,Vivien Juhaszova,R,,SVK,19.1,206034,,Q,Katerina Kaminkova,R,,CZE,18.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,605,42,,
 2012-W-C10-CRO-04A-2012,Osijek 10K,Clay,32,10,20120827,5,206248,,Q,Iva Primorac,U,,CRO,16.3,202435,4,,Vanda Lukacs,U,,HUN,19.7,3-6 6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1090,6,540,52
 2012-W-C10-CRO-04A-2012,Osijek 10K,Clay,32,10,20120827,6,206070,,Q,Sofiya Kovalets,R,,UKR,18.1,204249,,,Csilla Argyelan,R,,HUN,21.7,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,712,29,887,15
@@ -1931,7 +1931,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-CRO-04A-2012,Osijek 10K,Clay,32,10,20120827,15,205647,,,Tereza Malikova,R,,CZE,21.1,206340,,,Paula Mocete Talamantes,L,,ESP,19.2,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,642,36,867,16
 2012-W-C10-CRO-04A-2012,Osijek 10K,Clay,32,10,20120827,16,210672,,,Polina Leykina,R,,RUS,17.9,206186,,LL,Ekaterina Nikitina,R,,RUS,19.4,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,746,26,,
 2012-W-C10-CRO-04A-2012,Osijek 10K,Clay,32,10,20120827,17,202832,1,,Katerina Kramperova,R,,CZE,23.6,204267,,,Petra Krejsova,R,,CZE,22.1,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,345,133,814,20
-2012-W-C10-CRO-04A-2012,Osijek 10K,Clay,32,10,20120827,18,203428,5,,Vivien Juhaszova,R,,SVK,19.1,211329,,,Tena Lukas,U,,CRO,17.3,4-6 6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,605,42,790,22
+2012-W-C10-CRO-04A-2012,Osijek 10K,Clay,32,10,20120827,18,203428,5,,Vivien Juhaszova,R,,SVK,19.1,211329,,,Tena Lukas,R,,CRO,17.3,4-6 6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,605,42,790,22
 2012-W-C10-CRO-04A-2012,Osijek 10K,Clay,32,10,20120827,19,206248,,Q,Iva Primorac,U,,CRO,16.3,206070,,Q,Sofiya Kovalets,R,,UKR,18.1,3-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1090,6,712,29
 2012-W-C10-CRO-04A-2012,Osijek 10K,Clay,32,10,20120827,20,206252,,,Barbora Krejcikova,R,178,CZE,16.6,211265,,Q,Karolina Vlachova,U,,CZE,21.3,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,810,20,,
 2012-W-C10-CRO-04A-2012,Osijek 10K,Clay,32,10,20120827,21,210500,7,,Karla Popovic,U,,CRO,16.9,203543,,WC,Stefanie Vorih,R,,GER,15.7,6-7(3) 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,567,47,,
@@ -1980,7 +1980,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-CRO-07A-2012,Dubrovnik 10K,Clay,32,10,20121015,2,201699,,,Martina Caregaro,R,165,ITA,20.4,211068,,WC,Neda Koprcina,U,,CRO,17.8,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,596,42,861,16
 2012-W-C10-CRO-07A-2012,Dubrovnik 10K,Clay,32,10,20121015,3,206130,,WC,Tjasa Srimpf,U,,SLO,18.2,211562,,LL,Vladica Babic,U,,MNE,16.9,5-7 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,801,19,922,12
 2012-W-C10-CRO-07A-2012,Dubrovnik 10K,Clay,32,10,20121015,4,202435,5,,Vanda Lukacs,U,,HUN,19.8,203544,,Q,Petra Sunic,R,,CRO,23.6,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,503,59,,
-2012-W-C10-CRO-07A-2012,Dubrovnik 10K,Clay,32,10,20121015,5,211329,,,Tena Lukas,U,,CRO,17.4,202878,4,,Indire Akiki,R,,CRO,21.3,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,758,23,502,60
+2012-W-C10-CRO-07A-2012,Dubrovnik 10K,Clay,32,10,20121015,5,211329,,,Tena Lukas,R,,CRO,17.4,202878,4,,Indire Akiki,R,,CRO,21.3,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,758,23,502,60
 2012-W-C10-CRO-07A-2012,Dubrovnik 10K,Clay,32,10,20121015,6,211406,,Q,Gabriela Pantuckova,R,,CZE,17.6,203460,,,Martina Kubicikova,R,,CZE,20.8,7-5 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1158,3,560,49
 2012-W-C10-CRO-07A-2012,Dubrovnik 10K,Clay,32,10,20121015,7,206252,,Q,Barbora Krejcikova,R,178,CZE,16.8,202656,,Q,Estelle Cascino,R,,FRA,16.5,7-6(2) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,779,21,1021,8
 2012-W-C10-CRO-07A-2012,Dubrovnik 10K,Clay,32,10,20121015,8,206070,,Q,Sofiya Kovalets,R,,UKR,18.2,210500,8,,Karla Popovic,U,,CRO,17.1,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,844,17,555,50
@@ -1994,14 +1994,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-CRO-07A-2012,Dubrovnik 10K,Clay,32,10,20121015,16,201649,2,,Lenka Jurikova,R,,SVK,22.1,206183,,,Cindy Burger,R,,NED,19.8,6-2 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,449,77,660,33
 2012-W-C10-CRO-07A-2012,Dubrovnik 10K,Clay,32,10,20121015,17,202578,1,,Laura Ioana Andrei,R,173,ROU,24.3,201699,,,Martina Caregaro,R,165,ITA,20.4,7-6(8) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,318,149,596,42
 2012-W-C10-CRO-07A-2012,Dubrovnik 10K,Clay,32,10,20121015,18,202435,5,,Vanda Lukacs,U,,HUN,19.8,206130,,WC,Tjasa Srimpf,U,,SLO,18.2,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,503,59,801,19
-2012-W-C10-CRO-07A-2012,Dubrovnik 10K,Clay,32,10,20121015,19,211329,,,Tena Lukas,U,,CRO,17.4,211406,,Q,Gabriela Pantuckova,R,,CZE,17.6,6-3 0-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,758,23,1158,3
+2012-W-C10-CRO-07A-2012,Dubrovnik 10K,Clay,32,10,20121015,19,211329,,,Tena Lukas,R,,CRO,17.4,211406,,Q,Gabriela Pantuckova,R,,CZE,17.6,6-3 0-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,758,23,1158,3
 2012-W-C10-CRO-07A-2012,Dubrovnik 10K,Clay,32,10,20121015,20,206252,,Q,Barbora Krejcikova,R,178,CZE,16.8,206070,,Q,Sofiya Kovalets,R,,UKR,18.2,2-6 6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,779,21,844,17
 2012-W-C10-CRO-07A-2012,Dubrovnik 10K,Clay,32,10,20121015,21,205875,6,,Chantal Skamlova,R,,SVK,19.1,211095,,,Bernarda Pera,L,175,USA,17.8,0-6 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,506,59,664,32
 2012-W-C10-CRO-07A-2012,Dubrovnik 10K,Clay,32,10,20121015,22,210672,,,Polina Leykina,R,,RUS,18.0,201694,3,,Silvia Njiric,R,163,CRO,19.2,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,682,31,501,60
 2012-W-C10-CRO-07A-2012,Dubrovnik 10K,Clay,32,10,20121015,23,205738,7,,Karin Morgosova,U,,SVK,21.5,211951,,WC,Ana Konjuh,R,174,CRO,14.8,6-3 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,573,46,,
 2012-W-C10-CRO-07A-2012,Dubrovnik 10K,Clay,32,10,20121015,24,203457,,Q,Polona Rebersak,U,,SLO,25.6,201649,2,,Lenka Jurikova,R,,SVK,22.1,3-6 6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,802,19,449,77
 2012-W-C10-CRO-07A-2012,Dubrovnik 10K,Clay,32,10,20121015,25,202578,1,,Laura Ioana Andrei,R,173,ROU,24.3,202435,5,,Vanda Lukacs,U,,HUN,19.8,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,318,149,503,59
-2012-W-C10-CRO-07A-2012,Dubrovnik 10K,Clay,32,10,20121015,26,206252,,Q,Barbora Krejcikova,R,178,CZE,16.8,211329,,,Tena Lukas,U,,CRO,17.4,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,779,21,758,23
+2012-W-C10-CRO-07A-2012,Dubrovnik 10K,Clay,32,10,20121015,26,206252,,Q,Barbora Krejcikova,R,178,CZE,16.8,211329,,,Tena Lukas,R,,CRO,17.4,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,779,21,758,23
 2012-W-C10-CRO-07A-2012,Dubrovnik 10K,Clay,32,10,20121015,27,210672,,,Polina Leykina,R,,RUS,18.0,205875,6,,Chantal Skamlova,R,,SVK,19.1,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,682,31,506,59
 2012-W-C10-CRO-07A-2012,Dubrovnik 10K,Clay,32,10,20121015,28,205738,7,,Karin Morgosova,U,,SVK,21.5,203457,,Q,Polona Rebersak,U,,SLO,25.6,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,573,46,802,19
 2012-W-C10-CRO-07A-2012,Dubrovnik 10K,Clay,32,10,20121015,29,206252,,Q,Barbora Krejcikova,R,178,CZE,16.8,202578,1,,Laura Ioana Andrei,R,173,ROU,24.3,6-7(5) 6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,779,21,318,149
@@ -2019,7 +2019,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-CRO-08A-2012,Dubrovnik 10K,Clay,32,10,20121022,10,206070,,Q,Sofiya Kovalets,R,,UKR,18.2,205439,,Q,Giulia Bruzzone,L,,ITA,21.6,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,843,17,1126,4
 2012-W-C10-CRO-08A-2012,Dubrovnik 10K,Clay,32,10,20121022,11,211095,,,Bernarda Pera,L,175,USA,17.8,211068,,WC,Neda Koprcina,U,,CRO,17.8,1-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,676,31,841,17
 2012-W-C10-CRO-08A-2012,Dubrovnik 10K,Clay,32,10,20121022,12,201694,3,,Silvia Njiric,R,163,CRO,19.2,211966,,WC,Ksenia Gaydarzhi,R,,RUS,17.7,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,499,60,,
-2012-W-C10-CRO-08A-2012,Dubrovnik 10K,Clay,32,10,20121022,13,211329,,,Tena Lukas,U,,CRO,17.4,203460,8,,Martina Kubicikova,R,,CZE,20.8,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,765,23,501,60
+2012-W-C10-CRO-08A-2012,Dubrovnik 10K,Clay,32,10,20121022,13,211329,,,Tena Lukas,R,,CRO,17.4,203460,8,,Martina Kubicikova,R,,CZE,20.8,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,765,23,501,60
 2012-W-C10-CRO-08A-2012,Dubrovnik 10K,Clay,32,10,20121022,14,206130,,,Tjasa Srimpf,U,,SLO,18.2,206098,,,Lucia Butkovska,R,,SVK,19.4,3-6 6-0 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,720,27,794,20
 2012-W-C10-CRO-08A-2012,Dubrovnik 10K,Clay,32,10,20121022,15,205765,,,Dalia Zafirova,R,170,BUL,21.5,203545,,Q,Monika Stanikova,R,,SVK,16.6,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,708,28,,
 2012-W-C10-CRO-08A-2012,Dubrovnik 10K,Clay,32,10,20121022,16,201649,2,,Lenka Jurikova,R,,SVK,22.1,203566,,,Christina Shakovets,R,,GER,18.4,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,447,77,603,40
@@ -2029,7 +2029,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-CRO-08A-2012,Dubrovnik 10K,Clay,32,10,20121022,20,205738,,,Karin Morgosova,U,,SVK,21.5,206166,,Q,Jade Suvrijn,R,,FRA,17.4,6-4 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,594,42,710,28
 2012-W-C10-CRO-08A-2012,Dubrovnik 10K,Clay,32,10,20121022,21,206070,,Q,Sofiya Kovalets,R,,UKR,18.2,210500,7,,Karla Popovic,U,,CRO,17.1,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,843,17,609,39
 2012-W-C10-CRO-08A-2012,Dubrovnik 10K,Clay,32,10,20121022,22,211095,,,Bernarda Pera,L,175,USA,17.8,201694,3,,Silvia Njiric,R,163,CRO,19.2,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,676,31,499,60
-2012-W-C10-CRO-08A-2012,Dubrovnik 10K,Clay,32,10,20121022,23,206130,,,Tjasa Srimpf,U,,SLO,18.2,211329,,,Tena Lukas,U,,CRO,17.4,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,720,27,765,23
+2012-W-C10-CRO-08A-2012,Dubrovnik 10K,Clay,32,10,20121022,23,206130,,,Tjasa Srimpf,U,,SLO,18.2,211329,,,Tena Lukas,R,,CRO,17.4,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,720,27,765,23
 2012-W-C10-CRO-08A-2012,Dubrovnik 10K,Clay,32,10,20121022,24,201649,2,,Lenka Jurikova,R,,SVK,22.1,205765,,,Dalia Zafirova,R,170,BUL,21.5,3-6 6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,447,77,708,28
 2012-W-C10-CRO-08A-2012,Dubrovnik 10K,Clay,32,10,20121022,25,202578,1,,Laura Ioana Andrei,R,173,ROU,24.3,206252,,SE,Barbora Krejcikova,R,178,CZE,16.8,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,318,149,696,29
 2012-W-C10-CRO-08A-2012,Dubrovnik 10K,Clay,32,10,20121022,26,205738,,,Karin Morgosova,U,,SVK,21.5,206144,,Q,Xenia Knoll,L,175,SUI,20.1,6-3 3-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,594,42,782,21
@@ -2982,7 +2982,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-FRA-01A-2012,Macon 10K,Hard,32,10,20120220,1,201526,1,,Julie Coin,R,172,FRA,29.2,206081,,LL,Caitlin Whoriskey,R,,USA,24.0,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,269,201,1013,10
 2012-W-C10-FRA-01A-2012,Macon 10K,Hard,32,10,20120220,2,205983,,WC,Josepha Adam,R,,FRA,18.3,210331,,Q,Giulia Pasini,R,,ITA,19.9,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,958,13,908,15
 2012-W-C10-FRA-01A-2012,Macon 10K,Hard,32,10,20120220,3,203281,,,Amandine Hesse,R,164,FRA,19.0,202529,,,Natalia Orlova,R,,RUS,22.9,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,522,61,833,19
-2012-W-C10-FRA-01A-2012,Macon 10K,Hard,32,10,20120220,4,202628,6,,Maryna Zanevska,R,175,UKR,18.4,210674,,Q,Gaelle Rey,U,,SUI,17.2,6-2 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,418,94,,
+2012-W-C10-FRA-01A-2012,Macon 10K,Hard,32,10,20120220,4,202628,6,,Maryna Zanevska,R,175,BEL,18.4,210674,,Q,Gaelle Rey,U,,SUI,17.2,6-2 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,418,94,,
 2012-W-C10-FRA-01A-2012,Macon 10K,Hard,32,10,20120220,5,202911,4,,Anastasiya Vasylyeva,L,182,UKR,20.0,205738,,,Karin Morgosova,U,,SVK,20.8,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,393,103,668,34
 2012-W-C10-FRA-01A-2012,Macon 10K,Hard,32,10,20120220,6,202627,,WC,Fiona Gervais,U,,FRA,18.1,206274,,WC,Agathe Timsit,R,,FRA,19.4,6-3 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1096,7,1208,3
 2012-W-C10-FRA-01A-2012,Macon 10K,Hard,32,10,20120220,7,202640,,,Irina Ramialison,R,158,FRA,20.7,203559,,,Clothilde De Bernardi,R,,FRA,17.2,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,612,43,681,32
@@ -2996,20 +2996,20 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-FRA-01A-2012,Macon 10K,Hard,32,10,20120220,15,205125,,Q,Gaelle Desperrier,R,,FRA,23.9,211536,,Q,Cecilia Bahloul,R,,FRA,15.1,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2012-W-C10-FRA-01A-2012,Macon 10K,Hard,32,10,20120220,16,202579,2,,Giulia Gatto Monticone,R,177,ITA,24.2,202706,,,Manon Arcangioli,R,162,FRA,17.4,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,290,182,819,20
 2012-W-C10-FRA-01A-2012,Macon 10K,Hard,32,10,20120220,17,201526,1,,Julie Coin,R,172,FRA,29.2,205983,,WC,Josepha Adam,R,,FRA,18.3,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,269,201,958,13
-2012-W-C10-FRA-01A-2012,Macon 10K,Hard,32,10,20120220,18,202628,6,,Maryna Zanevska,R,175,UKR,18.4,203281,,,Amandine Hesse,R,164,FRA,19.0,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,418,94,522,61
+2012-W-C10-FRA-01A-2012,Macon 10K,Hard,32,10,20120220,18,202628,6,,Maryna Zanevska,R,175,BEL,18.4,203281,,,Amandine Hesse,R,164,FRA,19.0,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,418,94,522,61
 2012-W-C10-FRA-01A-2012,Macon 10K,Hard,32,10,20120220,19,202911,4,,Anastasiya Vasylyeva,L,182,UKR,20.0,202627,,WC,Fiona Gervais,U,,FRA,18.1,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,393,103,1096,7
 2012-W-C10-FRA-01A-2012,Macon 10K,Hard,32,10,20120220,20,202640,,,Irina Ramialison,R,158,FRA,20.7,202665,8,,Jessica Ginier,R,,FRA,19.3,7-5 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,612,43,466,75
 2012-W-C10-FRA-01A-2012,Macon 10K,Hard,32,10,20120220,21,203486,,,Celine Ghesquiere,U,,FRA,21.0,201362,7,,Anais Laurendon,R,,FRA,26.8,W/O,3,R16,,,,,,,,,,,,,,,,,,,,763,24,425,90
 2012-W-C10-FRA-01A-2012,Macon 10K,Hard,32,10,20120220,22,205824,,Q,Ema Mikulcic,R,,CRO,19.8,211290,,Q,Sybille Gauvain,U,,FRA,17.5,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,797,22,987,11
 2012-W-C10-FRA-01A-2012,Macon 10K,Hard,32,10,20120220,23,202707,5,,Myrtille Georges,R,174,FRA,21.1,206219,,Q,Oceane Dodin,R,,FRA,15.3,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,408,97,1174,4
 2012-W-C10-FRA-01A-2012,Macon 10K,Hard,32,10,20120220,24,202579,2,,Giulia Gatto Monticone,R,177,ITA,24.2,205125,,Q,Gaelle Desperrier,R,,FRA,23.9,1-6 7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,290,182,,
-2012-W-C10-FRA-01A-2012,Macon 10K,Hard,32,10,20120220,25,202628,6,,Maryna Zanevska,R,175,UKR,18.4,201526,1,,Julie Coin,R,172,FRA,29.2,6-7(3) 7-6(5) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,418,94,269,201
+2012-W-C10-FRA-01A-2012,Macon 10K,Hard,32,10,20120220,25,202628,6,,Maryna Zanevska,R,175,BEL,18.4,201526,1,,Julie Coin,R,172,FRA,29.2,6-7(3) 7-6(5) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,418,94,269,201
 2012-W-C10-FRA-01A-2012,Macon 10K,Hard,32,10,20120220,26,202911,4,,Anastasiya Vasylyeva,L,182,UKR,20.0,202640,,,Irina Ramialison,R,158,FRA,20.7,1-6 6-1 7-5,3,QF,,,,,,,,,,,,,,,,,,,,393,103,612,43
 2012-W-C10-FRA-01A-2012,Macon 10K,Hard,32,10,20120220,27,205824,,Q,Ema Mikulcic,R,,CRO,19.8,203486,,,Celine Ghesquiere,U,,FRA,21.0,6-3 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,797,22,763,24
 2012-W-C10-FRA-01A-2012,Macon 10K,Hard,32,10,20120220,28,202579,2,,Giulia Gatto Monticone,R,177,ITA,24.2,202707,5,,Myrtille Georges,R,174,FRA,21.1,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,290,182,408,97
-2012-W-C10-FRA-01A-2012,Macon 10K,Hard,32,10,20120220,29,202628,6,,Maryna Zanevska,R,175,UKR,18.4,202911,4,,Anastasiya Vasylyeva,L,182,UKR,20.0,3-6 6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,418,94,393,103
+2012-W-C10-FRA-01A-2012,Macon 10K,Hard,32,10,20120220,29,202628,6,,Maryna Zanevska,R,175,BEL,18.4,202911,4,,Anastasiya Vasylyeva,L,182,UKR,20.0,3-6 6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,418,94,393,103
 2012-W-C10-FRA-01A-2012,Macon 10K,Hard,32,10,20120220,30,205824,,Q,Ema Mikulcic,R,,CRO,19.8,202579,2,,Giulia Gatto Monticone,R,177,ITA,24.2,7-6(4) 6-1,3,SF,,,,,,,,,,,,,,,,,,,,797,22,290,182
-2012-W-C10-FRA-01A-2012,Macon 10K,Hard,32,10,20120220,31,202628,6,,Maryna Zanevska,R,175,UKR,18.4,205824,,Q,Ema Mikulcic,R,,CRO,19.8,6-1 6-2,3,F,,,,,,,,,,,,,,,,,,,,418,94,797,22
+2012-W-C10-FRA-01A-2012,Macon 10K,Hard,32,10,20120220,31,202628,6,,Maryna Zanevska,R,175,BEL,18.4,205824,,Q,Ema Mikulcic,R,,CRO,19.8,6-1 6-2,3,F,,,,,,,,,,,,,,,,,,,,418,94,797,22
 2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,1,201392,1,,Severine Beltrame,R,171,FRA,32.5,205413,,,Nicolette Van Uitert,R,,NED,21.3,6-0 5-7 7-5,3,R32,,,,,,,,,,,,,,,,,,,,268,204,540,58
 2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,2,205125,,Q,Gaelle Desperrier,R,,FRA,24.0,206277,,Q,Marine Partaud,R,,FRA,17.3,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,3,205824,,SE,Ema Mikulcic,R,,CRO,19.8,205869,,WC,Alix Collombon,R,,FRA,18.9,6-4 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,800,22,827,20
@@ -3017,7 +3017,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,5,203509,4,,Diana Marcinkevica,R,170,LAT,19.5,203280,,,Gracia Radovanovic,R,,FRA,20.9,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,350,133,544,57
 2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,6,205855,,,Elyne Boeykens,R,,BEL,20.9,202703,,Q,Constance Sibille,R,,FRA,21.3,6-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,652,37,504,66
 2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,7,203406,,,Lucia Cervera Vazquez,R,,ESP,20.8,206005,,,Diana Stomlega,R,,ROU,18.9,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,514,64,667,35
-2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,8,202628,9,,Maryna Zanevska,R,175,UKR,18.5,203486,,LL,Celine Ghesquiere,U,,FRA,21.0,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,416,94,765,24
+2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,8,202628,9,,Maryna Zanevska,R,175,BEL,18.5,203486,,LL,Celine Ghesquiere,U,,FRA,21.0,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,416,94,765,24
 2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,9,202707,8,,Myrtille Georges,R,174,FRA,21.1,202640,,,Irina Ramialison,R,158,FRA,20.7,7-6(7) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,417,94,612,43
 2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,10,205983,,Q,Josepha Adam,R,,FRA,18.3,210331,,LL,Giulia Pasini,R,,ITA,20.0,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,965,13,915,15
 2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,11,203281,,,Amandine Hesse,R,164,FRA,19.1,206335,,Q,Jesika Maleckova,R,,CZE,17.5,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,508,65,747,25
@@ -3029,18 +3029,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,17,205125,,Q,Gaelle Desperrier,R,,FRA,24.0,201392,1,,Severine Beltrame,R,171,FRA,32.5,4-6 6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,268,204
 2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,18,206219,,LL,Oceane Dodin,R,,FRA,15.3,205824,,SE,Ema Mikulcic,R,,CRO,19.8,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1182,4,800,22
 2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,19,203509,4,,Diana Marcinkevica,R,170,LAT,19.5,205855,,,Elyne Boeykens,R,,BEL,20.9,6-7(5) 6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,350,133,652,37
-2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,20,202628,9,,Maryna Zanevska,R,175,UKR,18.5,203406,,,Lucia Cervera Vazquez,R,,ESP,20.8,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,416,94,514,64
+2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,20,202628,9,,Maryna Zanevska,R,175,BEL,18.5,203406,,,Lucia Cervera Vazquez,R,,ESP,20.8,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,416,94,514,64
 2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,21,202707,8,,Myrtille Georges,R,174,FRA,21.1,205983,,Q,Josepha Adam,R,,FRA,18.3,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,417,94,965,13
 2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,22,203281,,,Amandine Hesse,R,164,FRA,19.1,202688,3,,Isabella Shinikova,R,184,BUL,20.3,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,508,65,337,140
 2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,23,202911,6,,Anastasiya Vasylyeva,L,182,UKR,20.1,202894,,,Justine Ozga,R,,GER,24.0,6-1 5-7 6-3,3,R16,,,,,,,,,,,,,,,,,,,,392,103,470,74
 2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,24,211539,,WC,Fiona Ferro,R,170,FRA,14.9,202665,11,,Jessica Ginier,R,,FRA,19.3,6-2 0-6 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,,,469,75
 2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,25,206219,,LL,Oceane Dodin,R,,FRA,15.3,205125,,Q,Gaelle Desperrier,R,,FRA,24.0,2-6 6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,1182,4,,
-2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,26,202628,9,,Maryna Zanevska,R,175,UKR,18.5,203509,4,,Diana Marcinkevica,R,170,LAT,19.5,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,416,94,350,133
+2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,26,202628,9,,Maryna Zanevska,R,175,BEL,18.5,203509,4,,Diana Marcinkevica,R,170,LAT,19.5,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,416,94,350,133
 2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,27,202707,8,,Myrtille Georges,R,174,FRA,21.1,203281,,,Amandine Hesse,R,164,FRA,19.1,4-6 6-4 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,417,94,508,65
 2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,28,202911,6,,Anastasiya Vasylyeva,L,182,UKR,20.1,211539,,WC,Fiona Ferro,R,170,FRA,14.9,6-1 6-0,3,QF,,,,,,,,,,,,,,,,,,,,392,103,,
-2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,29,202628,9,,Maryna Zanevska,R,175,UKR,18.5,206219,,LL,Oceane Dodin,R,,FRA,15.3,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,416,94,1182,4
+2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,29,202628,9,,Maryna Zanevska,R,175,BEL,18.5,206219,,LL,Oceane Dodin,R,,FRA,15.3,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,416,94,1182,4
 2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,30,202911,6,,Anastasiya Vasylyeva,L,182,UKR,20.1,202707,8,,Myrtille Georges,R,174,FRA,21.1,6-3 0-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,392,103,417,94
-2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,31,202628,9,,Maryna Zanevska,R,175,UKR,18.5,202911,6,,Anastasiya Vasylyeva,L,182,UKR,20.1,5-7 7-6(2) 6-3,3,F,,,,,,,,,,,,,,,,,,,,416,94,392,103
+2012-W-C10-FRA-02A-2012,Bron 10K,Hard,32,10,20120227,31,202628,9,,Maryna Zanevska,R,175,BEL,18.5,202911,6,,Anastasiya Vasylyeva,L,182,UKR,20.1,5-7 7-6(2) 6-3,3,F,,,,,,,,,,,,,,,,,,,,416,94,392,103
 2012-W-C10-FRA-03A-2012,Dijon 10K,Hard,32,10,20120305,1,201526,1,,Julie Coin,R,172,FRA,29.2,203419,,,Nanuli Pipiya,R,,RUS,20.1,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,269,204,514,63
 2012-W-C10-FRA-03A-2012,Dijon 10K,Hard,32,10,20120305,2,202703,,,Constance Sibille,R,,FRA,21.3,202931,,LL,Nicola George,R,,GBR,19.5,6-7(7) 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,520,62,734,27
 2012-W-C10-FRA-03A-2012,Dijon 10K,Hard,32,10,20120305,3,206175,,Q,Tess Sugnaux,R,,SUI,17.0,205714,,WC,Julie Gervais,U,,FRA,20.6,6-2 4-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,886,16,,
@@ -3056,7 +3056,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-FRA-03A-2012,Dijon 10K,Hard,32,10,20120305,13,201565,6,,Katarzyna Piter,R,173,POL,21.0,206043,,Q,Victoire Mfoumouangana,U,,FRA,20.3,6-4 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,351,132,1128,6
 2012-W-C10-FRA-03A-2012,Dijon 10K,Hard,32,10,20120305,14,206219,,SE,Oceane Dodin,R,,FRA,15.3,210870,,Q,Natalia Siedliska,U,,POL,16.2,7-6(7) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1161,5,925,15
 2012-W-C10-FRA-03A-2012,Dijon 10K,Hard,32,10,20120305,15,203393,,,Martina Gledacheva,R,,BUL,20.9,201699,,,Martina Caregaro,R,165,ITA,19.7,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,473,74,437,87
-2012-W-C10-FRA-03A-2012,Dijon 10K,Hard,32,10,20120305,16,202628,,,Maryna Zanevska,R,175,UKR,18.5,202421,2,,Alison Van Uytvanck,R,173,BEL,17.9,3-6 7-6(7) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,393,105,276,197
+2012-W-C10-FRA-03A-2012,Dijon 10K,Hard,32,10,20120305,16,202628,,,Maryna Zanevska,R,175,BEL,18.5,202421,2,,Alison Van Uytvanck,R,173,BEL,17.9,3-6 7-6(7) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,393,105,276,197
 2012-W-C10-FRA-03A-2012,Dijon 10K,Hard,32,10,20120305,17,202703,,,Constance Sibille,R,,FRA,21.3,201526,1,,Julie Coin,R,172,FRA,29.2,3-4 RET,3,R16,,,,,,,,,,,,,,,,,,,,520,62,269,204
 2012-W-C10-FRA-03A-2012,Dijon 10K,Hard,32,10,20120305,18,203509,5,,Diana Marcinkevica,R,170,LAT,19.5,206175,,Q,Tess Sugnaux,R,,SUI,17.0,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,350,133,886,16
 2012-W-C10-FRA-03A-2012,Dijon 10K,Hard,32,10,20120305,19,202894,,,Justine Ozga,R,,GER,24.0,202688,3,,Isabella Shinikova,R,184,BUL,20.3,6-2 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,503,66,338,140
@@ -3064,14 +3064,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-FRA-03A-2012,Dijon 10K,Hard,32,10,20120305,21,202425,7,,Samantha Murray,R,178,GBR,24.4,205869,,Q,Alix Collombon,R,,FRA,18.9,6-4 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,370,118,828,20
 2012-W-C10-FRA-03A-2012,Dijon 10K,Hard,32,10,20120305,22,202658,4,,Audrey Bergot,R,175,FRA,27.0,202633,,,Nina Zander,R,170,GER,22.1,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,340,138,438,86
 2012-W-C10-FRA-03A-2012,Dijon 10K,Hard,32,10,20120305,23,206219,,SE,Oceane Dodin,R,,FRA,15.3,201565,6,,Katarzyna Piter,R,173,POL,21.0,6-3 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1161,5,351,132
-2012-W-C10-FRA-03A-2012,Dijon 10K,Hard,32,10,20120305,24,202628,,,Maryna Zanevska,R,175,UKR,18.5,203393,,,Martina Gledacheva,R,,BUL,20.9,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,393,105,473,74
+2012-W-C10-FRA-03A-2012,Dijon 10K,Hard,32,10,20120305,24,202628,,,Maryna Zanevska,R,175,BEL,18.5,203393,,,Martina Gledacheva,R,,BUL,20.9,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,393,105,473,74
 2012-W-C10-FRA-03A-2012,Dijon 10K,Hard,32,10,20120305,25,203509,5,,Diana Marcinkevica,R,170,LAT,19.5,202703,,,Constance Sibille,R,,FRA,21.3,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,350,133,520,62
 2012-W-C10-FRA-03A-2012,Dijon 10K,Hard,32,10,20120305,26,202894,,,Justine Ozga,R,,GER,24.0,211543,,WC,Jennifer Zerbone,L,,FRA,16.7,7-6(7) 6-0,3,QF,,,,,,,,,,,,,,,,,,,,503,66,,
 2012-W-C10-FRA-03A-2012,Dijon 10K,Hard,32,10,20120305,27,202658,4,,Audrey Bergot,R,175,FRA,27.0,202425,7,,Samantha Murray,R,178,GBR,24.4,6-3 3-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,340,138,370,118
-2012-W-C10-FRA-03A-2012,Dijon 10K,Hard,32,10,20120305,28,202628,,,Maryna Zanevska,R,175,UKR,18.5,206219,,SE,Oceane Dodin,R,,FRA,15.3,6-0 6-0,3,QF,,,,,,,,,,,,,,,,,,,,393,105,1161,5
+2012-W-C10-FRA-03A-2012,Dijon 10K,Hard,32,10,20120305,28,202628,,,Maryna Zanevska,R,175,BEL,18.5,206219,,SE,Oceane Dodin,R,,FRA,15.3,6-0 6-0,3,QF,,,,,,,,,,,,,,,,,,,,393,105,1161,5
 2012-W-C10-FRA-03A-2012,Dijon 10K,Hard,32,10,20120305,29,203509,5,,Diana Marcinkevica,R,170,LAT,19.5,202894,,,Justine Ozga,R,,GER,24.0,6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,350,133,503,66
-2012-W-C10-FRA-03A-2012,Dijon 10K,Hard,32,10,20120305,30,202628,,,Maryna Zanevska,R,175,UKR,18.5,202658,4,,Audrey Bergot,R,175,FRA,27.0,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,393,105,340,138
-2012-W-C10-FRA-03A-2012,Dijon 10K,Hard,32,10,20120305,31,202628,,,Maryna Zanevska,R,175,UKR,18.5,203509,5,,Diana Marcinkevica,R,170,LAT,19.5,6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,393,105,350,133
+2012-W-C10-FRA-03A-2012,Dijon 10K,Hard,32,10,20120305,30,202628,,,Maryna Zanevska,R,175,BEL,18.5,202658,4,,Audrey Bergot,R,175,FRA,27.0,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,393,105,340,138
+2012-W-C10-FRA-03A-2012,Dijon 10K,Hard,32,10,20120305,31,202628,,,Maryna Zanevska,R,175,BEL,18.5,203509,5,,Diana Marcinkevica,R,170,LAT,19.5,6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,393,105,350,133
 2012-W-C10-FRA-04A-2012,Amiens 10K,Clay,32,10,20120312,1,202678,1,,Polina Pekhova,R,181,BLR,19.9,206277,,Q,Marine Partaud,R,,FRA,17.3,0-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,327,149,,
 2012-W-C10-FRA-04A-2012,Amiens 10K,Clay,32,10,20120312,2,204434,,Q,Ysaline Bonaventure,L,178,BEL,17.5,205927,,,Alina Wessel,R,,GER,21.2,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1031,10,691,31
 2012-W-C10-FRA-04A-2012,Amiens 10K,Clay,32,10,20120312,3,203441,,,Sviatlana Pirazhenka,R,,BLR,19.4,202706,,,Manon Arcangioli,R,162,FRA,17.5,6-4 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,626,41,825,20
@@ -3424,7 +3424,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-GER-01A-2012,Stuttgart Stammheim 10K,Hard,32,10,20120116,9,201671,8,,Ksenia Lykina,R,165,RUS,21.5,203530,,,Viktorija Golubic,R,169,SUI,19.2,3-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,387,110,573,51
 2012-W-C10-GER-01A-2012,Stuttgart Stammheim 10K,Hard,32,10,20120116,10,202653,,,Denisa Allertova,R,180,CZE,18.8,205944,,Q,Lidziya Marozava,R,183,BLR,19.2,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,507,66,820,20
 2012-W-C10-GER-01A-2012,Stuttgart Stammheim 10K,Hard,32,10,20120116,11,203518,,,Paula Kania,R,168,POL,19.1,202389,,,Sandra Martinovic,R,,BIH,32.2,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,398,103,587,49
-2012-W-C10-GER-01A-2012,Stuttgart Stammheim 10K,Hard,32,10,20120116,12,202628,,,Maryna Zanevska,R,175,UKR,18.3,201571,3,Q,Masa Zec Peskiric,R,,SLO,24.9,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,519,63,292,181
+2012-W-C10-GER-01A-2012,Stuttgart Stammheim 10K,Hard,32,10,20120116,12,202628,,,Maryna Zanevska,R,175,BEL,18.3,201571,3,Q,Masa Zec Peskiric,R,,SLO,24.9,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,519,63,292,181
 2012-W-C10-GER-01A-2012,Stuttgart Stammheim 10K,Hard,32,10,20120116,13,206144,,,Xenia Knoll,L,175,SUI,19.3,203379,5,,Marina Melnikova,R,173,RUS,22.9,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,558,54,356,127
 2012-W-C10-GER-01A-2012,Stuttgart Stammheim 10K,Hard,32,10,20120116,14,204434,,Q,Ysaline Bonaventure,L,178,BEL,17.3,203470,,Q,Anna Smolina,U,,RUS,17.3,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1113,6,917,15
 2012-W-C10-GER-01A-2012,Stuttgart Stammheim 10K,Hard,32,10,20120116,15,204246,,,Lesley Pattinama Kerkhove,R,172,NED,20.1,210753,,WC,Jana Nabel,U,,GER,16.2,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,422,92,,
@@ -3434,16 +3434,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-GER-01A-2012,Stuttgart Stammheim 10K,Hard,32,10,20120116,19,206124,,Q,Tereza Martincova,R,178,CZE,17.2,203485,,WC,Julia Kimmelmann,L,,GER,18.2,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,744,26,623,41
 2012-W-C10-GER-01A-2012,Stuttgart Stammheim 10K,Hard,32,10,20120116,20,203440,,,Alexandra Artamonova,R,,RUS,19.1,203509,6,,Diana Marcinkevica,R,170,LAT,19.4,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,407,100,361,123
 2012-W-C10-GER-01A-2012,Stuttgart Stammheim 10K,Hard,32,10,20120116,21,202653,,,Denisa Allertova,R,180,CZE,18.8,201671,8,,Ksenia Lykina,R,165,RUS,21.5,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,507,66,387,110
-2012-W-C10-GER-01A-2012,Stuttgart Stammheim 10K,Hard,32,10,20120116,22,202628,,,Maryna Zanevska,R,175,UKR,18.3,203518,,,Paula Kania,R,168,POL,19.1,6-2 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,519,63,398,103
+2012-W-C10-GER-01A-2012,Stuttgart Stammheim 10K,Hard,32,10,20120116,22,202628,,,Maryna Zanevska,R,175,BEL,18.3,203518,,,Paula Kania,R,168,POL,19.1,6-2 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,519,63,398,103
 2012-W-C10-GER-01A-2012,Stuttgart Stammheim 10K,Hard,32,10,20120116,23,204434,,Q,Ysaline Bonaventure,L,178,BEL,17.3,206144,,,Xenia Knoll,L,175,SUI,19.3,5-7 6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1113,6,558,54
 2012-W-C10-GER-01A-2012,Stuttgart Stammheim 10K,Hard,32,10,20120116,24,204246,,,Lesley Pattinama Kerkhove,R,172,NED,20.1,203297,,,Nadiya Kichenok,R,172,UKR,19.4,6-4 3-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,422,92,452,82
 2012-W-C10-GER-01A-2012,Stuttgart Stammheim 10K,Hard,32,10,20120116,25,202702,,Q,Tereza Smitkova,R,176,CZE,17.2,202827,,Q,Franziska Etzel,R,,GER,28.0,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,867,17,739,26
 2012-W-C10-GER-01A-2012,Stuttgart Stammheim 10K,Hard,32,10,20120116,26,203440,,,Alexandra Artamonova,R,,RUS,19.1,206124,,Q,Tereza Martincova,R,178,CZE,17.2,1-6 6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,407,100,744,26
-2012-W-C10-GER-01A-2012,Stuttgart Stammheim 10K,Hard,32,10,20120116,27,202628,,,Maryna Zanevska,R,175,UKR,18.3,202653,,,Denisa Allertova,R,180,CZE,18.8,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,519,63,507,66
+2012-W-C10-GER-01A-2012,Stuttgart Stammheim 10K,Hard,32,10,20120116,27,202628,,,Maryna Zanevska,R,175,BEL,18.3,202653,,,Denisa Allertova,R,180,CZE,18.8,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,519,63,507,66
 2012-W-C10-GER-01A-2012,Stuttgart Stammheim 10K,Hard,32,10,20120116,28,204246,,,Lesley Pattinama Kerkhove,R,172,NED,20.1,204434,,Q,Ysaline Bonaventure,L,178,BEL,17.3,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,422,92,1113,6
 2012-W-C10-GER-01A-2012,Stuttgart Stammheim 10K,Hard,32,10,20120116,29,202702,,Q,Tereza Smitkova,R,176,CZE,17.2,203440,,,Alexandra Artamonova,R,,RUS,19.1,6-2 6-7(5) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,867,17,407,100
-2012-W-C10-GER-01A-2012,Stuttgart Stammheim 10K,Hard,32,10,20120116,30,202628,,,Maryna Zanevska,R,175,UKR,18.3,204246,,,Lesley Pattinama Kerkhove,R,172,NED,20.1,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,519,63,422,92
-2012-W-C10-GER-01A-2012,Stuttgart Stammheim 10K,Hard,32,10,20120116,31,202702,,Q,Tereza Smitkova,R,176,CZE,17.2,202628,,,Maryna Zanevska,R,175,UKR,18.3,6-4 7-6(4),3,F,,,,,,,,,,,,,,,,,,,,867,17,519,63
+2012-W-C10-GER-01A-2012,Stuttgart Stammheim 10K,Hard,32,10,20120116,30,202628,,,Maryna Zanevska,R,175,BEL,18.3,204246,,,Lesley Pattinama Kerkhove,R,172,NED,20.1,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,519,63,422,92
+2012-W-C10-GER-01A-2012,Stuttgart Stammheim 10K,Hard,32,10,20120116,31,202702,,Q,Tereza Smitkova,R,176,CZE,17.2,202628,,,Maryna Zanevska,R,175,BEL,18.3,6-4 7-6(4),3,F,,,,,,,,,,,,,,,,,,,,867,17,519,63
 2012-W-C10-GER-02A-2012,Kaarst 10K,Carpet,32,10,20120123,1,201696,1,,Laura Siegemund,R,168,GER,23.8,205944,,Q,Lidziya Marozava,R,183,BLR,19.2,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,260,216,820,20
 2012-W-C10-GER-02A-2012,Kaarst 10K,Carpet,32,10,20120123,2,206424,,,Katharina Lehnert,R,,GER,17.9,203530,,,Viktorija Golubic,R,169,SUI,19.2,2-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,713,28,573,51
 2012-W-C10-GER-02A-2012,Kaarst 10K,Carpet,32,10,20120123,3,205927,,WC,Alina Wessel,R,,GER,21.1,204434,,Q,Ysaline Bonaventure,L,178,BEL,17.4,W/O,3,R32,,,,,,,,,,,,,,,,,,,,692,32,1113,6
@@ -4686,7 +4686,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-ITA-06A-2012,Gardone Val Trompia 10K,Clay,32,10,20120730,1,206146,1,,Catalina Pella,R,,ARG,19.4,210331,,Q,Giulia Pasini,R,,ITA,20.4,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,445,75,927,13
 2012-W-C10-ITA-06A-2012,Gardone Val Trompia 10K,Clay,32,10,20120730,2,206173,,WC,Beatrice Lombardo,U,,ITA,16.4,206399,,WC,Francesca Sella,R,,ITA,18.3,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1033,9
 2012-W-C10-ITA-06A-2012,Gardone Val Trompia 10K,Clay,32,10,20120730,3,203477,,,Silvia Garcia Jimenez,U,,ESP,18.0,206208,,Q,Giulia Gasparri,R,,ITA,20.7,2-6 7-6(5) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,771,23,,
-2012-W-C10-ITA-06A-2012,Gardone Val Trompia 10K,Clay,32,10,20120730,4,211329,,,Tena Lukas,U,,CRO,17.2,210758,,LL,Francesca Fusinato,U,,ITA,18.1,6-3 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,708,29,1099,6
+2012-W-C10-ITA-06A-2012,Gardone Val Trompia 10K,Clay,32,10,20120730,4,211329,,,Tena Lukas,R,,CRO,17.2,210758,,LL,Francesca Fusinato,U,,ITA,18.1,6-3 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,708,29,1099,6
 2012-W-C10-ITA-06A-2012,Gardone Val Trompia 10K,Clay,32,10,20120730,5,205123,3,,Alice Balducci,R,,ITA,25.8,210674,,Q,Gaelle Rey,U,,SUI,17.6,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,565,48,1099,6
 2012-W-C10-ITA-06A-2012,Gardone Val Trompia 10K,Clay,32,10,20120730,6,211104,,Q,Sara Sussarello,R,,ITA,18.0,206389,,,Domenica Gonzalez,R,,ECU,16.4,6-2 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,974,11,678,31
 2012-W-C10-ITA-06A-2012,Gardone Val Trompia 10K,Clay,32,10,20120730,7,206400,,Q,Martina Spigarelli,U,,ITA,20.2,211789,,LL,Aldea Rinciari,U,,ITA,18.0,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,996,10,,
@@ -4700,7 +4700,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-ITA-06A-2012,Gardone Val Trompia 10K,Clay,32,10,20120730,15,206122,,,Chiara Mendo,R,,ITA,19.2,206053,,,Costanza Mecchi,R,,ITA,20.3,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,854,18,870,17
 2012-W-C10-ITA-06A-2012,Gardone Val Trompia 10K,Clay,32,10,20120730,16,202464,2,,Yuliana Lizarazo,R,175,COL,19.1,206338,,Q,Stefania Rubini,U,,ITA,19.6,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,505,60,970,11
 2012-W-C10-ITA-06A-2012,Gardone Val Trompia 10K,Clay,32,10,20120730,17,206146,1,,Catalina Pella,R,,ARG,19.4,206173,,WC,Beatrice Lombardo,U,,ITA,16.4,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,445,75,,
-2012-W-C10-ITA-06A-2012,Gardone Val Trompia 10K,Clay,32,10,20120730,18,203477,,,Silvia Garcia Jimenez,U,,ESP,18.0,211329,,,Tena Lukas,U,,CRO,17.2,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,771,23,708,29
+2012-W-C10-ITA-06A-2012,Gardone Val Trompia 10K,Clay,32,10,20120730,18,203477,,,Silvia Garcia Jimenez,U,,ESP,18.0,211329,,,Tena Lukas,R,,CRO,17.2,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,771,23,708,29
 2012-W-C10-ITA-06A-2012,Gardone Val Trompia 10K,Clay,32,10,20120730,19,205123,3,,Alice Balducci,R,,ITA,25.8,211104,,Q,Sara Sussarello,R,,ITA,18.0,5-7 7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,565,48,974,11
 2012-W-C10-ITA-06A-2012,Gardone Val Trompia 10K,Clay,32,10,20120730,20,205869,,,Alix Collombon,R,,FRA,19.3,206400,,Q,Martina Spigarelli,U,,ITA,20.2,7-6(6) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,823,20,996,10
 2012-W-C10-ITA-06A-2012,Gardone Val Trompia 10K,Clay,32,10,20120730,21,203456,,,Jelena Simic,U,,BIH,20.4,203524,7,,Morgane Pons,R,,FRA,20.3,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,797,21,613,41
@@ -6260,7 +6260,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-ROU-05A-2012,Iasi 10K,Clay,32,10,20120709,10,209869,,,Bianca Hincu,R,,ROU,19.9,210434,,Q,Gabriela Porubin,R,,MDA,18.1,7-6(4) 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,943,13,,
 2012-W-C10-ROU-05A-2012,Iasi 10K,Clay,32,10,20120709,11,205764,,,Ingrid Alexandra Radu,U,,ROU,19.1,204249,,,Csilla Argyelan,R,,HUN,21.6,3-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1121,6,894,16
 2012-W-C10-ROU-05A-2012,Iasi 10K,Clay,32,10,20120709,12,202600,4,,Viktoriya Tomova,R,170,BUL,17.3,210732,,,Viktoria Malova,R,,SVK,18.8,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,600,43,838,19
-2012-W-C10-ROU-05A-2012,Iasi 10K,Clay,32,10,20120709,13,211329,7,,Tena Lukas,U,,CRO,17.1,206057,,Q,Simona Ionescu,U,,ROU,18.4,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,726,28,952,12
+2012-W-C10-ROU-05A-2012,Iasi 10K,Clay,32,10,20120709,13,211329,7,,Tena Lukas,R,,CRO,17.1,206057,,Q,Simona Ionescu,U,,ROU,18.4,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,726,28,952,12
 2012-W-C10-ROU-05A-2012,Iasi 10K,Clay,32,10,20120709,14,210786,,Q,Anastasia Vdovenco,R,,MDA,18.2,211654,,Q,Ana Bianca Mihaila,U,,ROU,15.7,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,934,13,,
 2012-W-C10-ROU-05A-2012,Iasi 10K,Clay,32,10,20120709,15,210705,,WC,Irina Bara,R,,ROU,17.3,210848,,,Valeria Prosperi,U,,ITA,17.2,7-6(3) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,952,12
 2012-W-C10-ROU-05A-2012,Iasi 10K,Clay,32,10,20120709,16,202917,2,,Raluca Elena Platon,R,,ROU,19.0,211713,,WC,Jaqueline Cristian,R,180,ROU,14.0,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,515,56,,
@@ -6270,7 +6270,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-ROU-05A-2012,Iasi 10K,Clay,32,10,20120709,20,210656,,WC,Stefania Hristov,L,,ROU,17.8,211361,,Q,Sara Castellano,U,,ITA,18.1,6-3 1-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2012-W-C10-ROU-05A-2012,Iasi 10K,Clay,32,10,20120709,21,211342,,Q,Gabriela Lee,L,,ROU,16.8,209869,,,Bianca Hincu,R,,ROU,19.9,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,943,13
 2012-W-C10-ROU-05A-2012,Iasi 10K,Clay,32,10,20120709,22,202600,4,,Viktoriya Tomova,R,170,BUL,17.3,205764,,,Ingrid Alexandra Radu,U,,ROU,19.1,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,600,43,1121,6
-2012-W-C10-ROU-05A-2012,Iasi 10K,Clay,32,10,20120709,23,210786,,Q,Anastasia Vdovenco,R,,MDA,18.2,211329,7,,Tena Lukas,U,,CRO,17.1,6-4 1-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,934,13,726,28
+2012-W-C10-ROU-05A-2012,Iasi 10K,Clay,32,10,20120709,23,210786,,Q,Anastasia Vdovenco,R,,MDA,18.2,211329,7,,Tena Lukas,R,,CRO,17.1,6-4 1-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,934,13,726,28
 2012-W-C10-ROU-05A-2012,Iasi 10K,Clay,32,10,20120709,24,202917,2,,Raluca Elena Platon,R,,ROU,19.0,210705,,WC,Irina Bara,R,,ROU,17.3,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,515,56,,
 2012-W-C10-ROU-05A-2012,Iasi 10K,Clay,32,10,20120709,25,203460,1,,Martina Kubicikova,R,,CZE,20.5,211268,,WC,Laura Enea,U,,ROU,16.8,7-6(4) 6-0,3,QF,,,,,,,,,,,,,,,,,,,,457,72,,
 2012-W-C10-ROU-05A-2012,Iasi 10K,Clay,32,10,20120709,26,206255,3,,Patricia Maria Tig,R,,ROU,17.9,210656,,WC,Stefania Hristov,L,,ROU,17.8,6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,496,61,,
@@ -6435,7 +6435,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-RUS-04A-2012,St Petersburg 10K,Carpet,32,10,20121224,30,201572,,,Regina Kulikova,R,183,RUS,23.8,206371,,,Alina Silich,U,,RUS,16.4,6-0 6-2,3,SF,,,,,,,,,,,,,,,,,,,,788,20,879,15
 2012-W-C10-RUS-04A-2012,St Petersburg 10K,Carpet,32,10,20121224,31,201572,,,Regina Kulikova,R,183,RUS,23.8,202911,1,,Anastasiya Vasylyeva,L,182,UKR,20.9,6-0 5-7 6-4,3,F,,,,,,,,,,,,,,,,,,,,788,20,319,146
 2012-W-C10-SLO-01A-2012,Velenje 10K,Clay,32,10,20120521,1,203548,1,,Agnese Zucchini,R,,ITA,29.4,202389,,,Sandra Martinovic,R,,BIH,32.6,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,398,97,640,40
-2012-W-C10-SLO-01A-2012,Velenje 10K,Clay,32,10,20120521,2,211251,,Q,Reka Muller,U,,HUN,17.9,211329,,,Tena Lukas,U,,CRO,17.0,3-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,733,28
+2012-W-C10-SLO-01A-2012,Velenje 10K,Clay,32,10,20120521,2,211251,,Q,Reka Muller,U,,HUN,17.9,211329,,,Tena Lukas,R,,CRO,17.0,3-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,733,28
 2012-W-C10-SLO-01A-2012,Velenje 10K,Clay,32,10,20120521,3,202435,,Q,Vanda Lukacs,U,,HUN,19.4,203523,,,Isabel Rapisarda Calvo,U,,ESP,21.0,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,624,41,557,54
 2012-W-C10-SLO-01A-2012,Velenje 10K,Clay,32,10,20120521,4,202703,7,,Constance Sibille,R,,FRA,21.5,204330,,,Alice Savoretti,R,,ITA,19.9,4-6 6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,456,77,716,29
 2012-W-C10-SLO-01A-2012,Velenje 10K,Clay,32,10,20120521,5,202832,4,,Katerina Kramperova,R,,CZE,23.3,206268,,,Dejana Raickovic,L,,GER,20.4,6-1 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,442,82,734,28
@@ -6870,7 +6870,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-SWE-03A-2012,Bastad 10K,Clay,32,10,20120507,31,202446,1,,Eugenie Bouchard,R,178,CAN,18.1,206424,,,Katharina Lehnert,R,,GER,18.2,7-6(4) 6-0,3,F,,,,,,,,,,,,,,,,,,,,352,128,740,27
 2012-W-C10-SWE-04A-2012,Bastad 10K,Clay,32,10,20120514,1,201538,1,,Isabella Holland,R,,AUS,20.3,205975,,Q,Gabbi Tepic,U,,SWE,24.5,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,229,250,,
 2012-W-C10-SWE-04A-2012,Bastad 10K,Clay,32,10,20120514,2,204383,,,Beatrice Cedermark,R,,SWE,19.2,204231,,,Samantha Powers,U,,USA,23.0,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,956,13,968,13
-2012-W-C10-SWE-04A-2012,Bastad 10K,Clay,32,10,20120514,3,201654,,,Sandra Roma,L,,SWE,22.1,211329,,,Tena Lukas,U,,CRO,17.0,6-1 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,945,14,728,28
+2012-W-C10-SWE-04A-2012,Bastad 10K,Clay,32,10,20120514,3,201654,,,Sandra Roma,L,,SWE,22.1,211329,,,Tena Lukas,R,,CRO,17.0,6-1 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,945,14,728,28
 2012-W-C10-SWE-04A-2012,Bastad 10K,Clay,32,10,20120514,4,202432,6,,Hilda Melander,R,,SWE,20.4,205700,,,Emma Flood,U,,NOR,21.5,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,456,77,679,34
 2012-W-C10-SWE-04A-2012,Bastad 10K,Clay,32,10,20120514,5,202446,3,,Eugenie Bouchard,R,178,CAN,18.2,211642,,,Andrea Norlander,U,,SWE,18.0,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,352,128,,
 2012-W-C10-SWE-04A-2012,Bastad 10K,Clay,32,10,20120514,6,204377,,Q,Indy De Vroome,R,,NED,15.9,211643,,Q,Kajsa Rinaldo Persson,R,,SWE,14.5,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1020,10,,
@@ -7246,7 +7246,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-TUR-01A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120109,4,203587,,Q,Diana Marcu,R,,ROU,20.1,206255,8,,Patricia Maria Tig,R,,ROU,17.4,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,989,11,662,35
 2012-W-C10-TUR-01A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120109,5,203376,4,,Eugeniya Pashkova,R,,RUS,22.8,206225,,Q,Evgeniya Svintsova,U,,RUS,16.6,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,479,74,870,17
 2012-W-C10-TUR-01A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120109,6,205875,,,Chantal Skamlova,R,,SVK,18.3,211298,,Q,Nina Nagode,R,,SLO,18.9,5-7 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1209,3,,
-2012-W-C10-TUR-01A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120109,7,211329,,,Tena Lukas,U,,CRO,16.6,205700,,,Emma Flood,U,,NOR,21.2,6-7(8) 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,850,18,665,35
+2012-W-C10-TUR-01A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120109,7,211329,,,Tena Lukas,R,,CRO,16.6,205700,,,Emma Flood,U,,NOR,21.2,6-7(8) 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,850,18,665,35
 2012-W-C10-TUR-01A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120109,8,206069,,,Marianna Zakarlyuk,R,,UKR,15.2,202674,5,,Alexandra Romanova,R,,RUS,18.6,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,725,27,533,61
 2012-W-C10-TUR-01A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120109,9,202557,6,,Hulya Esen,U,,TUR,22.4,206135,,,Lutfiye Esen,U,,TUR,23.4,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,567,53,1142,6
 2012-W-C10-TUR-01A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120109,10,205835,,,Beatriz Maria Martins Cecato,R,,BRA,19.8,211379,,WC,Nilay Gizem Altay,U,,TUR,14.7,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1174,4,,
@@ -7259,13 +7259,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-TUR-01A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120109,17,205740,,,Dunja Sunkic,R,,SRB,20.8,202483,1,,Sandra Zaniewska,R,172,POL,20.0,6-4 RET,3,R16,,,,,,,,,,,,,,,,,,,,782,23,295,181
 2012-W-C10-TUR-01A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120109,18,203587,,Q,Diana Marcu,R,,ROU,20.1,206168,,Q,Taisiya Zakarlyuk,R,,UKR,17.5,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,989,11,,
 2012-W-C10-TUR-01A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120109,19,203376,4,,Eugeniya Pashkova,R,,RUS,22.8,205875,,,Chantal Skamlova,R,,SVK,18.3,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,479,74,1209,3
-2012-W-C10-TUR-01A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120109,20,211329,,,Tena Lukas,U,,CRO,16.6,206069,,,Marianna Zakarlyuk,R,,UKR,15.2,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,850,18,725,27
+2012-W-C10-TUR-01A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120109,20,211329,,,Tena Lukas,R,,CRO,16.6,206069,,,Marianna Zakarlyuk,R,,UKR,15.2,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,850,18,725,27
 2012-W-C10-TUR-01A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120109,21,202557,6,,Hulya Esen,U,,TUR,22.4,205835,,,Beatriz Maria Martins Cecato,R,,BRA,19.8,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,567,53,1174,4
 2012-W-C10-TUR-01A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120109,22,204391,3,,Sofia Kvatsabaia,U,,GEO,23.4,202595,,Q,Alexandra Damaschin,R,,ROU,20.9,6-0 4-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,431,89,,
 2012-W-C10-TUR-01A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120109,23,205393,,,Agni Stefanou,U,,GRE,22.6,204335,,,Seda Arantekin,R,,TUR,17.4,5-7 6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,860,18,1091,7
 2012-W-C10-TUR-01A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120109,24,203540,,,Anastasia Frolova,R,,RUS,17.5,205813,,,Julia Samuseva,R,,RUS,19.3,6-7(3) 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1090,7,793,22
 2012-W-C10-TUR-01A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120109,25,205740,,,Dunja Sunkic,R,,SRB,20.8,203587,,Q,Diana Marcu,R,,ROU,20.1,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,782,23,989,11
-2012-W-C10-TUR-01A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120109,26,203376,4,,Eugeniya Pashkova,R,,RUS,22.8,211329,,,Tena Lukas,U,,CRO,16.6,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,479,74,850,18
+2012-W-C10-TUR-01A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120109,26,203376,4,,Eugeniya Pashkova,R,,RUS,22.8,211329,,,Tena Lukas,R,,CRO,16.6,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,479,74,850,18
 2012-W-C10-TUR-01A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120109,27,204391,3,,Sofia Kvatsabaia,U,,GEO,23.4,202557,6,,Hulya Esen,U,,TUR,22.4,3-6 6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,431,89,567,53
 2012-W-C10-TUR-01A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120109,28,203540,,,Anastasia Frolova,R,,RUS,17.5,205393,,,Agni Stefanou,U,,GRE,22.6,6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,1090,7,860,18
 2012-W-C10-TUR-01A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120109,29,203376,4,,Eugeniya Pashkova,R,,RUS,22.8,205740,,,Dunja Sunkic,R,,SRB,20.8,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,479,74,782,23
@@ -7283,7 +7283,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-TUR-02A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120116,10,206069,,,Marianna Zakarlyuk,R,,UKR,15.3,205393,,,Agni Stefanou,U,,GRE,22.6,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,725,27,859,18
 2012-W-C10-TUR-02A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120116,11,202595,,Q,Alexandra Damaschin,R,,ROU,20.9,206255,,,Patricia Maria Tig,R,,ROU,17.4,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,665,35
 2012-W-C10-TUR-02A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120116,12,205875,,Q,Chantal Skamlova,R,,SVK,18.3,202671,3,,Cristina Andreea Mitu,R,175,ROU,20.3,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1206,3,346,136
-2012-W-C10-TUR-02A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120116,13,203280,8,,Gracia Radovanovic,R,,FRA,20.7,211329,,,Tena Lukas,U,,CRO,16.6,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,564,53,849,18
+2012-W-C10-TUR-02A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120116,13,203280,8,,Gracia Radovanovic,R,,FRA,20.7,211329,,,Tena Lukas,R,,CRO,16.6,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,564,53,849,18
 2012-W-C10-TUR-02A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120116,14,206058,,Q,Patricia Chirea,R,,ROU,20.2,211379,,WC,Nilay Gizem Altay,U,,TUR,14.7,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2012-W-C10-TUR-02A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120116,15,206225,,Q,Evgeniya Svintsova,U,,RUS,16.6,210598,,WC,Fatmanur Atilgan,U,,TUR,17.0,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,869,17,,
 2012-W-C10-TUR-02A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120116,16,201698,2,,Liana Gabriela Ungur,U,,ROU,27.0,202557,,,Hulya Esen,U,,TUR,22.4,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,344,139,567,53
@@ -7304,7 +7304,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-TUR-02A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120116,31,204391,5,,Sofia Kvatsabaia,U,,GEO,23.4,203451,7,,Marina Giral Lores,R,,VEN,21.3,7-6(4) 6-1,3,F,,,,,,,,,,,,,,,,,,,,430,89,528,61
 2012-W-C10-TUR-03A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120123,1,202669,1,,Cristina Dinu,R,,ROU,19.0,202677,,,Ekaterina Klyueva,R,,KAZ,15.6,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,306,169,951,13
 2012-W-C10-TUR-03A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120123,2,202568,,,Yumi Nakano,R,,JPN,24.0,203468,,Q,Alexandra Grinchishina,U,,KAZ,16.2,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,701,29,1206,3
-2012-W-C10-TUR-03A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120123,3,211329,,,Tena Lukas,U,,CRO,16.7,202673,,,Anastasiya Yepisheva,U,,KAZ,15.7,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,849,18,877,16
+2012-W-C10-TUR-03A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120123,3,211329,,,Tena Lukas,R,,CRO,16.7,202673,,,Anastasiya Yepisheva,U,,KAZ,15.7,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,849,18,877,16
 2012-W-C10-TUR-03A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120123,4,203376,6,,Eugeniya Pashkova,R,,RUS,22.9,211425,,WC,Elif Turgul,U,,TUR,16.0,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,479,74,,
 2012-W-C10-TUR-03A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120123,5,203540,,Q,Anastasia Frolova,R,,RUS,17.5,202672,4,,Ekaterina Yashina,R,173,RUS,18.4,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1089,7,389,109
 2012-W-C10-TUR-03A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120123,6,201701,,,Basak Eraydin,R,,TUR,17.5,210598,,WC,Fatmanur Atilgan,U,,TUR,17.0,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,992,11,,
@@ -7319,14 +7319,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-TUR-03A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120123,15,203524,,,Morgane Pons,R,,FRA,19.8,206164,,,Yelena Nemchen,U,,KAZ,16.5,6-1 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,605,44,969,12
 2012-W-C10-TUR-03A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120123,16,201698,2,,Liana Gabriela Ungur,U,,ROU,27.0,203535,,Q,Sultan Gonen,R,,TUR,16.2,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,344,139,1206,3
 2012-W-C10-TUR-03A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120123,17,202669,1,,Cristina Dinu,R,,ROU,19.0,202568,,,Yumi Nakano,R,,JPN,24.0,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,306,169,701,29
-2012-W-C10-TUR-03A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120123,18,211329,,,Tena Lukas,U,,CRO,16.7,203376,6,,Eugeniya Pashkova,R,,RUS,22.9,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,849,18,479,74
+2012-W-C10-TUR-03A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120123,18,211329,,,Tena Lukas,R,,CRO,16.7,203376,6,,Eugeniya Pashkova,R,,RUS,22.9,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,849,18,479,74
 2012-W-C10-TUR-03A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120123,19,201701,,,Basak Eraydin,R,,TUR,17.5,203540,,Q,Anastasia Frolova,R,,RUS,17.5,7-6(6) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,992,11,1089,7
 2012-W-C10-TUR-03A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120123,20,202381,,,Ksenia Milevskaya,R,172,BLR,21.4,202557,,,Hulya Esen,U,,TUR,22.4,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,719,28,567,53
 2012-W-C10-TUR-03A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120123,21,206069,,,Marianna Zakarlyuk,R,,UKR,15.3,203280,8,,Gracia Radovanovic,R,,FRA,20.8,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,725,27,564,53
 2012-W-C10-TUR-03A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120123,22,202671,3,,Cristina Andreea Mitu,R,175,ROU,20.3,206336,,,Julia Stamatova,L,,BUL,18.6,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,346,136,642,39
 2012-W-C10-TUR-03A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120123,23,203415,5,,Ilona Kremen,R,,BLR,18.0,205835,,Q,Beatriz Maria Martins Cecato,R,,BRA,19.8,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,418,95,1171,4
 2012-W-C10-TUR-03A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120123,24,201698,2,,Liana Gabriela Ungur,U,,ROU,27.0,203524,,,Morgane Pons,R,,FRA,19.8,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,344,139,605,44
-2012-W-C10-TUR-03A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120123,25,202669,1,,Cristina Dinu,R,,ROU,19.0,211329,,,Tena Lukas,U,,CRO,16.7,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,306,169,849,18
+2012-W-C10-TUR-03A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120123,25,202669,1,,Cristina Dinu,R,,ROU,19.0,211329,,,Tena Lukas,R,,CRO,16.7,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,306,169,849,18
 2012-W-C10-TUR-03A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120123,26,202381,,,Ksenia Milevskaya,R,172,BLR,21.4,201701,,,Basak Eraydin,R,,TUR,17.5,7-6(4) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,719,28,992,11
 2012-W-C10-TUR-03A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120123,27,206069,,,Marianna Zakarlyuk,R,,UKR,15.3,202671,3,,Cristina Andreea Mitu,R,175,ROU,20.3,2-6 6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,725,27,346,136
 2012-W-C10-TUR-03A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120123,28,201698,2,,Liana Gabriela Ungur,U,,ROU,27.0,203415,5,,Ilona Kremen,R,,BLR,18.0,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,344,139,418,95
@@ -7500,7 +7500,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-TUR-09A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120305,10,203514,,,Katarzyna Kawa,R,178,POL,19.2,209906,,WC,Milena Zubkov,U,,TUR,19.1,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,470,74,,
 2012-W-C10-TUR-09A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120305,11,203428,,,Vivien Juhaszova,R,,SVK,18.6,203330,,Q,Ionela Andreea Iova,R,,ROU,21.6,1-6 6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,521,62,735,27
 2012-W-C10-TUR-09A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120305,12,202858,3,,Anne Schaefer,R,,GER,25.0,211386,,WC,Melis Bayraktaroglu,U,,TUR,15.0,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,317,155,,
-2012-W-C10-TUR-09A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120305,13,211329,,Q,Tena Lukas,U,,CRO,16.8,202593,5,,Diana Buzean,R,,ROU,24.2,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,744,26,367,122
+2012-W-C10-TUR-09A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120305,13,211329,,Q,Tena Lukas,R,,CRO,16.8,202593,5,,Diana Buzean,R,,ROU,24.2,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,744,26,367,122
 2012-W-C10-TUR-09A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120305,14,202873,,SE,Ana Savic,U,,CRO,22.4,205759,,,Margarita Lazareva,L,,RUS,21.4,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,648,37
 2012-W-C10-TUR-09A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120305,15,202557,,,Hulya Esen,U,,TUR,22.5,202917,,Q,Raluca Elena Platon,R,,ROU,18.7,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,551,56,568,54
 2012-W-C10-TUR-09A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120305,16,202437,2,,Anastasia Grymalska,R,,ITA,21.6,202605,,,Julia Mayr,R,,ITA,20.5,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,302,174,479,72
@@ -7510,7 +7510,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-TUR-09A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120305,20,203325,,Q,Martina Di Giuseppe,R,,ITA,21.0,204376,,LL,Demi Schuurs,R,170,NED,18.5,4-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,852,18,1122,6
 2012-W-C10-TUR-09A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120305,21,203455,7,,Andreea Roxana Vaideanu,R,,ITA,21.6,203514,,,Katarzyna Kawa,R,178,POL,19.2,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,439,86,470,74
 2012-W-C10-TUR-09A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120305,22,202858,3,,Anne Schaefer,R,,GER,25.0,203428,,,Vivien Juhaszova,R,,SVK,18.6,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,317,155,521,62
-2012-W-C10-TUR-09A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120305,23,202873,,SE,Ana Savic,U,,CRO,22.4,211329,,Q,Tena Lukas,U,,CRO,16.8,6-7(6) 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,744,26
+2012-W-C10-TUR-09A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120305,23,202873,,SE,Ana Savic,U,,CRO,22.4,211329,,Q,Tena Lukas,R,,CRO,16.8,6-7(6) 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,744,26
 2012-W-C10-TUR-09A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120305,24,202437,2,,Anastasia Grymalska,R,,ITA,21.6,202557,,,Hulya Esen,U,,TUR,22.5,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,302,174,551,56
 2012-W-C10-TUR-09A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120305,25,202561,6,,Evelyn Mayr,R,,ITA,22.8,202669,1,,Cristina Dinu,R,,ROU,19.1,6-0 6-0,3,QF,,,,,,,,,,,,,,,,,,,,397,102,298,177
 2012-W-C10-TUR-09A-2012,Antalya Kaya Belek 10K,Clay,32,10,20120305,26,203325,,Q,Martina Di Giuseppe,R,,ITA,21.0,202642,4,,Gioia Barbieri,R,170,ITA,20.6,3-6 6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,852,18,369,119
@@ -7527,7 +7527,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-TUR-10A-2012,Antalya Ali Bey Manavgat 10K,Clay,32,10,20120312,6,205759,,,Margarita Lazareva,L,,RUS,21.4,209906,,WC,Milena Zubkov,U,,TUR,19.1,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,648,37,,
 2012-W-C10-TUR-10A-2012,Antalya Ali Bey Manavgat 10K,Clay,32,10,20120312,7,203459,,Q,Lucie Kriegsmannova,U,,CZE,27.0,206255,,,Patricia Maria Tig,R,,ROU,17.6,3-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,895,16,659,35
 2012-W-C10-TUR-10A-2012,Antalya Ali Bey Manavgat 10K,Clay,32,10,20120312,8,202561,5,,Evelyn Mayr,R,,ITA,22.8,202917,,,Raluca Elena Platon,R,,ROU,18.7,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,397,102,568,54
-2012-W-C10-TUR-10A-2012,Antalya Ali Bey Manavgat 10K,Clay,32,10,20120312,9,203455,7,,Andreea Roxana Vaideanu,R,,ITA,21.7,211329,,Q,Tena Lukas,U,,CRO,16.8,6-3 1-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,439,86,744,26
+2012-W-C10-TUR-10A-2012,Antalya Ali Bey Manavgat 10K,Clay,32,10,20120312,9,203455,7,,Andreea Roxana Vaideanu,R,,ITA,21.7,211329,,Q,Tena Lukas,R,,CRO,16.8,6-3 1-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,439,86,744,26
 2012-W-C10-TUR-10A-2012,Antalya Ali Bey Manavgat 10K,Clay,32,10,20120312,10,201654,,Q,Sandra Roma,L,,SWE,21.9,202605,,,Julia Mayr,R,,ITA,20.5,6-4 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,874,17,479,72
 2012-W-C10-TUR-10A-2012,Antalya Ali Bey Manavgat 10K,Clay,32,10,20120312,11,209869,,LL,Bianca Hincu,R,,ROU,19.6,204382,,LL,Valeria Osadchenko,U,,SWE,19.7,4-6 6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,960,13,1122,6
 2012-W-C10-TUR-10A-2012,Antalya Ali Bey Manavgat 10K,Clay,32,10,20120312,12,202642,4,,Gioia Barbieri,R,170,ITA,20.6,202491,,Q,Varvara Flink,R,175,RUS,15.2,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,369,119,,
@@ -8672,7 +8672,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-TUR-47A-2012,Antalya 10K,Clay,32,10,20121203,6,211964,,Q,Ilka Csoregi,R,,ROU,16.6,203542,,,Daria Mironova,R,,RUS,19.6,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,451,76
 2012-W-C10-TUR-47A-2012,Antalya 10K,Clay,32,10,20121203,7,204263,,,Janina Toljan,R,,AUT,22.6,202600,,,Viktoriya Tomova,R,170,BUL,17.7,7-6(5) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,509,58,515,57
 2012-W-C10-TUR-47A-2012,Antalya 10K,Clay,32,10,20121203,8,211260,,SE,Marie Benoit,L,,BEL,17.7,202620,5,,Yuliya Kalabina,R,,RUS,22.6,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,930,12,350,120
-2012-W-C10-TUR-47A-2012,Antalya 10K,Clay,32,10,20121203,9,211329,,LL,Tena Lukas,U,,CRO,17.5,204391,7,,Sofia Kvatsabaia,U,,GEO,24.3,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,748,24,423,86
+2012-W-C10-TUR-47A-2012,Antalya 10K,Clay,32,10,20121203,9,211329,,LL,Tena Lukas,R,,CRO,17.5,204391,7,,Sofia Kvatsabaia,U,,GEO,24.3,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,748,24,423,86
 2012-W-C10-TUR-47A-2012,Antalya 10K,Clay,32,10,20121203,10,203559,,Q,Clothilde De Bernardi,R,,FRA,18.0,209906,,WC,Milena Zubkov,U,,TUR,19.9,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,688,30,1084,6
 2012-W-C10-TUR-47A-2012,Antalya 10K,Clay,32,10,20121203,11,210337,,,Natalija Stevanovic,R,,SRB,18.3,203572,,Q,Polina Monova,R,,RUS,19.6,6-3 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,464,71,618,39
 2012-W-C10-TUR-47A-2012,Antalya 10K,Clay,32,10,20121203,12,205875,,,Chantal Skamlova,R,,SVK,19.2,203378,3,,Ksenia Kirillova,R,,RUS,19.4,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,479,67,348,121
@@ -8684,7 +8684,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-TUR-47A-2012,Antalya 10K,Clay,32,10,20121203,18,202653,,Q,Denisa Allertova,R,180,CZE,19.7,202536,,SE,Ana Bogdan,R,171,ROU,20.0,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,624,39,506,59
 2012-W-C10-TUR-47A-2012,Antalya 10K,Clay,32,10,20121203,19,211964,,Q,Ilka Csoregi,R,,ROU,16.6,202640,,Q,Irina Ramialison,R,158,FRA,21.4,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,593,43
 2012-W-C10-TUR-47A-2012,Antalya 10K,Clay,32,10,20121203,20,211260,,SE,Marie Benoit,L,,BEL,17.7,204263,,,Janina Toljan,R,,AUT,22.6,7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,930,12,509,58
-2012-W-C10-TUR-47A-2012,Antalya 10K,Clay,32,10,20121203,21,203559,,Q,Clothilde De Bernardi,R,,FRA,18.0,211329,,LL,Tena Lukas,U,,CRO,17.5,2-6 6-3 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,688,30,748,24
+2012-W-C10-TUR-47A-2012,Antalya 10K,Clay,32,10,20121203,21,203559,,Q,Clothilde De Bernardi,R,,FRA,18.0,211329,,LL,Tena Lukas,R,,CRO,17.5,2-6 6-3 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,688,30,748,24
 2012-W-C10-TUR-47A-2012,Antalya 10K,Clay,32,10,20121203,22,210337,,,Natalija Stevanovic,R,,SRB,18.3,205875,,,Chantal Skamlova,R,,SVK,19.2,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,464,71,479,67
 2012-W-C10-TUR-47A-2012,Antalya 10K,Clay,32,10,20121203,23,201653,,Q,Ellen Allgurin,R,,SWE,18.5,210674,,LL,Gaelle Rey,U,,SUI,18.0,6-2 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,978,10,1062,6
 2012-W-C10-TUR-47A-2012,Antalya 10K,Clay,32,10,20121203,24,203586,,Q,Ioana Loredana Rosca,R,,ROU,16.2,201694,,LL,Silvia Njiric,R,163,CRO,19.4,6-1 3-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,1062,6,570,47
@@ -8697,7 +8697,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-TUR-47A-2012,Antalya 10K,Clay,32,10,20121203,31,202653,,Q,Denisa Allertova,R,180,CZE,19.7,210337,,,Natalija Stevanovic,R,,SRB,18.3,5-7 7-5 6-1,3,F,,,,,,,,,,,,,,,,,,,,624,39,464,71
 2012-W-C10-TUR-48A-2012,Antalya 10K,Clay,32,10,20121210,1,202911,1,WC,Anastasiya Vasylyeva,L,182,UKR,20.8,202476,,Q,Csilla Borsanyi,U,,HUN,25.3,6-1 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,321,144,806,19
 2012-W-C10-TUR-48A-2012,Antalya 10K,Clay,32,10,20121210,2,202706,,,Manon Arcangioli,R,162,FRA,18.2,203559,,,Clothilde De Bernardi,R,,FRA,18.0,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,472,69,688,30
-2012-W-C10-TUR-48A-2012,Antalya 10K,Clay,32,10,20121210,3,211329,,,Tena Lukas,U,,CRO,17.5,204318,,Q,Margarida Moura,R,,POR,19.3,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,765,23,856,16
+2012-W-C10-TUR-48A-2012,Antalya 10K,Clay,32,10,20121210,3,211329,,,Tena Lukas,R,,CRO,17.5,204318,,Q,Margarida Moura,R,,POR,19.3,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,765,23,856,16
 2012-W-C10-TUR-48A-2012,Antalya 10K,Clay,32,10,20121210,4,203542,8,,Daria Mironova,R,,RUS,19.6,206130,,,Tjasa Srimpf,U,,SLO,18.3,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,451,76,702,28
 2012-W-C10-TUR-48A-2012,Antalya 10K,Clay,32,10,20121210,5,202640,,,Irina Ramialison,R,158,FRA,21.5,202620,4,,Yuliya Kalabina,R,,RUS,22.7,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,594,43,351,120
 2012-W-C10-TUR-48A-2012,Antalya 10K,Clay,32,10,20121210,6,202557,,,Hulya Esen,U,,TUR,23.3,210786,,WC,Anastasia Vdovenco,R,,MDA,18.6,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,658,35,741,25
@@ -8712,7 +8712,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C10-TUR-48A-2012,Antalya 10K,Clay,32,10,20121210,15,201653,,SE,Ellen Allgurin,R,,SWE,18.5,201694,,,Silvia Njiric,R,163,CRO,19.4,6-7(2) 6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,954,11,570,47
 2012-W-C10-TUR-48A-2012,Antalya 10K,Clay,32,10,20121210,16,203586,,Q,Ioana Loredana Rosca,R,,ROU,16.2,203378,2,,Ksenia Kirillova,R,,RUS,19.4,6-1 4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,1066,6,349,121
 2012-W-C10-TUR-48A-2012,Antalya 10K,Clay,32,10,20121210,17,202911,1,WC,Anastasiya Vasylyeva,L,182,UKR,20.8,202706,,,Manon Arcangioli,R,162,FRA,18.2,5-7 7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,321,144,472,69
-2012-W-C10-TUR-48A-2012,Antalya 10K,Clay,32,10,20121210,18,203542,8,,Daria Mironova,R,,RUS,19.6,211329,,,Tena Lukas,U,,CRO,17.5,6-1 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,451,76,765,23
+2012-W-C10-TUR-48A-2012,Antalya 10K,Clay,32,10,20121210,18,203542,8,,Daria Mironova,R,,RUS,19.6,211329,,,Tena Lukas,R,,CRO,17.5,6-1 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,451,76,765,23
 2012-W-C10-TUR-48A-2012,Antalya 10K,Clay,32,10,20121210,19,202640,,,Irina Ramialison,R,158,FRA,21.5,202557,,,Hulya Esen,U,,TUR,23.3,6-0 7-5,3,R16,,,,,,,,,,,,,,,,,,,,594,43,658,35
 2012-W-C10-TUR-48A-2012,Antalya 10K,Clay,32,10,20121210,20,206002,,,Tamara Bizhukova,R,,RUS,18.3,211964,,Q,Ilka Csoregi,R,,ROU,16.6,6-4 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,710,27,,
 2012-W-C10-TUR-48A-2012,Antalya 10K,Clay,32,10,20121210,21,203537,7,,Victoria Kan,R,,RUS,17.3,211182,,Q,Patricia Lancranjan,U,,ROU,17.2,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,450,76,,
@@ -9764,7 +9764,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C25-BEL-01A-2012,Tessenderlo 25K,Clay,32,25,20120402,13,201465,5,,Kirsten Flipkens,R,165,BEL,26.2,202594,,,Elena Bogdan,L,183,ROU,20.0,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,182,343,209,285
 2012-W-C25-BEL-01A-2012,Tessenderlo 25K,Clay,32,25,20120402,14,202473,,,Annalisa Bona,R,,ITA,29.3,206049,,WC,Jovana Jaksic,R,180,SRB,18.5,7-6(3) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,243,232,437,86
 2012-W-C25-BEL-01A-2012,Tessenderlo 25K,Clay,32,25,20120402,15,202472,,,Laura Thorpe,R,,FRA,24.8,202498,,,Julia Glushko,R,171,ISR,22.2,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,233,244,221,269
-2012-W-C25-BEL-01A-2012,Tessenderlo 25K,Clay,32,25,20120402,16,202628,,Q,Maryna Zanevska,R,175,UKR,18.6,201532,2,,Anastasia Pivovarova,R,181,RUS,21.7,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,364,128,151,446
+2012-W-C25-BEL-01A-2012,Tessenderlo 25K,Clay,32,25,20120402,16,202628,,Q,Maryna Zanevska,R,175,BEL,18.6,201532,2,,Anastasia Pivovarova,R,181,RUS,21.7,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,364,128,151,446
 2012-W-C25-BEL-01A-2012,Tessenderlo 25K,Clay,32,25,20120402,17,201484,,,Sandra Zahlavova,U,,CZE,26.4,202701,,Q,Irina Khromacheva,L,170,RUS,16.8,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,236,241,255,222
 2012-W-C25-BEL-01A-2012,Tessenderlo 25K,Clay,32,25,20120402,18,213583,,,Tatjana Maria,R,172,GER,24.6,201655,7,,Anna Floris,L,,ITA,29.8,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,194,322,181,344
 2012-W-C25-BEL-01A-2012,Tessenderlo 25K,Clay,32,25,20120402,19,202494,,,Elina Svitolina,R,174,UKR,17.5,202467,3,,Elitsa Kostova,R,172,BUL,21.9,6-3 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,178,350,155,430
@@ -9772,19 +9772,19 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C25-BEL-01A-2012,Tessenderlo 25K,Clay,32,25,20120402,21,201570,6,,Vesna Dolonc,R,170,SRB,22.6,202694,,Q,Teliana Pereira,R,168,BRA,23.7,4-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,179,349,297,174
 2012-W-C25-BEL-01A-2012,Tessenderlo 25K,Clay,32,25,20120402,22,202421,,WC,Alison Van Uytvanck,R,173,BEL,18.0,202642,,Q,Gioia Barbieri,R,170,ITA,20.7,6-2 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,288,186,361,129
 2012-W-C25-BEL-01A-2012,Tessenderlo 25K,Clay,32,25,20120402,23,201465,5,,Kirsten Flipkens,R,165,BEL,26.2,202473,,,Annalisa Bona,R,,ITA,29.3,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,182,343,243,232
-2012-W-C25-BEL-01A-2012,Tessenderlo 25K,Clay,32,25,20120402,24,202628,,Q,Maryna Zanevska,R,175,UKR,18.6,202472,,,Laura Thorpe,R,,FRA,24.8,4-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,364,128,233,244
+2012-W-C25-BEL-01A-2012,Tessenderlo 25K,Clay,32,25,20120402,24,202628,,Q,Maryna Zanevska,R,175,BEL,18.6,202472,,,Laura Thorpe,R,,FRA,24.8,4-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,364,128,233,244
 2012-W-C25-BEL-01A-2012,Tessenderlo 25K,Clay,32,25,20120402,25,213583,,,Tatjana Maria,R,172,GER,24.6,201484,,,Sandra Zahlavova,U,,CZE,26.4,4-6 7-5 7-6(10),3,QF,,,,,,,,,,,,,,,,,,,,194,322,236,241
 2012-W-C25-BEL-01A-2012,Tessenderlo 25K,Clay,32,25,20120402,26,202494,,,Elina Svitolina,R,174,UKR,17.5,202487,,,Nastassja Burnett,R,178,ITA,20.1,7-5 6-0,3,QF,,,,,,,,,,,,,,,,,,,,178,350,213,280
 2012-W-C25-BEL-01A-2012,Tessenderlo 25K,Clay,32,25,20120402,27,201570,6,,Vesna Dolonc,R,170,SRB,22.6,202421,,WC,Alison Van Uytvanck,R,173,BEL,18.0,7-6(6) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,179,349,288,186
-2012-W-C25-BEL-01A-2012,Tessenderlo 25K,Clay,32,25,20120402,28,202628,,Q,Maryna Zanevska,R,175,UKR,18.6,201465,5,,Kirsten Flipkens,R,165,BEL,26.2,7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,364,128,182,343
+2012-W-C25-BEL-01A-2012,Tessenderlo 25K,Clay,32,25,20120402,28,202628,,Q,Maryna Zanevska,R,175,BEL,18.6,201465,5,,Kirsten Flipkens,R,165,BEL,26.2,7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,364,128,182,343
 2012-W-C25-BEL-01A-2012,Tessenderlo 25K,Clay,32,25,20120402,29,213583,,,Tatjana Maria,R,172,GER,24.6,202494,,,Elina Svitolina,R,174,UKR,17.5,6-7(3) 7-5 7-5,3,SF,,,,,,,,,,,,,,,,,,,,194,322,178,350
-2012-W-C25-BEL-01A-2012,Tessenderlo 25K,Clay,32,25,20120402,30,202628,,Q,Maryna Zanevska,R,175,UKR,18.6,201570,6,,Vesna Dolonc,R,170,SRB,22.6,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,364,128,179,349
-2012-W-C25-BEL-01A-2012,Tessenderlo 25K,Clay,32,25,20120402,31,202628,,Q,Maryna Zanevska,R,175,UKR,18.6,213583,,,Tatjana Maria,R,172,GER,24.6,6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,364,128,194,322
+2012-W-C25-BEL-01A-2012,Tessenderlo 25K,Clay,32,25,20120402,30,202628,,Q,Maryna Zanevska,R,175,BEL,18.6,201570,6,,Vesna Dolonc,R,170,SRB,22.6,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,364,128,179,349
+2012-W-C25-BEL-01A-2012,Tessenderlo 25K,Clay,32,25,20120402,31,202628,,Q,Maryna Zanevska,R,175,BEL,18.6,213583,,,Tatjana Maria,R,172,GER,24.6,6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,364,128,194,322
 2012-W-C25-BEL-02A-2012,Zwevegem 25K,Clay,32,25,20120709,1,202596,1,,Mihaela Buzarnescu,L,175,ROU,24.1,201650,,,Irina Buryachok,R,,UKR,26.0,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,142,484,282,189
 2012-W-C25-BEL-02A-2012,Zwevegem 25K,Clay,32,25,20120709,2,205877,,Q,Angelique Van Der Meet,R,,NED,21.3,203443,,WC,Sofie Oyen,R,160,BEL,20.4,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,446,76,920,14
 2012-W-C25-BEL-02A-2012,Zwevegem 25K,Clay,32,25,20120709,3,201545,,,Anastasija Sevastova,R,169,LAT,22.2,202688,,,Isabella Shinikova,R,184,BUL,20.7,2-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,195,314,297,174
 2012-W-C25-BEL-02A-2012,Zwevegem 25K,Clay,32,25,20120709,4,201579,8,,Yurika Sema,L,168,JPN,25.5,202666,,Q,Nicola Geuer,R,167,GER,24.3,6-0 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,179,334,447,75
-2012-W-C25-BEL-02A-2012,Zwevegem 25K,Clay,32,25,20120709,5,202628,,,Maryna Zanevska,R,175,UKR,18.8,201377,3,,Yuliya Beygelzimer,R,174,UKR,28.7,6-4 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,290,181,166,366
+2012-W-C25-BEL-02A-2012,Zwevegem 25K,Clay,32,25,20120709,5,202628,,,Maryna Zanevska,R,175,BEL,18.8,201377,3,,Yuliya Beygelzimer,R,174,UKR,28.7,6-4 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,290,181,166,366
 2012-W-C25-BEL-02A-2012,Zwevegem 25K,Clay,32,25,20120709,6,202832,,Q,Katerina Kramperova,R,,CZE,23.5,206043,,Q,Victoire Mfoumouangana,U,,FRA,20.7,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,407,91,1095,6
 2012-W-C25-BEL-02A-2012,Zwevegem 25K,Clay,32,25,20120709,7,201568,,,Kristina Kucova,R,163,SVK,22.1,201656,,,Tadeja Majeric,R,178,SLO,21.8,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,274,194,304,165
 2012-W-C25-BEL-02A-2012,Zwevegem 25K,Clay,32,25,20120709,8,204434,,WC,Ysaline Bonaventure,L,178,BEL,17.8,201612,5,,Junri Namigata,R,170,JPN,30.0,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,566,48,214,280
@@ -9798,14 +9798,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C25-BEL-02A-2012,Zwevegem 25K,Clay,32,25,20120709,16,202483,2,,Sandra Zaniewska,R,172,POL,20.5,202703,,Q,Constance Sibille,R,,FRA,21.6,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,151,427,439,78
 2012-W-C25-BEL-02A-2012,Zwevegem 25K,Clay,32,25,20120709,17,205877,,Q,Angelique Van Der Meet,R,,NED,21.3,202596,1,,Mihaela Buzarnescu,L,175,ROU,24.1,6-3 6-7(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,446,76,142,484
 2012-W-C25-BEL-02A-2012,Zwevegem 25K,Clay,32,25,20120709,18,201545,,,Anastasija Sevastova,R,169,LAT,22.2,201579,8,,Yurika Sema,L,168,JPN,25.5,7-6(8) 2-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,195,314,179,334
-2012-W-C25-BEL-02A-2012,Zwevegem 25K,Clay,32,25,20120709,19,202628,,,Maryna Zanevska,R,175,UKR,18.8,202832,,Q,Katerina Kramperova,R,,CZE,23.5,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,290,181,407,91
+2012-W-C25-BEL-02A-2012,Zwevegem 25K,Clay,32,25,20120709,19,202628,,,Maryna Zanevska,R,175,BEL,18.8,202832,,Q,Katerina Kramperova,R,,CZE,23.5,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,290,181,407,91
 2012-W-C25-BEL-02A-2012,Zwevegem 25K,Clay,32,25,20120709,20,201568,,,Kristina Kucova,R,163,SVK,22.1,204434,,WC,Ysaline Bonaventure,L,178,BEL,17.8,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,274,194,566,48
 2012-W-C25-BEL-02A-2012,Zwevegem 25K,Clay,32,25,20120709,21,201666,6,,Cagla Buyukakcay,R,172,TUR,22.7,202678,,,Polina Pekhova,R,181,BLR,20.3,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,199,304,313,159
 2012-W-C25-BEL-02A-2012,Zwevegem 25K,Clay,32,25,20120709,22,201465,4,,Kirsten Flipkens,R,165,BEL,26.4,202707,,Q,Myrtille Georges,R,174,FRA,21.5,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,172,348,312,159
 2012-W-C25-BEL-02A-2012,Zwevegem 25K,Clay,32,25,20120709,23,202695,,,Aleksandrina Naydenova,R,170,BUL,20.3,210703,,Q,Steffi Distelmans,U,,BEL,19.1,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,286,183,,
 2012-W-C25-BEL-02A-2012,Zwevegem 25K,Clay,32,25,20120709,24,202483,2,,Sandra Zaniewska,R,172,POL,20.5,201494,,,Raluca Olaru,R,173,ROU,23.3,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,151,427,245,233
 2012-W-C25-BEL-02A-2012,Zwevegem 25K,Clay,32,25,20120709,25,201545,,,Anastasija Sevastova,R,169,LAT,22.2,205877,,Q,Angelique Van Der Meet,R,,NED,21.3,6-3 3-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,195,314,446,76
-2012-W-C25-BEL-02A-2012,Zwevegem 25K,Clay,32,25,20120709,26,201568,,,Kristina Kucova,R,163,SVK,22.1,202628,,,Maryna Zanevska,R,175,UKR,18.8,7-5 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,274,194,290,181
+2012-W-C25-BEL-02A-2012,Zwevegem 25K,Clay,32,25,20120709,26,201568,,,Kristina Kucova,R,163,SVK,22.1,202628,,,Maryna Zanevska,R,175,BEL,18.8,7-5 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,274,194,290,181
 2012-W-C25-BEL-02A-2012,Zwevegem 25K,Clay,32,25,20120709,27,201666,6,,Cagla Buyukakcay,R,172,TUR,22.7,201465,4,,Kirsten Flipkens,R,165,BEL,26.4,6-1 4-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,199,304,172,348
 2012-W-C25-BEL-02A-2012,Zwevegem 25K,Clay,32,25,20120709,28,202483,2,,Sandra Zaniewska,R,172,POL,20.5,202695,,,Aleksandrina Naydenova,R,170,BUL,20.3,3-6 7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,151,427,286,183
 2012-W-C25-BEL-02A-2012,Zwevegem 25K,Clay,32,25,20120709,29,201545,,,Anastasija Sevastova,R,169,LAT,22.2,201568,,,Kristina Kucova,R,163,SVK,22.1,3-6 6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,195,314,274,194
@@ -9822,7 +9822,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C25-BEL-03A-2012,Rebecq 25K,Clay,32,25,20120730,9,201656,8,,Tadeja Majeric,R,178,SLO,21.9,204434,,WC,Ysaline Bonaventure,L,178,BEL,17.9,7-5 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,299,172,485,64
 2012-W-C25-BEL-03A-2012,Rebecq 25K,Clay,32,25,20120730,10,202688,,,Isabella Shinikova,R,184,BUL,20.7,203521,,,Andrea Gamiz,R,162,VEN,19.7,7-6(7) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,329,145,334,141
 2012-W-C25-BEL-03A-2012,Rebecq 25K,Clay,32,25,20120730,11,203379,,,Marina Melnikova,R,173,RUS,23.4,202602,,,Patrycja Sanduska,R,,POL,25.6,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,332,142,380,105
-2012-W-C25-BEL-03A-2012,Rebecq 25K,Clay,32,25,20120730,12,202628,4,,Maryna Zanevska,R,175,UKR,18.9,203364,,Q,Tatiana Bua,L,,ARG,22.5,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,286,187,518,56
+2012-W-C25-BEL-03A-2012,Rebecq 25K,Clay,32,25,20120730,12,202628,4,,Maryna Zanevska,R,175,BEL,18.9,203364,,Q,Tatiana Bua,L,,ARG,22.5,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,286,187,518,56
 2012-W-C25-BEL-03A-2012,Rebecq 25K,Clay,32,25,20120730,13,202707,,,Myrtille Georges,R,174,FRA,21.6,202669,6,,Cristina Dinu,R,,ROU,19.5,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,301,170,292,179
 2012-W-C25-BEL-03A-2012,Rebecq 25K,Clay,32,25,20120730,14,206251,,WC,Kimberley Zimmermann,R,,BEL,16.7,210703,,Q,Steffi Distelmans,U,,BEL,19.1,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1099,6,996,10
 2012-W-C25-BEL-03A-2012,Rebecq 25K,Clay,32,25,20120730,15,201557,,,Corinna Dentoni,R,,ITA,23.0,211285,,Q,Tayisiya Morderger,L,,GER,15.3,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,248,230,,
@@ -9832,7 +9832,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C25-BEL-03A-2012,Rebecq 25K,Clay,32,25,20120730,19,202703,,Q,Constance Sibille,R,,FRA,21.7,201293,3,Q,Catalina Castano,R,171,COL,33.0,3-6 6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,432,79,249,228
 2012-W-C25-BEL-03A-2012,Rebecq 25K,Clay,32,25,20120730,20,205877,,Q,Angelique Van Der Meet,R,,NED,21.4,202918,,Q,Danielle Harmsen,L,,NED,26.5,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,402,92,443,76
 2012-W-C25-BEL-03A-2012,Rebecq 25K,Clay,32,25,20120730,21,202688,,,Isabella Shinikova,R,184,BUL,20.7,201656,8,,Tadeja Majeric,R,178,SLO,21.9,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,329,145,299,172
-2012-W-C25-BEL-03A-2012,Rebecq 25K,Clay,32,25,20120730,22,203379,,,Marina Melnikova,R,173,RUS,23.4,202628,4,,Maryna Zanevska,R,175,UKR,18.9,6-1 3-6 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,332,142,286,187
+2012-W-C25-BEL-03A-2012,Rebecq 25K,Clay,32,25,20120730,22,203379,,,Marina Melnikova,R,173,RUS,23.4,202628,4,,Maryna Zanevska,R,175,BEL,18.9,6-1 3-6 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,332,142,286,187
 2012-W-C25-BEL-03A-2012,Rebecq 25K,Clay,32,25,20120730,23,202707,,,Myrtille Georges,R,174,FRA,21.6,206251,,WC,Kimberley Zimmermann,R,,BEL,16.7,1-6 7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,301,170,1099,6
 2012-W-C25-BEL-03A-2012,Rebecq 25K,Clay,32,25,20120730,24,201557,,,Corinna Dentoni,R,,ITA,23.0,201568,2,,Kristina Kucova,R,163,SVK,22.1,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,248,230,236,242
 2012-W-C25-BEL-03A-2012,Rebecq 25K,Clay,32,25,20120730,25,201465,1,,Kirsten Flipkens,R,165,BEL,26.5,202437,7,,Anastasia Grymalska,R,,ITA,22.0,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,155,444,295,176
@@ -10498,7 +10498,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C25-FRA-02A-2012,Grenoble 25K,Hard,32,25,20120130,3,201526,,,Julie Coin,R,172,FRA,29.1,201568,,,Kristina Kucova,R,163,SVK,21.6,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,283,188,213,286
 2012-W-C25-FRA-02A-2012,Grenoble 25K,Hard,32,25,20120130,4,202472,,,Laura Thorpe,R,,FRA,24.6,202594,7,,Elena Bogdan,L,183,ROU,19.8,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,236,241,201,310
 2012-W-C25-FRA-02A-2012,Grenoble 25K,Hard,32,25,20120130,5,202626,,,Stephanie Vogt,R,167,LIE,21.9,201591,4,,Margalita Chakhnashvili,R,172,GEO,29.1,6-1 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,258,212,186,351
-2012-W-C25-FRA-02A-2012,Grenoble 25K,Hard,32,25,20120130,6,202628,,Q,Maryna Zanevska,R,175,UKR,18.4,203228,,WC,Virginie Ayassamy,U,,FRA,25.9,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,489,70,,
+2012-W-C25-FRA-02A-2012,Grenoble 25K,Hard,32,25,20120130,6,202628,,Q,Maryna Zanevska,R,175,BEL,18.4,203228,,WC,Virginie Ayassamy,U,,FRA,25.9,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,489,70,,
 2012-W-C25-FRA-02A-2012,Grenoble 25K,Hard,32,25,20120130,7,202578,,,Laura Ioana Andrei,R,173,ROU,23.6,202678,,,Polina Pekhova,R,181,BLR,19.8,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,350,132,322,152
 2012-W-C25-FRA-02A-2012,Grenoble 25K,Hard,32,25,20120130,8,213583,8,,Tatjana Maria,R,172,GER,24.4,202640,,Q,Irina Ramialison,R,158,FRA,20.6,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,208,297,632,40
 2012-W-C25-FRA-02A-2012,Grenoble 25K,Hard,32,25,20120130,9,201648,6,,Naomi Broady,R,189,GBR,21.9,206268,,Q,Dejana Raickovic,L,,GER,20.1,6-3 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,185,351,923,14
@@ -10511,17 +10511,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C25-FRA-02A-2012,Grenoble 25K,Hard,32,25,20120130,16,202488,,,Valentyna Ivakhnenko,R,163,UKR,18.5,200754,2,,Jill Craybas,R,160,USA,37.5,6-2 1-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,289,182,147,462
 2012-W-C25-FRA-02A-2012,Grenoble 25K,Hard,32,25,20120130,17,201662,1,WC,Karolina Pliskova,R,184,CZE,19.8,200764,,,Elena Bovina,R,189,RUS,28.8,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,148,458,309,169
 2012-W-C25-FRA-02A-2012,Grenoble 25K,Hard,32,25,20120130,18,201526,,,Julie Coin,R,172,FRA,29.1,202472,,,Laura Thorpe,R,,FRA,24.6,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,283,188,236,241
-2012-W-C25-FRA-02A-2012,Grenoble 25K,Hard,32,25,20120130,19,202628,,Q,Maryna Zanevska,R,175,UKR,18.4,202626,,,Stephanie Vogt,R,167,LIE,21.9,0-6 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,489,70,258,212
+2012-W-C25-FRA-02A-2012,Grenoble 25K,Hard,32,25,20120130,19,202628,,Q,Maryna Zanevska,R,175,BEL,18.4,202626,,,Stephanie Vogt,R,167,LIE,21.9,0-6 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,489,70,258,212
 2012-W-C25-FRA-02A-2012,Grenoble 25K,Hard,32,25,20120130,20,213583,8,,Tatjana Maria,R,172,GER,24.4,202578,,,Laura Ioana Andrei,R,173,ROU,23.6,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,208,297,350,132
 2012-W-C25-FRA-02A-2012,Grenoble 25K,Hard,32,25,20120130,21,201648,6,,Naomi Broady,R,189,GBR,21.9,203518,,Q,Paula Kania,R,168,POL,19.2,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,185,351,398,104
 2012-W-C25-FRA-02A-2012,Grenoble 25K,Hard,32,25,20120130,22,201697,3,,Kristyna Pliskova,L,184,CZE,19.8,205824,,LL,Ema Mikulcic,R,,CRO,19.7,5-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,177,364,931,14
 2012-W-C25-FRA-02A-2012,Grenoble 25K,Hard,32,25,20120130,23,201484,5,,Sandra Zahlavova,U,,CZE,26.3,201640,,Q,Maria Teresa Torro Flor,R,173,ESP,19.7,6-3 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,230,247,438,86
 2012-W-C25-FRA-02A-2012,Grenoble 25K,Hard,32,25,20120130,24,202488,,,Valentyna Ivakhnenko,R,163,UKR,18.5,201461,,WC,Aurelie Vedy,L,,FRA,30.9,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,289,182,,
 2012-W-C25-FRA-02A-2012,Grenoble 25K,Hard,32,25,20120130,25,201662,1,WC,Karolina Pliskova,R,184,CZE,19.8,201526,,,Julie Coin,R,172,FRA,29.1,6-2 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,148,458,283,188
-2012-W-C25-FRA-02A-2012,Grenoble 25K,Hard,32,25,20120130,26,202628,,Q,Maryna Zanevska,R,175,UKR,18.4,213583,8,,Tatjana Maria,R,172,GER,24.4,6-0 6-4,3,QF,,,,,,,,,,,,,,,,,,,,489,70,208,297
+2012-W-C25-FRA-02A-2012,Grenoble 25K,Hard,32,25,20120130,26,202628,,Q,Maryna Zanevska,R,175,BEL,18.4,213583,8,,Tatjana Maria,R,172,GER,24.4,6-0 6-4,3,QF,,,,,,,,,,,,,,,,,,,,489,70,208,297
 2012-W-C25-FRA-02A-2012,Grenoble 25K,Hard,32,25,20120130,27,201697,3,,Kristyna Pliskova,L,184,CZE,19.8,201648,6,,Naomi Broady,R,189,GBR,21.9,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,177,364,185,351
 2012-W-C25-FRA-02A-2012,Grenoble 25K,Hard,32,25,20120130,28,201484,5,,Sandra Zahlavova,U,,CZE,26.3,202488,,,Valentyna Ivakhnenko,R,163,UKR,18.5,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,230,247,289,182
-2012-W-C25-FRA-02A-2012,Grenoble 25K,Hard,32,25,20120130,29,201662,1,WC,Karolina Pliskova,R,184,CZE,19.8,202628,,Q,Maryna Zanevska,R,175,UKR,18.4,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,148,458,489,70
+2012-W-C25-FRA-02A-2012,Grenoble 25K,Hard,32,25,20120130,29,201662,1,WC,Karolina Pliskova,R,184,CZE,19.8,202628,,Q,Maryna Zanevska,R,175,BEL,18.4,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,148,458,489,70
 2012-W-C25-FRA-02A-2012,Grenoble 25K,Hard,32,25,20120130,30,201697,3,,Kristyna Pliskova,L,184,CZE,19.8,201484,5,,Sandra Zahlavova,U,,CZE,26.3,3-6 6-3 7-6(6),3,SF,,,,,,,,,,,,,,,,,,,,177,364,230,247
 2012-W-C25-FRA-02A-2012,Grenoble 25K,Hard,32,25,20120130,31,201662,1,WC,Karolina Pliskova,R,184,CZE,19.8,201697,3,,Kristyna Pliskova,L,184,CZE,19.8,7-6(11) 7-6(6),3,F,,,,,,,,,,,,,,,,,,,,148,458,177,364
 2012-W-C25-FRA-03A-2012,Montpellier 25K,Clay,32,25,20120618,1,201709,1,,Yulia Putintseva,R,163,KAZ,17.4,201643,,,Eva Fernandez Brugues,R,,ESP,26.1,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,127,533,288,182
@@ -10537,7 +10537,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C25-FRA-03A-2012,Montpellier 25K,Clay,32,25,20120618,11,202703,,Q,Constance Sibille,R,,FRA,21.6,202695,,,Aleksandrina Naydenova,R,170,BUL,20.3,2-6 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,479,69,299,171
 2012-W-C25-FRA-03A-2012,Montpellier 25K,Clay,32,25,20120618,12,201293,,,Catalina Castano,R,171,COL,32.9,201526,4,,Julie Coin,R,172,FRA,29.5,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,272,201,241,232
 2012-W-C25-FRA-03A-2012,Montpellier 25K,Clay,32,25,20120618,13,202430,5,,Alize Lim,R,173,FRA,21.9,202410,,,Sofia Shapatava,R,170,GEO,23.4,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,295,174,308,163
-2012-W-C25-FRA-03A-2012,Montpellier 25K,Clay,32,25,20120618,14,202628,,,Maryna Zanevska,R,175,UKR,18.8,202922,,,Michaela Honcova,R,,SVK,19.4,1-6 6-3 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,301,168,333,140
+2012-W-C25-FRA-03A-2012,Montpellier 25K,Clay,32,25,20120618,14,202628,,,Maryna Zanevska,R,175,BEL,18.8,202922,,,Michaela Honcova,R,,SVK,19.4,1-6 6-3 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,301,168,333,140
 2012-W-C25-FRA-03A-2012,Montpellier 25K,Clay,32,25,20120618,15,203281,,WC,Amandine Hesse,R,164,FRA,19.4,206166,,WC,Jade Suvrijn,R,,FRA,17.1,2-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,447,77,792,23
 2012-W-C25-FRA-03A-2012,Montpellier 25K,Clay,32,25,20120618,16,201620,2,,Monica Puig,R,170,PUR,18.7,203486,,WC,Celine Ghesquiere,U,,FRA,21.3,3-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,191,316,670,34
 2012-W-C25-FRA-03A-2012,Montpellier 25K,Clay,32,25,20120618,17,201709,1,,Yulia Putintseva,R,163,KAZ,17.4,202526,,Q,Marina Shamayko,R,,RUS,24.8,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,127,533,383,104
@@ -10546,7 +10546,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C25-FRA-03A-2012,Montpellier 25K,Clay,32,25,20120618,20,201392,7,,Severine Beltrame,R,171,FRA,32.8,202707,,,Myrtille Georges,R,174,FRA,21.4,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,285,187,335,139
 2012-W-C25-FRA-03A-2012,Montpellier 25K,Clay,32,25,20120618,21,202642,,,Gioia Barbieri,R,170,ITA,20.9,203365,6,,Mailen Auroux,R,170,ARG,23.8,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,306,164,267,207
 2012-W-C25-FRA-03A-2012,Montpellier 25K,Clay,32,25,20120618,22,201293,,,Catalina Castano,R,171,COL,32.9,202703,,Q,Constance Sibille,R,,FRA,21.6,W/O,3,R16,,,,,,,,,,,,,,,,,,,,272,201,479,69
-2012-W-C25-FRA-03A-2012,Montpellier 25K,Clay,32,25,20120618,23,202430,5,,Alize Lim,R,173,FRA,21.9,202628,,,Maryna Zanevska,R,175,UKR,18.8,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,295,174,301,168
+2012-W-C25-FRA-03A-2012,Montpellier 25K,Clay,32,25,20120618,23,202430,5,,Alize Lim,R,173,FRA,21.9,202628,,,Maryna Zanevska,R,175,BEL,18.8,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,295,174,301,168
 2012-W-C25-FRA-03A-2012,Montpellier 25K,Clay,32,25,20120618,24,201620,2,,Monica Puig,R,170,PUR,18.7,203281,,WC,Amandine Hesse,R,164,FRA,19.4,6-4 2-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,191,316,447,77
 2012-W-C25-FRA-03A-2012,Montpellier 25K,Clay,32,25,20120618,25,202395,,,Maria Irigoyen,L,171,ARG,24.9,201709,1,,Yulia Putintseva,R,163,KAZ,17.4,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,278,195,127,533
 2012-W-C25-FRA-03A-2012,Montpellier 25K,Clay,32,25,20120618,26,201392,7,,Severine Beltrame,R,171,FRA,32.8,201557,,,Corinna Dentoni,R,,ITA,22.8,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,285,187,425,85
@@ -10560,7 +10560,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C25-FRA-04A-2012,Perigueux 25K,Clay,32,25,20120625,3,201568,,,Kristina Kucova,R,163,SVK,22.0,203281,,Q,Amandine Hesse,R,164,FRA,19.4,7-6(8) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,284,189,448,77
 2012-W-C25-FRA-04A-2012,Perigueux 25K,Clay,32,25,20120625,4,201579,5,,Yurika Sema,L,168,JPN,25.5,201642,,WC,Fatima El Allami,L,,MAR,23.2,6-7(7) 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,207,290,750,26
 2012-W-C25-FRA-04A-2012,Perigueux 25K,Clay,32,25,20120625,5,202430,,,Alize Lim,R,173,FRA,21.9,202480,3,,Richel Hogenkamp,R,168,NED,20.1,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,300,174,196,312
-2012-W-C25-FRA-04A-2012,Perigueux 25K,Clay,32,25,20120625,6,202628,,,Maryna Zanevska,R,175,UKR,18.8,203363,,,Vanesa Furlanetto,U,,ARG,25.3,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,305,168,350,130
+2012-W-C25-FRA-04A-2012,Perigueux 25K,Clay,32,25,20120625,6,202628,,,Maryna Zanevska,R,175,BEL,18.8,203363,,,Vanesa Furlanetto,U,,ARG,25.3,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,305,168,350,130
 2012-W-C25-FRA-04A-2012,Perigueux 25K,Clay,32,25,20120625,7,202922,,,Michaela Honcova,R,,SVK,19.5,206166,,Q,Jade Suvrijn,R,,FRA,17.1,2-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,336,140,794,23
 2012-W-C25-FRA-04A-2012,Perigueux 25K,Clay,32,25,20120625,8,202701,7,,Irina Khromacheva,L,170,RUS,17.1,201392,,,Severine Beltrame,R,171,FRA,32.8,6-4 2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,214,281,288,187
 2012-W-C25-FRA-04A-2012,Perigueux 25K,Clay,32,25,20120625,9,202463,6,,Ines Ferrer Suarez,U,,ESP,22.0,202621,,Q,Elixane Lechemia,L,,FRA,20.8,7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,208,288,510,62
@@ -10573,14 +10573,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C25-FRA-04A-2012,Perigueux 25K,Clay,32,25,20120625,16,201620,2,,Monica Puig,R,170,PUR,18.7,201643,,,Eva Fernandez Brugues,R,,ESP,26.1,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,192,316,291,182
 2012-W-C25-FRA-04A-2012,Perigueux 25K,Clay,32,25,20120625,17,202707,,,Myrtille Georges,R,174,FRA,21.5,202602,,Q,Patrycja Sanduska,R,,POL,25.5,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,339,139,360,122
 2012-W-C25-FRA-04A-2012,Perigueux 25K,Clay,32,25,20120625,18,201579,5,,Yurika Sema,L,168,JPN,25.5,201568,,,Kristina Kucova,R,163,SVK,22.0,3-6 6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,207,290,284,189
-2012-W-C25-FRA-04A-2012,Perigueux 25K,Clay,32,25,20120625,19,202628,,,Maryna Zanevska,R,175,UKR,18.8,202430,,,Alize Lim,R,173,FRA,21.9,6-3 6-7(6) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,305,168,300,174
+2012-W-C25-FRA-04A-2012,Perigueux 25K,Clay,32,25,20120625,19,202628,,,Maryna Zanevska,R,175,BEL,18.8,202430,,,Alize Lim,R,173,FRA,21.9,6-3 6-7(6) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,305,168,300,174
 2012-W-C25-FRA-04A-2012,Perigueux 25K,Clay,32,25,20120625,20,202701,7,,Irina Khromacheva,L,170,RUS,17.1,202922,,,Michaela Honcova,R,,SVK,19.5,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,214,281,336,140
 2012-W-C25-FRA-04A-2012,Perigueux 25K,Clay,32,25,20120625,21,202463,6,,Ines Ferrer Suarez,U,,ESP,22.0,201664,,,Pemra Ozgen,R,170,TUR,26.1,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,208,288,292,182
 2012-W-C25-FRA-04A-2012,Perigueux 25K,Clay,32,25,20120625,22,202403,4,,Leticia Costas,L,165,ESP,22.2,203486,,Q,Celine Ghesquiere,U,,FRA,21.4,6-0 5-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,203,300,679,34
 2012-W-C25-FRA-04A-2012,Perigueux 25K,Clay,32,25,20120625,23,202695,,,Aleksandrina Naydenova,R,170,BUL,20.3,203365,8,,Mailen Auroux,R,170,ARG,23.9,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,295,179,270,207
 2012-W-C25-FRA-04A-2012,Perigueux 25K,Clay,32,25,20120625,24,201620,2,,Monica Puig,R,170,PUR,18.7,203480,,WC,Charlene Seateun,R,,FRA,18.8,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,192,316,753,26
 2012-W-C25-FRA-04A-2012,Perigueux 25K,Clay,32,25,20120625,25,202707,,,Myrtille Georges,R,174,FRA,21.5,201579,5,,Yurika Sema,L,168,JPN,25.5,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,339,139,207,290
-2012-W-C25-FRA-04A-2012,Perigueux 25K,Clay,32,25,20120625,26,202701,7,,Irina Khromacheva,L,170,RUS,17.1,202628,,,Maryna Zanevska,R,175,UKR,18.8,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,214,281,305,168
+2012-W-C25-FRA-04A-2012,Perigueux 25K,Clay,32,25,20120625,26,202701,7,,Irina Khromacheva,L,170,RUS,17.1,202628,,,Maryna Zanevska,R,175,BEL,18.8,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,214,281,305,168
 2012-W-C25-FRA-04A-2012,Perigueux 25K,Clay,32,25,20120625,27,202463,6,,Ines Ferrer Suarez,U,,ESP,22.0,202403,4,,Leticia Costas,L,165,ESP,22.2,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,208,288,203,300
 2012-W-C25-FRA-04A-2012,Perigueux 25K,Clay,32,25,20120625,28,201620,2,,Monica Puig,R,170,PUR,18.7,202695,,,Aleksandrina Naydenova,R,170,BUL,20.3,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,192,316,295,179
 2012-W-C25-FRA-04A-2012,Perigueux 25K,Clay,32,25,20120625,29,202701,7,,Irina Khromacheva,L,170,RUS,17.1,202707,,,Myrtille Georges,R,174,FRA,21.5,7-5 6-1,3,SF,,,,,,,,,,,,,,,,,,,,214,281,339,139
@@ -10661,7 +10661,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C25-FRA-07A-2012,Mont De Marsan 25K,Clay,32,25,20120910,11,203365,,,Mailen Auroux,R,170,ARG,24.1,202703,,WC,Constance Sibille,R,,FRA,21.8,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,254,221,450,74
 2012-W-C25-FRA-07A-2012,Mont De Marsan 25K,Clay,32,25,20120910,12,202707,,,Myrtille Georges,R,174,FRA,21.7,202395,4,,Maria Irigoyen,L,171,ARG,25.2,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,273,200,215,285
 2012-W-C25-FRA-07A-2012,Mont De Marsan 25K,Clay,32,25,20120910,13,202529,,Q,Natalia Orlova,R,,RUS,23.4,201622,5,,Iryna Bremond,R,,FRA,27.9,3-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,678,32,222,273
-2012-W-C25-FRA-07A-2012,Mont De Marsan 25K,Clay,32,25,20120910,14,201591,,,Margalita Chakhnashvili,R,172,GEO,29.7,202628,,,Maryna Zanevska,R,175,UKR,19.0,6-7(10) 7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,307,165,279,194
+2012-W-C25-FRA-07A-2012,Mont De Marsan 25K,Clay,32,25,20120910,14,201591,,,Margalita Chakhnashvili,R,172,GEO,29.7,202628,,,Maryna Zanevska,R,175,BEL,19.0,6-7(10) 7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,307,165,279,194
 2012-W-C25-FRA-07A-2012,Mont De Marsan 25K,Clay,32,25,20120910,15,201664,,,Pemra Ozgen,R,170,TUR,26.3,203280,,WC,Gracia Radovanovic,R,,FRA,21.4,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,280,194,687,31
 2012-W-C25-FRA-07A-2012,Mont De Marsan 25K,Clay,32,25,20120910,16,201643,,Q,Eva Fernandez Brugues,R,,ESP,26.3,202467,2,,Elitsa Kostova,R,172,BUL,22.4,6-1 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,361,121,194,312
 2012-W-C25-FRA-07A-2012,Mont De Marsan 25K,Clay,32,25,20120910,17,202596,1,,Mihaela Buzarnescu,L,175,ROU,24.3,205591,,Q,Paula Cristina Goncalves,R,173,BRA,22.0,7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,210,291,430,81
@@ -10688,7 +10688,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C25-FRA-07B-2012,Saint Malo 25K,Clay,32,25,20120917,7,203492,,Q,Alyona Sotnikova,R,170,UKR,20.3,202471,,Q,Karen Barbat,R,,DEN,20.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,462,70,587,44
 2012-W-C25-FRA-07B-2012,Saint Malo 25K,Clay,32,25,20120917,8,202421,6,,Alison Van Uytvanck,R,173,BEL,18.4,201591,,,Margalita Chakhnashvili,R,172,GEO,29.7,3-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,260,212,319,148
 2012-W-C25-FRA-07B-2012,Saint Malo 25K,Clay,32,25,20120917,9,202695,,,Aleksandrina Naydenova,R,170,BUL,20.5,202403,7,,Leticia Costas,L,165,ESP,22.4,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,295,168,259,212
-2012-W-C25-FRA-07B-2012,Saint Malo 25K,Clay,32,25,20120917,10,202628,,,Maryna Zanevska,R,175,UKR,19.0,203280,,Q,Gracia Radovanovic,R,,FRA,21.4,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,270,201,834,18
+2012-W-C25-FRA-07B-2012,Saint Malo 25K,Clay,32,25,20120917,10,202628,,,Maryna Zanevska,R,175,BEL,19.0,203280,,Q,Gracia Radovanovic,R,,FRA,21.4,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,270,201,834,18
 2012-W-C25-FRA-07B-2012,Saint Malo 25K,Clay,32,25,20120917,11,201643,,,Eva Fernandez Brugues,R,,ESP,26.3,203281,,,Amandine Hesse,R,164,FRA,19.6,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,372,108,414,85
 2012-W-C25-FRA-07B-2012,Saint Malo 25K,Clay,32,25,20120917,12,202694,4,,Teliana Pereira,R,168,BRA,24.1,202706,,WC,Manon Arcangioli,R,162,FRA,18.0,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,204,285,692,30
 2012-W-C25-FRA-07B-2012,Saint Malo 25K,Clay,32,25,20120917,13,202640,,Q,Irina Ramialison,R,158,FRA,21.2,202707,8,,Myrtille Georges,R,174,FRA,21.7,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,488,62,263,208
@@ -10699,17 +10699,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C25-FRA-07B-2012,Saint Malo 25K,Clay,32,25,20120917,18,205964,,LL,Laetitia Sarrazin,R,,FRA,19.5,201484,5,,Sandra Zahlavova,U,,CZE,26.9,6-7(3) 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,704,29,245,232
 2012-W-C25-FRA-07B-2012,Saint Malo 25K,Clay,32,25,20120917,19,201367,,,Arantxa Parra Santonja,R,176,ESP,29.8,201392,3,,Severine Beltrame,R,171,FRA,33.0,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,266,205,213,268
 2012-W-C25-FRA-07B-2012,Saint Malo 25K,Clay,32,25,20120917,20,202421,6,,Alison Van Uytvanck,R,173,BEL,18.4,203492,,Q,Alyona Sotnikova,R,170,UKR,20.3,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,260,212,462,70
-2012-W-C25-FRA-07B-2012,Saint Malo 25K,Clay,32,25,20120917,21,202628,,,Maryna Zanevska,R,175,UKR,19.0,202695,,,Aleksandrina Naydenova,R,170,BUL,20.5,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,270,201,295,168
+2012-W-C25-FRA-07B-2012,Saint Malo 25K,Clay,32,25,20120917,21,202628,,,Maryna Zanevska,R,175,BEL,19.0,202695,,,Aleksandrina Naydenova,R,170,BUL,20.5,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,270,201,295,168
 2012-W-C25-FRA-07B-2012,Saint Malo 25K,Clay,32,25,20120917,22,201643,,,Eva Fernandez Brugues,R,,ESP,26.3,202694,4,,Teliana Pereira,R,168,BRA,24.1,7-5 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,372,108,204,285
 2012-W-C25-FRA-07B-2012,Saint Malo 25K,Clay,32,25,20120917,23,203521,,,Andrea Gamiz,R,162,VEN,19.8,202640,,Q,Irina Ramialison,R,158,FRA,21.2,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,358,115,488,62
 2012-W-C25-FRA-07B-2012,Saint Malo 25K,Clay,32,25,20120917,24,202467,2,,Elitsa Kostova,R,172,BUL,22.4,201592,,,Beatriz Garcia Vidagany,U,,ESP,23.8,6-3 RET,3,R16,,,,,,,,,,,,,,,,,,,,192,312,329,142
 2012-W-C25-FRA-07B-2012,Saint Malo 25K,Clay,32,25,20120917,25,201638,1,,Estrella Cabeza Candela,R,173,ESP,25.5,205964,,LL,Laetitia Sarrazin,R,,FRA,19.5,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,138,508,704,29
 2012-W-C25-FRA-07B-2012,Saint Malo 25K,Clay,32,25,20120917,26,201367,,,Arantxa Parra Santonja,R,176,ESP,29.8,202421,6,,Alison Van Uytvanck,R,173,BEL,18.4,2-6 6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,266,205,260,212
-2012-W-C25-FRA-07B-2012,Saint Malo 25K,Clay,32,25,20120917,27,202628,,,Maryna Zanevska,R,175,UKR,19.0,201643,,,Eva Fernandez Brugues,R,,ESP,26.3,7-5 4-1 RET,3,QF,,,,,,,,,,,,,,,,,,,,270,201,372,108
+2012-W-C25-FRA-07B-2012,Saint Malo 25K,Clay,32,25,20120917,27,202628,,,Maryna Zanevska,R,175,BEL,19.0,201643,,,Eva Fernandez Brugues,R,,ESP,26.3,7-5 4-1 RET,3,QF,,,,,,,,,,,,,,,,,,,,270,201,372,108
 2012-W-C25-FRA-07B-2012,Saint Malo 25K,Clay,32,25,20120917,28,203521,,,Andrea Gamiz,R,162,VEN,19.8,202467,2,,Elitsa Kostova,R,172,BUL,22.4,7-5 7-5,3,QF,,,,,,,,,,,,,,,,,,,,358,115,192,312
 2012-W-C25-FRA-07B-2012,Saint Malo 25K,Clay,32,25,20120917,29,201638,1,,Estrella Cabeza Candela,R,173,ESP,25.5,201367,,,Arantxa Parra Santonja,R,176,ESP,29.8,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,138,508,266,205
-2012-W-C25-FRA-07B-2012,Saint Malo 25K,Clay,32,25,20120917,30,202628,,,Maryna Zanevska,R,175,UKR,19.0,203521,,,Andrea Gamiz,R,162,VEN,19.8,6-3 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,,270,201,358,115
-2012-W-C25-FRA-07B-2012,Saint Malo 25K,Clay,32,25,20120917,31,202628,,,Maryna Zanevska,R,175,UKR,19.0,201638,1,,Estrella Cabeza Candela,R,173,ESP,25.5,6-2 6-7(5) 6-0,3,F,,,,,,,,,,,,,,,,,,,,270,201,138,508
+2012-W-C25-FRA-07B-2012,Saint Malo 25K,Clay,32,25,20120917,30,202628,,,Maryna Zanevska,R,175,BEL,19.0,203521,,,Andrea Gamiz,R,162,VEN,19.8,6-3 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,,270,201,358,115
+2012-W-C25-FRA-07B-2012,Saint Malo 25K,Clay,32,25,20120917,31,202628,,,Maryna Zanevska,R,175,BEL,19.0,201638,1,,Estrella Cabeza Candela,R,173,ESP,25.5,6-2 6-7(5) 6-0,3,F,,,,,,,,,,,,,,,,,,,,270,201,138,508
 2012-W-C25-FRA-08A-2012,Clermond Ferrand 25K,Hard,32,25,20120924,1,201697,1,,Kristyna Pliskova,L,184,CZE,20.5,202660,,Q,Jade Windley,R,,GBR,22.4,7-6(2) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,111,614,455,71
 2012-W-C25-FRA-08A-2012,Clermond Ferrand 25K,Hard,32,25,20120924,2,201617,,,Ana Vrljic,R,,CRO,28.1,206219,,WC,Oceane Dodin,R,,FRA,15.9,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,254,216,888,15
 2012-W-C25-FRA-08A-2012,Clermond Ferrand 25K,Hard,32,25,20120924,3,202433,,,Anna Giulia Remondina,R,,ITA,23.3,202627,,WC,Fiona Gervais,U,,FRA,18.7,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,295,167,1008,9
@@ -10996,7 +10996,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C25-GER-03A-2012,Darmstadt 25K,Clay,32,25,20120716,5,201484,4,,Sandra Zahlavova,U,,CZE,26.7,202667,,WC,Natela Dzalamidze,R,,RUS,19.3,7-6(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,267,200,433,82
 2012-W-C25-GER-03A-2012,Darmstadt 25K,Clay,32,25,20120716,6,201696,,Q,Laura Siegemund,R,168,GER,24.3,203485,,WC,Julia Kimmelmann,L,,GER,18.7,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,446,76,616,40
 2012-W-C25-GER-03A-2012,Darmstadt 25K,Clay,32,25,20120716,7,203440,,,Alexandra Artamonova,R,,RUS,19.6,204430,,WC,Antonia Lottner,R,185,GER,15.9,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,348,125,914,14
-2012-W-C25-GER-03A-2012,Darmstadt 25K,Clay,32,25,20120716,8,201532,,,Anastasia Pivovarova,R,181,RUS,22.0,202628,7,,Maryna Zanevska,R,175,UKR,18.8,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,344,127,292,181
+2012-W-C25-GER-03A-2012,Darmstadt 25K,Clay,32,25,20120716,8,201532,,,Anastasia Pivovarova,R,181,RUS,22.0,202628,7,,Maryna Zanevska,R,175,BEL,18.8,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,344,127,292,181
 2012-W-C25-GER-03A-2012,Darmstadt 25K,Clay,32,25,20120716,9,202845,,LL,Vojislava Lukic,R,,SRB,25.2,202695,5,,Aleksandrina Naydenova,R,170,BUL,20.3,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,746,26,296,177
 2012-W-C25-GER-03A-2012,Darmstadt 25K,Clay,32,25,20120716,10,204265,,Q,Martina Borecka,R,,CZE,21.1,202858,,,Anne Schaefer,R,,GER,25.3,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,525,56,347,125
 2012-W-C25-GER-03A-2012,Darmstadt 25K,Clay,32,25,20120716,11,203488,,Q,Doroteja Eric,L,,SRB,19.9,202911,,,Anastasiya Vasylyeva,L,182,UKR,20.4,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,723,28,318,162
@@ -12046,7 +12046,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C25-NED-02A-2012,Alphen A D Rijn 25K,Clay,32,25,20120903,1,202707,,,Myrtille Georges,R,174,FRA,21.7,201412,1,,Anastasia Yakimova,R,165,BLR,25.8,6-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,274,206,147,461
 2012-W-C25-NED-02A-2012,Alphen A D Rijn 25K,Clay,32,25,20120903,2,202403,,,Leticia Costas,L,165,ESP,22.4,201664,,,Pemra Ozgen,R,170,TUR,26.3,6-0 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,260,222,285,194
 2012-W-C25-NED-02A-2012,Alphen A D Rijn 25K,Clay,32,25,20120903,3,202894,,Q,Justine Ozga,R,,GER,24.5,202626,,,Stephanie Vogt,R,167,LIE,22.5,6-4 1-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,481,66,240,246
-2012-W-C25-NED-02A-2012,Alphen A D Rijn 25K,Clay,32,25,20120903,4,202628,,,Maryna Zanevska,R,175,UKR,19.0,201648,8,,Naomi Broady,R,189,GBR,22.5,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,284,194,224,267
+2012-W-C25-NED-02A-2012,Alphen A D Rijn 25K,Clay,32,25,20120903,4,202628,,,Maryna Zanevska,R,175,BEL,19.0,201648,8,,Naomi Broady,R,189,GBR,22.5,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,284,194,224,267
 2012-W-C25-NED-02A-2012,Alphen A D Rijn 25K,Clay,32,25,20120903,5,201390,,,Mervana Jugic Salkic,R,179,BIH,32.3,202694,4,,Teliana Pereira,R,168,BRA,24.1,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,232,255,214,285
 2012-W-C25-NED-02A-2012,Alphen A D Rijn 25K,Clay,32,25,20120903,6,205723,,Q,Anna Zaja,R,183,GER,21.1,201617,,,Ana Vrljic,R,,CRO,28.0,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,459,71,277,203
 2012-W-C25-NED-02A-2012,Alphen A D Rijn 25K,Clay,32,25,20120903,7,201484,,,Sandra Zahlavova,U,,CZE,26.8,203521,,Q,Andrea Gamiz,R,162,VEN,19.8,6-7(6) 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,258,224,348,131
@@ -12060,7 +12060,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C25-NED-02A-2012,Alphen A D Rijn 25K,Clay,32,25,20120903,15,204246,,WC,Lesley Pattinama Kerkhove,R,172,NED,20.8,206045,,WC,Quirine Lemoine,L,,NED,20.6,6-4 3-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,406,91,431,80
 2012-W-C25-NED-02A-2012,Alphen A D Rijn 25K,Clay,32,25,20120903,16,204391,,Q,Sofia Kvatsabaia,U,,GEO,24.1,202596,2,,Mihaela Buzarnescu,L,175,ROU,24.3,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,395,98,165,370
 2012-W-C25-NED-02A-2012,Alphen A D Rijn 25K,Clay,32,25,20120903,17,202707,,,Myrtille Georges,R,174,FRA,21.7,202403,,,Leticia Costas,L,165,ESP,22.4,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,274,206,260,222
-2012-W-C25-NED-02A-2012,Alphen A D Rijn 25K,Clay,32,25,20120903,18,202894,,Q,Justine Ozga,R,,GER,24.5,202628,,,Maryna Zanevska,R,175,UKR,19.0,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,481,66,284,194
+2012-W-C25-NED-02A-2012,Alphen A D Rijn 25K,Clay,32,25,20120903,18,202894,,Q,Justine Ozga,R,,GER,24.5,202628,,,Maryna Zanevska,R,175,BEL,19.0,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,481,66,284,194
 2012-W-C25-NED-02A-2012,Alphen A D Rijn 25K,Clay,32,25,20120903,19,201390,,,Mervana Jugic Salkic,R,179,BIH,32.3,205723,,Q,Anna Zaja,R,183,GER,21.1,6-1 2-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,232,255,459,71
 2012-W-C25-NED-02A-2012,Alphen A D Rijn 25K,Clay,32,25,20120903,20,201484,,,Sandra Zahlavova,U,,CZE,26.8,204263,,Q,Janina Toljan,R,,AUT,22.4,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,258,224,584,44
 2012-W-C25-NED-02A-2012,Alphen A D Rijn 25K,Clay,32,25,20120903,21,205877,,WC,Angelique Van Der Meet,R,,NED,21.5,201367,,,Arantxa Parra Santonja,R,176,ESP,29.8,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,358,124,278,199
@@ -12758,7 +12758,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C25-TUN-01A-2012,La Marsa 25K,Clay,32,25,20120319,31,202494,4,,Elina Svitolina,R,174,UKR,17.5,202688,,,Isabella Shinikova,R,184,BUL,20.3,7-6(4) 7-6(5),3,F,,,,,,,,,,,,,,,,,,,,201,301,339,140
 2012-W-C25-TUN-02A-2012,Tunis 25K,Clay,32,25,20120423,1,202457,1,,Bibiane Schoofs,R,170,NED,23.9,201666,,,Cagla Buyukakcay,R,172,TUR,22.5,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,157,418,232,248
 2012-W-C25-TUN-02A-2012,Tunis 25K,Clay,32,25,20120423,2,201664,,,Pemra Ozgen,R,170,TUR,25.9,201643,,,Eva Fernandez Brugues,R,,ESP,25.9,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,296,175,263,206
-2012-W-C25-TUN-02A-2012,Tunis 25K,Clay,32,25,20120423,3,202873,,Q,Ana Savic,U,,CRO,22.5,202628,,Q,Maryna Zanevska,R,175,UKR,18.6,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,589,48,292,178
+2012-W-C25-TUN-02A-2012,Tunis 25K,Clay,32,25,20120423,3,202873,,Q,Ana Savic,U,,CRO,22.5,202628,,Q,Maryna Zanevska,R,175,BEL,18.6,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,589,48,292,178
 2012-W-C25-TUN-02A-2012,Tunis 25K,Clay,32,25,20120423,4,202357,7,,Madalina Gojnea,R,,ROU,24.6,206392,,WC,Yesmine Kharrat,R,,TUN,16.4,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,208,294,,
 2012-W-C25-TUN-02A-2012,Tunis 25K,Clay,32,25,20120423,5,202463,,,Ines Ferrer Suarez,U,,ESP,21.8,201570,3,,Vesna Dolonc,R,170,SRB,22.7,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,225,264,172,372
 2012-W-C25-TUN-02A-2012,Tunis 25K,Clay,32,25,20120423,6,204427,,Q,Sara Sorribes Tormo,R,176,ESP,15.5,202604,,Q,Despina Papamichail,R,178,GRE,19.2,6-2 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,756,25,380,111
@@ -13669,7 +13669,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C50-FRA-03A-2012,Joue Les Tours 50K,Hard,32,50,20121008,12,200773,3,,Stephanie Foretz Gacon,R,166,FRA,31.4,202467,,,Elitsa Kostova,R,172,BUL,22.4,1-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,97,665,191,312
 2012-W-C50-FRA-03A-2012,Joue Les Tours 50K,Hard,32,50,20121008,13,201590,7,,Alison Riske Amritraj,R,173,USA,22.2,203509,,Q,Diana Marcinkevica,R,170,LAT,20.1,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,136,474,256,216
 2012-W-C50-FRA-03A-2012,Joue Les Tours 50K,Hard,32,50,20121008,14,201670,,,Amra Sadikovic,R,186,SUI,23.4,201392,,,Severine Beltrame,R,171,FRA,33.1,4-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,193,310,222,249
-2012-W-C50-FRA-03A-2012,Joue Les Tours 50K,Hard,32,50,20121008,15,202628,,Q,Maryna Zanevska,R,175,UKR,19.1,201617,,Q,Ana Vrljic,R,,CRO,28.1,7-5 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,229,247,243,232
+2012-W-C50-FRA-03A-2012,Joue Les Tours 50K,Hard,32,50,20121008,15,202628,,Q,Maryna Zanevska,R,175,BEL,19.1,201617,,Q,Ana Vrljic,R,,CRO,28.1,7-5 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,229,247,243,232
 2012-W-C50-FRA-03A-2012,Joue Les Tours 50K,Hard,32,50,20121008,16,201540,2,,Kristina Mladenovic,R,184,FRA,19.4,201622,,,Iryna Bremond,R,,FRA,28.0,6-4 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,95,695,246,228
 2012-W-C50-FRA-03A-2012,Joue Les Tours 50K,Hard,32,50,20121008,17,201620,,,Monica Puig,R,170,PUR,19.0,202701,,,Irina Khromacheva,L,170,RUS,17.4,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,168,380,188,329
 2012-W-C50-FRA-03A-2012,Joue Les Tours 50K,Hard,32,50,20121008,18,201456,,,Olga Savchuk,R,175,UKR,25.0,202483,,,Sandra Zaniewska,R,172,POL,20.7,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,202,285,147,436
@@ -13678,16 +13678,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C50-FRA-03A-2012,Joue Les Tours 50K,Hard,32,50,20121008,21,201646,5,,Maria Joao Koehler,U,174,POR,20.0,203281,,WC,Amandine Hesse,R,164,FRA,19.7,2-6 6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,128,520,446,78
 2012-W-C50-FRA-03A-2012,Joue Les Tours 50K,Hard,32,50,20121008,22,201454,,,Akgul Amanmuradova,R,190,UZB,28.2,200773,3,,Stephanie Foretz Gacon,R,166,FRA,31.4,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,163,388,97,665
 2012-W-C50-FRA-03A-2012,Joue Les Tours 50K,Hard,32,50,20121008,23,201590,7,,Alison Riske Amritraj,R,173,USA,22.2,201670,,,Amra Sadikovic,R,186,SUI,23.4,6-1 6-7(3) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,136,474,193,310
-2012-W-C50-FRA-03A-2012,Joue Les Tours 50K,Hard,32,50,20121008,24,202628,,Q,Maryna Zanevska,R,175,UKR,19.1,201540,2,,Kristina Mladenovic,R,184,FRA,19.4,7-6(5) 6-7(0) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,229,247,95,695
+2012-W-C50-FRA-03A-2012,Joue Les Tours 50K,Hard,32,50,20121008,24,202628,,Q,Maryna Zanevska,R,175,BEL,19.1,201540,2,,Kristina Mladenovic,R,184,FRA,19.4,7-6(5) 6-7(0) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,229,247,95,695
 2012-W-C50-FRA-03A-2012,Joue Les Tours 50K,Hard,32,50,20121008,25,201620,,,Monica Puig,R,170,PUR,19.0,201456,,,Olga Savchuk,R,175,UKR,25.0,6-0 6-2,3,QF,,,,,,,,,,,,,,,,,,,,168,380,202,285
 2012-W-C50-FRA-03A-2012,Joue Les Tours 50K,Hard,32,50,20121008,26,202420,,JE,An Sophie Mestach,R,170,BEL,18.5,201423,4,,Yvonne Meusburger,R,175,AUT,29.0,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,573,46,114,586
 2012-W-C50-FRA-03A-2012,Joue Les Tours 50K,Hard,32,50,20121008,27,201646,5,,Maria Joao Koehler,U,174,POR,20.0,201454,,,Akgul Amanmuradova,R,190,UZB,28.2,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,128,520,163,388
-2012-W-C50-FRA-03A-2012,Joue Les Tours 50K,Hard,32,50,20121008,28,201590,7,,Alison Riske Amritraj,R,173,USA,22.2,202628,,Q,Maryna Zanevska,R,175,UKR,19.1,4-6 6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,136,474,229,247
+2012-W-C50-FRA-03A-2012,Joue Les Tours 50K,Hard,32,50,20121008,28,201590,7,,Alison Riske Amritraj,R,173,USA,22.2,202628,,Q,Maryna Zanevska,R,175,BEL,19.1,4-6 6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,136,474,229,247
 2012-W-C50-FRA-03A-2012,Joue Les Tours 50K,Hard,32,50,20121008,29,201620,,,Monica Puig,R,170,PUR,19.0,202420,,JE,An Sophie Mestach,R,170,BEL,18.5,6-2 7-6(0),3,SF,,,,,,,,,,,,,,,,,,,,168,380,573,46
 2012-W-C50-FRA-03A-2012,Joue Les Tours 50K,Hard,32,50,20121008,30,201646,5,,Maria Joao Koehler,U,174,POR,20.0,201590,7,,Alison Riske Amritraj,R,173,USA,22.2,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,128,520,136,474
 2012-W-C50-FRA-03A-2012,Joue Les Tours 50K,Hard,32,50,20121008,31,201620,,,Monica Puig,R,170,PUR,19.0,201646,5,,Maria Joao Koehler,U,174,POR,20.0,3-6 6-4 6-1,3,F,,,,,,,,,,,,,,,,,,,,168,380,128,520
 2012-W-C50-FRA-04A-2012,Limoges 50K,Hard,32,50,20121015,1,201668,1,,Alexandra Panova,R,179,RUS,23.6,201454,,,Akgul Amanmuradova,R,190,UZB,28.3,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,88,756,176,356
-2012-W-C50-FRA-04A-2012,Limoges 50K,Hard,32,50,20121015,2,202628,,,Maryna Zanevska,R,175,UKR,19.1,201622,,,Iryna Bremond,R,,FRA,28.0,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,211,270,280,179
+2012-W-C50-FRA-04A-2012,Limoges 50K,Hard,32,50,20121015,2,202628,,,Maryna Zanevska,R,175,BEL,19.1,201622,,,Iryna Bremond,R,,FRA,28.0,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,211,270,280,179
 2012-W-C50-FRA-04A-2012,Limoges 50K,Hard,32,50,20121015,3,201709,,,Yulia Putintseva,R,163,KAZ,17.7,202658,,WC,Audrey Bergot,R,175,FRA,27.7,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,140,463,585,43
 2012-W-C50-FRA-04A-2012,Limoges 50K,Hard,32,50,20121015,4,201590,,,Alison Riske Amritraj,R,173,USA,22.2,201533,8,,Shuai Zhang,R,177,CHN,23.7,3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,150,436,120,577
 2012-W-C50-FRA-04A-2012,Limoges 50K,Hard,32,50,20121015,5,200773,3,,Stephanie Foretz Gacon,R,166,FRA,31.4,205983,,WC,Josepha Adam,R,,FRA,18.9,3-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,99,659,847,17
@@ -13702,7 +13702,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C50-FRA-04A-2012,Limoges 50K,Hard,32,50,20121015,14,205877,,Q,Angelique Van Der Meet,R,,NED,21.6,211539,,WC,Fiona Ferro,R,170,FRA,15.5,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,281,177,,
 2012-W-C50-FRA-04A-2012,Limoges 50K,Hard,32,50,20121015,15,201561,,,Claire Feuerstein,L,178,FRA,26.6,201646,,,Maria Joao Koehler,U,174,POR,20.0,1-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,130,498,124,562
 2012-W-C50-FRA-04A-2012,Limoges 50K,Hard,32,50,20121015,16,201540,2,,Kristina Mladenovic,R,184,FRA,19.4,202483,,,Sandra Zaniewska,R,172,POL,20.7,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,95,697,148,438
-2012-W-C50-FRA-04A-2012,Limoges 50K,Hard,32,50,20121015,17,202628,,,Maryna Zanevska,R,175,UKR,19.1,201668,1,,Alexandra Panova,R,179,RUS,23.6,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,211,270,88,756
+2012-W-C50-FRA-04A-2012,Limoges 50K,Hard,32,50,20121015,17,202628,,,Maryna Zanevska,R,175,BEL,19.1,201668,1,,Alexandra Panova,R,179,RUS,23.6,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,211,270,88,756
 2012-W-C50-FRA-04A-2012,Limoges 50K,Hard,32,50,20121015,18,201590,,,Alison Riske Amritraj,R,173,USA,22.2,201709,,,Yulia Putintseva,R,163,KAZ,17.7,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,150,436,140,463
 2012-W-C50-FRA-04A-2012,Limoges 50K,Hard,32,50,20121015,19,202938,,Q,Zuzana Luknarova,R,,SVK,21.2,200773,3,,Stephanie Foretz Gacon,R,166,FRA,31.4,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,386,100,99,659
 2012-W-C50-FRA-04A-2012,Limoges 50K,Hard,32,50,20121015,20,201417,,,Marta Domachowska,R,176,POL,26.7,202663,,,Magda Linette,R,171,POL,20.6,7-6(1) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,193,316,278,181
@@ -13710,13 +13710,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-C50-FRA-04A-2012,Limoges 50K,Hard,32,50,20121015,22,200617,4,,Kimiko Date Krumm,R,163,JPN,42.0,203533,,,Anna Karolina Schmiedlova,R,176,SVK,18.0,1-6 7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,105,648,214,265
 2012-W-C50-FRA-04A-2012,Limoges 50K,Hard,32,50,20121015,23,205877,,Q,Angelique Van Der Meet,R,,NED,21.6,201498,7,,Karin Knapp,R,180,ITA,25.3,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,281,177,125,559
 2012-W-C50-FRA-04A-2012,Limoges 50K,Hard,32,50,20121015,24,201561,,,Claire Feuerstein,L,178,FRA,26.6,201540,2,,Kristina Mladenovic,R,184,FRA,19.4,6-4 2-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,130,498,95,697
-2012-W-C50-FRA-04A-2012,Limoges 50K,Hard,32,50,20121015,25,202628,,,Maryna Zanevska,R,175,UKR,19.1,201590,,,Alison Riske Amritraj,R,173,USA,22.2,4-6 6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,211,270,150,436
+2012-W-C50-FRA-04A-2012,Limoges 50K,Hard,32,50,20121015,25,202628,,,Maryna Zanevska,R,175,BEL,19.1,201590,,,Alison Riske Amritraj,R,173,USA,22.2,4-6 6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,211,270,150,436
 2012-W-C50-FRA-04A-2012,Limoges 50K,Hard,32,50,20121015,26,201417,,,Marta Domachowska,R,176,POL,26.7,202938,,Q,Zuzana Luknarova,R,,SVK,21.2,7-6(1) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,193,316,386,100
 2012-W-C50-FRA-04A-2012,Limoges 50K,Hard,32,50,20121015,27,201527,6,,Stefanie Voegele,R,170,SUI,22.6,200617,4,,Kimiko Date Krumm,R,163,JPN,42.0,2-6 6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,123,562,105,648
 2012-W-C50-FRA-04A-2012,Limoges 50K,Hard,32,50,20121015,28,201561,,,Claire Feuerstein,L,178,FRA,26.6,205877,,Q,Angelique Van Der Meet,R,,NED,21.6,6-1 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,130,498,281,177
-2012-W-C50-FRA-04A-2012,Limoges 50K,Hard,32,50,20121015,29,202628,,,Maryna Zanevska,R,175,UKR,19.1,201417,,,Marta Domachowska,R,176,POL,26.7,6-4 4-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,211,270,193,316
+2012-W-C50-FRA-04A-2012,Limoges 50K,Hard,32,50,20121015,29,202628,,,Maryna Zanevska,R,175,BEL,19.1,201417,,,Marta Domachowska,R,176,POL,26.7,6-4 4-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,211,270,193,316
 2012-W-C50-FRA-04A-2012,Limoges 50K,Hard,32,50,20121015,30,201561,,,Claire Feuerstein,L,178,FRA,26.6,201527,6,,Stefanie Voegele,R,170,SUI,22.6,4-6 6-4 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,,130,498,123,562
-2012-W-C50-FRA-04A-2012,Limoges 50K,Hard,32,50,20121015,31,201561,,,Claire Feuerstein,L,178,FRA,26.6,202628,,,Maryna Zanevska,R,175,UKR,19.1,7-5 6-3,3,F,,,,,,,,,,,,,,,,,,,,130,498,211,270
+2012-W-C50-FRA-04A-2012,Limoges 50K,Hard,32,50,20121015,31,201561,,,Claire Feuerstein,L,178,FRA,26.6,202628,,,Maryna Zanevska,R,175,BEL,19.1,7-5 6-3,3,F,,,,,,,,,,,,,,,,,,,,130,498,211,270
 2012-W-C50-FRA-05A-2012,Nantes 50K,Hard,32,50,20121029,1,201508,1,,Petra Cetkovska,R,172,CZE,27.7,201622,,WC,Iryna Bremond,R,,FRA,28.0,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,57,1066,295,165
 2012-W-C50-FRA-05A-2012,Nantes 50K,Hard,32,50,20121029,2,213583,,,Tatjana Maria,R,172,GER,25.2,202707,,LL,Myrtille Georges,R,174,FRA,21.8,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,116,590,249,215
 2012-W-C50-FRA-05A-2012,Nantes 50K,Hard,32,50,20121029,3,202420,,JE,An Sophie Mestach,R,170,BEL,18.6,201559,,,Irena Pavlovic,R,178,FRA,24.0,6-3 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,441,78,159,418
@@ -15806,7 +15806,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-PR-AUS-02A-2012,Sydney,Hard,30,P,20120109,9,201555,3,,Polona Hercog,R,182,SLO,20.9,202594,,A,Elena Bogdan,L,183,ROU,19.7,7-6(3) 6-1,3,Q1,,4,1,67,44,31,12,,3,5,2,4,62,47,28,4,,5,9,36,1490,198,310
 2012-W-PR-AUS-02A-2012,Sydney,Hard,30,P,20120109,10,204298,,WC,Viktorija Rajicic,R,170,AUS,17.7,201588,,,Anna Tatishvili,R,171,GEO,21.9,6-3 4-6 6-4,3,Q1,,1,4,95,50,30,21,,7,14,3,5,97,68,37,7,,4,12,669,34,86,744
 2012-W-PR-AUS-02A-2012,Sydney,Hard,30,P,20120109,11,201540,,,Kristina Mladenovic,R,184,FRA,18.6,201371,,,Vera Dushevina,R,180,RUS,25.2,6-2 3-6 6-2,3,Q1,,5,5,78,50,34,12,,9,13,3,2,85,60,35,6,,5,12,144,465,84,810
-2012-W-PR-AUS-02A-2012,Sydney,Hard,30,P,20120109,12,201505,7,,Ekaterina Makarova,L,178,RUS,23.5,201431,,,Aravane Rezai,R,165,FRA,24.8,6-2 0-0 RET,3,Q1,,4,1,20,17,16,0,,0,0,1,0,26,13,7,5,,0,2,54,1114,115,591
+2012-W-PR-AUS-02A-2012,Sydney,Hard,30,P,20120109,12,201505,7,,Kate Makarova,L,178,RUS,23.5,201431,,,Aravane Rezai,R,165,FRA,24.8,6-2 0-0 RET,3,Q1,,4,1,20,17,16,0,,0,0,1,0,26,13,7,5,,0,2,54,1114,115,591
 2012-W-PR-AUS-02A-2012,Sydney,Hard,30,P,20120109,13,201541,4,,Chanelle Scheepers,R,176,RSA,27.8,204413,,WC,Azra Hadzic,U,172,AUS,17.1,6-3 6-0,3,Q1,,0,4,37,22,15,9,,0,2,0,3,47,28,11,4,,5,12,39,1376,666,35
 2012-W-PR-AUS-02A-2012,Sydney,Hard,30,P,20120109,14,201613,,WC,Arina Rodionova,R,168,RUS,22.0,203526,,WC,Tammi Patterson,R,167,AUS,22.0,7-6(3) 6-3,3,Q1,,4,4,82,45,34,18,,4,6,0,1,72,42,26,15,,4,7,241,232,510,65
 2012-W-PR-AUS-02A-2012,Sydney,Hard,30,P,20120109,15,201427,,,Alize Cornet,R,173,FRA,21.9,201532,,,Anastasia Pivovarova,R,181,RUS,21.5,6-2 4-1 RET,3,Q1,,1,0,50,32,19,10,,2,4,0,8,40,17,9,5,,3,8,90,722,125,530
@@ -15824,7 +15824,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-PR-AUS-02A-2012,Sydney,Hard,30,P,20120109,27,201447,13,,Vania King,R,165,USA,22.8,202440,,,Paula Ormaechea,R,170,ARG,19.2,6-1 7-6(3),3,Q2,,0,1,70,47,32,8,,6,10,0,5,64,50,21,4,,5,11,65,936,194,323
 2012-W-PR-AUS-02A-2012,Sydney,Hard,30,P,20120109,28,201524,,,Urszula Radwanska,R,177,POL,21.0,201331,8,,Iveta Benesova,L,170,CZE,28.9,6-4 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,102,655,46,1198
 2012-W-PR-AUS-02A-2012,Sydney,Hard,30,P,20120109,29,201555,3,,Polona Hercog,R,182,SLO,20.9,204298,,WC,Viktorija Rajicic,R,170,AUS,17.7,7-5 6-4,3,Q2,,7,2,60,36,27,13,,1,3,1,4,67,35,20,17,,3,7,36,1490,669,34
-2012-W-PR-AUS-02A-2012,Sydney,Hard,30,P,20120109,30,201505,7,,Ekaterina Makarova,L,178,RUS,23.5,201540,,,Kristina Mladenovic,R,184,FRA,18.6,4-6 6-2 6-3,3,Q2,,2,3,104,67,44,19,,11,14,1,4,81,43,31,15,,3,8,54,1114,144,465
+2012-W-PR-AUS-02A-2012,Sydney,Hard,30,P,20120109,30,201505,7,,Kate Makarova,L,178,RUS,23.5,201540,,,Kristina Mladenovic,R,184,FRA,18.6,4-6 6-2 6-3,3,Q2,,2,3,104,67,44,19,,11,14,1,4,81,43,31,15,,3,8,54,1114,144,465
 2012-W-PR-AUS-02A-2012,Sydney,Hard,30,P,20120109,31,201541,4,,Chanelle Scheepers,R,176,RSA,27.8,201613,,WC,Arina Rodionova,R,168,RUS,22.0,6-2 6-1,3,Q2,,2,3,43,28,21,10,,0,0,0,5,74,50,27,7,,10,15,39,1376,241,232
 2012-W-PR-AUS-02A-2012,Sydney,Hard,30,P,20120109,32,201427,,,Alize Cornet,R,173,FRA,21.9,200002,,,Mirjana Lucic,R,181,CRO,29.8,6-4 1-6 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,90,722,130,513
 2012-W-PR-AUS-02A-2012,Sydney,Hard,30,P,20120109,33,201587,,,Bojana Jovanovski,R,175,SRB,20.0,200043,,,Virginie Razzano,R,173,FRA,28.6,6-7(6) 7-5 7-5,3,Q2,,2,5,126,75,49,24,,6,11,0,12,127,83,51,17,,3,10,72,900,85,806
@@ -15833,13 +15833,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2012-W-PR-AUS-02A-2012,Sydney,Hard,30,P,20120109,36,201305,,,Eleni Daniilidou,R,182,GRE,29.3,200773,,,Stephanie Foretz Gacon,R,166,FRA,30.6,7-6(4) 6-2,3,Q2,,0,6,77,53,31,13,,6,10,1,5,97,52,27,19,,13,19,88,731,108,633
 2012-W-PR-AUS-02A-2012,Sydney,Hard,30,P,20120109,37,201387,,,Sofia Arvidsson,R,176,SWE,27.8,201567,10,,Alexandra Dulgheru,R,172,ROU,22.6,6-7(6) 7-6(2) 7-5,3,Q3,,3,2,130,89,56,16,,9,16,0,14,154,99,55,25,,13,21,77,865,66,935
 2012-W-PR-AUS-02A-2012,Sydney,Hard,30,P,20120109,38,201524,,,Urszula Radwanska,R,177,POL,21.0,201447,13,,Vania King,R,165,USA,22.8,W/O,3,Q3,,,,,,,,,,,,,,,,,,,,102,655,65,936
-2012-W-PR-AUS-02A-2012,Sydney,Hard,30,P,20120109,39,201505,7,,Ekaterina Makarova,L,178,RUS,23.5,201555,3,,Polona Hercog,R,182,SLO,20.9,6-1 6-3,3,Q3,,2,2,57,40,30,8,,7,8,0,2,49,23,14,10,,4,9,54,1114,36,1490
+2012-W-PR-AUS-02A-2012,Sydney,Hard,30,P,20120109,39,201505,7,,Kate Makarova,L,178,RUS,23.5,201555,3,,Polona Hercog,R,182,SLO,20.9,6-1 6-3,3,Q3,,2,2,57,40,30,8,,7,8,0,2,49,23,14,10,,4,9,54,1114,36,1490
 2012-W-PR-AUS-02A-2012,Sydney,Hard,30,P,20120109,40,201541,4,,Chanelle Scheepers,R,176,RSA,27.8,201427,,,Alize Cornet,R,173,FRA,21.9,6-4 6-4,3,Q3,,0,2,68,36,26,13,,2,5,3,1,70,43,24,13,,9,14,39,1376,90,722
 2012-W-PR-AUS-02A-2012,Sydney,Hard,30,P,20120109,41,201527,,,Stefanie Voegele,R,170,SUI,21.8,201587,,,Bojana Jovanovski,R,175,SRB,20.0,3-6 6-4 6-2,3,Q3,,3,3,67,35,24,17,,1,5,1,4,90,53,33,18,,6,12,140,482,72,900
 2012-W-PR-AUS-02A-2012,Sydney,Hard,30,P,20120109,42,201349,,,Melinda Czink,L,178,HUN,29.2,201305,,,Eleni Daniilidou,R,182,GRE,29.3,6-7(5) 6-4 6-4,3,Q3,,6,5,102,70,42,18,,6,11,4,6,113,78,38,20,,10,17,146,460,88,731
 2012-W-PR-BEL-01A-2012,Brussels,Clay,30,P,20120521,1,201443,,,Alexa Glatch,R,183,USA,22.6,201568,,,Kristina Kucova,R,163,SVK,21.9,6-1 6-3,3,Q1,,4,1,40,25,19,7,,1,3,1,5,55,33,19,4,,4,10,190,318,275,190
 2012-W-PR-BEL-01A-2012,Brussels,Clay,30,P,20120521,2,201553,,,Lenka Wienerova,R,,SVK,24.0,203379,,,Marina Melnikova,R,173,RUS,23.2,7-6(6) 6-4,3,Q1,,3,2,76,60,41,6,,6,8,1,7,85,56,36,11,,5,8,263,202,352,129
-2012-W-PR-BEL-01A-2012,Brussels,Clay,30,P,20120521,3,201542,7,,Olivia Rogowska,R,175,AUS,20.9,202628,,,Maryna Zanevska,R,175,UKR,18.7,6-4 2-6 7-5,3,Q1,,2,6,96,62,37,17,,12,19,1,8,101,58,34,18,,13,20,123,557,302,168
+2012-W-PR-BEL-01A-2012,Brussels,Clay,30,P,20120521,3,201542,7,,Olivia Rogowska,R,175,AUS,20.9,202628,,,Maryna Zanevska,R,175,BEL,18.7,6-4 2-6 7-5,3,Q1,,2,6,96,62,37,17,,12,19,1,8,101,58,34,18,,13,20,123,557,302,168
 2012-W-PR-BEL-01A-2012,Brussels,Clay,30,P,20120521,4,201547,,,Michelle Larcher De Brito,R,165,POR,19.3,204434,,WC,Ysaline Bonaventure,L,178,BEL,17.7,6-1 6-3,3,Q1,,0,1,47,30,22,11,,3,4,5,7,65,28,18,13,,8,13,147,448,756,26
 2012-W-PR-BEL-01A-2012,Brussels,Clay,30,P,20120521,5,201318,,,Bethanie Mattek Sands,R,168,USA,27.1,201528,,WC,Melanie Oudin,R,168,USA,20.6,6-3 6-3,3,Q1,,1,3,63,38,30,11,,5,6,0,3,51,37,21,6,,3,7,171,362,266,200
 2012-W-PR-BEL-01A-2012,Brussels,Clay,30,P,20120521,6,202440,8,,Paula Ormaechea,R,170,ARG,19.6,202498,,WC,Julia Glushko,R,171,ISR,22.3,6-3 6-4,3,Q1,,2,0,66,46,29,13,,4,5,0,3,64,34,19,17,,7,10,122,557,224,273
