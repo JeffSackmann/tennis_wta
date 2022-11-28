@@ -3558,7 +3558,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-W-C10-ESP-10A-1997,Madrid 10K,Clay,32,10,19970909,29,202028,4,,Nuria Montero,U,,ESP,18.9,204007,,,Rosa Maria Llaneras,U,,ESP,27.3,6-1 4-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,334,45,552,13
 1997-W-C10-ESP-10A-1997,Madrid 10K,Clay,32,10,19970909,30,201211,,,Kyra Nagy,R,,HUN,19.6,201852,2,,Paula Hermida Velo,U,,ESP,19.8,7-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,494,18,293,54
 1997-W-C10-ESP-10A-1997,Madrid 10K,Clay,32,10,19970909,31,201211,,,Kyra Nagy,R,,HUN,19.6,202028,4,,Nuria Montero,U,,ESP,18.9,6-1 6-0,3,F,,,,,,,,,,,,,,,,,,,,494,18,334,45
-1997-W-C10-ESP-11A-1997,Lerida 10K,Clay,32,10,19970930,1,200049,1,,Conchita Martinez,R,170,ESP,25.4,202029,,,Ana Salas Lozano,R,,ESP,25.2,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,10,2198,486,20
+1997-W-C10-ESP-11A-1997,Lerida 10K,Clay,32,10,19970930,1,200751,1,,Conchita Martinez Granados,R,,ESP,21.6,202029,,,Ana Salas Lozano,R,,ESP,25.2,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,226,80,486,20
 1997-W-C10-ESP-11A-1997,Lerida 10K,Clay,32,10,19970930,2,206970,,Q,Cintia Perez,U,,ESP,17.6,206972,,,Caroline Rossel,U,,FRA,21.5,6-0 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,690,8
 1997-W-C10-ESP-11A-1997,Lerida 10K,Clay,32,10,19970930,3,201211,,,Kyra Nagy,R,,HUN,19.7,202308,,,Paula Garcia,R,,ESP,18.5,7-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,444,25,464,22
 1997-W-C10-ESP-11A-1997,Lerida 10K,Clay,32,10,19970930,4,204008,,,Patricia Aznar,U,,ESP,22.6,202028,5,,Nuria Montero,U,,ESP,18.9,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,524,16,317,48
@@ -3574,7 +3574,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-W-C10-ESP-11A-1997,Lerida 10K,Clay,32,10,19970930,14,204621,,LL,Raquel Ortega Herran,U,,ESP,19.3,204625,,,Meritxell Mimo Bravo,U,,ESP,18.4,1-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,885,3,527,16
 1997-W-C10-ESP-11A-1997,Lerida 10K,Clay,32,10,19970930,15,206968,,Q,Carolina Lillo Carrazon,U,,ESP,18.5,206971,,WC,Marta Ribalta,U,,ESP,16.6,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,842,4,,
 1997-W-C10-ESP-11A-1997,Lerida 10K,Clay,32,10,19970930,16,204007,,,Rosa Maria Llaneras,U,,ESP,27.4,200106,2,,Angeles Montolio,R,157,ESP,22.1,6-1 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,540,15,263,64
-1997-W-C10-ESP-11A-1997,Lerida 10K,Clay,32,10,19970930,17,200049,1,,Conchita Martinez,R,170,ESP,25.4,206970,,Q,Cintia Perez,U,,ESP,17.6,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,10,2198,,
+1997-W-C10-ESP-11A-1997,Lerida 10K,Clay,32,10,19970930,17,200751,1,,Conchita Martinez Granados,R,,ESP,21.6,206970,,Q,Cintia Perez,U,,ESP,17.6,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,226,80,,
 1997-W-C10-ESP-11A-1997,Lerida 10K,Clay,32,10,19970930,18,204008,,,Patricia Aznar,U,,ESP,22.6,201211,,,Kyra Nagy,R,,HUN,19.7,2-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,524,16,444,25
 1997-W-C10-ESP-11A-1997,Lerida 10K,Clay,32,10,19970930,19,202027,3,,Elena Salvador Reja,R,,ESP,18.3,204738,,WC,Yaiza Goni Blanco,U,,ESP,18.1,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,295,54,1019,1
 1997-W-C10-ESP-11A-1997,Lerida 10K,Clay,32,10,19970930,20,204765,7,,Henriette Van Aalderen,U,,NED,21.4,206976,,Q,Nuria Martinez,U,,ESP,19.1,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,376,36,,
@@ -3582,13 +3582,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-W-C10-ESP-11A-1997,Lerida 10K,Clay,32,10,19970930,22,202026,4,,Noelia Serra Djamdjean,U,,ESP,20.0,201452,,,Lourdes Dominguez Lino,R,163,ESP,16.5,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,421,27
 1997-W-C10-ESP-11A-1997,Lerida 10K,Clay,32,10,19970930,23,201860,6,,Mariam Ramon Climent,U,,ESP,21.0,204621,,LL,Raquel Ortega Herran,U,,ESP,19.3,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,354,42,885,3
 1997-W-C10-ESP-11A-1997,Lerida 10K,Clay,32,10,19970930,24,204007,,,Rosa Maria Llaneras,U,,ESP,27.4,206968,,Q,Carolina Lillo Carrazon,U,,ESP,18.5,2-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,540,15,842,4
-1997-W-C10-ESP-11A-1997,Lerida 10K,Clay,32,10,19970930,25,200049,1,,Conchita Martinez,R,170,ESP,25.4,204008,,,Patricia Aznar,U,,ESP,22.6,6-0 6-1,3,QF,,,,,,,,,,,,,,,,,,,,10,2198,524,16
+1997-W-C10-ESP-11A-1997,Lerida 10K,Clay,32,10,19970930,25,200751,1,,Conchita Martinez Granados,R,,ESP,21.6,204008,,,Patricia Aznar,U,,ESP,22.6,6-0 6-1,3,QF,,,,,,,,,,,,,,,,,,,,226,80,524,16
 1997-W-C10-ESP-11A-1997,Lerida 10K,Clay,32,10,19970930,26,202027,3,,Elena Salvador Reja,R,,ESP,18.3,204765,7,,Henriette Van Aalderen,U,,NED,21.4,2-6 6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,295,54,376,36
 1997-W-C10-ESP-11A-1997,Lerida 10K,Clay,32,10,19970930,27,201627,8,,Kim De Weille,U,,NED,21.4,202026,4,,Noelia Serra Djamdjean,U,,ESP,20.0,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,403,30,,
 1997-W-C10-ESP-11A-1997,Lerida 10K,Clay,32,10,19970930,28,204007,,,Rosa Maria Llaneras,U,,ESP,27.4,201860,6,,Mariam Ramon Climent,U,,ESP,21.0,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,540,15,354,42
-1997-W-C10-ESP-11A-1997,Lerida 10K,Clay,32,10,19970930,29,200049,1,,Conchita Martinez,R,170,ESP,25.4,202027,3,,Elena Salvador Reja,R,,ESP,18.3,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,10,2198,295,54
+1997-W-C10-ESP-11A-1997,Lerida 10K,Clay,32,10,19970930,29,200751,1,,Conchita Martinez Granados,R,,ESP,21.6,202027,3,,Elena Salvador Reja,R,,ESP,18.3,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,226,80,295,54
 1997-W-C10-ESP-11A-1997,Lerida 10K,Clay,32,10,19970930,30,201627,8,,Kim De Weille,U,,NED,21.4,204007,,,Rosa Maria Llaneras,U,,ESP,27.4,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,403,30,540,15
-1997-W-C10-ESP-11A-1997,Lerida 10K,Clay,32,10,19970930,31,201627,8,,Kim De Weille,U,,NED,21.4,200049,1,,Conchita Martinez,R,170,ESP,25.4,7-6 6-2,3,F,,,,,,,,,,,,,,,,,,,,403,30,10,2198
+1997-W-C10-ESP-11A-1997,Lerida 10K,Clay,32,10,19970930,31,201627,8,,Kim De Weille,U,,NED,21.4,200751,1,,Conchita Martinez Granados,R,,ESP,21.6,7-6 6-2,3,F,,,,,,,,,,,,,,,,,,,,403,30,226,80
 1997-W-C10-ESP-12A-1997,Gerona 10K,Clay,32,10,19971007,1,200751,1,,Conchita Martinez Granados,R,,ESP,21.7,206978,,WC,Elena Fontelles,U,,ESP,17.2,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,228,81,,
 1997-W-C10-ESP-12A-1997,Gerona 10K,Clay,32,10,19971007,2,201452,,,Lourdes Dominguez Lino,R,163,ESP,16.5,206973,,WC,Cristina Fontelles,U,,ESP,17.7,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,424,27,,
 1997-W-C10-ESP-12A-1997,Gerona 10K,Clay,32,10,19971007,3,206527,,Q,Marie Eva Vrba,U,,GER,16.8,201943,,Q,Ivana Bracun,U,,CRO,16.1,6-2 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -3651,7 +3651,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-W-C10-ESP-13A-1997,Ceuta 10K,Hard,32,10,19971021,29,202029,4,,Ana Salas Lozano,R,,ESP,25.2,201865,1,,Alicia Ortuno,U,,ESP,21.4,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,486,20,173,109
 1997-W-C10-ESP-13A-1997,Ceuta 10K,Hard,32,10,19971021,30,201326,2,,Bahia Mouhtassine,R,,MAR,18.1,206984,,,Tina Hojnik,U,,SLO,16.7,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,460,22,,
 1997-W-C10-ESP-13A-1997,Ceuta 10K,Hard,32,10,19971021,31,201326,2,,Bahia Mouhtassine,R,,MAR,18.1,202029,4,,Ana Salas Lozano,R,,ESP,25.2,6-2 2-6 7-5,3,F,,,,,,,,,,,,,,,,,,,,460,22,486,20
-1997-W-C10-ESP-14A-1997,Mallorca 10K,Clay,32,10,19971125,1,200049,1,,Conchita Martinez,R,170,ESP,25.6,204484,,,Marta Cano,U,,ESP,22.1,6-1 7-6,3,R32,,,,,,,,,,,,,,,,,,,,12,1988,364,36
+1997-W-C10-ESP-14A-1997,Mallorca 10K,Clay,32,10,19971125,1,200751,1,,Conchita Martinez Granados,R,,ESP,21.8,204484,,,Marta Cano,U,,ESP,22.1,6-1 7-6,3,R32,,,,,,,,,,,,,,,,,,,,168,115,364,36
 1997-W-C10-ESP-14A-1997,Mallorca 10K,Clay,32,10,19971125,2,204007,,,Rosa Maria Llaneras,U,,ESP,27.6,206841,,LL,Darina Mecova,U,,CZE,19.2,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,489,19,608,11
 1997-W-C10-ESP-14A-1997,Mallorca 10K,Clay,32,10,19971125,3,206527,,Q,Marie Eva Vrba,U,,GER,16.9,203927,,,Marina Escobar Martinez,U,,ESP,20.8,7-6 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,811,5,350,39
 1997-W-C10-ESP-14A-1997,Mallorca 10K,Clay,32,10,19971125,4,201860,8,,Mariam Ramon Climent,U,,ESP,21.2,204625,,,Meritxell Mimo Bravo,U,,ESP,18.5,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,343,40,518,17
@@ -3667,7 +3667,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-W-C10-ESP-14A-1997,Mallorca 10K,Clay,32,10,19971125,14,202975,,,Lucie Steflova,U,,CZE,21.2,201291,,WC,Nuria Llagostera Vives,R,156,ESP,17.5,6-3 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,402,29,949,2
 1997-W-C10-ESP-14A-1997,Mallorca 10K,Clay,32,10,19971125,15,204008,,,Patricia Aznar,U,,ESP,22.7,204025,,Q,Katrin Meiss,U,,GER,20.5,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,466,21,1045,1
 1997-W-C10-ESP-14A-1997,Mallorca 10K,Clay,32,10,19971125,16,200765,2,,Katalin Marosi,R,178,HUN,18.0,206966,,WC,Monica Amador Pons,U,,ESP,18.8,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,212,90,998,2
-1997-W-C10-ESP-14A-1997,Mallorca 10K,Clay,32,10,19971125,17,200049,1,,Conchita Martinez,R,170,ESP,25.6,204007,,,Rosa Maria Llaneras,U,,ESP,27.6,7-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,12,1988,489,19
+1997-W-C10-ESP-14A-1997,Mallorca 10K,Clay,32,10,19971125,17,200751,1,,Conchita Martinez Granados,R,,ESP,21.8,204007,,,Rosa Maria Llaneras,U,,ESP,27.6,7-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,168,115,489,19
 1997-W-C10-ESP-14A-1997,Mallorca 10K,Clay,32,10,19971125,18,201860,8,,Mariam Ramon Climent,U,,ESP,21.2,206527,,Q,Marie Eva Vrba,U,,GER,16.9,5-7 7-6 7-6,3,R16,,,,,,,,,,,,,,,,,,,,343,40,811,5
 1997-W-C10-ESP-14A-1997,Mallorca 10K,Clay,32,10,19971125,19,202026,3,,Noelia Serra Djamdjean,U,,ESP,20.2,202308,,,Paula Garcia,R,,ESP,18.6,6-4 1-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,444,23
 1997-W-C10-ESP-14A-1997,Mallorca 10K,Clay,32,10,19971125,20,201824,,,Gisela Riera Roura,R,,ESP,21.5,202028,5,,Nuria Montero,U,,ESP,19.1,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,381,32,315,49
@@ -3675,14 +3675,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-W-C10-ESP-14A-1997,Mallorca 10K,Clay,32,10,19971125,22,202117,4,,Maria Paola Zavagli,R,,ITA,20.4,202031,,,Rosa Maria Andres Rodriguez,R,,ESP,20.4,7-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,336,41,377,33
 1997-W-C10-ESP-14A-1997,Mallorca 10K,Clay,32,10,19971125,23,202253,7,,Marijana Kovacevic,R,,CRO,19.3,202975,,,Lucie Steflova,U,,CZE,21.2,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,342,40,402,29
 1997-W-C10-ESP-14A-1997,Mallorca 10K,Clay,32,10,19971125,24,200765,2,,Katalin Marosi,R,178,HUN,18.0,204008,,,Patricia Aznar,U,,ESP,22.7,7-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,212,90,466,21
-1997-W-C10-ESP-14A-1997,Mallorca 10K,Clay,32,10,19971125,25,200049,1,,Conchita Martinez,R,170,ESP,25.6,201860,8,,Mariam Ramon Climent,U,,ESP,21.2,6-2 6-7 6-0,3,QF,,,,,,,,,,,,,,,,,,,,12,1988,343,40
+1997-W-C10-ESP-14A-1997,Mallorca 10K,Clay,32,10,19971125,25,200751,1,,Conchita Martinez Granados,R,,ESP,21.8,201860,8,,Mariam Ramon Climent,U,,ESP,21.2,6-2 6-7 6-0,3,QF,,,,,,,,,,,,,,,,,,,,168,115,343,40
 1997-W-C10-ESP-14A-1997,Mallorca 10K,Clay,32,10,19971125,26,202026,3,,Noelia Serra Djamdjean,U,,ESP,20.2,201824,,,Gisela Riera Roura,R,,ESP,21.5,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,381,32
 1997-W-C10-ESP-14A-1997,Mallorca 10K,Clay,32,10,19971125,27,200728,6,,Melanie Schnell,R,,AUT,20.7,202117,4,,Maria Paola Zavagli,R,,ITA,20.4,7-5 2-6 7-6,3,QF,,,,,,,,,,,,,,,,,,,,295,55,336,41
 1997-W-C10-ESP-14A-1997,Mallorca 10K,Clay,32,10,19971125,28,200765,2,,Katalin Marosi,R,178,HUN,18.0,202253,7,,Marijana Kovacevic,R,,CRO,19.3,4-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,212,90,342,40
-1997-W-C10-ESP-14A-1997,Mallorca 10K,Clay,32,10,19971125,29,202026,3,,Noelia Serra Djamdjean,U,,ESP,20.2,200049,1,,Conchita Martinez,R,170,ESP,25.6,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,12,1988
+1997-W-C10-ESP-14A-1997,Mallorca 10K,Clay,32,10,19971125,29,202026,3,,Noelia Serra Djamdjean,U,,ESP,20.2,200751,1,,Conchita Martinez Granados,R,,ESP,21.8,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,168,115
 1997-W-C10-ESP-14A-1997,Mallorca 10K,Clay,32,10,19971125,30,200728,6,,Melanie Schnell,R,,AUT,20.7,200765,2,,Katalin Marosi,R,178,HUN,18.0,6-2 6-4,3,SF,,,,,,,,,,,,,,,,,,,,295,55,212,90
 1997-W-C10-ESP-14A-1997,Mallorca 10K,Clay,32,10,19971125,31,202026,3,,Noelia Serra Djamdjean,U,,ESP,20.2,200728,6,,Melanie Schnell,R,,AUT,20.7,6-4 6-1,3,F,,,,,,,,,,,,,,,,,,,,,,295,55
-1997-W-C10-ESP-15A-1997,Mallorca 10K,Clay,32,10,19971202,1,200049,1,,Conchita Martinez,R,170,ESP,25.6,204504,,,Denisa Sobotkova,U,,CZE,19.2,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,12,1988,469,21
+1997-W-C10-ESP-15A-1997,Mallorca 10K,Clay,32,10,19971202,1,200751,1,,Conchita Martinez Granados,R,,ESP,21.8,204504,,,Denisa Sobotkova,U,,CZE,19.2,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,170,115,469,21
 1997-W-C10-ESP-15A-1997,Mallorca 10K,Clay,32,10,19971202,2,202783,,,Andrea Van Den Hurk,U,,NED,18.4,201452,,,Lourdes Dominguez Lino,R,163,ESP,16.6,6-4 1-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,485,19,409,29
 1997-W-C10-ESP-15A-1997,Mallorca 10K,Clay,32,10,19971202,3,206507,,Q,Carlijn Buis,U,,NED,20.5,202538,,Q,Elena Pioppo,R,,ITA,18.5,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,614,11,,
 1997-W-C10-ESP-15A-1997,Mallorca 10K,Clay,32,10,19971202,4,200728,7,,Melanie Schnell,R,,AUT,20.7,204484,,,Marta Cano,U,,ESP,22.1,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,294,55,363,36
@@ -3698,7 +3698,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-W-C10-ESP-15A-1997,Mallorca 10K,Clay,32,10,19971202,14,202308,,,Paula Garcia,R,,ESP,18.7,202975,,,Lucie Steflova,U,,CZE,21.2,6-4 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,443,23,405,29
 1997-W-C10-ESP-15A-1997,Mallorca 10K,Clay,32,10,19971202,15,201824,,,Gisela Riera Roura,R,,ESP,21.5,200769,,,Giulia Casoni,R,169,ITA,19.6,7-5 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,384,32,351,39
 1997-W-C10-ESP-15A-1997,Mallorca 10K,Clay,32,10,19971202,16,201072,2,,Eva Bes Ostariz,R,,ESP,24.8,202253,,,Marijana Kovacevic,R,,CRO,19.3,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,175,114,343,40
-1997-W-C10-ESP-15A-1997,Mallorca 10K,Clay,32,10,19971202,17,200049,1,,Conchita Martinez,R,170,ESP,25.6,202783,,,Andrea Van Den Hurk,U,,NED,18.4,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,12,1988,485,19
+1997-W-C10-ESP-15A-1997,Mallorca 10K,Clay,32,10,19971202,17,200751,1,,Conchita Martinez Granados,R,,ESP,21.8,202783,,,Andrea Van Den Hurk,U,,NED,18.4,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,170,115,485,19
 1997-W-C10-ESP-15A-1997,Mallorca 10K,Clay,32,10,19971202,18,200728,7,,Melanie Schnell,R,,AUT,20.7,206507,,Q,Carlijn Buis,U,,NED,20.5,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,294,55,614,11
 1997-W-C10-ESP-15A-1997,Mallorca 10K,Clay,32,10,19971202,19,200765,3,,Katalin Marosi,R,178,HUN,18.0,202031,,,Rosa Maria Andres Rodriguez,R,,ESP,20.5,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,213,90,378,33
 1997-W-C10-ESP-15A-1997,Mallorca 10K,Clay,32,10,19971202,20,206527,,Q,Marie Eva Vrba,U,,GER,16.9,202149,,,Eva Krejcova,U,,CZE,21.0,6-3 1-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,811,5,321,47
@@ -3706,13 +3706,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-W-C10-ESP-15A-1997,Mallorca 10K,Clay,32,10,19971202,22,202027,4,,Elena Salvador Reja,R,,ESP,18.5,204007,,WC,Rosa Maria Llaneras,U,,ESP,27.6,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,250,71,494,19
 1997-W-C10-ESP-15A-1997,Mallorca 10K,Clay,32,10,19971202,23,202028,8,,Nuria Montero,U,,ESP,19.1,202308,,,Paula Garcia,R,,ESP,18.7,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,315,49,443,23
 1997-W-C10-ESP-15A-1997,Mallorca 10K,Clay,32,10,19971202,24,201072,2,,Eva Bes Ostariz,R,,ESP,24.8,201824,,,Gisela Riera Roura,R,,ESP,21.5,3-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,175,114,384,32
-1997-W-C10-ESP-15A-1997,Mallorca 10K,Clay,32,10,19971202,25,200049,1,,Conchita Martinez,R,170,ESP,25.6,200728,7,,Melanie Schnell,R,,AUT,20.7,5-7 6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,12,1988,294,55
+1997-W-C10-ESP-15A-1997,Mallorca 10K,Clay,32,10,19971202,25,200751,1,,Conchita Martinez Granados,R,,ESP,21.8,200728,7,,Melanie Schnell,R,,AUT,20.7,5-7 6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,170,115,294,55
 1997-W-C10-ESP-15A-1997,Mallorca 10K,Clay,32,10,19971202,26,206527,,Q,Marie Eva Vrba,U,,GER,16.9,200765,3,,Katalin Marosi,R,178,HUN,18.0,0-6 7-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,811,5,213,90
 1997-W-C10-ESP-15A-1997,Mallorca 10K,Clay,32,10,19971202,27,200058,5,,Anna Foldenyi Dicker,R,165,HUN,23.2,202027,4,,Elena Salvador Reja,R,,ESP,18.5,6-2 4-6 7-6,3,QF,,,,,,,,,,,,,,,,,,,,271,63,250,71
 1997-W-C10-ESP-15A-1997,Mallorca 10K,Clay,32,10,19971202,28,201072,2,,Eva Bes Ostariz,R,,ESP,24.8,202028,8,,Nuria Montero,U,,ESP,19.1,6-1 4-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,175,114,315,49
-1997-W-C10-ESP-15A-1997,Mallorca 10K,Clay,32,10,19971202,29,200049,1,,Conchita Martinez,R,170,ESP,25.6,206527,,Q,Marie Eva Vrba,U,,GER,16.9,6-2 6-7 6-4,3,SF,,,,,,,,,,,,,,,,,,,,12,1988,811,5
+1997-W-C10-ESP-15A-1997,Mallorca 10K,Clay,32,10,19971202,29,200751,1,,Conchita Martinez Granados,R,,ESP,21.8,206527,,Q,Marie Eva Vrba,U,,GER,16.9,6-2 6-7 6-4,3,SF,,,,,,,,,,,,,,,,,,,,170,115,811,5
 1997-W-C10-ESP-15A-1997,Mallorca 10K,Clay,32,10,19971202,30,201072,2,,Eva Bes Ostariz,R,,ESP,24.8,200058,5,,Anna Foldenyi Dicker,R,165,HUN,23.2,6-3 2-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,175,114,271,63
-1997-W-C10-ESP-15A-1997,Mallorca 10K,Clay,32,10,19971202,31,200049,1,,Conchita Martinez,R,170,ESP,25.6,201072,2,,Eva Bes Ostariz,R,,ESP,24.8,6-3 5-7 6-3,3,F,,,,,,,,,,,,,,,,,,,,12,1988,175,114
+1997-W-C10-ESP-15A-1997,Mallorca 10K,Clay,32,10,19971202,31,200751,1,,Conchita Martinez Granados,R,,ESP,21.8,201072,2,,Eva Bes Ostariz,R,,ESP,24.8,6-3 5-7 6-3,3,F,,,,,,,,,,,,,,,,,,,,170,115,175,114
 1997-W-C10-ESA-01A-1997,San Salvador 10K,Hard,32,10,19970526,1,203020,1,,Cintia Tortorella,R,,ARG,20.4,203083,,,Stephanie Schaer,U,,VEN,17.5,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,375,33,661,7
 1997-W-C10-ESA-01A-1997,San Salvador 10K,Hard,32,10,19970526,2,206988,,Q,Gabriela Duarte,U,,ESA,16.0,206898,,WC,Carolina Molins,U,,ESA,21.0,6-4 7-6,3,R32,,,,,,,,,,,,,,,,,,,,,,1061,0
 1997-W-C10-ESA-01A-1997,San Salvador 10K,Hard,32,10,19970526,3,204528,,,Adriana Lopez,U,,COL,19.1,206905,,LL,Natalia Ganna,U,,SUI,18.0,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,676,6,,
@@ -3872,7 +3872,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-W-C10-ESP-05A-1997,Balaguer 10K,Clay,32,10,19970428,2,206985,,WC,Pilar Andres,U,,ESP,18.1,206982,,,Eva Trujillo,U,,ESP,16.2,1-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1059,1,900,2
 1997-W-C10-ESP-05A-1997,Balaguer 10K,Clay,32,10,19970428,3,204622,,,Ana Sans,U,,ESP,18.5,206976,,LL,Nuria Martinez,U,,ESP,18.7,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,781,4,936,2
 1997-W-C10-ESP-05A-1997,Balaguer 10K,Clay,32,10,19970428,4,202026,7,,Noelia Serra Djamdjean,U,,ESP,19.6,207011,,,Jennifer Sans,U,,FRA,18.3,6-7 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,749,5
-1997-W-C10-ESP-05A-1997,Balaguer 10K,Clay,32,10,19970428,5,201452,,,Lourdes Dominguez Lino,R,163,ESP,16.0,200049,3,,Conchita Martinez,R,170,ESP,25.0,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,556,12,6,2921
+1997-W-C10-ESP-05A-1997,Balaguer 10K,Clay,32,10,19970428,5,201452,,,Lourdes Dominguez Lino,R,163,ESP,16.0,200751,3,,Conchita Martinez Granados,R,,ESP,21.2,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,556,12,300,49
 1997-W-C10-ESP-05A-1997,Balaguer 10K,Clay,32,10,19970428,6,206965,,,Laura Frias,U,,ESP,18.9,206966,,LL,Monica Amador Pons,U,,ESP,18.2,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,653,7,,
 1997-W-C10-ESP-05A-1997,Balaguer 10K,Clay,32,10,19970428,7,201287,,Q,Maria Jose Martinez Sanchez,L,176,ESP,14.7,206961,,Q,Ana Maria Franco Lopez,U,,ESP,18.0,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1997-W-C10-ESP-05A-1997,Balaguer 10K,Clay,32,10,19970428,8,202027,5,,Elena Salvador Reja,R,,ESP,17.9,207041,,WC,Irene Macia,U,,ESP,19.9,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,323,44,,
@@ -3903,7 +3903,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-W-C10-ESP-06A-1997,Tortosa 10K,Clay,32,10,19970505,2,206965,,,Laura Frias,U,,ESP,19.0,207051,,WC,Maria Guijarro,U,,ESP,15.7,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,670,7,,
 1997-W-C10-ESP-06A-1997,Tortosa 10K,Clay,32,10,19970505,3,204484,,,Marta Cano,U,,ESP,21.6,206435,,Q,Carmen Gajo Torrell,U,,ESP,17.8,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,449,22,,
 1997-W-C10-ESP-06A-1997,Tortosa 10K,Clay,32,10,19970505,4,201452,,,Lourdes Dominguez Lino,R,163,ESP,16.0,201852,5,,Paula Hermida Velo,U,,ESP,19.5,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,555,12,295,49
-1997-W-C10-ESP-06A-1997,Tortosa 10K,Clay,32,10,19970505,5,200049,4,,Conchita Martinez,R,170,ESP,25.0,204007,,,Rosa Maria Llaneras,U,,ESP,27.0,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,6,2797,567,11
+1997-W-C10-ESP-06A-1997,Tortosa 10K,Clay,32,10,19970505,5,200751,4,,Conchita Martinez Granados,R,,ESP,21.2,204007,,,Rosa Maria Llaneras,U,,ESP,27.0,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,296,49,567,11
 1997-W-C10-ESP-06A-1997,Tortosa 10K,Clay,32,10,19970505,6,207052,,WC,Blotza Gutierrez,U,,ESP,16.6,207053,,WC,Neus Barbera Flores,U,,ESP,17.0,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 1997-W-C10-ESP-06A-1997,Tortosa 10K,Clay,32,10,19970505,7,204130,,,Paula Racedo,U,,ARG,19.7,201938,,,Ainhoa Goni Blanco,R,,ESP,17.7,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,448,22,943,2
 1997-W-C10-ESP-06A-1997,Tortosa 10K,Clay,32,10,19970505,8,202027,7,,Elena Salvador Reja,R,,ESP,17.9,202026,,,Noelia Serra Djamdjean,U,,ESP,19.6,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,309,46,,
@@ -3917,17 +3917,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 1997-W-C10-ESP-06A-1997,Tortosa 10K,Clay,32,10,19970505,16,201824,2,,Gisela Riera Roura,R,,ESP,20.9,206966,,Q,Monica Amador Pons,U,,ESP,18.2,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,273,56,,
 1997-W-C10-ESP-06A-1997,Tortosa 10K,Clay,32,10,19970505,17,201849,1,,Veronica Stele,U,,ARG,19.4,206965,,,Laura Frias,U,,ESP,19.0,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,254,63,670,7
 1997-W-C10-ESP-06A-1997,Tortosa 10K,Clay,32,10,19970505,18,204484,,,Marta Cano,U,,ESP,21.6,201452,,,Lourdes Dominguez Lino,R,163,ESP,16.0,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,449,22,555,12
-1997-W-C10-ESP-06A-1997,Tortosa 10K,Clay,32,10,19970505,19,200049,4,,Conchita Martinez,R,170,ESP,25.0,207052,,WC,Blotza Gutierrez,U,,ESP,16.6,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,6,2797,,
+1997-W-C10-ESP-06A-1997,Tortosa 10K,Clay,32,10,19970505,19,200751,4,,Conchita Martinez Granados,R,,ESP,21.2,207052,,WC,Blotza Gutierrez,U,,ESP,16.6,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,296,49,,
 1997-W-C10-ESP-06A-1997,Tortosa 10K,Clay,32,10,19970505,20,204130,,,Paula Racedo,U,,ARG,19.7,202027,7,,Elena Salvador Reja,R,,ESP,17.9,6-3 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,448,22,309,46
 1997-W-C10-ESP-06A-1997,Tortosa 10K,Clay,32,10,19970505,21,201864,6,,Celeste Contin,U,,ARG,19.2,202308,,,Paula Garcia,R,,ESP,18.1,6-7 6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,307,47,601,9
 1997-W-C10-ESP-06A-1997,Tortosa 10K,Clay,32,10,19970505,22,204625,,,Meritxell Mimo Bravo,U,,ESP,18.0,206979,,LL,Elisabeth Unge,U,,ESP,18.2,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,600,9,1087,0
 1997-W-C10-ESP-06A-1997,Tortosa 10K,Clay,32,10,19970505,23,202028,,,Nuria Montero,U,,ESP,18.5,202029,8,,Ana Salas Lozano,R,,ESP,24.8,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,416,27,364,35
 1997-W-C10-ESP-06A-1997,Tortosa 10K,Clay,32,10,19970505,24,201824,2,,Gisela Riera Roura,R,,ESP,20.9,204204,,,Diane Asensio,U,,SUI,17.3,5-7 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,273,56,639,8
 1997-W-C10-ESP-06A-1997,Tortosa 10K,Clay,32,10,19970505,25,201849,1,,Veronica Stele,U,,ARG,19.4,204484,,,Marta Cano,U,,ESP,21.6,6-3 7-6,3,QF,,,,,,,,,,,,,,,,,,,,254,63,449,22
-1997-W-C10-ESP-06A-1997,Tortosa 10K,Clay,32,10,19970505,26,200049,4,,Conchita Martinez,R,170,ESP,25.0,204130,,,Paula Racedo,U,,ARG,19.7,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,6,2797,448,22
+1997-W-C10-ESP-06A-1997,Tortosa 10K,Clay,32,10,19970505,26,200751,4,,Conchita Martinez Granados,R,,ESP,21.2,204130,,,Paula Racedo,U,,ARG,19.7,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,296,49,448,22
 1997-W-C10-ESP-06A-1997,Tortosa 10K,Clay,32,10,19970505,27,201864,6,,Celeste Contin,U,,ARG,19.2,204625,,,Meritxell Mimo Bravo,U,,ESP,18.0,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,307,47,600,9
 1997-W-C10-ESP-06A-1997,Tortosa 10K,Clay,32,10,19970505,28,202028,,,Nuria Montero,U,,ESP,18.5,201824,2,,Gisela Riera Roura,R,,ESP,20.9,6-1 7-5,3,QF,,,,,,,,,,,,,,,,,,,,416,27,273,56
-1997-W-C10-ESP-06A-1997,Tortosa 10K,Clay,32,10,19970505,29,201849,1,,Veronica Stele,U,,ARG,19.4,200049,4,,Conchita Martinez,R,170,ESP,25.0,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,254,63,6,2797
+1997-W-C10-ESP-06A-1997,Tortosa 10K,Clay,32,10,19970505,29,201849,1,,Veronica Stele,U,,ARG,19.4,200751,4,,Conchita Martinez Granados,R,,ESP,21.2,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,254,63,296,49
 1997-W-C10-ESP-06A-1997,Tortosa 10K,Clay,32,10,19970505,30,202028,,,Nuria Montero,U,,ESP,18.5,201864,6,,Celeste Contin,U,,ARG,19.2,6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,416,27,307,47
 1997-W-C10-ESP-06A-1997,Tortosa 10K,Clay,32,10,19970505,31,202028,,,Nuria Montero,U,,ESP,18.5,201849,1,,Veronica Stele,U,,ARG,19.4,6-3 6-1,3,F,,,,,,,,,,,,,,,,,,,,416,27,254,63
 1997-W-C10-ESP-07A-1997,Zaragoza 10K,Clay,32,10,19970520,1,201865,1,,Alicia Ortuno,U,,ESP,21.0,204846,,,Eugenia Lopez Ascarte,U,,ARG,21.1,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,222,78,633,8
