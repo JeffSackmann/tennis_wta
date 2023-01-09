@@ -1,0 +1,248 @@
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,101,201586,,,Heather Watson,R,170,GBR,30.6,203462,1,,Kateryna Baindl,R,175,UKR,28.8,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,139,450,99,631
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,102,213908,,Q,Yuriko Miyazaki,R,165,GBR,27.1,214181,,Q,Anastasia Gasanova,R,,RUS,23.6,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,186,349,218,297
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,103,221407,,Q,Oksana Selekhmeteva,L,,RUS,19.9,203513,,LL,Robin Anderson,R,160,USA,29.7,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,189,344,194,339
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,104,211107,8,,Katie Boulter,R,180,GBR,26.4,204291,,,Na Lae Han,L,,KOR,30.4,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,136,457,160,406
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,105,220750,,,Daria Snigur,R,,UKR,20.7,215899,4,,Simona Waltert,R,,SUI,22.0,6-3 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,148,426,125,502
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,106,206292,,WC,Astra Sharma,R,178,AUS,27.3,215480,,Q,Suzan Lamens,R,,NED,23.4,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,233,274,201,326
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,107,214405,,,Mirjam Bjorklund,U,,SWE,24.4,215996,,LL,Arianne Hartono,R,,NED,26.6,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,157,411,237,269
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,108,221024,,,Hailey Baptiste,R,,USA,21.1,222965,7,,Erika Andreeva,R,,RUS,18.5,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,166,384,135,467
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,109,214839,6,,Jodie Burrage,R,,GBR,23.6,204294,,,Su Jeong Jang,R,,KOR,27.8,6-4 6-7(7) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,131,474,143,437
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,110,221178,,Q,Darya Astakhova,R,,RUS,20.9,221883,,WC,Talia Gibson,U,,AUS,18.5,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,205,320,341,157
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,111,215988,,Q,Mai Hontama,R,,JPN,23.3,220742,,,Leyre Romero Gormaz,L,,ESP,20.7,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,204,324,169,379
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,112,220348,3,,Diane Parry,R,170,FRA,20.3,221909,,Q,Ashlyn Krueger,R,185,USA,18.6,2-6 6-3 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,111,585,183,354
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,113,220332,5,,Eva Lys,R,165,GER,20.9,215337,,SR,Olga Danilovic,L,,SRB,21.9,6-3 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,127,497,155,412
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,114,220589,,,Elina Avanesyan,R,,RUS,20.2,214535,,WC,Petra Hule,U,,AUS,23.8,3-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,153,415,452,96
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,115,201672,,,Nigina Abduraimova,R,184,UZB,28.4,220435,,Q,Anastasia Zakharova,U,,RUS,20.9,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,180,362,171,376
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,116,201615,,,Lesia Tsurenko,R,174,UKR,33.5,203533,2,,Anna Karolina Schmiedlova,R,176,SVK,28.3,7-6(4) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,137,456,103,615
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,201,201586,,,Heather Watson,R,170,GBR,30.6,213908,,Q,Yuriko Miyazaki,R,165,GBR,27.1,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,139,450,186,349
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,202,211107,8,,Katie Boulter,R,180,GBR,26.4,221407,,Q,Oksana Selekhmeteva,L,,RUS,19.9,6-0 7-5,3,R16,,,,,,,,,,,,,,,,,,,,136,457,189,344
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,203,206292,,WC,Astra Sharma,R,178,AUS,27.3,220750,,,Daria Snigur,R,,UKR,20.7,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,233,274,148,426
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,204,221024,,,Hailey Baptiste,R,,USA,21.1,214405,,,Mirjam Bjorklund,U,,SWE,24.4,3-6 7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,166,384,157,411
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,205,214839,6,,Jodie Burrage,R,,GBR,23.6,221178,,Q,Darya Astakhova,R,,RUS,20.9,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,131,474,205,320
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,206,215988,,Q,Mai Hontama,R,,JPN,23.3,220348,3,,Diane Parry,R,170,FRA,20.3,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,204,324,111,585
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,207,220332,5,,Eva Lys,R,165,GER,20.9,220589,,,Elina Avanesyan,R,,RUS,20.2,4-6 6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,127,497,153,415
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,208,201615,,,Lesia Tsurenko,R,174,UKR,33.5,201672,,,Nigina Abduraimova,R,184,UZB,28.4,6-7(9) 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,137,456,180,362
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,301,211107,8,,Katie Boulter,R,180,GBR,26.4,201586,,,Heather Watson,R,170,GBR,30.6,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,136,457,139,450
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,302,221024,,,Hailey Baptiste,R,,USA,21.1,206292,,WC,Astra Sharma,R,178,AUS,27.3,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,166,384,233,274
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,303,214839,6,,Jodie Burrage,R,,GBR,23.6,215988,,Q,Mai Hontama,R,,JPN,23.3,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,131,474,204,324
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,304,201615,,,Lesia Tsurenko,R,174,UKR,33.5,220332,5,,Eva Lys,R,165,GER,20.9,6-2 5-7 6-3,3,QF,,,,,,,,,,,,,,,,,,,,137,456,127,497
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,401,211107,8,,Katie Boulter,R,180,GBR,26.4,221024,,,Hailey Baptiste,R,,USA,21.1,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,136,457,166,384
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,402,214839,6,,Jodie Burrage,R,,GBR,23.6,201615,,,Lesia Tsurenko,R,174,UKR,33.5,W/O,3,SF,,,,,,,,,,,,,,,,,,,,131,474,137,456
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,501,211107,8,,Katie Boulter,R,180,GBR,26.4,214839,6,,Jodie Burrage,R,,GBR,23.6,3-6 6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,136,457,131,474
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,101,214741,,,Anastasia Kulikova,L,,FIN,22.8,202436,1,,Reka Luca Jani,R,161,HUN,31.4,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,319,182,112,569
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,102,222290,,WC,Lanlana Tararudee,U,,THA,,221055,,Q,Sina Herrmann,R,,GER,21.1,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,639,48,557,65
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,103,223005,,WC,Anchisa Chanta,L,,THA,20.3,222296,,,Zhuoxuan Bai,R,,CHN,20.1,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,333,163
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,104,206102,7,,Ankita Raina,R,163,IND,29.9,214386,,,Xinyu Gao,U,,CHN,25.1,3-6 7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,266,232,328,169
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,105,203435,4,,Dalila Jakupovic,R,178,SLO,31.7,221210,,Q,Daria Kudashova,U,,RUS,19.7,2-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,251,247,421,110
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,106,220454,,Q,Yeon Woo Ku,U,,KOR,19.8,216587,,,Hong Yi Cody Wong,U,,HKG,20.8,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,462,93,344,155
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,107,220392,,WC,Punnin Kovapitukted,U,,THA,19.9,214505,,,Haruna Arakawa,U,,JPN,23.1,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,510,78,391,126
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,108,201435,8,,Kateryna Bondarenko,R,175,UKR,36.4,259905,,WC,Salakthip Ounmuang,U,,THA,17.3,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,320,182,,
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,109,201666,5,,Cagla Buyukakcay,R,172,TUR,33.2,214540,,,Chihiro Muramatsu,L,161,JPN,24.6,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,271,228,385,129
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,110,206105,,Q,Rutuja Bhosale,R,,IND,26.7,215314,,,En Shuo Liang,U,,TPE,22.2,3-6 7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,451,96,355,150
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,111,252493,,Q,Zongyu Li,U,,CHN,19.6,211844,,,Haruka Kaji,R,,JPN,28.2,6-2 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,547,67,334,163
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,112,202443,,,Valeria Savinykh,R,167,RUS,31.8,215151,3,,Lina Glushko,U,,ISR,22.9,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,278,223,250,249
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,113,202454,,,Erika Sema,R,163,JPN,34.1,211846,6,,Kyoka Okamura,R,,JPN,27.2,6-4 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,431,106,274,226
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,114,213873,,Q,Gabriela Andrea Knutson,R,,CZE,25.7,222390,,Q,Ya Yi Yang,L,,TPE,18.5,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,470,92,523,74
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,115,204223,,,Peangtarn Plipuech,R,169,THA,30.1,201524,,,Urszula Radwanska,R,177,POL,32.0,6-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,345,154,347,153
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,116,211756,,Q,Patcharin Cheapchandej,R,,THA,28.0,220733,2,,Carole Monnet,L,,FRA,21.0,2-6 7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,660,43,209,316
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,201,222290,,WC,Lanlana Tararudee,U,,THA,,214741,,,Anastasia Kulikova,L,,FIN,22.8,6-1 3-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,639,48,319,182
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,202,223005,,WC,Anchisa Chanta,L,,THA,20.3,206102,7,,Ankita Raina,R,163,IND,29.9,6-7(1) 6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,266,232
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,203,203435,4,,Dalila Jakupovic,R,178,SLO,31.7,220454,,Q,Yeon Woo Ku,U,,KOR,19.8,7-6(4) 4-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,251,247,462,93
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,204,201435,8,,Kateryna Bondarenko,R,175,UKR,36.4,220392,,WC,Punnin Kovapitukted,U,,THA,19.9,7-5 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,320,182,510,78
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,205,201666,5,,Cagla Buyukakcay,R,172,TUR,33.2,206105,,Q,Rutuja Bhosale,R,,IND,26.7,6-7(5) 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,271,228,451,96
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,206,202443,,,Valeria Savinykh,R,167,RUS,31.8,252493,,Q,Zongyu Li,U,,CHN,19.6,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,278,223,547,67
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,207,213873,,Q,Gabriela Andrea Knutson,R,,CZE,25.7,202454,,,Erika Sema,R,163,JPN,34.1,6-1 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,470,92,431,106
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,208,204223,,,Peangtarn Plipuech,R,169,THA,30.1,211756,,Q,Patcharin Cheapchandej,R,,THA,28.0,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,345,154,660,43
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,301,222290,,WC,Lanlana Tararudee,U,,THA,,223005,,WC,Anchisa Chanta,L,,THA,20.3,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,639,48,,
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,302,201435,8,,Kateryna Bondarenko,R,175,UKR,36.4,203435,4,,Dalila Jakupovic,R,178,SLO,31.7,6-3 2-2 RET,3,QF,,,,,,,,,,,,,,,,,,,,320,182,251,247
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,303,202443,,,Valeria Savinykh,R,167,RUS,31.8,201666,5,,Cagla Buyukakcay,R,172,TUR,33.2,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,278,223,271,228
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,304,204223,,,Peangtarn Plipuech,R,169,THA,30.1,213873,,Q,Gabriela Andrea Knutson,R,,CZE,25.7,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,345,154,470,92
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,401,201435,8,,Kateryna Bondarenko,R,175,UKR,36.4,222290,,WC,Lanlana Tararudee,U,,THA,,7-6(1) 3-6 6-0,3,SF,,,,,,,,,,,,,,,,,,,,320,182,639,48
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,402,202443,,,Valeria Savinykh,R,167,RUS,31.8,204223,,,Peangtarn Plipuech,R,169,THA,30.1,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,278,223,345,154
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,501,201435,8,,Kateryna Bondarenko,R,175,UKR,36.4,202443,,,Valeria Savinykh,R,167,RUS,31.8,6-2 6-3,3,F,,,,,,,,,,,,,,,,,,,,320,182,278,223
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,101,206219,1,,Oceane Dodin,R,,FRA,26.1,214254,,,Alice Rame,U,,FRA,25.1,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,121,526,461,93
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,102,215588,,,Yasmine Mansouri,R,,FRA,21.6,259754,,Q,Stefania Bojica,U,,ROU,17.8,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,512,76,1011,13
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,103,220554,,,Alice Tubello,U,,FRA,21.9,252492,,Q,Yujiao Che,U,,CHN,19.8,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,456,95,1241,5
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,104,220732,,,Lexie Stevens,R,,NED,23.5,216013,7,,Yuliya Hatouka,R,,BLR,22.6,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,423,109,285,215
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,105,236957,,,Lola Radivojevic,U,,SRB,17.9,221209,4,,Anastasia Zolotareva,U,,RUS,20.9,6-4 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,350,153,255,244
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,106,220672,,Q,Milana Zhabrailova,U,,RUS,19.8,215697,,,Arlinda Rushiti,R,,SUI,23.7,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,760,31,354,151
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,107,228107,,WC,Selya Rakki,U,,FRA,18.4,221777,,WC,Feryel Ben Hassen,R,,TUN,18.2,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1261,4
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,108,216367,6,,Sada Nahimana,R,,BDI,21.7,221626,,Q,Linda Klimovicova,U,,CZE,18.5,6-4 0-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,264,234,563,64
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,109,221237,8,,Maria Timofeeva,R,,RUS,19.1,211412,,Q,Bojana Marinkovic,U,,SRB,26.1,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,308,194,1098,10
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,110,220266,,,Kathleen Kanev,U,,GER,22.4,246519,,WC,Ranim Rassil,U,,TUN,16.3,7-6(2) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,428,107,,
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,111,216139,,,Sofya Lansere,U,,RUS,22.2,213853,,SE,Eliessa Vanlangendonck,U,,BEL,25.7,6-7(6) 6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,482,87,898,19
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,112,213576,3,,Iryna Shymanovich,R,,BLR,25.5,211544,,,Nagi Hanatani,R,,JPN,27.8,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,245,260,422,109
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,113,220808,5,,Kristina Dmitruk,R,,BLR,19.2,214600,,Q,Georgia Andreea Craciun,U,,ROU,23.4,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,257,242,796,27
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,114,221386,,Q,Sebastianna Scilipoti,U,,SUI,19.7,214319,,,Sara Cakarevic,R,,FRA,25.8,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,578,61,555,65
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,115,214653,,,Andreea Prisacariu,U,,ROU,22.8,221182,,Q,Alexandra Iordache,R,,ROU,19.5,6-3 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,400,123,880,20
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,116,223333,2,,Noma Noha Akugue,L,170,GER,19.0,216227,,WC,Lola Marandel,U,,FRA,20.4,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,234,273,1149,8
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,201,206219,1,,Oceane Dodin,R,,FRA,26.1,215588,,,Yasmine Mansouri,R,,FRA,21.6,2-6 6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,121,526,512,76
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,202,220554,,,Alice Tubello,U,,FRA,21.9,220732,,,Lexie Stevens,R,,NED,23.5,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,456,95,423,109
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,203,236957,,,Lola Radivojevic,U,,SRB,17.9,220672,,Q,Milana Zhabrailova,U,,RUS,19.8,6-4 5-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,350,153,760,31
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,204,216367,6,,Sada Nahimana,R,,BDI,21.7,228107,,WC,Selya Rakki,U,,FRA,18.4,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,264,234,,
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,205,221237,8,,Maria Timofeeva,R,,RUS,19.1,220266,,,Kathleen Kanev,U,,GER,22.4,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,308,194,428,107
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,206,213576,3,,Iryna Shymanovich,R,,BLR,25.5,216139,,,Sofya Lansere,U,,RUS,22.2,6-0 2-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,245,260,482,87
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,207,220808,5,,Kristina Dmitruk,R,,BLR,19.2,221386,,Q,Sebastianna Scilipoti,U,,SUI,19.7,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,257,242,578,61
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,208,214653,,,Andreea Prisacariu,U,,ROU,22.8,223333,2,,Noma Noha Akugue,L,170,GER,19.0,6-2 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,400,123,234,273
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,301,206219,1,,Oceane Dodin,R,,FRA,26.1,220554,,,Alice Tubello,U,,FRA,21.9,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,121,526,456,95
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,302,216367,6,,Sada Nahimana,R,,BDI,21.7,236957,,,Lola Radivojevic,U,,SRB,17.9,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,264,234,350,153
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,303,221237,8,,Maria Timofeeva,R,,RUS,19.1,213576,3,,Iryna Shymanovich,R,,BLR,25.5,2-6 7-6(3) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,308,194,245,260
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,304,220808,5,,Kristina Dmitruk,R,,BLR,19.2,214653,,,Andreea Prisacariu,U,,ROU,22.8,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,257,242,400,123
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,401,206219,1,,Oceane Dodin,R,,FRA,26.1,216367,6,,Sada Nahimana,R,,BDI,21.7,6-0 7-5,3,SF,,,,,,,,,,,,,,,,,,,,121,526,264,234
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,402,220808,5,,Kristina Dmitruk,R,,BLR,19.2,221237,8,,Maria Timofeeva,R,,RUS,19.1,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,257,242,308,194
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,501,206219,1,,Oceane Dodin,R,,FRA,26.1,220808,5,,Kristina Dmitruk,R,,BLR,19.2,6-1 6-1,3,F,,,,,,,,,,,,,,,,,,,,121,526,257,242
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,101,211222,1,,Jamie Loeb,R,168,USA,27.8,215627,,,Nicole Khirin,R,,ISR,21.9,6-4 4-6 10-8,3,R32,,,,,,,,,,,,,,,,,,,,259,240,490,84
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,102,221369,,,Lisa Zaar,U,,SWE,22.6,204377,,,Indy De Vroome,R,,NED,26.6,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,511,77,645,46
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,103,221020,,,Madison Sieg,R,,USA,19.5,214660,,,Katarina Kozarov,U,,SRB,24.6,6-2 3-6 13-11,3,R32,,,,,,,,,,,,,,,,,,,,458,94,540,69
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,104,213949,5,,Hanna Chang,U,,USA,24.8,221914,,,Jenna Defalco,U,,USA,20.1,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,313,187,584,60
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,105,211765,3,,Emina Bektas,R,,USA,29.7,260100,,WC,Jordyn Mcbride,U,,USA,20.8,6-1 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,272,226,,
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,106,222297,,Q,Maria Kozyreva,U,,RUS,23.6,215353,,Q,Mercedes Aristegui,U,,ESP,22.5,7-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,744,32,987,14
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,107,249659,,Q,Brandy Walker,U,,USA,25.6,221221,,WC,Savannah Broadus,U,,USA,20.2,6-4 1-6 10-8,3,R32,,,,,,,,,,,,,,,,,,,,1191,7,,
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,108,222233,7,,Marina Stakusic,R,,CAN,18.0,214301,,Q,Tatiana Pieri,U,,ITA,23.7,6-3 4-6 10-6,3,R32,,,,,,,,,,,,,,,,,,,,376,134,713,36
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,109,213887,6,,Renata Zarazua,R,,MEX,25.2,222866,,WC,Katherine Hui,U,,USA,,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,368,140,978,15
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,110,205941,,Q,Ganna Poznikhirenko,R,,UKR,28.7,215909,,,Adrienn Nagy,R,,HUN,21.7,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1064,11,525,73
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,111,220054,,,Alexandra Vecic,U,,GER,20.9,211965,,,Jasmin Jebawy,U,,GER,26.2,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,472,91,641,48
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,112,215138,4,,Lulu Sun,U,,SUI,21.7,221885,,Q,Fangran Tian,R,,CHN,19.3,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,298,206,1036,12
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,113,259853,,Q,Eryn Cayetano,U,,USA,21.7,220757,,,Lia Karatancheva,U,,BUL,19.3,6-7(5) 6-4 10-7,3,R32,,,,,,,,,,,,,,,,,,,,764,30,570,63
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,114,221627,,LL,Kimmi Hance,R,,USA,19.6,221789,,,Alexis Blokhina,L,,USA,18.3,7-5 2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,1115,9,587,58
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,115,215386,,,Vivian Wolff,R,,GER,24.2,220497,,Q,Jiangxue Han,U,,CHN,21.0,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,656,44,717,35
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,116,214271,,LL,Jaeda Daniel,U,,USA,23.4,260042,,WC,Anne Christine Lutkemeyer Obregon,U,,USA,18.6,6-3 2-6 10-7,3,R32,,,,,,,,,,,,,,,,,,,,1154,8,,
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,201,211222,1,,Jamie Loeb,R,168,USA,27.8,221369,,,Lisa Zaar,U,,SWE,22.6,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,259,240,511,77
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,202,213949,5,,Hanna Chang,U,,USA,24.8,221020,,,Madison Sieg,R,,USA,19.5,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,313,187,458,94
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,203,211765,3,,Emina Bektas,R,,USA,29.7,222297,,Q,Maria Kozyreva,U,,RUS,23.6,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,272,226,744,32
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,204,222233,7,,Marina Stakusic,R,,CAN,18.0,249659,,Q,Brandy Walker,U,,USA,25.6,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,376,134,1191,7
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,205,213887,6,,Renata Zarazua,R,,MEX,25.2,205941,,Q,Ganna Poznikhirenko,R,,UKR,28.7,W/O,3,R16,,,,,,,,,,,,,,,,,,,,368,140,1064,11
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,206,215138,4,,Lulu Sun,U,,SUI,21.7,220054,,,Alexandra Vecic,U,,GER,20.9,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,298,206,472,91
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,207,259853,,Q,Eryn Cayetano,U,,USA,21.7,221627,,LL,Kimmi Hance,R,,USA,19.6,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,764,30,1115,9
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,208,215386,,,Vivian Wolff,R,,GER,24.2,214271,,LL,Jaeda Daniel,U,,USA,23.4,6-3 2-6 10-3,3,R16,,,,,,,,,,,,,,,,,,,,656,44,1154,8
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,301,211222,1,,Jamie Loeb,R,168,USA,27.8,213949,5,,Hanna Chang,U,,USA,24.8,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,259,240,313,187
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,302,211765,3,,Emina Bektas,R,,USA,29.7,222233,7,,Marina Stakusic,R,,CAN,18.0,W/O,3,QF,,,,,,,,,,,,,,,,,,,,272,226,376,134
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,303,213887,6,,Renata Zarazua,R,,MEX,25.2,215138,4,,Lulu Sun,U,,SUI,21.7,1-6 6-0 6-1,3,QF,,,,,,,,,,,,,,,,,,,,368,140,298,206
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,304,215386,,,Vivian Wolff,R,,GER,24.2,259853,,Q,Eryn Cayetano,U,,USA,21.7,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,656,44,764,30
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,401,211222,1,,Jamie Loeb,R,168,USA,27.8,211765,3,,Emina Bektas,R,,USA,29.7,6-3 7-6(6),3,SF,,,,,,,,,,,,,,,,,,,,259,240,272,226
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,402,213887,6,,Renata Zarazua,R,,MEX,25.2,215386,,,Vivian Wolff,R,,GER,24.2,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,368,140,656,44
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,501,211222,1,,Jamie Loeb,R,168,USA,27.8,213887,6,,Renata Zarazua,R,,MEX,25.2,6-4 6-1,3,F,,,,,,,,,,,,,,,,,,,,259,240,368,140
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,101,220435,1,,Anastasia Zakharova,U,,RUS,20.9,210337,,,Natalija Stevanovic,R,,SRB,28.4,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,171,376,216,298
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,102,215804,,WC,Kaylah Mcphee,U,,AUS,24.9,211342,10,,Gabriela Lee,L,,ROU,27.3,7-5 2-6 7-6(2),3,Q1,,,,,,,,,,,,,,,,,,,,580,60,200,326
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,103,239383,2,,Sara Bejlek,L,,CZE,16.9,220770,,,Eva Vedder,R,,NED,23.1,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,181,360,223,290
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,104,215988,12,,Mai Hontama,R,,JPN,23.3,215811,,WC,Alexandra Bozovic,R,,AUS,23.8,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,204,324,307,194
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,105,215996,,,Arianne Hartono,R,,NED,26.6,213998,3,,Ipek Oz,U,,TUR,23.4,6-2 4-6 7-6(6),3,Q1,,,,,,,,,,,,,,,,,,,,237,269,182,356
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,106,215480,11,,Suzan Lamens,R,,NED,23.4,216044,,,Yuki Naito,R,,JPN,21.8,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,201,326,226,285
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,107,221909,4,,Ashlyn Krueger,R,185,USA,18.6,221905,,,Robin Montgomery,L,,USA,18.3,6-4 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,183,354,220,294
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,108,211269,,,Eudice Wong Chong,U,,HKG,26.6,223323,14,,Barbora Palicova,R,,CZE,18.8,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,214,301,206,319
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,109,215018,,WC,Destanee Aiava,R,175,AUS,22.6,221911,5,,Selena Janicijevic,U,,FRA,20.4,7-6(2) 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,311,191,188,345
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,110,214181,,,Anastasia Gasanova,R,,RUS,23.6,222661,15,,Sonay Kartal,R,,GBR,21.1,7-5 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,218,297,207,318
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,111,213908,6,,Yuriko Miyazaki,R,165,GBR,27.1,213889,,,Greet Minnen,R,,BEL,25.3,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,186,349,225,289
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,112,214191,,WC,Seone Mendez,R,,AUS,23.6,221257,9,,Sinja Kraus,R,,AUT,20.6,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,375,134,197,334
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,113,221407,7,,Oksana Selekhmeteva,L,,RUS,19.9,223160,,WC,Catherine Aulia,U,,AUS,18.6,6-0 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,189,344,695,38
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,114,223253,,,Alexandra Eala,L,173,PHI,17.6,204420,16,,Marcela Zacarias,R,,MEX,28.7,6-3 7-6(0),3,Q1,,,,,,,,,,,,,,,,,,,,215,299,208,317
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,115,203513,8,,Robin Anderson,R,160,USA,29.7,202701,,,Irina Khromacheva,L,170,RUS,27.6,5-7 6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,194,339,213,305
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,116,221178,13,,Darya Astakhova,R,,RUS,20.9,201621,,,Mona Barthel,R,185,GER,32.4,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,205,320,224,290
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,201,220435,1,,Anastasia Zakharova,U,,RUS,20.9,215804,,WC,Kaylah Mcphee,U,,AUS,24.9,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,171,376,580,60
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,202,215988,12,,Mai Hontama,R,,JPN,23.3,239383,2,,Sara Bejlek,L,,CZE,16.9,6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,204,324,181,360
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,203,215480,11,,Suzan Lamens,R,,NED,23.4,215996,,,Arianne Hartono,R,,NED,26.6,6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,201,326,237,269
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,204,221909,4,,Ashlyn Krueger,R,185,USA,18.6,211269,,,Eudice Wong Chong,U,,HKG,26.6,6-7(8) 6-2 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,183,354,214,301
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,205,214181,,,Anastasia Gasanova,R,,RUS,23.6,215018,,WC,Destanee Aiava,R,175,AUS,22.6,3-6 6-3 7-6(4),3,Q2,,,,,,,,,,,,,,,,,,,,218,297,311,191
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,206,213908,6,,Yuriko Miyazaki,R,165,GBR,27.1,214191,,WC,Seone Mendez,R,,AUS,23.6,6-2 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,186,349,375,134
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,207,221407,7,,Oksana Selekhmeteva,L,,RUS,19.9,223253,,,Alexandra Eala,L,173,PHI,17.6,3-6 6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,189,344,215,299
+2023-W-ITF-AUS-01A-2023,W60 Canberra,Hard,32,60,20230102,208,221178,13,,Darya Astakhova,R,,RUS,20.9,203513,8,,Robin Anderson,R,160,USA,29.7,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,205,320,194,339
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,101,260153,,WC,Pimmada Thongkum,U,,THA,16.7,216213,1,,Sohyun Park,U,,KOR,20.5,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,437,103
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,102,221055,11,,Sina Herrmann,R,,GER,21.1,259953,,WC,Tyra Lithiby,U,,THA,16.1,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,557,65,,
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,103,221210,2,,Daria Kudashova,U,,RUS,19.7,213828,,WC,Chompoothip Jandakate,U,,THA,27.1,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,421,110,1301,3
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,104,210537,14,,Michika Ozeki,U,,JPN,30.7,220735,,SR,Tina Nadine Smith,L,,AUS,20.5,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,585,60,724,34
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,105,215946,3,,Ye Xin Ma,U,,CHN,23.5,220513,,,Antonia Schmidt,U,,GER,21.5,6-1 3-6 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,446,99,678,41
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,106,252493,12,,Zongyu Li,U,,CHN,19.6,256684,,,Aoi Ito,U,,JPN,18.6,6-4 3-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,547,67,691,39
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,107,203553,,,Riko Sawayanagi,R,163,JPN,28.1,206075,4,,Hiroko Kuwata,R,,JPN,32.0,7-6(8) 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,844,23,447,98
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,108,211756,16,,Patcharin Cheapchandej,R,,THA,28.0,215186,,WC,Watsachol Sawasdee,L,,THA,22.9,7-5 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,660,43,,
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,109,210926,5,,Pei Chi Lee,U,,TPE,28.2,214398,,,Natsuho Arakawa,L,,JPN,25.3,6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,459,94,668,42
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,110,222390,10,,Ya Yi Yang,L,,TPE,18.5,213841,,WC,Tamachan Momkoonthod,L,,THA,25.7,4-6 7-5 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,523,74,1282,4
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,111,220454,6,,Yeon Woo Ku,U,,KOR,19.8,221773,,,Honoka Kobayashi,U,,JPN,22.6,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,462,93,811,26
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,112,216566,13,,Mananchaya Sawangkaew,R,,THA,20.4,211668,,,Riya Bhatia,R,,IND,25.2,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,574,61,676,41
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,113,213873,7,,Gabriela Andrea Knutson,R,,CZE,25.7,215592,,,Eri Shimizu,U,,JPN,24.5,2-6 6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,470,92,661,43
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,114,219892,9,,Mayuka Aikawa,L,,JPN,24.7,260369,,,Sara Nayar,U,,AUS,,7-5 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,498,83,866,21
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,115,206105,8,,Rutuja Bhosale,R,,IND,26.7,201612,,,Junri Namigata,R,170,JPN,40.4,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,451,96,728,34
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,116,215163,15,,Zeel Desai,R,,IND,23.8,219792,,,Anastasia Sukhotina,L,,RUS,22.8,3-6 6-4 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,605,56,814,26
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,201,221055,11,,Sina Herrmann,R,,GER,21.1,260153,,WC,Pimmada Thongkum,U,,THA,16.7,7-6(4) 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,557,65,,
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,202,221210,2,,Daria Kudashova,U,,RUS,19.7,210537,14,,Michika Ozeki,U,,JPN,30.7,4-6 6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,421,110,585,60
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,203,252493,12,,Zongyu Li,U,,CHN,19.6,215946,3,,Ye Xin Ma,U,,CHN,23.5,6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,547,67,446,99
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,204,211756,16,,Patcharin Cheapchandej,R,,THA,28.0,203553,,,Riko Sawayanagi,R,163,JPN,28.1,6-2 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,660,43,844,23
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,205,222390,10,,Ya Yi Yang,L,,TPE,18.5,210926,5,,Pei Chi Lee,U,,TPE,28.2,6-2 7-6(8),3,Q2,,,,,,,,,,,,,,,,,,,,523,74,459,94
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,206,220454,6,,Yeon Woo Ku,U,,KOR,19.8,216566,13,,Mananchaya Sawangkaew,R,,THA,20.4,4-6 6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,462,93,574,61
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,207,213873,7,,Gabriela Andrea Knutson,R,,CZE,25.7,219892,9,,Mayuka Aikawa,L,,JPN,24.7,6-0 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,470,92,498,83
+2023-W-ITF-THA-01A-2023,W40 Nonthaburi,Hard,32,40,20230102,208,206105,8,,Rutuja Bhosale,R,,IND,26.7,215163,15,,Zeel Desai,R,,IND,23.8,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,451,96,605,56
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,102,223332,12,,Margherita Marcon,U,,ITA,17.2,230872,,,Jade Marie,U,,FRA,18.8,2-6 6-2 13-11,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,106,261277,,,Franziska Kremerskothen,U,,DEU,,221346,11,,Anastasia Mozgaleva,L,,RUS,21.1,6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,108,221767,14,,Wiem Boubaker,U,,TUN,19.5,238083,,,Nadine Abid,U,,TUN,16.3,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,110,222623,10,,Pia Praefke,U,,GER,,246492,,,Yoana Moneva,U,,BUL,17.6,6-0 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,112,260604,15,,Giulia Alessia Monteleone,U,,ITA,,222278,,,Vibhasree Gowda,L,,IND,,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,114,244089,16,WC,Meriem Makhlouf,U,,TUN,15.7,261137,,WC,Jannat Chiripal,U,,IND,,6-4 3-6 11-9,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,116,260320,,WC,Tasnim Ismail,U,,TUN,,223448,13,WC,Chahd Berriri,U,,TUN,17.1,7-5 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,201,221626,1,,Linda Klimovicova,U,,CZE,18.5,223332,12,,Margherita Marcon,U,,ITA,17.2,6-3 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,563,64,,
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,202,221386,2,,Sebastianna Scilipoti,U,,SUI,19.7,234474,9,,Alyssa Reguer,U,,FRA,16.6,2-6 7-5 10-5,3,Q2,,,,,,,,,,,,,,,,,,,,578,61,1264,4
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,203,220672,3,,Milana Zhabrailova,U,,RUS,19.8,261277,,,Franziska Kremerskothen,U,,DEU,,6-0 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,760,31,,
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,204,214600,4,,Georgia Andreea Craciun,U,,ROU,23.4,221767,14,,Wiem Boubaker,U,,TUN,19.5,7-5 4-4 RET,3,Q2,,,,,,,,,,,,,,,,,,,,796,27,,
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,205,221182,5,,Alexandra Iordache,R,,ROU,19.5,222623,10,,Pia Praefke,U,,GER,,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,880,20,,
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,206,259754,6,,Stefania Bojica,U,,ROU,17.8,260604,15,,Giulia Alessia Monteleone,U,,ITA,,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,1011,13,,
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,207,211412,7,,Bojana Marinkovic,U,,SRB,26.1,244089,16,WC,Meriem Makhlouf,U,,TUN,15.7,6-1 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,1098,10,,
+2023-W-ITF-TUN-01A-2023,W25 Monastir,Hard,32,25,20230102,208,252492,8,,Yujiao Che,U,,CHN,19.8,260320,,WC,Tasnim Ismail,U,,TUN,,6-2 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,1241,5,,
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,101,214182,1,,Veronica Miroshnichenko,L,,RUS,25.1,256681,,,Saniya Singh,U,,USA,18.0,6-2 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,667,42,,
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,102,205941,11,,Ganna Poznikhirenko,R,,UKR,28.7,222161,,,Prathyusha Rachapudi,R,,IND,,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,1064,11,1241,5
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,103,214301,2,,Tatiana Pieri,U,,ITA,23.7,214872,,,Mary Lewis,U,,USA,24.1,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,713,36,,
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,104,221627,12,,Kimmi Hance,R,,USA,19.6,260103,,,Kelly Keller,U,,USA,22.5,0-6 6-4 10-5,3,Q1,,,,,,,,,,,,,,,,,,,,1115,9,1282,4
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,105,220497,3,,Jiangxue Han,U,,CHN,21.0,259852,,WC,Tsehay Driscoll,U,,USA,17.6,7-5 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,717,35,,
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,106,260365,,WC,Amanda Perez,U,,USA,,221433,13,,Shatoo Mohamad,U,,USA,21.7,3-6 6-2 10-7,3,Q1,,,,,,,,,,,,,,,,,,,,,,1145,8
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,107,222297,4,,Maria Kozyreva,U,,RUS,23.6,260327,,WC,Sage Loudon,U,,USA,,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,744,32,,
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,108,214271,14,,Jaeda Daniel,U,,USA,23.4,260851,,,Patsy Daughters,U,,USA,,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,1154,8,,
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,109,259853,5,,Eryn Cayetano,U,,USA,21.7,221915,,,Midori Castillo Meza,U,,USA,19.1,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,764,30,,
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,110,222199,,,Carolyn Campana,U,,USA,,248667,15,,Esther Vyrlan,U,,USA,16.6,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,1174,7
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,111,221413,6,,Solymar Colling,U,,USA,22.6,260231,,,Filippa Bruu Syversen,U,,USA,19.1,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,857,21,,
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,112,221885,10,,Fangran Tian,R,,CHN,19.3,261278,,WC,Kate Fakih,U,,USA,,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,1036,12,,
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,113,220490,,WC,Nikki Redelijk,U,,USA,21.2,203370,7,,Tori Kinard,U,,USA,35.1,7-5 7-6(5),3,Q1,,,,,,,,,,,,,,,,,,,,,,869,21
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,114,249659,16,,Brandy Walker,U,,USA,25.6,260199,,,Anna Campana,U,,USA,22.0,6-3 7-6(3),3,Q1,,,,,,,,,,,,,,,,,,,,1191,7,,
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,115,260514,,,Ena Koike,U,,JPN,,260368,8,,Ava Markham,R,172,USA,23.0,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,1237,5,929,17
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,116,215353,9,,Mercedes Aristegui,U,,ESP,22.5,260101,,,Alyssa Ahn,U,,USA,16.0,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,987,14,,
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,201,205941,11,,Ganna Poznikhirenko,R,,UKR,28.7,214182,1,,Veronica Miroshnichenko,L,,RUS,25.1,6-2 4-6 10-5,3,Q2,,,,,,,,,,,,,,,,,,,,1064,11,667,42
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,202,214301,2,,Tatiana Pieri,U,,ITA,23.7,221627,12,,Kimmi Hance,R,,USA,19.6,2-6 6-3 10-8,3,Q2,,,,,,,,,,,,,,,,,,,,713,36,1115,9
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,203,220497,3,,Jiangxue Han,U,,CHN,21.0,260365,,WC,Amanda Perez,U,,USA,,6-2 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,717,35,,
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,204,222297,4,,Maria Kozyreva,U,,RUS,23.6,214271,14,,Jaeda Daniel,U,,USA,23.4,6-4 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,744,32,1154,8
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,205,259853,5,,Eryn Cayetano,U,,USA,21.7,222199,,,Carolyn Campana,U,,USA,,6-4 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,764,30,,
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,206,221885,10,,Fangran Tian,R,,CHN,19.3,221413,6,,Solymar Colling,U,,USA,22.6,6-3 3-6 10-1,3,Q2,,,,,,,,,,,,,,,,,,,,1036,12,857,21
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,207,249659,16,,Brandy Walker,U,,USA,25.6,220490,,WC,Nikki Redelijk,U,,USA,21.2,6-3 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,1191,7,,
+2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,208,215353,9,,Mercedes Aristegui,U,,ESP,22.5,260514,,,Ena Koike,U,,JPN,,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,987,14,1237,5
+2023-800,Adelaide 1,Hard,32,P,20230102,269,211843,1,,Anhelina Kalinina,R,179,UKR,25.9,214388,,,Anna Bondar,R,,HUN,25.6,6-1 6-1,3,Q2,68,2,3,35,21,19,9,7,0,0,6,1,66,36,20,10,7,8,13,39,1197,77,756
+2023-800,Adelaide 1,Hard,32,P,20230102,268,203530,,,Viktorija Golubic,R,169,SUI,30.2,204411,,WC,Storm Sanders,L,166,AUS,28.3,4-6 6-3 6-3,3,Q2,151,4,5,89,59,39,17,14,3,6,6,1,120,81,47,17,14,12,17,76,779,241,268
+2023-800,Adelaide 1,Hard,32,P,20230102,267,222328,,,Linda Noskova,R,,CZE,18.1,215713,3,,Anastasia Potapova,R,175,RUS,21.7,6-3 6-2,3,Q2,75,4,4,65,42,31,10,9,5,6,1,6,50,25,13,11,8,3,7,102,620,43,1119
+2023-800,Adelaide 1,Hard,32,P,20230102,266,201603,4,,Shelby Rogers,R,175,USA,30.2,214040,,WC,Kimberly Birrell,R,170,AUS,24.6,6-1 6-2,3,Q2,71,2,2,54,23,16,22,8,3,3,0,3,42,30,16,4,7,1,5,47,1065,173,373
+2023-800,Adelaide 1,Hard,32,P,20230102,265,214906,9,,Claire Liu,R,170,USA,22.6,211701,5,,Katerina Siniakova,R,174,CZE,26.6,0-6 6-3 6-1,3,Q2,109,1,2,82,54,35,13,11,2,5,5,4,69,51,34,5,11,7,11,59,880,49,1000
+2023-800,Adelaide 1,Hard,32,P,20230102,264,216146,11,,Marta Kostyuk,R,175,UKR,20.5,210886,6,,Mayar Sherif,R,180,EGY,26.6,6-3 6-1,3,Q2,63,1,2,54,29,20,17,8,1,1,0,0,41,30,19,2,8,3,7,69,820,52,991
+2023-800,Adelaide 1,Hard,32,P,20230102,263,211843,1,,Anhelina Kalinina,R,179,UKR,25.9,215035,,,Dayana Yastremska,R,175,UKR,22.6,6-4 6-4,3,Q1,108,0,8,78,38,23,19,10,7,11,5,10,78,39,25,13,10,8,14,39,1197,101,628
+2023-800,Adelaide 1,Hard,32,P,20230102,262,214388,,,Anna Bondar,R,,HUN,25.6,211148,10,,Jasmine Paolini,R,160,ITA,26.9,3-6 7-6(6) 7-6(4),3,Q1,153,5,1,116,73,50,25,16,4,8,0,5,113,64,47,26,17,2,5,77,756,62,867
+2023-800,Adelaide 1,Hard,32,P,20230102,261,203530,,,Viktorija Golubic,R,169,SUI,30.2,201590,2,,Alison Riske Amritraj,R,173,USA,32.5,6-2 6-4,3,Q1,81,0,0,45,28,19,15,9,0,1,0,3,59,34,21,10,9,6,10,76,779,41,1180
+2023-800,Adelaide 1,Hard,32,P,20230102,260,204411,,WC,Storm Sanders,L,166,AUS,28.3,211337,12,,Tamara Korpatsch,R,170,GER,27.6,3-6 6-3 6-3,3,Q1,125,3,5,78,44,29,20,13,3,6,4,12,95,52,36,15,14,5,10,241,268,74,787
+2023-800,Adelaide 1,Hard,32,P,20230102,259,215713,3,,Anastasia Potapova,R,175,RUS,21.7,203501,,SR,Taylor Townsend,L,170,USA,26.7,6-0 6-1,3,Q1,71,2,2,40,20,16,12,6,3,3,1,3,70,42,20,10,7,12,18,43,1119,133,469
+2023-800,Adelaide 1,Hard,32,P,20230102,258,222328,,,Linda Noskova,R,,CZE,18.1,214939,8,,Anna Kalinskaya,R,175,RUS,24.0,3-6 6-2 7-6(7),3,Q1,126,7,5,95,65,41,13,15,3,8,5,4,92,63,43,9,14,7,12,102,620,58,886
+2023-800,Adelaide 1,Hard,32,P,20230102,257,201603,4,,Shelby Rogers,R,175,USA,30.2,206294,,,Yue Yuan,U,184,CHN,31.5,7-5 6-1,3,Q1,84,5,4,63,35,27,17,10,4,5,0,1,49,28,16,11,9,3,7,47,1065,97,637
+2023-800,Adelaide 1,Hard,32,P,20230102,256,214040,,WC,Kimberly Birrell,R,170,AUS,24.6,202536,7,,Ana Bogdan,R,171,ROU,30.1,2-6 6-2 7-5,3,Q1,148,2,5,87,49,28,14,14,4,11,1,5,92,50,24,19,14,8,16,173,373,56,898
+2023-800,Adelaide 1,Hard,32,P,20230102,255,211701,5,,Katerina Siniakova,R,174,CZE,26.6,215872,,,Kamilla Rakhimova,R,,RUS,21.3,6-3 7-6(5),3,Q1,122,0,3,79,47,30,14,10,6,10,0,6,78,46,24,13,11,3,9,49,1000,94,661
+2023-800,Adelaide 1,Hard,32,P,20230102,254,214906,9,,Claire Liu,R,170,USA,22.6,211684,,ALT,Magdalena Frech,R,171,POL,25.0,6-3 6-3,3,Q1,102,1,1,58,39,27,9,9,4,6,5,6,88,53,29,14,9,8,13,59,880,106,604
+2023-800,Adelaide 1,Hard,32,P,20230102,253,210886,6,,Mayar Sherif,R,180,EGY,26.6,211878,,WC,Lizette Cabrera,R,167,AUS,25.0,6-2 7-5,3,Q1,88,3,1,56,41,33,10,10,2,2,4,6,76,50,33,9,10,12,15,52,991,265,232
+2023-800,Adelaide 1,Hard,32,P,20230102,252,216146,11,,Marta Kostyuk,R,175,UKR,20.5,213710,,,Cristina Bucsa,U,,ESP,25.0,7-6(9) 6-4,3,Q1,109,4,8,74,44,33,14,11,1,2,0,4,94,66,43,11,11,6,8,69,820,105,611
+2023-1049,Auckland,Hard,32,I,20230102,269,204434,1,,Ysaline Bonaventure,L,178,BEL,28.3,201551,7,,Arantxa Rus,L,180,NED,32.0,6-3 2-6 6-4,3,Q2,118,3,7,91,54,35,15,13,8,13,5,3,81,57,33,10,14,2,8,95,651,115,548
+2023-1049,Auckland,Hard,32,I,20230102,268,214149,,,Viktoria Kuzmova,R,,SVK,24.6,219875,2,,Varvara Gracheva,R,,RUS,22.4,6-3 4-6 6-3,3,Q2,111,8,5,83,48,38,17,14,2,5,9,3,88,58,35,16,14,7,12,134,467,100,630
+2023-1049,Auckland,Hard,32,I,20230102,267,211817,8,,Elena Gabriela Ruse,U,,ROU,25.1,220416,3,,Moyuka Uchijima,R,171,JPN,21.3,6-4 6-1,3,Q2,90,2,2,62,38,31,9,9,3,4,1,2,59,32,16,14,8,5,9,116,547,117,547
+2023-1049,Auckland,Hard,32,I,20230102,266,214119,12,,Rebeka Masarova,R,186,ESP,23.4,201506,4,,Sara Errani,R,164,ITA,35.6,6-2 6-3,3,Q2,69,5,3,54,31,18,17,9,2,3,0,2,47,38,21,3,8,3,7,130,476,108,594
+2023-1049,Auckland,Hard,32,I,20230102,265,211702,,,Nao Hibino,R,163,JPN,28.0,211713,,,Jaqueline Cristian,R,180,ROU,24.5,6-3 4-6 6-2,3,Q2,123,2,1,81,48,30,22,13,4,7,3,5,104,67,39,14,14,7,13,138,451,146,431
+2023-1049,Auckland,Hard,32,I,20230102,264,220465,6,,Katie Volynets,R,,USA,21.0,202446,,WC,Eugenie Bouchard,R,178,CAN,28.8,W/O,3,Q2,1,,,,,,,,,,,,,,,,,,,113,556,327,170
+2023-1049,Auckland,Hard,32,I,20230102,263,204434,1,,Ysaline Bonaventure,L,178,BEL,28.3,221039,,,Elsa Jacquemot,R,,FRA,19.6,6-3 6-4,3,Q1,89,1,5,77,44,30,18,10,5,6,5,5,52,27,20,12,9,1,4,95,651,144,435
+2023-1049,Auckland,Hard,32,I,20230102,262,201551,7,,Arantxa Rus,L,180,NED,32.0,214593,,,Lucrezia Stefanini,R,,ITA,24.6,6-2 6-0,3,Q1,68,4,0,36,28,25,4,7,3,3,0,9,53,35,17,5,7,7,12,115,548,140,447
+2023-1049,Auckland,Hard,32,I,20230102,261,219875,2,,Varvara Gracheva,R,,RUS,22.4,214452,,,Caroline Dolehide,R,178,USA,24.3,7-5 5-7 6-2,3,Q1,130,3,2,90,62,38,17,16,4,8,4,1,106,72,42,18,16,3,9,100,630,150,419
+2023-1049,Auckland,Hard,32,I,20230102,260,214149,,,Viktoria Kuzmova,R,,SVK,24.6,216097,9,,Elizabeth Mandlik,U,,USA,21.6,6-4 6-4,3,Q1,82,5,6,65,34,27,15,10,1,2,1,8,62,28,21,16,10,5,8,134,467,126,500
+2023-1049,Auckland,Hard,32,I,20230102,259,220416,3,,Moyuka Uchijima,R,171,JPN,21.3,203564,,WC,Chloe Paquet,R,179,FRA,28.5,6-3 6-4,3,Q1,94,2,2,64,35,24,17,10,5,7,3,5,55,29,19,9,9,4,8,117,547,164,387
+2023-1049,Auckland,Hard,32,I,20230102,258,211817,8,,Elena Gabriela Ruse,U,,ROU,25.1,211901,,,Aliona Bolsova,R,172,MDA,25.1,7-5 6-4,3,Q1,111,3,3,69,42,29,14,11,9,11,5,1,91,69,45,6,11,7,11,116,547,141,446
+2023-1049,Auckland,Hard,32,I,20230102,257,201506,4,,Sara Errani,R,164,ITA,35.6,223159,,WC,Vivian Yang,U,,NZL,17.9,6-1 6-4,3,Q1,73,0,2,49,36,25,9,9,2,3,0,2,54,37,19,8,8,2,6,108,594,805,26
+2023-1049,Auckland,Hard,32,I,20230102,256,214119,12,,Rebeka Masarova,R,186,ESP,23.4,214684,,WC,Katherine Sebov,R,173,CAN,23.9,7-6(4) 7-6(5),3,Q1,139,3,0,90,58,38,19,12,3,5,0,1,110,95,59,6,12,8,10,130,476,195,338
+2023-1049,Auckland,Hard,32,I,20230102,255,211713,,,Jaqueline Cristian,R,180,ROU,24.5,223670,5,,Diana Shnaider,L,,RUS,18.7,6-4 3-6 6-3,3,Q1,128,6,2,97,59,37,12,14,3,9,2,3,99,69,36,14,14,5,12,146,431,109,593
+2023-1049,Auckland,Hard,32,I,20230102,254,211702,,,Nao Hibino,R,163,JPN,28.0,201535,10,,Coco Vandeweghe,R,185,USA,31.0,2-6 7-6(9) 6-2,3,Q1,124,5,4,99,72,45,15,14,3,7,14,7,92,53,39,17,14,2,6,138,451,128,486
+2023-1049,Auckland,Hard,32,I,20230102,253,220465,6,,Katie Volynets,R,,USA,21.0,221512,,,Katrina Scott,R,180,USA,18.5,1-6 6-3 6-3,3,Q1,116,2,2,78,57,37,11,12,4,7,3,1,93,67,41,14,13,7,11,113,556,159,406
+2023-1049,Auckland,Hard,32,I,20230102,252,202446,,WC,Eugenie Bouchard,R,178,CAN,28.8,215983,11,,Ann Li,R,170,USA,22.5,6-4 6-3,3,Q1,66,5,2,54,39,33,7,10,3,4,2,1,52,33,23,8,9,3,6,327,170,129,480
