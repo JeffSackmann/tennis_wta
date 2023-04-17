@@ -6406,7 +6406,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 206403,Alena,Fomina,R,19890705,RUS,,Q17253504
 206404,Elizaveta,Kulichkova,R,19960412,RUS,,Q5363900
 206405,Sofia,Blanco,U,19951120,ARG,,
-206406,Berta,Bonardi,U,19950621,ARG,,
+206406,Berta,Bonardi,R,19950621,ARG,,
 206407,Carolina,Costamagna,R,19950612,ARG,,
 206408,Nadia,Podoroska,R,19970210,ARG,170,Q16496064
 206409,Giuliana,Verbauwen,U,19950622,ARG,,
@@ -14247,7 +14247,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 214244,Isha,Budwal,U,19990219,IND,,
 214245,Srishti,Slaria,U,19971203,IND,,
 214246,Julia,Thiem,U,19900704,GER,,
-214247,Lena,Rueffer,U,19980823,GER,,Q19969572
+214247,Lena,Rueffer,R,19980823,GER,,Q19969572
 214248,Ann Sophie,Porry,U,19920121,FRA,,
 214249,Angela,Charles Alfred,U,19990905,MRN,,
 214250,Jacqueline,Boepple,U,19991119,GER,,
@@ -16095,7 +16095,7 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 216092,Isabella,Harvison,U,20010706,USA,,
 216093,Cristina,Moll Alles,U,20000229,ESP,,
 216094,Annabelle,Hageman,U,19980731,NED,,
-216095,Mina,Hodzic,U,20020606,GER,,Q65515756
+216095,Mina,Hodzic,R,20020606,GER,,Q65515756
 216096,Csenge,Furak,U,19990609,HUN,,
 216097,Elizabeth,Mandlik,U,20010519,USA,,Q66491001
 216098,Eva,Nyikos,U,19981006,AUT,,
@@ -63836,3 +63836,27 @@ player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id
 263844,Emily,Ory,U,,USA,,
 263845,Summer,Eisch,U,,USA,,
 263846,Lucy,Lee,U,,USA,,
+263847,Catalina,Padilla Udaeta,,20051110,BOL,,
+263848,Ana Fabia,Holweg Bustillos,,20041115,BOL,,
+263849,Natalia,Trigosso,,20060809,BOL,,
+263850,Sabrina,Olimjanova,,20060720,UZB,,
+263851,Maftunabonu,Kahramonova,,20050728,UZB,,
+263852,Ominahon,Valihanova,,20040604,UZB,,
+263853,Adelina,Lachinova,,20080210,LAT,,
+263854,Aja,Broqi,,20050607,KOS,,
+263855,Forta,Morina ,,20050701,KOS,,
+263856,Kanon,Yamaguchi,U,,JPN,,
+263857,Yuliia,Starodubtseva,U,,UKR,,
+263858,Celia,Anson Sanchez,U,,ESP,,
+263859,Irene,Vigara Ramos,U,,ESP,,
+263860,Ran,Inaba,U,,JPN,,
+263861,Rira,Kosaka,U,,JPN,,
+263862,Azuna,Ichioka,U,,JPN,,
+263863,Kiko,Inoue,U,,JPN,,
+263864,Hinata,Chiba,U,,JPN,,
+263865,Kurea,Hayasaka,U,,JPN,,
+263866,Kurumi,Tamura,U,,JPN,,
+263867,Anna,Kashyrina,U,,UKR,,
+263868,Tippi,Dalle Grave,U,,MUS,,
+263869,Ruien,Zhang,U,,CHN,,
+263870,Polina,Sleptsova,U,,KAZ,,

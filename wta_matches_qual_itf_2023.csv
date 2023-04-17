@@ -12,7 +12,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-ARG-01A-2023,W25 Buenos Aires,Clay,48,25,20230109,122,214605,,WC,Agustina Chlpac,U,,ARG,25.9,223284,,,Luana Plaza Araujo,U,,BRA,17.4,6-1 6-0,3,R64,,,,,,,,,,,,,,,,,,,,1024,13,952,16
 2023-W-ITF-ARG-01A-2023,W25 Buenos Aires,Clay,48,25,20230109,123,214136,,WC,Melany Solange Krywoj,R,,ARG,24.8,220665,,Q,Brittany Collens,R,,USA,27.7,6-0 6-2,3,R64,,,,,,,,,,,,,,,,,,,,1012,13,1157,7
 2023-W-ITF-ARG-01A-2023,W25 Buenos Aires,Clay,48,25,20230109,126,236968,,,Lourdes Ayala,U,,ARG,16.5,236967,,Q,Carla Markus,U,,ARG,16.7,6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,1012,13,,
-2023-W-ITF-ARG-01A-2023,W25 Buenos Aires,Clay,48,25,20230109,127,206406,,,Berta Bonardi,U,,ARG,27.5,252488,,,Ana Candiotto,U,,BRA,18.7,6-3 4-6 7-5,3,R64,,,,,,,,,,,,,,,,,,,,534,71,767,30
+2023-W-ITF-ARG-01A-2023,W25 Buenos Aires,Clay,48,25,20230109,127,206406,,,Berta Bonardi,R,,ARG,27.5,252488,,,Ana Candiotto,U,,BRA,18.7,6-3 4-6 7-5,3,R64,,,,,,,,,,,,,,,,,,,,534,71,767,30
 2023-W-ITF-ARG-01A-2023,W25 Buenos Aires,Clay,48,25,20230109,130,222655,,WC,Maria Victoria Marchesini,U,,ARG,,259747,,Q,Maria Agustina Farina,U,,ARG,17.6,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,1131,8,,
 2023-W-ITF-ARG-01A-2023,W25 Buenos Aires,Clay,48,25,20230109,131,215818,,Q,Georgia Gulin,U,,BRA,23.3,202691,,,Ani Vangelova,U,,BUL,29.4,6-0 6-2,3,R64,,,,,,,,,,,,,,,,,,,,1136,8,853,22
 2023-W-ITF-ARG-01A-2023,W25 Buenos Aires,Clay,48,25,20230109,201,220699,1,,Julia Riera,U,,ARG,20.6,260717,,WC,Josefina Estevez,U,,ARG,,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,258,239,1197,6
@@ -28,7 +28,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-ARG-01A-2023,W25 Buenos Aires,Clay,48,25,20230109,211,238065,14,,Noelia Zeballos Melgar,U,,BOL,28.6,214605,,WC,Agustina Chlpac,U,,ARG,25.9,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1024,13
 2023-W-ITF-ARG-01A-2023,W25 Buenos Aires,Clay,48,25,20230109,212,220781,4,,Carlota Martinez Cirez,R,,ESP,21.9,214136,,WC,Melany Solange Krywoj,R,,ARG,24.8,1-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,315,183,1012,13
 2023-W-ITF-ARG-01A-2023,W25 Buenos Aires,Clay,48,25,20230109,213,211864,8,,Maria Fernanda Herazo Gonzalez,L,166,COL,25.8,236968,,,Lourdes Ayala,U,,ARG,16.5,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,396,123,1012,13
-2023-W-ITF-ARG-01A-2023,W25 Buenos Aires,Clay,48,25,20230109,214,214020,12,,Amina Anshba,L,,RUS,23.3,206406,,,Berta Bonardi,U,,ARG,27.5,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,433,105,534,71
+2023-W-ITF-ARG-01A-2023,W25 Buenos Aires,Clay,48,25,20230109,214,214020,12,,Amina Anshba,L,,RUS,23.3,206406,,,Berta Bonardi,R,,ARG,27.5,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,433,105,534,71
 2023-W-ITF-ARG-01A-2023,W25 Buenos Aires,Clay,48,25,20230109,215,215459,15,,Emily Seibold,R,,GER,23.0,222655,,WC,Maria Victoria Marchesini,U,,ARG,,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,479,88,1131,8
 2023-W-ITF-ARG-01A-2023,W25 Buenos Aires,Clay,48,25,20230109,216,215572,2,,Nuria Brancaccio,R,,ITA,22.5,215818,,Q,Georgia Gulin,U,,BRA,23.3,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,265,232,1136,8
 2023-W-ITF-ARG-01A-2023,W25 Buenos Aires,Clay,48,25,20230109,301,220699,1,,Julia Riera,U,,ARG,20.6,221333,13,,Solana Sierra,R,,ARG,18.5,6-4 2-6 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,258,239,454,96
@@ -61,7 +61,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-ARG-02A-2023,W25 Buenos Aires,Clay,48,25,20230116,126,220578,,,Julia Konishi Camargo Silva,U,,BRA,22.9,259745,,Q,Serena Pereyra Giubbani,U,,ARG,18.1,4-6 6-2 6-4,3,R64,,,,,,,,,,,,,,,,,,,,788,29,,
 2023-W-ITF-ARG-02A-2023,W25 Buenos Aires,Clay,48,25,20230116,127,214800,,,Sabastiani Leon,R,,MEX,30.8,221414,,Q,Chiara Di Genova,U,,ARG,18.8,7-6(6) 6-4,3,R64,,,,,,,,,,,,,,,,,,,,995,14,1079,10
 2023-W-ITF-ARG-02A-2023,W25 Buenos Aires,Clay,48,25,20230116,130,219625,,,Fernanda Labrana,R,,CHI,23.8,211604,,,Fernanda Astete,R,,CHI,26.0,6-2 6-1,3,R64,,,,,,,,,,,,,,,,,,,,799,27,942,16
-2023-W-ITF-ARG-02A-2023,W25 Buenos Aires,Clay,48,25,20230116,131,206406,,,Berta Bonardi,U,,ARG,27.5,223120,,,Briana Szabo,U,,ROU,17.1,4-6 6-1 2-0 RET,3,R64,,,,,,,,,,,,,,,,,,,,535,71,710,37
+2023-W-ITF-ARG-02A-2023,W25 Buenos Aires,Clay,48,25,20230116,131,206406,,,Berta Bonardi,R,,ARG,27.5,223120,,,Briana Szabo,U,,ROU,17.1,4-6 6-1 2-0 RET,3,R64,,,,,,,,,,,,,,,,,,,,535,71,710,37
 2023-W-ITF-ARG-02A-2023,W25 Buenos Aires,Clay,48,25,20230116,201,206430,1,,Carolina Alves,U,,BRA,26.7,206069,,,Marianna Zakarlyuk,R,,UKR,26.3,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,216,297,969,15
 2023-W-ITF-ARG-02A-2023,W25 Buenos Aires,Clay,48,25,20230116,202,211864,9,,Maria Fernanda Herazo Gonzalez,L,166,COL,25.8,260709,,WC,Sol Ailin Larraya Guidi,U,,ARG,,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,395,123,1213,6
 2023-W-ITF-ARG-02A-2023,W25 Buenos Aires,Clay,48,25,20230116,203,238065,15,,Noelia Zeballos Melgar,U,,BOL,28.7,260479,,Q,Xenia Bandurowska,U,,POL,,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1107,9
@@ -77,7 +77,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-ARG-02A-2023,W25 Buenos Aires,Clay,48,25,20230116,213,220053,6,,Luisa Meyer Auf Der Heide,U,,GER,20.9,220578,,,Julia Konishi Camargo Silva,U,,BRA,22.9,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,379,131,788,29
 2023-W-ITF-ARG-02A-2023,W25 Buenos Aires,Clay,48,25,20230116,214,211820,10,,Martina Colmegna,R,,ITA,26.0,214800,,,Sabastiani Leon,R,,MEX,30.8,6-0 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,410,118,995,14
 2023-W-ITF-ARG-02A-2023,W25 Buenos Aires,Clay,48,25,20230116,215,221333,14,,Solana Sierra,R,,ARG,18.5,219625,,,Fernanda Labrana,R,,CHI,23.8,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,461,96,799,27
-2023-W-ITF-ARG-02A-2023,W25 Buenos Aires,Clay,48,25,20230116,216,220699,2,,Julia Riera,U,,ARG,20.6,206406,,,Berta Bonardi,U,,ARG,27.5,7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,264,239,535,71
+2023-W-ITF-ARG-02A-2023,W25 Buenos Aires,Clay,48,25,20230116,216,220699,2,,Julia Riera,U,,ARG,20.6,206406,,,Berta Bonardi,R,,ARG,27.5,7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,264,239,535,71
 2023-W-ITF-ARG-02A-2023,W25 Buenos Aires,Clay,48,25,20230116,301,206430,1,,Carolina Alves,U,,BRA,26.7,211864,9,,Maria Fernanda Herazo Gonzalez,L,166,COL,25.8,6-4 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,216,297,395,123
 2023-W-ITF-ARG-02A-2023,W25 Buenos Aires,Clay,48,25,20230116,302,220781,5,,Carlota Martinez Cirez,R,,ESP,21.9,238065,15,,Noelia Zeballos Melgar,U,,BOL,28.7,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,317,183,,
 2023-W-ITF-ARG-02A-2023,W25 Buenos Aires,Clay,48,25,20230116,303,206194,4,,Gabriela Ce,L,,BRA,29.8,220492,,,Chantal Sauvant,U,,GER,20.6,2-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,271,228,542,69
@@ -435,6 +435,37 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-BDI-01A-2023,W25 Bujumbura,Clay,32,25,20230403,401,216367,1,,Sada Nahimana,R,,BDI,21.9,215372,5,,Ksenia Laskutova,R,,RUS,26.5,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,267,249,501,84
 2023-W-ITF-BDI-01A-2023,W25 Bujumbura,Clay,32,25,20230403,402,215806,2,,Alice Robbe,U,,FRA,22.8,211063,4,,Valeriya Strakhova,R,,UKR,27.8,7-5 7-6(11),3,SF,,,,,,,,,,,,,,,,,,,,270,246,349,161
 2023-W-ITF-BDI-01A-2023,W25 Bujumbura,Clay,32,25,20230403,501,215806,2,,Alice Robbe,U,,FRA,22.8,216367,1,,Sada Nahimana,R,,BDI,21.9,6-1 6-4,3,F,,,,,,,,,,,,,,,,,,,,270,246,267,249
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,101,216367,1,,Sada Nahimana,R,,BDI,21.9,206104,,,Sharmada Balu,R,,IND,29.6,6-4 5-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,270,249,885,21
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,102,223336,,,Weronika Baszak,R,,POL,20.5,228910,,,Tilwith Di Girolami,R,,BEL,19.5,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,796,28,670,45
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,103,256723,,Q,Natalia Kowalczyk,U,,POL,19.1,214032,,,Chiraz Bechri,R,,TUN,24.7,6-4 0-6 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,,,801,28
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,104,222276,6,,Jasmijn Gimbrere,R,,NED,22.0,210370,,,Sowjanya Bavisetti,L,,IND,29.3,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,555,69,764,31
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,105,202669,3,,Cristina Dinu,R,,ROU,30.2,205492,,LL,Ashmitha Easwaramurthi,R,,IND,33.7,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,313,200,1065,11
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,106,221474,,,Yasmin Ezzat,U,,EGY,19.6,222800,,WC,Divine Dasam Nweke,U,,DEN,,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,753,33,1217,6
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,107,222032,,,Gabriella Price,R,,USA,19.8,259965,,Q,Wozuko Mdlulwa,U,,RSA,15.6,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,749,33,,
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,108,220613,8,,Stephanie Judith Visscher,U,,NED,23.2,206205,,Q,Min Liu,R,,CHN,30.1,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,630,52,,
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,109,211382,7,,Caroline Romeo,U,,FRA,28.7,260008,,Q,Mansi Vadyala,U,,USA,17.1,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,556,69,1071,11
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,110,220391,,,Anna Ureke,U,,RUS,23.4,263820,,WC,Hoziane Kitambala,U,,BDI,,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,945,17,,
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,111,213714,,,Fanny Ostlund,R,,SWE,25.9,221275,,,Sravya Shivani Chilakalapudi,R,,IND,23.1,6-0 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,737,34,990,15
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,112,211063,4,,Valeriya Strakhova,R,,UKR,27.8,263819,,WC,Olive Tuyisenge,U,,RWA,,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,350,161,,
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,113,211477,,Q,Tiffany William,R,,GBR,28.7,215372,5,,Ksenia Laskutova,R,,RUS,26.6,7-5 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,499,84
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,114,224482,,Q,Smriti Bhasin,U,,IND,20.3,258529,,Q,Meisha Kendall Woseley,U,,USA,25.1,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1111,10,,
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,115,211965,,,Jasmin Jebawy,U,,GER,26.5,261058,,WC,Sonia Tuyishime,U,,RWA,,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,638,51,,
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,116,215806,2,,Alice Robbe,U,,FRA,22.9,260238,,Q,Abhilasha Bista,U,,NPL,19.8,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,275,246,,
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,201,216367,1,,Sada Nahimana,R,,BDI,21.9,223336,,,Weronika Baszak,R,,POL,20.5,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,270,249,796,28
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,202,222276,6,,Jasmijn Gimbrere,R,,NED,22.0,256723,,Q,Natalia Kowalczyk,U,,POL,19.1,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,555,69,,
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,203,221474,,,Yasmin Ezzat,U,,EGY,19.6,202669,3,,Cristina Dinu,R,,ROU,30.2,4-6 6-3 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,753,33,313,200
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,204,220613,8,,Stephanie Judith Visscher,U,,NED,23.2,222032,,,Gabriella Price,R,,USA,19.8,4-6 7-6(5) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,630,52,749,33
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,205,220391,,,Anna Ureke,U,,RUS,23.4,211382,7,,Caroline Romeo,U,,FRA,28.7,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,945,17,556,69
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,206,211063,4,,Valeriya Strakhova,R,,UKR,27.8,213714,,,Fanny Ostlund,R,,SWE,25.9,3-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,350,161,737,34
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,207,211477,,Q,Tiffany William,R,,GBR,28.7,224482,,Q,Smriti Bhasin,U,,IND,20.3,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,1111,10
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,208,215806,2,,Alice Robbe,U,,FRA,22.9,211965,,,Jasmin Jebawy,U,,GER,26.5,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,275,246,638,51
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,301,222276,6,,Jasmijn Gimbrere,R,,NED,22.0,216367,1,,Sada Nahimana,R,,BDI,21.9,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,555,69,270,249
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,302,220613,8,,Stephanie Judith Visscher,U,,NED,23.2,221474,,,Yasmin Ezzat,U,,EGY,19.6,5-7 6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,630,52,753,33
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,303,211063,4,,Valeriya Strakhova,R,,UKR,27.8,220391,,,Anna Ureke,U,,RUS,23.4,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,350,161,945,17
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,304,215806,2,,Alice Robbe,U,,FRA,22.9,211477,,Q,Tiffany William,R,,GBR,28.7,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,275,246,,
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,401,222276,6,,Jasmijn Gimbrere,R,,NED,22.0,220613,8,,Stephanie Judith Visscher,U,,NED,23.2,6-1 6-3,3,SF,,,,,,,,,,,,,,,,,,,,555,69,630,52
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,402,215806,2,,Alice Robbe,U,,FRA,22.9,211063,4,,Valeriya Strakhova,R,,UKR,27.8,3-0 RET,3,SF,,,,,,,,,,,,,,,,,,,,275,246,350,161
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,501,215806,2,,Alice Robbe,U,,FRA,22.9,222276,6,,Jasmijn Gimbrere,R,,NED,22.0,6-1 6-2,3,F,,,,,,,,,,,,,,,,,,,,275,246,555,69
 2023-W-ITF-CAN-01A-2023,W25 Toronto,Hard,32,25,20230227,101,214149,1,,Viktoria Kuzmova,R,,SVK,24.7,221127,,LL,Tara Malik,U,,USA,20.4,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,128,518,1258,4
 2023-W-ITF-CAN-01A-2023,W25 Toronto,Hard,32,25,20230227,102,223335,,,Cadence Brace,R,,CAN,18.0,220550,,,Dalayna Hewitt,R,,USA,22.1,7-6(4) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,416,115,485,86
 2023-W-ITF-CAN-01A-2023,W25 Toronto,Hard,32,25,20230227,103,239386,,,Olivia Lincer,U,,USA,18.1,214660,,,Katarina Kozarov,U,,SRB,24.8,3-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,567,66,486,86
@@ -508,7 +539,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,109,220733,6,,Carole Monnet,L,,FRA,21.2,215144,,,Daniela Vismane,R,,LAT,22.5,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,188,346,293,211
 2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,110,203521,,Q,Andrea Gamiz,R,162,VEN,30.3,214136,,Q,Melany Solange Krywoj,R,,ARG,25.0,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,418,115,905,19
 2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,111,214060,,WC,Yuliana Monroy,U,,COL,24.4,211043,,WC,Maria Paulina Perez Garcia,R,170,COL,27.1,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,745,33,715,36
-2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,112,214247,,,Lena Rueffer,U,,GER,24.5,214604,3,,Maria Carle,R,,ARG,23.0,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,306,195,153,430
+2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,112,214247,,,Lena Rueffer,R,,GER,24.5,214604,3,,Maria Carle,R,,ARG,23.0,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,306,195,153,430
 2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,113,215480,8,,Suzan Lamens,R,,NED,23.6,222000,,WC,Maria Camila Torres Murcia,L,,COL,20.3,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,211,315,993,14
 2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,114,214646,,,Xiaodi You,U,,CHN,26.8,215763,,Q,Sofia Sewing,R,170,USA,23.6,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,295,209,455,98
 2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,115,221257,,,Sinja Kraus,R,,AUT,20.8,202701,,,Irina Khromacheva,L,170,RUS,27.8,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,219,307,240,270
@@ -518,7 +549,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,203,220770,,,Eva Vedder,R,,NED,23.3,202440,4,,Paula Ormaechea,R,170,ARG,30.4,6-3 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,249,261,174,376
 2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,204,215111,5,,Joanne Zuger,U,,SUI,22.3,215936,,SR,Francesca Jones,R,,GBR,22.4,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,179,367,,
 2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,205,220733,6,,Carole Monnet,L,,FRA,21.2,203521,,Q,Andrea Gamiz,R,162,VEN,30.3,6-3 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,188,346,418,115
-2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,206,214060,,WC,Yuliana Monroy,U,,COL,24.4,214247,,,Lena Rueffer,U,,GER,24.5,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,745,33,306,195
+2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,206,214060,,WC,Yuliana Monroy,U,,COL,24.4,214247,,,Lena Rueffer,R,,GER,24.5,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,745,33,306,195
 2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,207,214646,,,Xiaodi You,U,,CHN,26.8,215480,8,,Suzan Lamens,R,,NED,23.6,3-6 7-6(2) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,295,209,211,315
 2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,208,221257,,,Sinja Kraus,R,,AUT,20.8,220699,,,Julia Riera,U,,ARG,20.7,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,219,307,266,250
 2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,301,201551,1,,Arantxa Rus,L,180,NED,32.2,215131,,,Nefisa Berberovic,U,,BIH,23.6,6-0 7-6(1),3,QF,,,,,,,,,,,,,,,,,,,,130,520,328,177
@@ -530,14 +561,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,501,201551,1,,Arantxa Rus,L,180,NED,32.2,221257,,,Sinja Kraus,R,,AUT,20.8,6-3 6-7(3) 6-2,3,F,,,,,,,,,,,,,,,,,,,,130,520,219,307
 2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,101,215111,1,,Joanne Zuger,U,,SUI,22.3,214060,,WC,Yuliana Monroy,U,,COL,24.4,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,182,363,664,45
 2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,102,211820,,,Martina Colmegna,R,,ITA,26.2,202379,,Q,Chieh Yu Hsu,L,170,USA,31.1,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,360,154,649,48
-2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,103,214247,,,Lena Rueffer,U,,GER,24.5,221501,,WC,Antonia Samudio,R,,COL,21.9,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,316,197,1035,13
+2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,103,214247,,,Lena Rueffer,R,,GER,24.5,221501,,WC,Antonia Samudio,R,,COL,21.9,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,316,197,1035,13
 2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,104,221257,6,,Sinja Kraus,R,,AUT,20.8,215693,,,Michaela Bayerlova,U,,CZE,24.2,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,192,344,332,176
 2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,105,221333,,Q,Solana Sierra,R,,ARG,18.7,221911,4,,Selena Janicijevic,U,,FRA,20.6,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,357,156,210,318
 2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,106,215778,,Q,Emma Lene,U,,FRA,23.6,211864,,,Maria Fernanda Herazo Gonzalez,L,166,COL,25.9,2-6 7-6(6) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,474,92,396,132
 2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,107,215131,,,Nefisa Berberovic,U,,BIH,23.7,222156,,Q,Silvia Ambrosio,R,,GER,26.1,2-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,320,189,433,110
 2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,108,206430,7,,Carolina Alves,U,,BRA,26.9,214106,,Q,Guillermina Naya,R,,ARG,26.4,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,241,279,,
 2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,109,202701,8,,Irina Khromacheva,L,170,RUS,27.8,211920,,,Martina Capurro Taborda,L,,ARG,25.2,6-4 1-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,264,255,377,143
-2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,110,221191,,,Margaux Rouvroy,U,,FRA,21.9,206406,,Q,Berta Bonardi,U,,ARG,27.7,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,366,148,547,72
+2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,110,221191,,,Margaux Rouvroy,U,,FRA,21.9,206406,,Q,Berta Bonardi,R,,ARG,27.7,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,366,148,547,72
 2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,111,215306,,,Emiliana Arango,R,,COL,22.3,215144,,,Daniela Vismane,R,,LAT,22.6,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,286,217,295,211
 2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,112,220699,,,Julia Riera,U,,ARG,20.8,215572,3,,Nuria Brancaccio,R,,ITA,22.7,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,263,256,207,321
 2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,113,215480,5,,Suzan Lamens,R,,NED,23.7,214136,,Q,Melany Solange Krywoj,R,,ARG,25.0,7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,230,288,848,23
@@ -545,7 +576,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,115,215936,,,Francesca Jones,R,,GBR,22.4,211043,,WC,Maria Paulina Perez Garcia,R,170,COL,27.1,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,863,21,724,36
 2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,116,211063,,,Valeriya Strakhova,R,,UKR,27.7,220733,2,,Carole Monnet,L,,FRA,21.2,2-6 6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,355,157,194,341
 2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,201,211820,,,Martina Colmegna,R,,ITA,26.2,215111,1,,Joanne Zuger,U,,SUI,22.3,6-3 1-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,360,154,182,363
-2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,202,221257,6,,Sinja Kraus,R,,AUT,20.8,214247,,,Lena Rueffer,U,,GER,24.5,7-6(4) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,192,344,316,197
+2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,202,221257,6,,Sinja Kraus,R,,AUT,20.8,214247,,,Lena Rueffer,R,,GER,24.5,7-6(4) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,192,344,316,197
 2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,203,215778,,Q,Emma Lene,U,,FRA,23.6,221333,,Q,Solana Sierra,R,,ARG,18.7,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,474,92,357,156
 2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,204,215131,,,Nefisa Berberovic,U,,BIH,23.7,206430,7,,Carolina Alves,U,,BRA,26.9,6-3 3-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,320,189,241,279
 2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,205,221191,,,Margaux Rouvroy,U,,FRA,21.9,202701,8,,Irina Khromacheva,L,170,RUS,27.8,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,366,148,264,255
@@ -567,9 +598,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-COL-03A-2023,W25 Sopo,Clay,32,25,20230327,106,211820,,,Martina Colmegna,R,,ITA,26.2,211668,,Q,Riya Bhatia,R,,IND,25.5,6-3 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,360,154,731,35
 2023-W-ITF-COL-03A-2023,W25 Sopo,Clay,32,25,20230327,107,214136,,Q,Melany Solange Krywoj,R,,ARG,25.0,214060,,WC,Yuliana Monroy,U,,COL,24.5,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,848,23,664,45
 2023-W-ITF-COL-03A-2023,W25 Sopo,Clay,32,25,20230327,108,221911,5,,Selena Janicijevic,U,,FRA,20.6,220550,,Q,Dalayna Hewitt,R,,USA,22.2,6-7(4) 3-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,210,318,562,68
-2023-W-ITF-COL-03A-2023,W25 Sopo,Clay,32,25,20230327,109,220699,8,,Julia Riera,U,,ARG,20.8,214247,,,Lena Rueffer,U,,GER,24.5,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,263,256,316,197
+2023-W-ITF-COL-03A-2023,W25 Sopo,Clay,32,25,20230327,109,220699,8,,Julia Riera,U,,ARG,20.8,214247,,,Lena Rueffer,R,,GER,24.5,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,263,256,316,197
 2023-W-ITF-COL-03A-2023,W25 Sopo,Clay,32,25,20230327,110,215131,,,Nefisa Berberovic,U,,BIH,23.7,215693,,,Michaela Bayerlova,U,,CZE,24.2,2-6 7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,320,189,332,176
-2023-W-ITF-COL-03A-2023,W25 Sopo,Clay,32,25,20230327,111,221333,,,Solana Sierra,R,,ARG,18.7,206406,,Q,Berta Bonardi,U,,ARG,27.7,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,357,156,547,72
+2023-W-ITF-COL-03A-2023,W25 Sopo,Clay,32,25,20230327,111,221333,,,Solana Sierra,R,,ARG,18.7,206406,,Q,Berta Bonardi,R,,ARG,27.7,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,357,156,547,72
 2023-W-ITF-COL-03A-2023,W25 Sopo,Clay,32,25,20230327,112,222156,,Q,Silvia Ambrosio,R,,GER,26.1,221257,3,,Sinja Kraus,R,,AUT,20.9,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,433,110,192,344
 2023-W-ITF-COL-03A-2023,W25 Sopo,Clay,32,25,20230327,113,215480,6,,Suzan Lamens,R,,NED,23.7,202379,,Q,Chieh Yu Hsu,L,170,USA,31.1,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,230,288,649,48
 2023-W-ITF-COL-03A-2023,W25 Sopo,Clay,32,25,20230327,114,221086,,,Mariia Tkacheva,R,,RUS,21.2,221501,,WC,Antonia Samudio,R,,COL,21.9,2-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,426,112,1035,13
@@ -1056,6 +1087,37 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-EGY-10A-2023,W15 Sharm ElSheikh,Hard,32,15,20230403,401,239389,,,Elena Pridankina,U,,RUS,17.5,223194,,,Taylah Preston,R,,AUS,17.4,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,694,40,836,24
 2023-W-ITF-EGY-10A-2023,W15 Sharm ElSheikh,Hard,32,15,20230403,402,216062,,,Meiling Wang,U,,CHN,23.1,259760,,,Isabelle Lacy,U,,GBR,16.7,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,766,31,872,21
 2023-W-ITF-EGY-10A-2023,W15 Sharm ElSheikh,Hard,32,15,20230403,501,239389,,,Elena Pridankina,U,,RUS,17.5,216062,,,Meiling Wang,U,,CHN,23.1,6-3 6-1,3,F,,,,,,,,,,,,,,,,,,,,694,40,766,31
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,101,214593,1,,Lucrezia Stefanini,R,,ITA,24.9,221626,,Q,Linda Klimovicova,U,,CZE,18.8,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,126,523,554,70
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,102,221901,,Q,Darya Shauha,U,,BLR,19.5,221086,,,Mariia Tkacheva,R,,RUS,21.3,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,713,38,441,104
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,103,223194,,JE,Taylah Preston,R,,AUS,17.4,220946,,WC,Marie Weckerle,U,,LUX,19.9,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,836,24,,
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,104,203379,,,Marina Melnikova,R,173,RUS,34.1,211685,5,,Rebecca Sramkova,R,,SVK,26.4,7-6(2) 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,501,83,240,275
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,105,221237,4,,Maria Timofeeva,R,,RUS,19.3,215707,,,Anna Kubareva,U,,BLR,22.1,6-2 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,223,300,341,174
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,106,216062,,SE,Meiling Wang,U,,CHN,23.1,223198,,LL,Jasmine Conway,U,,GBR,18.2,6-3 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,787,29,619,55
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,107,220276,,WC,Evgeniya Burdina,U,,RUS,22.2,216287,,Q,Ekaterina Shalimova,U,,RUS,22.8,4-6 6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1225,6,717,37
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,108,221395,7,,Ekaterina Reyngold,R,,RUS,22.0,220354,,WC,Emilie Lindh Gallagher,U,,GBR,23.2,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,304,205,553,70
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,109,211765,6,,Emina Bektas,R,,USA,30.0,203449,,Q,Sarah Rebecca Sekulic,L,,GER,30.7,6-3 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,276,245,686,42
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,110,214577,,,Stacey Fung,U,,CAN,26.1,222171,,Q,Nahia Berecoechea,R,,FRA,18.9,7-6(8) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,325,188,607,57
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,111,211598,,,Anna Brogan,U,,GBR,25.6,214386,,,Xinyu Gao,U,,CHN,25.3,7-6(5) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,359,158,320,193
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,112,211269,3,,Eudice Wong Chong,U,,HKG,26.9,214860,,WC,Karola Patricia Bejenaru,R,,ROU,25.7,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,218,303,529,77
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,113,221434,,Q,Aliona Falei,U,,BLR,19.0,213873,8,,Gabriela Andrea Knutson,R,,CZE,25.9,3-6 7-6(8) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,707,39,309,202
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,114,223325,,Q,Polina Iatcenko,U,,RUS,19.3,215077,,,Viktoria Morvayova,U,,SVK,22.0,7-6(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,544,72,372,147
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,115,239389,,SE,Elena Pridankina,U,,RUS,17.6,214696,,LL,Jessica Failla,U,,USA,25.7,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,696,40,464,96
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,116,221178,2,,Darya Astakhova,R,,RUS,21.2,214546,,Q,Ekaterina Kazionova,R,,RUS,24.2,6-1 1-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,187,364,456,97
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,201,214593,1,,Lucrezia Stefanini,R,,ITA,24.9,221901,,Q,Darya Shauha,U,,BLR,19.5,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,126,523,713,38
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,202,223194,,JE,Taylah Preston,R,,AUS,17.4,203379,,,Marina Melnikova,R,173,RUS,34.1,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,836,24,501,83
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,203,216062,,SE,Meiling Wang,U,,CHN,23.1,221237,4,,Maria Timofeeva,R,,RUS,19.3,6-7(5) 7-6(6) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,787,29,223,300
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,204,220276,,WC,Evgeniya Burdina,U,,RUS,22.2,221395,7,,Ekaterina Reyngold,R,,RUS,22.0,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1225,6,304,205
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,205,211765,6,,Emina Bektas,R,,USA,30.0,214577,,,Stacey Fung,U,,CAN,26.1,2-6 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,276,245,325,188
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,206,211269,3,,Eudice Wong Chong,U,,HKG,26.9,211598,,,Anna Brogan,U,,GBR,25.6,W/O,3,R16,,,,,,,,,,,,,,,,,,,,218,303,359,158
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,207,223325,,Q,Polina Iatcenko,U,,RUS,19.3,221434,,Q,Aliona Falei,U,,BLR,19.0,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,544,72,707,39
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,208,239389,,SE,Elena Pridankina,U,,RUS,17.6,221178,2,,Darya Astakhova,R,,RUS,21.2,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,696,40,187,364
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,301,214593,1,,Lucrezia Stefanini,R,,ITA,24.9,223194,,JE,Taylah Preston,R,,AUS,17.4,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,126,523,836,24
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,302,216062,,SE,Meiling Wang,U,,CHN,23.1,220276,,WC,Evgeniya Burdina,U,,RUS,22.2,W/O,3,QF,,,,,,,,,,,,,,,,,,,,787,29,1225,6
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,303,211765,6,,Emina Bektas,R,,USA,30.0,211269,3,,Eudice Wong Chong,U,,HKG,26.9,6-7(5) 7-6(0) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,276,245,218,303
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,304,223325,,Q,Polina Iatcenko,U,,RUS,19.3,239389,,SE,Elena Pridankina,U,,RUS,17.6,7-6(4) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,544,72,696,40
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,401,214593,1,,Lucrezia Stefanini,R,,ITA,24.9,216062,,SE,Meiling Wang,U,,CHN,23.1,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,126,523,787,29
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,402,211765,6,,Emina Bektas,R,,USA,30.0,223325,,Q,Polina Iatcenko,U,,RUS,19.3,3-6 6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,276,245,544,72
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,501,214593,1,,Lucrezia Stefanini,R,,ITA,24.9,211765,6,,Emina Bektas,R,,USA,30.0,6-3 7-6(5),3,F,,,,,,,,,,,,,,,,,,,,126,523,276,245
 2023-W-ITF-ESP-01A-2023,W15 Manacor,Hard,32,15,20230213,101,241714,,Q,Rebecca Munk Mortensen,U,,DEN,17.2,238065,1,,Noelia Zeballos Melgar,U,,BOL,28.7,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1027,12,,
 2023-W-ITF-ESP-01A-2023,W15 Manacor,Hard,32,15,20230213,102,221454,,WC,Alba Rey Garcia,U,,ESP,20.6,221197,,,Lucia Llinares Domingo,R,,ESP,19.7,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,650,46,991,14
 2023-W-ITF-ESP-01A-2023,W15 Manacor,Hard,32,15,20230213,103,260556,,Q,Tianmi Mi,U,,CHN,,225854,,Q,Carmen Lopez Martinez,U,,ESP,17.8,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1226,5
@@ -1242,6 +1304,68 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-ESP-08A-2023,W15 Telde,Clay,32,15,20230403,401,214236,1,,Angela Fita Boluda,U,,ESP,23.7,215019,3,,Maria Jose Portillo Ramirez,R,,MEX,23.9,6-2 6-1,3,SF,,,,,,,,,,,,,,,,,,,,291,216,500,84
 2023-W-ITF-ESP-08A-2023,W15 Telde,Clay,32,15,20230403,402,223397,,,Klaudija Bubelyte,U,,LTU,20.0,215966,,,Maria Toma,U,,ROU,24.1,6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,722,37,883,21
 2023-W-ITF-ESP-08A-2023,W15 Telde,Clay,32,15,20230403,501,214236,1,,Angela Fita Boluda,U,,ESP,23.7,223397,,,Klaudija Bubelyte,U,,LTU,20.0,3-6 7-5 7-5,3,F,,,,,,,,,,,,,,,,,,,,291,216,722,37
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,101,203575,1,,Danka Kovinic,R,169,MNE,28.3,222601,,,Jessica Bouzas Maneiro,R,,ESP,20.5,6-2 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,73,794,185,366
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,102,203564,,,Chloe Paquet,R,179,FRA,28.7,201534,,,Asia Muhammad,R,178,USA,32.0,5-7 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,189,351,268,251
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,103,220453,,,Adithya Karunaratne,U,,SRI,21.3,201402,,SR,Sesil Karatantcheva,R,171,KAZ,33.6,7-6(5) 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,294,214,,
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,104,211316,8,,Jessika Ponchet,R,,FRA,26.5,216076,,Q,Ashley Lahey,U,,USA,23.4,4-6 6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,133,496,345,165
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,105,206124,4,,Tereza Martincova,R,178,CZE,28.4,203586,,Q,Ioana Loredana Rosca,R,,ROU,26.5,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,103,623,466,95
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,106,257874,,Q,Ksenia Zaytseva,U,,RUS,18.5,214236,,,Angela Fita Boluda,U,,ESP,23.7,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,532,76,291,216
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,107,201499,,WC,Anastasia Pavlyuchenkova,R,177,RUS,31.7,203521,,Q,Andrea Gamiz,R,162,VEN,30.4,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,639,50,409,124
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,108,201551,6,,Arantxa Rus,L,180,NED,32.3,221259,,Q,Joelle Lilly Sophie Steur,U,,GER,19.0,6-1 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,107,600,533,76
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,109,221191,,Q,Margaux Rouvroy,U,,FRA,22.0,222965,7,,Erika Andreeva,R,,RUS,18.7,7-5 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,323,189,117,548
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,110,210337,,,Natalija Stevanovic,R,,SRB,28.7,222980,,JE,Lucie Havlickova,R,,CZE,18.0,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,206,321,273,248
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,111,220742,,,Leyre Romero Gormaz,L,,ESP,21.0,215798,,,Rosa Vicens Mas,U,,ESP,22.7,6-4 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,174,390,176,385
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,112,206219,3,,Oceane Dodin,R,,FRA,26.4,206335,,Q,Jesika Maleckova,R,,CZE,28.6,6-7(6) 6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,99,672,362,153
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,113,213706,,WC,Irene Burillo Escorihuela,R,,ESP,25.7,220348,5,,Diane Parry,R,170,FRA,20.6,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,321,192,109,592
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,114,210622,,WC,Andrea Lazaro Garcia,R,,ESP,28.4,220770,,,Eva Vedder,R,,NED,23.3,6-1 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,356,159,264,256
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,115,211951,,,Ana Konjuh,R,174,CRO,25.2,222062,,WC,Andrea Palazon,U,,ESP,,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,166,413,,
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,116,202600,2,,Viktoriya Tomova,R,170,BUL,28.1,215398,,Q,Lucia Cortez Llorca,U,,ESP,22.8,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,98,677,465,95
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,201,203564,,,Chloe Paquet,R,179,FRA,28.7,203575,1,,Danka Kovinic,R,169,MNE,28.3,3-6 6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,189,351,73,794
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,202,211316,8,,Jessika Ponchet,R,,FRA,26.5,220453,,,Adithya Karunaratne,U,,SRI,21.3,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,133,496,294,214
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,203,206124,4,,Tereza Martincova,R,178,CZE,28.4,257874,,Q,Ksenia Zaytseva,U,,RUS,18.5,6-4 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,103,623,532,76
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,204,201551,6,,Arantxa Rus,L,180,NED,32.3,201499,,WC,Anastasia Pavlyuchenkova,R,177,RUS,31.7,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,107,600,639,50
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,205,210337,,,Natalija Stevanovic,R,,SRB,28.7,221191,,Q,Margaux Rouvroy,U,,FRA,22.0,7-5 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,206,321,323,189
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,206,220742,,,Leyre Romero Gormaz,L,,ESP,21.0,206219,3,,Oceane Dodin,R,,FRA,26.4,7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,174,390,99,672
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,207,213706,,WC,Irene Burillo Escorihuela,R,,ESP,25.7,210622,,WC,Andrea Lazaro Garcia,R,,ESP,28.4,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,321,192,356,159
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,208,202600,2,,Viktoriya Tomova,R,170,BUL,28.1,211951,,,Ana Konjuh,R,174,CRO,25.2,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,98,677,166,413
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,301,211316,8,,Jessika Ponchet,R,,FRA,26.5,203564,,,Chloe Paquet,R,179,FRA,28.7,7-5 3-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,133,496,189,351
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,302,206124,4,,Tereza Martincova,R,178,CZE,28.4,201551,6,,Arantxa Rus,L,180,NED,32.3,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,103,623,107,600
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,303,220742,,,Leyre Romero Gormaz,L,,ESP,21.0,210337,,,Natalija Stevanovic,R,,SRB,28.7,4-6 7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,174,390,206,321
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,304,202600,2,,Viktoriya Tomova,R,170,BUL,28.1,213706,,WC,Irene Burillo Escorihuela,R,,ESP,25.7,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,98,677,321,192
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,401,206124,4,,Tereza Martincova,R,178,CZE,28.4,211316,8,,Jessika Ponchet,R,,FRA,26.5,7-6(7) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,103,623,133,496
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,402,202600,2,,Viktoriya Tomova,R,170,BUL,28.1,220742,,,Leyre Romero Gormaz,L,,ESP,21.0,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,98,677,174,390
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,501,202600,2,,Viktoriya Tomova,R,170,BUL,28.1,206124,4,,Tereza Martincova,R,178,CZE,28.4,4-6 6-2 6-3,3,F,,,,,,,,,,,,,,,,,,,,98,677,103,623
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,101,260556,,Q,Tianmi Mi,U,,CHN,,215019,1,,Maria Jose Portillo Ramirez,R,,MEX,23.9,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1195,7,498,84
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,102,221197,,Q,Lucia Llinares Domingo,R,,ESP,19.9,254735,,Q,Anna Semenova,U,,RUS,19.1,3-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1006,14,,
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,103,221472,,,Chiara Girelli,U,,ITA,20.3,225854,,WC,Carmen Lopez Martinez,U,,ESP,17.9,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,802,28,1233,5
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,104,259105,,,Marta Soriano Santiago,U,,ESP,16.9,206211,5,,Anna Klasen,U,,GER,29.3,6-1 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,910,19,662,46
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,105,213772,3,,Amy Zhu,R,,USA,28.4,220665,,Q,Brittany Collens,R,,USA,28.0,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,601,59,1117,9
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,106,215698,,WC,Paula Arias Manjon,U,,ESP,23.1,247647,,,Jenny Lim,U,,FRA,18.2,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1129,9,762,31
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,107,215818,,Q,Georgia Gulin,U,,BRA,23.5,222665,,WC,Judith Hernandez Miranda,U,,ESP,,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,946,17,,
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,108,220716,6,,Oleksandra Oliynykova,R,,CRO,22.2,215966,,,Maria Toma,U,,ROU,24.2,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,714,38,882,21
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,109,220827,,,Laura Mair,U,,ITA,20.2,216078,7,,Celia Cervino Ruiz,U,,ESP,25.3,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,894,20,750,33
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,110,223402,,,Chloe Noel,U,,FRA,19.0,222476,,WC,Andrea Perez Bordon,U,,ESP,,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,903,19,,
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,111,215050,,Q,Schena Benamar,U,,FRA,24.2,220593,,,Kristina Milenkovic,R,,SUI,21.8,5-7 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1211,6,886,21
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,112,220513,4,,Antonia Schmidt,U,,GER,21.7,234475,,Q,Sarah Tatu,U,,GBR,18.4,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,643,50,1245,5
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,113,222346,8,,Laia Petretic,U,,FRA,19.0,221062,,,Marie Mettraux,U,,SUI,23.0,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,743,34,901,20
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,114,215799,,,Giulia Carbonaro,U,,ITA,22.5,214426,,,Giulia Crescenzi,U,,ITA,27.0,1-6 7-6(4) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,916,19,843,24
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,115,221414,,Q,Chiara Di Genova,U,,ARG,19.1,206339,,,Olga Parres Azcoitia,U,,ESP,30.0,6-4 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,931,17,908,19
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,116,220306,,,Alessandra Mazzola,U,,ITA,23.3,220492,2,,Chantal Sauvant,U,,GER,20.9,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,813,27,565,68
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,201,260556,,Q,Tianmi Mi,U,,CHN,,221197,,Q,Lucia Llinares Domingo,R,,ESP,19.9,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1195,7,1006,14
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,202,221472,,,Chiara Girelli,U,,ITA,20.3,259105,,,Marta Soriano Santiago,U,,ESP,16.9,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,802,28,910,19
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,203,215698,,WC,Paula Arias Manjon,U,,ESP,23.1,213772,3,,Amy Zhu,R,,USA,28.4,5-7 6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1129,9,601,59
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,204,220716,6,,Oleksandra Oliynykova,R,,CRO,22.2,215818,,Q,Georgia Gulin,U,,BRA,23.5,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,714,38,946,17
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,205,220827,,,Laura Mair,U,,ITA,20.2,223402,,,Chloe Noel,U,,FRA,19.0,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,894,20,903,19
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,206,215050,,Q,Schena Benamar,U,,FRA,24.2,220513,4,,Antonia Schmidt,U,,GER,21.7,3-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1211,6,643,50
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,207,222346,8,,Laia Petretic,U,,FRA,19.0,215799,,,Giulia Carbonaro,U,,ITA,22.5,7-5 3-6 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,743,34,916,19
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,208,220306,,,Alessandra Mazzola,U,,ITA,23.3,221414,,Q,Chiara Di Genova,U,,ARG,19.1,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,813,27,931,17
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,301,260556,,Q,Tianmi Mi,U,,CHN,,221472,,,Chiara Girelli,U,,ITA,20.3,6-0 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1195,7,802,28
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,302,220716,6,,Oleksandra Oliynykova,R,,CRO,22.2,215698,,WC,Paula Arias Manjon,U,,ESP,23.1,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,714,38,1129,9
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,303,220827,,,Laura Mair,U,,ITA,20.2,215050,,Q,Schena Benamar,U,,FRA,24.2,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,894,20,1211,6
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,304,220306,,,Alessandra Mazzola,U,,ITA,23.3,222346,8,,Laia Petretic,U,,FRA,19.0,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,813,27,743,34
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,401,220716,6,,Oleksandra Oliynykova,R,,CRO,22.2,260556,,Q,Tianmi Mi,U,,CHN,,6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,714,38,1195,7
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,402,220827,,,Laura Mair,U,,ITA,20.2,220306,,,Alessandra Mazzola,U,,ITA,23.3,4-6 6-1 6-4,3,SF,,,,,,,,,,,,,,,,,,,,894,20,813,27
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,501,220827,,,Laura Mair,U,,ITA,20.2,220716,6,,Oleksandra Oliynykova,R,,CRO,22.2,7-5 6-2,3,F,,,,,,,,,,,,,,,,,,,,894,20,714,38
 2023-W-ITF-EST-01A-2023,W40 Tallinn,Hard,32,40,20230109,101,204246,1,,Lesley Pattinama Kerkhove,R,172,NED,31.1,211967,,,Nina Potocnik,R,,SLO,25.9,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,266,231,273,226
 2023-W-ITF-EST-01A-2023,W40 Tallinn,Hard,32,40,20230109,102,222391,,Q,Lois Boisson,R,,FRA,19.6,213706,,,Irene Burillo Escorihuela,R,,ESP,25.4,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,748,31,292,207
 2023-W-ITF-EST-01A-2023,W40 Tallinn,Hard,32,40,20230109,103,221497,,WC,Andre Lukosiute,U,,LTU,21.5,202410,,Q,Sofia Shapatava,R,170,GEO,33.9,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,823,25,504,80
@@ -1250,7 +1374,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-EST-01A-2023,W40 Tallinn,Hard,32,40,20230109,106,210622,,,Andrea Lazaro Garcia,R,,ESP,28.1,261958,,WC,Anna Maria Tottrup,U,,EST,,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,279,215,,
 2023-W-ITF-EST-01A-2023,W40 Tallinn,Hard,32,40,20230109,107,211328,,Q,Deborah Chiesa,R,170,ITA,26.5,216116,,,Elena Malygina,U,,EST,22.6,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,434,105,347,153
 2023-W-ITF-EST-01A-2023,W40 Tallinn,Hard,32,40,20230109,108,211019,8,,Audrey Albie,R,,FRA,28.2,222980,,Q,Lucie Havlickova,R,,CZE,17.8,6-2 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,261,238,389,125
-2023-W-ITF-EST-01A-2023,W40 Tallinn,Hard,32,40,20230109,109,214247,6,,Lena Rueffer,U,,GER,24.3,211685,,,Rebecca Sramkova,R,,SVK,26.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,250,244,286,211
+2023-W-ITF-EST-01A-2023,W40 Tallinn,Hard,32,40,20230109,109,214247,6,,Lena Rueffer,R,,GER,24.3,211685,,,Rebecca Sramkova,R,,SVK,26.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,250,244,286,211
 2023-W-ITF-EST-01A-2023,W40 Tallinn,Hard,32,40,20230109,110,214507,,Q,Berfu Cengiz,R,,TUR,23.2,215144,,,Daniela Vismane,R,,LAT,22.4,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,374,133,285,212
 2023-W-ITF-EST-01A-2023,W40 Tallinn,Hard,32,40,20230109,111,215806,,,Alice Robbe,U,,FRA,22.6,214779,,Q,Sara Daavettila,U,,USA,25.0,6-2 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,300,202,883,20
 2023-W-ITF-EST-01A-2023,W40 Tallinn,Hard,32,40,20230109,112,214297,,,Jessie Aney,R,173,USA,24.7,221985,4,,Darja Semenistaja,R,,LAT,20.3,7-5 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,367,139,244,254
@@ -1262,7 +1386,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-EST-01A-2023,W40 Tallinn,Hard,32,40,20230109,202,220309,,,Zeynep Sonmez,U,,TUR,20.6,221497,,WC,Andre Lukosiute,U,,LTU,21.5,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,348,153,823,25
 2023-W-ITF-EST-01A-2023,W40 Tallinn,Hard,32,40,20230109,203,211227,3,,Lina Gjorcheska,R,180,MKD,28.4,210622,,,Andrea Lazaro Garcia,R,,ESP,28.1,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,235,268,279,215
 2023-W-ITF-EST-01A-2023,W40 Tallinn,Hard,32,40,20230109,204,211328,,Q,Deborah Chiesa,R,170,ITA,26.5,211019,8,,Audrey Albie,R,,FRA,28.2,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,434,105,261,238
-2023-W-ITF-EST-01A-2023,W40 Tallinn,Hard,32,40,20230109,205,214507,,Q,Berfu Cengiz,R,,TUR,23.2,214247,6,,Lena Rueffer,U,,GER,24.3,7-6(4) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,374,133,250,244
+2023-W-ITF-EST-01A-2023,W40 Tallinn,Hard,32,40,20230109,205,214507,,Q,Berfu Cengiz,R,,TUR,23.2,214247,6,,Lena Rueffer,R,,GER,24.3,7-6(4) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,374,133,250,244
 2023-W-ITF-EST-01A-2023,W40 Tallinn,Hard,32,40,20230109,206,215806,,,Alice Robbe,U,,FRA,22.6,214297,,,Jessie Aney,R,173,USA,24.7,7-6(4) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,300,202,367,139
 2023-W-ITF-EST-01A-2023,W40 Tallinn,Hard,32,40,20230109,207,201518,,,Yanina Wickmayer,R,182,BEL,33.2,212043,,Q,Freya Christie,R,180,GBR,25.1,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,322,178,448,99
 2023-W-ITF-EST-01A-2023,W40 Tallinn,Hard,32,40,20230109,208,211329,2,,Tena Lukas,R,,CRO,27.6,222966,,,Dominika Salkova,U,,CZE,18.5,6-0 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,233,269,316,183
@@ -1274,7 +1398,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-EST-01A-2023,W40 Tallinn,Hard,32,40,20230109,402,201518,,,Yanina Wickmayer,R,182,BEL,33.2,214507,,Q,Berfu Cengiz,R,,TUR,23.2,6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,322,178,374,133
 2023-W-ITF-EST-01A-2023,W40 Tallinn,Hard,32,40,20230109,501,201518,,,Yanina Wickmayer,R,182,BEL,33.2,211227,3,,Lina Gjorcheska,R,180,MKD,28.4,6-1 2-0 RET,3,F,,,,,,,,,,,,,,,,,,,,322,178,235,268
 2023-W-ITF-EST-02A-2023,W40 Tallinn,Hard,32,40,20230116,101,214149,1,,Viktoria Kuzmova,R,,SVK,24.6,213706,,,Irene Burillo Escorihuela,R,,ESP,25.4,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,119,527,298,207
-2023-W-ITF-EST-02A-2023,W40 Tallinn,Hard,32,40,20230116,102,214247,,,Lena Rueffer,U,,GER,24.3,215144,,Q,Daniela Vismane,R,,LAT,22.4,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,255,246,289,212
+2023-W-ITF-EST-02A-2023,W40 Tallinn,Hard,32,40,20230116,102,214247,,,Lena Rueffer,R,,GER,24.3,215144,,Q,Daniela Vismane,R,,LAT,22.4,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,255,246,289,212
 2023-W-ITF-EST-02A-2023,W40 Tallinn,Hard,32,40,20230116,103,222980,,Q,Lucie Havlickova,R,,CZE,17.8,210622,,,Andrea Lazaro Garcia,R,,ESP,28.1,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,382,129,278,221
 2023-W-ITF-EST-02A-2023,W40 Tallinn,Hard,32,40,20230116,104,210303,,,Kathinka Von Deichmann,R,176,LIE,28.6,211329,6,,Tena Lukas,R,,CRO,27.6,4-6 6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,261,242,231,277
 2023-W-ITF-EST-02A-2023,W40 Tallinn,Hard,32,40,20230116,105,204246,,,Lesley Pattinama Kerkhove,R,172,NED,31.2,221257,3,,Sinja Kraus,R,,AUT,20.7,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,260,242,192,334
@@ -1289,7 +1413,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-EST-02A-2023,W40 Tallinn,Hard,32,40,20230116,114,222966,,Q,Dominika Salkova,U,,CZE,18.5,212043,,Q,Freya Christie,R,180,GBR,25.1,7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,312,190,427,109
 2023-W-ITF-EST-02A-2023,W40 Tallinn,Hard,32,40,20230116,115,211432,,Q,Eden Silva,R,,GBR,26.8,220466,,,Joanna Garland,R,,TPE,21.5,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,309,193,259,243
 2023-W-ITF-EST-02A-2023,W40 Tallinn,Hard,32,40,20230116,116,203564,2,,Chloe Paquet,R,179,FRA,28.5,239387,,WC,Patricija Paukstyte,U,,LTU,18.3,4-6 6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,163,387,1092,10
-2023-W-ITF-EST-02A-2023,W40 Tallinn,Hard,32,40,20230116,201,214149,1,,Viktoria Kuzmova,R,,SVK,24.6,214247,,,Lena Rueffer,U,,GER,24.3,6-1 6-7(7) 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,119,527,255,246
+2023-W-ITF-EST-02A-2023,W40 Tallinn,Hard,32,40,20230116,201,214149,1,,Viktoria Kuzmova,R,,SVK,24.6,214247,,,Lena Rueffer,R,,GER,24.3,6-1 6-7(7) 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,119,527,255,246
 2023-W-ITF-EST-02A-2023,W40 Tallinn,Hard,32,40,20230116,202,222980,,Q,Lucie Havlickova,R,,CZE,17.8,210303,,,Kathinka Von Deichmann,R,176,LIE,28.6,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,382,129,261,242
 2023-W-ITF-EST-02A-2023,W40 Tallinn,Hard,32,40,20230116,203,204246,,,Lesley Pattinama Kerkhove,R,172,NED,31.2,214521,,,Lea Boskovic,U,,CRO,23.3,7-6(3) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,260,242,262,241
 2023-W-ITF-EST-02A-2023,W40 Tallinn,Hard,32,40,20230116,204,211019,,,Audrey Albie,R,,FRA,28.2,202662,5,,Camilla Rosatello,R,,ITA,27.6,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,263,240,233,276
@@ -1647,7 +1771,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-GBR-02A-2023,W60 Sunderland,Hard,32,60,20230123,102,201621,,,Mona Barthel,R,185,GER,32.5,212043,,WC,Freya Christie,R,180,GBR,25.2,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,222,290,427,109
 2023-W-ITF-GBR-02A-2023,W60 Sunderland,Hard,32,60,20230123,103,202688,,Q,Isabella Shinikova,R,184,BUL,31.2,221044,,Q,Danielle Daley,U,,GBR,22.6,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,1076,11
 2023-W-ITF-GBR-02A-2023,W60 Sunderland,Hard,32,60,20230123,104,222661,8,WC,Sonay Kartal,R,,GBR,21.2,222259,,,Natalia Szabanin,L,,HUN,19.2,6-4 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,206,318,249,253
-2023-W-ITF-GBR-02A-2023,W60 Sunderland,Hard,32,60,20230123,105,202604,3,,Despina Papamichail,R,178,GRE,29.9,214247,,,Lena Rueffer,U,,GER,24.4,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,,,255,246
+2023-W-ITF-GBR-02A-2023,W60 Sunderland,Hard,32,60,20230123,105,202604,3,,Despina Papamichail,R,178,GRE,29.9,214247,,,Lena Rueffer,R,,GER,24.4,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,,,255,246
 2023-W-ITF-GBR-02A-2023,W60 Sunderland,Hard,32,60,20230123,106,213855,,,Magali Kempen,R,,BEL,25.1,211887,,,Maia Lumsden,R,,GBR,25.0,6-3 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,211,310,473,92
 2023-W-ITF-GBR-02A-2023,W60 Sunderland,Hard,32,60,20230123,107,211643,,Q,Kajsa Rinaldo Persson,R,,SWE,25.1,220466,,,Joanna Garland,R,,TPE,21.5,6-2 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,441,103,259,243
 2023-W-ITF-GBR-02A-2023,W60 Sunderland,Hard,32,60,20230123,108,222601,5,,Jessica Bouzas Maneiro,R,,ESP,20.3,216340,,WC,Eliz Maloney,U,,GBR,22.4,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,403,121
@@ -1685,7 +1809,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-GBR-03A-2023,W25 Bath,Hard,32,25,20230206,109,211432,8,,Eden Silva,R,,GBR,26.8,213657,,Q,Martha Matoula,R,,GRE,25.7,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,303,198,559,66
 2023-W-ITF-GBR-03A-2023,W25 Bath,Hard,32,25,20230206,110,211887,,SR,Maia Lumsden,R,,GBR,25.0,215431,,WC,Emily Appleton,U,,GBR,23.4,4-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,473,94,486,87
 2023-W-ITF-GBR-03A-2023,W25 Bath,Hard,32,25,20230206,111,202702,,,Tereza Smitkova,R,176,CZE,28.3,221044,,WC,Danielle Daley,U,,GBR,22.6,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,443,107,1077,11
-2023-W-ITF-GBR-03A-2023,W25 Bath,Hard,32,25,20230206,112,202688,,,Isabella Shinikova,R,184,BUL,31.2,214247,7,,Lena Rueffer,U,,GER,24.4,1-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,399,124,306,195
+2023-W-ITF-GBR-03A-2023,W25 Bath,Hard,32,25,20230206,112,202688,,,Isabella Shinikova,R,184,BUL,31.2,214247,7,,Lena Rueffer,R,,GER,24.4,1-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,399,124,306,195
 2023-W-ITF-GBR-03A-2023,W25 Bath,Hard,32,25,20230206,113,201664,4,,Pemra Ozgen,R,170,TUR,36.7,223129,,Q,Michaela Laki,U,,GRE,17.8,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,281,218,596,58
 2023-W-ITF-GBR-03A-2023,W25 Bath,Hard,32,25,20230206,114,243420,,Q,Hanne Vandewinkel,U,,BEL,18.7,216116,,,Elena Malygina,U,,EST,22.6,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,595,58,370,142
 2023-W-ITF-GBR-03A-2023,W25 Bath,Hard,32,25,20230206,115,222675,,Q,Amarni Banks,R,,GBR,,221354,,,Lisa Pigato,R,,ITA,19.6,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,501,82,451,103
@@ -1716,7 +1840,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-GBR-04A-2023,W25 Glasgow,Hard,32,25,20230213,109,215806,8,,Alice Robbe,U,,FRA,22.7,214935,,,Malene Helgo,U,,NOR,23.4,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,292,209,323,182
 2023-W-ITF-GBR-04A-2023,W25 Glasgow,Hard,32,25,20230213,110,220489,,Q,Valentina Ryser,U,,SUI,21.8,259591,,WC,Ella Mcdonald,U,,GBR,17.5,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,557,68,1026,12
 2023-W-ITF-GBR-04A-2023,W25 Glasgow,Hard,32,25,20230213,111,211887,,WC,Maia Lumsden,R,,GBR,25.0,259686,,Q,Talia Neilson Gatenby,U,,GBR,17.3,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,473,94,543,70
-2023-W-ITF-GBR-04A-2023,W25 Glasgow,Hard,32,25,20230213,112,211260,4,,Marie Benoit,L,,BEL,27.9,214247,,,Lena Rueffer,U,,GER,24.4,3-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,234,286,306,195
+2023-W-ITF-GBR-04A-2023,W25 Glasgow,Hard,32,25,20230213,112,211260,4,,Marie Benoit,L,,BEL,27.9,214247,,,Lena Rueffer,R,,GER,24.4,3-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,234,286,306,195
 2023-W-ITF-GBR-04A-2023,W25 Glasgow,Hard,32,25,20230213,113,222966,,,Dominika Salkova,U,,CZE,18.6,222259,5,,Natalia Szabanin,L,,HUN,19.3,5-7 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,295,207,250,260
 2023-W-ITF-GBR-04A-2023,W25 Glasgow,Hard,32,25,20230213,114,216340,,WC,Eliz Maloney,U,,GBR,22.5,260672,,Q,Johanne Christine Svendsen,R,,DEN,18.7,6-1 2-6 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,392,130,,
 2023-W-ITF-GBR-04A-2023,W25 Glasgow,Hard,32,25,20230213,115,215077,,Q,Viktoria Morvayova,U,,SVK,21.9,211328,,,Deborah Chiesa,R,170,ITA,26.6,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,425,113,406,124
@@ -2170,6 +2294,37 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-ITA-01A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230403,401,222661,7,,Sonay Kartal,R,,GBR,21.4,214480,8,,Miriam Bianca Bulgaru,R,,ROU,24.4,4-6 6-4 7-6(3),3,SF,,,,,,,,,,,,,,,,,,,,255,258,247,267
 2023-W-ITF-ITA-01A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230403,402,221247,4,,Ekaterina Makarova,R,,RUS,27.1,216579,,,Weronika Falkowska,R,,POL,22.7,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,214,309,248,264
 2023-W-ITF-ITA-01A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230403,501,222661,7,,Sonay Kartal,R,,GBR,21.4,221247,4,,Ekaterina Makarova,R,,RUS,27.1,3-6 6-2 6-1,3,F,,,,,,,,,,,,,,,,,,,,255,258,214,309
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,101,214081,1,,Katharina Hobgarski,R,171,GER,25.8,214992,,Q,Zhibek Kulambayeva,R,172,KAZ,23.0,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,209,319,427,112
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,102,221000,,,Diletta Cherubini,U,,ITA,20.9,221465,,WC,Sofia Rocchetti,R,,ITA,20.6,7-6(9) 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,414,119,727,36
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,103,223164,,,Maria Bondarenko,R,,RUS,20.0,214301,,LL,Tatiana Pieri,U,,ITA,24.0,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,369,149,688,42
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,104,214653,,Q,Andreea Prisacariu,U,,ROU,23.1,216324,6,,Misaki Matsuda,U,,JPN,24.6,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,411,123,258,259
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,105,222396,,,Matilde Paoletti,R,,ITA,20.1,216081,4,,Maja Chwalinska,L,,POL,21.4,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,301,206,239,278
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,106,223321,,,Sofia Costoulas,U,,BEL,18.0,221265,,,Ikumi Yamazaki,U,,JPN,21.6,7-6(7) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,360,157,426,112
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,107,220364,,,Sapfo Sakellaridi,U,,GRE,20.0,215878,,Q,Aurora Zantedeschi,R,,ITA,22.4,6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,331,182,598,60
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,108,214746,,WC,Federica Bilardo,U,,ITA,23.7,220828,,LL,Melania Delai,U,,ITA,20.4,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,558,69,650,48
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,109,214480,5,,Miriam Bianca Bulgaru,R,,ROU,24.5,214181,,,Anastasia Gasanova,R,,RUS,23.9,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,247,267,250,265
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,110,223410,,WC,Georgia Pedone,U,,ITA,18.6,221468,,,Lucie Nguyen Tan,U,,FRA,19.8,1-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,733,35,392,132
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,111,216013,,,Yuliya Hatouka,R,,BLR,22.9,202481,,,Chi Chi Scholl,R,,USA,30.7,7-6(4) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,324,188,410,124
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,112,221354,,Q,Lisa Pigato,R,,ITA,19.8,211227,3,,Lina Gjorcheska,R,180,MKD,28.6,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,505,82,213,309
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,113,220781,8,,Carlota Martinez Cirez,R,,ESP,22.1,222391,,Q,Lois Boisson,R,,FRA,19.9,6-1 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,267,254,615,55
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,114,213767,,Q,Ayla Aksu,R,170,USA,26.7,206338,,Q,Stefania Rubini,U,,ITA,30.3,7-5 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,600,59,671,44
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,115,214254,,,Alice Rame,U,,FRA,25.4,263834,,WC,Natalie Cinkova,U,,CZE,,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,433,107,,
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,116,211328,,,Deborah Chiesa,R,170,ITA,26.8,221247,2,,Ekaterina Makarova,R,,RUS,27.1,6-2 0-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,422,116,212,309
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,201,214081,1,,Katharina Hobgarski,R,171,GER,25.8,221000,,,Diletta Cherubini,U,,ITA,20.9,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,209,319,414,119
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,202,214653,,Q,Andreea Prisacariu,U,,ROU,23.1,223164,,,Maria Bondarenko,R,,RUS,20.0,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,411,123,369,149
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,203,223321,,,Sofia Costoulas,U,,BEL,18.0,222396,,,Matilde Paoletti,R,,ITA,20.1,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,360,157,301,206
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,204,214746,,WC,Federica Bilardo,U,,ITA,23.7,220364,,,Sapfo Sakellaridi,U,,GRE,20.0,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,558,69,331,182
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,205,214480,5,,Miriam Bianca Bulgaru,R,,ROU,24.5,223410,,WC,Georgia Pedone,U,,ITA,18.6,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,247,267,733,35
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,206,221354,,Q,Lisa Pigato,R,,ITA,19.8,216013,,,Yuliya Hatouka,R,,BLR,22.9,6-2 3-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,505,82,324,188
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,207,213767,,Q,Ayla Aksu,R,170,USA,26.7,220781,8,,Carlota Martinez Cirez,R,,ESP,22.1,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,600,59,267,254
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,208,214254,,,Alice Rame,U,,FRA,25.4,211328,,,Deborah Chiesa,R,170,ITA,26.8,W/O,3,R16,,,,,,,,,,,,,,,,,,,,433,107,422,116
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,301,214653,,Q,Andreea Prisacariu,U,,ROU,23.1,214081,1,,Katharina Hobgarski,R,171,GER,25.8,6-2 3-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,411,123,209,319
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,302,223321,,,Sofia Costoulas,U,,BEL,18.0,214746,,WC,Federica Bilardo,U,,ITA,23.7,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,360,157,558,69
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,303,214480,5,,Miriam Bianca Bulgaru,R,,ROU,24.5,221354,,Q,Lisa Pigato,R,,ITA,19.8,6-4 0-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,247,267,505,82
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,304,214254,,,Alice Rame,U,,FRA,25.4,213767,,Q,Ayla Aksu,R,170,USA,26.7,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,433,107,600,59
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,401,214653,,Q,Andreea Prisacariu,U,,ROU,23.1,223321,,,Sofia Costoulas,U,,BEL,18.0,6-1 1-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,411,123,360,157
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,402,214480,5,,Miriam Bianca Bulgaru,R,,ROU,24.5,214254,,,Alice Rame,U,,FRA,25.4,7-6(4) 2-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,247,267,433,107
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,501,214653,,Q,Andreea Prisacariu,U,,ROU,23.1,214480,5,,Miriam Bianca Bulgaru,R,,ROU,24.5,3-6 6-2 6-2,3,F,,,,,,,,,,,,,,,,,,,,411,123,247,267
 2023-W-ITF-JPN-01A-2023,W15 Hinode,Hard,32,15,20230320,101,256684,1,,Aoi Ito,U,,JPN,18.8,260098,,,Yu Yun Li,U,,TPE,18.8,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,676,43,1316,3
 2023-W-ITF-JPN-01A-2023,W15 Hinode,Hard,32,15,20230320,102,202921,,,Shiho Akita,R,155,JPN,33.1,219893,,Q,Ari Matsumoto,R,,JPN,25.3,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,901,19,,
 2023-W-ITF-JPN-01A-2023,W15 Hinode,Hard,32,15,20230320,103,263766,,Q,Moeka Miyata,U,,JPN,,263767,,WC,Shiori Tominaga,U,,JPN,,6-2 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -2263,6 +2418,37 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-JPN-03A-2023,W25 Kashiwa,Hard,32,25,20230403,401,204294,1,,Su Jeong Jang,R,,KOR,28.0,214646,,,Xiaodi You,U,,CHN,26.8,6-4 5-7 6-0,3,SF,,,,,,,,,,,,,,,,,,,,144,459,289,216
 2023-W-ITF-JPN-03A-2023,W25 Kashiwa,Hard,32,25,20230403,402,211702,2,,Nao Hibino,R,163,JPN,28.3,215996,6,,Arianne Hartono,R,,NED,26.9,6-3 0-6 6-3,3,SF,,,,,,,,,,,,,,,,,,,,124,534,235,282
 2023-W-ITF-JPN-03A-2023,W25 Kashiwa,Hard,32,25,20230403,501,211702,2,,Nao Hibino,R,163,JPN,28.3,204294,1,,Su Jeong Jang,R,,KOR,28.0,6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,,124,534,144,459
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,101,204294,1,,Su Jeong Jang,R,,KOR,28.0,221099,,,Rina Saigo,U,,JPN,22.4,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,132,508,366,150
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,102,201613,,,Arina Rodionova,R,168,RUS,33.3,211544,,,Nagi Hanatani,R,,JPN,28.0,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,303,205,429,110
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,103,213666,,,Maddison Inglis,R,171,AUS,25.2,215489,,Q,Ramu Ueda,U,,JPN,25.0,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,297,211,711,38
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,104,202693,,Q,Ya Hsuan Lee,R,165,TPE,27.7,216044,6,,Yuki Naito,R,,JPN,22.1,6-4 6-7(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,503,83,289,218
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,105,215811,,,Alexandra Bozovic,R,,AUS,24.1,220718,3,,Sakura Hosogi,U,,JPN,23.0,2-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,293,214,214,309
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,106,216587,,,Hong Yi Cody Wong,U,,HKG,21.0,214535,,,Petra Hule,U,,AUS,24.0,6-1 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,364,153,336,177
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,107,260171,,WC,Hayu Kinoshita,U,,JPN,16.4,221883,,,Talia Gibson,U,,AUS,18.8,7-5 4-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,659,47,348,162
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,108,211846,5,,Kyoka Okamura,R,,JPN,27.5,215614,,Q,Mei Yamaguchi,U,152,JPN,23.8,2-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,278,238,663,46
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,109,214646,7,,Xiaodi You,U,,CHN,26.9,203553,,Q,Riko Sawayanagi,R,163,JPN,28.4,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,298,210,675,44
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,110,214505,,,Haruna Arakawa,U,,JPN,23.4,256684,,Q,Aoi Ito,U,,JPN,18.8,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,430,110,642,50
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,111,202916,,Q,Georgina Garcia Perez,U,187,ESP,30.9,215468,,,Momoko Kobori,R,158,JPN,24.6,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,546,71,343,169
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,112,215996,4,,Arianne Hartono,R,,NED,26.9,246478,,Q,Miho Kuramochi,U,,JPN,24.8,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,237,282,724,36
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,113,211844,8,,Haruka Kaji,R,,JPN,28.5,260170,,WC,Sara Saito,U,,JPN,16.5,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,284,224,631,51
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,114,202454,,,Erika Sema,R,163,JPN,34.3,216156,,WC,Himari Sato,R,168,JPN,20.9,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,432,108,697,40
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,115,206374,,SR,Yafan Wang,R,170,CHN,28.9,219892,,Q,Mayuka Aikawa,L,,JPN,25.0,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,363,153,490,87
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,116,204291,2,,Na Lae Han,L,,KOR,30.7,263856,,WC,Kanon Yamaguchi,U,,JPN,,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,181,371,,
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,201,204294,1,,Su Jeong Jang,R,,KOR,28.0,201613,,,Arina Rodionova,R,168,RUS,33.3,6-1 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,132,508,303,205
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,202,213666,,,Maddison Inglis,R,171,AUS,25.2,202693,,Q,Ya Hsuan Lee,R,165,TPE,27.7,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,297,211,503,83
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,203,215811,,,Alexandra Bozovic,R,,AUS,24.1,216587,,,Hong Yi Cody Wong,U,,HKG,21.0,4-6 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,293,214,364,153
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,204,211846,5,,Kyoka Okamura,R,,JPN,27.5,260171,,WC,Hayu Kinoshita,U,,JPN,16.4,3-6 6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,278,238,659,47
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,205,214646,7,,Xiaodi You,U,,CHN,26.9,214505,,,Haruna Arakawa,U,,JPN,23.4,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,298,210,430,110
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,206,202916,,Q,Georgina Garcia Perez,U,187,ESP,30.9,215996,4,,Arianne Hartono,R,,NED,26.9,7-6(6) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,546,71,237,282
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,207,211844,8,,Haruka Kaji,R,,JPN,28.5,202454,,,Erika Sema,R,163,JPN,34.3,6-3 5-7 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,284,224,432,108
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,208,204291,2,,Na Lae Han,L,,KOR,30.7,206374,,SR,Yafan Wang,R,170,CHN,28.9,7-6(6) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,181,371,363,153
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,301,213666,,,Maddison Inglis,R,171,AUS,25.2,204294,1,,Su Jeong Jang,R,,KOR,28.0,7-6(3) 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,297,211,132,508
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,302,211846,5,,Kyoka Okamura,R,,JPN,27.5,215811,,,Alexandra Bozovic,R,,AUS,24.1,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,278,238,293,214
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,303,214646,7,,Xiaodi You,U,,CHN,26.9,202916,,Q,Georgina Garcia Perez,U,187,ESP,30.9,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,298,210,546,71
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,304,204291,2,,Na Lae Han,L,,KOR,30.7,211844,8,,Haruka Kaji,R,,JPN,28.5,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,181,371,284,224
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,401,213666,,,Maddison Inglis,R,171,AUS,25.2,211846,5,,Kyoka Okamura,R,,JPN,27.5,6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,297,211,278,238
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,402,204291,2,,Na Lae Han,L,,KOR,30.7,214646,7,,Xiaodi You,U,,CHN,26.9,6-2 6-0,3,SF,,,,,,,,,,,,,,,,,,,,181,371,298,210
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,501,213666,,,Maddison Inglis,R,171,AUS,25.2,204291,2,,Na Lae Han,L,,KOR,30.7,6-3 7-6(2),3,F,,,,,,,,,,,,,,,,,,,,297,211,181,371
 2023-W-ITF-KAZ-01A-2023,W40 Astana,Hard,32,40,20230227,101,213576,,,Iryna Shymanovich,R,,BLR,25.6,220416,1,,Moyuka Uchijima,R,171,JPN,21.5,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,228,292,131,506
 2023-W-ITF-KAZ-01A-2023,W40 Astana,Hard,32,40,20230227,102,211227,,,Lina Gjorcheska,R,180,MKD,28.5,206363,,WC,Anna Danilina,R,,KAZ,27.5,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,223,297,539,70
 2023-W-ITF-KAZ-01A-2023,W40 Astana,Hard,32,40,20230227,103,221073,,,Anastasia Tikhonova,R,,RUS,22.0,222919,,Q,Julia Avdeeva,R,,RUS,20.6,6-0 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,179,370,514,78
@@ -2728,6 +2914,37 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-SLO-09A-2023,W40 Murska Sobota,Hard,32,40,20230327,401,213855,,,Magali Kempen,R,,BEL,25.3,211685,,,Rebecca Sramkova,R,,SVK,26.4,7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,244,272,276,241
 2023-W-ITF-SLO-09A-2023,W40 Murska Sobota,Hard,32,40,20230327,402,221237,,,Maria Timofeeva,R,,RUS,19.3,222045,,,Antonia Ruzic,R,,CRO,20.1,6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,257,259,232,288
 2023-W-ITF-SLO-09A-2023,W40 Murska Sobota,Hard,32,40,20230327,501,213855,,,Magali Kempen,R,,BEL,25.3,221237,,,Maria Timofeeva,R,,RUS,19.3,7-5 7-5,3,F,,,,,,,,,,,,,,,,,,,,244,272,257,259
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,101,206408,1,,Nadia Podoroska,R,170,ARG,26.1,214219,,Q,Tessah Andrianjafitrimo,R,169,FRA,24.4,7-6(4) 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,104,621,355,159
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,102,221073,,,Anastasia Tikhonova,R,,RUS,22.2,202424,,Q,Conny Perrin,R,174,SUI,32.2,4-6 6-3 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,231,291,407,125
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,103,213544,,Q,Jana Fett,R,168,CRO,26.4,221386,,WC,Sebastianna Scilipoti,U,,SUI,20.0,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,254,263,552,70
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,104,220589,5,,Elina Avanesyan,R,,RUS,20.5,215693,,Q,Michaela Bayerlova,U,,CZE,24.3,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,167,410,337,176
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,105,223323,,,Barbora Palicova,R,,CZE,19.0,215042,4,,Katie Swan,R,170,GBR,24.0,7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,205,323,149,441
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,106,259799,,Q,Mirra Andreeva,U,,RUS,15.9,214930,,WC,Jenny Duerst,U,,SUI,24.0,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,312,201,334,179
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,107,202456,,,Alexandra Cadantu Ignatik,R,170,ROU,32.9,223253,,,Alexandra Eala,L,173,PHI,17.8,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,217,303,215,306
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,108,202494,,WC,Elina Svitolina,R,174,UKR,28.5,211817,7,,Elena Gabriela Ruse,U,,ROU,25.4,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1344,1,160,421
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,109,213779,6,,Raluka Serban,R,,CYP,25.8,214247,,Q,Lena Rueffer,R,,GER,24.6,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,156,427,317,197
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,110,221911,,,Selena Janicijevic,U,,FRA,20.7,211260,,,Marie Benoit,L,,BEL,28.0,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,183,367,197,339
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,111,220733,,,Carole Monnet,L,,FRA,21.3,211019,,,Audrey Albie,R,,FRA,28.4,6-3 6-7(12) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,199,338,233,288
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,112,211329,,,Tena Lukas,R,,CRO,27.9,213837,3,,Ylena In Albon,R,,SUI,24.0,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,232,289,137,486
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,113,201672,8,,Nigina Abduraimova,R,184,UZB,28.7,201621,,,Mona Barthel,R,185,GER,32.7,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,186,364,201,337
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,114,221985,,,Darja Semenistaja,R,,LAT,20.5,220554,,Q,Alice Tubello,U,,FRA,22.1,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,224,300,344,165
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,115,211539,,Q,Fiona Ferro,R,170,FRA,26.0,203435,,,Dalila Jakupovic,R,178,SLO,32.0,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,493,86,208,319
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,116,232447,,WC,Celine Naef,U,,SUI,17.7,215899,2,,Simona Waltert,R,,SUI,22.3,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,265,256,118,547
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,201,206408,1,,Nadia Podoroska,R,170,ARG,26.1,221073,,,Anastasia Tikhonova,R,,RUS,22.2,6-4 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,104,621,231,291
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,202,220589,5,,Elina Avanesyan,R,,RUS,20.5,213544,,Q,Jana Fett,R,168,CRO,26.4,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,167,410,254,263
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,203,259799,,Q,Mirra Andreeva,U,,RUS,15.9,223323,,,Barbora Palicova,R,,CZE,19.0,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,312,201,205,323
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,204,202456,,,Alexandra Cadantu Ignatik,R,170,ROU,32.9,202494,,WC,Elina Svitolina,R,174,UKR,28.5,1-6 6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,217,303,1344,1
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,205,221911,,,Selena Janicijevic,U,,FRA,20.7,213779,6,,Raluka Serban,R,,CYP,25.8,6-2 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,183,367,156,427
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,206,211329,,,Tena Lukas,R,,CRO,27.9,220733,,,Carole Monnet,L,,FRA,21.3,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,232,289,199,338
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,207,221985,,,Darja Semenistaja,R,,LAT,20.5,201672,8,,Nigina Abduraimova,R,184,UZB,28.7,6-4 5-7 6-4,3,R16,,,,,,,,,,,,,,,,,,,,224,300,186,364
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,208,232447,,WC,Celine Naef,U,,SUI,17.7,211539,,Q,Fiona Ferro,R,170,FRA,26.0,1-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,265,256,493,86
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,301,206408,1,,Nadia Podoroska,R,170,ARG,26.1,220589,5,,Elina Avanesyan,R,,RUS,20.5,7-6(2) 7-5,3,QF,,,,,,,,,,,,,,,,,,,,104,621,167,410
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,302,259799,,Q,Mirra Andreeva,U,,RUS,15.9,202456,,,Alexandra Cadantu Ignatik,R,170,ROU,32.9,6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,312,201,217,303
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,303,221911,,,Selena Janicijevic,U,,FRA,20.7,211329,,,Tena Lukas,R,,CRO,27.9,3-6 7-6(2) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,183,367,232,289
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,304,232447,,WC,Celine Naef,U,,SUI,17.7,221985,,,Darja Semenistaja,R,,LAT,20.5,7-6(4) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,265,256,224,300
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,401,259799,,Q,Mirra Andreeva,U,,RUS,15.9,206408,1,,Nadia Podoroska,R,170,ARG,26.1,6-4 6-0,3,SF,,,,,,,,,,,,,,,,,,,,312,201,104,621
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,402,232447,,WC,Celine Naef,U,,SUI,17.7,221911,,,Selena Janicijevic,U,,FRA,20.7,7-5 6-1,3,SF,,,,,,,,,,,,,,,,,,,,265,256,183,367
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,501,259799,,Q,Mirra Andreeva,U,,RUS,15.9,232447,,WC,Celine Naef,U,,SUI,17.7,1-6 7-6(3) 6-0,3,F,,,,,,,,,,,,,,,,,,,,312,201,265,256
 2023-W-ITF-SVK-01A-2023,W60 Trnava,Hard,32,60,20230227,101,216579,,,Weronika Falkowska,R,,POL,22.6,211337,1,,Tamara Korpatsch,R,170,GER,27.7,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,252,259,81,784
 2023-W-ITF-SVK-01A-2023,W60 Trnava,Hard,32,60,20230227,102,223323,,,Barbora Palicova,R,,CZE,18.9,222259,,,Natalia Szabanin,L,,HUN,19.3,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,216,304,248,260
 2023-W-ITF-SVK-01A-2023,W60 Trnava,Hard,32,60,20230227,103,222966,,Q,Dominika Salkova,U,,CZE,18.6,201621,,,Mona Barthel,R,185,GER,32.6,7-6(4) 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,281,223,203,323
@@ -3286,6 +3503,37 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-TUN-14A-2023,W15 Monastir,Hard,32,15,20230403,401,230880,1,,Mara Guth,R,,GER,19.7,211407,,,Dejana Radanovic,U,,SRB,26.8,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,505,82,863,22
 2023-W-ITF-TUN-14A-2023,W15 Monastir,Hard,32,15,20230403,402,220429,,,Elena Milovanovic,R,,SRB,22.1,259686,5,,Talia Neilson Gatenby,U,,GBR,17.5,3-6 6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,814,27,688,41
 2023-W-ITF-TUN-14A-2023,W15 Monastir,Hard,32,15,20230403,501,220429,,,Elena Milovanovic,R,,SRB,22.1,230880,1,,Mara Guth,R,,GER,19.7,7-6(5) 6-3,3,F,,,,,,,,,,,,,,,,,,,,814,27,505,82
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,101,206253,1,,Ivonne Cavalle Reimers,R,,ESP,30.8,220430,,Q,Mihaela Djakovic,R,,SRB,21.3,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,361,154,1154,8
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,102,239422,,,Edda Mamedova,U,,RUS,16.4,221963,,Q,Alice Battesti,U,,FRA,,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,955,16,1263,5
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,103,223399,,,Selina Dal,U,,GER,21.3,222668,,,Anja Wildgruber,U,,GER,21.1,3-6 6-2 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,917,19,1081,11
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,104,206336,7,,Julia Stamatova,L,,BUL,29.8,222878,,,Melisa Ercan,U,,TUR,17.6,7-6(2) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,776,31,983,15
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,105,220494,4,,Arina Gabriela Vasilescu,U,,ROU,26.0,231638,,Q,Helena Mohamed,U,,FRA,21.1,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,593,62,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,106,215002,,,Anna Gabric,R,,GER,24.8,221522,,,Evita Ramirez,U,,FRA,20.1,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1151,8,1178,7
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,107,221016,,Q,Esther Bataille,U,,FRA,22.1,219872,,Q,Milana Maslenkova,U,,UZB,21.6,0-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1263,5,1272,4
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,108,259845,,Q,Ecaterina Visnevscaia,U,,MDA,23.3,259754,5,,Stefania Bojica,U,,ROU,18.0,4-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1245,5,676,43
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,109,219979,8,,Marie Villet,U,,FRA,26.3,221994,,,Demi Tran,R,,NED,22.3,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,803,28,1033,13
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,110,221181,,Q,Jiaqi Wang,U,,CHN,21.0,234474,,WC,Alyssa Reguer,U,,FRA,16.9,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1222,6
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,111,236980,,,Astrid Cirotte,U,,FRA,19.3,235160,,,Salma Drugdova,U,,SVK,18.3,6-4 3-6 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,988,15,1132,9
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,112,222602,3,,Nina Radovanovic,U,,FRA,19.4,215021,,,Naima Karamoko,U,,SUI,25.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,592,62,1082,11
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,113,215926,,,Julita Saner,U,,SWE,23.9,214787,6,,Jennifer Luikham,R,,IND,23.5,3-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,832,25,760,32
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,114,221496,,,Jade Bornay,R,,FRA,21.1,260766,,,Kateryna Lazarenko,U,,UKR,,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1011,14,1104,10
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,115,220048,,,Elena Jamshidi,R,,DEN,22.0,215712,,,Nicole Gadient,U,,SUI,24.6,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1009,14,1111,10
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,116,221914,2,,Jenna Defalco,U,,USA,20.4,249681,,Q,Teja Tirunelveli,U,,USA,18.4,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,527,77,1167,8
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,201,206253,1,,Ivonne Cavalle Reimers,R,,ESP,30.8,239422,,,Edda Mamedova,U,,RUS,16.4,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,361,154,955,16
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,202,223399,,,Selina Dal,U,,GER,21.3,206336,7,,Julia Stamatova,L,,BUL,29.8,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,917,19,776,31
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,203,220494,4,,Arina Gabriela Vasilescu,U,,ROU,26.0,215002,,,Anna Gabric,R,,GER,24.8,6-3 0-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,593,62,1151,8
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,204,221016,,Q,Esther Bataille,U,,FRA,22.1,259845,,Q,Ecaterina Visnevscaia,U,,MDA,23.3,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1263,5,1245,5
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,205,221181,,Q,Jiaqi Wang,U,,CHN,21.0,219979,8,,Marie Villet,U,,FRA,26.3,4-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,803,28
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,206,222602,3,,Nina Radovanovic,U,,FRA,19.4,236980,,,Astrid Cirotte,U,,FRA,19.3,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,592,62,988,15
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,207,215926,,,Julita Saner,U,,SWE,23.9,221496,,,Jade Bornay,R,,FRA,21.1,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,832,25,1011,14
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,208,221914,2,,Jenna Defalco,U,,USA,20.4,220048,,,Elena Jamshidi,R,,DEN,22.0,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,527,77,1009,14
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,301,206253,1,,Ivonne Cavalle Reimers,R,,ESP,30.8,223399,,,Selina Dal,U,,GER,21.3,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,361,154,917,19
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,302,220494,4,,Arina Gabriela Vasilescu,U,,ROU,26.0,221016,,Q,Esther Bataille,U,,FRA,22.1,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,593,62,1263,5
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,303,221181,,Q,Jiaqi Wang,U,,CHN,21.0,222602,3,,Nina Radovanovic,U,,FRA,19.4,4-6 6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,592,62
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,304,221914,2,,Jenna Defalco,U,,USA,20.4,215926,,,Julita Saner,U,,SWE,23.9,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,527,77,832,25
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,401,220494,4,,Arina Gabriela Vasilescu,U,,ROU,26.0,206253,1,,Ivonne Cavalle Reimers,R,,ESP,30.8,6-2 6-0,3,SF,,,,,,,,,,,,,,,,,,,,593,62,361,154
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,402,221914,2,,Jenna Defalco,U,,USA,20.4,221181,,Q,Jiaqi Wang,U,,CHN,21.0,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,527,77,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,501,221914,2,,Jenna Defalco,U,,USA,20.4,220494,4,,Arina Gabriela Vasilescu,U,,ROU,26.0,6-2 6-0,3,F,,,,,,,,,,,,,,,,,,,,527,77,593,62
 2023-W-ITF-TUR-01A-2023,W15 Antalya,Clay,32,15,20230109,101,215879,1,,Ilay Yoruk,R,,TUR,21.1,220644,,,Arina Solomatina,U,,RUS,21.5,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,484,86,1018,13
 2023-W-ITF-TUR-01A-2023,W15 Antalya,Clay,32,15,20230109,102,213976,,,Diana Demidova,U,,RUS,25.2,223074,,,Qavia Lopez,U,,USA,17.7,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,814,26,,
 2023-W-ITF-TUR-01A-2023,W15 Antalya,Clay,32,15,20230109,103,213775,,,Yu Jin Ahn,U,,KOR,25.8,221678,,WC,Le Yi Liu,U,,UNK,19.3,7-6(6) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,991,14,,
@@ -3626,6 +3874,37 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-TUR-13A-2023,W15 Antalya,Clay,32,15,20230403,401,221168,8,,Ilinca Dalina Amariei,U,,ROU,20.6,211809,4,,Daria Lodikova,R,,RUS,26.8,7-6(3) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,566,67,494,87
 2023-W-ITF-TUR-13A-2023,W15 Antalya,Clay,32,15,20230403,402,216179,,,Valeriya Olyanovskaya,U,,RUS,22.0,220614,,,Vicky Van De Peer,U,,BEL,22.2,7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,771,31,697,40
 2023-W-ITF-TUR-13A-2023,W15 Antalya,Clay,32,15,20230403,501,221168,8,,Ilinca Dalina Amariei,U,,ROU,20.6,216179,,,Valeriya Olyanovskaya,U,,RUS,22.0,6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,566,67,771,31
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,101,239438,1,,Julie Struplova,U,,CZE,18.3,260254,,Q,Anamaria Federica Oana,U,,ROU,15.7,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,460,97,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,102,211338,,,Katharina Hering,R,,GER,28.1,260226,,Q,Joy De Zeeuw,U,,NED,16.9,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,970,16,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,103,216179,,,Valeriya Olyanovskaya,U,,RUS,22.0,228909,,,Amelie Van Impe,R,,BEL,18.7,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,773,31,674,44
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,104,239435,,Q,Virginia Ferrara,U,,ITA,19.1,222637,8,,Anika Jaskova,R,,SVK,19.9,6-1 4-6 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,1245,5,680,43
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,105,223129,4,,Michaela Laki,U,,GRE,18.0,235161,,Q,Irina Balus,U,,SVK,17.5,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,606,57,965,16
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,106,202691,,,Ani Vangelova,U,,BUL,29.7,222856,,WC,Defne Cirpanli,R,,TUR,,6-1 1-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,825,26,1263,5
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,107,223671,,,Aya El Aouni,U,,MAR,17.7,256702,,Q,Vittoria Modesti,U,,ITA,20.7,6-2 3-6 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,108,260167,5,,Anastasiia Gureva,U,,RUS,18.0,260977,,WC,Uladzislava Zverava,U,,BLR,,7-6(5) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,624,54,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,109,260581,,,Alevtina Ibragimova,U,,RUS,,215733,7,,Ekaterina Ovcharenko,R,,RUS,22.2,3-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,656,48
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,110,216256,,Q,Linda Sevcikova,U,,CZE,24.8,202435,,,Vanda Lukacs,U,,HUN,30.3,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,943,17,877,21
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,111,213976,,,Diana Demidova,U,,RUS,25.5,220356,,WC,Doga Turkmen,U,,TUR,20.4,2-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,735,35,1135,9
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,112,221168,3,,Ilinca Dalina Amariei,U,,ROU,20.6,260647,,WC,Sarah Van Emst,U,,NED,,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,569,67,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,113,210870,6,,Natalia Siedliska,U,,POL,27.3,260306,,,Sonja Zhiyenbayeva,U,,DEU,,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,655,48,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,114,220614,,,Vicky Van De Peer,U,,BEL,22.2,233719,,,Denise Hrdinkova,U,,CZE,19.5,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,698,40,782,30
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,115,221348,,Q,Eva Garkusha,L,,RUS,21.2,214605,,,Agustina Chlpac,U,,ARG,26.1,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1272,4,868,22
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,116,221377,,Q,Fabienne Gettwart,U,,GER,27.2,203429,2,,Tamara Curovic,R,,SRB,28.4,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,845,24,508,82
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,201,239438,1,,Julie Struplova,U,,CZE,18.3,211338,,,Katharina Hering,R,,GER,28.1,7-5 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,460,97,970,16
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,202,216179,,,Valeriya Olyanovskaya,U,,RUS,22.0,239435,,Q,Virginia Ferrara,U,,ITA,19.1,5-7 6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,773,31,1245,5
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,203,223129,4,,Michaela Laki,U,,GRE,18.0,202691,,,Ani Vangelova,U,,BUL,29.7,1-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,606,57,825,26
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,204,260167,5,,Anastasiia Gureva,U,,RUS,18.0,223671,,,Aya El Aouni,U,,MAR,17.7,6-3 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,624,54,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,205,260581,,,Alevtina Ibragimova,U,,RUS,,216256,,Q,Linda Sevcikova,U,,CZE,24.8,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,943,17
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,206,221168,3,,Ilinca Dalina Amariei,U,,ROU,20.6,213976,,,Diana Demidova,U,,RUS,25.5,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,569,67,735,35
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,207,220614,,,Vicky Van De Peer,U,,BEL,22.2,210870,6,,Natalia Siedliska,U,,POL,27.3,W/O,3,R16,,,,,,,,,,,,,,,,,,,,698,40,655,48
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,208,221377,,Q,Fabienne Gettwart,U,,GER,27.2,221348,,Q,Eva Garkusha,L,,RUS,21.2,6-4 5-7 6-2,3,R16,,,,,,,,,,,,,,,,,,,,845,24,1272,4
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,301,216179,,,Valeriya Olyanovskaya,U,,RUS,22.0,239438,1,,Julie Struplova,U,,CZE,18.3,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,773,31,460,97
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,302,223129,4,,Michaela Laki,U,,GRE,18.0,260167,5,,Anastasiia Gureva,U,,RUS,18.0,2-6 6-3 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,606,57,624,54
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,303,221168,3,,Ilinca Dalina Amariei,U,,ROU,20.6,260581,,,Alevtina Ibragimova,U,,RUS,,1-6 7-5 7-5,3,QF,,,,,,,,,,,,,,,,,,,,569,67,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,304,220614,,,Vicky Van De Peer,U,,BEL,22.2,221377,,Q,Fabienne Gettwart,U,,GER,27.2,4-6 6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,698,40,845,24
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,401,223129,4,,Michaela Laki,U,,GRE,18.0,216179,,,Valeriya Olyanovskaya,U,,RUS,22.0,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,606,57,773,31
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,402,220614,,,Vicky Van De Peer,U,,BEL,22.2,221168,3,,Ilinca Dalina Amariei,U,,ROU,20.6,6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,698,40,569,67
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,501,220614,,,Vicky Van De Peer,U,,BEL,22.2,223129,4,,Michaela Laki,U,,GRE,18.0,3-6 6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,698,40,606,57
 2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,101,211222,1,,Jamie Loeb,R,168,USA,27.8,215627,,,Nicole Khirin,R,,ISR,21.9,6-4 4-6 10-8,3,R32,,,,,,,,,,,,,,,,,,,,259,240,490,84
 2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,102,221369,,,Lisa Zaar,U,,SWE,22.6,204377,,,Indy De Vroome,R,,NED,26.6,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,511,77,645,46
 2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,103,221020,,,Madison Sieg,R,,USA,19.5,214660,,,Katarina Kozarov,U,,SRB,24.6,6-2 3-6 13-11,3,R32,,,,,,,,,,,,,,,,,,,,458,94,540,69
@@ -3966,6 +4245,37 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-USA-12A-2023,W25 Jackson MS,Clay,32,25,20230403,401,201693,4,,Timea Babos,R,179,HUN,29.8,221023,,,Victoria Hu,U,,USA,20.9,6-2 6-0,3,SF,,,,,,,,,,,,,,,,,,,,326,185,573,66
 2023-W-ITF-USA-12A-2023,W25 Jackson MS,Clay,32,25,20230403,402,215992,2,,Whitney Osuigwe,R,168,USA,20.9,202479,7,,Grace Min,R,163,USA,28.9,6-7(3) 6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,282,227,385,137
 2023-W-ITF-USA-12A-2023,W25 Jackson MS,Clay,32,25,20230403,501,201693,4,,Timea Babos,R,179,HUN,29.8,215992,2,,Whitney Osuigwe,R,168,USA,20.9,7-5 7-5,3,F,,,,,,,,,,,,,,,,,,,,326,185,282,227
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,101,215613,1,WC,Emma Navarro,R,,USA,21.8,213908,,,Yuriko Miyazaki,R,165,GBR,27.4,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,120,537,193,342
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,102,259857,,WC,Akasha Urhobo,U,,USA,16.2,213949,,Q,Hanna Chang,U,,USA,25.1,6-2 6-7(7) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,995,14,388,135
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,103,214453,,,Sophie Chang,R,,USA,25.8,220722,,,Elvina Kalieva,R,,USA,19.7,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,245,269,229,292
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,104,214452,5,,Caroline Dolehide,R,178,USA,24.5,206194,,,Gabriela Ce,L,,BRA,30.1,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,152,437,256,260
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,105,221512,3,,Katrina Scott,R,180,USA,18.8,214779,,Q,Sara Daavettila,U,,USA,25.3,7-6(3) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,164,416,692,41
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,106,206277,,Q,Marine Partaud,R,,FRA,28.4,222866,,Q,Katherine Hui,U,,USA,,4-6 6-1 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,425,112,986,15
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,107,211342,,,Gabriela Lee,L,,ROU,27.6,239436,,Q,Kayla Cross,L,,CAN,18.0,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,219,302,621,54
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,108,215371,,,Francesca Di Lorenzo,L,170,USA,25.7,215037,7,,Kayla Day,L,173,USA,23.5,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,307,202,182,370
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,109,263857,,Q,Yuliia Starodubtseva,U,,UKR,,221905,6,WC,Robin Montgomery,L,,USA,18.5,6-7(3) 7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,184,366
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,110,215983,,,Ann Li,R,170,USA,22.7,215992,,,Whitney Osuigwe,R,168,USA,20.9,6-2 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,228,293,280,227
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,111,221024,,,Hailey Baptiste,R,,USA,21.4,211222,,,Jamie Loeb,R,168,USA,28.0,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,248,266,243,271
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,112,211635,4,,Louisa Chirico,R,175,USA,26.8,201501,,SR,Olga Govortsova,R,182,BLR,34.6,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,168,409,1203,6
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,113,203500,8,,Sachia Vickery,R,162,USA,27.9,221187,,,Priska Madelyn Nugroho,R,,INA,19.8,7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,178,378,279,237
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,114,214877,,Q,Makenna Jones,U,,USA,25.1,214262,,Q,Ena Shibahara,R,170,USA,25.1,5-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,511,81,584,64
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,115,203514,,,Katarzyna Kawa,R,178,POL,30.3,233743,,JE,Nikola Daubnerova,U,,SVK,17.5,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,226,295,715,38
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,116,215064,,WC,Maria Mateas,R,,USA,23.7,216097,2,,Elizabeth Mandlik,U,,USA,21.8,6-1 3-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,377,142,145,453
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,201,215613,1,WC,Emma Navarro,R,,USA,21.8,259857,,WC,Akasha Urhobo,U,,USA,16.2,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,120,537,995,14
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,202,214452,5,,Caroline Dolehide,R,178,USA,24.5,214453,,,Sophie Chang,R,,USA,25.8,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,152,437,245,269
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,203,221512,3,,Katrina Scott,R,180,USA,18.8,206277,,Q,Marine Partaud,R,,FRA,28.4,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,164,416,425,112
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,204,211342,,,Gabriela Lee,L,,ROU,27.6,215371,,,Francesca Di Lorenzo,L,170,USA,25.7,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,219,302,307,202
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,205,263857,,Q,Yuliia Starodubtseva,U,,UKR,,215983,,,Ann Li,R,170,USA,22.7,7-5 2-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,228,293
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,206,221024,,,Hailey Baptiste,R,,USA,21.4,211635,4,,Louisa Chirico,R,175,USA,26.8,6-4 2-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,248,266,168,409
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,207,203500,8,,Sachia Vickery,R,162,USA,27.9,214877,,Q,Makenna Jones,U,,USA,25.1,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,178,378,511,81
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,208,203514,,,Katarzyna Kawa,R,178,POL,30.3,215064,,WC,Maria Mateas,R,,USA,23.7,7-6(3) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,226,295,377,142
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,301,214452,5,,Caroline Dolehide,R,178,USA,24.5,215613,1,WC,Emma Navarro,R,,USA,21.8,6-2 3-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,152,437,120,537
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,302,211342,,,Gabriela Lee,L,,ROU,27.6,221512,3,,Katrina Scott,R,180,USA,18.8,6-7(7) 4-2 RET,3,QF,,,,,,,,,,,,,,,,,,,,219,302,164,416
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,303,221024,,,Hailey Baptiste,R,,USA,21.4,263857,,Q,Yuliia Starodubtseva,U,,UKR,,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,248,266,,
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,304,203500,8,,Sachia Vickery,R,162,USA,27.9,203514,,,Katarzyna Kawa,R,178,POL,30.3,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,178,378,226,295
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,401,214452,5,,Caroline Dolehide,R,178,USA,24.5,211342,,,Gabriela Lee,L,,ROU,27.6,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,152,437,219,302
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,402,221024,,,Hailey Baptiste,R,,USA,21.4,203500,8,,Sachia Vickery,R,162,USA,27.9,6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,248,266,178,378
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,501,214452,5,,Caroline Dolehide,R,178,USA,24.5,221024,,,Hailey Baptiste,R,,USA,21.4,6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,152,437,248,266
 2023-1065,Cali 125,Clay,32,C,20230130,300,206408,,,Nadia Podoroska,R,170,ARG,25.9,215306,,WC,Emiliana Arango,R,,COL,22.1,6-4 6-1,3,SF,82,0,6,52,33,24,10,9,2,4,1,2,53,39,20,2,8,6,11,156,405,350,155
 2023-1065,Cali 125,Clay,32,C,20230130,299,202440,,,Paula Ormaechea,R,170,ARG,30.3,206007,2,,Laura Pigossi,R,164,BRA,28.4,7-5 6-3,3,SF,115,4,1,61,45,32,12,10,6,7,0,5,68,37,21,17,11,4,8,206,324,110,587
 2023-1065,Cali 125,Clay,32,C,20230130,298,206408,,,Nadia Podoroska,R,170,ARG,25.9,214782,8,,Fernanda Contreras Gomez,R,,MEX,25.3,6-3 6-3,3,QF,91,2,2,49,26,22,13,9,2,3,2,1,62,33,18,14,9,3,7,156,405,183,362
@@ -4300,6 +4610,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-BDI-01A-2023,W25 Bujumbura,Clay,32,25,20230403,206,234247,10,,Laalitya Kalluri,U,,IND,19.4,222681,6,,Nessa Pratt,U,,AUS,,6-1 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2023-W-ITF-BDI-01A-2023,W25 Bujumbura,Clay,32,25,20230403,207,259965,7,,Wozuko Mdlulwa,U,,RSA,15.6,261123,11,,Kristen Seabury,U,,USA,,6-2 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2023-W-ITF-BDI-01A-2023,W25 Bujumbura,Clay,32,25,20230403,208,220863,12,,Priyanka Rodricks,R,,IND,23.6,260990,8,,Akua Akoma Ej Hansen,U,,DEU,,0-6 6-1 10-8,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,102,260238,,,Abhilasha Bista,U,,NPL,19.8,234237,,,Sanya Yadav,U,,IND,21.0,6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,104,220316,,,Radhika Yadav,U,,IND,23.0,234497,,,Himadri Kashyap,U,,IND,20.8,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,106,223268,14,,Samantha Imbo Nloga,U,,USA,19.3,215091,,,Sarah Pang,U,,SGP,38.0,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,108,220863,12,,Priyanka Rodricks,R,,IND,23.6,234242,,,Ananya Yadav,U,,IND,20.0,2-6 6-3 12-10,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,201,260238,,,Abhilasha Bista,U,,NPL,19.8,205492,1,,Ashmitha Easwaramurthi,R,,IND,33.7,6-1 0-6 10-7,3,Q2,,,,,,,,,,,,,,,,,,,,,,1065,11
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,202,260008,2,,Mansi Vadyala,U,,USA,17.1,220316,,,Radhika Yadav,U,,IND,23.0,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,1071,11,,
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,203,224482,3,,Smriti Bhasin,U,,IND,20.3,223268,14,,Samantha Imbo Nloga,U,,USA,19.3,6-3 5-7 10-8,3,Q2,,,,,,,,,,,,,,,,,,,,1111,10,,
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,204,258529,4,,Meisha Kendall Woseley,U,,USA,25.1,220863,12,,Priyanka Rodricks,R,,IND,23.6,6-1 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,205,211477,10,,Tiffany William,R,,GBR,28.7,221740,5,,Helena Stevic,R,,FRA,21.0,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,206,206205,6,,Min Liu,R,,CHN,30.1,234247,11,,Laalitya Kalluri,U,,IND,19.4,7-5 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,207,256723,13,,Natalia Kowalczyk,U,,POL,19.1,222681,7,,Nessa Pratt,U,,AUS,,6-3 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-BDI-02A-2023,W25 Bujumbura,Clay,32,25,20230410,208,259965,8,,Wozuko Mdlulwa,U,,RSA,15.6,260990,9,,Akua Akoma Ej Hansen,U,,DEU,,6-2 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2023-W-ITF-CAN-01A-2023,W25 Toronto,Hard,32,25,20230227,101,214779,1,,Sara Daavettila,U,,USA,25.1,222050,,,Erika Sandor Zur,R,,USA,,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,668,43,,
 2023-W-ITF-CAN-01A-2023,W25 Toronto,Hard,32,25,20230227,102,263685,,,Alessia Cau,U,,CAN,,252520,16,,Adaugo Ukaegbu,U,,USA,29.1,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2023-W-ITF-CAN-01A-2023,W25 Toronto,Hard,32,25,20230227,103,202379,2,,Chieh Yu Hsu,L,170,USA,31.1,263686,,WC,Maria Komar,U,,CAN,,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,718,36,,
@@ -4353,7 +4675,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,111,203521,6,,Andrea Gamiz,R,162,VEN,30.3,246476,,WC,Mariana Isabel Higuita Barraza,U,,COL,15.7,6-4 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,418,115,,
 2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,112,211965,15,,Jasmin Jebawy,U,,GER,26.4,222879,,WC,Kelly Loana Vargas Gonzalez,R,,COL,,6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,644,48,1258,4
 2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,113,222156,7,,Silvia Ambrosio,R,,GER,26.1,216198,,,Ana Giraldi Requena,U,,ESP,23.1,6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,440,106,1070,11
-2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,114,206406,11,,Berta Bonardi,U,,ARG,27.7,213898,,,Rhiann Newborn,R,,USA,28.7,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,541,71,879,20
+2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,114,206406,11,,Berta Bonardi,R,,ARG,27.7,213898,,,Rhiann Newborn,R,,USA,28.7,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,541,71,879,20
 2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,115,215763,8,,Sofia Sewing,R,170,USA,23.6,260848,,WC,Valentina Mediorreal Arias,U,,COL,,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,455,98,,
 2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,116,220491,12,,Merel Hoedt,U,,NED,23.5,215085,,,Zoe Hitt,R,,USA,22.0,6-0 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,573,65,1071,11
 2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,201,215778,10,,Emma Lene,U,,FRA,23.6,215693,1,,Michaela Bayerlova,U,,CZE,24.2,6-2 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,485,87,331,175
@@ -4362,7 +4684,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,204,221191,4,,Margaux Rouvroy,U,,FRA,21.9,202379,,,Chieh Yu Hsu,L,170,USA,31.1,6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,371,144,732,35
 2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,205,214136,,,Melany Solange Krywoj,R,,ARG,25.0,222305,14,,Romina Ccuno,R,,PER,20.5,7-6(6) 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,905,19,629,51
 2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,206,203521,6,,Andrea Gamiz,R,162,VEN,30.3,211965,15,,Jasmin Jebawy,U,,GER,26.4,6-0 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,418,115,644,48
-2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,207,222156,7,,Silvia Ambrosio,R,,GER,26.1,206406,11,,Berta Bonardi,U,,ARG,27.7,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,440,106,541,71
+2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,207,222156,7,,Silvia Ambrosio,R,,GER,26.1,206406,11,,Berta Bonardi,R,,ARG,27.7,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,440,106,541,71
 2023-W-ITF-COL-01A-2023,W40 Anapoima,Clay,32,40,20230313,208,215763,8,,Sofia Sewing,R,170,USA,23.6,220491,12,,Merel Hoedt,U,,NED,23.5,7-5 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,455,98,573,65
 2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,101,221333,1,,Solana Sierra,R,,ARG,18.7,260848,,WC,Valentina Mediorreal Arias,U,,COL,,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,357,156,,
 2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,102,220446,11,,Jazmin Ortenzi,R,,ARG,21.3,255641,,WC,Mariapaz Ospina,U,,COL,16.4,7-5 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,648,48,,
@@ -4376,7 +4698,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,110,233743,13,,Nikola Daubnerova,U,,SVK,17.5,246476,,WC,Mariana Isabel Higuita Barraza,U,,COL,15.7,6-7(7) 6-1 10-5,3,Q1,,,,,,,,,,,,,,,,,,,,717,38,,
 2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,111,214106,,,Guillermina Naya,R,,ARG,26.4,220550,6,,Dalayna Hewitt,R,,USA,22.2,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,562,68
 2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,112,222305,12,,Romina Ccuno,R,,PER,20.5,255650,,WC,Juliana Figueroa Teusa,U,,COL,16.2,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,628,52,,
-2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,113,206406,7,,Berta Bonardi,U,,ARG,27.7,263775,,WC,Maria Jose Sanchez Uribe,U,,COL,,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,547,72,,
+2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,113,206406,7,,Berta Bonardi,R,,ARG,27.7,263775,,WC,Maria Jose Sanchez Uribe,U,,COL,,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,547,72,,
 2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,114,220491,9,,Merel Hoedt,U,,NED,23.5,255638,,,Mia Popovic,U,,USA,18.4,6-2 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,578,65,1036,13
 2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,115,213789,8,,Katarina Jokic,U,,BIH,24.9,201659,,,Melanie Klaffner,R,171,AUT,32.8,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,582,64,912,18
 2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,116,221023,10,,Victoria Hu,U,,USA,20.9,222879,,,Kelly Loana Vargas Gonzalez,R,,COL,,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,596,60,1269,4
@@ -4386,7 +4708,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,204,214136,16,,Melany Solange Krywoj,R,,ARG,25.0,215763,4,,Sofia Sewing,R,170,USA,23.6,3-6 6-3 10-6,3,Q2,,,,,,,,,,,,,,,,,,,,848,23,480,91
 2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,205,215778,5,,Emma Lene,U,,FRA,23.6,233743,13,,Nikola Daubnerova,U,,SVK,17.5,6-1 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,474,92,717,38
 2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,206,214106,,,Guillermina Naya,R,,ARG,26.4,222305,12,,Romina Ccuno,R,,PER,20.5,7-5 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,,,628,52
-2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,207,206406,7,,Berta Bonardi,U,,ARG,27.7,220491,9,,Merel Hoedt,U,,NED,23.5,6-4 4-6 10-3,3,Q2,,,,,,,,,,,,,,,,,,,,547,72,578,65
+2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,207,206406,7,,Berta Bonardi,R,,ARG,27.7,220491,9,,Merel Hoedt,U,,NED,23.5,6-4 4-6 10-3,3,Q2,,,,,,,,,,,,,,,,,,,,547,72,578,65
 2023-W-ITF-COL-02A-2023,W25 Mosquera,Clay,32,25,20230320,208,221023,10,,Victoria Hu,U,,USA,20.9,213789,8,,Katarina Jokic,U,,BIH,24.9,4-6 7-5 10-2,3,Q2,,,,,,,,,,,,,,,,,,,,596,60,582,64
 2023-W-ITF-COL-03A-2023,W25 Sopo,Clay,32,25,20230327,102,211668,11,,Riya Bhatia,R,,IND,25.5,255650,,,Juliana Figueroa Teusa,U,,COL,16.2,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,731,35,,
 2023-W-ITF-COL-03A-2023,W25 Sopo,Clay,32,25,20230327,104,255638,14,,Mia Popovic,U,,USA,18.4,206509,,,Sarah Pestieau,U,,BEL,43.7,6-2 3-6 12-10,3,Q1,,,,,,,,,,,,,,,,,,,,1036,13,,
@@ -4403,7 +4725,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-COL-03A-2023,W25 Sopo,Clay,32,25,20230327,116,220446,9,,Jazmin Ortenzi,R,,ARG,21.3,263775,,,Maria Jose Sanchez Uribe,U,,COL,,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,648,48,,
 2023-W-ITF-COL-03A-2023,W25 Sopo,Clay,32,25,20230327,201,211668,11,,Riya Bhatia,R,,IND,25.5,206277,1,,Marine Partaud,R,,FRA,28.3,2-6 6-3 10-5,3,Q2,,,,,,,,,,,,,,,,,,,,731,35,425,112
 2023-W-ITF-COL-03A-2023,W25 Sopo,Clay,32,25,20230327,202,222156,2,,Silvia Ambrosio,R,,GER,26.1,255638,14,,Mia Popovic,U,,USA,18.4,6-1 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,433,110,1036,13
-2023-W-ITF-COL-03A-2023,W25 Sopo,Clay,32,25,20230327,203,206406,3,,Berta Bonardi,U,,ARG,27.7,214106,,,Guillermina Naya,R,,ARG,26.4,6-2 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,547,72,,
+2023-W-ITF-COL-03A-2023,W25 Sopo,Clay,32,25,20230327,203,206406,3,,Berta Bonardi,R,,ARG,27.7,214106,,,Guillermina Naya,R,,ARG,26.4,6-2 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,547,72,,
 2023-W-ITF-COL-03A-2023,W25 Sopo,Clay,32,25,20230327,204,220550,4,,Dalayna Hewitt,R,,USA,22.2,201659,13,,Melanie Klaffner,R,171,AUT,32.8,6-3 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,562,68,912,18
 2023-W-ITF-COL-03A-2023,W25 Sopo,Clay,32,25,20230327,205,220491,5,,Merel Hoedt,U,,NED,23.6,215721,15,,Rebeca Pereira,R,,BRA,30.0,6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,578,65,1048,12
 2023-W-ITF-COL-03A-2023,W25 Sopo,Clay,32,25,20230327,206,214136,12,,Melany Solange Krywoj,R,,ARG,25.0,213789,6,,Katarina Jokic,U,,BIH,24.9,6-2 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,848,23,582,64
@@ -4840,6 +5162,40 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-EGY-10A-2023,W15 Sharm ElSheikh,Hard,32,15,20230403,306,211862,6,,Ana Paula Neffa De Los Rios,R,,PAR,26.2,215978,9,,Victoria Mikhaylova,U,,RUS,22.4,6-3 7-5,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
 2023-W-ITF-EGY-10A-2023,W15 Sharm ElSheikh,Hard,32,15,20230403,307,223411,7,,Carlotta Moccia,U,,ITA,20.0,221934,,,Mija Ljubic,R,,SRB,22.6,6-1 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
 2023-W-ITF-EGY-10A-2023,W15 Sharm ElSheikh,Hard,32,15,20230403,308,223208,,,Eva Shaw,R,,GBR,17.8,241017,12,,Iuliia Iudenko,U,,RUS,18.4,6-3 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,102,215978,,,Victoria Mikhaylova,U,,RUS,22.4,260903,,,Maria Sysoeva,U,,RUS,,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,107,259770,,,Lara Charles,U,,AUS,18.6,263830,,,Vivien Noemi Faludi,U,,HUN,,6-2 7-6(2),3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,110,260352,,,Maya Drozd,U,,DEU,,214116,,A,Kate Zueva,U,,UKR,33.7,5-2 RET,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,114,214812,,,Aleksandra Pospelova,U,,RUS,24.9,221934,,,Mija Ljubic,R,,SRB,22.6,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,1036,13,,
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,115,221371,,,Lyubov Kostenko,R,,UKR,20.0,215848,,,Karolina Jaskiewicz,R,,POL,23.2,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,1296,4,,
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,118,223302,,,Kira Pavlova,U,,RUS,18.9,252519,,,Alisa Vasileva,U,,RUS,17.4,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,734,35,,
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,122,247671,,,Erin Mckenzie,U,,RSA,18.1,253671,,,Georgia Kalamaris,U,,FRA,16.5,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,126,220117,,,Adi Gavish,U,,ISR,22.5,259803,,,Sofiia Nagornaia,U,,RUS,19.5,6-3 3-3 RET,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,127,244077,,,Aglaya Fedorova,U,,RUS,19.1,221158,,,Ayline Esina Samardzic,U,,CRO,20.4,5-4 RET,3,Q1,,,,,,,,,,,,,,,,,,,,1188,7,,
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,131,211862,,,Ana Paula Neffa De Los Rios,R,,PAR,26.2,222847,,,Vanessa Ioana Georgiana Popa Teiusanu,U,,ROU,19.2,7-5 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,201,210645,1,,Elena Teodora Cadar,L,,ROU,29.1,215978,,,Victoria Mikhaylova,U,,RUS,22.4,6-3 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,451,99,,
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,202,222171,9,,Nahia Berecoechea,R,,FRA,18.9,252515,,,Viera Deeperm,U,,THA,19.1,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,607,57,,
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,203,214546,2,,Ekaterina Kazionova,R,,RUS,24.2,235156,,,Nicol Benesova,U,,CZE,18.5,6-4 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,456,97,,
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,204,222944,11,,Daria Khomutsianskaya,U,,BLR,,259770,,,Lara Charles,U,,AUS,18.6,6-2 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,652,48,,
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,205,214696,3,,Jessica Failla,U,,USA,25.7,260352,,,Maya Drozd,U,,DEU,,6-0 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,464,96,,
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,206,203449,12,,Sarah Rebecca Sekulic,L,,GER,30.7,260622,,,Saoirse Breen,U,,FIJ,,6-3 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,686,42,,
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,207,243420,4,,Hanne Vandewinkel,U,,BEL,18.8,214812,,,Aleksandra Pospelova,U,,RUS,24.9,6-2 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,515,79,1036,13
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,208,221434,13,,Aliona Falei,U,,BLR,19.0,221371,,,Lyubov Kostenko,R,,UKR,20.0,6-2 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,707,39,1296,4
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,209,221626,5,,Linda Klimovicova,U,,CZE,18.8,223302,,,Kira Pavlova,U,,RUS,18.9,6-4 5-7 10-8,3,Q2,,,,,,,,,,,,,,,,,,,,554,70,734,35
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,210,223120,14,,Briana Szabo,U,,ROU,17.3,220031,,,Yu Shan,U,,CHN,23.1,6-1 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,708,38,,
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,211,220489,6,,Valentina Ryser,U,,SUI,22.0,247671,,,Erin Mckenzie,U,,RSA,18.1,6-0 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,549,71,,
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,212,221901,15,,Darya Shauha,U,,BLR,19.5,260805,,,Tabeth Tadoum,U,,USA,,6-1 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,713,38,,
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,213,223325,7,,Polina Iatcenko,U,,RUS,19.3,220117,,,Adi Gavish,U,,ISR,22.5,6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,544,72,,
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,214,223198,10,,Jasmine Conway,U,,GBR,18.2,244077,,,Aglaya Fedorova,U,,RUS,19.1,6-2 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,619,55,1188,7
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,215,221243,8,,Martyna Kubka,R,,POL,21.9,222554,,,Ksenia Meshcheryakova,U,,RUS,,6-2 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,602,58,,
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,216,216287,16,,Ekaterina Shalimova,U,,RUS,22.8,211862,,,Ana Paula Neffa De Los Rios,R,,PAR,26.2,6-0 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,717,37,,
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,301,222171,9,,Nahia Berecoechea,R,,FRA,18.9,210645,1,,Elena Teodora Cadar,L,,ROU,29.1,6-2 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,607,57,451,99
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,302,214546,2,,Ekaterina Kazionova,R,,RUS,24.2,222944,11,,Daria Khomutsianskaya,U,,BLR,,2-6 6-3 10-7,3,Q3,,,,,,,,,,,,,,,,,,,,456,97,652,48
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,303,203449,12,,Sarah Rebecca Sekulic,L,,GER,30.7,214696,3,,Jessica Failla,U,,USA,25.7,6-2 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,686,42,464,96
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,304,221434,13,,Aliona Falei,U,,BLR,19.0,243420,4,,Hanne Vandewinkel,U,,BEL,18.8,6-7(6) 6-1 10-5,3,Q3,,,,,,,,,,,,,,,,,,,,707,39,515,79
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,305,221626,5,,Linda Klimovicova,U,,CZE,18.8,223120,14,,Briana Szabo,U,,ROU,17.3,6-4 3-6 10-5,3,Q3,,,,,,,,,,,,,,,,,,,,554,70,708,38
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,306,221901,15,,Darya Shauha,U,,BLR,19.5,220489,6,,Valentina Ryser,U,,SUI,22.0,3-6 6-1 10-7,3,Q3,,,,,,,,,,,,,,,,,,,,713,38,549,71
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,307,223325,7,,Polina Iatcenko,U,,RUS,19.3,223198,10,,Jasmine Conway,U,,GBR,18.2,6-2 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,544,72,619,55
+2023-W-ITF-EGY-11A-2023,W25 Sharm ElSheikh,Hard,32,25,20230410,308,216287,16,,Ekaterina Shalimova,U,,RUS,22.8,221243,8,,Martyna Kubka,R,,POL,21.9,6-4 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,717,37,602,58
 2023-W-ITF-ESP-01A-2023,W15 Manacor,Hard,32,15,20230213,101,241714,1,,Rebecca Munk Mortensen,U,,DEN,17.2,259927,,,Shuqian Xu,U,,CHN,17.0,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,1027,12,,
 2023-W-ITF-ESP-01A-2023,W15 Manacor,Hard,32,15,20230213,102,263623,,WC,Charlotte Ruud,U,,NOR,,263624,,,Martina Puvill,U,,ESP,,6-7(3) 6-4 11-9,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2023-W-ITF-ESP-01A-2023,W15 Manacor,Hard,32,15,20230213,103,222665,,,Judith Hernandez Miranda,U,,ESP,,259953,,,Tyra Lithiby,U,,THA,16.2,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
@@ -5129,6 +5485,54 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-ESP-08A-2023,W15 Telde,Clay,32,15,20230403,206,234475,6,,Sarah Tatu,U,,GBR,18.4,221691,15,,Jizel Matos Sequeira Fernandes,U,,GBR,22.1,6-4 0-6 10-8,3,Q2,,,,,,,,,,,,,,,,,,,,1248,5,,
 2023-W-ITF-ESP-08A-2023,W15 Telde,Clay,32,15,20230403,207,223381,14,,Carmen Juan Bru,U,,ESP,17.9,221523,,,Nikita Liebkind,U,,FIN,23.5,6-3 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
 2023-W-ITF-ESP-08A-2023,W15 Telde,Clay,32,15,20230403,208,223398,10,,Anastasiya Kuparev,U,,GER,21.8,231629,8,,Naroa Aranzabal,U,,ESP,17.6,6-3 7-6(6),3,Q2,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,101,221259,,,Joelle Lilly Sophie Steur,U,,GER,19.0,211432,1,,Eden Silva,R,,GBR,27.0,6-1 7-6(5),3,Q1,,,,,,,,,,,,,,,,,,,,533,76,300,206
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,102,214020,11,,Amina Anshba,L,,RUS,23.5,214212,,,Noelia Bouzo Zanotti,R,,ESP,23.5,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,435,107,647,49
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,103,214741,2,,Anastasia Kulikova,L,,FIN,23.1,263858,,WC,Celia Anson Sanchez,U,,ESP,,7-6(3) 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,302,205,,
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,104,257874,,,Ksenia Zaytseva,U,,RUS,18.5,215588,16,,Yasmine Mansouri,R,,FRA,21.9,6-2 5-7 7-6(3),3,Q1,,,,,,,,,,,,,,,,,,,,532,76,481,90
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,105,221191,3,,Margaux Rouvroy,U,,FRA,22.0,215174,,,Claudia Hoste Ferrer,U,,ESP,24.4,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,323,189,644,50
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,106,203465,,,Amanda Carreras,R,,GBR,32.9,212043,13,,Freya Christie,R,180,GBR,25.4,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,514,79,457,97
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,107,216076,4,,Ashley Lahey,U,,USA,23.4,221150,,,Eszter Meri,U,,SVK,20.3,7-5 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,345,165,550,71
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,108,221454,,WC,Alba Rey Garcia,U,,ESP,20.7,215802,9,,Emeline Dartron,U,,FRA,22.9,6-1 4-6 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,634,51,413,119
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,109,206335,5,,Jesika Maleckova,R,,CZE,28.6,261102,,WC,Silvia Alejo,U,,ESP,,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,362,153,,
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,110,215879,,,Ilay Yoruk,R,,TUR,21.4,215459,12,,Emily Seibold,R,,GER,23.2,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,578,66,444,102
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,111,206027,6,,Angelica Moratelli,R,173,ITA,28.6,260062,,WC,Claudia Ferrer Perez,U,,ESP,16.7,6-3 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,384,138,,
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,112,215398,14,,Lucia Cortez Llorca,U,,ESP,22.8,214226,,,Vasanti Shinde,L,,IND,26.1,2-6 6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,465,95,1235,5
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,113,202672,7,,Ekaterina Yashina,R,173,RUS,29.6,258191,,,Ana Grubor,U,,CAN,19.2,6-0 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,398,130,846,24
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,114,203586,15,,Ioana Loredana Rosca,R,,ROU,26.5,208603,,,Amira Benaissa,U,,ALG,33.3,6-0 5-7 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,466,95,996,14
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,115,203521,8,,Andrea Gamiz,R,162,VEN,30.4,260059,,WC,Adriana Cortes,U,,ESP,18.1,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,409,124,,
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,116,215778,10,,Emma Lene,U,,FRA,23.7,214216,,,Marta Huqi Gonzalez Encinas,U,,ESP,24.5,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,428,111,618,55
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,201,221259,,,Joelle Lilly Sophie Steur,U,,GER,19.0,214020,11,,Amina Anshba,L,,RUS,23.5,2-6 6-4 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,533,76,435,107
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,202,257874,,,Ksenia Zaytseva,U,,RUS,18.5,214741,2,,Anastasia Kulikova,L,,FIN,23.1,6-3 3-6 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,532,76,302,205
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,203,221191,3,,Margaux Rouvroy,U,,FRA,22.0,203465,,,Amanda Carreras,R,,GBR,32.9,6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,323,189,514,79
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,204,216076,4,,Ashley Lahey,U,,USA,23.4,221454,,WC,Alba Rey Garcia,U,,ESP,20.7,6-2 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,345,165,634,51
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,205,206335,5,,Jesika Maleckova,R,,CZE,28.6,215879,,,Ilay Yoruk,R,,TUR,21.4,3-6 7-5 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,362,153,578,66
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,206,215398,14,,Lucia Cortez Llorca,U,,ESP,22.8,206027,6,,Angelica Moratelli,R,173,ITA,28.6,6-3 4-6 7-6(8),3,Q2,,,,,,,,,,,,,,,,,,,,465,95,384,138
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,207,203586,15,,Ioana Loredana Rosca,R,,ROU,26.5,202672,7,,Ekaterina Yashina,R,173,RUS,29.6,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,466,95,398,130
+2023-W-ITF-ESP-09A-2023,W80 Zaragoza,Clay,32,80,20230410,208,203521,8,,Andrea Gamiz,R,162,VEN,30.4,215778,10,,Emma Lene,U,,FRA,23.7,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,409,124,428,111
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,101,216229,,,Marina Benito,U,,ESP,22.8,215301,1,,Irene Lavino,U,,ITA,24.4,6-1 7-6(3),3,Q1,,,,,,,,,,,,,,,,,,,,,,900,20
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,102,260556,10,,Tianmi Mi,U,,CHN,,221258,,,Laura Boehner,U,,GER,21.6,6-4 7-6(3),3,Q1,,,,,,,,,,,,,,,,,,,,1195,7,,
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,103,221414,2,,Chiara Di Genova,U,,ARG,19.1,252535,,,Maria Kalyakina,U,,RUS,16.9,7-5 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,931,17,,
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,104,222318,,,Elena Giovanna Giessler,U,,GER,,222568,15,,Dariia Monakhova,U,,RUS,,7-6(1) 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,105,222215,3,,Jiho Shin,U,,KOR,,261027,,,Ziyi Gao,U,,CHN,,7-6(4) 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,941,17,,
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,106,215050,11,,Schena Benamar,U,,FRA,24.2,257885,,WC,Jana Kareisova,U,,CZE,17.2,7-6(4) 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,1211,6,,
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,107,215818,4,,Georgia Gulin,U,,BRA,23.5,220133,,,Ilaria Sposetti,U,,ITA,22.5,6-1 3-6 10-3,3,Q1,,,,,,,,,,,,,,,,,,,,946,17,,
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,108,222209,13,,Anna Marie Weissheim,R,,GER,,221001,,WC,Paula Ortega Redondo,U,,ESP,21.3,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,1313,3,,
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,109,221376,5,,Olivia Gram,R,,DEN,22.3,210002,,,Verena Gantschnig,L,,GER,29.8,6-7(8) 6-3 10-6,3,Q1,,,,,,,,,,,,,,,,,,,,1005,14,,
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,110,254735,16,,Anna Semenova,U,,RUS,19.1,223064,,,Natalia Fehr,U,,SUI,21.8,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,111,221197,6,,Lucia Llinares Domingo,R,,ESP,19.9,260252,,,Sara Conde,U,,ARG,15.8,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,1006,14,,
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,112,263859,,WC,Irene Vigara Ramos,U,,ESP,,231629,14,,Naroa Aranzabal,U,,ESP,17.6,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,113,235159,7,,Astrid Lew Yan Foon,U,,FRA,17.6,215103,,WC,Yasmina El Sayed,R,,GBR,26.8,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,1057,12,,
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,114,234475,12,,Sarah Tatu,U,,GBR,18.4,222272,,,Alicia Martial,U,,FRA,,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,1245,5,,
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,115,220665,8,,Brittany Collens,R,,USA,28.0,220479,,WC,Anna Schubries,U,,GER,29.1,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,1117,9,,
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,116,260921,,WC,Menuha Popovici,U,,ROU,,216227,9,,Lola Marandel,U,,FRA,20.7,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,1161,8
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,201,260556,10,,Tianmi Mi,U,,CHN,,216229,,,Marina Benito,U,,ESP,22.8,6-2 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,1195,7,,
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,202,221414,2,,Chiara Di Genova,U,,ARG,19.1,222318,,,Elena Giovanna Giessler,U,,GER,,6-3 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,931,17,,
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,203,215050,11,,Schena Benamar,U,,FRA,24.2,222215,3,,Jiho Shin,U,,KOR,,6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,1211,6,941,17
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,204,215818,4,,Georgia Gulin,U,,BRA,23.5,222209,13,,Anna Marie Weissheim,R,,GER,,0-6 1-2 RET,3,Q2,,,,,,,,,,,,,,,,,,,,946,17,1313,3
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,205,254735,16,,Anna Semenova,U,,RUS,19.1,221376,5,,Olivia Gram,R,,DEN,22.3,6-2 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,,,1005,14
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,206,221197,6,,Lucia Llinares Domingo,R,,ESP,19.9,263859,,WC,Irene Vigara Ramos,U,,ESP,,6-2 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,1006,14,,
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,207,234475,12,,Sarah Tatu,U,,GBR,18.4,235159,7,,Astrid Lew Yan Foon,U,,FRA,17.6,5-7 6-4 17-15,3,Q2,,,,,,,,,,,,,,,,,,,,1245,5,1057,12
+2023-W-ITF-ESP-11B-2023,W15 Telde,Clay,32,15,20230410,208,220665,8,,Brittany Collens,R,,USA,28.0,260921,,WC,Menuha Popovici,U,,ROU,,7-5 3-6 10-3,3,Q2,,,,,,,,,,,,,,,,,,,,1117,9,,
 2023-W-ITF-EST-01A-2023,W40 Tallinn,Hard,32,40,20230109,101,214507,1,,Berfu Cengiz,R,,TUR,23.2,221376,,,Olivia Gram,R,,DEN,22.1,6-3 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,374,133,1016,13
 2023-W-ITF-EST-01A-2023,W40 Tallinn,Hard,32,40,20230109,102,221382,11,,Katarina Kuzmova,U,,SVK,21.4,201399,,,Emily Webley Smith,R,,GBR,38.4,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,616,53,,
 2023-W-ITF-EST-01A-2023,W40 Tallinn,Hard,32,40,20230109,103,221354,2,,Lisa Pigato,R,,ITA,19.5,231641,,,Phillippa Preugschat,U,,GER,20.3,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,386,127,,
@@ -5902,6 +6306,30 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-ITA-01A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230403,206,211328,6,,Deborah Chiesa,R,170,ITA,26.8,260672,10,,Johanne Christine Svendsen,R,,DEN,18.8,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,413,122,,
 2023-W-ITF-ITA-01A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230403,207,222391,14,,Lois Boisson,R,,FRA,19.8,260780,,,Francesca Mostallino,U,,ITA,,6-0 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,614,55,,
 2023-W-ITF-ITA-01A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230403,208,211539,9,,Fiona Ferro,R,170,FRA,26.0,211529,8,,Sandra Samir,R,170,EGY,25.4,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,434,107,455,98
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,101,214653,1,,Andreea Prisacariu,U,,ROU,23.1,216381,,,Barbara Dessolis,R,,ITA,21.5,6-2 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,411,123,1056,12
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,102,222017,15,,Anouk Koevermans,R,,NED,19.2,221962,,,Alessandra Pezzulla,U,,ITA,,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,812,27,,
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,103,214992,2,,Zhibek Kulambayeva,R,172,KAZ,23.0,215109,,,Costanza Traversi,U,,ITA,22.7,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,427,112,1225,6
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,104,222369,10,,Arianna Zucchini,R,,ITA,19.7,215847,,,Nikita Uberoi,R,,USA,29.4,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,658,48,,
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,105,221354,3,,Lisa Pigato,R,,ITA,19.8,221935,,,Ludovica Mazzucchelli,U,,ITA,20.6,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,505,82,,
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,106,210672,11,,Polina Leykina,R,,RUS,28.5,221635,,,Ireni Lucia,U,,ITA,20.8,6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,666,46,,
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,107,214919,4,,Dalila Spiteri,U,,ITA,25.9,221411,,,Jennifer Ruggeri,R,,ITA,19.7,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,497,84,1093,10
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,108,214301,12,,Tatiana Pieri,U,,ITA,24.0,254743,,,Versace Gatti,U,,USA,21.3,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,688,42,1313,3
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,109,215878,5,,Aurora Zantedeschi,R,,ITA,22.4,262887,,,Sara Baras Matei,U,,ESP,,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,598,60,,
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,110,220828,9,,Melania Delai,U,,ITA,20.4,210497,,,Carlotta Lehner,U,,ITA,34.2,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,650,48,,
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,111,213767,6,,Ayla Aksu,R,170,USA,26.7,222612,,,Martina Peretti,U,,ITA,,6-0 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,600,59,,
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,112,206400,14,,Martina Spigarelli,U,,ITA,30.9,252591,,,Yana Klimchuk,U,,BLR,17.9,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,800,28,,
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,113,222391,7,,Lois Boisson,R,,FRA,19.9,260583,,,Marcella Dessolis,U,,ITA,,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,615,55,,
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,114,210742,16,,Mariana Drazic,R,,CRO,28.2,220695,,,Beatrice Stagno,U,,ITA,20.0,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,849,23,1222,6
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,115,206338,8,,Stefania Rubini,U,,ITA,30.3,249677,,,Caroline Brack,U,,GER,19.9,7-5 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,671,44,,
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,116,221988,13,,Bianca Jolie Fernandez,R,,CAN,19.1,202551,,,Eleni Kordolaimi,R,,GRE,30.0,7-5 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,744,33,915,19
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,201,214653,1,,Andreea Prisacariu,U,,ROU,23.1,222017,15,,Anouk Koevermans,R,,NED,19.2,6-3 7-6(5),3,Q2,,,,,,,,,,,,,,,,,,,,411,123,812,27
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,202,214992,2,,Zhibek Kulambayeva,R,172,KAZ,23.0,222369,10,,Arianna Zucchini,R,,ITA,19.7,6-2 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,427,112,658,48
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,203,221354,3,,Lisa Pigato,R,,ITA,19.8,210672,11,,Polina Leykina,R,,RUS,28.5,7-5 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,505,82,666,46
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,204,214919,4,,Dalila Spiteri,U,,ITA,25.9,214301,12,,Tatiana Pieri,U,,ITA,24.0,1-6 6-2 10-7,3,Q2,,,,,,,,,,,,,,,,,,,,497,84,688,42
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,205,215878,5,,Aurora Zantedeschi,R,,ITA,22.4,220828,9,,Melania Delai,U,,ITA,20.4,6-3 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,598,60,650,48
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,206,213767,6,,Ayla Aksu,R,170,USA,26.7,206400,14,,Martina Spigarelli,U,,ITA,30.9,7-6(3) 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,600,59,800,28
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,207,222391,7,,Lois Boisson,R,,FRA,19.9,210742,16,,Mariana Drazic,R,,CRO,28.2,6-2 2-6 13-11,3,Q2,,,,,,,,,,,,,,,,,,,,615,55,849,23
+2023-W-ITF-ITA-02A-2023,W25 Santa Margherita di Pula,Clay,32,25,20230410,208,206338,8,,Stefania Rubini,U,,ITA,30.3,221988,13,,Bianca Jolie Fernandez,R,,CAN,19.1,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,671,44,744,33
 2023-W-ITF-JPN-01A-2023,W15 Hinode,Hard,32,15,20230320,102,263787,,WC,Rena Takahashi,U,,JPN,,263788,,,Rin Nakagawara,U,,JPN,,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2023-W-ITF-JPN-01A-2023,W15 Hinode,Hard,32,15,20230320,103,219888,,,Momoko Nishio,U,,JPN,20.8,260731,,,Fuka Manabe,U,,JPN,,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2023-W-ITF-JPN-01A-2023,W15 Hinode,Hard,32,15,20230320,106,223271,,WC,Karen Tsutsumi,U,,JPN,21.3,216323,,,Michiru Furuya,U,,JPN,29.6,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
@@ -6014,6 +6442,62 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-JPN-03A-2023,W25 Kashiwa,Hard,32,25,20230403,206,213948,12,,Dabin Kim,R,,KOR,26.2,222390,6,,Ya Yi Yang,L,,TPE,18.8,6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,640,50,442,103
 2023-W-ITF-JPN-03A-2023,W25 Kashiwa,Hard,32,25,20230403,207,202693,7,,Ya Hsuan Lee,R,165,TPE,27.7,215614,14,,Mei Yamaguchi,U,152,JPN,23.8,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,485,89,659,47
 2023-W-ITF-JPN-03A-2023,W25 Kashiwa,Hard,32,25,20230403,208,214660,8,,Katarina Kozarov,U,,SRB,24.9,216160,13,,Ayumi Koshiishi,U,,JPN,22.6,6-0 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,493,87,627,53
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,101,214540,1,,Chihiro Muramatsu,L,161,JPN,24.8,210533,,,Haine Ogata,R,,JPN,29.6,6-3 6-0,3,R64,,,,,,,,,,,,,,,,,,,,434,107,1142,8
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,102,215501,,,Eunhye Lee,U,,KOR,22.9,253679,,,Nanari Katsumi,U,,JPN,20.1,6-2 6-4,3,R64,,,,,,,,,,,,,,,,,,,,816,26,1042,12
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,103,221773,,,Honoka Kobayashi,U,,JPN,22.9,263860,,WC,Ran Inaba,U,,JPN,,6-1 6-1,3,R64,,,,,,,,,,,,,,,,,,,,823,26,,
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,104,215614,12,,Mei Yamaguchi,U,152,JPN,23.8,219697,,,Nagomi Higashitani,R,,JPN,23.7,6-3 6-1,3,R64,,,,,,,,,,,,,,,,,,,,663,46,,
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,105,260137,,,Gyeong Seo Lee,U,,KOR,18.0,222390,2,,Ya Yi Yang,L,,TPE,18.8,2-6 7-6(4) 10-6,3,R64,,,,,,,,,,,,,,,,,,,,1179,7,443,103
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,106,215550,,,Ayano Shimizu,R,,JPN,24.9,246508,,,Britney Chiu,U,,USA,19.1,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,767,31,,
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,107,222101,,,Ai Yamaguchi,U,,JPN,,225862,,,Mei Hasegawa,U,,JPN,19.8,7-5 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,1313,3
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,108,203553,14,,Riko Sawayanagi,R,163,JPN,28.4,220528,,,Ayaka Ozeki,U,,JPN,24.5,6-0 6-0,3,R64,,,,,,,,,,,,,,,,,,,,675,44,,
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,109,215592,3,,Eri Shimizu,U,,JPN,24.8,214398,,,Natsuho Arakawa,L,,JPN,25.5,6-4 6-0,3,R64,,,,,,,,,,,,,,,,,,,,452,99,695,40
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,110,260742,,,Honori Koyama,U,,JPN,,263861,,WC,Rira Kosaka,U,,JPN,,7-6(3) 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,111,213572,,,Risa Ushijima,R,,JPN,26.9,203517,,,Chihiro Takayama,R,,JPN,32.1,6-4 6-3,3,R64,,,,,,,,,,,,,,,,,,,,778,30,1106,10
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,112,256684,11,,Aoi Ito,U,,JPN,18.8,260098,,,Yu Yun Li,U,,TPE,18.8,7-5 6-1,3,R64,,,,,,,,,,,,,,,,,,,,642,50,1313,3
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,113,210926,4,,Pei Chi Lee,U,,TPE,28.4,263862,,WC,Azuna Ichioka,U,,JPN,,6-0 6-1,3,R64,,,,,,,,,,,,,,,,,,,,484,89,,
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,114,263644,,,Emerson Jones,U,,AUS,,215833,,,Erina Hayashi,R,168,JPN,28.7,6-2 6-0,3,R64,,,,,,,,,,,,,,,,,,,,1176,7,1079,11
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,115,239477,,,Rinon Okuwaki,U,,JPN,18.2,214843,,,Kanako Osafune,L,,JPN,25.8,6-1 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,116,202916,9,,Georgina Garcia Perez,U,187,ESP,30.9,215616,,,Kisa Yoshioka,U,,JPN,22.6,6-2 6-2,3,R64,,,,,,,,,,,,,,,,,,,,546,71,,
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,117,202693,5,,Ya Hsuan Lee,R,165,TPE,27.7,222986,,,Mio Mushika,U,,JPN,17.7,6-2 7-6(5),3,R64,,,,,,,,,,,,,,,,,,,,503,83,1211,6
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,118,260667,,,Tahlia Kokkinis,U,,AUS,,259576,,,Lily Taylor,U,,AUS,16.6,6-3 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,1116,9
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,119,260740,,,Kaho Oyama,U,,JPN,,260399,,,Jamie Lau,U,,MAC,,6-2 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,120,202379,13,,Chieh Yu Hsu,L,170,USA,31.2,263863,,WC,Kiko Inoue,U,,JPN,,6-0 6-1,3,R64,,,,,,,,,,,,,,,,,,,,664,46,,
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,121,219887,6,,Saki Imamura,R,,JPN,20.9,219740,,,Madison Frahn,U,,AUS,27.0,6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,495,85,1313,3
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,122,263864,,WC,Hinata Chiba,U,,JPN,,260713,,,Rio Tsuda,U,,JPN,,6-4 5-7 10-5,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,123,215489,,,Ramu Ueda,U,,JPN,25.0,222140,,,Mua Shigeta,U,,JPN,,6-2 3-6 10-7,3,R64,,,,,,,,,,,,,,,,,,,,711,38,,
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,124,216160,10,,Ayumi Koshiishi,U,,JPN,22.6,263865,,WC,Kurea Hayasaka,U,,JPN,,7-6(3) 6-4,3,R64,,,,,,,,,,,,,,,,,,,,626,53,,
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,125,219892,7,,Mayuka Aikawa,L,,JPN,25.0,221027,,,Anastasia Berezov,R,,AUS,19.4,6-2 6-1,3,R64,,,,,,,,,,,,,,,,,,,,490,87,,
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,126,239446,,,Mao Mushika,U,,JPN,17.7,263866,,WC,Kurumi Tamura,U,,JPN,,6-2 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,127,216315,,,Anri Nagata,U,,JPN,22.9,263637,,,Riko Hiroshima,U,,JPN,,6-3 6-2,3,R64,,,,,,,,,,,,,,,,,,,,1272,4,,
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,128,221229,15,,Natsumi Kawaguchi,L,,JPN,20.7,206402,,,Kanako Morisaki,U,,JPN,26.5,6-1 6-3,3,R64,,,,,,,,,,,,,,,,,,,,682,42,,
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,129,246478,,,Miho Kuramochi,U,,JPN,24.8,220997,8,,Naho Sato,R,,JPN,22.2,6-4 6-2,3,R64,,,,,,,,,,,,,,,,,,,,724,36,523,78
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,130,259690,,,Rinko Matsuda,U,,JPN,17.9,215956,,,Yuka Hosoki,R,,JPN,23.8,7-5 6-2,3,R64,,,,,,,,,,,,,,,,,,,,1060,11,833,25
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,131,215492,,,Lisa Marie Rioux,U,,JPN,25.9,214733,,,Suzuho Oshino,U,,JPN,26.6,6-1 7-5,3,R64,,,,,,,,,,,,,,,,,,,,1071,11,958,16
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,132,260613,,,Kayo Nishimura,U,,JPN,,216158,16,,Mana Kawamura,U,,JPN,21.6,2-6 7-6(5) 15-13,3,R64,,,,,,,,,,,,,,,,,,,,1122,9,694,40
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,201,214540,1,,Chihiro Muramatsu,L,161,JPN,24.8,215501,,,Eunhye Lee,U,,KOR,22.9,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,434,107,816,26
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,202,215614,12,,Mei Yamaguchi,U,152,JPN,23.8,221773,,,Honoka Kobayashi,U,,JPN,22.9,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,663,46,823,26
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,203,260137,,,Gyeong Seo Lee,U,,KOR,18.0,215550,,,Ayano Shimizu,R,,JPN,24.9,5-7 6-4 10-8,3,R32,,,,,,,,,,,,,,,,,,,,1179,7,767,31
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,204,203553,14,,Riko Sawayanagi,R,163,JPN,28.4,222101,,,Ai Yamaguchi,U,,JPN,,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,675,44,,
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,205,215592,3,,Eri Shimizu,U,,JPN,24.8,260742,,,Honori Koyama,U,,JPN,,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,452,99,,
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,206,256684,11,,Aoi Ito,U,,JPN,18.8,213572,,,Risa Ushijima,R,,JPN,26.9,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,642,50,778,30
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,207,210926,4,,Pei Chi Lee,U,,TPE,28.4,263644,,,Emerson Jones,U,,AUS,,6-7(5) 7-5 11-9,3,R32,,,,,,,,,,,,,,,,,,,,484,89,1176,7
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,208,202916,9,,Georgina Garcia Perez,U,187,ESP,30.9,239477,,,Rinon Okuwaki,U,,JPN,18.2,6-4 4-6 10-6,3,R32,,,,,,,,,,,,,,,,,,,,546,71,,
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,209,202693,5,,Ya Hsuan Lee,R,165,TPE,27.7,260667,,,Tahlia Kokkinis,U,,AUS,,4-6 6-4 11-9,3,R32,,,,,,,,,,,,,,,,,,,,503,83,,
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,210,202379,13,,Chieh Yu Hsu,L,170,USA,31.2,260740,,,Kaho Oyama,U,,JPN,,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,664,46,,
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,211,263864,,WC,Hinata Chiba,U,,JPN,,219887,6,,Saki Imamura,R,,JPN,20.9,4-6 6-4 10-4,3,R32,,,,,,,,,,,,,,,,,,,,,,495,85
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,212,215489,,,Ramu Ueda,U,,JPN,25.0,216160,10,,Ayumi Koshiishi,U,,JPN,22.6,6-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,711,38,626,53
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,213,219892,7,,Mayuka Aikawa,L,,JPN,25.0,239446,,,Mao Mushika,U,,JPN,17.7,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,490,87,,
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,214,216315,,,Anri Nagata,U,,JPN,22.9,221229,15,,Natsumi Kawaguchi,L,,JPN,20.7,7-6(4) 5-7 10-8,3,R32,,,,,,,,,,,,,,,,,,,,1272,4,682,42
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,215,246478,,,Miho Kuramochi,U,,JPN,24.8,259690,,,Rinko Matsuda,U,,JPN,17.9,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,724,36,1060,11
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,216,260613,,,Kayo Nishimura,U,,JPN,,215492,,,Lisa Marie Rioux,U,,JPN,25.9,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1122,9,1071,11
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,301,215614,12,,Mei Yamaguchi,U,152,JPN,23.8,214540,1,,Chihiro Muramatsu,L,161,JPN,24.8,6-1 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,663,46,434,107
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,302,203553,14,,Riko Sawayanagi,R,163,JPN,28.4,260137,,,Gyeong Seo Lee,U,,KOR,18.0,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,675,44,1179,7
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,303,256684,11,,Aoi Ito,U,,JPN,18.8,215592,3,,Eri Shimizu,U,,JPN,24.8,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,642,50,452,99
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,304,202916,9,,Georgina Garcia Perez,U,187,ESP,30.9,210926,4,,Pei Chi Lee,U,,TPE,28.4,6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,546,71,484,89
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,305,202693,5,,Ya Hsuan Lee,R,165,TPE,27.7,202379,13,,Chieh Yu Hsu,L,170,USA,31.2,3-6 6-2 10-6,3,R16,,,,,,,,,,,,,,,,,,,,503,83,664,46
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,306,215489,,,Ramu Ueda,U,,JPN,25.0,263864,,WC,Hinata Chiba,U,,JPN,,7-6(2) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,711,38,,
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,307,219892,7,,Mayuka Aikawa,L,,JPN,25.0,216315,,,Anri Nagata,U,,JPN,22.9,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,490,87,1272,4
+2023-W-ITF-JPN-04A-2023,W25 Osaka,Hard,32,25,20230410,308,246478,,,Miho Kuramochi,U,,JPN,24.8,260613,,,Kayo Nishimura,U,,JPN,,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,724,36,1122,9
 2023-W-ITF-KAZ-01A-2023,W40 Astana,Hard,32,40,20230227,101,214181,1,,Anastasia Gasanova,R,,RUS,23.7,237455,,WC,Dana Baidaulet,U,,KAZ,17.5,6-0 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,250,259,,
 2023-W-ITF-KAZ-01A-2023,W40 Astana,Hard,32,40,20230227,102,216139,11,,Sofya Lansere,U,,RUS,22.4,221243,,,Martyna Kubka,R,,POL,21.8,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,371,144,612,54
 2023-W-ITF-KAZ-01A-2023,W40 Astana,Hard,32,40,20230227,103,216013,2,,Yuliya Hatouka,R,,BLR,22.8,263696,,WC,Ariana Gogulina,U,,KAZ,,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,274,236,,
@@ -6161,7 +6645,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-MEX-01A-2023,W40 Mexico City,Hard,32,40,20230130,106,202656,9,,Estelle Cascino,R,,FRA,26.8,239491,,,Paris Corley,U,,USA,25.0,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,624,51,905,19
 2023-W-ITF-MEX-01A-2023,W40 Mexico City,Hard,32,40,20230130,107,222385,,,Quetzali Dafne Vazquez Montesinos,R,,MEX,,221342,4,,Bianca Behulova,U,,SVK,19.8,6-4 7-6(4),3,Q1,,,,,,,,,,,,,,,,,,,,,,533,74
 2023-W-ITF-MEX-01A-2023,W40 Mexico City,Hard,32,40,20230130,108,223367,13,,Maria Fernanda Navarro,U,,MEX,26.6,215085,,,Zoe Hitt,R,,USA,21.8,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,1073,11
-2023-W-ITF-MEX-01A-2023,W40 Mexico City,Hard,32,40,20230130,109,239446,,,Mao Mushika,U,,JPN,17.5,206406,5,,Berta Bonardi,U,,ARG,27.6,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,528,75
+2023-W-ITF-MEX-01A-2023,W40 Mexico City,Hard,32,40,20230130,109,239446,,,Mao Mushika,U,,JPN,17.5,206406,5,,Berta Bonardi,R,,ARG,27.6,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,528,75
 2023-W-ITF-MEX-01A-2023,W40 Mexico City,Hard,32,40,20230130,110,215784,15,,Anastasia Iamachkine,R,,PER,22.3,259810,,,Jennifer Sabrina Moreno Rodriguez,U,,MEX,25.9,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,832,24,,
 2023-W-ITF-MEX-01A-2023,W40 Mexico City,Hard,32,40,20230130,111,213772,6,,Amy Zhu,R,,USA,28.2,263145,,,Michelle Connor Salazar,U,,MEX,,6-2 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,563,65,,
 2023-W-ITF-MEX-01A-2023,W40 Mexico City,Hard,32,40,20230130,112,211382,11,,Caroline Romeo,U,,FRA,28.5,258191,,,Ana Grubor,U,,CAN,19.0,6-0 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,645,47,845,23
@@ -6177,7 +6661,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-MEX-01A-2023,W40 Mexico City,Hard,32,40,20230130,207,214019,7,,Raveena Kingsley,U,,USA,24.5,213698,14,,Maria Vittoria Viviani,R,,ITA,23.9,6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,562,65,807,27
 2023-W-ITF-MEX-01A-2023,W40 Mexico City,Hard,32,40,20230130,208,214600,8,,Georgia Andreea Craciun,U,,ROU,23.5,221510,,,Savanna Ly Nguyen,R,,CAN,22.4,6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,598,57,969,15
 2023-W-ITF-MEX-02A-2023,W40 Mexico City,Hard,32,40,20230206,101,219663,,,Lauren Proctor,U,,USA,26.0,222396,1,,Matilde Paoletti,R,,ITA,19.9,6-1 RET,3,Q1,,,,,,,,,,,,,,,,,,,,647,48,298,206
-2023-W-ITF-MEX-02A-2023,W40 Mexico City,Hard,32,40,20230206,102,202656,,,Estelle Cascino,R,,FRA,26.9,206406,13,,Berta Bonardi,U,,ARG,27.6,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,580,62,528,75
+2023-W-ITF-MEX-02A-2023,W40 Mexico City,Hard,32,40,20230206,102,202656,,,Estelle Cascino,R,,FRA,26.9,206406,13,,Berta Bonardi,R,,ARG,27.6,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,580,62,528,75
 2023-W-ITF-MEX-02A-2023,W40 Mexico City,Hard,32,40,20230206,103,213949,2,,Hanna Chang,U,,USA,24.9,213698,,,Maria Vittoria Viviani,R,,ITA,23.9,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,313,187,788,29
 2023-W-ITF-MEX-02A-2023,W40 Mexico City,Hard,32,40,20230206,104,222305,,,Romina Ccuno,R,,PER,20.4,215588,11,,Yasmine Mansouri,R,,FRA,21.7,6-7(5) 7-5 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,641,49,467,96
 2023-W-ITF-MEX-02A-2023,W40 Mexico City,Hard,32,40,20230206,105,214777,3,,Taylor Ng,U,,USA,27.5,259719,,WC,Ximena Senties,U,,MEX,16.6,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,326,181,,
@@ -6201,7 +6685,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-MEX-02A-2023,W40 Mexico City,Hard,32,40,20230206,207,223321,7,,Sofia Costoulas,U,,BEL,17.8,221099,9,,Rina Saigo,U,,JPN,22.3,6-2 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,364,146,425,114
 2023-W-ITF-MEX-02A-2023,W40 Mexico City,Hard,32,40,20230206,208,215019,15,,Maria Jose Portillo Ramirez,R,,MEX,23.7,202424,8,,Conny Perrin,R,174,SUI,32.1,5-7 6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,536,72,412,119
 2023-W-ITF-MEX-03A-2023,W60+H Irapuato,Hard,32,60,20230213,101,211222,1,,Jamie Loeb,R,168,USA,27.9,211043,,,Maria Paulina Perez Garcia,R,170,COL,27.0,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,230,288,714,36
-2023-W-ITF-MEX-03A-2023,W60+H Irapuato,Hard,32,60,20230213,102,223367,,,Maria Fernanda Navarro,U,,MEX,26.6,206406,15,,Berta Bonardi,U,,ARG,27.6,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,528,75
+2023-W-ITF-MEX-03A-2023,W60+H Irapuato,Hard,32,60,20230213,102,223367,,,Maria Fernanda Navarro,U,,MEX,26.6,206406,15,,Berta Bonardi,R,,ARG,27.6,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,528,75
 2023-W-ITF-MEX-03A-2023,W60+H Irapuato,Hard,32,60,20230213,103,215151,2,,Lina Glushko,U,,ISR,23.0,258191,,,Ana Grubor,U,,CAN,19.1,6-3 4-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,239,279,839,23
 2023-W-ITF-MEX-03A-2023,W60+H Irapuato,Hard,32,60,20230213,104,214297,11,,Jessie Aney,R,173,USA,24.8,259810,,,Jennifer Sabrina Moreno Rodriguez,U,,MEX,25.9,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,378,137,,
 2023-W-ITF-MEX-03A-2023,W60+H Irapuato,Hard,32,60,20230213,105,216579,3,,Weronika Falkowska,R,,POL,22.6,205344,,,Beatrice Gumulya,R,161,INA,32.1,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,253,259,1223,5
@@ -6339,6 +6823,30 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-SLO-09A-2023,W40 Murska Sobota,Hard,32,40,20230327,206,222092,6,,Radka Zelnickova,R,,SVK,19.7,222637,11,,Anika Jaskova,R,,SVK,19.9,6-3 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,494,87,703,39
 2023-W-ITF-SLO-09A-2023,W40 Murska Sobota,Hard,32,40,20230327,207,215372,7,,Ksenia Laskutova,R,,RUS,26.5,215909,10,,Adrienn Nagy,R,,HUN,22.0,6-2 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,517,81,566,68
 2023-W-ITF-SLO-09A-2023,W40 Murska Sobota,Hard,32,40,20230327,208,221626,8,,Linda Klimovicova,U,,CZE,18.7,221283,15,,Laura Radakovic,U,,BIH,21.9,6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,542,73,1208,6
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,101,213544,1,,Jana Fett,R,168,CRO,26.4,220769,,,Bojana Klincov,U,,SUI,21.7,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,254,263,596,61
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,102,214654,14,,Anna Turati,U,,ITA,25.8,220713,,,Nika Radisic,R,,SLO,23.0,7-5 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,404,128,543,72
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,103,202671,,,Cristina Andreea Mitu,R,175,ROU,31.5,222966,2,,Dominika Salkova,U,,CZE,18.7,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,817,26,272,248
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,104,214219,9,,Tessah Andrianjafitrimo,R,169,FRA,24.4,220735,,,Tina Nadine Smith,L,,AUS,20.8,2-6 6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,355,159,633,51
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,105,259799,3,,Mirra Andreeva,U,,RUS,15.9,221254,,,Nadine Keller,U,,SUI,22.9,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,312,201,477,92
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,106,221159,,WC,Alina Granwehr,U,,SUI,19.7,214691,13,,Ylona Georgiana Ghioroaie,U,,ROU,25.0,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,857,23,403,128
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,107,214247,4,,Lena Rueffer,R,,GER,24.6,222506,,,Anastasiya Konstantinovna Soboleva,U,,UKR,18.9,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,317,197,590,62
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,108,219983,12,,Olga Helmi,R,,DEN,23.0,215909,,,Adrienn Nagy,R,,HUN,22.0,4-6 6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,385,138,567,67
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,109,221116,5,,Jana Kolodynska,R,,BLR,19.6,221746,,,Oceane Babel,U,,FRA,19.1,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,329,183,453,98
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,110,202424,16,,Conny Perrin,R,174,SUI,32.2,259945,,WC,Liriza Selishta,U,,SUI,18.1,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,407,125,,
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,111,215693,6,,Michaela Bayerlova,U,,CZE,24.3,214599,,,Oana Gavrila,R,,ROU,24.9,6-4 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,337,176,472,92
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,112,215166,11,,Aneta Kladivova,R,,CZE,22.8,216173,,WC,Katerina Tsygourova,U,,SUI,22.9,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,379,141,844,24
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,113,220554,7,,Alice Tubello,U,,FRA,22.1,215431,,,Emily Appleton,U,,GBR,23.6,5-7 6-4 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,344,165,448,100
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,114,211820,10,,Martina Colmegna,R,,ITA,26.3,221055,,,Sina Herrmann,R,,GER,21.4,4-6 6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,358,158,542,73
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,115,216074,8,,Anna Siskova,U,,CZE,21.7,222008,,WC,Karolina Kozakova,R,,SUI,,6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,354,160,912,19
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,116,211539,,,Fiona Ferro,R,170,FRA,26.0,221190,15,,Julia Middendorf,R,170,GER,20.1,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,493,86,405,127
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,201,213544,1,,Jana Fett,R,168,CRO,26.4,214654,14,,Anna Turati,U,,ITA,25.8,6-2 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,254,263,404,128
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,202,214219,9,,Tessah Andrianjafitrimo,R,169,FRA,24.4,202671,,,Cristina Andreea Mitu,R,175,ROU,31.5,1-6 6-4 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,355,159,817,26
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,203,259799,3,,Mirra Andreeva,U,,RUS,15.9,221159,,WC,Alina Granwehr,U,,SUI,19.7,6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,312,201,857,23
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,204,214247,4,,Lena Rueffer,R,,GER,24.6,219983,12,,Olga Helmi,R,,DEN,23.0,6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,317,197,385,138
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,205,202424,16,,Conny Perrin,R,174,SUI,32.2,221116,5,,Jana Kolodynska,R,,BLR,19.6,7-6(2) 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,407,125,329,183
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,206,215693,6,,Michaela Bayerlova,U,,CZE,24.3,215166,11,,Aneta Kladivova,R,,CZE,22.8,2-6 6-4 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,337,176,379,141
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,207,220554,7,,Alice Tubello,U,,FRA,22.1,211820,10,,Martina Colmegna,R,,ITA,26.3,6-4 7-6(1),3,Q2,,,,,,,,,,,,,,,,,,,,344,165,358,158
+2023-W-ITF-SUI-01A-2023,W60 Chiasso,Clay,32,60,20230410,208,211539,,,Fiona Ferro,R,170,FRA,26.0,216074,8,,Anna Siskova,U,,CZE,21.7,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,493,86,354,160
 2023-W-ITF-SVK-01A-2023,W60 Trnava,Hard,32,60,20230227,101,222966,1,,Dominika Salkova,U,,CZE,18.6,220713,,,Nika Radisic,R,,SLO,22.9,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,281,223,536,71
 2023-W-ITF-SVK-01A-2023,W60 Trnava,Hard,32,60,20230227,102,233743,,WC,Nikola Daubnerova,U,,SVK,17.4,239156,16,,Lucija Ciric Bagaric,U,,CRO,19.1,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,727,35,460,96
 2023-W-ITF-SVK-01A-2023,W60 Trnava,Hard,32,60,20230227,103,222045,2,,Antonia Ruzic,R,,CRO,20.1,211779,,,Yana Morderger,R,,GER,25.9,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,295,208,471,92
@@ -6902,6 +7410,46 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-TUN-14A-2023,W15 Monastir,Hard,32,15,20230403,306,222193,,,Zixuan Zeng,U,,CHN,,260605,,,Patricia Grigoras,U,,USA,,6-3 2-6 10-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2023-W-ITF-TUN-14A-2023,W15 Monastir,Hard,32,15,20230403,307,222703,,,Ioana Zvonaru,R,,ROU,19.2,221889,8,,Chiara Di Tommaso,U,,AUS,20.8,7-6(2) 3-6 11-9,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2023-W-ITF-TUN-14A-2023,W15 Monastir,Hard,32,15,20230403,308,231638,9,,Helena Mohamed,U,,FRA,21.1,237484,,,Luise Reisel,U,,GER,20.9,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,102,245091,,,Kamila Kashaeva,U,,SUI,24.5,214244,,,Isha Budwal,U,,IND,24.1,6-2 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,103,261023,,,Oceanne Lopez,U,,BEL,,223175,,,Liz Badde,U,,LUX,19.5,1-6 6-2 10-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,106,263838,,,Chrystal Lopez,U,,BEL,,263839,,,Zaara Omar,U,,USA,,6-4 6-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,107,234491,,WC,Agostina Breval,U,,FRA,17.3,237484,,,Luise Reisel,U,,GER,20.9,6-4 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,110,260138,,,Gina Kondos,U,,USA,21.5,222442,,,Beatrice Laura Pirtac,U,,IRL,,4-6 6-3 10-7,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,111,238072,,,Kamola Amanova,U,,UZB,17.9,263867,,,Anna Kashyrina,U,,UKR,,7-5 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,114,222005,,,Elizabeth Kapari Bagerbaseh,R,,GHA,,263868,,,Tippi Dalle Grave,U,,MUS,,6-3 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,115,260537,,,Morane Meyers,U,,BEL,,260605,,,Patricia Grigoras,U,,USA,,6-1 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,118,234506,,,Isabelle Cherny,U,,GBR,19.0,221389,,,Wei Zheng,U,,CHN,24.9,6-4 6-2,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,119,260924,,,Yana Tsion,U,,RUS,,260584,,,Theodora Degelow,U,,GER,,4-6 7-6(4) 10-4,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,122,260911,,,Emma Martellenghi,U,,ITA,,261035,,,Kseniia Piskareva,U,,RUS,,6-3 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,123,220467,,,Honami Sodeyama,U,,JPN,22.1,263811,,,Trinity Ly,U,,CAN,,6-0 6-1,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,126,230872,,,Jade Marie,U,,FRA,19.1,260504,,,Elisabeth Junge Ilges,U,,GER,,7-5 6-3,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,127,215239,,,Diana Maria Mihail,R,,ROU,22.6,259978,,,Jasna Kaltak,U,,SWE,24.1,6-0 6-0,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,130,259756,,,Julia Peer,U,,ITA,17.4,215829,,,Delisha Guttikonda,U,,USA,,6-2 6-0,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,131,230121,,,Hanna Bougouffa,U,,FRA,19.1,260589,,,Liana Cammilleri,U,,GER,,6-0 6-0,3,R64,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,201,220430,1,,Mihaela Djakovic,R,,SRB,21.3,245091,,,Kamila Kashaeva,U,,SUI,24.5,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1154,8,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,202,246516,10,,Georgina Hays,U,,GBR,16.6,261023,,,Oceanne Lopez,U,,BEL,,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,203,249681,2,,Teja Tirunelveli,U,,USA,18.4,263838,,,Chrystal Lopez,U,,BEL,,3-6 6-3 10-6,3,R32,,,,,,,,,,,,,,,,,,,,1167,8,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,204,222520,16,,Yuna Ohashi,U,,JPN,,234491,,WC,Agostina Breval,U,,FRA,17.3,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,205,222413,3,,Natasha Sengphrachanh,R,,THA,,260138,,,Gina Kondos,U,,USA,21.5,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1235,5,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,206,231638,9,,Helena Mohamed,U,,FRA,21.1,238072,,,Kamola Amanova,U,,UZB,17.9,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,207,259845,4,,Ecaterina Visnevscaia,U,,MDA,23.3,222005,,,Elizabeth Kapari Bagerbaseh,R,,GHA,,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1245,5,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,208,260537,,,Morane Meyers,U,,BEL,,223344,15,,Elisabeth Iila,U,,EST,18.3,6-4 3-6 14-12,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,209,221016,5,,Esther Bataille,U,,FRA,22.1,234506,,,Isabelle Cherny,U,,GBR,19.0,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1263,5,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,210,260752,14,,Beverley Nyangon,U,,FRA,,260924,,,Yana Tsion,U,,RUS,,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,211,221963,6,,Alice Battesti,U,,FRA,,260911,,,Emma Martellenghi,U,,ITA,,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1263,5,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,212,215092,13,,Magdalini Adaloglou,U,,GRE,23.5,220467,,,Honami Sodeyama,U,,JPN,22.1,4-6 6-4 10-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,213,219872,7,,Milana Maslenkova,U,,UZB,21.6,230872,,,Jade Marie,U,,FRA,19.1,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1272,4,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,214,215239,,,Diana Maria Mihail,R,,ROU,22.6,259719,12,,Ximena Senties,U,,MEX,16.7,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,215,202529,8,,Natalia Orlova,R,,RUS,34.0,259756,,,Julia Peer,U,,ITA,17.4,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1313,3,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,216,221181,11,,Jiaqi Wang,U,,CHN,21.0,230121,,,Hanna Bougouffa,U,,FRA,19.1,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,301,220430,1,,Mihaela Djakovic,R,,SRB,21.3,246516,10,,Georgina Hays,U,,GBR,16.6,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1154,8,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,302,249681,2,,Teja Tirunelveli,U,,USA,18.4,222520,16,,Yuna Ohashi,U,,JPN,,6-4 0-6 10-7,3,R16,,,,,,,,,,,,,,,,,,,,1167,8,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,303,231638,9,,Helena Mohamed,U,,FRA,21.1,222413,3,,Natasha Sengphrachanh,R,,THA,,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,1235,5
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,304,259845,4,,Ecaterina Visnevscaia,U,,MDA,23.3,260537,,,Morane Meyers,U,,BEL,,5-7 7-5 10-4,3,R16,,,,,,,,,,,,,,,,,,,,1245,5,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,305,221016,5,,Esther Bataille,U,,FRA,22.1,260752,14,,Beverley Nyangon,U,,FRA,,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1263,5,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,306,221963,6,,Alice Battesti,U,,FRA,,215092,13,,Magdalini Adaloglou,U,,GRE,23.5,5-7 6-2 10-7,3,R16,,,,,,,,,,,,,,,,,,,,1263,5,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,307,219872,7,,Milana Maslenkova,U,,UZB,21.6,215239,,,Diana Maria Mihail,R,,ROU,22.6,5-7 6-3 10-5,3,R16,,,,,,,,,,,,,,,,,,,,1272,4,,
+2023-W-ITF-TUN-15A-2023,W15 Monastir,Hard,32,15,20230410,308,221181,11,,Jiaqi Wang,U,,CHN,21.0,202529,8,,Natalia Orlova,R,,RUS,34.0,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,1313,3
 2023-W-ITF-TUR-01A-2023,W15 Antalya,Clay,32,15,20230109,102,259866,,,Andanin Vilas,U,,ARG,19.1,252583,,,Sude Ince,U,,TUR,18.1,5-7 6-1 10-8,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2023-W-ITF-TUR-01A-2023,W15 Antalya,Clay,32,15,20230109,103,222196,,,Lucia Santos Sanchez,U,,ESP,,260850,,,Rianna Ioana Coreisa,U,,ROU,,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
 2023-W-ITF-TUR-01A-2023,W15 Antalya,Clay,32,15,20230109,107,223141,,,Sara Dols,U,,ESP,17.6,225864,,,Feyza Ebrar Aydin,U,,TUR,18.9,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
@@ -7470,6 +8018,62 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-TUR-13A-2023,W15 Antalya,Clay,32,15,20230403,306,221348,,,Eva Garkusha,L,,RUS,21.2,221377,6,,Fabienne Gettwart,U,,GER,27.2,4-6 7-5 10-6,3,Q3,,,,,,,,,,,,,,,,,,,,1273,4,845,24
 2023-W-ITF-TUR-13A-2023,W15 Antalya,Clay,32,15,20230403,307,213974,7,,Lamis Alhussein Abdel Aziz,U,,EGY,24.9,222558,,,Stefanie Auer,U,,AUT,,7-5 4-6 10-1,3,Q3,,,,,,,,,,,,,,,,,,,,942,17,,
 2023-W-ITF-TUR-13A-2023,W15 Antalya,Clay,32,15,20230403,308,234481,,,Carolin Raschdorf,U,,GER,16.5,221877,,,Zhanel Rustemova,U,,KAZ,18.8,6-4 3-6 10-7,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,101,221377,1,,Fabienne Gettwart,U,,GER,27.2,263814,,,Ulyana Romanova,U,,KAZ,,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,845,24,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,102,255664,,,Ipek Sakiroglu,U,,TUR,16.1,222539,,,Mariam Karadzhaeva,U,,RUS,,6-4 4-6 10-8,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,103,239132,,,Meryem Alexandra Guener,U,,GER,18.8,260841,,,Karina Jumazhanova,U,,KAZ,,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,104,221568,16,,Madelief Hageman,L,,NED,20.1,260022,,,Aggeliki Efthimiou,U,,GRE,18.3,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,1313,3,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,105,216256,2,,Linda Sevcikova,U,,CZE,24.8,260070,,,Veronika Udina,U,,RUS,17.4,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,943,17,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,106,252583,,,Sude Ince,U,,TUR,18.4,261959,,,Reece Viola Hamilton,U,,USA,,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,107,260264,,,Rebeka Antal,U,,ROU,18.2,263671,,,Ivana Gresova,U,,SVK,,6-4 4-6 10-8,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,108,263869,,WC,Ruien Zhang,U,,CHN,,221315,9,,Beatris Spasova,R,,BUL,21.0,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,1171,8
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,109,235161,3,,Irina Balus,U,,SVK,17.5,214938,,,Alana Tuayeva,U,,RUS,23.4,6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,965,16,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,110,260777,,,Lorena Schaedel,U,,GER,,260850,,,Rianna Ioana Coreisa,U,,ROU,,6-4 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,111,239126,,,Emma Slavikova,U,,CZE,20.2,263841,,WC,Yana Kim,U,,KAZ,,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,112,220645,13,,Franziska Sziedat,U,,GER,22.6,215452,,WC,Alexandra Diana Braga,U,,ROU,21.7,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,1272,4,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,113,259887,4,,Helena Buchwald,U,,GER,17.8,263755,,WC,Sofiya Volkova,U,,UZB,,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,1066,11,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,114,263870,,,Polina Sleptsova,U,,KAZ,,239130,,,Liva Yildiz,U,,GER,21.1,6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,115,260930,,,Valerija Maija Kargina,U,,LVA,,221346,,,Anastasia Mozgaleva,L,,RUS,21.4,7-5 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,116,239435,10,,Virginia Ferrara,U,,ITA,19.1,234508,,WC,Dasha Zhabotina,U,,UKR,18.4,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,1245,5,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,117,255666,5,,Anastasia Safta,U,,ROU,18.4,260448,,,Eline Moors,U,,BEL,,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,1108,10,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,118,231641,,,Phillippa Preugschat,U,,GER,20.5,260654,,,Maria Teodorescu,U,,ROU,,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,119,260450,,,Indira Marie Schmerling,U,,GER,,220772,,,Julia Victoria Rennert,U,,GER,22.2,3-4 RET,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,120,221348,12,,Eva Garkusha,L,,RUS,21.2,221714,,,Stefana Lazar,U,,ROU,21.1,2-6 6-4 10-4,3,Q1,,,,,,,,,,,,,,,,,,,,1272,4,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,121,259914,6,,Lara Smejkal,,,SLO,18.6,256727,,,Fatemesadat Zanjani,U,,IRI,18.6,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,1137,8,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,122,260226,,,Joy De Zeeuw,U,,NED,16.9,223343,,,Nikol Palecek,U,,SRB,19.4,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,123,223352,,,Darya Velikova,U,,BUL,18.6,260807,,,Stella Beldiman,U,,GER,,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,124,237476,15,,Ines Faltinger,U,,AUT,19.8,219927,,WC,Gozde Turhan,U,,TUR,21.3,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,1296,4,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,125,211638,7,,Madison Bourguignon,U,,USA,25.5,214840,,WC,Xiangruyi Ji,U,,CHN,24.1,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,1151,8,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,126,260254,,WC,Anamaria Federica Oana,U,,ROU,15.7,239158,,,Daria Zelinskaya,U,,RUS,18.6,6-3 5-7 10-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,127,260991,,,Alissia Chiara Gleixner,U,,DEU,,241728,,,Annemarie Lazar,U,,GER,20.9,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,128,222558,,,Stefanie Auer,U,,AUT,,220462,11,,Sabina Dadaciu,R,,USA,22.0,4-3 RET,3,Q1,,,,,,,,,,,,,,,,,,,,,,1251,5
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,129,223359,8,,Amelie Smejkalova,U,,CZE,18.1,245089,,,Tomiris Mussina,U,,KAZ,16.4,6-1 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,1167,8,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,130,256702,,,Vittoria Modesti,U,,ITA,20.7,223377,,,Fernanda Rain Contreras,U,,CHI,18.4,3-6 6-2 13-11,3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,131,220100,,,Nikoletta Muller,U,,HUN,22.7,260530,,,Stina Larsson,U,,SWE,,6-2 7-6(1),3,Q1,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,132,221371,14,,Lyubov Kostenko,R,,UKR,20.0,234481,,,Carolin Raschdorf,U,,GER,16.5,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,1296,4,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,201,221377,1,,Fabienne Gettwart,U,,GER,27.2,255664,,,Ipek Sakiroglu,U,,TUR,16.1,6-1 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,845,24,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,202,221568,16,,Madelief Hageman,L,,NED,20.1,239132,,,Meryem Alexandra Guener,U,,GER,18.8,6-0 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,1313,3,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,203,216256,2,,Linda Sevcikova,U,,CZE,24.8,252583,,,Sude Ince,U,,TUR,18.4,6-0 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,943,17,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,204,263869,,WC,Ruien Zhang,U,,CHN,,260264,,,Rebeka Antal,U,,ROU,18.2,6-1 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,205,235161,3,,Irina Balus,U,,SVK,17.5,260777,,,Lorena Schaedel,U,,GER,,6-3 7-6(4),3,Q2,,,,,,,,,,,,,,,,,,,,965,16,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,206,220645,13,,Franziska Sziedat,U,,GER,22.6,239126,,,Emma Slavikova,U,,CZE,20.2,7-5 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,1272,4,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,207,259887,4,,Helena Buchwald,U,,GER,17.8,263870,,,Polina Sleptsova,U,,KAZ,,6-2 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,1066,11,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,208,239435,10,,Virginia Ferrara,U,,ITA,19.1,260930,,,Valerija Maija Kargina,U,,LVA,,6-4 6-7(3) 10-5,3,Q2,,,,,,,,,,,,,,,,,,,,1245,5,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,209,255666,5,,Anastasia Safta,U,,ROU,18.4,231641,,,Phillippa Preugschat,U,,GER,20.5,6-1 7-6(2),3,Q2,,,,,,,,,,,,,,,,,,,,1108,10,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,210,221348,12,,Eva Garkusha,L,,RUS,21.2,260450,,,Indira Marie Schmerling,U,,GER,,6-0 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,1272,4,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,211,260226,,,Joy De Zeeuw,U,,NED,16.9,259914,6,,Lara Smejkal,,,SLO,18.6,6-1 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,,,1137,8
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,212,223352,,,Darya Velikova,U,,BUL,18.6,237476,15,,Ines Faltinger,U,,AUT,19.8,6-4 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,,,1296,4
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,213,260254,,WC,Anamaria Federica Oana,U,,ROU,15.7,211638,7,,Madison Bourguignon,U,,USA,25.5,6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,,,1151,8
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,214,222558,,,Stefanie Auer,U,,AUT,,260991,,,Alissia Chiara Gleixner,U,,DEU,,7-5 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,215,256702,,,Vittoria Modesti,U,,ITA,20.7,223359,8,,Amelie Smejkalova,U,,CZE,18.1,3-6 6-1 10-6,3,Q2,,,,,,,,,,,,,,,,,,,,,,1167,8
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,216,221371,14,,Lyubov Kostenko,R,,UKR,20.0,220100,,,Nikoletta Muller,U,,HUN,22.7,6-4 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,1296,4,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,301,221377,1,,Fabienne Gettwart,U,,GER,27.2,221568,16,,Madelief Hageman,L,,NED,20.1,7-6(0) 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,845,24,1313,3
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,302,216256,2,,Linda Sevcikova,U,,CZE,24.8,263869,,WC,Ruien Zhang,U,,CHN,,6-4 4-6 10-4,3,Q3,,,,,,,,,,,,,,,,,,,,943,17,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,303,235161,3,,Irina Balus,U,,SVK,17.5,220645,13,,Franziska Sziedat,U,,GER,22.6,6-1 6-0,3,Q3,,,,,,,,,,,,,,,,,,,,965,16,1272,4
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,304,239435,10,,Virginia Ferrara,U,,ITA,19.1,259887,4,,Helena Buchwald,U,,GER,17.8,6-0 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,1245,5,1066,11
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,305,221348,12,,Eva Garkusha,L,,RUS,21.2,255666,5,,Anastasia Safta,U,,ROU,18.4,6-3 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,1272,4,1108,10
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,306,260226,,,Joy De Zeeuw,U,,NED,16.9,223352,,,Darya Velikova,U,,BUL,18.6,6-2 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,307,260254,,WC,Anamaria Federica Oana,U,,ROU,15.7,222558,,,Stefanie Auer,U,,AUT,,6-4 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,,,,
+2023-W-ITF-TUR-14A-2023,W15 Antalya,Clay,32,15,20230410,308,256702,,,Vittoria Modesti,U,,ITA,20.7,221371,14,,Lyubov Kostenko,R,,UKR,20.0,6-3 7-5,3,Q3,,,,,,,,,,,,,,,,,,,,,,1296,4
 2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,101,214182,1,,Veronica Miroshnichenko,L,,RUS,25.1,256681,,,Saniya Singh,U,,USA,18.0,6-2 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,667,42,,
 2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,102,205941,11,,Ganna Poznikhirenko,R,,UKR,28.7,222161,,,Prathyusha Rachapudi,R,,IND,,6-1 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,1064,11,1241,5
 2023-W-ITF-USA-01A-2023,W25 Malibu CA,Hard,32,25,20230102,103,214301,2,,Tatiana Pieri,U,,ITA,23.7,214872,,,Mary Lewis,U,,USA,24.1,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,713,36,,
@@ -7698,7 +8302,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-USA-11A-2023,W25 Boca Raton FL,Clay,32,25,20230306,110,222458,11,,Pia Lovric,R,,SLO,20.8,259883,,,Wakana Sonobe,U,,JPN,15.1,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,582,62,1088,10
 2023-W-ITF-USA-11A-2023,W25 Boca Raton FL,Clay,32,25,20230306,111,215993,6,,Christina Rosca,U,,USA,25.6,222158,,WC,Amanda Carolina Nava Elkin,U,,MEX,,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,534,72,,
 2023-W-ITF-USA-11A-2023,W25 Boca Raton FL,Clay,32,25,20230306,112,259967,,,Sayaka Ishii,U,,JPN,17.5,203557,14,,Mana Ayukawa,R,,JPN,28.4,7-5 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,747,33,633,50
-2023-W-ITF-USA-11A-2023,W25 Boca Raton FL,Clay,32,25,20230306,113,206406,7,,Berta Bonardi,U,,ARG,27.7,239186,,,Lexington Reed,U,,USA,16.8,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,541,71,1073,11
+2023-W-ITF-USA-11A-2023,W25 Boca Raton FL,Clay,32,25,20230306,113,206406,7,,Berta Bonardi,R,,ARG,27.7,239186,,,Lexington Reed,U,,USA,16.8,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,541,71,1073,11
 2023-W-ITF-USA-11A-2023,W25 Boca Raton FL,Clay,32,25,20230306,114,215909,9,,Adrienn Nagy,R,,HUN,21.9,259857,,,Akasha Urhobo,U,,USA,16.1,6-4 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,552,69,949,16
 2023-W-ITF-USA-11A-2023,W25 Boca Raton FL,Clay,32,25,20230306,115,214877,8,,Makenna Jones,U,,USA,25.0,214136,,,Melany Solange Krywoj,R,,ARG,25.0,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,540,71,905,19
 2023-W-ITF-USA-11A-2023,W25 Boca Raton FL,Clay,32,25,20230306,116,222032,,,Gabriella Price,R,,USA,19.7,213530,15,,Allie Kiick,R,170,USA,27.6,5-5 RET,3,Q1,,,,,,,,,,,,,,,,,,,,739,34,653,45
@@ -7708,7 +8312,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-USA-11A-2023,W25 Boca Raton FL,Clay,32,25,20230306,204,220054,4,,Alexandra Vecic,U,,GER,21.1,216273,,WC,Yulia Starodubtsewa,U,,UKR,23.0,2-6 6-2 10-6,3,Q2,,,,,,,,,,,,,,,,,,,,519,77,,
 2023-W-ITF-USA-11A-2023,W25 Boca Raton FL,Clay,32,25,20230306,205,215386,5,,Vivian Wolff,R,,GER,24.4,222458,11,,Pia Lovric,R,,SLO,20.8,6-1 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,506,81,582,62
 2023-W-ITF-USA-11A-2023,W25 Boca Raton FL,Clay,32,25,20230306,206,259967,,,Sayaka Ishii,U,,JPN,17.5,215993,6,,Christina Rosca,U,,USA,25.6,6-3 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,747,33,534,72
-2023-W-ITF-USA-11A-2023,W25 Boca Raton FL,Clay,32,25,20230306,207,215909,9,,Adrienn Nagy,R,,HUN,21.9,206406,7,,Berta Bonardi,U,,ARG,27.7,6-2 3-6 10-7,3,Q2,,,,,,,,,,,,,,,,,,,,552,69,541,71
+2023-W-ITF-USA-11A-2023,W25 Boca Raton FL,Clay,32,25,20230306,207,215909,9,,Adrienn Nagy,R,,HUN,21.9,206406,7,,Berta Bonardi,R,,ARG,27.7,6-2 3-6 10-7,3,Q2,,,,,,,,,,,,,,,,,,,,552,69,541,71
 2023-W-ITF-USA-11A-2023,W25 Boca Raton FL,Clay,32,25,20230306,208,214877,8,,Makenna Jones,U,,USA,25.0,222032,,,Gabriella Price,R,,USA,19.7,6-2 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,540,71,739,34
 2023-W-ITF-USA-12A-2023,W25 Jackson MS,Clay,32,25,20230403,102,215085,10,,Zoe Hitt,R,,USA,22.0,263842,,WC,Ellie Hogue,U,,USA,,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,1218,6,,
 2023-W-ITF-USA-12A-2023,W25 Jackson MS,Clay,32,25,20230403,104,260514,11,,Ena Koike,U,,JPN,,263843,,,Isabella Dunlap,U,,USA,,6-3 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,1224,6,,
@@ -7727,6 +8331,30 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-ITF-USA-12A-2023,W25 Jackson MS,Clay,32,25,20230403,206,205941,6,,Ganna Poznikhirenko,R,,UKR,28.9,260716,16,,Monique Woog,U,,USA,,6-3 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,806,27,,
 2023-W-ITF-USA-12A-2023,W25 Jackson MS,Clay,32,25,20230403,207,221697,12,,Yu Chen,U,,UNK,22.8,214862,7,,Martina Okalova,U,,SVK,25.8,7-6(7) 6-7(3) 10-6,3,Q2,,,,,,,,,,,,,,,,,,,,1317,3,808,27
 2023-W-ITF-USA-12A-2023,W25 Jackson MS,Clay,32,25,20230403,208,220520,8,,Mccartney Kessler,U,,USA,23.7,215477,13,,Deniza Marcinkevica,U,,LAT,23.1,6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,830,25,,
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,101,214777,1,,Taylor Ng,U,,USA,27.6,259733,,,Kaitlin Quevedo,U,,USA,17.1,6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,306,203,672,44
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,102,214262,,,Ena Shibahara,R,170,USA,25.1,215794,11,,Hurricane Tyra Black,R,,USA,22.1,3-0 RET,3,Q1,,,,,,,,,,,,,,,,,,,,584,64,459,97
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,103,222866,,WC,Katherine Hui,U,,USA,,214826,2,,Susan Bandecchi,R,,SUI,24.7,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,986,15,310,201
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,104,222299,14,,Adriana Reami,R,,USA,25.4,202496,,,Samantha Crawford,R,188,USA,28.1,6-2 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,489,87,536,75
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,105,214779,,,Sara Daavettila,U,,USA,25.3,215314,3,,En Shuo Liang,U,,TPE,22.5,6-4 3-0 RET,3,Q1,,,,,,,,,,,,,,,,,,,,692,41,311,201
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,106,206075,16,,Hiroko Kuwata,R,,JPN,32.3,213541,,,Alexandra Osborne,L,175,AUS,28.0,5-7 3-0 RET,3,Q1,,,,,,,,,,,,,,,,,,,,512,81,690,41
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,107,214297,4,,Jessie Aney,R,173,USA,24.9,221023,,,Victoria Hu,U,,USA,20.9,2-6 6-4 11-9,3,Q1,,,,,,,,,,,,,,,,,,,,367,150,577,66
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,108,214877,15,,Makenna Jones,U,,USA,25.1,249679,,WC,Tatum Evans,U,,USA,17.6,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,511,81,893,20
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,109,213949,5,,Hanna Chang,U,,USA,25.1,221127,,WC,Tara Malik,U,,USA,20.5,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,388,135,1272,4
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,110,239475,13,,Victoria Mboko,R,,CAN,16.6,219663,,,Lauren Proctor,U,,USA,26.2,5-7 6-2 11-9,3,Q1,,,,,,,,,,,,,,,,,,,,485,88,620,55
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,111,239436,,,Kayla Cross,L,,CAN,18.0,214191,6,,Seone Mendez,R,,AUS,23.9,6-3 2-1 RET,3,Q1,,,,,,,,,,,,,,,,,,,,621,54,402,129
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,112,260714,,WC,Mayu Crossley,U,,JPN,,215763,12,,Sofia Sewing,R,170,USA,23.7,6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,480,91
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,113,263857,,,Yuliia Starodubtseva,U,,UKR,,214541,7,,Fanny Stollar,R,172,HUN,24.4,7-5 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,,,420,116
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,114,211646,9,,Oana Georgeta Simion,R,,ROU,27.0,262891,,WC,Monika Ekstrand,U,,USA,,5-7 6-4 10-5,3,Q1,,,,,,,,,,,,,,,,,,,,445,102,,
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,115,206277,8,,Marine Partaud,R,,FRA,28.4,213789,,,Katarina Jokic,U,,BIH,24.9,6-4 7-6(5),3,Q1,,,,,,,,,,,,,,,,,,,,425,112,591,62
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,116,214182,,,Veronica Miroshnichenko,L,,RUS,25.3,221020,10,,Madison Sieg,R,,USA,19.8,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,632,51,458,97
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,201,214262,,,Ena Shibahara,R,170,USA,25.1,214777,1,,Taylor Ng,U,,USA,27.6,5-7 6-4 16-14,3,Q2,,,,,,,,,,,,,,,,,,,,584,64,306,203
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,202,222866,,WC,Katherine Hui,U,,USA,,222299,14,,Adriana Reami,R,,USA,25.4,6-3 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,986,15,489,87
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,203,214779,,,Sara Daavettila,U,,USA,25.3,206075,16,,Hiroko Kuwata,R,,JPN,32.3,6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,692,41,512,81
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,204,214877,15,,Makenna Jones,U,,USA,25.1,214297,4,,Jessie Aney,R,173,USA,24.9,6-7(2) 6-3 11-9,3,Q2,,,,,,,,,,,,,,,,,,,,511,81,367,150
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,205,213949,5,,Hanna Chang,U,,USA,25.1,239475,13,,Victoria Mboko,R,,CAN,16.6,6-4 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,388,135,485,88
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,206,239436,,,Kayla Cross,L,,CAN,18.0,260714,,WC,Mayu Crossley,U,,JPN,,7-5 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,621,54,,
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,207,263857,,,Yuliia Starodubtseva,U,,UKR,,211646,9,,Oana Georgeta Simion,R,,ROU,27.0,6-1 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,,,445,102
+2023-W-ITF-USA-16A-2023,W25 Boca Raton FL,Clay,32,25,20230410,208,206277,8,,Marine Partaud,R,,FRA,28.4,214182,,,Veronica Miroshnichenko,L,,RUS,25.3,6-2 5-7 11-9,3,Q2,,,,,,,,,,,,,,,,,,,,425,112,632,51
 2023-1065,Cali 125,Clay,32,C,20230130,269,206430,1,,Carolina Alves,U,,BRA,26.7,215459,,,Emily Seibold,R,,GER,23.0,6-4 6-3,3,Q2,92,1,1,57,32,21,14,10,1,4,1,3,47,22,11,12,9,0,5,216,301,461,97
 2023-1065,Cali 125,Clay,32,C,20230130,268,211820,5,,Martina Colmegna,R,,ITA,26.1,223335,,,Cadence Brace,R,,CAN,17.9,6-1 6-4,3,Q2,100,0,4,59,43,29,7,8,2,4,0,4,64,42,21,7,9,5,11,401,123,434,108
 2023-1065,Cali 125,Clay,32,C,20230130,267,211225,,SR,Quinn Gleason,R,178,USA,28.2,214020,8,,Amina Anshba,L,,RUS,23.3,4-6 6-4 6-2,3,Q2,138,0,0,86,62,42,14,14,0,2,0,4,86,57,38,14,14,10,14,746,32,430,110
@@ -8081,7 +8709,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-2082,Austin,Hard,32,I,20230227,264,201586,6,,Heather Watson,R,170,GBR,30.7,214604,7,,Maria Carle,R,,ARG,23.0,6-4 7-5,3,Q2,110,0,2,63,32,21,20,11,3,6,1,5,70,44,25,10,11,1,6,145,454,153,426
 2023-2082,Austin,Hard,32,I,20230227,263,221905,,,Robin Montgomery,L,,USA,18.4,214839,1,,Jodie Burrage,R,,GBR,23.7,6-4 7-5,3,Q1,99,5,8,78,44,32,14,11,5,8,4,2,63,34,25,10,10,5,9,189,341,129,515
 2023-2082,Austin,Hard,32,I,20230227,262,220722,,,Elvina Kalieva,R,,USA,19.5,203475,10,,Carol Zhao,R,165,CAN,27.6,7-6(3) 6-4,3,Q1,102,3,7,68,35,25,15,11,0,4,2,5,72,42,27,12,11,3,8,235,281,168,384
-2023-2082,Austin,Hard,32,I,20230227,261,201535,2,,Coco Vandeweghe,R,185,USA,31.2,214247,,,Lena Rueffer,U,,GER,24.5,6-4 6-1,3,Q1,77,15,6,67,29,24,22,9,7,7,0,2,55,36,18,13,8,5,8,136,489,303,195
+2023-2082,Austin,Hard,32,I,20230227,261,201535,2,,Coco Vandeweghe,R,185,USA,31.2,214247,,,Lena Rueffer,R,,GER,24.5,6-4 6-1,3,Q1,77,15,6,67,29,24,22,9,7,7,0,2,55,36,18,13,8,5,8,136,489,303,195
 2023-2082,Austin,Hard,32,I,20230227,260,211635,12,,Louisa Chirico,R,175,USA,26.7,215627,,WC,Nicole Khirin,R,,ISR,22.1,6-3 6-4,3,Q1,91,0,3,61,31,22,17,10,8,10,6,9,69,33,19,17,9,11,15,172,378,494,83
 2023-2082,Austin,Hard,32,I,20230227,259,222965,3,,Erika Andreeva,R,,RUS,18.6,214646,,,Xiaodi You,U,,CHN,26.7,2-6 6-2 7-6(1),3,Q1,159,0,6,91,48,26,20,14,12,20,2,3,88,50,27,14,14,8,16,135,492,293,209
 2023-2082,Austin,Hard,32,I,20230227,258,221909,8,,Ashlyn Krueger,R,185,USA,18.8,239383,,,Sara Bejlek,L,,CZE,17.0,6-0 6-3,3,Q1,63,4,1,41,28,21,8,7,0,0,0,3,56,38,20,5,8,6,11,155,417,166,385
@@ -8194,7 +8822,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-894,Bogota,Clay,32,I,20230403,258,206430,,,Carolina Alves,U,,BRA,26.9,210705,7,,Irina Bara,R,,ROU,28.0,1-6 6-3 6-2,3,Q1,135,2,10,77,37,27,15,12,6,11,0,5,99,68,40,9,12,14,20,239,275,195,339
 2023-894,Bogota,Clay,32,I,20230403,257,215798,4,,Rosa Vicens Mas,U,,ESP,22.7,215131,,,Nefisa Berberovic,U,,BIH,23.7,4-6 6-3 6-2,3,Q1,127,0,4,102,72,44,14,14,7,12,1,6,67,34,24,9,13,1,8,177,375,318,193
 2023-894,Bogota,Clay,32,I,20230403,256,213576,,,Iryna Shymanovich,R,,BLR,25.7,211713,10,,Jaqueline Cristian,R,180,ROU,24.8,6-1 6-3,3,Q1,66,4,5,52,34,25,8,8,2,3,1,4,64,40,20,9,8,5,10,200,334,176,375
-2023-894,Bogota,Clay,32,I,20230403,255,221257,5,,Sinja Kraus,R,,AUT,20.9,214247,,,Lena Rueffer,U,,GER,24.6,6-4 3-6 6-2,3,Q1,118,5,7,81,51,36,14,13,3,5,6,7,98,54,33,22,14,8,12,168,391,315,197
+2023-894,Bogota,Clay,32,I,20230403,255,221257,5,,Sinja Kraus,R,,AUT,20.9,214247,,,Lena Rueffer,R,,GER,24.6,6-4 3-6 6-2,3,Q1,118,5,7,81,51,36,14,13,3,5,6,7,98,54,33,22,14,8,12,168,391,315,197
 2023-894,Bogota,Clay,32,I,20230403,254,203435,12,,Dalila Jakupovic,R,178,SLO,32.0,210303,,,Kathinka Von Deichmann,R,176,LIE,28.8,6-7(1) 6-3 6-4,3,Q1,153,4,8,121,84,56,17,16,6,8,1,16,97,54,33,24,15,2,6,211,316,332,179
 2023-894,Bogota,Clay,32,I,20230403,253,220733,6,,Carole Monnet,L,,FRA,21.3,222000,,WC,Maria Camila Torres Murcia,L,,COL,20.3,6-1 7-5,3,Q1,102,1,16,76,42,21,14,9,6,12,0,5,77,56,20,7,10,10,20,202,331,992,14
 2023-894,Bogota,Clay,32,I,20230403,252,211552,9,,Harmony Tan,R,,FRA,25.5,214091,,WC,Maria Fernanda Navarro Oliva,U,,MEX,26.7,6-1 6-4,3,Q1,87,3,6,58,28,20,15,9,6,8,0,3,63,37,16,14,8,3,8,216,308,615,55
