@@ -262,7 +262,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-ARG-01A-2017,Benavides $15K,Hard,32,15,20170522,11,215159,,,Victoria Ariadna Beccio,U,,ARG,19.5,206358,,,Claudia Williams,U,,NZL,21.2,4-6 7-6(2) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1244,3,1238,3
 2017-W-WITF-ARG-01A-2017,Benavides $15K,Hard,32,15,20170522,12,211921,4,,Julieta Lara Estable,R,,ARG,19.8,208733,,,Magdalena Ekert,R,,POL,29.0,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,569,46,1244,3
 2017-W-WITF-ARG-01A-2017,Benavides $15K,Hard,32,15,20170522,13,211103,5,,Shelby Talcott,U,,USA,24.3,215158,,,Maria Del Rosario Vazquez,U,,ARG,18.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,631,37,,
-2017-W-WITF-ARG-01A-2017,Benavides $15K,Hard,32,15,20170522,14,220446,,Q,Jazmin Ortenzi,U,,ARG,15.5,215787,,,Florencia Rossi,U,,URU,18.9,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2017-W-WITF-ARG-01A-2017,Benavides $15K,Hard,32,15,20170522,14,220446,,Q,Jazmin Ortenzi,R,,ARG,15.5,215787,,,Florencia Rossi,U,,URU,18.9,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-ARG-01A-2017,Benavides $15K,Hard,32,15,20170522,15,216150,,,Lara Escauriza,R,,PAR,18.6,206147,,,Sofia Luini,R,,ARG,24.5,6-2 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1148,5,901,13
 2017-W-WITF-ARG-01A-2017,Benavides $15K,Hard,32,15,20170522,16,206343,,,Stephanie Mariel Petit,R,,ARG,20.7,206345,2,,Victoria Bosio,R,,ARG,22.6,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,856,15,510,57
 2017-W-WITF-ARG-01A-2017,Benavides $15K,Hard,32,15,20170522,17,206146,1,WC,Catalina Pella,R,,ARG,24.3,211638,,,Madison Bourguignon,U,,USA,19.6,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,310,143,1108,6
@@ -271,7 +271,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-ARG-01A-2017,Benavides $15K,Hard,32,15,20170522,20,211920,6,,Martina Capurro Taborda,L,,ARG,19.4,214554,,WC,Paula Baranano,U,,ARG,17.6,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,663,32,,
 2017-W-WITF-ARG-01A-2017,Benavides $15K,Hard,32,15,20170522,21,216398,,Q,Kariann Pierre Louis,R,,USA,18.3,205842,8,,Carla Lucero,R,,ARG,26.5,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,825,17
 2017-W-WITF-ARG-01A-2017,Benavides $15K,Hard,32,15,20170522,22,211921,4,,Julieta Lara Estable,R,,ARG,19.8,215159,,,Victoria Ariadna Beccio,U,,ARG,19.5,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,569,46,1244,3
-2017-W-WITF-ARG-01A-2017,Benavides $15K,Hard,32,15,20170522,23,211103,5,,Shelby Talcott,U,,USA,24.3,220446,,Q,Jazmin Ortenzi,U,,ARG,15.5,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,631,37,,
+2017-W-WITF-ARG-01A-2017,Benavides $15K,Hard,32,15,20170522,23,211103,5,,Shelby Talcott,U,,USA,24.3,220446,,Q,Jazmin Ortenzi,R,,ARG,15.5,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,631,37,,
 2017-W-WITF-ARG-01A-2017,Benavides $15K,Hard,32,15,20170522,24,206343,,,Stephanie Mariel Petit,R,,ARG,20.7,216150,,,Lara Escauriza,R,,PAR,18.6,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,856,15,1148,5
 2017-W-WITF-ARG-01A-2017,Benavides $15K,Hard,32,15,20170522,25,206146,1,WC,Catalina Pella,R,,ARG,24.3,211464,7,,Naomi Totka,L,,HUN,21.5,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,310,143,750,24
 2017-W-WITF-ARG-01A-2017,Benavides $15K,Hard,32,15,20170522,26,204419,3,,Ana Sofia Sanchez,L,,MEX,23.1,211920,6,,Martina Capurro Taborda,L,,ARG,19.4,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,561,46,663,32
@@ -314,9 +314,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,1,205848,1,,Nathaly Kurata,R,,BRA,24.5,215140,,,Eugenia Ganga,U,,ARG,19.0,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,492,60,,
 2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,2,220697,,Q,Anfisa Danilchenko,R,,RUS,16.0,220698,,Q,Agostina Landa,U,,ARG,16.9,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,3,215989,,,Andrea Agostina Farulla Di Palma,R,,ARG,16.9,205837,,Q,Melina Ferrero,R,,ARG,25.0,6-2 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,4,214604,7,,Maria Carle,U,,ARG,17.5,206009,,,Giovanna Tomita,R,,BRA,24.4,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,921,12,1162,4
+2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,4,214604,7,,Maria Carle,R,,ARG,17.5,206009,,,Giovanna Tomita,R,,BRA,24.4,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,921,12,1162,4
 2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,5,211921,4,,Julieta Lara Estable,R,,ARG,20.1,215717,,WC,Candela Bugnon,U,,ARG,19.7,6-3 6-7(2) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,821,17,,
-2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,6,220446,,WC,Jazmin Ortenzi,U,,ARG,15.8,220444,,Q,Agustina Rimoldi Godoy,U,,ARG,17.9,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,6,220446,,WC,Jazmin Ortenzi,R,,ARG,15.8,220444,,Q,Agustina Rimoldi Godoy,U,,ARG,17.9,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,7,215159,,WC,Victoria Ariadna Beccio,U,,ARG,19.8,215158,,,Maria Del Rosario Vazquez,U,,ARG,18.8,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,8,210993,5,,Ivania Martinich,R,,CHI,22.1,206011,,,Flavia Guimaraes Bueno,U,,BRA,25.3,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,842,16,1191,4
 2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,9,215431,6,,Emily Appleton,U,,GBR,18.0,216572,,,Maria Jazmin Amicuzi,U,,ARG,17.7,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,898,13,,
@@ -328,29 +328,29 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,15,211601,,,Lucia Zelenka,R,,ARG,22.4,220442,,,Florencia Sofia Galdo,U,,ARG,20.1,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,16,206332,2,,Camila Giangreco Campiz,R,,PAR,21.0,220449,,WC,Dana Ferreyra,U,,ARG,15.8,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,578,43,,
 2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,17,205848,1,,Nathaly Kurata,R,,BRA,24.5,220697,,Q,Anfisa Danilchenko,R,,RUS,16.0,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,492,60,,
-2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,18,214604,7,,Maria Carle,U,,ARG,17.5,215989,,,Andrea Agostina Farulla Di Palma,R,,ARG,16.9,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,921,12,,
-2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,19,211921,4,,Julieta Lara Estable,R,,ARG,20.1,220446,,WC,Jazmin Ortenzi,U,,ARG,15.8,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,821,17,,
+2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,18,214604,7,,Maria Carle,R,,ARG,17.5,215989,,,Andrea Agostina Farulla Di Palma,R,,ARG,16.9,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,921,12,,
+2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,19,211921,4,,Julieta Lara Estable,R,,ARG,20.1,220446,,WC,Jazmin Ortenzi,R,,ARG,15.8,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,821,17,,
 2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,20,210993,5,,Ivania Martinich,R,,CHI,22.1,215159,,WC,Victoria Ariadna Beccio,U,,ARG,19.8,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,842,16,,
 2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,21,215431,6,,Emily Appleton,U,,GBR,18.0,215991,,Q,Ana Geller,U,,ARG,15.2,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,898,13,,
 2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,22,206343,3,,Stephanie Mariel Petit,R,,ARG,21.0,214554,,,Paula Baranano,U,,ARG,18.0,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,709,26,1105,6
 2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,23,211908,,,Daniela Macarena Lopez,U,,CHI,20.4,206147,8,,Sofia Luini,R,,ARG,24.8,6-3 4-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,943,11
 2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,24,206332,2,,Camila Giangreco Campiz,R,,PAR,21.0,211601,,,Lucia Zelenka,R,,ARG,22.4,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,578,43,,
-2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,25,214604,7,,Maria Carle,U,,ARG,17.5,205848,1,,Nathaly Kurata,R,,BRA,24.5,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,921,12,492,60
+2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,25,214604,7,,Maria Carle,R,,ARG,17.5,205848,1,,Nathaly Kurata,R,,BRA,24.5,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,921,12,492,60
 2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,26,210993,5,,Ivania Martinich,R,,CHI,22.1,211921,4,,Julieta Lara Estable,R,,ARG,20.1,7-5 1-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,842,16,821,17
 2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,27,206343,3,,Stephanie Mariel Petit,R,,ARG,21.0,215431,6,,Emily Appleton,U,,GBR,18.0,3-6 7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,709,26,898,13
 2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,28,206332,2,,Camila Giangreco Campiz,R,,PAR,21.0,211908,,,Daniela Macarena Lopez,U,,CHI,20.4,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,578,43,,
-2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,29,214604,7,,Maria Carle,U,,ARG,17.5,210993,5,,Ivania Martinich,R,,CHI,22.1,6-1 6-0,3,SF,,,,,,,,,,,,,,,,,,,,921,12,842,16
+2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,29,214604,7,,Maria Carle,R,,ARG,17.5,210993,5,,Ivania Martinich,R,,CHI,22.1,6-1 6-0,3,SF,,,,,,,,,,,,,,,,,,,,921,12,842,16
 2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,30,206343,3,,Stephanie Mariel Petit,R,,ARG,21.0,206332,2,,Camila Giangreco Campiz,R,,PAR,21.0,7-6(2) 7-5,3,SF,,,,,,,,,,,,,,,,,,,,709,26,578,43
-2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,31,214604,7,,Maria Carle,U,,ARG,17.5,206343,3,,Stephanie Mariel Petit,R,,ARG,21.0,2-6 6-2 7-6(5),3,F,,,,,,,,,,,,,,,,,,,,921,12,709,26
+2017-W-WITF-ARG-03A-2017,Buenos Aires $15K,Clay,32,15,20170911,31,214604,7,,Maria Carle,R,,ARG,17.5,206343,3,,Stephanie Mariel Petit,R,,ARG,21.0,2-6 6-2 7-6(5),3,F,,,,,,,,,,,,,,,,,,,,921,12,709,26
 2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,1,206344,,,Fernanda Brito,R,172,CHI,25.6,215717,,Q,Candela Bugnon,U,,ARG,19.8,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,391,95,,
 2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,2,216124,,,Valentina Abrile,U,,ARG,20.4,214105,,Q,Rocio Daniela Merlo,U,,ARG,22.4,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,3,215140,,,Eugenia Ganga,U,,ARG,19.1,211909,,,Catalina Paz Arce Riquelme,U,,CHI,23.7,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,4,206011,,,Flavia Guimaraes Bueno,U,,BRA,25.3,211921,6,,Julieta Lara Estable,R,,ARG,20.2,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1186,4,795,19
-2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,5,220446,,WC,Jazmin Ortenzi,U,,ARG,15.8,206345,,,Victoria Bosio,R,,ARG,22.9,4-6 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,570,44
+2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,5,220446,,WC,Jazmin Ortenzi,R,,ARG,15.8,206345,,,Victoria Bosio,R,,ARG,22.9,4-6 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,570,44
 2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,6,215461,,,Delfina Glorioso,U,,ARG,18.9,220802,,Q,Milagros Jaime,U,,ARG,17.5,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,7,215158,,,Maria Del Rosario Vazquez,U,,ARG,18.8,220803,,,Candela Bonivardi,U,,ARG,18.6,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,8,205842,7,,Carla Lucero,R,,ARG,26.9,202277,,,Mariana Correa,R,,ECU,32.9,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,991,10,1211,3
-2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,9,214136,,,Melany Solange Krywoj,U,,ARG,19.5,206147,,,Sofia Luini,R,,ARG,24.8,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1008,9,1186,4
+2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,9,214136,,,Melany Solange Krywoj,R,,ARG,19.5,206147,,,Sofia Luini,R,,ARG,24.8,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1008,9,1186,4
 2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,10,220700,,Q,Miyumi Milagros Saguchi,U,,ARG,18.5,220442,,,Florencia Sofia Galdo,U,,ARG,20.2,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,11,214887,,,Stephanie Nemtsova,R,,USA,19.4,211848,,,Rafaela Rodrigues Dos Santos,U,,BRA,19.5,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1024,8,1186,4
 2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,12,206343,4,,Stephanie Mariel Petit,R,,ARG,21.1,214503,,,Warona Mdlulwa,U,,RSA,17.6,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,649,33,1211,3
@@ -360,17 +360,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,16,206332,2,,Camila Giangreco Campiz,R,,PAR,21.1,219909,,,Dolores Molina Portela,U,,ARG,19.6,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,561,47,,
 2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,17,206344,,,Fernanda Brito,R,172,CHI,25.6,216124,,,Valentina Abrile,U,,ARG,20.4,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,391,95,,
 2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,18,215140,,,Eugenia Ganga,U,,ARG,19.1,206011,,,Flavia Guimaraes Bueno,U,,BRA,25.3,6-4 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,,,1186,4
-2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,19,220446,,WC,Jazmin Ortenzi,U,,ARG,15.8,215461,,,Delfina Glorioso,U,,ARG,18.9,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,19,220446,,WC,Jazmin Ortenzi,R,,ARG,15.8,215461,,,Delfina Glorioso,U,,ARG,18.9,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,20,205842,7,,Carla Lucero,R,,ARG,26.9,215158,,,Maria Del Rosario Vazquez,U,,ARG,18.8,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,991,10,,
-2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,21,214136,,,Melany Solange Krywoj,U,,ARG,19.5,220700,,Q,Miyumi Milagros Saguchi,U,,ARG,18.5,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1008,9,,
+2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,21,214136,,,Melany Solange Krywoj,R,,ARG,19.5,220700,,Q,Miyumi Milagros Saguchi,U,,ARG,18.5,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1008,9,,
 2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,22,206343,4,,Stephanie Mariel Petit,R,,ARG,21.1,214887,,,Stephanie Nemtsova,R,,USA,19.4,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,649,33,1024,8
 2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,23,214106,,,Guillermina Naya,R,,ARG,21.0,205938,,WC,Carolina Zeballos,U,,ARG,26.8,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,704,27,,
 2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,24,206332,2,,Camila Giangreco Campiz,R,,PAR,21.1,215159,,,Victoria Ariadna Beccio,U,,ARG,19.8,4-6 6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,561,47,1211,3
 2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,25,206344,,,Fernanda Brito,R,172,CHI,25.6,215140,,,Eugenia Ganga,U,,ARG,19.1,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,391,95,,
-2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,26,220446,,WC,Jazmin Ortenzi,U,,ARG,15.8,205842,7,,Carla Lucero,R,,ARG,26.9,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,991,10
-2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,27,206343,4,,Stephanie Mariel Petit,R,,ARG,21.1,214136,,,Melany Solange Krywoj,U,,ARG,19.5,3-6 6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,649,33,1008,9
+2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,26,220446,,WC,Jazmin Ortenzi,R,,ARG,15.8,205842,7,,Carla Lucero,R,,ARG,26.9,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,991,10
+2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,27,206343,4,,Stephanie Mariel Petit,R,,ARG,21.1,214136,,,Melany Solange Krywoj,R,,ARG,19.5,3-6 6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,649,33,1008,9
 2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,28,214106,,,Guillermina Naya,R,,ARG,21.0,206332,2,,Camila Giangreco Campiz,R,,PAR,21.1,7-6(4) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,704,27,561,47
-2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,29,206344,,,Fernanda Brito,R,172,CHI,25.6,220446,,WC,Jazmin Ortenzi,U,,ARG,15.8,2-6 6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,391,95,,
+2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,29,206344,,,Fernanda Brito,R,172,CHI,25.6,220446,,WC,Jazmin Ortenzi,R,,ARG,15.8,2-6 6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,391,95,,
 2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,30,206343,4,,Stephanie Mariel Petit,R,,ARG,21.1,214106,,,Guillermina Naya,R,,ARG,21.0,7-6(5) 6-3,3,SF,,,,,,,,,,,,,,,,,,,,649,33,704,27
 2017-W-WITF-ARG-04A-2017,Villa del Dique $15K,Clay,32,15,20171002,31,206344,,,Fernanda Brito,R,172,CHI,25.6,206343,4,,Stephanie Mariel Petit,R,,ARG,21.1,6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,391,95,649,33
 2017-W-WITF-ARG-05A-2017,Buenos Aires $15K,Clay,32,15,20171009,1,206344,,,Fernanda Brito,R,172,CHI,25.6,215835,,Q,Pamela Wu,U,,BRA,20.7,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,409,89,,
@@ -387,7 +387,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-ARG-05A-2017,Buenos Aires $15K,Clay,32,15,20171009,12,206332,3,,Camila Giangreco Campiz,R,,PAR,21.1,215159,,,Victoria Ariadna Beccio,U,,ARG,19.8,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,557,47,1208,3
 2017-W-WITF-ARG-05A-2017,Buenos Aires $15K,Clay,32,15,20171009,13,213753,,,Thaisa Grana Pedretti,U,,BRA,18.4,220700,,Q,Miyumi Milagros Saguchi,U,,ARG,18.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,702,27,,
 2017-W-WITF-ARG-05A-2017,Buenos Aires $15K,Clay,32,15,20171009,14,205837,,WC,Melina Ferrero,R,,ARG,25.0,214503,,,Warona Mdlulwa,U,,RSA,17.6,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1208,3
-2017-W-WITF-ARG-05A-2017,Buenos Aires $15K,Clay,32,15,20171009,15,214136,,,Melany Solange Krywoj,U,,ARG,19.6,216150,,,Lara Escauriza,R,,PAR,18.9,6-4 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1004,9,954,11
+2017-W-WITF-ARG-05A-2017,Buenos Aires $15K,Clay,32,15,20171009,15,214136,,,Melany Solange Krywoj,R,,ARG,19.6,216150,,,Lara Escauriza,R,,PAR,18.9,6-4 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1004,9,954,11
 2017-W-WITF-ARG-05A-2017,Buenos Aires $15K,Clay,32,15,20171009,16,211903,2,,Barbara Gatica,U,,CHI,21.1,205842,,,Carla Lucero,R,,ARG,26.9,5-7 6-2 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,443,76,1015,9
 2017-W-WITF-ARG-05A-2017,Buenos Aires $15K,Clay,32,15,20171009,17,206344,,,Fernanda Brito,R,172,CHI,25.6,215717,,,Candela Bugnon,U,,ARG,19.8,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,409,89,,
 2017-W-WITF-ARG-05A-2017,Buenos Aires $15K,Clay,32,15,20171009,18,215158,,,Maria Del Rosario Vazquez,U,,ARG,18.8,211921,8,,Julieta Lara Estable,R,,ARG,20.2,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,793,19
@@ -396,7 +396,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-ARG-05A-2017,Buenos Aires $15K,Clay,32,15,20171009,21,215991,,,Ana Geller,U,,ARG,15.3,214106,,,Guillermina Naya,R,,ARG,21.0,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,706,27
 2017-W-WITF-ARG-05A-2017,Buenos Aires $15K,Clay,32,15,20171009,22,206332,3,,Camila Giangreco Campiz,R,,PAR,21.1,206011,,,Flavia Guimaraes Bueno,U,,BRA,25.4,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,557,47,1181,4
 2017-W-WITF-ARG-05A-2017,Buenos Aires $15K,Clay,32,15,20171009,23,213753,,,Thaisa Grana Pedretti,U,,BRA,18.4,205837,,WC,Melina Ferrero,R,,ARG,25.0,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,702,27,,
-2017-W-WITF-ARG-05A-2017,Buenos Aires $15K,Clay,32,15,20171009,24,211903,2,,Barbara Gatica,U,,CHI,21.1,214136,,,Melany Solange Krywoj,U,,ARG,19.6,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,443,76,1004,9
+2017-W-WITF-ARG-05A-2017,Buenos Aires $15K,Clay,32,15,20171009,24,211903,2,,Barbara Gatica,U,,CHI,21.1,214136,,,Melany Solange Krywoj,R,,ARG,19.6,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,443,76,1004,9
 2017-W-WITF-ARG-05A-2017,Buenos Aires $15K,Clay,32,15,20171009,25,206344,,,Fernanda Brito,R,172,CHI,25.6,215158,,,Maria Del Rosario Vazquez,U,,ARG,18.8,6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,409,89,,
 2017-W-WITF-ARG-05A-2017,Buenos Aires $15K,Clay,32,15,20171009,26,206343,,,Stephanie Mariel Petit,R,,ARG,21.1,210993,7,,Ivania Martinich,R,,CHI,22.2,2-6 6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,648,33,780,20
 2017-W-WITF-ARG-05A-2017,Buenos Aires $15K,Clay,32,15,20171009,27,206332,3,,Camila Giangreco Campiz,R,,PAR,21.1,215991,,,Ana Geller,U,,ARG,15.3,2-6 6-2 3-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,557,47,,
@@ -530,7 +530,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-AUS-02B-2017,Launceston $60K,Hard,32,60,20170206,31,211222,6,,Jamie Loeb,R,168,USA,21.9,214461,4,,Tamara Zidansek,R,168,SLO,19.1,7-6(4) 6-3,3,F,,,,,,,,,,,,,,,,,,,,185,299,162,362
 2017-W-WITF-AUS-03A-2017,Clare $25K,Hard,32,25,20170227,1,206242,1,,Beatriz Haddad Maia,L,185,BRA,20.7,212043,,,Freya Christie,R,180,GBR,19.3,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,178,297,333,120
 2017-W-WITF-AUS-03A-2017,Clare $25K,Hard,32,25,20170227,2,214239,,Q,Sara Tomic,R,,AUS,19.0,215832,,WC,Gabriella Da Silva Fick,R,,AUS,16.5,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,489,62,1100,6
-2017-W-WITF-AUS-03A-2017,Clare $25K,Hard,32,25,20170227,3,202414,,Q,Catherine Harrison,U,,USA,22.8,201598,,,Noppawan Lertcheewakarn,R,167,THA,25.2,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,960,10,344,112
+2017-W-WITF-AUS-03A-2017,Clare $25K,Hard,32,25,20170227,3,202414,,Q,Catherine Harrison,R,,USA,22.8,201598,,,Noppawan Lertcheewakarn,R,167,THA,25.2,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,960,10,344,112
 2017-W-WITF-AUS-03A-2017,Clare $25K,Hard,32,25,20170227,4,202639,6,,Akiko Omae,R,162,JPN,24.0,216321,,WC,Genevieve Lorbergs,U,,AUS,26.8,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,229,223,,
 2017-W-WITF-AUS-03A-2017,Clare $25K,Hard,32,25,20170227,5,214149,3,,Viktoria Kuzmova,R,,SVK,18.8,214191,,Q,Seone Mendez,R,,AUS,17.7,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,209,252,878,13
 2017-W-WITF-AUS-03A-2017,Clare $25K,Hard,32,25,20170227,6,204411,,,Storm Sanders,L,166,AUS,22.5,205923,,Q,Abbie Myers,R,175,AUS,22.6,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,343,113,569,43
@@ -545,14 +545,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-AUS-03A-2017,Clare $25K,Hard,32,25,20170227,15,214312,,,Sherazad Reix,L,,FRA,27.9,214040,,WC,Kimberly Birrell,R,170,AUS,18.8,6-3 7-6(9),3,R32,,,,,,,,,,,,,,,,,,,,272,165,873,13
 2017-W-WITF-AUS-03A-2017,Clare $25K,Hard,32,25,20170227,16,205815,2,,Eri Hozumi,R,168,JPN,23.0,210931,,Q,Ching Wen Hsu,R,,TPE,20.5,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,192,281,386,93
 2017-W-WITF-AUS-03A-2017,Clare $25K,Hard,32,25,20170227,17,206242,1,,Beatriz Haddad Maia,L,185,BRA,20.7,214239,,Q,Sara Tomic,R,,AUS,19.0,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,178,297,489,62
-2017-W-WITF-AUS-03A-2017,Clare $25K,Hard,32,25,20170227,18,202414,,Q,Catherine Harrison,U,,USA,22.8,202639,6,,Akiko Omae,R,162,JPN,24.0,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,960,10,229,223
+2017-W-WITF-AUS-03A-2017,Clare $25K,Hard,32,25,20170227,18,202414,,Q,Catherine Harrison,R,,USA,22.8,202639,6,,Akiko Omae,R,162,JPN,24.0,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,960,10,229,223
 2017-W-WITF-AUS-03A-2017,Clare $25K,Hard,32,25,20170227,19,214149,3,,Viktoria Kuzmova,R,,SVK,18.8,204411,,,Storm Sanders,L,166,AUS,22.5,5-7 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,209,252,343,113
 2017-W-WITF-AUS-03A-2017,Clare $25K,Hard,32,25,20170227,20,215018,8,,Destanee Aiava,R,175,AUS,16.8,211844,,Q,Haruka Kaji,R,,JPN,22.4,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,253,186,795,18
 2017-W-WITF-AUS-03A-2017,Clare $25K,Hard,32,25,20170227,21,211107,,,Katie Boulter,R,180,GBR,20.5,202693,,,Ya Hsuan Lee,R,165,TPE,21.6,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,348,108,261,177
 2017-W-WITF-AUS-03A-2017,Clare $25K,Hard,32,25,20170227,22,214954,,SR,Marketa Vondrousova,L,173,CZE,17.6,201529,4,,Kristie Ahn,R,165,USA,24.7,3-6 7-6(4) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,269,166,217,240
 2017-W-WITF-AUS-03A-2017,Clare $25K,Hard,32,25,20170227,23,214219,,,Tessah Andrianjafitrimo,R,169,FRA,18.3,202539,,WC,Alison Bai,R,170,AUS,27.1,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,305,135,432,76
 2017-W-WITF-AUS-03A-2017,Clare $25K,Hard,32,25,20170227,24,214312,,,Sherazad Reix,L,,FRA,27.9,205815,2,,Eri Hozumi,R,168,JPN,23.0,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,272,165,192,281
-2017-W-WITF-AUS-03A-2017,Clare $25K,Hard,32,25,20170227,25,206242,1,,Beatriz Haddad Maia,L,185,BRA,20.7,202414,,Q,Catherine Harrison,U,,USA,22.8,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,178,297,960,10
+2017-W-WITF-AUS-03A-2017,Clare $25K,Hard,32,25,20170227,25,206242,1,,Beatriz Haddad Maia,L,185,BRA,20.7,202414,,Q,Catherine Harrison,R,,USA,22.8,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,178,297,960,10
 2017-W-WITF-AUS-03A-2017,Clare $25K,Hard,32,25,20170227,26,215018,8,,Destanee Aiava,R,175,AUS,16.8,214149,3,,Viktoria Kuzmova,R,,SVK,18.8,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,253,186,209,252
 2017-W-WITF-AUS-03A-2017,Clare $25K,Hard,32,25,20170227,27,214954,,SR,Marketa Vondrousova,L,173,CZE,17.6,211107,,,Katie Boulter,R,180,GBR,20.5,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,269,166,348,108
 2017-W-WITF-AUS-03A-2017,Clare $25K,Hard,32,25,20170227,28,214219,,,Tessah Andrianjafitrimo,R,169,FRA,18.3,214312,,,Sherazad Reix,L,,FRA,27.9,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,305,135,272,165
@@ -1278,7 +1278,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-BRA-03A-2017,Campinas $15K,Clay,32,15,20170327,4,205848,5,,Nathaly Kurata,R,,BRA,24.1,216373,,Q,Zoe Kruger,U,,RSA,14.6,4-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,528,52,,
 2017-W-WITF-BRA-03A-2017,Campinas $15K,Clay,32,15,20170327,5,206194,3,,Gabriela Ce,L,,BRA,24.0,214554,,Q,Paula Baranano,U,,ARG,17.5,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,470,66,,
 2017-W-WITF-BRA-03A-2017,Campinas $15K,Clay,32,15,20170327,6,211848,,,Rafaela Rodrigues Dos Santos,U,,BRA,18.9,206011,,,Flavia Guimaraes Bueno,U,,BRA,24.8,6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1085,7,1134,5
-2017-W-WITF-BRA-03A-2017,Campinas $15K,Clay,32,15,20170327,7,214604,,Q,Maria Carle,U,,ARG,17.1,203357,,Q,Libby Muma,U,,USA,23.1,2-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1021,8
+2017-W-WITF-BRA-03A-2017,Campinas $15K,Clay,32,15,20170327,7,214604,,Q,Maria Carle,R,,ARG,17.1,203357,,Q,Libby Muma,U,,USA,23.1,2-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1021,8
 2017-W-WITF-BRA-03A-2017,Campinas $15K,Clay,32,15,20170327,8,211920,8,,Martina Capurro Taborda,L,,ARG,19.3,216574,,Q,Giovanna Ferreira Caputo,U,,BRA,18.7,7-6(7) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,669,30,,
 2017-W-WITF-BRA-03A-2017,Campinas $15K,Clay,32,15,20170327,9,214706,6,,Dana Kremer,R,,GER,19.5,214713,,Q,Camila Romero,R,175,ECU,18.4,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,582,43,,
 2017-W-WITF-BRA-03A-2017,Campinas $15K,Clay,32,15,20170327,10,206009,,Q,Giovanna Tomita,R,,BRA,23.9,213755,,,Erika Drozd Pereira,U,,BRA,19.9,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -1291,16 +1291,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-BRA-03A-2017,Campinas $15K,Clay,32,15,20170327,17,205591,1,,Paula Cristina Goncalves,R,173,BRA,26.6,220350,,WC,Ana Luiza Cruz,U,,BRA,15.5,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,187,287,,
 2017-W-WITF-BRA-03A-2017,Campinas $15K,Clay,32,15,20170327,18,205848,5,,Nathaly Kurata,R,,BRA,24.1,205933,,,Eduarda Piai,R,,BRA,25.2,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,528,52,914,12
 2017-W-WITF-BRA-03A-2017,Campinas $15K,Clay,32,15,20170327,19,206194,3,,Gabriela Ce,L,,BRA,24.0,211848,,,Rafaela Rodrigues Dos Santos,U,,BRA,18.9,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,470,66,1085,7
-2017-W-WITF-BRA-03A-2017,Campinas $15K,Clay,32,15,20170327,20,214604,,Q,Maria Carle,U,,ARG,17.1,211920,8,,Martina Capurro Taborda,L,,ARG,19.3,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,669,30
+2017-W-WITF-BRA-03A-2017,Campinas $15K,Clay,32,15,20170327,20,214604,,Q,Maria Carle,R,,ARG,17.1,211920,8,,Martina Capurro Taborda,L,,ARG,19.3,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,669,30
 2017-W-WITF-BRA-03A-2017,Campinas $15K,Clay,32,15,20170327,21,214706,6,,Dana Kremer,R,,GER,19.5,206009,,Q,Giovanna Tomita,R,,BRA,23.9,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,582,43,,
 2017-W-WITF-BRA-03A-2017,Campinas $15K,Clay,32,15,20170327,22,211921,4,,Julieta Lara Estable,R,,ARG,19.6,213753,,,Thaisa Grana Pedretti,U,,BRA,17.8,4-6 7-6(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,525,53,744,23
 2017-W-WITF-BRA-03A-2017,Campinas $15K,Clay,32,15,20170327,23,211903,7,,Barbara Gatica,U,,CHI,20.6,206147,,,Sofia Luini,R,,ARG,24.3,7-6(3) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,592,41,879,13
 2017-W-WITF-BRA-03A-2017,Campinas $15K,Clay,32,15,20170327,24,206343,,,Stephanie Mariel Petit,R,,ARG,20.5,206345,2,,Victoria Bosio,R,,ARG,22.4,6-3 1-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,1041,8,456,69
 2017-W-WITF-BRA-03A-2017,Campinas $15K,Clay,32,15,20170327,25,205591,1,,Paula Cristina Goncalves,R,173,BRA,26.6,205848,5,,Nathaly Kurata,R,,BRA,24.1,6-3 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,187,287,528,52
-2017-W-WITF-BRA-03A-2017,Campinas $15K,Clay,32,15,20170327,26,214604,,Q,Maria Carle,U,,ARG,17.1,206194,3,,Gabriela Ce,L,,BRA,24.0,1-6 6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,,,470,66
+2017-W-WITF-BRA-03A-2017,Campinas $15K,Clay,32,15,20170327,26,214604,,Q,Maria Carle,R,,ARG,17.1,206194,3,,Gabriela Ce,L,,BRA,24.0,1-6 6-2 7-5,3,QF,,,,,,,,,,,,,,,,,,,,,,470,66
 2017-W-WITF-BRA-03A-2017,Campinas $15K,Clay,32,15,20170327,27,214706,6,,Dana Kremer,R,,GER,19.5,211921,4,,Julieta Lara Estable,R,,ARG,19.6,6-3 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,582,43,525,53
 2017-W-WITF-BRA-03A-2017,Campinas $15K,Clay,32,15,20170327,28,206343,,,Stephanie Mariel Petit,R,,ARG,20.5,211903,7,,Barbara Gatica,U,,CHI,20.6,7-5 3-6 5-2 RET,3,QF,,,,,,,,,,,,,,,,,,,,1041,8,592,41
-2017-W-WITF-BRA-03A-2017,Campinas $15K,Clay,32,15,20170327,29,205591,1,,Paula Cristina Goncalves,R,173,BRA,26.6,214604,,Q,Maria Carle,U,,ARG,17.1,6-3 4-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,187,287,,
+2017-W-WITF-BRA-03A-2017,Campinas $15K,Clay,32,15,20170327,29,205591,1,,Paula Cristina Goncalves,R,173,BRA,26.6,214604,,Q,Maria Carle,R,,ARG,17.1,6-3 4-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,187,287,,
 2017-W-WITF-BRA-03A-2017,Campinas $15K,Clay,32,15,20170327,30,206343,,,Stephanie Mariel Petit,R,,ARG,20.5,214706,6,,Dana Kremer,R,,GER,19.5,7-6(2) 3-6 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,,1041,8,582,43
 2017-W-WITF-BRA-03A-2017,Campinas $15K,Clay,32,15,20170327,31,205591,1,,Paula Cristina Goncalves,R,173,BRA,26.6,206343,,,Stephanie Mariel Petit,R,,ARG,20.5,6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,187,287,1041,8
 2017-W-WITF-BRA-03B-2017,Sao Jose Dos Campos $15K,Clay,32,15,20170403,1,206345,1,,Victoria Bosio,R,,ARG,22.4,202277,,,Mariana Correa,R,,ECU,32.4,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,477,66,1157,5
@@ -1313,7 +1313,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-BRA-03B-2017,Sao Jose Dos Campos $15K,Clay,32,15,20170403,8,214706,5,,Dana Kremer,R,,GER,19.5,215140,,Q,Eugenia Ganga,U,,ARG,18.6,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,584,43,,
 2017-W-WITF-BRA-03B-2017,Sao Jose Dos Campos $15K,Clay,32,15,20170403,9,211920,7,,Martina Capurro Taborda,L,,ARG,19.3,210584,,,Fiona Codino,R,,FRA,21.5,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,670,30,777,20
 2017-W-WITF-BRA-03B-2017,Sao Jose Dos Campos $15K,Clay,32,15,20170403,10,206147,,,Sofia Luini,R,,ARG,24.3,216574,,WC,Giovanna Ferreira Caputo,U,,BRA,18.7,7-6(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,874,13,,
-2017-W-WITF-BRA-03B-2017,Sao Jose Dos Campos $15K,Clay,32,15,20170403,11,214604,,SE,Maria Carle,U,,ARG,17.1,214605,,Q,Agustina Chlpac,U,,ARG,20.1,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2017-W-WITF-BRA-03B-2017,Sao Jose Dos Campos $15K,Clay,32,15,20170403,11,214604,,SE,Maria Carle,R,,ARG,17.1,214605,,Q,Agustina Chlpac,U,,ARG,20.1,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-BRA-03B-2017,Sao Jose Dos Campos $15K,Clay,32,15,20170403,12,205848,4,,Nathaly Kurata,R,,BRA,24.1,203510,,,Nathalia Rossi,L,,BRA,27.9,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,543,48,933,11
 2017-W-WITF-BRA-03B-2017,Sao Jose Dos Campos $15K,Clay,32,15,20170403,13,211903,6,,Barbara Gatica,U,,CHI,20.6,213897,,Q,Maria Silva,R,,BRA,19.6,6-4 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,602,39,,
 2017-W-WITF-BRA-03B-2017,Sao Jose Dos Campos $15K,Clay,32,15,20170403,14,203357,,Q,Libby Muma,U,,USA,23.1,215629,,WC,Alexandra Ferreira Da Silva,U,,BRA,15.5,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1025,8,,
@@ -1324,7 +1324,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-BRA-03B-2017,Sao Jose Dos Campos $15K,Clay,32,15,20170403,19,211921,3,,Julieta Lara Estable,R,,ARG,19.7,206011,,,Flavia Guimaraes Bueno,U,,BRA,24.8,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,519,53,1138,5
 2017-W-WITF-BRA-03B-2017,Sao Jose Dos Campos $15K,Clay,32,15,20170403,20,214706,5,,Dana Kremer,R,,GER,19.5,205933,,,Eduarda Piai,R,,BRA,25.3,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,584,43,912,12
 2017-W-WITF-BRA-03B-2017,Sao Jose Dos Campos $15K,Clay,32,15,20170403,21,211920,7,,Martina Capurro Taborda,L,,ARG,19.3,206147,,,Sofia Luini,R,,ARG,24.3,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,670,30,874,13
-2017-W-WITF-BRA-03B-2017,Sao Jose Dos Campos $15K,Clay,32,15,20170403,22,205848,4,,Nathaly Kurata,R,,BRA,24.1,214604,,SE,Maria Carle,U,,ARG,17.1,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,543,48,,
+2017-W-WITF-BRA-03B-2017,Sao Jose Dos Campos $15K,Clay,32,15,20170403,22,205848,4,,Nathaly Kurata,R,,BRA,24.1,214604,,SE,Maria Carle,R,,ARG,17.1,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,543,48,,
 2017-W-WITF-BRA-03B-2017,Sao Jose Dos Campos $15K,Clay,32,15,20170403,23,211903,6,,Barbara Gatica,U,,CHI,20.6,203357,,Q,Libby Muma,U,,USA,23.1,4-6 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,602,39,1025,8
 2017-W-WITF-BRA-03B-2017,Sao Jose Dos Campos $15K,Clay,32,15,20170403,24,206194,2,,Gabriela Ce,L,,BRA,24.0,216373,,Q,Zoe Kruger,U,,RSA,14.6,7-6(0) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,474,66,,
 2017-W-WITF-BRA-03B-2017,Sao Jose Dos Campos $15K,Clay,32,15,20170403,25,206343,,,Stephanie Mariel Petit,R,,ARG,20.6,206009,,WC,Giovanna Tomita,R,,BRA,24.0,6-2 3-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,1045,8,,
@@ -1744,9 +1744,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-CHI-01A-2017,Santiago $15K,Clay,32,15,20171127,5,206344,,,Fernanda Brito,R,172,CHI,25.7,215741,,WC,Valentina Andrea Vasquez Pongruber,U,,CHI,16.6,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,388,101,,
 2017-W-WITF-CHI-01A-2017,Santiago $15K,Clay,32,15,20171127,6,215943,,,Alexa Ryngler,U,,USA,16.2,215158,,,Maria Del Rosario Vazquez,U,,ARG,19.0,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,889,14,,
 2017-W-WITF-CHI-01A-2017,Santiago $15K,Clay,32,15,20171127,7,215717,,,Candela Bugnon,U,,ARG,19.9,220282,,Q,Andrea Duva,R,,USA,23.3,6-2 1-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2017-W-WITF-CHI-01A-2017,Santiago $15K,Clay,32,15,20171127,8,204420,7,,Marcela Zacarias,R,,MEX,23.6,220446,,,Jazmin Ortenzi,U,,ARG,16.0,6-1 7-6(0),3,R32,,,,,,,,,,,,,,,,,,,,523,57,1091,6
+2017-W-WITF-CHI-01A-2017,Santiago $15K,Clay,32,15,20171127,8,204420,7,,Marcela Zacarias,R,,MEX,23.6,220446,,,Jazmin Ortenzi,R,,ARG,16.0,6-1 7-6(0),3,R32,,,,,,,,,,,,,,,,,,,,523,57,1091,6
 2017-W-WITF-CHI-01A-2017,Santiago $15K,Clay,32,15,20171127,9,201532,,,Anastasia Pivovarova,R,181,RUS,27.4,206332,,,Camila Giangreco Campiz,R,,PAR,21.2,3-6 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,575,45,500,62
-2017-W-WITF-CHI-01A-2017,Santiago $15K,Clay,32,15,20171127,10,214136,,,Melany Solange Krywoj,U,,ARG,19.7,211908,,,Daniela Macarena Lopez,U,,CHI,20.6,3-6 7-6(4) 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,848,17,,
+2017-W-WITF-CHI-01A-2017,Santiago $15K,Clay,32,15,20171127,10,214136,,,Melany Solange Krywoj,R,,ARG,19.7,211908,,,Daniela Macarena Lopez,U,,CHI,20.6,3-6 7-6(4) 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,848,17,,
 2017-W-WITF-CHI-01A-2017,Santiago $15K,Clay,32,15,20171127,11,216150,,,Lara Escauriza,R,,PAR,19.1,216373,,,Zoe Kruger,U,,RSA,15.3,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,912,13,945,11
 2017-W-WITF-CHI-01A-2017,Santiago $15K,Clay,32,15,20171127,12,206430,4,,Carolina Alves,U,,BRA,21.5,213557,,,Maria Gutierrez Carrasco,U,,ESP,20.1,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,442,82,776,21
 2017-W-WITF-CHI-01A-2017,Santiago $15K,Clay,32,15,20171127,13,211903,,,Barbara Gatica,U,,CHI,21.2,215757,,WC,Florencia Massardo Brain,U,,CHI,17.6,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,458,75,,
@@ -1757,7 +1757,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-CHI-01A-2017,Santiago $15K,Clay,32,15,20171127,18,206343,8,,Stephanie Mariel Petit,R,,ARG,21.2,210993,,,Ivania Martinich,R,,CHI,22.3,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,531,54,741,24
 2017-W-WITF-CHI-01A-2017,Santiago $15K,Clay,32,15,20171127,19,206344,,,Fernanda Brito,R,172,CHI,25.7,215943,,,Alexa Ryngler,U,,USA,16.2,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,388,101,889,14
 2017-W-WITF-CHI-01A-2017,Santiago $15K,Clay,32,15,20171127,20,204420,7,,Marcela Zacarias,R,,MEX,23.6,215717,,,Candela Bugnon,U,,ARG,19.9,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,523,57,,
-2017-W-WITF-CHI-01A-2017,Santiago $15K,Clay,32,15,20171127,21,201532,,,Anastasia Pivovarova,R,181,RUS,27.4,214136,,,Melany Solange Krywoj,U,,ARG,19.7,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,575,45,848,17
+2017-W-WITF-CHI-01A-2017,Santiago $15K,Clay,32,15,20171127,21,201532,,,Anastasia Pivovarova,R,181,RUS,27.4,214136,,,Melany Solange Krywoj,R,,ARG,19.7,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,575,45,848,17
 2017-W-WITF-CHI-01A-2017,Santiago $15K,Clay,32,15,20171127,22,206430,4,,Carolina Alves,U,,BRA,21.5,216150,,,Lara Escauriza,R,,PAR,19.1,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,442,82,912,13
 2017-W-WITF-CHI-01A-2017,Santiago $15K,Clay,32,15,20171127,23,210138,,,Noelia Zeballos,R,168,BOL,23.5,211903,,,Barbara Gatica,U,,CHI,21.2,2-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,712,27,458,75
 2017-W-WITF-CHI-01A-2017,Santiago $15K,Clay,32,15,20171127,24,204419,2,,Ana Sofia Sanchez,L,,MEX,23.6,201550,,,Tamaryn Hendler,L,,BEL,25.2,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,359,119,568,46
@@ -1776,7 +1776,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-CHI-02A-2017,Santiago $25K,Clay,32,25,20171204,6,213557,,,Maria Gutierrez Carrasco,U,,ESP,20.2,206011,,Q,Flavia Guimaraes Bueno,U,,BRA,25.5,6-1 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,776,21,1144,5
 2017-W-WITF-CHI-02A-2017,Santiago $25K,Clay,32,25,20171204,7,211903,,,Barbara Gatica,U,,CHI,21.3,215158,,,Maria Del Rosario Vazquez,U,,ARG,19.0,3-6 6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,458,75,,
 2017-W-WITF-CHI-02A-2017,Santiago $25K,Clay,32,25,20171204,8,206430,7,,Carolina Alves,U,,BRA,21.6,211908,,,Daniela Macarena Lopez,U,,CHI,20.6,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,442,82,,
-2017-W-WITF-CHI-02A-2017,Santiago $25K,Clay,32,25,20171204,9,206329,,,Montserrat Gonzalez,R,170,PAR,23.4,214136,,Q,Melany Solange Krywoj,U,,ARG,19.7,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,413,90,848,17
+2017-W-WITF-CHI-02A-2017,Santiago $25K,Clay,32,25,20171204,9,206329,,,Montserrat Gonzalez,R,170,PAR,23.4,214136,,Q,Melany Solange Krywoj,R,,ARG,19.7,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,413,90,848,17
 2017-W-WITF-CHI-02A-2017,Santiago $25K,Clay,32,25,20171204,10,216373,,Q,Zoe Kruger,U,,RSA,15.3,220684,,,Jimar Geraldine Gerald Gonzalez,R,,CHI,15.8,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,945,11,,
 2017-W-WITF-CHI-02A-2017,Santiago $25K,Clay,32,25,20171204,11,213753,,,Thaisa Grana Pedretti,U,,BRA,18.5,206345,,,Victoria Bosio,R,,ARG,23.1,3-6 7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,572,46,586,43
 2017-W-WITF-CHI-02A-2017,Santiago $25K,Clay,32,25,20171204,12,204420,,,Marcela Zacarias,R,,MEX,23.6,211719,4,,Shilin Xu,R,,CHN,19.8,W/O,3,R32,,,,,,,,,,,,,,,,,,,,523,57,393,96
@@ -2585,7 +2585,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-CZE-02A-2017,Prerov $15K,Clay,32,15,20170612,9,202451,,,Nicole Rottmann,U,,AUT,27.9,211698,7,,Pernilla Mendesova,R,,CZE,23.0,2-6 7-6(3) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,845,16,662,32
 2017-W-WITF-CZE-02A-2017,Prerov $15K,Clay,32,15,20170612,10,216225,,WC,Denisa Hindova,U,,CZE,14.9,214003,,Q,Nikola Tomanova,R,,CZE,21.2,4-6 7-6(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1170,4
 2017-W-WITF-CZE-02A-2017,Prerov $15K,Clay,32,15,20170612,11,215166,,WC,Aneta Kladivova,R,,CZE,17.0,215505,,,Laura Svatikova,R,,SVK,23.1,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1225,3,921,12
-2017-W-WITF-CZE-02A-2017,Prerov $15K,Clay,32,15,20170612,12,216186,,Q,Aneta Laboutkova,U,,CZE,17.0,212053,3,,Anastasia Pribylova,U,,RUS,21.3,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,455,69
+2017-W-WITF-CZE-02A-2017,Prerov $15K,Clay,32,15,20170612,12,216186,,Q,Aneta Laboutkova,L,,CZE,17.0,212053,3,,Anastasia Pribylova,U,,RUS,21.3,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,455,69
 2017-W-WITF-CZE-02A-2017,Prerov $15K,Clay,32,15,20170612,13,214004,5,,Vendula Zovincova,R,,CZE,20.1,216185,,,Karolina Berankova,R,,CZE,16.6,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,598,40,932,11
 2017-W-WITF-CZE-02A-2017,Prerov $15K,Clay,32,15,20170612,14,214894,,,Tereza Prochazkova,U,,CZE,17.9,216188,,Q,Klara Hajkova,R,,CZE,18.1,6-4 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,859,15,,
 2017-W-WITF-CZE-02A-2017,Prerov $15K,Clay,32,15,20170612,15,203284,,,Katerina Vankova,L,,CZE,27.4,216074,,Q,Anna Siskova,U,,CZE,15.9,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,727,25,,
@@ -2595,7 +2595,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-CZE-02A-2017,Prerov $15K,Clay,32,15,20170612,19,214956,4,,Miriam Kolodziejova,R,,CZE,20.1,215712,,Q,Nicole Gadient,U,,SUI,18.8,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,468,65,,
 2017-W-WITF-CZE-02A-2017,Prerov $15K,Clay,32,15,20170612,20,206145,,,Diana Sumova,U,,CZE,22.7,213796,8,,Petra Januskova,R,,CAN,26.2,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,796,19,734,24
 2017-W-WITF-CZE-02A-2017,Prerov $15K,Clay,32,15,20170612,21,202451,,,Nicole Rottmann,U,,AUT,27.9,216225,,WC,Denisa Hindova,U,,CZE,14.9,2-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,845,16,,
-2017-W-WITF-CZE-02A-2017,Prerov $15K,Clay,32,15,20170612,22,215166,,WC,Aneta Kladivova,R,,CZE,17.0,216186,,Q,Aneta Laboutkova,U,,CZE,17.0,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1225,3,,
+2017-W-WITF-CZE-02A-2017,Prerov $15K,Clay,32,15,20170612,22,215166,,WC,Aneta Kladivova,R,,CZE,17.0,216186,,Q,Aneta Laboutkova,L,,CZE,17.0,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1225,3,,
 2017-W-WITF-CZE-02A-2017,Prerov $15K,Clay,32,15,20170612,23,214004,5,,Vendula Zovincova,R,,CZE,20.1,214894,,,Tereza Prochazkova,U,,CZE,17.9,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,598,40,859,15
 2017-W-WITF-CZE-02A-2017,Prerov $15K,Clay,32,15,20170612,24,201649,2,,Lenka Jurikova,R,,SVK,26.8,203284,,,Katerina Vankova,L,,CZE,27.4,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,397,89,727,25
 2017-W-WITF-CZE-02A-2017,Prerov $15K,Clay,32,15,20170612,25,215437,6,,Monika Kilnarova,U,,CZE,17.6,205873,1,,Anna Morgina,R,170,RUS,25.8,7-6(3) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,630,36,372,104
@@ -2737,7 +2737,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-CZE-05A-2017,Ricany $15K,Clay,32,15,20170828,12,201657,4,,Nastja Kolar,R,176,SLO,23.1,213581,,Q,Kristyna Hrabalova,U,,CZE,21.4,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,590,41,,
 2017-W-WITF-CZE-05A-2017,Ricany $15K,Clay,32,15,20170828,13,214270,8,,Lisa Ponomar,R,180,GER,20.2,214254,,,Alice Rame,U,,FRA,19.8,6-2 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,683,29,794,19
 2017-W-WITF-CZE-05A-2017,Ricany $15K,Clay,32,15,20170828,14,203516,,,Nadiya Kolb,R,,UKR,24.6,215607,,Q,Laura Maluniakova,U,,SVK,19.4,6-3 1-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,900,13,,
-2017-W-WITF-CZE-05A-2017,Ricany $15K,Clay,32,15,20170828,15,216186,,WC,Aneta Laboutkova,U,,CZE,17.3,216256,,WC,Linda Sevcikova,U,,CZE,19.2,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2017-W-WITF-CZE-05A-2017,Ricany $15K,Clay,32,15,20170828,15,216186,,WC,Aneta Laboutkova,L,,CZE,17.3,216256,,WC,Linda Sevcikova,U,,CZE,19.2,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-CZE-05A-2017,Ricany $15K,Clay,32,15,20170828,16,206145,,,Diana Sumova,U,,CZE,22.9,206175,2,,Tess Sugnaux,R,,SUI,22.4,3-6 7-6(1) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,692,28,498,57
 2017-W-WITF-CZE-05A-2017,Ricany $15K,Clay,32,15,20170828,17,214004,,,Vendula Zovincova,R,,CZE,20.3,214003,,Q,Nikola Tomanova,R,,CZE,21.4,3-6 7-6(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,685,29,1171,4
 2017-W-WITF-CZE-05A-2017,Ricany $15K,Clay,32,15,20170828,18,214894,,,Tereza Prochazkova,U,,CZE,18.1,203284,7,,Katerina Vankova,L,,CZE,27.6,5-7 6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,952,11,795,19
@@ -2746,7 +2746,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-CZE-05A-2017,Ricany $15K,Clay,32,15,20170828,21,214624,,,Anastasia Detiuc,U,,MDA,18.7,213594,5,,Sandra Jamrichova,U,,SVK,19.9,0-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,810,18,618,37
 2017-W-WITF-CZE-05A-2017,Ricany $15K,Clay,32,15,20170828,22,201657,4,,Nastja Kolar,R,176,SLO,23.1,215166,,,Aneta Kladivova,R,,CZE,17.2,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,590,41,809,18
 2017-W-WITF-CZE-05A-2017,Ricany $15K,Clay,32,15,20170828,23,214270,8,,Lisa Ponomar,R,180,GER,20.2,203516,,,Nadiya Kolb,R,,UKR,24.6,6-2 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,683,29,900,13
-2017-W-WITF-CZE-05A-2017,Ricany $15K,Clay,32,15,20170828,24,206145,,,Diana Sumova,U,,CZE,22.9,216186,,WC,Aneta Laboutkova,U,,CZE,17.3,W/O,3,R16,,,,,,,,,,,,,,,,,,,,692,28,,
+2017-W-WITF-CZE-05A-2017,Ricany $15K,Clay,32,15,20170828,24,206145,,,Diana Sumova,U,,CZE,22.9,216186,,WC,Aneta Laboutkova,L,,CZE,17.3,W/O,3,R16,,,,,,,,,,,,,,,,,,,,692,28,,
 2017-W-WITF-CZE-05A-2017,Ricany $15K,Clay,32,15,20170828,25,214894,,,Tereza Prochazkova,U,,CZE,18.1,214004,,,Vendula Zovincova,R,,CZE,20.3,6-0 6-1,3,QF,,,,,,,,,,,,,,,,,,,,952,11,685,29
 2017-W-WITF-CZE-05A-2017,Ricany $15K,Clay,32,15,20170828,26,214716,,,Jana Jablonovska,R,,SVK,21.5,215520,,WC,Johana Markova,U,,CZE,18.2,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,1010,9,897,13
 2017-W-WITF-CZE-05A-2017,Ricany $15K,Clay,32,15,20170828,27,201657,4,,Nastja Kolar,R,176,SLO,23.1,214624,,,Anastasia Detiuc,U,,MDA,18.7,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,590,41,810,18
@@ -2764,7 +2764,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-CZE-07A-2017,Prague $15K,Clay,32,15,20170911,8,206070,7,,Sofiya Kovalets,R,,UKR,23.1,216256,,WC,Linda Sevcikova,U,,CZE,19.2,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,628,36,,
 2017-W-WITF-CZE-07A-2017,Prague $15K,Clay,32,15,20170911,9,214004,8,,Vendula Zovincova,R,,CZE,20.4,220335,,Q,Sophia Intert,U,,GER,19.2,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,711,26,,
 2017-W-WITF-CZE-07A-2017,Prague $15K,Clay,32,15,20170911,10,214885,,,Meritxell Perera Ros,U,,ESP,18.9,220690,,Q,Petra Sedlackova,U,,CZE,16.0,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,827,17,,
-2017-W-WITF-CZE-07A-2017,Prague $15K,Clay,32,15,20170911,11,204268,,Q,Natalie Proese,R,,GER,26.9,214136,,,Melany Solange Krywoj,U,,ARG,19.5,6-4 2-6 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1157,4,1004,9
+2017-W-WITF-CZE-07A-2017,Prague $15K,Clay,32,15,20170911,11,204268,,Q,Natalie Proese,R,,GER,26.9,214136,,,Melany Solange Krywoj,R,,ARG,19.5,6-4 2-6 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,1157,4,1004,9
 2017-W-WITF-CZE-07A-2017,Prague $15K,Clay,32,15,20170911,12,211698,,,Pernilla Mendesova,R,,CZE,23.2,214148,4,,Magdalena Pantuckova,U,,CZE,18.6,6-2 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,918,12,585,42
 2017-W-WITF-CZE-07A-2017,Prague $15K,Clay,32,15,20170911,13,201657,5,,Nastja Kolar,R,176,SLO,23.1,211266,,,Yulia Kulikova,U,,RUS,28.0,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,565,45,866,15
 2017-W-WITF-CZE-07A-2017,Prague $15K,Clay,32,15,20170911,14,214743,,Q,Lena Ruppert,U,,GER,18.8,215515,,WC,Katerina Filip,R,,SWE,18.0,6-4 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -2791,7 +2791,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-CZE-08A-2017,Brno $15K,Clay,32,15,20170925,4,214004,7,,Vendula Zovincova,R,,CZE,20.4,215750,,,Ana Biskic,U,,CRO,18.2,3-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,682,29,784,19
 2017-W-WITF-CZE-08A-2017,Brno $15K,Clay,32,15,20170925,5,211406,,,Gabriela Pantuckova,R,,CZE,22.6,205981,,,Gabriela Horackova,R,,CZE,26.3,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,539,51,894,13
 2017-W-WITF-CZE-08A-2017,Brno $15K,Clay,32,15,20170925,6,216256,,,Linda Sevcikova,U,,CZE,19.2,220741,,WC,Katerina Koci,U,,CZE,15.1,6-2 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2017-W-WITF-CZE-08A-2017,Brno $15K,Clay,32,15,20170925,7,202436,,,Reka Luca Jani,R,161,HUN,26.1,216186,,WC,Aneta Laboutkova,U,,CZE,17.3,6-2 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,943,11,1216,3
+2017-W-WITF-CZE-08A-2017,Brno $15K,Clay,32,15,20170925,7,202436,,,Reka Luca Jani,R,161,HUN,26.1,216186,,WC,Aneta Laboutkova,L,,CZE,17.3,6-2 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,943,11,1216,3
 2017-W-WITF-CZE-08A-2017,Brno $15K,Clay,32,15,20170925,8,215166,,,Aneta Kladivova,R,,CZE,17.3,214148,5,,Magdalena Pantuckova,U,,CZE,18.6,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,793,19,693,28
 2017-W-WITF-CZE-08A-2017,Brno $15K,Clay,32,15,20170925,9,206145,,,Diana Sumova,U,,CZE,23.0,204268,,Q,Natalie Proese,R,,GER,26.9,4-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,690,28,1160,4
 2017-W-WITF-CZE-08A-2017,Brno $15K,Clay,32,15,20170925,10,214041,,,Bianka Bekefi,R,,HUN,20.5,213581,,,Kristyna Hrabalova,U,,CZE,21.4,6-1 5-7 6-0,3,R32,,,,,,,,,,,,,,,,,,,,818,18,,
@@ -2820,7 +2820,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-CZE-09A-2017,Milovice $15K,Hard,32,15,20171127,2,202631,,,Lara Michel,L,173,SUI,25.9,203965,,,Bettina Pirker,U,,AUT,34.5,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,857,16,,
 2017-W-WITF-CZE-09A-2017,Milovice $15K,Hard,32,15,20171127,3,211698,,,Pernilla Mendesova,R,,CZE,23.4,220689,,,Karolina Vlckova,U,,CZE,17.1,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,838,17,,
 2017-W-WITF-CZE-09A-2017,Milovice $15K,Hard,32,15,20171127,4,211432,7,,Eden Silva,R,,GBR,21.7,215166,,,Aneta Kladivova,R,,CZE,17.5,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,545,49,762,22
-2017-W-WITF-CZE-09A-2017,Milovice $15K,Hard,32,15,20171127,5,214247,,,Lena Rueffer,U,,GER,19.2,211885,,,Alice Matteucci,R,,ITA,22.1,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,611,39,400,94
+2017-W-WITF-CZE-09A-2017,Milovice $15K,Hard,32,15,20171127,5,214247,,,Lena Rueffer,R,,GER,19.2,211885,,,Alice Matteucci,R,,ITA,22.1,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,611,39,400,94
 2017-W-WITF-CZE-09A-2017,Milovice $15K,Hard,32,15,20171127,6,214770,,,Emilie Francati,R,,DEN,20.4,214716,,Q,Jana Jablonovska,R,,SVK,21.8,7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,650,34,863,16
 2017-W-WITF-CZE-09A-2017,Milovice $15K,Hard,32,15,20171127,7,206248,,,Iva Primorac,U,,CRO,21.6,215192,,Q,Veronika Vlkovska,U,,CZE,20.2,3-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,728,25,,
 2017-W-WITF-CZE-09A-2017,Milovice $15K,Hard,32,15,20171127,8,203284,,,Katerina Vankova,L,,CZE,27.9,211556,5,,Helene Scholsen,R,,BEL,21.8,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,811,19,472,69
@@ -2831,10 +2831,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-CZE-09A-2017,Milovice $15K,Hard,32,15,20171127,13,214743,,Q,Lena Ruppert,U,,GER,19.0,214158,,,Anastasiya Shoshyna,R,,UKR,19.9,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,559,47
 2017-W-WITF-CZE-09A-2017,Milovice $15K,Hard,32,15,20171127,14,214004,,,Vendula Zovincova,R,,CZE,20.6,220593,,Q,Kristina Milenkovic,R,,SUI,16.4,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,681,30,975,10
 2017-W-WITF-CZE-09A-2017,Milovice $15K,Hard,32,15,20171127,15,210062,,Q,Dagmar Dudlakova,R,,CZE,27.0,212050,,,Nataliya Pogribnyak,U,,UKR,19.3,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2017-W-WITF-CZE-09A-2017,Milovice $15K,Hard,32,15,20171127,16,214956,2,,Miriam Kolodziejova,R,,CZE,20.6,216186,,,Aneta Laboutkova,U,,CZE,17.5,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,395,96,1156,4
+2017-W-WITF-CZE-09A-2017,Milovice $15K,Hard,32,15,20171127,16,214956,2,,Miriam Kolodziejova,R,,CZE,20.6,216186,,,Aneta Laboutkova,L,,CZE,17.5,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,395,96,1156,4
 2017-W-WITF-CZE-09A-2017,Milovice $15K,Hard,32,15,20171127,17,202706,,,Manon Arcangioli,R,162,FRA,23.2,202631,,,Lara Michel,L,173,SUI,25.9,6-3 6-7(7) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,383,103,857,16
 2017-W-WITF-CZE-09A-2017,Milovice $15K,Hard,32,15,20171127,18,211432,7,,Eden Silva,R,,GBR,21.7,211698,,,Pernilla Mendesova,R,,CZE,23.4,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,545,49,838,17
-2017-W-WITF-CZE-09A-2017,Milovice $15K,Hard,32,15,20171127,19,214770,,,Emilie Francati,R,,DEN,20.4,214247,,,Lena Rueffer,U,,GER,19.2,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,650,34,611,39
+2017-W-WITF-CZE-09A-2017,Milovice $15K,Hard,32,15,20171127,19,214770,,,Emilie Francati,R,,DEN,20.4,214247,,,Lena Rueffer,R,,GER,19.2,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,650,34,611,39
 2017-W-WITF-CZE-09A-2017,Milovice $15K,Hard,32,15,20171127,20,203284,,,Katerina Vankova,L,,CZE,27.9,206248,,,Iva Primorac,U,,CRO,21.6,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,811,19,728,25
 2017-W-WITF-CZE-09A-2017,Milovice $15K,Hard,32,15,20171127,21,206145,,,Diana Sumova,U,,CZE,23.1,215697,,,Arlinda Rushiti,R,,SUI,18.6,7-6(3) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,663,32,809,19
 2017-W-WITF-CZE-09A-2017,Milovice $15K,Hard,32,15,20171127,22,211700,4,,Barbora Stefkova,R,,CZE,22.6,214459,,,Lucia Bronzetti,R,,ITA,18.9,5-7 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,461,74,587,43
@@ -2857,9 +2857,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-CZE-10A-2017,Jablonec nad Nisou $15K,Carpet,32,15,20171204,8,206403,8,,Alena Fomina,R,,RUS,28.4,215166,,,Aneta Kladivova,R,,CZE,17.5,6-2 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,596,41,762,22
 2017-W-WITF-CZE-10A-2017,Jablonec nad Nisou $15K,Carpet,32,15,20171204,9,203514,,,Katarzyna Kawa,R,178,POL,25.0,220434,,WC,Kristyna Lavickova,U,,CZE,15.8,3-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,524,57,,
 2017-W-WITF-CZE-10A-2017,Jablonec nad Nisou $15K,Carpet,32,15,20171204,10,215697,,,Arlinda Rushiti,R,,SUI,18.6,214624,,,Anastasia Detiuc,U,,MDA,18.9,6-0 6-7(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,809,19,750,23
-2017-W-WITF-CZE-10A-2017,Jablonec nad Nisou $15K,Carpet,32,15,20171204,11,204366,,,Victoria Muntean,R,,FRA,20.8,216186,,,Aneta Laboutkova,U,,CZE,17.5,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,609,40,1156,4
+2017-W-WITF-CZE-10A-2017,Jablonec nad Nisou $15K,Carpet,32,15,20171204,11,204366,,,Victoria Muntean,R,,FRA,20.8,216186,,,Aneta Laboutkova,L,,CZE,17.5,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,609,40,1156,4
 2017-W-WITF-CZE-10A-2017,Jablonec nad Nisou $15K,Carpet,32,15,20171204,12,205056,3,,Marta Lesniak,R,,POL,29.7,214770,,,Emilie Francati,R,,DEN,20.4,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,448,79,650,34
-2017-W-WITF-CZE-10A-2017,Jablonec nad Nisou $15K,Carpet,32,15,20171204,13,203284,,,Katerina Vankova,L,,CZE,27.9,214247,,,Lena Rueffer,U,,GER,19.2,6-3 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,811,19,611,39
+2017-W-WITF-CZE-10A-2017,Jablonec nad Nisou $15K,Carpet,32,15,20171204,13,203284,,,Katerina Vankova,L,,CZE,27.9,214247,,,Lena Rueffer,R,,GER,19.2,6-3 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,811,19,611,39
 2017-W-WITF-CZE-10A-2017,Jablonec nad Nisou $15K,Carpet,32,15,20171204,14,214826,,,Susan Bandecchi,R,,SUI,19.4,206248,,,Iva Primorac,U,,CRO,21.6,6-3 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,720,26,728,25
 2017-W-WITF-CZE-10A-2017,Jablonec nad Nisou $15K,Carpet,32,15,20171204,15,214004,,,Vendula Zovincova,R,,CZE,20.6,220689,,,Karolina Vlckova,U,,CZE,17.1,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,681,30,,
 2017-W-WITF-CZE-10A-2017,Jablonec nad Nisou $15K,Carpet,32,15,20171204,16,211885,2,,Alice Matteucci,R,,ITA,22.1,216224,,,Denisa Pospisilova,U,,CZE,18.4,7-6(7) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,400,94,,
@@ -4487,7 +4487,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-ESP-15A-2017,Madrid $15K,Hard,32,15,20170918,29,214119,1,,Rebeka Masarova,R,186,ESP,18.1,211122,,WC,Charlotte Roemer,R,171,ECU,23.6,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,438,77,1033,8
 2017-W-WITF-ESP-15A-2017,Madrid $15K,Hard,32,15,20170918,30,203463,3,,Nuria Parrizas Diaz,R,167,ESP,26.1,215453,,,Marina Bassols Ribera,U,,ESP,17.7,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,457,69,674,30
 2017-W-WITF-ESP-15A-2017,Madrid $15K,Hard,32,15,20170918,31,203463,3,,Nuria Parrizas Diaz,R,167,ESP,26.1,214119,1,,Rebeka Masarova,R,186,ESP,18.1,6-4 4-6 6-2,3,F,,,,,,,,,,,,,,,,,,,,457,69,438,77
-2017-W-WITF-ESP-16A-2017,Melilla $15K,Clay,32,15,20170925,1,202604,,,Despina Papamichail,R,178,GRE,24.6,220742,,WC,Leyre Romero Gormaz,U,,ESP,15.4,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,372,103,,
+2017-W-WITF-ESP-16A-2017,Melilla $15K,Clay,32,15,20170925,1,202604,,,Despina Papamichail,R,178,GRE,24.6,220742,,WC,Leyre Romero Gormaz,L,,ESP,15.4,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,372,103,,
 2017-W-WITF-ESP-16A-2017,Melilla $15K,Clay,32,15,20170925,2,215457,,Q,Carlota Molina Megias,R,,ESP,17.5,214145,,,Julia Payola,U,,ESP,19.7,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1048,8
 2017-W-WITF-ESP-16A-2017,Melilla $15K,Clay,32,15,20170925,3,215699,,,Lucia Marzal Martinez,U,,ESP,17.6,215805,,,Marie Mattel,R,,FRA,17.7,1-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1042,8,,
 2017-W-WITF-ESP-16A-2017,Melilla $15K,Clay,32,15,20170925,4,206209,7,,Maria Masini,R,,ITA,23.6,215776,,,Emmanuelle Girard,U,,FRA,18.2,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,925,12,1042,8
@@ -4592,7 +4592,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-ESP-18B-2017,RibaRoja de Turia $15K,Clay,32,15,20171016,13,214191,,,Seone Mendez,R,,AUS,18.4,220604,,Q,Alice Garcia,U,,BRA,23.7,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,465,68,,
 2017-W-WITF-ESP-18B-2017,RibaRoja de Turia $15K,Clay,32,15,20171016,14,215699,,,Lucia Marzal Martinez,U,,ESP,17.7,214189,,,Alicia Herrero Linana,R,,ESP,18.7,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1037,8,991,10
 2017-W-WITF-ESP-18B-2017,RibaRoja de Turia $15K,Clay,32,15,20171016,15,220532,,,Helene Pellicano,R,,MLT,15.4,206116,,,Sofia Dmitrieva,U,,RUS,23.1,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,896,13,930,12
-2017-W-WITF-ESP-18B-2017,RibaRoja de Turia $15K,Clay,32,15,20171016,16,206253,2,,Ivonne Cavalle Reimers,R,,ESP,25.4,220742,,,Leyre Romero Gormaz,U,,ESP,15.5,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,411,88,,
+2017-W-WITF-ESP-18B-2017,RibaRoja de Turia $15K,Clay,32,15,20171016,16,206253,2,,Ivonne Cavalle Reimers,R,,ESP,25.4,220742,,,Leyre Romero Gormaz,L,,ESP,15.5,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,411,88,,
 2017-W-WITF-ESP-18B-2017,RibaRoja de Turia $15K,Clay,32,15,20171016,17,206390,,Q,Isabelle Wallace,L,,AUS,21.1,215798,,,Rosa Vicens Mas,U,,ESP,17.3,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,282,180,914,12
 2017-W-WITF-ESP-18B-2017,RibaRoja de Turia $15K,Clay,32,15,20171016,18,215453,8,,Marina Bassols Ribera,U,,ESP,17.8,215174,,,Claudia Hoste Ferrer,U,,ESP,18.9,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,602,40,714,26
 2017-W-WITF-ESP-18B-2017,RibaRoja de Turia $15K,Clay,32,15,20171016,19,201638,,,Estrella Cabeza Candela,R,173,ESP,30.6,211959,,,Ksenija Sharifova,R,,RUS,21.4,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,412,88,,
@@ -4640,7 +4640,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-ESP-19A-2017,Sant Cugat $25K,Clay,32,25,20171030,30,214343,,,Marta Paigina,U,,RUS,18.6,211099,,,Nicoleta Catalina Dascalu,R,,ROU,21.8,6-7(2) 6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,346,121,381,101
 2017-W-WITF-ESP-19A-2017,Sant Cugat $25K,Clay,32,25,20171030,31,214343,,,Marta Paigina,U,,RUS,18.6,215337,,WC,Olga Danilovic,L,,SRB,16.7,2-6 6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,,346,121,467,69
 2017-W-WITF-ESP-20A-2017,Vinaros $15K,Clay,32,15,20171106,1,206146,,,Catalina Pella,R,,ARG,24.7,215947,,Q,Jia Ren,U,,CHN,17.4,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,308,151,1006,9
-2017-W-WITF-ESP-20A-2017,Vinaros $15K,Clay,32,15,20171106,2,215398,,,Lucia Cortez Llorca,U,,ESP,17.4,220742,,Q,Leyre Romero Gormaz,U,,ESP,15.5,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1046,8,,
+2017-W-WITF-ESP-20A-2017,Vinaros $15K,Clay,32,15,20171106,2,215398,,,Lucia Cortez Llorca,U,,ESP,17.4,220742,,Q,Leyre Romero Gormaz,L,,ESP,15.5,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1046,8,,
 2017-W-WITF-ESP-20A-2017,Vinaros $15K,Clay,32,15,20171106,3,214225,,Q,Snehadevi S Reddy,R,,IND,20.7,215726,,,Tiphanie Fiquet,R,,FRA,17.4,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1007,9,,
 2017-W-WITF-ESP-20A-2017,Vinaros $15K,Clay,32,15,20171106,4,202685,6,,Misa Eguchi,R,173,JPN,25.5,203586,,,Ioana Loredana Rosca,R,,ROU,21.1,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,480,66,945,11
 2017-W-WITF-ESP-20A-2017,Vinaros $15K,Clay,32,15,20171106,5,215910,,,Panna Udvardy,R,170,HUN,19.1,214212,,WC,Noelia Bouzo Zanotti,R,,ESP,18.1,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,360,116,1084,7
@@ -5110,7 +5110,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-FRA-06A-2017,Gonesse $15K,Clay,32,15,20170313,4,211316,6,,Jessika Ponchet,R,,FRA,20.4,205984,,Q,Linda Prenkovic,R,,GER,24.2,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,468,67,1006,9
 2017-W-WITF-FRA-06A-2017,Gonesse $15K,Clay,32,15,20170313,5,206277,,Q,Marine Partaud,R,,FRA,22.3,213628,3,,Melanie Stokke,R,,NOR,20.4,4-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,626,35,365,98
 2017-W-WITF-FRA-06A-2017,Gonesse $15K,Clay,32,15,20170313,6,215051,,WC,Juliette Colard,U,,FRA,16.5,215050,,WC,Schena Benamar,U,,FRA,18.1,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1177,4
-2017-W-WITF-FRA-06A-2017,Gonesse $15K,Clay,32,15,20170313,7,214247,,Q,Lena Rueffer,U,,GER,18.5,210382,,,Sabrina Santamaria,R,157,USA,24.0,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,766,20,569,44
+2017-W-WITF-FRA-06A-2017,Gonesse $15K,Clay,32,15,20170313,7,214247,,Q,Lena Rueffer,R,,GER,18.5,210382,,,Sabrina Santamaria,R,157,USA,24.0,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,766,20,569,44
 2017-W-WITF-FRA-06A-2017,Gonesse $15K,Clay,32,15,20170313,8,205941,8,,Ganna Poznikhirenko,R,,UKR,22.9,211021,,SE,Lea Tholey,L,,FRA,21.5,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,473,66,1013,9
 2017-W-WITF-FRA-06A-2017,Gonesse $15K,Clay,32,15,20170313,9,211321,,,Klaartje Liebens,R,,BEL,22.1,211508,7,,Josephine Boualem,U,,ESP,23.6,3-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,617,37,471,67
 2017-W-WITF-FRA-06A-2017,Gonesse $15K,Clay,32,15,20170313,10,211821,,,Chiara Grimm,R,,SUI,20.1,214317,,Q,Mallaurie Noel,U,,FRA,22.2,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,587,42,1101,6
@@ -5123,13 +5123,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-FRA-06A-2017,Gonesse $15K,Clay,32,15,20170313,17,203509,1,,Diana Marcinkevica,R,170,LAT,24.6,211303,,,Deborah Kerfs,R,,BEL,22.0,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,300,144,561,46
 2017-W-WITF-FRA-06A-2017,Gonesse $15K,Clay,32,15,20170313,18,210056,,Q,Priscilla Heise,R,,FRA,26.7,211316,6,,Jessika Ponchet,R,,FRA,20.4,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,702,26,468,67
 2017-W-WITF-FRA-06A-2017,Gonesse $15K,Clay,32,15,20170313,19,206277,,Q,Marine Partaud,R,,FRA,22.3,215051,,WC,Juliette Colard,U,,FRA,16.5,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,626,35,,
-2017-W-WITF-FRA-06A-2017,Gonesse $15K,Clay,32,15,20170313,20,214247,,Q,Lena Rueffer,U,,GER,18.5,205941,8,,Ganna Poznikhirenko,R,,UKR,22.9,7-6(5) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,766,20,473,66
+2017-W-WITF-FRA-06A-2017,Gonesse $15K,Clay,32,15,20170313,20,214247,,Q,Lena Rueffer,R,,GER,18.5,205941,8,,Ganna Poznikhirenko,R,,UKR,22.9,7-6(5) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,766,20,473,66
 2017-W-WITF-FRA-06A-2017,Gonesse $15K,Clay,32,15,20170313,21,211821,,,Chiara Grimm,R,,SUI,20.1,211321,,,Klaartje Liebens,R,,BEL,22.1,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,587,42,617,37
 2017-W-WITF-FRA-06A-2017,Gonesse $15K,Clay,32,15,20170313,22,206251,4,,Kimberley Zimmermann,R,,BEL,21.3,210801,,Q,Catherine Chantraine,U,,BEL,23.9,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,418,80,779,20
 2017-W-WITF-FRA-06A-2017,Gonesse $15K,Clay,32,15,20170313,23,211285,5,,Tayisiya Morderger,L,,GER,20.0,216252,,WC,Giulia Morlet,L,,FRA,15.1,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,443,73,,
 2017-W-WITF-FRA-06A-2017,Gonesse $15K,Clay,32,15,20170313,24,205723,2,,Anna Zaja,R,183,GER,25.7,220330,,WC,Margaux Orange,U,,FRA,17.3,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,303,139,,
 2017-W-WITF-FRA-06A-2017,Gonesse $15K,Clay,32,15,20170313,25,210056,,Q,Priscilla Heise,R,,FRA,26.7,203509,1,,Diana Marcinkevica,R,170,LAT,24.6,7-6(5) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,702,26,300,144
-2017-W-WITF-FRA-06A-2017,Gonesse $15K,Clay,32,15,20170313,26,206277,,Q,Marine Partaud,R,,FRA,22.3,214247,,Q,Lena Rueffer,U,,GER,18.5,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,626,35,766,20
+2017-W-WITF-FRA-06A-2017,Gonesse $15K,Clay,32,15,20170313,26,206277,,Q,Marine Partaud,R,,FRA,22.3,214247,,Q,Lena Rueffer,R,,GER,18.5,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,626,35,766,20
 2017-W-WITF-FRA-06A-2017,Gonesse $15K,Clay,32,15,20170313,27,206251,4,,Kimberley Zimmermann,R,,BEL,21.3,211821,,,Chiara Grimm,R,,SUI,20.1,3-6 7-6(6) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,418,80,587,42
 2017-W-WITF-FRA-06A-2017,Gonesse $15K,Clay,32,15,20170313,28,205723,2,,Anna Zaja,R,183,GER,25.7,211285,5,,Tayisiya Morderger,L,,GER,20.0,6-3 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,303,139,443,73
 2017-W-WITF-FRA-06A-2017,Gonesse $15K,Clay,32,15,20170313,29,210056,,Q,Priscilla Heise,R,,FRA,26.7,206277,,Q,Marine Partaud,R,,FRA,22.3,6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,702,26,626,35
@@ -6023,7 +6023,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-GBR-14A-2017,Wirral $15K,Hard,32,15,20171023,6,216254,,,Gemma Heath,R,,GBR,16.1,220761,,Q,Isabelle Hearnshaw,U,,GBR,22.4,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-GBR-14A-2017,Wirral $15K,Hard,32,15,20171023,7,220330,,Q,Margaux Orange,U,,FRA,17.9,215098,,,Emma Hurst,U,,GBR,21.3,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1207,3,1142,5
 2017-W-WITF-GBR-14A-2017,Wirral $15K,Hard,32,15,20171023,8,216066,,,Ella Taylor,U,,GBR,22.3,214839,6,,Jodie Burrage,R,,GBR,18.4,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1179,4,582,42
-2017-W-WITF-GBR-14A-2017,Wirral $15K,Hard,32,15,20171023,9,214247,,,Lena Rueffer,U,,GER,19.1,216248,,Q,Hannah Mccolgan,U,,GBR,17.7,6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,614,37,,
+2017-W-WITF-GBR-14A-2017,Wirral $15K,Hard,32,15,20171023,9,214247,,,Lena Rueffer,R,,GER,19.1,216248,,Q,Hannah Mccolgan,U,,GBR,17.7,6-3 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,614,37,,
 2017-W-WITF-GBR-14A-2017,Wirral $15K,Hard,32,15,20171023,10,215902,,,Aleksandra Pitak,U,,GBR,16.4,216268,,Q,Alice Gillan,U,,GBR,19.1,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1071,7
 2017-W-WITF-GBR-14A-2017,Wirral $15K,Hard,32,15,20171023,11,219636,,,Anna Loughlan,R,,GBR,17.2,206209,,,Maria Masini,R,,ITA,23.7,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,887,14
 2017-W-WITF-GBR-14A-2017,Wirral $15K,Hard,32,15,20171023,12,202425,3,,Samantha Murray,R,178,GBR,30.0,210336,,,Rosalie Van Der Hoek,L,,NED,22.8,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,490,62,,
@@ -6035,13 +6035,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-GBR-14A-2017,Wirral $15K,Hard,32,15,20171023,18,211432,8,,Eden Silva,R,,GBR,21.6,206230,,,Alicia Barnett,R,,GBR,24.0,6-1 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,623,36,719,25
 2017-W-WITF-GBR-14A-2017,Wirral $15K,Hard,32,15,20171023,19,202433,,,Anna Giulia Remondina,R,,ITA,28.3,216254,,,Gemma Heath,R,,GBR,16.1,6-4 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,545,51,,
 2017-W-WITF-GBR-14A-2017,Wirral $15K,Hard,32,15,20171023,20,220330,,Q,Margaux Orange,U,,FRA,17.9,216066,,,Ella Taylor,U,,GBR,22.3,7-5 1-6 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,1207,3,1179,4
-2017-W-WITF-GBR-14A-2017,Wirral $15K,Hard,32,15,20171023,21,214247,,,Lena Rueffer,U,,GER,19.1,215902,,,Aleksandra Pitak,U,,GBR,16.4,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,614,37,,
+2017-W-WITF-GBR-14A-2017,Wirral $15K,Hard,32,15,20171023,21,214247,,,Lena Rueffer,R,,GER,19.1,215902,,,Aleksandra Pitak,U,,GBR,16.4,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,614,37,,
 2017-W-WITF-GBR-14A-2017,Wirral $15K,Hard,32,15,20171023,22,202425,3,,Samantha Murray,R,178,GBR,30.0,219636,,,Anna Loughlan,R,,GBR,17.2,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,490,62,,
 2017-W-WITF-GBR-14A-2017,Wirral $15K,Hard,32,15,20171023,23,211887,,,Maia Lumsden,R,,GBR,19.7,202580,,,Federica Di Sarra,R,,ITA,27.4,4-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,602,39,665,31
 2017-W-WITF-GBR-14A-2017,Wirral $15K,Hard,32,15,20171023,24,211031,,,Sarah Beth Grey,L,,GBR,22.2,214593,2,,Lucrezia Stefanini,R,,ITA,19.4,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,675,30,496,61
 2017-W-WITF-GBR-14A-2017,Wirral $15K,Hard,32,15,20171023,25,211432,8,,Eden Silva,R,,GBR,21.6,212043,,,Freya Christie,R,180,GBR,19.9,6-2 3-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,623,36,525,55
 2017-W-WITF-GBR-14A-2017,Wirral $15K,Hard,32,15,20171023,26,202433,,,Anna Giulia Remondina,R,,ITA,28.3,220330,,Q,Margaux Orange,U,,FRA,17.9,W/O,3,QF,,,,,,,,,,,,,,,,,,,,545,51,1207,3
-2017-W-WITF-GBR-14A-2017,Wirral $15K,Hard,32,15,20171023,27,202425,3,,Samantha Murray,R,178,GBR,30.0,214247,,,Lena Rueffer,U,,GER,19.1,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,490,62,614,37
+2017-W-WITF-GBR-14A-2017,Wirral $15K,Hard,32,15,20171023,27,202425,3,,Samantha Murray,R,178,GBR,30.0,214247,,,Lena Rueffer,R,,GER,19.1,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,490,62,614,37
 2017-W-WITF-GBR-14A-2017,Wirral $15K,Hard,32,15,20171023,28,211887,,,Maia Lumsden,R,,GBR,19.7,211031,,,Sarah Beth Grey,L,,GBR,22.2,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,602,39,675,30
 2017-W-WITF-GBR-14A-2017,Wirral $15K,Hard,32,15,20171023,29,211432,8,,Eden Silva,R,,GBR,21.6,202433,,,Anna Giulia Remondina,R,,ITA,28.3,7-6(8) 6-4,3,SF,,,,,,,,,,,,,,,,,,,,623,36,545,51
 2017-W-WITF-GBR-14A-2017,Wirral $15K,Hard,32,15,20171023,30,202425,3,,Samantha Murray,R,178,GBR,30.0,211887,,,Maia Lumsden,R,,GBR,19.7,3-6 6-4 6-3,3,SF,,,,,,,,,,,,,,,,,,,,490,62,602,39
@@ -6277,7 +6277,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-GER-04A-2017,Essen $25K,Clay,32,25,20170605,12,214706,,WC,Dana Kremer,R,,GER,19.7,202495,4,,Jennifer Elie,R,,USA,30.7,7-6(3) 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,613,40,241,219
 2017-W-WITF-GER-04A-2017,Essen $25K,Clay,32,25,20170605,13,202694,5,,Teliana Pereira,R,168,BRA,28.8,214810,,Q,Julyette Maria Josephine Steur,U,,GER,21.8,6-3 0-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,247,210,633,37
 2017-W-WITF-GER-04A-2017,Essen $25K,Clay,32,25,20170605,14,212044,,Q,Katharina Gerlach,R,,GER,19.2,206051,,Q,Marina Kachar,U,,SRB,24.8,2-6 7-5 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,545,50,717,27
-2017-W-WITF-GER-04A-2017,Essen $25K,Clay,32,25,20170605,15,211941,,Q,Zoe Hives,R,,AUS,20.6,216095,,WC,Mina Hodzic,U,,GER,14.9,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,687,30,,
+2017-W-WITF-GER-04A-2017,Essen $25K,Clay,32,25,20170605,15,211941,,Q,Zoe Hives,R,,AUS,20.6,216095,,WC,Mina Hodzic,R,,GER,14.9,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,687,30,,
 2017-W-WITF-GER-04A-2017,Essen $25K,Clay,32,25,20170605,16,202490,2,,Rebecca Peterson,R,173,SWE,21.8,202471,,,Karen Barbat,R,,DEN,24.9,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,214,261,494,62
 2017-W-WITF-GER-04A-2017,Essen $25K,Clay,32,25,20170605,17,210303,1,,Kathinka Von Deichmann,R,176,LIE,23.0,205944,,Q,Lidziya Marozava,R,183,BLR,24.6,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,183,306,812,18
 2017-W-WITF-GER-04A-2017,Essen $25K,Clay,32,25,20170605,18,201466,,WC,Kaia Kanepi,R,181,EST,31.9,211713,8,,Jaqueline Cristian,R,180,ROU,19.0,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,630,37,320,141
@@ -6306,7 +6306,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-GER-05A-2017,Stuttgart Vaihingen $25K,Clay,32,25,20170626,10,213941,,,Anastasia Zarytska,U,,UKR,19.4,213923,,,Nina Alibalic,U,,CRO,18.5,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,395,96,508,56
 2017-W-WITF-GER-05A-2017,Stuttgart Vaihingen $25K,Clay,32,25,20170626,11,201617,,,Ana Vrljic,R,,CRO,32.9,201462,,,Alberta Brianti,R,165,ITA,37.2,2-6 7-6(4) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,446,73,525,53
 2017-W-WITF-GER-05A-2017,Stuttgart Vaihingen $25K,Clay,32,25,20170626,12,205723,3,,Anna Zaja,R,183,GER,26.0,211821,,,Chiara Grimm,R,,SUI,20.4,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,261,188,562,48
-2017-W-WITF-GER-05A-2017,Stuttgart Vaihingen $25K,Clay,32,25,20170626,13,211814,5,,Julia Grabher,R,170,AUT,20.9,214247,,Q,Lena Rueffer,U,,GER,18.8,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,290,158,620,38
+2017-W-WITF-GER-05A-2017,Stuttgart Vaihingen $25K,Clay,32,25,20170626,13,211814,5,,Julia Grabher,R,170,AUT,20.9,214247,,Q,Lena Rueffer,R,,GER,18.8,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,290,158,620,38
 2017-W-WITF-GER-05A-2017,Stuttgart Vaihingen $25K,Clay,32,25,20170626,14,206248,,Q,Iva Primorac,U,,CRO,21.2,211668,,,Riya Bhatia,R,,IND,19.7,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,719,26,531,53
 2017-W-WITF-GER-05A-2017,Stuttgart Vaihingen $25K,Clay,32,25,20170626,15,206003,,,Laura Schaeder,R,,GER,24.1,213753,,Q,Thaisa Grana Pedretti,U,,BRA,18.1,2-6 7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,344,122,743,23
 2017-W-WITF-GER-05A-2017,Stuttgart Vaihingen $25K,Clay,32,25,20170626,16,204267,2,,Petra Krejsova,R,,CZE,26.9,211330,,Q,Marlies Szupper,U,,AUT,22.0,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,228,226,688,30
@@ -6369,7 +6369,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-GER-07A-2017,Hechingen $60K,Clay,32,60,20170807,11,211684,,,Magdalena Frech,R,171,POL,19.6,206335,,,Jesika Maleckova,R,,CZE,22.9,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,252,206,285,176
 2017-W-WITF-GER-07A-2017,Hechingen $60K,Clay,32,60,20170807,12,214939,4,,Anna Kalinskaya,R,175,RUS,18.6,201565,,,Katarzyna Piter,R,173,POL,26.4,6-2 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,152,361,231,223
 2017-W-WITF-GER-07A-2017,Hechingen $60K,Clay,32,60,20170807,13,202456,6,,Alexandra Cadantu Ignatik,R,170,ROU,27.2,211407,,,Dejana Radanovic,U,,SRB,21.2,7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,174,310,250,208
-2017-W-WITF-GER-07A-2017,Hechingen $60K,Clay,32,60,20170807,14,202688,,,Isabella Shinikova,R,184,BUL,25.7,214247,,WC,Lena Rueffer,U,,GER,18.9,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,293,160,559,45
+2017-W-WITF-GER-07A-2017,Hechingen $60K,Clay,32,60,20170807,14,202688,,,Isabella Shinikova,R,184,BUL,25.7,214247,,WC,Lena Rueffer,R,,GER,18.9,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,293,160,559,45
 2017-W-WITF-GER-07A-2017,Hechingen $60K,Clay,32,60,20170807,15,213620,,,Jessica Pieri,R,,ITA,20.2,202659,,,Tereza Mrdeza,R,173,CRO,26.7,6-7(5) 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,273,185,240,215
 2017-W-WITF-GER-07A-2017,Hechingen $60K,Clay,32,60,20170807,16,202480,2,,Richel Hogenkamp,R,168,NED,25.3,202662,,,Camilla Rosatello,R,,ITA,22.1,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,96,637,225,234
 2017-W-WITF-GER-07A-2017,Hechingen $60K,Clay,32,60,20170807,17,200067,,,Patty Schnyder,L,168,SUI,38.6,211099,,Q,Nicoleta Catalina Dascalu,R,,ROU,21.6,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,206,270,373,104
@@ -6400,7 +6400,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-GER-08A-2017,Versmold $60K,Clay,32,60,20170710,11,202596,,,Mihaela Buzarnescu,L,175,ROU,29.1,202498,,,Julia Glushko,R,171,ISR,27.5,7-5 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,213,260,234,222
 2017-W-WITF-GER-08A-2017,Versmold $60K,Clay,32,60,20170710,12,201551,4,,Arantxa Rus,L,180,NED,26.5,201640,,,Maria Teresa Torro Flor,R,173,ESP,25.1,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,157,353,249,205
 2017-W-WITF-GER-08A-2017,Versmold $60K,Clay,32,60,20170710,13,213941,,Q,Anastasia Zarytska,U,,UKR,19.5,202702,5,,Tereza Smitkova,R,176,CZE,22.7,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,397,97,161,339
-2017-W-WITF-GER-08A-2017,Versmold $60K,Clay,32,60,20170710,14,205606,,,Viktoria Kamenskaya,R,,RUS,25.6,214247,,WC,Lena Rueffer,U,,GER,18.8,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,203,282,629,38
+2017-W-WITF-GER-08A-2017,Versmold $60K,Clay,32,60,20170710,14,205606,,,Viktoria Kamenskaya,R,,RUS,25.6,214247,,WC,Lena Rueffer,R,,GER,18.8,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,203,282,629,38
 2017-W-WITF-GER-08A-2017,Versmold $60K,Clay,32,60,20170710,15,202685,,,Misa Eguchi,R,173,JPN,25.2,214096,,,Karolina Muchova,R,178,CZE,20.8,4-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,185,305,321,138
 2017-W-WITF-GER-08A-2017,Versmold $60K,Clay,32,60,20170710,16,201674,2,,Sabina Sharipova,R,174,UZB,22.8,212044,,WC,Katharina Gerlach,R,,GER,19.3,3-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,149,378,449,75
 2017-W-WITF-GER-08A-2017,Versmold $60K,Clay,32,60,20170710,17,206251,,Q,Kimberley Zimmermann,R,,BEL,21.6,202480,1,,Richel Hogenkamp,R,168,NED,25.2,3-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,389,101,104,615
@@ -6463,7 +6463,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-GER-10A-2017,Aschaffenburg $25K,Clay,32,25,20170717,12,214081,3,,Katharina Hobgarski,R,171,GER,20.0,206007,,,Laura Pigossi,R,164,BRA,22.9,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,276,175,378,99
 2017-W-WITF-GER-10A-2017,Aschaffenburg $25K,Clay,32,25,20170717,13,206251,7,,Kimberley Zimmermann,R,,BEL,21.6,214270,,Q,Lisa Ponomar,R,180,GER,20.1,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,353,111,669,30
 2017-W-WITF-GER-10A-2017,Aschaffenburg $25K,Clay,32,25,20170717,14,202481,,,Chi Chi Scholl,R,,USA,25.0,211556,,,Helene Scholsen,R,,BEL,21.5,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,419,79,394,90
-2017-W-WITF-GER-10A-2017,Aschaffenburg $25K,Clay,32,25,20170717,15,214247,,WC,Lena Rueffer,U,,GER,18.8,213888,,,Britt Geukens,R,,BEL,21.3,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,633,35,531,50
+2017-W-WITF-GER-10A-2017,Aschaffenburg $25K,Clay,32,25,20170717,15,214247,,WC,Lena Rueffer,R,,GER,18.8,213888,,,Britt Geukens,R,,BEL,21.3,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,633,35,531,50
 2017-W-WITF-GER-10A-2017,Aschaffenburg $25K,Clay,32,25,20170717,16,202639,2,,Akiko Omae,R,162,JPN,24.4,201653,,Q,Ellen Allgurin,R,,SWE,23.1,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,222,233,794,18
 2017-W-WITF-GER-10A-2017,Aschaffenburg $25K,Clay,32,25,20170717,17,202685,1,,Misa Eguchi,R,173,JPN,25.2,206371,,,Alina Silich,U,,RUS,21.0,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,232,220,463,66
 2017-W-WITF-GER-10A-2017,Aschaffenburg $25K,Clay,32,25,20170717,18,213706,,,Irene Burillo Escorihuela,R,,ESP,19.9,211529,,,Sandra Samir,R,170,EGY,19.6,3-6 7-6(5) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,523,52,439,73
@@ -6472,18 +6472,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-GER-10A-2017,Aschaffenburg $25K,Clay,32,25,20170717,21,213923,,,Nina Alibalic,U,,CRO,18.6,215002,,Q,Anna Gabric,R,,GER,19.1,6-2 6-7(3) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,635,35,1035,8
 2017-W-WITF-GER-10A-2017,Aschaffenburg $25K,Clay,32,25,20170717,22,214081,3,,Katharina Hobgarski,R,171,GER,20.0,215693,,Q,Michaela Bayerlova,U,,CZE,18.5,7-5 6-7(3) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,276,175,640,34
 2017-W-WITF-GER-10A-2017,Aschaffenburg $25K,Clay,32,25,20170717,23,206251,7,,Kimberley Zimmermann,R,,BEL,21.6,202481,,,Chi Chi Scholl,R,,USA,25.0,4-6 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,353,111,419,79
-2017-W-WITF-GER-10A-2017,Aschaffenburg $25K,Clay,32,25,20170717,24,214247,,WC,Lena Rueffer,U,,GER,18.8,202639,2,,Akiko Omae,R,162,JPN,24.4,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,633,35,222,233
+2017-W-WITF-GER-10A-2017,Aschaffenburg $25K,Clay,32,25,20170717,24,214247,,WC,Lena Rueffer,R,,GER,18.8,202639,2,,Akiko Omae,R,162,JPN,24.4,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,633,35,222,233
 2017-W-WITF-GER-10A-2017,Aschaffenburg $25K,Clay,32,25,20170717,25,202685,1,,Misa Eguchi,R,173,JPN,25.2,213706,,,Irene Burillo Escorihuela,R,,ESP,19.9,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,232,220,523,52
 2017-W-WITF-GER-10A-2017,Aschaffenburg $25K,Clay,32,25,20170717,26,206253,,,Ivonne Cavalle Reimers,R,,ESP,25.1,213694,,Q,Lisa Matviyenko,R,,GER,19.7,6-2 3-6 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,499,57,555,45
 2017-W-WITF-GER-10A-2017,Aschaffenburg $25K,Clay,32,25,20170717,27,214081,3,,Katharina Hobgarski,R,171,GER,20.0,213923,,,Nina Alibalic,U,,CRO,18.6,6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,276,175,635,35
-2017-W-WITF-GER-10A-2017,Aschaffenburg $25K,Clay,32,25,20170717,28,206251,7,,Kimberley Zimmermann,R,,BEL,21.6,214247,,WC,Lena Rueffer,U,,GER,18.8,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,353,111,633,35
+2017-W-WITF-GER-10A-2017,Aschaffenburg $25K,Clay,32,25,20170717,28,206251,7,,Kimberley Zimmermann,R,,BEL,21.6,214247,,WC,Lena Rueffer,R,,GER,18.8,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,353,111,633,35
 2017-W-WITF-GER-10A-2017,Aschaffenburg $25K,Clay,32,25,20170717,29,206253,,,Ivonne Cavalle Reimers,R,,ESP,25.1,202685,1,,Misa Eguchi,R,173,JPN,25.2,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,499,57,232,220
 2017-W-WITF-GER-10A-2017,Aschaffenburg $25K,Clay,32,25,20170717,30,214081,3,,Katharina Hobgarski,R,171,GER,20.0,206251,7,,Kimberley Zimmermann,R,,BEL,21.6,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,276,175,353,111
 2017-W-WITF-GER-10A-2017,Aschaffenburg $25K,Clay,32,25,20170717,31,214081,3,,Katharina Hobgarski,R,171,GER,20.0,206253,,,Ivonne Cavalle Reimers,R,,ESP,25.1,7-5 6-4,3,F,,,,,,,,,,,,,,,,,,,,276,175,499,57
 2017-W-WITF-GER-11A-2017,Horb $25K,Clay,32,25,20170724,1,204246,1,,Lesley Pattinama Kerkhove,R,172,NED,25.7,210056,,Q,Priscilla Heise,R,,FRA,27.1,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,186,289,431,77
 2017-W-WITF-GER-11A-2017,Horb $25K,Clay,32,25,20170724,2,206390,,,Isabelle Wallace,L,,AUS,20.8,202481,,LL,Chi Chi Scholl,R,,USA,25.0,7-5 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,346,119,425,79
 2017-W-WITF-GER-11A-2017,Horb $25K,Clay,32,25,20170724,3,211817,,,Elena Gabriela Ruse,U,,ROU,19.7,213694,,WC,Lisa Matviyenko,R,,GER,19.7,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,276,181,510,56
-2017-W-WITF-GER-11A-2017,Horb $25K,Clay,32,25,20170724,4,203549,5,,Olga Ianchuk,R,,UKR,22.3,214247,,Q,Lena Rueffer,U,,GER,18.9,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,216,246,633,35
+2017-W-WITF-GER-11A-2017,Horb $25K,Clay,32,25,20170724,4,203549,5,,Olga Ianchuk,R,,UKR,22.3,214247,,Q,Lena Rueffer,R,,GER,18.9,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,216,246,633,35
 2017-W-WITF-GER-11A-2017,Horb $25K,Clay,32,25,20170724,5,200067,4,,Patty Schnyder,L,168,SUI,38.6,211063,,,Valeriya Strakhova,R,,UKR,22.1,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,233,223,323,136
 2017-W-WITF-GER-11A-2017,Horb $25K,Clay,32,25,20170724,6,206251,,Q,Kimberley Zimmermann,R,,BEL,21.7,211529,,Q,Sandra Samir,R,170,EGY,19.7,7-6(4) 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,358,111,443,73
 2017-W-WITF-GER-11A-2017,Horb $25K,Clay,32,25,20170724,7,214539,,Q,Yuki Kristina Chiang,U,,USA,21.9,201699,,,Martina Caregaro,R,165,ITA,25.1,1-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,599,39,402,88
@@ -6607,7 +6607,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-GER-15A-2017,Badenweiler $15K,Clay,32,15,20170904,1,212044,1,,Katharina Gerlach,R,,GER,19.5,220272,,Q,Sofia Nami Samavati,U,,DEN,17.5,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,413,87,,
 2017-W-WITF-GER-15A-2017,Badenweiler $15K,Clay,32,15,20170904,2,210870,,,Natalia Siedliska,U,,POL,21.7,215117,,Q,Dagmar Zdrubecka,L,,CZE,16.8,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-GER-15A-2017,Badenweiler $15K,Clay,32,15,20170904,3,202703,,,Constance Sibille,R,,FRA,26.8,214971,,,Kim Fontana,U,,SUI,18.1,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1230,3
-2017-W-WITF-GER-15A-2017,Badenweiler $15K,Clay,32,15,20170904,4,216095,,WC,Mina Hodzic,U,,GER,15.2,211821,5,,Chiara Grimm,R,,SUI,20.5,6-7(1) 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,616,37
+2017-W-WITF-GER-15A-2017,Badenweiler $15K,Clay,32,15,20170904,4,216095,,WC,Mina Hodzic,R,,GER,15.2,211821,5,,Chiara Grimm,R,,SUI,20.5,6-7(1) 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,616,37
 2017-W-WITF-GER-15A-2017,Badenweiler $15K,Clay,32,15,20170904,5,220593,,SE,Kristina Milenkovic,R,,SUI,16.2,212008,4,,Dhruthi Tatachar Venugopal,R,,IND,20.6,6-1 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,603,39
 2017-W-WITF-GER-15A-2017,Badenweiler $15K,Clay,32,15,20170904,6,220494,,Q,Arina Gabriela Vasilescu,U,,ROU,20.4,214324,,,Julia Rosenquist,R,,SWE,19.4,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1022,9
 2017-W-WITF-GER-15A-2017,Badenweiler $15K,Clay,32,15,20170904,7,216036,,Q,Luna Meers,U,,BEL,18.2,210823,,,Giada Clerici,U,,ITA,23.3,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1171,4,904,13
@@ -6621,14 +6621,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-GER-15A-2017,Badenweiler $15K,Clay,32,15,20170904,15,206228,,,Anette Munozova,R,,SWE,26.0,211557,,,Nina Stadler,U,,SUI,21.9,7-6(3) 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1092,7,756,22
 2017-W-WITF-GER-15A-2017,Badenweiler $15K,Clay,32,15,20170904,16,210056,2,WC,Priscilla Heise,R,,FRA,27.2,220492,,WC,Chantal Sauvant,U,,GER,15.3,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,419,83,,
 2017-W-WITF-GER-15A-2017,Badenweiler $15K,Clay,32,15,20170904,17,212044,1,,Katharina Gerlach,R,,GER,19.5,210870,,,Natalia Siedliska,U,,POL,21.7,6-4 6-7(3) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,413,87,,
-2017-W-WITF-GER-15A-2017,Badenweiler $15K,Clay,32,15,20170904,18,216095,,WC,Mina Hodzic,U,,GER,15.2,202703,,,Constance Sibille,R,,FRA,26.8,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2017-W-WITF-GER-15A-2017,Badenweiler $15K,Clay,32,15,20170904,18,216095,,WC,Mina Hodzic,R,,GER,15.2,202703,,,Constance Sibille,R,,FRA,26.8,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-GER-15A-2017,Badenweiler $15K,Clay,32,15,20170904,19,220494,,Q,Arina Gabriela Vasilescu,U,,ROU,20.4,220593,,SE,Kristina Milenkovic,R,,SUI,16.2,6-4 2-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-GER-15A-2017,Badenweiler $15K,Clay,32,15,20170904,20,216036,,Q,Luna Meers,U,,BEL,18.2,215174,6,,Claudia Hoste Ferrer,U,,ESP,18.8,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1171,4,735,24
 2017-W-WITF-GER-15A-2017,Badenweiler $15K,Clay,32,15,20170904,21,211338,7,,Katharina Hering,R,,GER,22.5,215517,,LL,Amelie Carolin Kurpiers,U,,GER,17.8,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,737,24,,
 2017-W-WITF-GER-15A-2017,Badenweiler $15K,Clay,32,15,20170904,22,213923,3,,Nina Alibalic,U,,CRO,18.7,216176,,WC,Anne Knuettel,U,,GER,16.2,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,591,41,,
 2017-W-WITF-GER-15A-2017,Badenweiler $15K,Clay,32,15,20170904,23,215131,,Q,Nefisa Berberovic,U,,BIH,18.1,211537,,,Mathilde Armitano,R,,FRA,20.2,5-7 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,886,14
 2017-W-WITF-GER-15A-2017,Badenweiler $15K,Clay,32,15,20170904,24,210056,2,WC,Priscilla Heise,R,,FRA,27.2,206228,,,Anette Munozova,R,,SWE,26.0,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,419,83,1092,7
-2017-W-WITF-GER-15A-2017,Badenweiler $15K,Clay,32,15,20170904,25,212044,1,,Katharina Gerlach,R,,GER,19.5,216095,,WC,Mina Hodzic,U,,GER,15.2,6-0 6-1,3,QF,,,,,,,,,,,,,,,,,,,,413,87,,
+2017-W-WITF-GER-15A-2017,Badenweiler $15K,Clay,32,15,20170904,25,212044,1,,Katharina Gerlach,R,,GER,19.5,216095,,WC,Mina Hodzic,R,,GER,15.2,6-0 6-1,3,QF,,,,,,,,,,,,,,,,,,,,413,87,,
 2017-W-WITF-GER-15A-2017,Badenweiler $15K,Clay,32,15,20170904,26,216036,,Q,Luna Meers,U,,BEL,18.2,220494,,Q,Arina Gabriela Vasilescu,U,,ROU,20.4,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,1171,4,,
 2017-W-WITF-GER-15A-2017,Badenweiler $15K,Clay,32,15,20170904,27,213923,3,,Nina Alibalic,U,,CRO,18.7,211338,7,,Katharina Hering,R,,GER,22.5,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,591,41,737,24
 2017-W-WITF-GER-15A-2017,Badenweiler $15K,Clay,32,15,20170904,28,210056,2,WC,Priscilla Heise,R,,FRA,27.2,215131,,Q,Nefisa Berberovic,U,,BIH,18.1,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,419,83,,
@@ -6792,7 +6792,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-GRE-05A-2017,Heraklion $15K,Clay,32,15,20170403,31,213923,4,Q,Nina Alibalic,U,,CRO,18.3,201657,6,,Nastja Kolar,R,176,SLO,22.7,6-1 6-3,3,F,,,,,,,,,,,,,,,,,,,,578,43,638,34
 2017-W-WITF-GRE-06A-2017,Heraklion $15K,Clay,32,15,20171023,1,202387,,,Vlada Ekshibarova,R,,UZB,28.6,213896,,,Elina Nepliy,R,,RUS,20.0,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,413,90,1015,9
 2017-W-WITF-GRE-06A-2017,Heraklion $15K,Clay,32,15,20171023,2,210870,,Q,Natalia Siedliska,U,,POL,21.8,215296,,,Kristina Miletic,U,,SRB,18.8,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2017-W-WITF-GRE-06A-2017,Heraklion $15K,Clay,32,15,20171023,3,211330,,,Marlies Szupper,U,,AUT,22.3,216186,,,Aneta Laboutkova,U,,CZE,17.4,7-5 2-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,883,14,,
+2017-W-WITF-GRE-06A-2017,Heraklion $15K,Clay,32,15,20171023,3,211330,,,Marlies Szupper,U,,AUT,22.3,216186,,,Aneta Laboutkova,L,,CZE,17.4,7-5 2-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,883,14,,
 2017-W-WITF-GRE-06A-2017,Heraklion $15K,Clay,32,15,20171023,4,214388,6,,Anna Bondar,R,,HUN,20.4,203095,,,Ioana Gaspar,R,,ROU,34.5,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,641,34,867,15
 2017-W-WITF-GRE-06A-2017,Heraklion $15K,Clay,32,15,20171023,5,211820,,,Martina Colmegna,R,,ITA,20.8,214958,,WC,Natalia Nikolopoulou,L,,GRE,17.6,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,521,57,1207,3
 2017-W-WITF-GRE-06A-2017,Heraklion $15K,Clay,32,15,20171023,6,206250,,,Michaela Boev,U,,BEL,26.3,211916,,Q,Valeria Nikolaev,U,,ISR,20.6,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,822,18,,
@@ -6826,7 +6826,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-GRE-07A-2017,Heraklion $15K,Clay,32,15,20171030,3,213526,,,Sara Ottomano,R,,SUI,21.6,214987,,,Shahar Biran,R,,ISR,19.1,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1002,9,,
 2017-W-WITF-GRE-07A-2017,Heraklion $15K,Clay,32,15,20171030,4,202436,,,Reka Luca Jani,R,161,HUN,26.2,210776,8,,Gabriela Duca,U,,ROU,23.1,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,951,11,770,21
 2017-W-WITF-GRE-07A-2017,Heraklion $15K,Clay,32,15,20171030,5,206166,,,Jade Suvrijn,R,,FRA,22.5,215608,,Q,Jennifer Wacker,U,,GER,21.1,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,621,36,,
-2017-W-WITF-GRE-07A-2017,Heraklion $15K,Clay,32,15,20171030,6,216186,,,Aneta Laboutkova,U,,CZE,17.4,220764,,WC,Eirini Kontaki,U,,GRE,21.2,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2017-W-WITF-GRE-07A-2017,Heraklion $15K,Clay,32,15,20171030,6,216186,,,Aneta Laboutkova,L,,CZE,17.4,220764,,WC,Eirini Kontaki,U,,GRE,21.2,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-GRE-07A-2017,Heraklion $15K,Clay,32,15,20171030,7,220485,,Q,Alexandra Maria Staiculescu,U,,ROU,16.9,220769,,,Bojana Klincov,U,,SUI,16.3,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-GRE-07A-2017,Heraklion $15K,Clay,32,15,20171030,8,214746,6,,Federica Bilardo,U,,ITA,18.3,215601,,,Franziska Kommer,U,,GER,18.3,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,641,34,1143,5
 2017-W-WITF-GRE-07A-2017,Heraklion $15K,Clay,32,15,20171030,9,214388,,,Anna Bondar,R,,HUN,20.4,211916,,,Valeria Nikolaev,U,,ISR,20.7,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,637,34,,
@@ -6839,14 +6839,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-GRE-07A-2017,Heraklion $15K,Clay,32,15,20171030,16,213896,,,Elina Nepliy,R,,RUS,20.0,202387,2,,Vlada Ekshibarova,R,,UZB,28.6,1-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,1018,9,412,90
 2017-W-WITF-GRE-07A-2017,Heraklion $15K,Clay,32,15,20171030,17,206003,,,Laura Schaeder,R,,GER,24.5,211330,,,Marlies Szupper,U,,AUT,22.4,6-2 6-7(3) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,362,112,885,14
 2017-W-WITF-GRE-07A-2017,Heraklion $15K,Clay,32,15,20171030,18,202436,,,Reka Luca Jani,R,161,HUN,26.2,213526,,,Sara Ottomano,R,,SUI,21.6,W/O,3,R16,,,,,,,,,,,,,,,,,,,,951,11,1002,9
-2017-W-WITF-GRE-07A-2017,Heraklion $15K,Clay,32,15,20171030,19,216186,,,Aneta Laboutkova,U,,CZE,17.4,206166,,,Jade Suvrijn,R,,FRA,22.5,6-0 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,621,36
+2017-W-WITF-GRE-07A-2017,Heraklion $15K,Clay,32,15,20171030,19,216186,,,Aneta Laboutkova,L,,CZE,17.4,206166,,,Jade Suvrijn,R,,FRA,22.5,6-0 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,621,36
 2017-W-WITF-GRE-07A-2017,Heraklion $15K,Clay,32,15,20171030,20,214746,6,,Federica Bilardo,U,,ITA,18.3,220485,,Q,Alexandra Maria Staiculescu,U,,ROU,16.9,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,641,34,,
 2017-W-WITF-GRE-07A-2017,Heraklion $15K,Clay,32,15,20171030,21,214388,,,Anna Bondar,R,,HUN,20.4,215149,,Q,Emmanouela Antonakis,U,,GRE,17.2,6-7(4) 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,637,34,,
 2017-W-WITF-GRE-07A-2017,Heraklion $15K,Clay,32,15,20171030,22,220716,,Q,Oleksandra Oliynykova,R,,CRO,16.8,203095,,,Ioana Gaspar,R,,ROU,34.5,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,866,15
 2017-W-WITF-GRE-07A-2017,Heraklion $15K,Clay,32,15,20171030,23,214805,,,Satsuki Takamura,U,,JPN,18.0,204301,,,Barbara Bonic,R,,SRB,25.4,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,736,24,835,17
 2017-W-WITF-GRE-07A-2017,Heraklion $15K,Clay,32,15,20171030,24,214624,,,Anastasia Detiuc,U,,MDA,18.8,213896,,,Elina Nepliy,R,,RUS,20.0,3-6 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,803,19,1018,9
 2017-W-WITF-GRE-07A-2017,Heraklion $15K,Clay,32,15,20171030,25,202436,,,Reka Luca Jani,R,161,HUN,26.2,206003,,,Laura Schaeder,R,,GER,24.5,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,951,11,362,112
-2017-W-WITF-GRE-07A-2017,Heraklion $15K,Clay,32,15,20171030,26,214746,6,,Federica Bilardo,U,,ITA,18.3,216186,,,Aneta Laboutkova,U,,CZE,17.4,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,641,34,,
+2017-W-WITF-GRE-07A-2017,Heraklion $15K,Clay,32,15,20171030,26,214746,6,,Federica Bilardo,U,,ITA,18.3,216186,,,Aneta Laboutkova,L,,CZE,17.4,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,641,34,,
 2017-W-WITF-GRE-07A-2017,Heraklion $15K,Clay,32,15,20171030,27,214388,,,Anna Bondar,R,,HUN,20.4,220716,,Q,Oleksandra Oliynykova,R,,CRO,16.8,6-1 1-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,637,34,,
 2017-W-WITF-GRE-07A-2017,Heraklion $15K,Clay,32,15,20171030,28,214805,,,Satsuki Takamura,U,,JPN,18.0,214624,,,Anastasia Detiuc,U,,MDA,18.8,7-5 1-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,736,24,803,19
 2017-W-WITF-GRE-07A-2017,Heraklion $15K,Clay,32,15,20171030,29,202436,,,Reka Luca Jani,R,161,HUN,26.2,214746,6,,Federica Bilardo,U,,ITA,18.3,6-1 4-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,951,11,641,34
@@ -7049,7 +7049,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-HUN-02A-2017,Dunakeszi $25K,Clay,32,25,20170508,9,215096,,,Jaimee Fourlis,R,168,AUS,17.6,210705,6,,Irina Bara,R,,ROU,22.1,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,349,112,223,233
 2017-W-WITF-HUN-02A-2017,Dunakeszi $25K,Clay,32,25,20170508,10,211095,,,Bernarda Pera,L,175,USA,22.4,216236,,WC,Adrienn Horvath,R,,HUN,16.3,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,324,130,,
 2017-W-WITF-HUN-02A-2017,Dunakeszi $25K,Clay,32,25,20170508,11,206427,,Q,Daiana Negreanu,U,,ROU,28.8,214041,,WC,Bianka Bekefi,R,,HUN,20.1,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,472,67,713,26
-2017-W-WITF-HUN-02A-2017,Dunakeszi $25K,Clay,32,25,20170508,12,213594,,Q,Sandra Jamrichova,U,,SVK,19.6,206408,3,,Nadia Podoroska,U,170,ARG,20.2,6-4 RET,3,R32,,,,,,,,,,,,,,,,,,,,798,19,163,336
+2017-W-WITF-HUN-02A-2017,Dunakeszi $25K,Clay,32,25,20170508,12,213594,,Q,Sandra Jamrichova,U,,SVK,19.6,206408,3,,Nadia Podoroska,R,170,ARG,20.2,6-4 RET,3,R32,,,,,,,,,,,,,,,,,,,,798,19,163,336
 2017-W-WITF-HUN-02A-2017,Dunakeszi $25K,Clay,32,25,20170508,13,206335,5,,Jesika Maleckova,R,,CZE,22.7,211967,,Q,Nina Potocnik,R,,SLO,20.3,3-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,233,220,598,41
 2017-W-WITF-HUN-02A-2017,Dunakeszi $25K,Clay,32,25,20170508,14,213941,,Q,Anastasia Zarytska,U,,UKR,19.3,204384,,,Agnes Bukta,R,,HUN,23.5,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,437,75,335,123
 2017-W-WITF-HUN-02A-2017,Dunakeszi $25K,Clay,32,25,20170508,15,201649,,,Lenka Jurikova,R,,SVK,26.7,211406,,,Gabriela Pantuckova,R,,CZE,22.2,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,371,103,280,169
@@ -7135,7 +7135,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-HUN-05A-2017,Budapest $100K,Clay,32,100,20170710,2,202456,,,Alexandra Cadantu Ignatik,R,170,ROU,27.1,204384,,WC,Agnes Bukta,R,,HUN,23.6,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,172,321,342,128
 2017-W-WITF-HUN-05A-2017,Budapest $100K,Clay,32,100,20170710,3,206124,,,Tereza Martincova,R,178,CZE,22.7,206049,,,Jovana Jaksic,R,180,SRB,23.7,4-6 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,139,404,239,216
 2017-W-WITF-HUN-05A-2017,Budapest $100K,Clay,32,100,20170710,4,201531,8,,Mariana Duque Marino,R,169,COL,27.9,211967,,Q,Nina Potocnik,R,,SLO,20.4,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,121,457,551,50
-2017-W-WITF-HUN-05A-2017,Budapest $100K,Clay,32,100,20170710,5,206408,,,Nadia Podoroska,U,170,ARG,20.4,202453,3,,Saisai Zheng,R,170,CHN,23.4,3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,175,316,71,850
+2017-W-WITF-HUN-05A-2017,Budapest $100K,Clay,32,100,20170710,5,206408,,,Nadia Podoroska,R,170,ARG,20.4,202453,3,,Saisai Zheng,R,170,CHN,23.4,3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,175,316,71,850
 2017-W-WITF-HUN-05A-2017,Budapest $100K,Clay,32,100,20170710,6,205875,,LL,Chantal Skamlova,R,,SVK,23.8,214541,,,Fanny Stollar,R,172,HUN,18.6,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,348,124,205,276
 2017-W-WITF-HUN-05A-2017,Budapest $100K,Clay,32,100,20170710,7,202600,,,Viktoriya Tomova,R,170,BUL,22.3,211329,,WC,Tena Lukas,R,,CRO,22.1,7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,162,337,326,136
 2017-W-WITF-HUN-05A-2017,Budapest $100K,Clay,32,100,20170710,8,203533,,,Anna Karolina Schmiedlova,R,176,SVK,22.8,205723,,Q,Anna Zaja,R,183,GER,26.0,7-6(6) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,186,304,263,188
@@ -7149,7 +7149,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-HUN-05A-2017,Budapest $100K,Clay,32,100,20170710,16,214149,,,Viktoria Kuzmova,R,,SVK,19.1,201593,2,,Irina Camelia Begu,R,181,ROU,26.8,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,158,349,64,977
 2017-W-WITF-HUN-05A-2017,Budapest $100K,Clay,32,100,20170710,17,203575,,,Danka Kovinic,R,169,MNE,22.6,202456,,,Alexandra Cadantu Ignatik,R,170,ROU,27.1,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,125,444,172,321
 2017-W-WITF-HUN-05A-2017,Budapest $100K,Clay,32,100,20170710,18,201531,8,,Mariana Duque Marino,R,169,COL,27.9,206124,,,Tereza Martincova,R,178,CZE,22.7,0-6 6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,121,457,139,404
-2017-W-WITF-HUN-05A-2017,Budapest $100K,Clay,32,100,20170710,19,205875,,LL,Chantal Skamlova,R,,SVK,23.8,206408,,,Nadia Podoroska,U,170,ARG,20.4,2-6 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,348,124,175,316
+2017-W-WITF-HUN-05A-2017,Budapest $100K,Clay,32,100,20170710,19,205875,,LL,Chantal Skamlova,R,,SVK,23.8,206408,,,Nadia Podoroska,R,170,ARG,20.4,2-6 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,348,124,175,316
 2017-W-WITF-HUN-05A-2017,Budapest $100K,Clay,32,100,20170710,20,202600,,,Viktoriya Tomova,R,170,BUL,22.3,203533,,,Anna Karolina Schmiedlova,R,176,SVK,22.8,3-6 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,162,337,186,304
 2017-W-WITF-HUN-05A-2017,Budapest $100K,Clay,32,100,20170710,21,202701,5,,Irina Khromacheva,L,170,RUS,22.1,203435,,,Dalila Jakupovic,R,178,SLO,26.2,6-3 2-6 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,110,561,138,405
 2017-W-WITF-HUN-05A-2017,Budapest $100K,Clay,32,100,20170710,22,202450,4,,Jana Cepelova,R,168,SVK,24.1,201402,,,Sesil Karatantcheva,R,171,KAZ,27.9,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,91,694,235,221
@@ -7288,7 +7288,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-HUN-09A-2017,Szekesfehervar $15K,Clay,32,15,20170911,31,215910,2,,Panna Udvardy,R,170,HUN,18.9,202436,8,,Reka Luca Jani,R,161,HUN,26.1,7-5 6-3,3,F,,,,,,,,,,,,,,,,,,,,397,94,1224,3
 2017-W-WITF-IND-01A-2017,Gwalior $15K,Hard,32,15,20170227,1,201618,1,,Fatma Al Nabhani,R,170,OMA,25.7,215730,,WC,Prakriti Banwani,R,,IND,16.9,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,416,80,,
 2017-W-WITF-IND-01A-2017,Gwalior $15K,Hard,32,15,20170227,2,213944,,,Pranjala Yadlapalli,R,,IND,17.9,215089,,Q,Nandini Sharma,R,,IND,18.1,6-2 2-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,931,11,,
-2017-W-WITF-IND-01A-2017,Gwalior $15K,Hard,32,15,20170227,3,211080,,,Sai Samhitha Chamarthi,R,,IND,22.1,214367,,,Arthi M,U,,IND,22.1,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1031,8,,
+2017-W-WITF-IND-01A-2017,Gwalior $15K,Hard,32,15,20170227,3,211080,,,Sai Samhitha Chamarthi,R,,IND,22.1,214367,,,Arthi Muniyan,U,,IND,22.1,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1031,8,,
 2017-W-WITF-IND-01A-2017,Gwalior $15K,Hard,32,15,20170227,4,202676,5,,Prerna Bhambri,U,,IND,24.4,215223,,Q,Himani Mor,U,,IND,17.6,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,748,22,,
 2017-W-WITF-IND-01A-2017,Gwalior $15K,Hard,32,15,20170227,5,210370,3,,Sowjanya Bavisetti,L,,IND,23.2,220314,,,Yubarani Banerjee,U,,IND,16.3,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,729,23,,
 2017-W-WITF-IND-01A-2017,Gwalior $15K,Hard,32,15,20170227,6,211437,,Q,Bhuvana Kalva,R,,IND,22.0,211751,,,Alexandra Walters,R,,AUS,24.6,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,888,13
@@ -7318,7 +7318,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-IND-01A-2017,Gwalior $15K,Hard,32,15,20170227,30,215163,8,,Zeel Desai,R,,IND,18.0,215138,,Q,Lulu Sun,U,,SUI,15.8,6-3 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,,854,14,,
 2017-W-WITF-IND-01A-2017,Gwalior $15K,Hard,32,15,20170227,31,215163,8,,Zeel Desai,R,,IND,18.0,215755,,WC,Mahak Jain,R,,IND,15.6,6-3 7-5,3,F,,,,,,,,,,,,,,,,,,,,854,14,,
 2017-W-WITF-IND-02A-2017,Aurangabad $15K,Clay,32,15,20170605,1,216238,,,Ramya Natarajan,U,,IND,18.3,214225,1,,Snehadevi S Reddy,R,,IND,20.3,4-6 6-3 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,1173,5,635,37
-2017-W-WITF-IND-02A-2017,Aurangabad $15K,Clay,32,15,20170605,2,214416,,,Sindhu Janagam,R,,IND,20.5,214367,,,Arthi M,U,,IND,22.4,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2017-W-WITF-IND-02A-2017,Aurangabad $15K,Clay,32,15,20170605,2,214416,,,Sindhu Janagam,R,,IND,20.5,214367,,,Arthi Muniyan,U,,IND,22.4,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-IND-02A-2017,Aurangabad $15K,Clay,32,15,20170605,3,210192,,,Shweta Rana,R,,IND,23.8,215730,,Q,Prakriti Banwani,R,,IND,17.2,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1134,6,,
 2017-W-WITF-IND-02A-2017,Aurangabad $15K,Clay,32,15,20170605,4,211751,8,,Alexandra Walters,R,,AUS,24.8,215224,,Q,Aastha Dargude,R,,IND,18.1,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,949,12,,
 2017-W-WITF-IND-02A-2017,Aurangabad $15K,Clay,32,15,20170605,5,220314,,,Yubarani Banerjee,U,,IND,16.5,210584,4,,Fiona Codino,R,,FRA,21.7,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,768,22
@@ -8072,7 +8072,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-ITA-17A-2017,Rome $60K,Clay,32,60,20170703,9,202600,8,,Viktoriya Tomova,R,170,BUL,22.3,202456,,,Alexandra Cadantu Ignatik,R,170,ROU,27.1,2-6 7-6(0) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,162,337,172,321
 2017-W-WITF-ITA-17A-2017,Rome $60K,Clay,32,60,20170703,10,206037,,,Daniela Seguel,U,171,CHI,24.6,201699,,Q,Martina Caregaro,R,165,ITA,25.1,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,190,299,383,101
 2017-W-WITF-ITA-17A-2017,Rome $60K,Clay,32,60,20170703,11,203354,,,Martina Trevisan,L,160,ITA,23.6,213631,,,Marie Bouzkova,R,180,CZE,18.9,2-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,167,331,212,264
-2017-W-WITF-ITA-17A-2017,Rome $60K,Clay,32,60,20170703,12,203435,4,,Dalila Jakupovic,R,178,SLO,26.2,206408,,,Nadia Podoroska,U,170,ARG,20.3,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,138,405,175,316
+2017-W-WITF-ITA-17A-2017,Rome $60K,Clay,32,60,20170703,12,203435,4,,Dalila Jakupovic,R,178,SLO,26.2,206408,,,Nadia Podoroska,R,170,ARG,20.3,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,138,405,175,316
 2017-W-WITF-ITA-17A-2017,Rome $60K,Clay,32,60,20170703,13,211333,,,Georgia Brescia,R,,ITA,21.3,206045,5,,Quirine Lemoine,L,,NED,25.5,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,214,260,137,410
 2017-W-WITF-ITA-17A-2017,Rome $60K,Clay,32,60,20170703,14,203564,,,Chloe Paquet,R,179,FRA,23.0,202487,,WC,Nastassja Burnett,R,178,ITA,25.3,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,215,259,617,39
 2017-W-WITF-ITA-17A-2017,Rome $60K,Clay,32,60,20170703,15,202437,,Q,Anastasia Grymalska,R,,ITA,26.9,220427,,WC,Nina Nikprelevic,U,,USA,15.4,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,366,112,,
@@ -8380,7 +8380,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-ITA-28A-2017,Santa Margherita Di Pula $25K,Clay,32,25,20170925,7,206003,,,Laura Schaeder,R,,GER,24.4,206338,,,Stefania Rubini,U,,ITA,24.8,6-7(5) 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,347,119,344,120
 2017-W-WITF-ITA-28A-2017,Santa Margherita Di Pula $25K,Clay,32,25,20170925,8,211407,7,,Dejana Radanovic,U,,SRB,21.3,202487,,,Nastassja Burnett,R,178,ITA,25.5,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,279,183,879,14
 2017-W-WITF-ITA-28A-2017,Santa Margherita Di Pula $25K,Clay,32,25,20170925,9,202659,,,Tereza Mrdeza,R,173,CRO,26.8,216130,,WC,Elena De Santis,U,,ITA,18.6,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,244,219,,
-2017-W-WITF-ITA-28A-2017,Santa Margherita Di Pula $25K,Clay,32,25,20170925,10,211099,,,Nicoleta Catalina Dascalu,R,,ROU,21.7,214247,,Q,Lena Rueffer,U,,GER,19.0,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,374,101,620,36
+2017-W-WITF-ITA-28A-2017,Santa Margherita Di Pula $25K,Clay,32,25,20170925,10,211099,,,Nicoleta Catalina Dascalu,R,,ROU,21.7,214247,,Q,Lena Rueffer,R,,GER,19.0,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,374,101,620,36
 2017-W-WITF-ITA-28A-2017,Santa Margherita Di Pula $25K,Clay,32,25,20170925,11,202606,,Q,Claudia Giovine,R,,ITA,27.1,214697,,,Charlotte Robillard Millette,L,,CAN,18.7,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,598,39,532,51
 2017-W-WITF-ITA-28A-2017,Santa Margherita Di Pula $25K,Clay,32,25,20170925,12,210303,3,,Kathinka Von Deichmann,R,176,LIE,23.3,202435,,,Vanda Lukacs,U,,HUN,24.7,6-3 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,205,262,422,81
 2017-W-WITF-ITA-28A-2017,Santa Margherita Di Pula $25K,Clay,32,25,20170925,13,211539,,,Fiona Ferro,R,170,FRA,20.5,214322,,,Karolayne Alexandre Da Rosa,U,,BRA,19.8,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,309,151,1135,5
@@ -9705,13 +9705,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-LUX-01A-2017,Petange $15K,Hard,32,15,20171030,4,211303,6,,Deborah Kerfs,R,,BEL,22.6,210336,,,Rosalie Van Der Hoek,L,,NED,22.8,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,643,34,,
 2017-W-WITF-LUX-01A-2017,Petange $15K,Hard,32,15,20171030,5,215016,,,Eleonora Molinaro,U,,LUX,17.1,211556,,,Helene Scholsen,R,,BEL,21.8,4-6 6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,810,18,482,66
 2017-W-WITF-LUX-01A-2017,Petange $15K,Hard,32,15,20171030,6,215246,,Q,Mathilde Devits,U,,BEL,20.5,220770,,,Eva Vedder,R,,NED,17.9,6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1208,3,,
-2017-W-WITF-LUX-01A-2017,Petange $15K,Hard,32,15,20171030,7,220771,,,Isabella Pfennig,U,,GER,15.9,216095,,Q,Mina Hodzic,U,,GER,15.4,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1157,4
+2017-W-WITF-LUX-01A-2017,Petange $15K,Hard,32,15,20171030,7,220771,,,Isabella Pfennig,U,,GER,15.9,216095,,Q,Mina Hodzic,R,,GER,15.4,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1157,4
 2017-W-WITF-LUX-01A-2017,Petange $15K,Hard,32,15,20171030,8,220772,,,Julia Victoria Rennert,U,,GER,16.8,206145,8,,Diana Sumova,U,,CZE,23.0,6-3 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,,,654,32
 2017-W-WITF-LUX-01A-2017,Petange $15K,Hard,32,15,20171030,9,205714,,,Julie Gervais,U,,FRA,26.2,215167,,WC,Adrianna Sosnowska,U,,POL,18.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,579,42,,
 2017-W-WITF-LUX-01A-2017,Petange $15K,Hard,32,15,20171030,10,216170,,Q,Noa Liauw A Fong,R,,NED,17.4,216069,,,Justine Pysson,R,,BEL,17.3,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-LUX-01A-2017,Petange $15K,Hard,32,15,20171030,11,215697,,,Arlinda Rushiti,R,,SUI,18.5,202703,,,Constance Sibille,R,,FRA,26.9,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,781,20,1041,8
 2017-W-WITF-LUX-01A-2017,Petange $15K,Hard,32,15,20171030,12,203441,4,,Sviatlana Pirazhenka,R,,BLR,25.1,214004,,,Vendula Zovincova,R,,CZE,20.5,2-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,523,55,693,28
-2017-W-WITF-LUX-01A-2017,Petange $15K,Hard,32,15,20171030,13,214247,,,Lena Rueffer,U,,GER,19.1,216036,,,Luna Meers,U,,BEL,18.4,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,628,35,928,12
+2017-W-WITF-LUX-01A-2017,Petange $15K,Hard,32,15,20171030,13,214247,,,Lena Rueffer,R,,GER,19.1,216036,,,Luna Meers,U,,BEL,18.4,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,628,35,928,12
 2017-W-WITF-LUX-01A-2017,Petange $15K,Hard,32,15,20171030,14,203284,,,Katerina Vankova,L,,CZE,27.8,211537,,,Mathilde Armitano,R,,FRA,20.4,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,847,16,837,17
 2017-W-WITF-LUX-01A-2017,Petange $15K,Hard,32,15,20171030,15,204309,,,Stephanie Wagner,R,180,GER,23.1,215726,,WC,Tiphanie Fiquet,R,,FRA,17.4,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,904,13,,
 2017-W-WITF-LUX-01A-2017,Petange $15K,Hard,32,15,20171030,16,213855,2,,Magali Kempen,R,,BEL,19.9,206273,,,Claudia Coppola,R,,ITA,22.9,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,461,72,,
@@ -9721,12 +9721,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-LUX-01A-2017,Petange $15K,Hard,32,15,20171030,20,220772,,,Julia Victoria Rennert,U,,GER,16.8,220771,,,Isabella Pfennig,U,,GER,15.9,7-5 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-LUX-01A-2017,Petange $15K,Hard,32,15,20171030,21,205714,,,Julie Gervais,U,,FRA,26.2,216170,,Q,Noa Liauw A Fong,R,,NED,17.4,4-6 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,579,42,,
 2017-W-WITF-LUX-01A-2017,Petange $15K,Hard,32,15,20171030,22,203441,4,,Sviatlana Pirazhenka,R,,BLR,25.1,215697,,,Arlinda Rushiti,R,,SUI,18.5,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,523,55,781,20
-2017-W-WITF-LUX-01A-2017,Petange $15K,Hard,32,15,20171030,23,214247,,,Lena Rueffer,U,,GER,19.1,203284,,,Katerina Vankova,L,,CZE,27.8,5-7 6-1 3-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,628,35,847,16
+2017-W-WITF-LUX-01A-2017,Petange $15K,Hard,32,15,20171030,23,214247,,,Lena Rueffer,R,,GER,19.1,203284,,,Katerina Vankova,L,,CZE,27.8,5-7 6-1 3-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,628,35,847,16
 2017-W-WITF-LUX-01A-2017,Petange $15K,Hard,32,15,20171030,24,213855,2,,Magali Kempen,R,,BEL,19.9,204309,,,Stephanie Wagner,R,180,GER,23.1,2-6 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,461,72,904,13
 2017-W-WITF-LUX-01A-2017,Petange $15K,Hard,32,15,20171030,25,202874,,,Chayenne Ewijk,R,,NED,29.2,206144,,WC,Xenia Knoll,L,175,SUI,25.1,6-4 2-1 RET,3,QF,,,,,,,,,,,,,,,,,,,,689,28,794,19
 2017-W-WITF-LUX-01A-2017,Petange $15K,Hard,32,15,20171030,26,215016,,,Eleonora Molinaro,U,,LUX,17.1,220772,,,Julia Victoria Rennert,U,,GER,16.8,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,810,18,,
 2017-W-WITF-LUX-01A-2017,Petange $15K,Hard,32,15,20171030,27,203441,4,,Sviatlana Pirazhenka,R,,BLR,25.1,205714,,,Julie Gervais,U,,FRA,26.2,6-3 5-7 6-3,3,QF,,,,,,,,,,,,,,,,,,,,523,55,579,42
-2017-W-WITF-LUX-01A-2017,Petange $15K,Hard,32,15,20171030,28,213855,2,,Magali Kempen,R,,BEL,19.9,214247,,,Lena Rueffer,U,,GER,19.1,6-3 4-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,461,72,628,35
+2017-W-WITF-LUX-01A-2017,Petange $15K,Hard,32,15,20171030,28,213855,2,,Magali Kempen,R,,BEL,19.9,214247,,,Lena Rueffer,R,,GER,19.1,6-3 4-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,461,72,628,35
 2017-W-WITF-LUX-01A-2017,Petange $15K,Hard,32,15,20171030,29,202874,,,Chayenne Ewijk,R,,NED,29.2,215016,,,Eleonora Molinaro,U,,LUX,17.1,6-3 6-2,3,SF,,,,,,,,,,,,,,,,,,,,689,28,810,18
 2017-W-WITF-LUX-01A-2017,Petange $15K,Hard,32,15,20171030,30,203441,4,,Sviatlana Pirazhenka,R,,BLR,25.1,213855,2,,Magali Kempen,R,,BEL,19.9,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,523,55,461,72
 2017-W-WITF-LUX-01A-2017,Petange $15K,Hard,32,15,20171030,31,203441,4,,Sviatlana Pirazhenka,R,,BLR,25.1,202874,,,Chayenne Ewijk,R,,NED,29.2,6-2 4-6 6-0,3,F,,,,,,,,,,,,,,,,,,,,523,55,689,28
@@ -10081,7 +10081,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-NED-06A-2017,Schoonhoven $15K,Clay,32,15,20170828,8,204419,5,,Ana Sofia Sanchez,L,,MEX,23.3,203469,,,Albina Khabibulina,R,162,UZB,25.2,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,514,54,613,38
 2017-W-WITF-NED-06A-2017,Schoonhoven $15K,Clay,32,15,20170828,9,211303,6,,Deborah Kerfs,R,,BEL,22.4,215031,,,Dominique Karregat,R,,NED,21.9,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,572,44,911,13
 2017-W-WITF-NED-06A-2017,Schoonhoven $15K,Clay,32,15,20170828,10,202874,,,Chayenne Ewijk,R,,NED,29.0,220305,,Q,Salma Djoubri,R,,FRA,14.6,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,550,46,,
-2017-W-WITF-NED-06A-2017,Schoonhoven $15K,Clay,32,15,20170828,11,216095,,Q,Mina Hodzic,U,,GER,15.2,216191,,WC,Gabriella Mujan,R,,NED,17.1,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2017-W-WITF-NED-06A-2017,Schoonhoven $15K,Clay,32,15,20170828,11,216095,,Q,Mina Hodzic,R,,GER,15.2,216191,,WC,Gabriella Mujan,R,,NED,17.1,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-NED-06A-2017,Schoonhoven $15K,Clay,32,15,20170828,12,214919,,,Dalila Spiteri,U,,ITA,20.3,214706,4,,Dana Kremer,R,,GER,19.9,W/O,3,R32,,,,,,,,,,,,,,,,,,,,686,29,519,54
 2017-W-WITF-NED-06A-2017,Schoonhoven $15K,Clay,32,15,20170828,13,203379,8,,Marina Melnikova,R,173,RUS,28.5,215478,,Q,Claire Verwerda,U,,NED,20.5,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,582,42,,
 2017-W-WITF-NED-06A-2017,Schoonhoven $15K,Clay,32,15,20170828,14,214935,,,Malene Helgo,U,,NOR,18.0,212008,,,Dhruthi Tatachar Venugopal,R,,IND,20.6,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,818,17,603,39
@@ -10092,7 +10092,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-NED-06A-2017,Schoonhoven $15K,Clay,32,15,20170828,19,202471,3,,Karen Barbat,R,,DEN,25.1,214007,,,Dasha Ivanova,R,,USA,20.8,7-6(2) 1-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,503,56,630,36
 2017-W-WITF-NED-06A-2017,Schoonhoven $15K,Clay,32,15,20170828,20,204419,5,,Ana Sofia Sanchez,L,,MEX,23.3,214459,,,Lucia Bronzetti,R,,ITA,18.7,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,514,54,684,29
 2017-W-WITF-NED-06A-2017,Schoonhoven $15K,Clay,32,15,20170828,21,202874,,,Chayenne Ewijk,R,,NED,29.0,211303,6,,Deborah Kerfs,R,,BEL,22.4,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,550,46,572,44
-2017-W-WITF-NED-06A-2017,Schoonhoven $15K,Clay,32,15,20170828,22,214919,,,Dalila Spiteri,U,,ITA,20.3,216095,,Q,Mina Hodzic,U,,GER,15.2,6-4 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,686,29,,
+2017-W-WITF-NED-06A-2017,Schoonhoven $15K,Clay,32,15,20170828,22,214919,,,Dalila Spiteri,U,,ITA,20.3,216095,,Q,Mina Hodzic,R,,GER,15.2,6-4 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,686,29,,
 2017-W-WITF-NED-06A-2017,Schoonhoven $15K,Clay,32,15,20170828,23,203379,8,,Marina Melnikova,R,173,RUS,28.5,214935,,,Malene Helgo,U,,NOR,18.0,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,582,42,818,17
 2017-W-WITF-NED-06A-2017,Schoonhoven $15K,Clay,32,15,20170828,24,206032,,,Lisa Marie Maetschke,R,,GER,22.3,213694,2,,Lisa Matviyenko,R,,GER,19.8,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,739,24,477,63
 2017-W-WITF-NED-06A-2017,Schoonhoven $15K,Clay,32,15,20170828,25,202481,1,,Chi Chi Scholl,R,,USA,25.1,214885,,Q,Meritxell Perera Ros,U,,ESP,18.8,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,355,115,885,14
@@ -10202,7 +10202,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-PAR-01A-2017,Asuncion $15K,Clay,32,15,20171030,5,205848,,,Nathaly Kurata,R,,BRA,24.7,219310,,Q,Kelly Williford,L,,USA,23.0,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,473,68,1208,3
 2017-W-WITF-PAR-01A-2017,Asuncion $15K,Clay,32,15,20171030,6,216150,,,Lara Escauriza,R,,PAR,19.0,204249,,,Csilla Argyelan,R,,HUN,26.9,4-6 6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,963,11,1152,4
 2017-W-WITF-PAR-01A-2017,Asuncion $15K,Clay,32,15,20171030,7,206147,,,Sofia Luini,R,,ARG,24.9,220804,,,Liz Carolina Chileno,U,,PAR,18.1,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1181,4,,
-2017-W-WITF-PAR-01A-2017,Asuncion $15K,Clay,32,15,20171030,8,214136,,,Melany Solange Krywoj,U,,ARG,19.6,211725,7,,Nicole Frenkel,L,,USA,19.5,1-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,928,12,763,21
+2017-W-WITF-PAR-01A-2017,Asuncion $15K,Clay,32,15,20171030,8,214136,,,Melany Solange Krywoj,R,,ARG,19.6,211725,7,,Nicole Frenkel,L,,USA,19.5,1-6 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,928,12,763,21
 2017-W-WITF-PAR-01A-2017,Asuncion $15K,Clay,32,15,20171030,9,206343,,,Stephanie Mariel Petit,R,,ARG,21.1,215140,,Q,Eugenia Ganga,U,,ARG,19.2,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,569,44,1157,4
 2017-W-WITF-PAR-01A-2017,Asuncion $15K,Clay,32,15,20171030,10,206009,,,Giovanna Tomita,R,,BRA,24.5,220805,,WC,Ximena Monserrath Duarte Ramirez,U,,PAR,17.6,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1157,4,,
 2017-W-WITF-PAR-01A-2017,Asuncion $15K,Clay,32,15,20171030,11,215936,,,Francesca Jones,R,,GBR,17.1,213921,,,Aida Kalimullina,U,,RUS,21.6,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,817,18,,
@@ -10214,13 +10214,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-PAR-01A-2017,Asuncion $15K,Clay,32,15,20171030,17,206344,,,Fernanda Brito,R,172,CHI,25.7,215717,,Q,Candela Bugnon,U,,ARG,19.9,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,383,100,,
 2017-W-WITF-PAR-01A-2017,Asuncion $15K,Clay,32,15,20171030,18,210993,8,,Ivania Martinich,R,,CHI,22.2,211921,,,Julieta Lara Estable,R,,ARG,20.2,6-4 7-6(1),3,R16,,,,,,,,,,,,,,,,,,,,790,20,786,20
 2017-W-WITF-PAR-01A-2017,Asuncion $15K,Clay,32,15,20171030,19,205848,,,Nathaly Kurata,R,,BRA,24.7,216150,,,Lara Escauriza,R,,PAR,19.0,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,473,68,963,11
-2017-W-WITF-PAR-01A-2017,Asuncion $15K,Clay,32,15,20171030,20,214136,,,Melany Solange Krywoj,U,,ARG,19.6,206147,,,Sofia Luini,R,,ARG,24.9,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,928,12,1181,4
+2017-W-WITF-PAR-01A-2017,Asuncion $15K,Clay,32,15,20171030,20,214136,,,Melany Solange Krywoj,R,,ARG,19.6,206147,,,Sofia Luini,R,,ARG,24.9,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,928,12,1181,4
 2017-W-WITF-PAR-01A-2017,Asuncion $15K,Clay,32,15,20171030,21,206343,,,Stephanie Mariel Petit,R,,ARG,21.1,206009,,,Giovanna Tomita,R,,BRA,24.5,6-1 2-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,569,44,1157,4
 2017-W-WITF-PAR-01A-2017,Asuncion $15K,Clay,32,15,20171030,22,215936,,,Francesca Jones,R,,GBR,17.1,206332,4,,Camila Giangreco Campiz,R,,PAR,21.1,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,817,18,535,52
 2017-W-WITF-PAR-01A-2017,Asuncion $15K,Clay,32,15,20171030,23,213753,,,Thaisa Grana Pedretti,U,,BRA,18.4,215721,,,Rebeca Pereira,R,,BRA,24.6,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,642,34,1026,9
 2017-W-WITF-PAR-01A-2017,Asuncion $15K,Clay,32,15,20171030,24,211903,2,,Barbara Gatica,U,,CHI,21.2,214887,,,Stephanie Nemtsova,R,,USA,19.5,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,448,77,1062,7
 2017-W-WITF-PAR-01A-2017,Asuncion $15K,Clay,32,15,20171030,25,206344,,,Fernanda Brito,R,172,CHI,25.7,210993,8,,Ivania Martinich,R,,CHI,22.2,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,383,100,790,20
-2017-W-WITF-PAR-01A-2017,Asuncion $15K,Clay,32,15,20171030,26,205848,,,Nathaly Kurata,R,,BRA,24.7,214136,,,Melany Solange Krywoj,U,,ARG,19.6,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,473,68,928,12
+2017-W-WITF-PAR-01A-2017,Asuncion $15K,Clay,32,15,20171030,26,205848,,,Nathaly Kurata,R,,BRA,24.7,214136,,,Melany Solange Krywoj,R,,ARG,19.6,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,473,68,928,12
 2017-W-WITF-PAR-01A-2017,Asuncion $15K,Clay,32,15,20171030,27,215936,,,Francesca Jones,R,,GBR,17.1,206343,,,Stephanie Mariel Petit,R,,ARG,21.1,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,817,18,569,44
 2017-W-WITF-PAR-01A-2017,Asuncion $15K,Clay,32,15,20171030,28,213753,,,Thaisa Grana Pedretti,U,,BRA,18.4,211903,2,,Barbara Gatica,U,,CHI,21.2,7-6(4) 3-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,642,34,448,77
 2017-W-WITF-PAR-01A-2017,Asuncion $15K,Clay,32,15,20171030,29,206344,,,Fernanda Brito,R,172,CHI,25.7,205848,,,Nathaly Kurata,R,,BRA,24.7,6-3 6-7(2) 6-1,3,SF,,,,,,,,,,,,,,,,,,,,383,100,473,68
@@ -10229,7 +10229,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-PAR-01B-2017,Lambare $15K,Clay,32,15,20171023,1,206344,,,Fernanda Brito,R,172,CHI,25.6,204249,,,Csilla Argyelan,R,,HUN,26.9,1-6 6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,384,100,1152,4
 2017-W-WITF-PAR-01B-2017,Lambare $15K,Clay,32,15,20171023,2,202277,,,Mariana Correa,R,,ECU,32.9,220805,,WC,Ximena Monserrath Duarte Ramirez,U,,PAR,17.5,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1207,3,,
 2017-W-WITF-PAR-01B-2017,Lambare $15K,Clay,32,15,20171023,3,205933,,,Eduarda Piai,R,,BRA,25.8,206009,,,Giovanna Tomita,R,,BRA,24.5,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,782,20,1157,4
-2017-W-WITF-PAR-01B-2017,Lambare $15K,Clay,32,15,20171023,4,214136,,,Melany Solange Krywoj,U,,ARG,19.6,211725,7,Q,Nicole Frenkel,L,,USA,19.4,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,926,12,754,21
+2017-W-WITF-PAR-01B-2017,Lambare $15K,Clay,32,15,20171023,4,214136,,,Melany Solange Krywoj,R,,ARG,19.6,211725,7,Q,Nicole Frenkel,L,,USA,19.4,6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,926,12,754,21
 2017-W-WITF-PAR-01B-2017,Lambare $15K,Clay,32,15,20171023,5,206343,,,Stephanie Mariel Petit,R,,ARG,21.1,219909,,Q,Dolores Molina Portela,U,,ARG,19.7,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,574,44,,
 2017-W-WITF-PAR-01B-2017,Lambare $15K,Clay,32,15,20171023,6,214221,,,Ralina Kalimullina,U,,RUS,21.6,211452,,,Eva Raszkiewicz,U,,USA,24.8,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1125,5
 2017-W-WITF-PAR-01B-2017,Lambare $15K,Clay,32,15,20171023,7,220804,,WC,Liz Carolina Chileno,U,,PAR,18.1,211202,,,Sara Gimenez,U,,PAR,21.1,1-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -10243,7 +10243,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-PAR-01B-2017,Lambare $15K,Clay,32,15,20171023,15,215936,,,Francesca Jones,R,,GBR,17.0,205837,,,Melina Ferrero,R,,ARG,25.1,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,815,18,,
 2017-W-WITF-PAR-01B-2017,Lambare $15K,Clay,32,15,20171023,16,211903,2,Q,Barbara Gatica,U,,CHI,21.1,215846,,,Raffaela Alhach,R,,CAN,16.6,6-1 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,440,77,,
 2017-W-WITF-PAR-01B-2017,Lambare $15K,Clay,32,15,20171023,17,206344,,,Fernanda Brito,R,172,CHI,25.6,202277,,,Mariana Correa,R,,ECU,32.9,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,384,100,1207,3
-2017-W-WITF-PAR-01B-2017,Lambare $15K,Clay,32,15,20171023,18,205933,,,Eduarda Piai,R,,BRA,25.8,214136,,,Melany Solange Krywoj,U,,ARG,19.6,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,782,20,926,12
+2017-W-WITF-PAR-01B-2017,Lambare $15K,Clay,32,15,20171023,18,205933,,,Eduarda Piai,R,,BRA,25.8,214136,,,Melany Solange Krywoj,R,,ARG,19.6,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,782,20,926,12
 2017-W-WITF-PAR-01B-2017,Lambare $15K,Clay,32,15,20171023,19,206343,,,Stephanie Mariel Petit,R,,ARG,21.1,214221,,,Ralina Kalimullina,U,,RUS,21.6,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,574,44,,
 2017-W-WITF-PAR-01B-2017,Lambare $15K,Clay,32,15,20171023,20,210993,8,,Ivania Martinich,R,,CHI,22.2,220804,,WC,Liz Carolina Chileno,U,,PAR,18.1,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,764,21,,
 2017-W-WITF-PAR-01B-2017,Lambare $15K,Clay,32,15,20171023,21,211921,,,Julieta Lara Estable,R,,ARG,20.2,210138,,,Noelia Zeballos,R,168,BOL,23.4,2-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,777,20,710,26
@@ -10264,7 +10264,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-PAR-02A-2017,Encarnacion $15K,Clay,32,15,20171106,5,206332,,,Camila Giangreco Campiz,R,,PAR,21.2,216572,,Q,Maria Jazmin Amicuzi,U,,ARG,17.9,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,532,52,,
 2017-W-WITF-PAR-02A-2017,Encarnacion $15K,Clay,32,15,20171106,6,220804,,WC,Liz Carolina Chileno,U,,PAR,18.1,204249,,,Csilla Argyelan,R,,HUN,26.9,6-4 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,1154,4
 2017-W-WITF-PAR-02A-2017,Encarnacion $15K,Clay,32,15,20171106,7,215721,,,Rebeca Pereira,R,,BRA,24.6,214503,,,Warona Mdlulwa,U,,RSA,17.7,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1021,9,1208,3
-2017-W-WITF-PAR-02A-2017,Encarnacion $15K,Clay,32,15,20171106,8,214136,,,Melany Solange Krywoj,U,,ARG,19.6,211725,6,,Nicole Frenkel,L,,USA,19.5,4-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,905,13,1099,6
+2017-W-WITF-PAR-02A-2017,Encarnacion $15K,Clay,32,15,20171106,8,214136,,,Melany Solange Krywoj,R,,ARG,19.6,211725,6,,Nicole Frenkel,L,,USA,19.5,4-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,905,13,1099,6
 2017-W-WITF-PAR-02A-2017,Encarnacion $15K,Clay,32,15,20171106,9,210993,,,Ivania Martinich,R,,CHI,22.2,206009,,,Giovanna Tomita,R,,BRA,24.5,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,761,22,1159,4
 2017-W-WITF-PAR-02A-2017,Encarnacion $15K,Clay,32,15,20171106,10,205933,,,Eduarda Piai,R,,BRA,25.8,219909,,Q,Dolores Molina Portela,U,,ARG,19.7,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,763,22,,
 2017-W-WITF-PAR-02A-2017,Encarnacion $15K,Clay,32,15,20171106,11,219310,,,Kelly Williford,L,,USA,23.0,220805,,WC,Ximena Monserrath Duarte Ramirez,U,,PAR,17.6,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1208,3,,
@@ -10276,13 +10276,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-PAR-02A-2017,Encarnacion $15K,Clay,32,15,20171106,17,211903,,,Barbara Gatica,U,,CHI,21.2,213921,,Q,Aida Kalimullina,U,,RUS,21.6,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,450,75,,
 2017-W-WITF-PAR-02A-2017,Encarnacion $15K,Clay,32,15,20171106,18,215140,,,Eugenia Ganga,U,,ARG,19.2,211921,7,,Julieta Lara Estable,R,,ARG,20.3,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1159,4,757,22
 2017-W-WITF-PAR-02A-2017,Encarnacion $15K,Clay,32,15,20171106,19,206332,,,Camila Giangreco Campiz,R,,PAR,21.2,220804,,WC,Liz Carolina Chileno,U,,PAR,18.1,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,532,52,,
-2017-W-WITF-PAR-02A-2017,Encarnacion $15K,Clay,32,15,20171106,20,214136,,,Melany Solange Krywoj,U,,ARG,19.6,215721,,,Rebeca Pereira,R,,BRA,24.6,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,905,13,1021,9
+2017-W-WITF-PAR-02A-2017,Encarnacion $15K,Clay,32,15,20171106,20,214136,,,Melany Solange Krywoj,R,,ARG,19.6,215721,,,Rebeca Pereira,R,,BRA,24.6,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,905,13,1021,9
 2017-W-WITF-PAR-02A-2017,Encarnacion $15K,Clay,32,15,20171106,21,210993,,,Ivania Martinich,R,,CHI,22.2,205933,,,Eduarda Piai,R,,BRA,25.8,6-4 4-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,761,22,763,22
 2017-W-WITF-PAR-02A-2017,Encarnacion $15K,Clay,32,15,20171106,22,206343,4,,Stephanie Mariel Petit,R,,ARG,21.1,219310,,,Kelly Williford,L,,USA,23.0,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,551,48,1208,3
 2017-W-WITF-PAR-02A-2017,Encarnacion $15K,Clay,32,15,20171106,23,213753,,,Thaisa Grana Pedretti,U,,BRA,18.4,214887,,,Stephanie Nemtsova,R,,USA,19.5,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,573,44,1061,7
 2017-W-WITF-PAR-02A-2017,Encarnacion $15K,Clay,32,15,20171106,24,205848,2,,Nathaly Kurata,R,,BRA,24.7,216150,,,Lara Escauriza,R,,PAR,19.0,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,471,68,960,11
 2017-W-WITF-PAR-02A-2017,Encarnacion $15K,Clay,32,15,20171106,25,211903,,,Barbara Gatica,U,,CHI,21.2,215140,,,Eugenia Ganga,U,,ARG,19.2,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,450,75,1159,4
-2017-W-WITF-PAR-02A-2017,Encarnacion $15K,Clay,32,15,20171106,26,206332,,,Camila Giangreco Campiz,R,,PAR,21.2,214136,,,Melany Solange Krywoj,U,,ARG,19.6,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,532,52,905,13
+2017-W-WITF-PAR-02A-2017,Encarnacion $15K,Clay,32,15,20171106,26,206332,,,Camila Giangreco Campiz,R,,PAR,21.2,214136,,,Melany Solange Krywoj,R,,ARG,19.6,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,532,52,905,13
 2017-W-WITF-PAR-02A-2017,Encarnacion $15K,Clay,32,15,20171106,27,206343,4,,Stephanie Mariel Petit,R,,ARG,21.1,210993,,,Ivania Martinich,R,,CHI,22.2,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,551,48,761,22
 2017-W-WITF-PAR-02A-2017,Encarnacion $15K,Clay,32,15,20171106,28,205848,2,,Nathaly Kurata,R,,BRA,24.7,213753,,,Thaisa Grana Pedretti,U,,BRA,18.4,6-2 7-6(5),3,QF,,,,,,,,,,,,,,,,,,,,471,68,573,44
 2017-W-WITF-PAR-02A-2017,Encarnacion $15K,Clay,32,15,20171106,29,206332,,,Camila Giangreco Campiz,R,,PAR,21.2,211903,,,Barbara Gatica,U,,CHI,21.2,7-6(2) 6-1,3,SF,,,,,,,,,,,,,,,,,,,,532,52,450,75
@@ -10383,7 +10383,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-POL-03A-2017,Mragowo $15K,Clay,32,15,20170807,31,205056,,,Marta Lesniak,R,,POL,29.3,214191,1,,Seone Mendez,R,,AUS,18.2,6-4 6-4,3,F,,,,,,,,,,,,,,,,,,,,819,17,500,57
 2017-W-WITF-POL-04A-2017,Mragowo $15K,Clay,32,15,20170814,1,211541,1,,Jacqueline Cabaj Awad,R,,SWE,21.5,211683,,LL,Aleksandra Buczynska,U,,POL,19.8,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,484,62,1170,4
 2017-W-WITF-POL-04A-2017,Mragowo $15K,Clay,32,15,20170814,2,214074,,WC,Weronika Jasmina Forys,U,,POL,18.6,215926,,,Julita Saner,U,,SWE,18.2,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1170,4,1036,8
-2017-W-WITF-POL-04A-2017,Mragowo $15K,Clay,32,15,20170814,3,206145,,,Diana Sumova,U,,CZE,22.8,214136,,Q,Melany Solange Krywoj,U,,ARG,19.4,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,713,25,1049,8
+2017-W-WITF-POL-04A-2017,Mragowo $15K,Clay,32,15,20170814,3,206145,,,Diana Sumova,U,,CZE,22.8,214136,,Q,Melany Solange Krywoj,R,,ARG,19.4,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,713,25,1049,8
 2017-W-WITF-POL-04A-2017,Mragowo $15K,Clay,32,15,20170814,4,211887,7,,Maia Lumsden,R,,GBR,19.5,213835,,,Alba Carrillo Marin,U,,ESP,21.4,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,656,31,651,32
 2017-W-WITF-POL-04A-2017,Mragowo $15K,Clay,32,15,20170814,5,206166,4,,Jade Suvrijn,R,,FRA,22.2,204249,,Q,Csilla Argyelan,R,,HUN,26.7,7-5 2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,562,45,1167,4
 2017-W-WITF-POL-04A-2017,Mragowo $15K,Clay,32,15,20170814,6,214433,,Q,Katarzyna Wysoczanska,U,,POL,19.6,215645,,WC,Paulina Jastrzebska,U,,POL,19.6,6-2 6-7(6) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -10422,7 +10422,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-POL-05A-2017,Mragowo $15K,Clay,32,15,20170821,8,206177,,Q,Joana Eidukonyte,R,172,LTU,22.8,211876,8,,Angelina Zhuravleva,U,,RUS,20.7,6-7(4) 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,818,18
 2017-W-WITF-POL-05A-2017,Mragowo $15K,Clay,32,15,20170821,9,206027,7,,Angelica Moratelli,R,173,ITA,23.0,215505,,,Laura Svatikova,R,,SVK,23.3,2-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,747,23,1081,7
 2017-W-WITF-POL-05A-2017,Mragowo $15K,Clay,32,15,20170821,10,215110,,Q,Joanna Zawadzka,U,,POL,20.4,214513,,LL,Yulia Sokolovskaya,U,,RUS,19.3,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2017-W-WITF-POL-05A-2017,Mragowo $15K,Clay,32,15,20170821,11,214784,,WC,Daria Kuczer,R,,POL,18.4,214136,,,Melany Solange Krywoj,U,,ARG,19.4,5-7 6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1046,8
+2017-W-WITF-POL-05A-2017,Mragowo $15K,Clay,32,15,20170821,11,214784,,WC,Daria Kuczer,R,,POL,18.4,214136,,,Melany Solange Krywoj,R,,ARG,19.4,5-7 6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1046,8
 2017-W-WITF-POL-05A-2017,Mragowo $15K,Clay,32,15,20170821,12,215437,3,,Monika Kilnarova,U,,CZE,17.8,213896,,,Elina Nepliy,R,,RUS,19.8,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,492,59,988,10
 2017-W-WITF-POL-05A-2017,Mragowo $15K,Clay,32,15,20170821,13,215218,,,Anna Ukolova,U,,RUS,18.4,213835,5,,Alba Carrillo Marin,U,,ESP,21.4,6-7(6) 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1016,9,652,32
 2017-W-WITF-POL-05A-2017,Mragowo $15K,Clay,32,15,20170821,14,206116,,,Sofia Dmitrieva,U,,RUS,23.0,215424,,,Patrycja Polanska,R,,POL,20.0,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,953,11,1094,7
@@ -10449,7 +10449,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-POL-06A-2017,Mragowo $15K,Clay,32,15,20170828,4,206027,6,,Angelica Moratelli,R,173,ITA,23.0,215145,,Q,Hanna Sokal,U,,BLR,18.6,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,720,25,,
 2017-W-WITF-POL-06A-2017,Mragowo $15K,Clay,32,15,20170828,5,206277,3,,Marine Partaud,R,,FRA,22.8,215505,,,Laura Svatikova,R,,SVK,23.3,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,553,46,1079,7
 2017-W-WITF-POL-06A-2017,Mragowo $15K,Clay,32,15,20170828,6,214513,,Q,Yulia Sokolovskaya,U,,RUS,19.3,214479,,,Yarden Akler,U,,ISR,18.3,6-3 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,1171,4
-2017-W-WITF-POL-06A-2017,Mragowo $15K,Clay,32,15,20170828,7,214136,,,Melany Solange Krywoj,U,,ARG,19.4,214360,,Q,Natalie Cvackova,U,,CZE,21.6,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1047,8,,
+2017-W-WITF-POL-06A-2017,Mragowo $15K,Clay,32,15,20170828,7,214136,,,Melany Solange Krywoj,R,,ARG,19.4,214360,,Q,Natalie Cvackova,U,,CZE,21.6,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1047,8,,
 2017-W-WITF-POL-06A-2017,Mragowo $15K,Clay,32,15,20170828,8,205056,5,,Marta Lesniak,R,,POL,29.4,214463,,Q,Yuval Keren,U,,ISR,18.5,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,588,41,1230,3
 2017-W-WITF-POL-06A-2017,Mragowo $15K,Clay,32,15,20170828,9,214809,8,,Aleksandra Vostrikova,U,,RUS,20.0,206116,,,Sofia Dmitrieva,U,,RUS,23.0,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,841,16,950,11
 2017-W-WITF-POL-06A-2017,Mragowo $15K,Clay,32,15,20170828,10,216355,,Q,Giorgie Jones,U,,AUS,20.5,214978,,LL,Akiko Okuda,U,,USA,23.9,6-3 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1230,3,,
@@ -10462,7 +10462,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-POL-06A-2017,Mragowo $15K,Clay,32,15,20170828,17,214295,1,,Tereza Mihalikova,R,179,SVK,19.2,214784,,WC,Daria Kuczer,R,,POL,18.5,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,436,76,,
 2017-W-WITF-POL-06A-2017,Mragowo $15K,Clay,32,15,20170828,18,206027,6,,Angelica Moratelli,R,173,ITA,23.0,214074,,,Weronika Jasmina Forys,U,,POL,18.6,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,720,25,1147,5
 2017-W-WITF-POL-06A-2017,Mragowo $15K,Clay,32,15,20170828,19,206277,3,,Marine Partaud,R,,FRA,22.8,214513,,Q,Yulia Sokolovskaya,U,,RUS,19.3,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,553,46,,
-2017-W-WITF-POL-06A-2017,Mragowo $15K,Clay,32,15,20170828,20,205056,5,,Marta Lesniak,R,,POL,29.4,214136,,,Melany Solange Krywoj,U,,ARG,19.4,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,588,41,1047,8
+2017-W-WITF-POL-06A-2017,Mragowo $15K,Clay,32,15,20170828,20,205056,5,,Marta Lesniak,R,,POL,29.4,214136,,,Melany Solange Krywoj,R,,ARG,19.4,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,588,41,1047,8
 2017-W-WITF-POL-06A-2017,Mragowo $15K,Clay,32,15,20170828,21,214809,8,,Aleksandra Vostrikova,U,,RUS,20.0,216355,,Q,Giorgie Jones,U,,AUS,20.5,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,841,16,1230,3
 2017-W-WITF-POL-06A-2017,Mragowo $15K,Clay,32,15,20170828,22,211887,4,,Maia Lumsden,R,,GBR,19.6,214959,,,Nika Shytkouskaya,U,,BLR,18.5,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,637,34,901,13
 2017-W-WITF-POL-06A-2017,Mragowo $15K,Clay,32,15,20170828,23,211876,7,,Angelina Zhuravleva,U,,RUS,20.7,214433,,Q,Katarzyna Wysoczanska,U,,POL,19.6,6-4 2-6 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,843,16,,
@@ -10484,7 +10484,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-POL-07A-2017,Zawada Near Opole $25K,Carpet,32,25,20171113,8,201565,,,Katarzyna Piter,R,173,POL,26.7,205875,5,,Chantal Skamlova,R,,SVK,24.1,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,367,113,234,236
 2017-W-WITF-POL-07A-2017,Zawada Near Opole $25K,Carpet,32,25,20171113,9,203549,,,Olga Ianchuk,R,,UKR,22.6,214074,,Q,Weronika Jasmina Forys,U,,POL,18.8,7-6(1) 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,235,235,967,11
 2017-W-WITF-POL-07A-2017,Zawada Near Opole $25K,Carpet,32,25,20171113,10,206335,,,Jesika Maleckova,R,,CZE,23.2,206070,,,Sofiya Kovalets,R,,UKR,23.3,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,310,153,576,45
-2017-W-WITF-POL-07A-2017,Zawada Near Opole $25K,Carpet,32,25,20171113,11,214247,,Q,Lena Rueffer,U,,GER,19.2,214956,,,Miriam Kolodziejova,R,,CZE,20.5,5-7 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,610,39,398,96
+2017-W-WITF-POL-07A-2017,Zawada Near Opole $25K,Carpet,32,25,20171113,11,214247,,Q,Lena Rueffer,R,,GER,19.2,214956,,,Miriam Kolodziejova,R,,CZE,20.5,5-7 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,610,39,398,96
 2017-W-WITF-POL-07A-2017,Zawada Near Opole $25K,Carpet,32,25,20171113,12,211328,4,,Deborah Chiesa,R,170,ITA,21.4,211329,,,Tena Lukas,R,,CRO,22.5,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,218,256,336,133
 2017-W-WITF-POL-07A-2017,Zawada Near Opole $25K,Carpet,32,25,20171113,13,202443,,,Valeria Savinykh,R,167,RUS,26.7,203284,,Q,Katerina Vankova,L,,CZE,27.8,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,275,196,843,17
 2017-W-WITF-POL-07A-2017,Zawada Near Opole $25K,Carpet,32,25,20171113,14,213923,,,Nina Alibalic,U,,CRO,18.9,215262,,WC,Constanze Stepan,U,,GER,19.9,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,514,58,,
@@ -10495,7 +10495,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-POL-07A-2017,Zawada Near Opole $25K,Carpet,32,25,20171113,19,202457,,,Bibiane Schoofs,R,170,NED,29.5,214123,,,Kristina Schmiedlova,R,,SVK,20.2,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,204,280,668,32
 2017-W-WITF-POL-07A-2017,Zawada Near Opole $25K,Carpet,32,25,20171113,20,201565,,,Katarzyna Piter,R,173,POL,26.7,206145,,Q,Diana Sumova,U,,CZE,23.1,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,367,113,664,32
 2017-W-WITF-POL-07A-2017,Zawada Near Opole $25K,Carpet,32,25,20171113,21,203549,,,Olga Ianchuk,R,,UKR,22.6,206335,,,Jesika Maleckova,R,,CZE,23.2,5-7 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,235,235,310,153
-2017-W-WITF-POL-07A-2017,Zawada Near Opole $25K,Carpet,32,25,20171113,22,211328,4,,Deborah Chiesa,R,170,ITA,21.4,214247,,Q,Lena Rueffer,U,,GER,19.2,W/O,3,R16,,,,,,,,,,,,,,,,,,,,218,256,610,39
+2017-W-WITF-POL-07A-2017,Zawada Near Opole $25K,Carpet,32,25,20171113,22,211328,4,,Deborah Chiesa,R,170,ITA,21.4,214247,,Q,Lena Rueffer,R,,GER,19.2,W/O,3,R16,,,,,,,,,,,,,,,,,,,,218,256,610,39
 2017-W-WITF-POL-07A-2017,Zawada Near Opole $25K,Carpet,32,25,20171113,23,202443,,,Valeria Savinykh,R,167,RUS,26.7,213923,,,Nina Alibalic,U,,CRO,18.9,6-3 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,275,196,514,58
 2017-W-WITF-POL-07A-2017,Zawada Near Opole $25K,Carpet,32,25,20171113,24,210303,2,,Kathinka Von Deichmann,R,176,LIE,23.4,215999,,,Julia Oczachowska,U,,POL,17.1,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,199,288,1068,7
 2017-W-WITF-POL-07A-2017,Zawada Near Opole $25K,Carpet,32,25,20171113,25,216081,,,Maja Chwalinska,L,,POL,16.0,211031,,Q,Sarah Beth Grey,L,,GBR,22.2,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,594,41,655,33
@@ -14285,7 +14285,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-TUR-16A-2017,Antalya $15K,Clay,32,15,20170424,30,204434,2,,Ysaline Bonaventure,L,178,BEL,22.6,214020,,,Amina Anshba,L,,RUS,17.6,7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,349,111,669,31
 2017-W-WITF-TUR-16A-2017,Antalya $15K,Clay,32,15,20170424,31,204434,2,,Ysaline Bonaventure,L,178,BEL,22.6,203556,1,,Yuuki Tanaka,L,160,JPN,27.1,6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,349,111,331,123
 2017-W-WITF-TUR-17A-2017,Antalya $15K,Clay,32,15,20170501,1,214020,,,Amina Anshba,L,,RUS,17.6,213767,1,,Ayla Aksu,R,170,USA,20.7,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,670,31,284,161
-2017-W-WITF-TUR-17A-2017,Antalya $15K,Clay,32,15,20170501,2,214007,,,Dasha Ivanova,R,,USA,20.5,214604,,Q,Maria Carle,U,,ARG,17.2,7-6(5) 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,651,34,,
+2017-W-WITF-TUR-17A-2017,Antalya $15K,Clay,32,15,20170501,2,214007,,,Dasha Ivanova,R,,USA,20.5,214604,,Q,Maria Carle,R,,ARG,17.2,7-6(5) 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,651,34,,
 2017-W-WITF-TUR-17A-2017,Antalya $15K,Clay,32,15,20170501,3,201652,,,Ksenia Palkina,R,174,KGZ,27.3,202691,,,Ani Vangelova,U,,BUL,23.7,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,751,23,687,29
 2017-W-WITF-TUR-17A-2017,Antalya $15K,Clay,32,15,20170501,4,212054,,Q,Amelie Intert,U,,GER,20.8,214812,8,,Aleksandra Pospelova,U,,RUS,19.0,7-6(4) 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1237,3,635,36
 2017-W-WITF-TUR-17A-2017,Antalya $15K,Clay,32,15,20170501,5,214148,3,,Magdalena Pantuckova,U,,CZE,18.2,208577,,,Joanna Carswell,R,,NZL,28.8,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,460,69,816,17
@@ -14319,10 +14319,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,2,211266,,,Yulia Kulikova,U,,RUS,27.6,214106,,,Guillermina Naya,R,,ARG,20.6,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,967,11,901,13
 2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,3,213998,,,Ipek Oz,U,,TUR,17.8,211722,,,Szabina Szlavikovics,R,,HUN,21.6,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,978,10,864,15
 2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,4,201652,,,Ksenia Palkina,R,174,KGZ,27.4,211779,5,,Yana Morderger,R,,GER,20.1,5-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,683,29,534,51
-2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,5,214136,,Q,Melany Solange Krywoj,U,,ARG,19.1,213582,4,,Kateryna Sliusar,U,,UKR,19.4,6-4 6-7(2) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,523,53
+2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,5,214136,,Q,Melany Solange Krywoj,R,,ARG,19.1,213582,4,,Kateryna Sliusar,U,,UKR,19.4,6-4 6-7(2) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,523,53
 2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,6,210781,,,Kristina Ostojic,R,,SRB,22.2,204397,,,Arina Folts,R,,UZB,20.3,6-3 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,927,12,695,27
 2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,7,214479,,WC,Yarden Akler,U,,ISR,18.0,202691,,,Ani Vangelova,U,,BUL,23.8,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,685,29
-2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,8,206336,6,,Julia Stamatova,L,,BUL,23.9,214604,,Q,Maria Carle,U,,ARG,17.2,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,603,41,,
+2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,8,206336,6,,Julia Stamatova,L,,BUL,23.9,214604,,Q,Maria Carle,R,,ARG,17.2,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,603,41,,
 2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,9,211903,7,,Barbara Gatica,U,,CHI,20.7,201305,,,Eleni Daniilidou,R,182,GRE,34.6,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,596,41,833,16
 2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,10,215862,,Q,Vitalia Stamat,U,,MDA,16.3,214221,,WC,Ralina Kalimullina,U,,RUS,21.1,6-0 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,11,215554,,,Maryna Chernyshova,R,,UKR,17.8,206116,,WC,Sofia Dmitrieva,U,,RUS,22.7,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,670,31,961,11
@@ -14333,17 +14333,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,16,211285,2,,Tayisiya Morderger,L,,GER,20.1,215218,,Q,Anna Ukolova,U,,RUS,18.1,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,434,77,1110,6
 2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,17,213779,1,,Raluka Serban,R,,CYP,19.8,211266,,,Yulia Kulikova,U,,RUS,27.6,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,419,81,967,11
 2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,18,201652,,,Ksenia Palkina,R,174,KGZ,27.4,213998,,,Ipek Oz,U,,TUR,17.8,7-5 5-7 6-3,3,R16,,,,,,,,,,,,,,,,,,,,683,29,978,10
-2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,19,214136,,Q,Melany Solange Krywoj,U,,ARG,19.1,210781,,,Kristina Ostojic,R,,SRB,22.2,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,927,12
+2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,19,214136,,Q,Melany Solange Krywoj,R,,ARG,19.1,210781,,,Kristina Ostojic,R,,SRB,22.2,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,927,12
 2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,20,206336,6,,Julia Stamatova,L,,BUL,23.9,214479,,WC,Yarden Akler,U,,ISR,18.0,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,603,41,,
 2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,21,211903,7,,Barbara Gatica,U,,CHI,20.7,215862,,Q,Vitalia Stamat,U,,MDA,16.3,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,596,41,,
 2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,22,202387,3,,Vlada Ekshibarova,R,,UZB,28.1,215554,,,Maryna Chernyshova,R,,UKR,17.8,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,439,75,670,31
 2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,23,214007,8,,Dasha Ivanova,R,,USA,20.5,214962,,,Anna Pribylova,R,,RUS,19.3,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,649,34,1043,8
 2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,24,211285,2,,Tayisiya Morderger,L,,GER,20.1,215075,,WC,Laura Heinrichs,U,,GER,26.4,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,434,77,933,12
 2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,25,213779,1,,Raluka Serban,R,,CYP,19.8,201652,,,Ksenia Palkina,R,174,KGZ,27.4,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,419,81,683,29
-2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,26,214136,,Q,Melany Solange Krywoj,U,,ARG,19.1,206336,6,,Julia Stamatova,L,,BUL,23.9,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,603,41
+2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,26,214136,,Q,Melany Solange Krywoj,R,,ARG,19.1,206336,6,,Julia Stamatova,L,,BUL,23.9,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,603,41
 2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,27,202387,3,,Vlada Ekshibarova,R,,UZB,28.1,211903,7,,Barbara Gatica,U,,CHI,20.7,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,439,75,596,41
 2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,28,214007,8,,Dasha Ivanova,R,,USA,20.5,211285,2,,Tayisiya Morderger,L,,GER,20.1,7-5 7-5,3,QF,,,,,,,,,,,,,,,,,,,,649,34,434,77
-2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,29,213779,1,,Raluka Serban,R,,CYP,19.8,214136,,Q,Melany Solange Krywoj,U,,ARG,19.1,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,419,81,,
+2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,29,213779,1,,Raluka Serban,R,,CYP,19.8,214136,,Q,Melany Solange Krywoj,R,,ARG,19.1,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,419,81,,
 2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,30,214007,8,,Dasha Ivanova,R,,USA,20.5,202387,3,,Vlada Ekshibarova,R,,UZB,28.1,6-2 2-2 RET,3,SF,,,,,,,,,,,,,,,,,,,,649,34,439,75
 2017-W-WITF-TUR-18A-2017,Antalya $15K,Clay,32,15,20170508,31,213779,1,,Raluka Serban,R,,CYP,19.8,214007,8,,Dasha Ivanova,R,,USA,20.5,7-5 6-2,3,F,,,,,,,,,,,,,,,,,,,,419,81,649,34
 2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,1,202491,1,WC,Varvara Flink,R,175,RUS,20.4,215249,,WC,Shou Na Mu,U,,CHN,16.4,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,247,207,1183,4
@@ -14351,13 +14351,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,3,215075,,,Laura Heinrichs,U,,GER,26.4,206116,,,Sofia Dmitrieva,U,,RUS,22.7,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,930,12,929,12
 2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,4,215554,7,,Maryna Chernyshova,R,,UKR,17.8,214106,,,Guillermina Naya,R,,ARG,20.6,3-6 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,673,31,881,14
 2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,5,213998,,Q,Ipek Oz,U,,TUR,17.8,211903,3,,Barbara Gatica,U,,CHI,20.7,6-3 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,975,10,536,51
-2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,6,215750,,Q,Ana Biskic,U,,CRO,17.8,214136,,SE,Melany Solange Krywoj,U,,ARG,19.2,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1216,4,,
+2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,6,215750,,Q,Ana Biskic,U,,CRO,17.8,214136,,SE,Melany Solange Krywoj,R,,ARG,19.2,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1216,4,,
 2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,7,206258,,Q,Dunja Stamenkovic,U,,SRB,24.1,211689,,WC,Deniz Paykoc,R,,TUR,19.0,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,8,202604,5,,Despina Papamichail,R,178,GRE,24.2,204397,,,Arina Folts,R,,UZB,20.3,7-6(1) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,588,43,698,27
 2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,9,210138,,,Noelia Zeballos,R,168,BOL,23.0,210526,6,,Valeria Bhunu,R,,ZIM,22.1,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,811,18,671,32
 2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,10,214176,,Q,Valeria Gorlats,R,,EST,19.1,215272,,Q,Zhuoma Ni Ma,U,,CHN,16.3,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,11,214762,,,Mirabelle Njoze,L,,GBR,20.2,202691,,,Ani Vangelova,U,,BUL,23.8,7-6(3) 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,689,29,690,29
-2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,12,214604,,Q,Maria Carle,U,,ARG,17.2,214007,4,,Dasha Ivanova,R,,USA,20.5,6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,,,656,34
+2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,12,214604,,Q,Maria Carle,R,,ARG,17.2,214007,4,,Dasha Ivanova,R,,USA,20.5,6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,,,656,34
 2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,13,214770,8,,Emilie Francati,R,,DEN,19.8,211266,,,Yulia Kulikova,U,,RUS,27.6,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,683,30,964,11
 2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,14,211283,,,Karoline Kurz,U,,AUT,20.9,210742,,,Mariana Drazic,R,,CRO,22.3,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,906,13,746,24
 2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,15,216148,,WC,Anna Laguza,U,,UKR,15.9,220398,,Q,Kristina Sorokolet,U,,RUS,17.2,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -14367,18 +14367,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,19,213998,,Q,Ipek Oz,U,,TUR,17.8,215750,,Q,Ana Biskic,U,,CRO,17.8,6-2 2-6 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,975,10,1216,4
 2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,20,202604,5,,Despina Papamichail,R,178,GRE,24.2,206258,,Q,Dunja Stamenkovic,U,,SRB,24.1,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,588,43,,
 2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,21,210138,,,Noelia Zeballos,R,168,BOL,23.0,214176,,Q,Valeria Gorlats,R,,EST,19.1,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,811,18,,
-2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,22,214604,,Q,Maria Carle,U,,ARG,17.2,214762,,,Mirabelle Njoze,L,,GBR,20.2,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,689,29
+2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,22,214604,,Q,Maria Carle,R,,ARG,17.2,214762,,,Mirabelle Njoze,L,,GBR,20.2,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,689,29
 2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,23,214770,8,,Emilie Francati,R,,DEN,19.8,211283,,,Karoline Kurz,U,,AUT,20.9,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,683,30,906,13
 2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,24,202387,2,,Vlada Ekshibarova,R,,UZB,28.1,216148,,WC,Anna Laguza,U,,UKR,15.9,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,431,77,,
 2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,25,202491,1,WC,Varvara Flink,R,175,RUS,20.4,215554,7,,Maryna Chernyshova,R,,UKR,17.8,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,247,207,673,31
 2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,26,202604,5,,Despina Papamichail,R,178,GRE,24.2,213998,,Q,Ipek Oz,U,,TUR,17.8,6-3 6-7(5) 6-3,3,QF,,,,,,,,,,,,,,,,,,,,588,43,975,10
-2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,27,214604,,Q,Maria Carle,U,,ARG,17.2,210138,,,Noelia Zeballos,R,168,BOL,23.0,6-4 6-7(6) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,811,18
+2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,27,214604,,Q,Maria Carle,R,,ARG,17.2,210138,,,Noelia Zeballos,R,168,BOL,23.0,6-4 6-7(6) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,811,18
 2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,28,202387,2,,Vlada Ekshibarova,R,,UZB,28.1,214770,8,,Emilie Francati,R,,DEN,19.8,6-1 4-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,431,77,683,30
 2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,29,202491,1,WC,Varvara Flink,R,175,RUS,20.4,202604,5,,Despina Papamichail,R,178,GRE,24.2,6-1 0-6 7-6(1),3,SF,,,,,,,,,,,,,,,,,,,,247,207,588,43
-2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,30,214604,,Q,Maria Carle,U,,ARG,17.2,202387,2,,Vlada Ekshibarova,R,,UZB,28.1,7-6(2) 0-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,431,77
-2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,31,202491,1,WC,Varvara Flink,R,175,RUS,20.4,214604,,Q,Maria Carle,U,,ARG,17.2,6-4 7-6(5),3,F,,,,,,,,,,,,,,,,,,,,247,207,,
+2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,30,214604,,Q,Maria Carle,R,,ARG,17.2,202387,2,,Vlada Ekshibarova,R,,UZB,28.1,7-6(2) 0-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,431,77
+2017-W-WITF-TUR-19A-2017,Antalya $15K,Clay,32,15,20170515,31,202491,1,WC,Varvara Flink,R,175,RUS,20.4,214604,,Q,Maria Carle,R,,ARG,17.2,6-4 7-6(5),3,F,,,,,,,,,,,,,,,,,,,,247,207,,
 2017-W-WITF-TUR-20A-2017,Antalya $15K,Clay,32,15,20170522,1,204390,1,,Pia Konig,R,,AUT,24.0,202679,,Q,Yuliya Lysa,L,,UKR,22.0,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,443,73,,
-2017-W-WITF-TUR-20A-2017,Antalya $15K,Clay,32,15,20170522,2,214136,,Q,Melany Solange Krywoj,U,,ARG,19.2,214604,,SE,Maria Carle,U,,ARG,17.2,6-4 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2017-W-WITF-TUR-20A-2017,Antalya $15K,Clay,32,15,20170522,2,214136,,Q,Melany Solange Krywoj,R,,ARG,19.2,214604,,SE,Maria Carle,R,,ARG,17.2,6-4 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-TUR-20A-2017,Antalya $15K,Clay,32,15,20170522,3,210138,,,Noelia Zeballos,R,168,BOL,23.0,214504,,,Valeriya Urzhumova,U,,RUS,20.0,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,815,18,883,14
 2017-W-WITF-TUR-20A-2017,Antalya $15K,Clay,32,15,20170522,4,213694,6,,Lisa Matviyenko,R,,GER,19.6,211405,,Q,Ena Kajevic,R,,CRO,20.9,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,599,41,,
 2017-W-WITF-TUR-20A-2017,Antalya $15K,Clay,32,15,20170522,5,204379,4,,Brenda Njuki,R,,SWE,23.2,214000,,WC,Inci Ogut,U,,TUR,17.7,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,591,42,,
@@ -14393,7 +14393,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-TUR-20A-2017,Antalya $15K,Clay,32,15,20170522,14,214762,,,Mirabelle Njoze,L,,GBR,20.2,214964,,WC,Dariya Detkovskaya,R,,KAZ,17.2,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,701,28,,
 2017-W-WITF-TUR-20A-2017,Antalya $15K,Clay,32,15,20170522,15,203290,,,Piia Suomalainen,R,172,FIN,32.8,213827,,Q,Magdalena Stoilkovska,R,,MKD,21.1,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,783,21,1244,3
 2017-W-WITF-TUR-20A-2017,Antalya $15K,Clay,32,15,20170522,16,206427,2,,Daiana Negreanu,U,,ROU,28.9,210526,,,Valeria Bhunu,R,,ZIM,22.1,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,485,63,671,32
-2017-W-WITF-TUR-20A-2017,Antalya $15K,Clay,32,15,20170522,17,204390,1,,Pia Konig,R,,AUT,24.0,214136,,Q,Melany Solange Krywoj,U,,ARG,19.2,7-6(3) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,443,73,,
+2017-W-WITF-TUR-20A-2017,Antalya $15K,Clay,32,15,20170522,17,204390,1,,Pia Konig,R,,AUT,24.0,214136,,Q,Melany Solange Krywoj,R,,ARG,19.2,7-6(3) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,443,73,,
 2017-W-WITF-TUR-20A-2017,Antalya $15K,Clay,32,15,20170522,18,213694,6,,Lisa Matviyenko,R,,GER,19.6,210138,,,Noelia Zeballos,R,168,BOL,23.0,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,599,41,815,18
 2017-W-WITF-TUR-20A-2017,Antalya $15K,Clay,32,15,20170522,19,204379,4,,Brenda Njuki,R,,SWE,23.2,206116,,Q,Sofia Dmitrieva,U,,RUS,22.7,6-0 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,591,42,962,11
 2017-W-WITF-TUR-20A-2017,Antalya $15K,Clay,32,15,20170522,20,206336,7,,Julia Stamatova,L,,BUL,23.9,211283,,,Karoline Kurz,U,,AUT,21.0,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,642,36,941,12
@@ -14422,7 +14422,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-TUR-21A-2017,Antalya $15K,Clay,32,15,20170529,12,204390,4,,Pia Konig,R,,AUT,24.0,215047,,Q,Mi Zhuoma You,R,,CHN,17.4,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,447,73,,
 2017-W-WITF-TUR-21A-2017,Antalya $15K,Clay,32,15,20170529,13,204379,7,,Brenda Njuki,R,,SWE,23.2,210742,,,Mariana Drazic,R,,CRO,22.3,2-6 7-6(6) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,600,42,747,25
 2017-W-WITF-TUR-21A-2017,Antalya $15K,Clay,32,15,20170529,14,211283,,,Karoline Kurz,U,,AUT,21.0,213651,,Q,Agne Cepelyte,R,,LTU,21.4,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,928,13,,
-2017-W-WITF-TUR-21A-2017,Antalya $15K,Clay,32,15,20170529,15,214136,,Q,Melany Solange Krywoj,U,,ARG,19.2,212005,,LL,Valeriya Pogrebnyak,L,,RUS,18.7,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,985,10
+2017-W-WITF-TUR-21A-2017,Antalya $15K,Clay,32,15,20170529,15,214136,,Q,Melany Solange Krywoj,R,,ARG,19.2,212005,,LL,Valeriya Pogrebnyak,L,,RUS,18.7,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,985,10
 2017-W-WITF-TUR-21A-2017,Antalya $15K,Clay,32,15,20170529,16,210958,2,Q,Alexandra Perper,R,,MDA,25.8,210702,,,Pauline Payet,R,,FRA,22.9,4-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,431,79,778,22
 2017-W-WITF-TUR-21A-2017,Antalya $15K,Clay,32,15,20170529,17,206032,,,Lisa Marie Maetschke,R,,GER,22.1,214504,,,Valeriya Urzhumova,U,,RUS,20.0,0-6 6-4 7-6(8),3,R16,,,,,,,,,,,,,,,,,,,,733,26,893,14
 2017-W-WITF-TUR-21A-2017,Antalya $15K,Clay,32,15,20170529,18,214600,,,Georgia Andreea Craciun,U,,ROU,17.8,213827,,WC,Magdalena Stoilkovska,R,,MKD,21.1,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,659,34,1252,3
@@ -14431,11 +14431,11 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-TUR-21A-2017,Antalya $15K,Clay,32,15,20170529,21,215306,,,Emiliana Arango,R,,COL,16.4,206427,5,,Daiana Negreanu,U,,ROU,28.9,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,726,26,465,68
 2017-W-WITF-TUR-21A-2017,Antalya $15K,Clay,32,15,20170529,22,204390,4,,Pia Konig,R,,AUT,24.0,203290,,,Piia Suomalainen,R,172,FIN,32.8,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,447,73,787,21
 2017-W-WITF-TUR-21A-2017,Antalya $15K,Clay,32,15,20170529,23,211283,,,Karoline Kurz,U,,AUT,21.0,204379,7,,Brenda Njuki,R,,SWE,23.2,7-6(5) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,928,13,600,42
-2017-W-WITF-TUR-21A-2017,Antalya $15K,Clay,32,15,20170529,24,214136,,Q,Melany Solange Krywoj,U,,ARG,19.2,210958,2,Q,Alexandra Perper,R,,MDA,25.8,0-6 7-6(4) 4-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,,,431,79
+2017-W-WITF-TUR-21A-2017,Antalya $15K,Clay,32,15,20170529,24,214136,,Q,Melany Solange Krywoj,R,,ARG,19.2,210958,2,Q,Alexandra Perper,R,,MDA,25.8,0-6 7-6(4) 4-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,,,431,79
 2017-W-WITF-TUR-21A-2017,Antalya $15K,Clay,32,15,20170529,25,214600,,,Georgia Andreea Craciun,U,,ROU,17.8,206032,,,Lisa Marie Maetschke,R,,GER,22.1,6-0 6-2,3,QF,,,,,,,,,,,,,,,,,,,,659,34,733,26
 2017-W-WITF-TUR-21A-2017,Antalya $15K,Clay,32,15,20170529,26,202387,3,,Vlada Ekshibarova,R,,UZB,28.2,211266,,,Yulia Kulikova,U,,RUS,27.7,6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,426,81,950,12
 2017-W-WITF-TUR-21A-2017,Antalya $15K,Clay,32,15,20170529,27,215306,,,Emiliana Arango,R,,COL,16.4,204390,4,,Pia Konig,R,,AUT,24.0,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,726,26,447,73
-2017-W-WITF-TUR-21A-2017,Antalya $15K,Clay,32,15,20170529,28,211283,,,Karoline Kurz,U,,AUT,21.0,214136,,Q,Melany Solange Krywoj,U,,ARG,19.2,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,928,13,,
+2017-W-WITF-TUR-21A-2017,Antalya $15K,Clay,32,15,20170529,28,211283,,,Karoline Kurz,U,,AUT,21.0,214136,,Q,Melany Solange Krywoj,R,,ARG,19.2,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,928,13,,
 2017-W-WITF-TUR-21A-2017,Antalya $15K,Clay,32,15,20170529,29,202387,3,,Vlada Ekshibarova,R,,UZB,28.2,214600,,,Georgia Andreea Craciun,U,,ROU,17.8,6-4 7-5,3,SF,,,,,,,,,,,,,,,,,,,,426,81,659,34
 2017-W-WITF-TUR-21A-2017,Antalya $15K,Clay,32,15,20170529,30,215306,,,Emiliana Arango,R,,COL,16.4,211283,,,Karoline Kurz,U,,AUT,21.0,6-0 6-2,3,SF,,,,,,,,,,,,,,,,,,,,726,26,928,13
 2017-W-WITF-TUR-21A-2017,Antalya $15K,Clay,32,15,20170529,31,215306,,,Emiliana Arango,R,,COL,16.4,202387,3,,Vlada Ekshibarova,R,,UZB,28.2,6-2 6-3,3,F,,,,,,,,,,,,,,,,,,,,726,26,426,81
@@ -15341,7 +15341,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-USA-05A-2017,Surprise AZ $25K,Hard,32,25,20170213,1,203398,,WC,Danielle Lao,R,160,USA,25.7,213583,1,,Tatjana Maria,R,172,GER,29.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,302,144,108,597
 2017-W-WITF-USA-05A-2017,Surprise AZ $25K,Hard,32,25,20170213,2,214019,,,Raveena Kingsley,U,,USA,18.5,206037,,,Daniela Seguel,U,171,CHI,24.2,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,400,86,234,217
 2017-W-WITF-USA-05A-2017,Surprise AZ $25K,Hard,32,25,20170213,3,201524,,,Urszula Radwanska,R,177,POL,26.1,202614,,,Jacqueline Cako,R,178,USA,25.4,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,322,131,263,178
-2017-W-WITF-USA-05A-2017,Surprise AZ $25K,Hard,32,25,20170213,4,211713,,Q,Jaqueline Cristian,R,180,ROU,18.6,206408,5,,Nadia Podoroska,U,170,ARG,20.0,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,347,110,195,275
+2017-W-WITF-USA-05A-2017,Surprise AZ $25K,Hard,32,25,20170213,4,211713,,Q,Jaqueline Cristian,R,180,ROU,18.6,206408,5,,Nadia Podoroska,R,170,ARG,20.0,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,347,110,195,275
 2017-W-WITF-USA-05A-2017,Surprise AZ $25K,Hard,32,25,20170213,5,210303,,,Kathinka Von Deichmann,R,176,LIE,22.7,201481,4,,Tamira Paszek,R,165,AUT,26.1,6-0 3-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,252,188,191,286
 2017-W-WITF-USA-05A-2017,Surprise AZ $25K,Hard,32,25,20170213,6,213887,,,Renata Zarazua,R,,MEX,19.3,203341,,Q,Sanaz Marand,L,,USA,28.6,1-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,287,160,431,76
 2017-W-WITF-USA-05A-2017,Surprise AZ $25K,Hard,32,25,20170213,7,215713,,Q,Anastasia Potapova,R,175,RUS,15.8,220312,,WC,Taylor Johnson,L,,USA,16.5,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -16718,7 +16718,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-CZE-06A-2017,Prague $15K,Clay,31,15,20170904,299,220671,,Q,Katerina Krizova,R,,CZE,17.7,209576,,WC,Barbora Matusova,R,,CZE,27.3,6-2 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-CZE-06A-2017,Prague $15K,Clay,31,15,20170904,298,213581,,Q,Kristyna Hrabalova,U,,CZE,21.4,212050,,Q,Nataliya Pogribnyak,U,,UKR,19.1,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-CZE-06A-2017,Prague $15K,Clay,31,15,20170904,297,203429,5,,Tamara Curovic,R,,SRB,22.8,214893,,Q,Sonja Krtenova,U,,CZE,19.1,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,654,33,,
-2017-W-WITF-CZE-06A-2017,Prague $15K,Clay,31,15,20170904,296,213855,3,,Magali Kempen,R,,BEL,19.7,214136,,,Melany Solange Krywoj,U,,ARG,19.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,558,46,1047,8
+2017-W-WITF-CZE-06A-2017,Prague $15K,Clay,31,15,20170904,296,213855,3,,Magali Kempen,R,,BEL,19.7,214136,,,Melany Solange Krywoj,R,,ARG,19.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,558,46,1047,8
 2017-W-WITF-CZE-06A-2017,Prague $15K,Clay,31,15,20170904,295,214716,,,Jana Jablonovska,R,,SVK,21.5,211876,,,Angelina Zhuravleva,U,,RUS,20.7,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1010,9,843,16
 2017-W-WITF-CZE-06A-2017,Prague $15K,Clay,31,15,20170904,294,214894,,,Tereza Prochazkova,U,,CZE,18.2,211323,,,Natalia Vajdova,U,,SVK,22.3,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,952,11,940,11
 2017-W-WITF-CZE-06A-2017,Prague $15K,Clay,31,15,20170904,293,204309,,Q,Stephanie Wagner,R,180,GER,22.9,215166,8,,Aneta Kladivova,R,,CZE,17.2,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,809,18
@@ -16820,7 +16820,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-BOL-01A-2017,Santa Cruz 15K,Clay,32,15,20171211,290,206011,,,Flavia Guimaraes Bueno,U,,BRA,25.5,219909,,Q,Dolores Molina Portela,U,,ARG,19.8,6-3 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1144,5,,
 2017-W-WITF-BOL-01A-2017,Santa Cruz 15K,Clay,32,15,20171211,289,210138,,,Noelia Zeballos,R,168,BOL,23.6,206007,3,,Laura Pigossi,R,164,BRA,23.3,6-0 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,712,27,423,88
 2017-W-WITF-BOL-01A-2017,Santa Cruz 15K,Clay,32,15,20171211,288,206332,6,,Camila Giangreco Campiz,R,,PAR,21.2,215461,,,Delfina Glorioso,U,,ARG,19.0,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,500,62,,
-2017-W-WITF-BOL-01A-2017,Santa Cruz 15K,Clay,32,15,20171211,287,211908,,,Daniela Macarena Lopez,U,,CHI,20.6,214136,,,Melany Solange Krywoj,U,,ARG,19.7,1-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,848,17
+2017-W-WITF-BOL-01A-2017,Santa Cruz 15K,Clay,32,15,20171211,287,211908,,,Daniela Macarena Lopez,U,,CHI,20.6,214136,,,Melany Solange Krywoj,R,,ARG,19.7,1-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,848,17
 2017-W-WITF-BOL-01A-2017,Santa Cruz 15K,Clay,32,15,20171211,286,215340,,WC,Hortencia Birnbaumer,R,,BOL,17.9,215717,,Q,Candela Bugnon,U,,ARG,20.0,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-BOL-01A-2017,Santa Cruz 15K,Clay,32,15,20171211,285,206344,2,,Fernanda Brito,R,172,CHI,25.8,214554,,,Paula Baranano,U,,ARG,18.2,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,388,101,909,13
 2017-W-WITF-BOL-01A-2017,Santa Cruz 15K,Clay,32,15,20171211,284,204419,1,,Ana Sofia Sanchez,L,,MEX,23.6,214455,,,Andrina Peer,R,,SUI,19.6,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,359,119,1214,3
@@ -16936,7 +16936,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-PAR-03A-2017,Luque 15K,Hard,32,15,20171218,298,203474,5,,Nika Kukharchuk,U,,RUS,30.8,220826,,WC,Camila Ruiz Diaz,U,,PAR,16.4,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,698,28,,
 2017-W-WITF-PAR-03A-2017,Luque 15K,Hard,32,15,20171218,297,211293,,Q,Juliana Silva De Carvalho,R,,BRA,24.2,216289,,,Maria Virginia Bosch,R,,ARG,20.3,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-PAR-03A-2017,Luque 15K,Hard,32,15,20171218,296,206009,,,Giovanna Tomita,R,,BRA,24.7,205609,,,Marcela Guimaraes Bueno,U,,BRA,29.1,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1134,5,,
-2017-W-WITF-PAR-03A-2017,Luque 15K,Hard,32,15,20171218,295,214136,8,,Melany Solange Krywoj,U,,ARG,19.8,211042,,Q,Juliana Jose Parra Gomez,U,,COL,21.8,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,848,17,,
+2017-W-WITF-PAR-03A-2017,Luque 15K,Hard,32,15,20171218,295,214136,8,,Melany Solange Krywoj,R,,ARG,19.8,211042,,Q,Juliana Jose Parra Gomez,U,,COL,21.8,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,848,17,,
 2017-W-WITF-PAR-03A-2017,Luque 15K,Hard,32,15,20171218,294,210138,6,,Noelia Zeballos,R,168,BOL,23.6,214798,,,Jane Wasserson,R,,USA,21.0,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,712,27,1214,3
 2017-W-WITF-PAR-03A-2017,Luque 15K,Hard,32,15,20171218,293,206579,,,Sarah Tami Masi,R,,PAR,33.5,220844,,WC,Susan Doldan,U,,PAR,16.8,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2017-W-WITF-PAR-03A-2017,Luque 15K,Hard,32,15,20171218,292,220845,,WC,Heydi Doldan,U,,PAR,16.8,216150,,,Lara Escauriza,R,,PAR,19.1,,3,R32,,,,,,,,,,,,,,,,,,,,,,912,13
@@ -16946,13 +16946,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-W-WITF-PAR-03A-2017,Luque 15K,Hard,32,15,20171218,288,204419,1,,Ana Sofia Sanchez,L,,MEX,23.6,214455,,,Andrina Peer,R,,SUI,19.6,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,359,119,1214,3
 2017-W-WITF-PAR-03A-2017,Luque 15K,Hard,32,15,20171218,287,203474,5,,Nika Kukharchuk,U,,RUS,30.8,216124,,,Valentina Abrile,U,,ARG,20.6,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,698,28,,
 2017-W-WITF-PAR-03A-2017,Luque 15K,Hard,32,15,20171218,286,213753,4,,Thaisa Grana Pedretti,U,,BRA,18.5,211293,,Q,Juliana Silva De Carvalho,R,,BRA,24.2,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,572,46,,
-2017-W-WITF-PAR-03A-2017,Luque 15K,Hard,32,15,20171218,285,214136,8,,Melany Solange Krywoj,U,,ARG,19.8,206009,,,Giovanna Tomita,R,,BRA,24.7,6-4 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,848,17,1134,5
+2017-W-WITF-PAR-03A-2017,Luque 15K,Hard,32,15,20171218,285,214136,8,,Melany Solange Krywoj,R,,ARG,19.8,206009,,,Giovanna Tomita,R,,BRA,24.7,6-4 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,848,17,1134,5
 2017-W-WITF-PAR-03A-2017,Luque 15K,Hard,32,15,20171218,284,210138,6,,Noelia Zeballos,R,168,BOL,23.6,206579,,,Sarah Tami Masi,R,,PAR,33.5,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,712,27,,
 2017-W-WITF-PAR-03A-2017,Luque 15K,Hard,32,15,20171218,283,206332,3,,Camila Giangreco Campiz,R,,PAR,21.3,220845,,WC,Heydi Doldan,U,,PAR,16.8,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,500,62,,
 2017-W-WITF-PAR-03A-2017,Luque 15K,Hard,32,15,20171218,282,205842,7,,Carla Lucero,R,,ARG,27.1,220804,,WC,Liz Carolina Chileno,U,,PAR,18.2,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,881,15,,
 2017-W-WITF-PAR-03A-2017,Luque 15K,Hard,32,15,20171218,281,206329,2,,Montserrat Gonzalez,R,170,PAR,23.4,214610,,,Aimee Tarun,U,,USA,23.2,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,413,90,,
 2017-W-WITF-PAR-03A-2017,Luque 15K,Hard,32,15,20171218,280,203474,5,,Nika Kukharchuk,U,,RUS,30.8,204419,1,,Ana Sofia Sanchez,L,,MEX,23.6,5-7 6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,698,28,359,119
-2017-W-WITF-PAR-03A-2017,Luque 15K,Hard,32,15,20171218,279,213753,4,,Thaisa Grana Pedretti,U,,BRA,18.5,214136,8,,Melany Solange Krywoj,U,,ARG,19.8,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,572,46,848,17
+2017-W-WITF-PAR-03A-2017,Luque 15K,Hard,32,15,20171218,279,213753,4,,Thaisa Grana Pedretti,U,,BRA,18.5,214136,8,,Melany Solange Krywoj,R,,ARG,19.8,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,572,46,848,17
 2017-W-WITF-PAR-03A-2017,Luque 15K,Hard,32,15,20171218,278,206332,3,,Camila Giangreco Campiz,R,,PAR,21.3,210138,6,,Noelia Zeballos,R,168,BOL,23.6,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,500,62,712,27
 2017-W-WITF-PAR-03A-2017,Luque 15K,Hard,32,15,20171218,277,206329,2,,Montserrat Gonzalez,R,170,PAR,23.4,205842,7,,Carla Lucero,R,,ARG,27.1,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,413,90,881,15
 2017-W-WITF-PAR-03A-2017,Luque 15K,Hard,32,15,20171218,276,203474,5,,Nika Kukharchuk,U,,RUS,30.8,213753,4,,Thaisa Grana Pedretti,U,,BRA,18.5,7-5 7-5,3,SF,,,,,,,,,,,,,,,,,,,,698,28,572,46
@@ -17459,14 +17459,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-0894,Bogota,Clay,32,I,20170410,244,206124,3,,Tereza Martincova,R,178,CZE,22.4,202614,,,Jacqueline Cako,R,178,USA,25.6,6-3 6-4,3,Q1,71,4,5,55,32,18,12,9,3,6,0,3,61,42,24,4,10,4,10,149,389,255,190
 2017-0894,Bogota,Clay,32,I,20170410,245,202694,10,,Teliana Pereira,R,168,BRA,28.7,206146,,,Catalina Pella,R,,ARG,24.1,6-2 6-4,3,Q1,86,1,1,51,31,25,8,9,1,3,1,8,68,34,22,11,9,8,13,207,252,244,199
 2017-0894,Bogota,Clay,32,I,20170410,246,206242,2,,Beatriz Haddad Maia,L,185,BRA,20.8,203518,,,Paula Kania,R,168,POL,24.4,6-2 6-2,3,Q1,79,3,5,60,42,25,10,8,8,10,2,4,58,30,16,9,8,3,9,153,376,266,173
-2017-0894,Bogota,Clay,32,I,20170410,247,206408,7,,Nadia Podoroska,U,170,ARG,20.1,202659,,,Tereza Mrdeza,R,173,CRO,26.4,6-4 5-7 7-6(2),3,Q1,175,0,16,125,83,50,10,17,6,16,0,22,143,84,47,19,17,14,24,175,308,276,164
+2017-0894,Bogota,Clay,32,I,20170410,247,206408,7,,Nadia Podoroska,R,170,ARG,20.1,202659,,,Tereza Mrdeza,R,173,CRO,26.4,6-4 5-7 7-6(2),3,Q1,175,0,16,125,83,50,10,17,6,16,0,22,143,84,47,19,17,14,24,175,308,276,164
 2017-0894,Bogota,Clay,32,I,20170410,248,206037,,,Daniela Seguel,U,171,CHI,24.3,213646,1,,Dalma Galfi,U,,HUN,18.6,2-6 6-3 6-4,3,Q1,112,0,5,96,74,42,9,14,9,14,5,3,73,40,27,17,13,3,8,228,220,155,370
 2017-0894,Bogota,Clay,32,I,20170410,249,213525,11,,Jil Teichmann,L,170,SUI,19.7,211796,6,,Francoise Abanda,R,178,CAN,20.1,7-5 6-3,3,Q2,98,1,6,64,40,23,12,11,1,6,2,6,83,51,24,12,10,12,19,208,252,194,273
 2017-0894,Bogota,Clay,32,I,20170410,250,211539,12,,Fiona Ferro,R,170,FRA,20.0,203288,,,Jia Jing Lu,R,173,CHN,27.3,6-1 6-2,3,Q2,62,0,2,44,34,25,5,8,1,2,0,2,48,26,12,9,7,5,10,215,239,227,222
 2017-0894,Bogota,Clay,32,I,20170410,251,206183,4,,Cindy Burger,R,,NED,24.3,206329,8,,Montserrat Gonzalez,R,170,PAR,22.7,7-6(6) 3-6 6-3,3,Q2,138,2,16,114,51,35,19,15,9,18,0,11,115,69,40,14,15,10,19,171,316,196,271
 2017-0894,Bogota,Clay,32,I,20170410,252,202424,9,,Conny Perrin,R,174,SUI,26.2,206124,3,,Tereza Martincova,R,178,CZE,22.4,3-6 6-1 3-1 RET,3,Q2,89,0,6,69,33,23,22,10,3,4,0,2,62,37,24,13,10,3,6,198,268,149,389
 2017-0894,Bogota,Clay,32,I,20170410,253,206242,2,,Beatriz Haddad Maia,L,185,BRA,20.8,202694,10,,Teliana Pereira,R,168,BRA,28.7,7-6(4) 4-6 6-4,3,Q2,177,1,8,109,71,45,17,16,8,14,3,3,113,87,49,12,16,3,9,153,376,207,252
-2017-0894,Bogota,Clay,32,I,20170410,254,206408,7,,Nadia Podoroska,U,170,ARG,20.1,206037,,,Daniela Seguel,U,171,CHI,24.3,6-3 7-6(4),3,Q2,101,1,7,72,41,22,18,10,7,11,1,0,73,56,26,8,11,0,6,175,308,228,220
+2017-0894,Bogota,Clay,32,I,20170410,254,206408,7,,Nadia Podoroska,R,170,ARG,20.1,206037,,,Daniela Seguel,U,171,CHI,24.3,6-3 7-6(4),3,Q2,101,1,7,72,41,22,18,10,7,11,1,0,73,56,26,8,11,0,6,175,308,228,220
 2017-1003,Doha,Hard,32,P,20170213,227,214263,,,Catherine Cartan Bellis,R,,USA,17.8,201397,5,,Shuai Peng,R,173,CHN,31.0,6-3 6-3,3,Q1,59,2,0,51,31,22,14,9,0,1,1,0,53,42,22,7,9,4,8,73,824,59,1011
 2017-1003,Doha,Hard,32,P,20170213,228,202453,,,Saisai Zheng,R,170,CHN,23.0,201597,,,Kurumi Nara,R,155,JPN,25.1,6-2 0-0 RET,3,Q1,36,1,1,21,14,11,2,4,0,1,0,1,21,16,7,1,4,1,4,95,670,89,714
 2017-1003,Doha,Hard,32,P,20170213,229,201483,,,Madison Brengle,R,168,USA,26.8,203575,,,Danka Kovinic,R,169,MNE,22.2,6-1 6-1,3,Q1,75,0,0,68,57,32,8,7,9,10,3,3,57,33,15,6,7,3,9,86,750,69,885
@@ -17505,7 +17505,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-1005,Rabat,Clay,32,I,20170501,235,211411,5,,Nina Stojanovic,R,176,SRB,20.7,206007,,,Laura Pigossi,R,164,BRA,22.7,3-6 7-6(5) 7-5,3,Q1,192,3,5,134,96,54,16,16,13,21,0,4,112,74,39,18,17,5,13,126,443,404,86
 2017-1005,Rabat,Clay,32,I,20170501,236,203354,,,Martina Trevisan,L,160,ITA,23.4,201440,,,Laura Pous Tio,U,173,ESP,32.5,6-4 6-1,3,Q1,76,0,4,51,29,14,13,8,5,8,0,0,57,35,16,7,9,1,8,224,230,355,111
 2017-1005,Rabat,Clay,32,I,20170501,237,202694,,,Teliana Pereira,R,168,BRA,28.7,204246,,,Lesley Pattinama Kerkhove,R,172,NED,25.4,6-0 6-4,3,Q1,70,1,0,44,39,26,3,8,2,3,1,4,61,38,18,10,8,8,13,214,245,170,321
-2017-1005,Rabat,Clay,32,I,20170501,238,206408,9,,Nadia Podoroska,U,170,ARG,20.2,201485,,,Alla Kudryavtseva,R,178,RUS,29.4,6-7(5) 6-4 7-5,3,Q1,142,1,8,100,52,34,26,17,5,10,2,7,110,73,47,12,17,10,17,166,331,168,329
+2017-1005,Rabat,Clay,32,I,20170501,238,206408,9,,Nadia Podoroska,R,170,ARG,20.2,201485,,,Alla Kudryavtseva,R,178,RUS,29.4,6-7(5) 6-4 7-5,3,Q1,142,1,8,100,52,34,26,17,5,10,2,7,110,73,47,12,17,10,17,166,331,168,329
 2017-1005,Rabat,Clay,32,I,20170501,239,206045,8,,Quirine Lemoine,L,,NED,25.3,201456,,,Olga Savchuk,R,175,UKR,29.6,6-2 6-3,3,Q1,60,1,5,47,29,21,9,8,1,3,1,8,62,29,13,15,9,4,10,167,330,330,127
 2017-1005,Rabat,Clay,32,I,20170501,240,201290,,,Daniela Hantuchova,R,181,SVK,34.0,214942,,WC,Lilya Hadab,U,,MAR,17.9,6-1 6-0,3,Q1,54,1,4,32,18,15,10,6,0,0,2,6,49,21,10,8,7,5,11,247,203,,
 2017-1005,Rabat,Clay,32,I,20170501,241,202681,,,Gabriela Dabrowski,R,175,CAN,25.0,203281,,,Amandine Hesse,R,164,FRA,24.2,7-6(2) 6-4,3,Q1,87,1,1,63,47,34,7,11,1,3,4,9,77,36,24,21,11,5,8,348,117,219,239
@@ -17515,12 +17515,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-1005,Rabat,Clay,32,I,20170501,245,201562,6,,Silvia Soler Espinosa,R,169,ESP,29.4,203564,,,Chloe Paquet,R,179,FRA,22.8,6-2 6-3,3,Q2,80,0,4,50,33,22,8,8,1,3,1,4,62,32,15,11,9,8,14,159,357,268,181
 2017-1005,Rabat,Clay,32,I,20170501,246,202434,3,,Aleksandra Krunic,R,163,SRB,24.1,206252,,,Barbora Krejcikova,R,178,CZE,21.3,6-3 6-1,3,Q2,60,3,2,47,29,25,9,8,0,0,1,0,46,21,10,13,8,2,6,128,432,245,204
 2017-1005,Rabat,Clay,32,I,20170501,247,203354,,,Martina Trevisan,L,160,ITA,23.4,211411,5,,Nina Stojanovic,R,176,SRB,20.7,6-3 6-3,3,Q2,84,1,5,67,48,32,8,9,6,8,1,5,50,26,14,10,9,3,8,224,230,126,443
-2017-1005,Rabat,Clay,32,I,20170501,248,206408,9,,Nadia Podoroska,U,170,ARG,20.2,202694,,,Teliana Pereira,R,168,BRA,28.7,6-3 6-0,3,Q2,65,1,3,37,22,13,8,7,0,3,0,1,59,38,17,4,8,4,12,166,331,214,245
+2017-1005,Rabat,Clay,32,I,20170501,248,206408,9,,Nadia Podoroska,R,170,ARG,20.2,202694,,,Teliana Pereira,R,168,BRA,28.7,6-3 6-0,3,Q2,65,1,3,37,22,13,8,7,0,3,0,1,59,38,17,4,8,4,12,166,331,214,245
 2017-1005,Rabat,Clay,32,I,20170501,249,201290,,,Daniela Hantuchova,R,181,SVK,34.0,206045,8,,Quirine Lemoine,L,,NED,25.3,6-7(4) 6-4 6-2,3,Q2,166,2,3,108,71,45,16,15,9,15,3,10,124,74,44,17,15,12,21,247,203,167,330
 2017-1005,Rabat,Clay,32,I,20170501,250,202681,,,Gabriela Dabrowski,R,175,CAN,25.0,201670,,,Amra Sadikovic,R,186,SUI,27.9,6-4 3-6 6-1,3,Q2,95,1,3,74,56,35,11,13,3,7,5,4,87,56,33,13,13,3,9,348,117,213,249
 2017-1005,Rabat,Clay,32,I,20170501,251,202424,,,Conny Perrin,R,174,SUI,26.3,211736,,,Ivana Jorovic,R,174,SRB,19.9,6-0 7-5,3,Q3,87,1,6,56,39,29,6,9,1,3,0,5,69,51,25,6,9,3,9,199,263,176,315
 2017-1005,Rabat,Clay,32,I,20170501,252,202434,3,,Aleksandra Krunic,R,163,SRB,24.1,201562,6,,Silvia Soler Espinosa,R,169,ESP,29.4,6-2 6-0,3,Q3,70,2,2,52,35,26,10,7,1,1,1,3,48,31,15,6,7,7,12,128,432,159,357
-2017-1005,Rabat,Clay,32,I,20170501,253,206408,9,,Nadia Podoroska,U,170,ARG,20.2,203354,,,Martina Trevisan,L,160,ITA,23.4,6-3 6-2,3,Q3,67,0,4,50,32,27,11,9,1,1,0,2,43,32,22,3,8,2,5,166,331,224,230
+2017-1005,Rabat,Clay,32,I,20170501,253,206408,9,,Nadia Podoroska,R,170,ARG,20.2,203354,,,Martina Trevisan,L,160,ITA,23.4,6-3 6-2,3,Q3,67,0,4,50,32,27,11,9,1,1,0,2,43,32,22,3,8,2,5,166,331,224,230
 2017-1005,Rabat,Clay,32,I,20170501,254,202681,,,Gabriela Dabrowski,R,175,CAN,25.0,201290,,,Daniela Hantuchova,R,181,SVK,34.0,7-6(7) 6-3,3,Q3,131,2,2,87,71,41,8,11,6,10,1,3,86,53,32,11,10,7,12,348,117,247,203
 2017-1023,Guangzhou,Hard,32,I,20170918,234,201582,5,,Jing Jing Lu,R,170,CHN,28.3,203576,9,,Kai Lin Zhang,R,173,CHN,27.6,,3,Q3,,,,,,,,,,,,,,,,,,,,202,260,249,209
 2017-1023,Guangzhou,Hard,32,I,20170918,235,203567,3,,Ipek Soylu,R,174,TUR,21.4,214386,4,,Xinyu Gao,U,,CHN,19.8,,3,Q3,,,,,,,,,,,,,,,,,,,,179,309,187,296
@@ -17574,14 +17574,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-1027,Istanbul,Clay,32,I,20170424,244,214939,3,,Anna Kalinskaya,R,175,RUS,18.3,213998,,WC,Ipek Oz,U,,TUR,17.7,6-3 4-6 7-5,3,Q1,132,1,3,103,71,36,16,16,7,15,3,4,89,47,26,16,15,7,16,145,391,1026,9
 2017-1027,Istanbul,Clay,32,I,20170424,245,206368,12,,Veronika Kudermetova,R,175,RUS,20.0,202410,,,Sofia Shapatava,R,170,GEO,28.2,6-4 6-2,3,Q1,97,6,3,79,52,32,13,9,5,7,0,5,72,39,20,14,9,5,10,193,272,232,217
 2017-1027,Istanbul,Clay,32,I,20170424,246,202424,,,Conny Perrin,R,174,SUI,26.3,201674,2,,Sabina Sharipova,R,174,UZB,22.6,6-0 6-3,3,Q1,64,0,3,55,35,25,10,8,3,4,0,6,45,31,17,2,7,3,8,216,238,138,403
-2017-1027,Istanbul,Clay,32,I,20170424,247,206408,9,,Nadia Podoroska,U,170,ARG,20.1,203534,,WC,Melis Sezer,R,168,TUR,23.8,2-6 6-4 7-5,3,Q1,165,2,3,109,75,37,18,15,10,17,0,4,94,44,27,21,15,8,15,169,324,450,71
+2017-1027,Istanbul,Clay,32,I,20170424,247,206408,9,,Nadia Podoroska,R,170,ARG,20.1,203534,,WC,Melis Sezer,R,168,TUR,23.8,2-6 6-4 7-5,3,Q1,165,2,3,109,75,37,18,15,10,17,0,4,94,44,27,21,15,8,15,169,324,450,71
 2017-1027,Istanbul,Clay,32,I,20170424,248,202456,,,Alexandra Cadantu Ignatik,R,170,ROU,26.9,203435,1,,Dalila Jakupovic,R,178,SLO,26.0,6-1 6-4,3,Q1,109,0,1,51,40,26,5,8,3,5,0,5,66,51,25,4,9,7,13,292,154,133,428
 2017-1027,Istanbul,Clay,32,I,20170424,249,201701,,WC,Basak Eraydin,R,,TUR,22.8,201485,6,,Alla Kudryavtseva,R,178,RUS,29.4,6-4 4-6 6-2,3,Q2,134,4,8,87,54,33,12,14,4,10,0,9,95,60,30,14,14,5,13,257,188,170,317
 2017-1027,Istanbul,Clay,32,I,20170424,250,206404,,,Elizaveta Kulichkova,R,,RUS,21.0,202694,,,Teliana Pereira,R,168,BRA,28.7,3-6 7-5 6-4,3,Q2,147,1,7,111,57,36,26,15,13,18,0,1,96,79,47,7,16,8,14,224,227,195,263
 2017-1027,Istanbul,Clay,32,I,20170424,251,211539,,,Fiona Ferro,R,170,FRA,20.1,211856,10,,Anastasiya Komardina,L,,RUS,19.7,6-4 6-3,3,Q2,111,0,1,64,43,23,9,10,3,8,1,2,54,33,10,10,9,3,10,208,252,172,314
 2017-1027,Istanbul,Clay,32,I,20170424,252,205606,,,Viktoria Kamenskaya,R,,RUS,25.4,214939,3,,Anna Kalinskaya,R,175,RUS,18.3,6-2 6-4,3,Q2,97,0,0,56,44,26,6,9,1,3,2,1,74,46,27,10,9,5,10,210,247,145,391
 2017-1027,Istanbul,Clay,32,I,20170424,253,202424,,,Conny Perrin,R,174,SUI,26.3,206368,12,,Veronika Kudermetova,R,175,RUS,20.0,6-2 7-6(5),3,Q2,101,0,4,67,38,23,14,10,5,9,1,7,78,36,21,14,10,7,13,216,238,193,272
-2017-1027,Istanbul,Clay,32,I,20170424,254,202456,,,Alexandra Cadantu Ignatik,R,170,ROU,26.9,206408,9,,Nadia Podoroska,U,170,ARG,20.1,6-2 4-6 6-3,3,Q2,153,0,9,90,65,35,8,14,10,18,0,7,81,62,25,5,13,10,20,292,154,169,324
+2017-1027,Istanbul,Clay,32,I,20170424,254,202456,,,Alexandra Cadantu Ignatik,R,170,ROU,26.9,206408,9,,Nadia Podoroska,R,170,ARG,20.1,6-2 4-6 6-3,3,Q2,153,0,9,90,65,35,8,14,10,18,0,7,81,62,25,5,13,10,20,292,154,169,324
 2017-1039,Monterrey,Hard,32,I,20170403,227,206124,5,,Tereza Martincova,R,178,CZE,22.4,203281,,,Amandine Hesse,R,164,FRA,24.2,6-3 4-6 6-0,3,Q1,99,4,1,80,61,44,10,13,2,4,8,6,84,40,28,18,12,7,12,160,350,209,248
 2017-1039,Monterrey,Hard,32,I,20170403,228,202424,,,Conny Perrin,R,174,SUI,26.2,202410,,,Sofia Shapatava,R,170,GEO,28.2,6-2 6-7(5) 6-1,3,Q1,114,5,6,88,46,35,19,13,3,6,1,3,89,42,29,13,14,2,10,197,263,221,227
 2017-1039,Monterrey,Hard,32,I,20170403,229,203288,,,Jia Jing Lu,R,173,CHN,27.3,204419,,WC,Ana Sofia Sanchez,L,,MEX,22.9,6-1 6-3,3,Q1,61,1,6,48,24,18,14,8,3,4,0,5,48,27,18,4,8,4,9,234,214,523,52
@@ -17594,7 +17594,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-1039,Monterrey,Hard,32,I,20170403,236,201547,,,Michelle Larcher De Brito,R,165,POR,24.1,205892,,WC,Giuliana Olmos,R,170,MEX,24.0,6-3 3-6 6-4,3,Q1,122,3,9,105,59,37,16,14,11,18,0,3,92,69,31,10,14,4,12,233,215,544,48
 2017-1039,Monterrey,Hard,32,I,20170403,237,211874,,WC,Victoria Rodriguez,U,170,MEX,21.9,206037,,,Daniela Seguel,U,171,CHI,24.3,3-6 6-3 6-1,3,Q1,103,2,1,78,49,30,15,12,5,9,1,5,75,51,25,10,13,1,8,302,139,227,220
 2017-1039,Monterrey,Hard,32,I,20170403,238,202478,2,,Tara Moore,R,163,GBR,24.6,204420,,WC,Marcela Zacarias,R,,MEX,23.0,6-2 5-7 7-5,3,Q1,162,2,13,133,72,44,25,16,8,14,2,9,105,67,39,15,16,8,16,153,374,629,35
-2017-1039,Monterrey,Hard,32,I,20170403,239,206408,8,,Nadia Podoroska,U,170,ARG,20.1,202425,,,Samantha Murray,R,178,GBR,29.4,7-6(5) 6-2,3,Q1,90,2,11,74,48,28,12,10,4,8,4,11,62,27,19,8,10,1,7,191,272,579,43
+2017-1039,Monterrey,Hard,32,I,20170403,239,206408,8,,Nadia Podoroska,R,170,ARG,20.1,202425,,,Samantha Murray,R,178,GBR,29.4,7-6(5) 6-2,3,Q1,90,2,11,74,48,28,12,10,4,8,4,11,62,27,19,8,10,1,7,191,272,579,43
 2017-1039,Monterrey,Hard,32,I,20170403,240,203564,,,Chloe Paquet,R,179,FRA,22.7,206146,,,Catalina Pella,R,,ARG,24.1,6-4 6-4,3,Q1,79,6,3,61,31,23,19,10,2,3,4,4,59,37,26,9,10,5,8,254,189,243,199
 2017-1039,Monterrey,Hard,32,I,20170403,241,214863,,,Sofya Zhuk,R,176,RUS,17.3,202659,,,Tereza Mrdeza,R,173,CRO,26.3,6-3 6-2,3,Q1,67,0,4,57,28,17,18,9,1,3,0,6,50,32,15,7,8,1,6,275,163,274,164
 2017-1039,Monterrey,Hard,32,I,20170403,242,203435,1,,Dalila Jakupovic,R,178,SLO,26.0,203541,,,Elizaveta Ianchuk,R,,UKR,24.0,6-3 0-6 6-4,3,Q1,105,1,7,76,40,26,9,13,4,11,0,8,76,40,23,15,12,4,10,143,406,364,100
@@ -17604,12 +17604,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-1039,Monterrey,Hard,32,I,20170403,246,201529,,,Kristie Ahn,R,165,USA,24.7,203518,,,Paula Kania,R,168,POL,24.4,6-3 6-3,3,Q2,80,2,6,66,44,26,13,9,4,6,0,5,56,31,16,10,9,2,7,206,251,272,164
 2017-1039,Monterrey,Hard,32,I,20170403,247,204246,6,,Lesley Pattinama Kerkhove,R,172,NED,25.4,201547,,,Michelle Larcher De Brito,R,165,POR,24.1,6-2 7-6(5),3,Q2,83,11,11,74,40,34,15,10,4,5,2,7,75,43,28,14,10,5,8,175,311,233,215
 2017-1039,Monterrey,Hard,32,I,20170403,248,211874,,WC,Victoria Rodriguez,U,170,MEX,21.9,202478,2,,Tara Moore,R,163,GBR,24.6,3-6 6-2 6-0,3,Q2,105,2,2,77,52,29,13,11,9,13,0,17,100,50,29,16,12,6,14,302,139,153,374
-2017-1039,Monterrey,Hard,32,I,20170403,249,206408,8,,Nadia Podoroska,U,170,ARG,20.1,203564,,,Chloe Paquet,R,179,FRA,22.7,6-4 4-6 3-1 RET,3,Q2,114,1,8,84,47,31,17,12,3,6,1,5,83,51,33,15,12,8,12,191,272,254,189
+2017-1039,Monterrey,Hard,32,I,20170403,249,206408,8,,Nadia Podoroska,R,170,ARG,20.1,203564,,,Chloe Paquet,R,179,FRA,22.7,6-4 4-6 3-1 RET,3,Q2,114,1,8,84,47,31,17,12,3,6,1,5,83,51,33,15,12,8,12,191,272,254,189
 2017-1039,Monterrey,Hard,32,I,20170403,250,203435,1,,Dalila Jakupovic,R,178,SLO,26.0,214863,,,Sofya Zhuk,R,176,RUS,17.3,6-2 1-6 6-2,3,Q2,95,1,0,62,46,31,9,11,2,4,1,5,85,60,33,14,12,7,11,143,406,275,163
 2017-1039,Monterrey,Hard,32,I,20170403,251,206124,5,,Tereza Martincova,R,178,CZE,22.4,211222,4,,Jamie Loeb,R,168,USA,22.0,7-6(2) 6-0,3,Q3,61,4,1,49,32,26,8,9,1,3,2,3,51,26,11,8,9,1,6,160,350,159,351
 2017-1039,Monterrey,Hard,32,I,20170403,252,201529,,,Kristie Ahn,R,165,USA,24.7,206242,7,,Beatriz Haddad Maia,L,185,BRA,20.8,6-2 7-5,3,Q3,86,2,3,54,38,27,7,10,3,6,2,2,51,37,17,6,10,2,8,206,251,157,366
 2017-1039,Monterrey,Hard,32,I,20170403,253,204246,6,,Lesley Pattinama Kerkhove,R,172,NED,25.4,211874,,WC,Victoria Rodriguez,U,170,MEX,21.9,6-1 6-3,3,Q3,67,3,3,57,35,24,13,8,9,10,3,0,61,33,16,12,8,2,7,175,311,302,139
-2017-1039,Monterrey,Hard,32,I,20170403,254,206408,8,,Nadia Podoroska,U,170,ARG,20.1,203435,1,,Dalila Jakupovic,R,178,SLO,26.0,7-5 6-2,3,Q3,89,4,5,60,39,28,10,10,2,4,0,4,71,45,27,8,10,2,7,191,272,143,406
+2017-1039,Monterrey,Hard,32,I,20170403,254,206408,8,,Nadia Podoroska,R,170,ARG,20.1,203435,1,,Dalila Jakupovic,R,178,SLO,26.0,7-5 6-2,3,Q3,89,4,5,60,39,28,10,10,2,4,0,4,71,45,27,8,10,2,7,191,272,143,406
 2017-1041,Kuala Lumpur,Hard,32,I,20170227,237,206124,11,,Tereza Martincova,R,178,CZE,22.3,204304,,WC,Jawairiah Noordin,R,,MAS,26.3,6-4 6-1,3,Q1,78,3,1,50,35,23,11,9,0,1,1,2,62,34,15,15,8,6,10,171,329,1049,7
 2017-1041,Kuala Lumpur,Hard,32,I,20170227,238,204294,6,,Su Jeong Jang,R,,KOR,21.9,201667,,WC,Ling Zhang,R,178,HKG,27.3,6-3 6-3,3,Q1,102,1,8,76,50,28,12,9,8,12,1,2,51,32,12,7,9,3,10,148,392,621,36
 2017-1041,Kuala Lumpur,Hard,32,I,20170227,239,202458,7,,Ashleigh Barty,R,166,AUS,20.8,201679,,Alt,Varatchaya Wongteanchai,R,169,THA,27.4,6-3 6-4,3,Q1,78,9,3,63,28,21,24,10,4,5,1,1,54,40,25,4,9,0,3,158,366,283,160
@@ -17716,7 +17716,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-1051,Stuttgart,Clay,32,P,20170424,235,206108,8,,Jennifer Brady,R,178,USA,22.0,200043,,,Virginie Razzano,R,173,FRA,33.9,6-4 6-1,3,Q1,67,5,4,48,25,20,13,9,1,2,0,7,48,25,15,8,8,1,5,76,779,165,334
 2017-1051,Stuttgart,Clay,32,P,20170424,236,204246,,,Lesley Pattinama Kerkhove,R,172,NED,25.4,212044,,WC,Katharina Gerlach,R,,GER,19.1,7-5 6-4,3,Q1,98,3,1,83,50,35,17,11,7,9,4,2,60,34,21,14,11,2,6,175,312,580,45
 2017-1051,Stuttgart,Clay,32,P,20170424,237,212001,,,Natalia Vikhlyantseva,R,185,RUS,20.1,201648,,,Naomi Broady,R,189,GBR,27.1,6-3 6-4,3,Q1,67,4,3,53,36,30,9,10,2,3,6,3,60,31,22,12,9,1,4,77,775,121,470
-2017-1051,Stuttgart,Clay,32,P,20170424,238,211533,2,,Jelena Ostapenko,R,177,LAT,19.8,214247,,WC,Lena Rueffer,U,,GER,18.6,6-2 7-6(4),3,Q1,96,4,1,69,34,25,18,10,4,7,8,5,73,35,22,14,10,3,8,50,1080,769,21
+2017-1051,Stuttgart,Clay,32,P,20170424,238,211533,2,,Jelena Ostapenko,R,177,LAT,19.8,214247,,WC,Lena Rueffer,R,,GER,18.6,6-2 7-6(4),3,Q1,96,4,1,69,34,25,18,10,4,7,8,5,73,35,22,14,10,3,8,50,1080,769,21
 2017-1051,Stuttgart,Clay,32,P,20170424,239,214081,,WC,Katharina Hobgarski,R,171,GER,19.8,203552,5,,Risa Ozaki,R,163,JPN,23.0,3-6 6-3 6-4,3,Q1,147,0,2,115,83,50,17,14,9,12,1,2,94,73,43,12,14,8,12,294,149,70,819
 2017-1051,Stuttgart,Clay,32,P,20170424,240,203500,,,Sachia Vickery,R,162,USA,21.9,202445,,,Valeria Solovieva,R,168,RUS,24.4,6-2 6-2,3,Q1,85,4,3,53,40,28,6,8,6,7,0,1,67,50,26,6,8,8,13,137,413,206,253
 2017-1051,Stuttgart,Clay,32,P,20170424,241,205723,,WC,Anna Zaja,R,183,GER,25.8,206242,,,Beatriz Haddad Maia,L,185,BRA,20.9,6-4 6-3,3,Q1,82,7,2,54,36,28,11,9,2,2,0,2,69,56,34,7,10,6,9,265,180,146,390
@@ -17816,7 +17816,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-1068,Nurnberg,Clay,32,I,20170522,237,213631,9,,Marie Bouzkova,R,180,CZE,18.8,216373,,WC,Zoe Kruger,U,,RSA,14.8,6-2 6-3,3,Q1,80,3,2,56,34,21,12,8,3,5,0,3,48,29,14,5,9,3,9,206,262,1184,4
 2017-1068,Nurnberg,Clay,32,I,20170522,238,206349,,,Mayo Hibi,R,165,JPN,21.1,211856,6,,Anastasiya Komardina,L,,RUS,19.8,6-2 3-6 7-6(2),3,Q1,177,0,1,89,74,38,9,14,2,8,0,5,108,73,39,16,15,7,14,228,224,172,313
 2017-1068,Nurnberg,Clay,32,I,20170522,239,205606,11,,Viktoria Kamenskaya,R,,RUS,25.4,203518,,,Paula Kania,R,168,POL,24.5,6-3 6-7(3) 7-5,3,Q1,158,0,1,118,87,46,15,16,9,16,5,3,113,83,42,11,17,11,21,211,257,284,159
-2017-1068,Nurnberg,Clay,32,I,20170522,240,214247,,WC,Lena Rueffer,U,,GER,18.7,201448,,Alt,Galina Voskoboeva,R,183,KAZ,32.4,6-2 6-3,3,Q1,72,1,2,51,39,29,6,8,1,2,1,2,61,34,18,13,9,5,10,781,21,325,134
+2017-1068,Nurnberg,Clay,32,I,20170522,240,214247,,WC,Lena Rueffer,R,,GER,18.7,201448,,Alt,Galina Voskoboeva,R,183,KAZ,32.4,6-2 6-3,3,Q1,72,1,2,51,39,29,6,8,1,2,1,2,61,34,18,13,9,5,10,781,21,325,134
 2017-1068,Nurnberg,Clay,32,I,20170522,241,201670,10,,Amra Sadikovic,R,186,SUI,28.0,215647,,WC,Lara Schmidt,R,,GER,17.6,6-3 6-4,3,Q1,75,2,1,52,32,23,10,9,3,5,0,3,76,50,28,9,10,4,9,216,241,,
 2017-1068,Nurnberg,Clay,32,I,20170522,242,202695,,,Aleksandrina Naydenova,R,170,BUL,25.2,201523,4,,Marina Erakovic,R,174,NZL,29.2,6-4 7-6(5),3,Q1,118,6,2,84,53,35,16,11,9,12,4,5,90,53,39,11,11,6,10,303,146,143,389
 2017-1068,Nurnberg,Clay,32,I,20170522,243,206252,,,Barbora Krejcikova,R,178,CZE,21.4,206335,12,,Jesika Maleckova,R,,CZE,22.7,6-3 2-6 6-2,3,Q1,119,2,6,84,44,32,18,13,3,6,0,4,70,38,22,17,12,3,7,254,196,234,220
@@ -17826,7 +17826,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-1068,Nurnberg,Clay,32,I,20170522,247,214818,,WC,Mira Antonitsch,R,,AUT,18.4,202445,8,,Valeria Solovieva,R,168,RUS,24.5,7-6(6) 6-3,3,Q1,132,4,2,78,37,23,15,10,10,15,0,2,77,56,27,7,11,11,18,573,45,253,202
 2017-1068,Nurnberg,Clay,32,I,20170522,248,202456,,,Alexandra Cadantu Ignatik,R,170,ROU,27.0,201435,1,,Kateryna Bondarenko,R,175,UKR,30.7,0-6 6-4 6-4,3,Q1,131,1,1,76,60,32,8,13,3,8,5,4,80,60,38,10,13,6,10,246,207,92,658
 2017-1068,Nurnberg,Clay,32,I,20170522,249,213631,9,,Marie Bouzkova,R,180,CZE,18.8,206349,,,Mayo Hibi,R,165,JPN,21.1,6-1 6-1,3,Q2,85,1,1,39,25,17,10,7,0,1,0,1,52,44,18,1,7,5,11,206,262,228,224
-2017-1068,Nurnberg,Clay,32,I,20170522,250,214247,,WC,Lena Rueffer,U,,GER,18.7,205606,11,,Viktoria Kamenskaya,R,,RUS,25.4,6-2 6-3,3,Q2,69,4,1,52,32,24,13,9,0,1,1,2,46,25,15,9,8,3,7,781,21,211,257
+2017-1068,Nurnberg,Clay,32,I,20170522,250,214247,,WC,Lena Rueffer,R,,GER,18.7,205606,11,,Viktoria Kamenskaya,R,,RUS,25.4,6-2 6-3,3,Q2,69,4,1,52,32,24,13,9,0,1,1,2,46,25,15,9,8,3,7,781,21,211,257
 2017-1068,Nurnberg,Clay,32,I,20170522,251,201670,10,,Amra Sadikovic,R,186,SUI,28.0,202695,,,Aleksandrina Naydenova,R,170,BUL,25.2,6-1 6-3,3,Q2,74,6,1,55,34,21,10,8,5,7,1,4,63,39,18,9,8,6,12,216,241,303,146
 2017-1068,Nurnberg,Clay,32,I,20170522,252,206252,,,Barbora Krejcikova,R,178,CZE,21.4,204267,,Alt,Petra Krejsova,R,,CZE,26.8,6-4 6-4,3,Q2,86,5,4,59,34,19,15,10,4,7,5,5,66,30,20,14,10,8,13,254,196,287,157
 2017-1068,Nurnberg,Clay,32,I,20170522,253,205723,,,Anna Zaja,R,183,GER,25.9,202498,,,Julia Glushko,R,171,ISR,27.3,7-6(4) 6-0,3,Q2,89,8,3,61,39,27,9,9,5,8,0,3,68,50,18,10,9,2,8,265,183,236,219
@@ -18196,7 +18196,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-520,Roland Garros,Clay,128,G,20170529,101,206368,,,Veronika Kudermetova,R,175,RUS,20.0,202688,,,Isabella Shinikova,R,184,BUL,25.5,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,188,297,169,327
 2017-520,Roland Garros,Clay,128,G,20170529,102,206075,,,Hiroko Kuwata,R,,JPN,26.4,204246,,,Lesley Pattinama Kerkhove,R,172,NED,25.5,6-7(4) 6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,268,183,189,296
 2017-520,Roland Garros,Clay,128,G,20170529,103,202484,20,,Nicole Gibbs,R,168,USA,24.2,214461,,,Tamara Zidansek,R,168,SLO,19.4,6-3 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,129,423,158,344
-2017-520,Roland Garros,Clay,128,G,20170529,104,214954,2,,Marketa Vondrousova,L,173,CZE,17.9,206408,,,Nadia Podoroska,U,170,ARG,20.2,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,96,635,160,336
+2017-520,Roland Garros,Clay,128,G,20170529,104,214954,2,,Marketa Vondrousova,L,173,CZE,17.9,206408,,,Nadia Podoroska,R,170,ARG,20.2,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,96,635,160,336
 2017-520,Roland Garros,Clay,128,G,20170529,105,202482,,,Barbara Haas,R,165,AUT,21.1,201671,,,Ksenia Lykina,R,165,RUS,26.9,1-6 6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,161,335,245,215
 2017-520,Roland Garros,Clay,128,G,20170529,106,201668,,,Alexandra Panova,R,179,RUS,28.2,215588,,,Yasmine Mansouri,R,,FRA,16.0,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,392,94,,
 2017-520,Roland Garros,Clay,128,G,20170529,107,215020,14,,Anna Blinkova,R,179,RUS,18.7,211736,,,Ivana Jorovic,R,174,SRB,20.0,7-6(4) 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,122,449,171,320
@@ -18302,7 +18302,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-540,Wimbledon,Grass,128,G,20170703,123,214544,13,,Aryna Sabalenka,R,182,BLR,19.1,204291,,,Na Lae Han,L,,KOR,24.9,4-6 6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,136,410,206,275
 2017-540,Wimbledon,Grass,128,G,20170703,124,215713,,,Anastasia Potapova,R,175,RUS,16.2,206255,7,,Patricia Maria Tig,R,,ROU,22.9,7-6(1) 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,300,155,120,458
 2017-540,Wimbledon,Grass,128,G,20170703,125,201666,,,Cagla Buyukakcay,R,172,TUR,27.7,211279,,,Harriet Dart,R,175,GBR,20.9,4-6 6-3 9-7,3,Q1,,,,,,,,,,,,,,,,,,,,176,313,282,168
-2017-540,Wimbledon,Grass,128,G,20170703,126,201547,,,Michelle Larcher De Brito,R,165,POR,24.4,206408,,,Nadia Podoroska,U,170,ARG,20.3,6-3 6-7(4) 8-6,3,Q1,,,,,,,,,,,,,,,,,,,,283,167,175,316
+2017-540,Wimbledon,Grass,128,G,20170703,126,201547,,,Michelle Larcher De Brito,R,165,POR,24.4,206408,,,Nadia Podoroska,R,170,ARG,20.3,6-3 6-7(4) 8-6,3,Q1,,,,,,,,,,,,,,,,,,,,283,167,175,316
 2017-540,Wimbledon,Grass,128,G,20170703,127,206404,,,Elizaveta Kulichkova,R,,RUS,21.2,201501,21,,Olga Govortsova,R,182,BLR,28.8,6-3 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,148,381,141,398
 2017-540,Wimbledon,Grass,128,G,20170703,128,201531,8,,Mariana Duque Marino,R,169,COL,27.8,206329,,,Montserrat Gonzalez,R,170,PAR,23.0,7-6(3) 6-7(2) 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,121,457,202,285
 2017-540,Wimbledon,Grass,128,G,20170703,129,210303,,,Kathinka Von Deichmann,R,176,LIE,23.1,202688,,,Isabella Shinikova,R,184,BUL,25.6,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,182,310,207,274
@@ -18509,7 +18509,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-580,Australian Open,Hard,128,G,20170116,136,201318,,,Bethanie Mattek Sands,R,168,USA,31.8,201562,10,,Silvia Soler Espinosa,R,169,ESP,29.1,6-3 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,165,343,123,491
 2017-580,Australian Open,Hard,128,G,20170116,137,203281,,,Amandine Hesse,R,164,FRA,24.0,201573,,,Laura Robson,L,180,GBR,22.9,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,206,264,222,237
 2017-580,Australian Open,Hard,128,G,20170116,138,201556,,,Lucie Hradecka,R,177,CZE,31.6,204430,,,Antonia Lottner,R,185,GER,20.4,7-6(3) 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,177,320,180,313
-2017-580,Australian Open,Hard,128,G,20170116,139,206404,24,,Elizaveta Kulichkova,R,,RUS,20.7,206408,,,Nadia Podoroska,U,170,ARG,19.9,6-3 3-6 4-1 RET,3,Q1,,,,,,,,,,,,,,,,,,,,145,398,194,283
+2017-580,Australian Open,Hard,128,G,20170116,139,206404,24,,Elizaveta Kulichkova,R,,RUS,20.7,206408,,,Nadia Podoroska,R,170,ARG,19.9,6-3 3-6 4-1 RET,3,Q1,,,,,,,,,,,,,,,,,,,,145,398,194,283
 2017-580,Australian Open,Hard,128,G,20170116,140,202536,11,,Ana Bogdan,R,171,ROU,24.1,201551,,,Arantxa Rus,L,180,NED,26.0,3-6 6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,125,481,175,323
 2017-580,Australian Open,Hard,128,G,20170116,141,206391,,,Ellen Perez,L,169,AUS,21.2,201656,,,Tadeja Majeric,R,178,SLO,26.3,6-3 1-6 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,557,47,208,258
 2017-580,Australian Open,Hard,128,G,20170116,142,206252,,,Barbora Krejcikova,R,178,CZE,21.0,201534,,,Asia Muhammad,R,178,USA,25.7,6-3 4-6 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,249,197,151,364
@@ -18591,7 +18591,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2017-M004,Acapulco,Hard,32,I,20170227,243,211222,11,,Jamie Loeb,R,168,USA,21.9,202614,,,Jacqueline Cako,R,178,USA,25.4,6-2 6-2,3,Q1,86,1,3,57,25,16,18,8,2,4,3,6,63,24,14,13,8,3,9,170,329,260,178
 2017-M004,Acapulco,Hard,32,I,20170227,244,201523,3,,Marina Erakovic,R,174,NZL,28.9,204359,,WC,Giovanna Manifacio,R,,MEX,22.4,6-2 6-2,3,Q1,72,0,8,45,22,18,11,8,2,4,1,6,55,35,16,6,8,6,12,108,578,,
 2017-M004,Acapulco,Hard,32,I,20170227,245,211539,,,Fiona Ferro,R,170,FRA,19.9,202496,10,,Samantha Crawford,R,188,USA,22.0,3-6 7-5 7-5,3,Q1,133,0,4,122,92,48,12,16,12,20,3,18,108,44,31,24,17,8,17,243,197,150,385
-2017-M004,Acapulco,Hard,32,I,20170227,246,213583,2,,Tatjana Maria,R,172,GER,29.5,206408,,,Nadia Podoroska,U,170,ARG,20.0,6-3 6-1,3,Q1,60,3,2,41,22,17,10,8,0,2,0,4,45,33,14,3,8,2,8,104,597,193,275
+2017-M004,Acapulco,Hard,32,I,20170227,246,213583,2,,Tatjana Maria,R,172,GER,29.5,206408,,,Nadia Podoroska,R,170,ARG,20.0,6-3 6-1,3,Q1,60,3,2,41,22,17,10,8,0,2,0,4,45,33,14,3,8,2,8,104,597,193,275
 2017-M004,Acapulco,Hard,32,I,20170227,247,201534,7,,Asia Muhammad,R,178,USA,25.9,213631,,,Marie Bouzkova,R,180,CZE,18.6,6-1 7-5,3,Q1,80,1,2,51,26,17,18,9,0,1,0,5,66,41,22,10,10,7,12,132,450,237,207
 2017-M004,Acapulco,Hard,32,I,20170227,248,206108,1,,Jennifer Brady,R,178,USA,21.8,215040,,WC,Emma Reyes Baca,U,,MEX,25.2,6-0 6-3,3,Q1,43,5,2,34,18,15,13,8,0,1,1,4,39,24,9,5,7,2,7,80,772,,
 2017-M004,Acapulco,Hard,32,I,20170227,249,203564,,,Chloe Paquet,R,179,FRA,22.6,202705,6,,Veronica Cepede Royg,R,163,PAR,25.1,7-5 6-3,3,Q2,90,5,6,59,35,23,11,10,2,5,2,6,82,52,26,14,11,4,10,293,149,128,461
