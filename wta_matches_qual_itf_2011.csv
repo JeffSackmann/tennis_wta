@@ -74,7 +74,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C100-CAN-01A-2011,Vancouver 100K,Hard,32,100,20110801,11,202681,,WC,Gabriela Dabrowski,R,175,CAN,19.3,201410,,SR,Monique Adamczak,R,170,AUS,28.5,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,419,97,401,103
 2011-W-C100-CAN-01A-2011,Vancouver 100K,Hard,32,100,20110801,12,201604,3,,Irina Falconi,R,163,USA,21.2,201451,,,Kathrin Woerle,R,175,GER,27.4,6-1 5-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,81,799,140,479
 2011-W-C100-CAN-01A-2011,Vancouver 100K,Hard,32,100,20110801,13,201524,8,,Urszula Radwanska,R,177,POL,20.6,201483,,Q,Madison Brengle,R,168,USA,21.3,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,123,575,191,302
-2011-W-C100-CAN-01A-2011,Vancouver 100K,Hard,32,100,20110801,14,201613,,,Arina Rodionova,R,168,RUS,21.6,201530,,WC,Gail Brodsky,R,165,USA,20.1,3-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,185,305,217,268
+2011-W-C100-CAN-01A-2011,Vancouver 100K,Hard,32,100,20110801,14,201613,,,Arina Rodionova,R,168,AUS,21.6,201530,,WC,Gail Brodsky,R,165,USA,20.1,3-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,185,305,217,268
 2011-W-C100-CAN-01A-2011,Vancouver 100K,Hard,32,100,20110801,15,201486,,,Aleksandra Wozniak,R,175,CAN,23.8,201573,,,Laura Robson,L,180,GBR,17.5,6-4 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,200,293,177,324
 2011-W-C100-CAN-01A-2011,Vancouver 100K,Hard,32,100,20110801,16,201303,2,,Anne Keothavong,R,175,GBR,27.8,201667,,,Ling Zhang,R,178,HKG,21.7,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,96,730,190,302
 2011-W-C100-CAN-01A-2011,Vancouver 100K,Hard,32,100,20110801,17,201600,,,Jamie Hampton,R,173,USA,21.5,201512,1,,Monica Niculescu,R,168,ROU,23.8,W/O,3,R16,,,,,,,,,,,,,,,,,,,,147,443,59,995
@@ -83,7 +83,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C100-CAN-01A-2011,Vancouver 100K,Hard,32,100,20110801,20,202461,,,Julia Cohen,R,170,USA,22.3,201477,7,,Stephanie Dubois,R,162,CAN,24.7,6-2 4-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,193,298,107,655
 2011-W-C100-CAN-01A-2011,Vancouver 100K,Hard,32,100,20110801,21,201548,,,Ajla Tomljanovic,R,180,AUS,18.2,201348,,Q,Casey Dellacqua,L,165,AUS,26.4,4-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,165,349,310,166
 2011-W-C100-CAN-01A-2011,Vancouver 100K,Hard,32,100,20110801,22,201604,3,,Irina Falconi,R,163,USA,21.2,202681,,WC,Gabriela Dabrowski,R,175,CAN,19.3,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,81,799,419,97
-2011-W-C100-CAN-01A-2011,Vancouver 100K,Hard,32,100,20110801,23,201524,8,,Urszula Radwanska,R,177,POL,20.6,201613,,,Arina Rodionova,R,168,RUS,21.6,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,123,575,185,305
+2011-W-C100-CAN-01A-2011,Vancouver 100K,Hard,32,100,20110801,23,201524,8,,Urszula Radwanska,R,177,POL,20.6,201613,,,Arina Rodionova,R,168,AUS,21.6,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,123,575,185,305
 2011-W-C100-CAN-01A-2011,Vancouver 100K,Hard,32,100,20110801,24,201486,,,Aleksandra Wozniak,R,175,CAN,23.8,201303,2,,Anne Keothavong,R,175,GBR,27.8,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,200,293,96,730
 2011-W-C100-CAN-01A-2011,Vancouver 100K,Hard,32,100,20110801,25,201600,,,Jamie Hampton,R,173,USA,21.5,202498,,Q,Julia Glushko,R,171,ISR,21.5,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,147,443,197,296
 2011-W-C100-CAN-01A-2011,Vancouver 100K,Hard,32,100,20110801,26,201305,4,,Eleni Daniilidou,R,182,GRE,28.8,202461,,,Julia Cohen,R,170,USA,22.3,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,103,677,193,298
@@ -810,7 +810,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C10-ARG-07A-2011,Rosario 10K,Clay,32,10,20110606,11,206411,,Q,Agustina Serio,U,,ARG,15.8,210662,,Q,Lucia Soulie,R,,ARG,17.7,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2011-W-C10-ARG-07A-2011,Rosario 10K,Clay,32,10,20110606,12,205913,4,,Luciana Sarmenti,R,,ARG,25.3,210161,,WC,Fiorella Nocino,U,,ARG,20.1,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,529,59,,
 2011-W-C10-ARG-07A-2011,Rosario 10K,Clay,32,10,20110606,13,206149,7,,Gabriela Coglitore,R,,VEN,20.0,206191,,,Giuliana Pino,R,,ARG,20.3,6-3 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,696,31,1120,5
-2011-W-C10-ARG-07A-2011,Rosario 10K,Clay,32,10,20110606,14,206406,,WC,Berta Bonardi,U,,ARG,15.9,206267,,,Mikele Irazusta,R,,ARG,18.0,6-1 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1182,3
+2011-W-C10-ARG-07A-2011,Rosario 10K,Clay,32,10,20110606,14,206406,,WC,Berta Bonardi,R,,ARG,15.9,206267,,,Mikele Irazusta,R,,ARG,18.0,6-1 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1182,3
 2011-W-C10-ARG-07A-2011,Rosario 10K,Clay,32,10,20110606,15,206147,,,Sofia Luini,R,,ARG,18.5,209649,,,Jordana Lujan,R,,ARG,20.5,2-6 6-4 RET,3,R32,,,,,,,,,,,,,,,,,,,,768,24,894,16
 2011-W-C10-ARG-07A-2011,Rosario 10K,Clay,32,10,20110606,16,203363,2,Q,Vanesa Furlanetto,U,,ARG,24.2,210689,,,Candelaria Sedano Acosta,R,,ITA,17.2,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,353,121,,
 2011-W-C10-ARG-07A-2011,Rosario 10K,Clay,32,10,20110606,17,203453,1,,Aranza Salut,R,170,ARG,19.9,206330,,,Daniela Degano,R,,ARG,18.1,6-4 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,336,136,925,14
@@ -819,7 +819,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C10-ARG-07A-2011,Rosario 10K,Clay,32,10,20110606,20,201488,6,,Jorgelina Cravero,R,163,ARG,29.3,206405,,WC,Sofia Blanco,U,,ARG,15.5,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,591,46,,
 2011-W-C10-ARG-07A-2011,Rosario 10K,Clay,32,10,20110606,21,205755,8,,Guadalupe Moreno,L,,ARG,21.7,211150,,Q,Agustina Elena Otegui,U,,ARG,15.0,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,751,25,,
 2011-W-C10-ARG-07A-2011,Rosario 10K,Clay,32,10,20110606,22,205913,4,,Luciana Sarmenti,R,,ARG,25.3,206411,,Q,Agustina Serio,U,,ARG,15.8,4-6 6-4 2-3 RET,3,R16,,,,,,,,,,,,,,,,,,,,529,59,,
-2011-W-C10-ARG-07A-2011,Rosario 10K,Clay,32,10,20110606,23,206149,7,,Gabriela Coglitore,R,,VEN,20.0,206406,,WC,Berta Bonardi,U,,ARG,15.9,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,696,31,,
+2011-W-C10-ARG-07A-2011,Rosario 10K,Clay,32,10,20110606,23,206149,7,,Gabriela Coglitore,R,,VEN,20.0,206406,,WC,Berta Bonardi,R,,ARG,15.9,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,696,31,,
 2011-W-C10-ARG-07A-2011,Rosario 10K,Clay,32,10,20110606,24,203363,2,Q,Vanesa Furlanetto,U,,ARG,24.2,206147,,,Sofia Luini,R,,ARG,18.5,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,353,121,768,24
 2011-W-C10-ARG-07A-2011,Rosario 10K,Clay,32,10,20110606,25,203453,1,,Aranza Salut,R,170,ARG,19.9,210113,,Q,Katherine Gabriela Miranda Chang,R,,PER,17.3,6-0 6-1,3,QF,,,,,,,,,,,,,,,,,,,,336,136,,
 2011-W-C10-ARG-07A-2011,Rosario 10K,Clay,32,10,20110606,26,201488,6,,Jorgelina Cravero,R,163,ARG,29.3,204419,,Q,Ana Sofia Sanchez,L,,MEX,17.1,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,591,46,,
@@ -832,7 +832,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C10-ARG-08A-2011,Santa Fe 10K,Clay,32,10,20110613,2,210689,,Q,Candelaria Sedano Acosta,R,,ITA,17.2,210787,,,Barbara Montiel,R,,ARG,20.2,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1050,8
 2011-W-C10-ARG-08A-2011,Santa Fe 10K,Clay,32,10,20110613,3,206405,,WC,Sofia Blanco,U,,ARG,15.5,211257,,Q,Maria Luz Perlini,U,,ARG,21.8,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2011-W-C10-ARG-08A-2011,Santa Fe 10K,Clay,32,10,20110613,4,206149,8,,Gabriela Coglitore,R,,VEN,20.0,210365,,WC,Tatiana Carpio,R,,ARG,20.5,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,707,31,,
-2011-W-C10-ARG-08A-2011,Santa Fe 10K,Clay,32,10,20110613,5,202354,3,,Andrea Benitez,R,,ARG,25.0,206406,,WC,Berta Bonardi,U,,ARG,15.9,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,380,109,,
+2011-W-C10-ARG-08A-2011,Santa Fe 10K,Clay,32,10,20110613,5,202354,3,,Andrea Benitez,R,,ARG,25.0,206406,,WC,Berta Bonardi,R,,ARG,15.9,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,380,109,,
 2011-W-C10-ARG-08A-2011,Santa Fe 10K,Clay,32,10,20110613,6,206241,,,Belen Luduena,R,,CHI,18.5,209649,,,Jordana Lujan,R,,ARG,20.5,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1066,8,891,16
 2011-W-C10-ARG-08A-2011,Santa Fe 10K,Clay,32,10,20110613,7,205837,,Q,Melina Ferrero,R,,ARG,18.7,206267,,LL,Mikele Irazusta,R,,ARG,18.0,6-7(1) 6-4 RET,3,R32,,,,,,,,,,,,,,,,,,,,1187,3,1187,3
 2011-W-C10-ARG-08A-2011,Santa Fe 10K,Clay,32,10,20110613,8,210113,,Q,Katherine Gabriela Miranda Chang,R,,PER,17.3,205913,6,,Luciana Sarmenti,R,,ARG,25.3,6-1 2-6 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,,,532,59
@@ -843,7 +843,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C10-ARG-08A-2011,Santa Fe 10K,Clay,32,10,20110613,13,205831,5,,Isabella Robbiani,R,157,PAR,19.2,205911,,,Florencia Di Biasi,R,,ARG,18.3,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,512,64,787,23
 2011-W-C10-ARG-08A-2011,Santa Fe 10K,Clay,32,10,20110613,14,206099,,,Raquel Piltcher,R,,BRA,19.9,211256,,Q,Trinidad Maria Merdeni,U,,ARG,15.4,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,1088,7,,
 2011-W-C10-ARG-08A-2011,Santa Fe 10K,Clay,32,10,20110613,15,206407,,Q,Carolina Costamagna,R,,ARG,16.0,211258,,Q,Edith Ayelen Monzon,R,,ARG,14.0,6-4 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2011-W-C10-ARG-08A-2011,Santa Fe 10K,Clay,32,10,20110613,16,203363,2,,Vanesa Furlanetto,U,,ARG,24.3,206408,,Q,Nadia Podoroska,U,170,ARG,14.3,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,361,121,,
+2011-W-C10-ARG-08A-2011,Santa Fe 10K,Clay,32,10,20110613,16,203363,2,,Vanesa Furlanetto,U,,ARG,24.3,206408,,Q,Nadia Podoroska,R,170,ARG,14.3,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,361,121,,
 2011-W-C10-ARG-08A-2011,Santa Fe 10K,Clay,32,10,20110613,17,203453,1,,Aranza Salut,R,170,ARG,19.9,210689,,Q,Candelaria Sedano Acosta,R,,ITA,17.2,6-7(8) 7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,340,136,,
 2011-W-C10-ARG-08A-2011,Santa Fe 10K,Clay,32,10,20110613,18,206149,8,,Gabriela Coglitore,R,,VEN,20.0,206405,,WC,Sofia Blanco,U,,ARG,15.5,3-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,707,31,,
 2011-W-C10-ARG-08A-2011,Santa Fe 10K,Clay,32,10,20110613,19,202354,3,,Andrea Benitez,R,,ARG,25.0,206241,,,Belen Luduena,R,,CHI,18.5,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,380,109,1066,8
@@ -2094,7 +2094,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C10-CHI-04A-2011,Concepcion 10K,Clay,32,10,20111114,2,210689,,,Candelaria Sedano Acosta,R,,ITA,17.7,206405,,,Sofia Blanco,U,,ARG,15.9,6-1 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,,,1211,3
 2011-W-C10-CHI-04A-2011,Concepcion 10K,Clay,32,10,20111114,3,210993,,,Ivania Martinich,R,,CHI,16.3,210560,,,Fiorella Jerardino,L,,CHI,19.4,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2011-W-C10-CHI-04A-2011,Concepcion 10K,Clay,32,10,20111114,4,210923,,,Mariajose Cardona,U,,COL,16.9,206011,6,,Flavia Guimaraes Bueno,U,,BRA,19.5,6-1 1-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,743,26
-2011-W-C10-CHI-04A-2011,Concepcion 10K,Clay,32,10,20111114,5,206408,,,Nadia Podoroska,U,170,ARG,14.7,206037,3,,Daniela Seguel,U,171,CHI,18.9,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,591,47
+2011-W-C10-CHI-04A-2011,Concepcion 10K,Clay,32,10,20111114,5,206408,,,Nadia Podoroska,R,170,ARG,14.7,206037,3,,Daniela Seguel,U,171,CHI,18.9,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,591,47
 2011-W-C10-CHI-04A-2011,Concepcion 10K,Clay,32,10,20111114,6,206410,,,Guadalupe Perez Rojas,R,,ARG,17.2,211206,,,Cyntia Soledad Gimenez,U,,ARG,18.4,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1000,11,,
 2011-W-C10-CHI-04A-2011,Concepcion 10K,Clay,32,10,20111114,7,210547,,WC,Debora Echeverria,U,,CHI,18.7,210161,,,Fiorella Nocino,U,,ARG,20.5,6-4 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2011-W-C10-CHI-04A-2011,Concepcion 10K,Clay,32,10,20111114,8,211006,,WC,Macarena Olivares Lopez,R,,CHI,15.8,205834,5,,Karina Venditti,R,,BRA,22.6,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,788,23
@@ -2108,14 +2108,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C10-CHI-04A-2011,Concepcion 10K,Clay,32,10,20111114,16,202394,2,,Camila Silva,R,,CHI,19.0,211490,,,Manuela Luz Molesini,R,,ARG,14.4,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,561,53,,
 2011-W-C10-CHI-04A-2011,Concepcion 10K,Clay,32,10,20111114,17,205842,1,,Carla Lucero,R,,ARG,21.0,210689,,,Candelaria Sedano Acosta,R,,ITA,17.7,7-6(3) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,474,75,,
 2011-W-C10-CHI-04A-2011,Concepcion 10K,Clay,32,10,20111114,18,210923,,,Mariajose Cardona,U,,COL,16.9,210993,,,Ivania Martinich,R,,CHI,16.3,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
-2011-W-C10-CHI-04A-2011,Concepcion 10K,Clay,32,10,20111114,19,206408,,,Nadia Podoroska,U,170,ARG,14.7,206410,,,Guadalupe Perez Rojas,R,,ARG,17.2,7-6(5) 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,,,1000,11
+2011-W-C10-CHI-04A-2011,Concepcion 10K,Clay,32,10,20111114,19,206408,,,Nadia Podoroska,R,170,ARG,14.7,206410,,,Guadalupe Perez Rojas,R,,ARG,17.2,7-6(5) 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,,,1000,11
 2011-W-C10-CHI-04A-2011,Concepcion 10K,Clay,32,10,20111114,20,211006,,WC,Macarena Olivares Lopez,R,,CHI,15.8,210547,,WC,Debora Echeverria,U,,CHI,18.7,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2011-W-C10-CHI-04A-2011,Concepcion 10K,Clay,32,10,20111114,21,206344,7,,Fernanda Brito,R,172,CHI,19.7,206343,,,Stephanie Mariel Petit,R,,ARG,15.2,6-7(5) 6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,981,12,,
 2011-W-C10-CHI-04A-2011,Concepcion 10K,Clay,32,10,20111114,22,206149,4,,Gabriela Coglitore,R,,VEN,20.5,205835,,,Beatriz Maria Martins Cecato,R,,BRA,19.6,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,765,24,1072,8
 2011-W-C10-CHI-04A-2011,Concepcion 10K,Clay,32,10,20111114,23,210375,,,Carla Bruzzesi Avella,R,,ARG,16.7,206241,8,,Belen Luduena,R,,CHI,19.0,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,939,14
 2011-W-C10-CHI-04A-2011,Concepcion 10K,Clay,32,10,20111114,24,202394,2,,Camila Silva,R,,CHI,19.0,211489,,,Maria Agustina De Carli,R,,ARG,15.3,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,561,53,,
 2011-W-C10-CHI-04A-2011,Concepcion 10K,Clay,32,10,20111114,25,205842,1,,Carla Lucero,R,,ARG,21.0,210923,,,Mariajose Cardona,U,,COL,16.9,6-0 6-1,3,QF,,,,,,,,,,,,,,,,,,,,474,75,,
-2011-W-C10-CHI-04A-2011,Concepcion 10K,Clay,32,10,20111114,26,211006,,WC,Macarena Olivares Lopez,R,,CHI,15.8,206408,,,Nadia Podoroska,U,170,ARG,14.7,7-5 7-5,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+2011-W-C10-CHI-04A-2011,Concepcion 10K,Clay,32,10,20111114,26,211006,,WC,Macarena Olivares Lopez,R,,CHI,15.8,206408,,,Nadia Podoroska,R,170,ARG,14.7,7-5 7-5,3,QF,,,,,,,,,,,,,,,,,,,,,,,
 2011-W-C10-CHI-04A-2011,Concepcion 10K,Clay,32,10,20111114,27,206344,7,,Fernanda Brito,R,172,CHI,19.7,206149,4,,Gabriela Coglitore,R,,VEN,20.5,6-3 2-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,981,12,765,24
 2011-W-C10-CHI-04A-2011,Concepcion 10K,Clay,32,10,20111114,28,202394,2,,Camila Silva,R,,CHI,19.0,210375,,,Carla Bruzzesi Avella,R,,ARG,16.7,6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,561,53,,
 2011-W-C10-CHI-04A-2011,Concepcion 10K,Clay,32,10,20111114,29,205842,1,,Carla Lucero,R,,ARG,21.0,211006,,WC,Macarena Olivares Lopez,R,,CHI,15.8,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,474,75,,
@@ -2129,7 +2129,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C10-CHI-05A-2011,Rancagua 10K,Clay,32,10,20111121,6,206344,,,Fernanda Brito,R,172,CHI,19.7,206241,,,Belen Luduena,R,,CHI,19.0,6-7(2) 6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,981,12,859,18
 2011-W-C10-CHI-05A-2011,Rancagua 10K,Clay,32,10,20111121,7,206333,,,Linda Mair,R,,ITA,26.7,206410,,LL,Guadalupe Perez Rojas,R,,ARG,17.2,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,999,11,999,11
 2011-W-C10-CHI-05A-2011,Rancagua 10K,Clay,32,10,20111121,8,202394,6,WC,Camila Silva,R,,CHI,19.0,205835,,Q,Beatriz Maria Martins Cecato,R,,BRA,19.6,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,615,41,1094,7
-2011-W-C10-CHI-05A-2011,Rancagua 10K,Clay,32,10,20111121,9,206406,,Q,Berta Bonardi,U,,ARG,16.4,205831,5,,Isabella Robbiani,R,157,PAR,19.6,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,575,51
+2011-W-C10-CHI-05A-2011,Rancagua 10K,Clay,32,10,20111121,9,206406,,Q,Berta Bonardi,R,,ARG,16.4,205831,5,,Isabella Robbiani,R,157,PAR,19.6,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,575,51
 2011-W-C10-CHI-05A-2011,Rancagua 10K,Clay,32,10,20111121,10,206245,,,Ofri Lankri,U,,ISR,20.3,210161,,Q,Fiorella Nocino,U,,ARG,20.6,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,653,36,,
 2011-W-C10-CHI-05A-2011,Rancagua 10K,Clay,32,10,20111121,11,206174,,,Cecilia Costa Melgar,R,160,CHI,18.9,210560,,LL,Fiorella Jerardino,L,,CHI,19.4,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,592,46,,
 2011-W-C10-CHI-05A-2011,Rancagua 10K,Clay,32,10,20111121,12,205842,4,,Carla Lucero,R,,ARG,21.0,210689,,Q,Candelaria Sedano Acosta,R,,ITA,17.7,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,475,75,,
@@ -2141,7 +2141,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C10-CHI-05A-2011,Rancagua 10K,Clay,32,10,20111121,18,206037,8,,Daniela Seguel,U,171,CHI,19.0,205834,,,Karina Venditti,R,,BRA,22.6,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,617,41,725,27
 2011-W-C10-CHI-05A-2011,Rancagua 10K,Clay,32,10,20111121,19,204262,3,,Karolina Nowak,R,,GER,27.3,206344,,,Fernanda Brito,R,172,CHI,19.7,6-4 4-6 7-6(8),3,R16,,,,,,,,,,,,,,,,,,,,417,92,981,12
 2011-W-C10-CHI-05A-2011,Rancagua 10K,Clay,32,10,20111121,20,202394,6,WC,Camila Silva,R,,CHI,19.0,206333,,,Linda Mair,R,,ITA,26.7,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,615,41,999,11
-2011-W-C10-CHI-05A-2011,Rancagua 10K,Clay,32,10,20111121,21,206245,,,Ofri Lankri,U,,ISR,20.3,206406,,Q,Berta Bonardi,U,,ARG,16.4,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,653,36,,
+2011-W-C10-CHI-05A-2011,Rancagua 10K,Clay,32,10,20111121,21,206245,,,Ofri Lankri,U,,ISR,20.3,206406,,Q,Berta Bonardi,R,,ARG,16.4,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,653,36,,
 2011-W-C10-CHI-05A-2011,Rancagua 10K,Clay,32,10,20111121,22,206174,,,Cecilia Costa Melgar,R,160,CHI,18.9,205842,4,,Carla Lucero,R,,ARG,21.0,7-6(5) 1-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,592,46,475,75
 2011-W-C10-CHI-05A-2011,Rancagua 10K,Clay,32,10,20111121,23,205847,,,Carla Forte,R,,BRA,17.8,206011,,,Flavia Guimaraes Bueno,U,,BRA,19.5,6-3 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,589,47,754,25
 2011-W-C10-CHI-05A-2011,Rancagua 10K,Clay,32,10,20111121,24,201661,2,,Tina Schiechtl,R,170,AUT,27.8,211006,,WC,Macarena Olivares Lopez,R,,CHI,15.8,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,316,153,,
@@ -6023,7 +6023,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C10-KOR-02A-2011,Yeong Wol 10K,Hard,32,10,20110905,8,205401,7,,Sun Jung Kim,R,,KOR,26.4,206150,,,Napatsakorn Sankaew,U,,THA,18.0,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,792,22,975,12
 2011-W-C10-KOR-02A-2011,Yeong Wol 10K,Hard,32,10,20110905,9,204292,,,Hyojung Yea,U,,KOR,17.5,203222,5,,Hae Sung Kim,R,,KOR,23.9,6-4 6-7(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1215,3,667,36
 2011-W-C10-KOR-02A-2011,Yeong Wol 10K,Hard,32,10,20110905,10,204406,,Q,Ki Ryang Kim,R,,KOR,16.9,206154,,,Varunya Wongteanchai,R,,THA,18.6,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1180,4
-2011-W-C10-KOR-02A-2011,Yeong Wol 10K,Hard,32,10,20110905,11,206294,,Q,Yue Yuan,U,184,CHN,20.1,203220,,,Jung Yoon Shin,R,,KOR,23.4,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1180,4
+2011-W-C10-KOR-02A-2011,Yeong Wol 10K,Hard,32,10,20110905,11,206294,,Q,Yue Yuan,R,184,CHN,12.9,203220,,,Jung Yoon Shin,R,,KOR,23.4,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1180,4
 2011-W-C10-KOR-02A-2011,Yeong Wol 10K,Hard,32,10,20110905,12,211009,,Q,Jung Eun Nam,U,,KOR,19.9,203333,3,,Yumi Miyazaki,U,,JPN,24.8,3-6 7-6(0) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,610,44
 2011-W-C10-KOR-02A-2011,Yeong Wol 10K,Hard,32,10,20110905,13,206126,8,,Ju Eun Kim,R,,KOR,20.3,202508,,,Yuxuan Zhang,R,179,CHN,17.0,6-4 6-7(8) 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,815,21,1224,3
 2011-W-C10-KOR-02A-2011,Yeong Wol 10K,Hard,32,10,20110905,14,206421,,WC,Nam Yeon Jun,R,,KOR,15.8,204416,,,Robyn Beddow,U,,GBR,18.0,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1042,10
@@ -6034,16 +6034,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C10-KOR-02A-2011,Yeong Wol 10K,Hard,32,10,20110905,19,204286,4,,Seung Yeon Hong,U,,KOR,19.3,204285,,,Ji Young Kim,R,,KOR,25.9,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,643,39,865,18
 2011-W-C10-KOR-02A-2011,Yeong Wol 10K,Hard,32,10,20110905,20,205401,7,,Sun Jung Kim,R,,KOR,26.4,205946,,WC,Se Jin Lee,U,,KOR,21.0,1-6 6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,792,22,,
 2011-W-C10-KOR-02A-2011,Yeong Wol 10K,Hard,32,10,20110905,21,204292,,,Hyojung Yea,U,,KOR,17.5,204406,,Q,Ki Ryang Kim,R,,KOR,16.9,3-6 7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1215,3,,
-2011-W-C10-KOR-02A-2011,Yeong Wol 10K,Hard,32,10,20110905,22,206294,,Q,Yue Yuan,U,184,CHN,20.1,211009,,Q,Jung Eun Nam,U,,KOR,19.9,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2011-W-C10-KOR-02A-2011,Yeong Wol 10K,Hard,32,10,20110905,22,206294,,Q,Yue Yuan,R,184,CHN,12.9,211009,,Q,Jung Eun Nam,U,,KOR,19.9,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2011-W-C10-KOR-02A-2011,Yeong Wol 10K,Hard,32,10,20110905,23,206126,8,,Ju Eun Kim,R,,KOR,20.3,206421,,WC,Nam Yeon Jun,R,,KOR,15.8,6-1 2-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,815,21,,
 2011-W-C10-KOR-02A-2011,Yeong Wol 10K,Hard,32,10,20110905,24,202501,2,,Hyun Hui Hong,U,,KOR,19.6,203578,,Q,Fangzhou Liu,R,180,CHN,15.7,2-6 6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,492,70,,
 2011-W-C10-KOR-02A-2011,Yeong Wol 10K,Hard,32,10,20110905,25,202507,,Q,Wing Yau Venise Chan,R,,HKG,22.2,204291,1,,Na Lae Han,L,,KOR,19.1,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,491,70
 2011-W-C10-KOR-02A-2011,Yeong Wol 10K,Hard,32,10,20110905,26,205401,7,,Sun Jung Kim,R,,KOR,26.4,204286,4,,Seung Yeon Hong,U,,KOR,19.3,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,792,22,643,39
-2011-W-C10-KOR-02A-2011,Yeong Wol 10K,Hard,32,10,20110905,27,206294,,Q,Yue Yuan,U,184,CHN,20.1,204292,,,Hyojung Yea,U,,KOR,17.5,6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,,,1215,3
+2011-W-C10-KOR-02A-2011,Yeong Wol 10K,Hard,32,10,20110905,27,206294,,Q,Yue Yuan,R,184,CHN,12.9,204292,,,Hyojung Yea,U,,KOR,17.5,6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,,,1215,3
 2011-W-C10-KOR-02A-2011,Yeong Wol 10K,Hard,32,10,20110905,28,206126,8,,Ju Eun Kim,R,,KOR,20.3,202501,2,,Hyun Hui Hong,U,,KOR,19.6,6-4 3-6 7-5,3,QF,,,,,,,,,,,,,,,,,,,,815,21,492,70
 2011-W-C10-KOR-02A-2011,Yeong Wol 10K,Hard,32,10,20110905,29,202507,,Q,Wing Yau Venise Chan,R,,HKG,22.2,205401,7,,Sun Jung Kim,R,,KOR,26.4,6-1 6-2,3,SF,,,,,,,,,,,,,,,,,,,,,,792,22
-2011-W-C10-KOR-02A-2011,Yeong Wol 10K,Hard,32,10,20110905,30,206294,,Q,Yue Yuan,U,184,CHN,20.1,206126,8,,Ju Eun Kim,R,,KOR,20.3,6-4 6-0,3,SF,,,,,,,,,,,,,,,,,,,,,,815,21
-2011-W-C10-KOR-02A-2011,Yeong Wol 10K,Hard,32,10,20110905,31,202507,,Q,Wing Yau Venise Chan,R,,HKG,22.2,206294,,Q,Yue Yuan,U,184,CHN,20.1,6-2 6-3,3,F,,,,,,,,,,,,,,,,,,,,,,,
+2011-W-C10-KOR-02A-2011,Yeong Wol 10K,Hard,32,10,20110905,30,206294,,Q,Yue Yuan,R,184,CHN,12.9,206126,8,,Ju Eun Kim,R,,KOR,20.3,6-4 6-0,3,SF,,,,,,,,,,,,,,,,,,,,,,815,21
+2011-W-C10-KOR-02A-2011,Yeong Wol 10K,Hard,32,10,20110905,31,202507,,Q,Wing Yau Venise Chan,R,,HKG,22.2,206294,,Q,Yue Yuan,R,184,CHN,12.9,6-2 6-3,3,F,,,,,,,,,,,,,,,,,,,,,,,
 2011-W-C10-MAR-01A-2011,Tanger 10K,Clay,32,10,20110711,1,201642,1,,Fatima El Allami,L,,MAR,22.2,204236,,,Ivette Lopez,R,,MEX,20.9,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,475,77,1210,3
 2011-W-C10-MAR-01A-2011,Tanger 10K,Clay,32,10,20110711,2,204322,,,Agata Baranska,R,,POL,17.5,206053,,,Costanza Mecchi,R,,ITA,19.3,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1153,5
 2011-W-C10-MAR-01A-2011,Tanger 10K,Clay,32,10,20110711,3,206277,,Q,Marine Partaud,R,,FRA,16.6,209573,,,Fatima Zorah Bouabdallah,R,,ALG,21.2,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,1178,4
@@ -9186,7 +9186,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C10-USA-03A-2011,Hilton Head Island SC 10K,Hard,32,10,20110530,4,202923,5,,Amanda Mcdowell,U,,USA,23.7,205922,,,Chanelle Van Nguyen,U,,USA,17.3,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,526,61,913,14
 2011-W-C10-USA-03A-2011,Hilton Head Island SC 10K,Hard,32,10,20110530,5,204424,,SE,Hayley Carter,R,180,USA,16.0,202327,3,,Megan Falcon,R,,USA,25.8,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,477,77
 2011-W-C10-USA-03A-2011,Hilton Head Island SC 10K,Hard,32,10,20110530,6,203451,,,Marina Giral Lores,R,,VEN,20.7,203511,,Q,Alexandra Kiick,R,,USA,15.9,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,849,17,,
-2011-W-C10-USA-03A-2011,Hilton Head Island SC 10K,Hard,32,10,20110530,7,202414,,WC,Catherine Harrison,U,,USA,17.1,203560,,,Whitney Jones,U,,USA,24.7,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,943,12,732,27
+2011-W-C10-USA-03A-2011,Hilton Head Island SC 10K,Hard,32,10,20110530,7,202414,,WC,Catherine Harrison,R,,USA,17.1,203560,,,Whitney Jones,U,,USA,24.7,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,943,12,732,27
 2011-W-C10-USA-03A-2011,Hilton Head Island SC 10K,Hard,32,10,20110530,8,203483,7,,Jan Abaza,U,,USA,16.2,203528,,,Nicola Slater,U,173,GBR,26.7,6-7(3) 6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,624,40,817,19
 2011-W-C10-USA-03A-2011,Hilton Head Island SC 10K,Hard,32,10,20110530,9,202459,6,,Bojana Bobusic,R,170,AUS,23.6,210567,,Q,Martina Frantova,R,,SVK,18.6,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,573,50,,
 2011-W-C10-USA-03A-2011,Hilton Head Island SC 10K,Hard,32,10,20110530,10,206307,,Q,Sherry Li,U,,USA,16.3,202686,,,Di Zhao,U,,CHN,18.3,3-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,831,18
@@ -9199,7 +9199,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C10-USA-03A-2011,Hilton Head Island SC 10K,Hard,32,10,20110530,17,202447,1,,Alexandra Mueller,R,180,USA,23.2,203474,,,Nika Kukharchuk,U,,RUS,24.3,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,391,103,808,20
 2011-W-C10-USA-03A-2011,Hilton Head Island SC 10K,Hard,32,10,20110530,18,202923,5,,Amanda Mcdowell,U,,USA,23.7,206091,,,Yolande Leacock,R,,TTO,20.3,3-6 6-2 4-2 RET,3,R16,,,,,,,,,,,,,,,,,,,,526,61,917,14
 2011-W-C10-USA-03A-2011,Hilton Head Island SC 10K,Hard,32,10,20110530,19,203451,,,Marina Giral Lores,R,,VEN,20.7,204424,,SE,Hayley Carter,R,180,USA,16.0,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,849,17,,
-2011-W-C10-USA-03A-2011,Hilton Head Island SC 10K,Hard,32,10,20110530,20,203483,7,,Jan Abaza,U,,USA,16.2,202414,,WC,Catherine Harrison,U,,USA,17.1,3-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,624,40,943,12
+2011-W-C10-USA-03A-2011,Hilton Head Island SC 10K,Hard,32,10,20110530,20,203483,7,,Jan Abaza,U,,USA,16.2,202414,,WC,Catherine Harrison,R,,USA,17.1,3-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,624,40,943,12
 2011-W-C10-USA-03A-2011,Hilton Head Island SC 10K,Hard,32,10,20110530,21,202459,6,,Bojana Bobusic,R,170,AUS,23.6,206307,,Q,Sherry Li,U,,USA,16.3,6-3 2-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,573,50,,
 2011-W-C10-USA-03A-2011,Hilton Head Island SC 10K,Hard,32,10,20110530,22,203411,4,,Macall Harkins,L,,USA,25.3,202378,,Q,Kirsten Flower,R,,USA,22.7,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,499,71,,
 2011-W-C10-USA-03A-2011,Hilton Head Island SC 10K,Hard,32,10,20110530,23,203236,8,,Angelina Gabueva,U,,RUS,22.4,203498,,,Elizabeth Ferris,U,,USA,24.8,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,644,38,679,32
@@ -9316,7 +9316,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C10-USA-07A-2011,Atlanta GA 10K,Hard,32,10,20110711,10,202696,,,Federica Grazioso,R,,ITA,22.4,211179,,Q,Amanda Rodgers,L,,USA,18.3,4-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,867,19,,
 2011-W-C10-USA-07A-2011,Atlanta GA 10K,Hard,32,10,20110711,11,211117,,WC,Hannah King,L,,USA,15.6,203360,,,Lauren Herring,R,170,USA,17.9,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,888,17
 2011-W-C10-USA-07A-2011,Atlanta GA 10K,Hard,32,10,20110711,12,203236,4,,Angelina Gabueva,U,,RUS,22.5,206427,,Q,Daiana Negreanu,U,,ROU,23.0,3-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,559,55,,
-2011-W-C10-USA-07A-2011,Atlanta GA 10K,Hard,32,10,20110711,13,203414,8,,Nicole Melichar,R,,USA,17.9,202414,,,Catherine Harrison,U,,USA,17.2,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,933,15,975,12
+2011-W-C10-USA-07A-2011,Atlanta GA 10K,Hard,32,10,20110711,13,203414,8,,Nicole Melichar,R,,USA,17.9,202414,,,Catherine Harrison,R,,USA,17.2,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,933,15,975,12
 2011-W-C10-USA-07A-2011,Atlanta GA 10K,Hard,32,10,20110711,14,204424,,Q,Hayley Carter,R,180,USA,16.1,210382,,,Sabrina Santamaria,R,157,USA,18.3,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1052,9,1093,7
 2011-W-C10-USA-07A-2011,Atlanta GA 10K,Hard,32,10,20110711,15,202448,,,Zoe Gwen Scandalis,R,,USA,17.8,209468,,Q,Emily Fraser,R,,USA,21.9,6-1 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,977,12,,
 2011-W-C10-USA-07A-2011,Atlanta GA 10K,Hard,32,10,20110711,16,202405,2,,Alexis King,L,157,USA,28.2,210064,,Q,Denise Muresan,R,,USA,21.9,5-7 6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,435,91,,
@@ -9441,7 +9441,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C10-USA-11A-2011,Williamsburg VA 10K,Clay,32,10,20111003,11,206349,,,Mayo Hibi,R,165,JPN,15.4,210740,,,Stefanie Tan,R,,SGP,19.0,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1030,10,1077,8
 2011-W-C10-USA-11A-2011,Williamsburg VA 10K,Clay,32,10,20111003,12,202924,3,,Anastasia Kharchenko,R,,UKR,21.8,210334,,Q,Simonka Parajova,R,,SVK,18.9,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,682,33,,
 2011-W-C10-USA-11A-2011,Williamsburg VA 10K,Clay,32,10,20111003,13,205616,7,,Xin Wen,R,,CHN,19.2,206091,,,Yolande Leacock,R,,TTO,20.7,6-4 5-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,826,20,1042,10
-2011-W-C10-USA-11A-2011,Williamsburg VA 10K,Clay,32,10,20111003,14,202497,,,Victoria Duval,R,178,USA,15.8,202414,,,Catherine Harrison,U,,USA,17.4,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,857,18,994,11
+2011-W-C10-USA-11A-2011,Williamsburg VA 10K,Clay,32,10,20111003,14,202497,,,Victoria Duval,R,178,USA,15.8,202414,,,Catherine Harrison,R,,USA,17.4,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,857,18,994,11
 2011-W-C10-USA-11A-2011,Williamsburg VA 10K,Clay,32,10,20111003,15,206262,,,Veronica M Corning,R,,USA,19.8,202378,,,Kirsten Flower,R,,USA,23.1,6-1 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1033,10,1099,7
 2011-W-C10-USA-11A-2011,Williamsburg VA 10K,Clay,32,10,20111003,16,201618,2,,Fatma Al Nabhani,R,170,OMA,20.3,206071,,WC,Erin Clark,U,180,USA,23.3,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,587,48,1189,4
 2011-W-C10-USA-11A-2011,Williamsburg VA 10K,Clay,32,10,20111003,17,201473,,Q,Vasilisa Bardina,R,,RUS,23.8,202379,1,,Chieh Yu Hsu,L,170,USA,19.7,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,893,16,501,70
@@ -9722,7 +9722,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C25-AUS-01A-2011,Burnie 25K,Hard,32,25,20110131,13,202638,7,,Chiaki Okadaue,U,,JPN,24.2,201579,,,Yurika Sema,L,168,JPN,24.1,6-1 5-7 6-2,3,R32,,,,,,,,,,,,,,,,,,,,300,161,337,128
 2011-W-C25-AUS-01A-2011,Burnie 25K,Hard,32,25,20110131,14,201709,,Q,Yulia Putintseva,R,163,KAZ,16.0,202459,,Q,Bojana Bobusic,R,170,AUS,23.3,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,729,26,626,39
 2011-W-C25-AUS-01A-2011,Burnie 25K,Hard,32,25,20110131,15,202453,,Q,Saisai Zheng,R,170,CHN,16.9,204413,,WC,Azra Hadzic,U,172,AUS,16.1,7-6(1) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,403,92,735,25
-2011-W-C25-AUS-01A-2011,Burnie 25K,Hard,32,25,20110131,16,203496,,,Sophie Letcher,R,165,AUS,18.1,201613,2,,Arina Rodionova,R,168,RUS,21.1,6-7(4) 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,282,177,173,338
+2011-W-C25-AUS-01A-2011,Burnie 25K,Hard,32,25,20110131,16,203496,,,Sophie Letcher,R,165,AUS,18.1,201613,2,,Arina Rodionova,R,168,AUS,21.1,6-7(4) 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,282,177,173,338
 2011-W-C25-AUS-01A-2011,Burnie 25K,Hard,32,25,20110131,17,202446,,Q,Eugenie Bouchard,R,178,CAN,16.9,201538,,,Isabella Holland,R,,AUS,19.0,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,549,53,349,122
 2011-W-C25-AUS-01A-2011,Burnie 25K,Hard,32,25,20110131,18,201611,,,Daria Saville,R,166,AUS,16.9,201614,6,,Caroline Garcia,R,177,FRA,17.2,6-4 2-6 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,544,54,204,287
 2011-W-C25-AUS-01A-2011,Burnie 25K,Hard,32,25,20110131,19,201657,,Q,Nastja Kolar,R,176,SLO,16.5,201666,3,,Cagla Buyukakcay,R,172,TUR,21.3,6-4 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,648,36,168,350
@@ -9989,7 +9989,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C25-AUS-11A-2011,Port Pirie 25K,Hard,32,25,20111024,1,202454,1,,Erika Sema,R,163,JPN,22.9,204222,,Q,Tyra Calderwood,R,,AUS,21.0,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,127,522,,
 2011-W-C25-AUS-11A-2011,Port Pirie 25K,Hard,32,25,20111024,2,202425,,,Samantha Murray,R,178,GBR,24.0,202539,,,Alison Bai,R,170,AUS,21.7,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,464,77,613,41
 2011-W-C25-AUS-11A-2011,Port Pirie 25K,Hard,32,25,20111024,3,202686,,Q,Di Zhao,U,,CHN,18.7,206270,,Q,Ashley Keir,R,,AUS,17.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,738,25,987,11
-2011-W-C25-AUS-11A-2011,Port Pirie 25K,Hard,32,25,20111024,4,201410,,,Monique Adamczak,R,170,AUS,28.7,201613,5,,Arina Rodionova,R,168,RUS,21.8,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,314,156,239,232
+2011-W-C25-AUS-11A-2011,Port Pirie 25K,Hard,32,25,20111024,4,201410,,,Monique Adamczak,R,170,AUS,28.7,201613,5,,Arina Rodionova,R,168,AUS,21.8,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,314,156,239,232
 2011-W-C25-AUS-11A-2011,Port Pirie 25K,Hard,32,25,20111024,5,201542,3,,Olivia Rogowska,R,175,AUS,20.3,204355,,,Katherine Westbury,R,177,THA,18.6,6-0 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,191,315,627,38
 2011-W-C25-AUS-11A-2011,Port Pirie 25K,Hard,32,25,20111024,6,202590,,,Lena Litvak,R,,USA,22.9,202651,,,Lisa Whybourn,R,,GBR,20.4,6-2 1-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,337,133,398,98
 2011-W-C25-AUS-11A-2011,Port Pirie 25K,Hard,32,25,20111024,7,201543,,Q,Emelyn Starr,R,,AUS,21.9,206323,,WC,Leah Daw,U,,AUS,19.8,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,807,21,,
@@ -10021,7 +10021,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C25-AUS-12A-2011,Mount Gambier 25K,Hard,32,25,20111031,2,202687,,Q,Ran Tian,R,,CHN,17.8,204355,,,Katherine Westbury,R,177,THA,18.6,1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,666,33,654,34
 2011-W-C25-AUS-12A-2011,Mount Gambier 25K,Hard,32,25,20111031,3,203526,,,Tammi Patterson,R,167,AUS,21.8,202651,,,Lisa Whybourn,R,,GBR,20.4,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,426,88,418,91
 2011-W-C25-AUS-12A-2011,Mount Gambier 25K,Hard,32,25,20111031,4,201607,6,,Sally Peers,R,162,AUS,20.4,202539,,,Alison Bai,R,170,AUS,21.7,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,264,210,617,41
-2011-W-C25-AUS-12A-2011,Mount Gambier 25K,Hard,32,25,20111031,5,201613,4,,Arina Rodionova,R,168,RUS,21.8,206279,,Q,Stephanie Bengson,R,180,AUS,24.7,5-7 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,243,232,794,22
+2011-W-C25-AUS-12A-2011,Mount Gambier 25K,Hard,32,25,20111031,5,201613,4,,Arina Rodionova,R,168,AUS,21.8,206279,,Q,Stephanie Bengson,R,180,AUS,24.7,5-7 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,243,232,794,22
 2011-W-C25-AUS-12A-2011,Mount Gambier 25K,Hard,32,25,20111031,6,204412,,Q,Belinda Woolcock,R,173,AUS,16.7,205422,,,Lara Rafful,R,,ITA,21.7,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1151,5,651,35
 2011-W-C25-AUS-12A-2011,Mount Gambier 25K,Hard,32,25,20111031,7,202386,,,Sung Hee Han,R,,KOR,20.9,204413,,,Azra Hadzic,U,172,AUS,16.9,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,384,110,771,24
 2011-W-C25-AUS-12A-2011,Mount Gambier 25K,Hard,32,25,20111031,8,201543,,Q,Emelyn Starr,R,,AUS,21.9,201399,5,,Emily Webley Smith,R,,GBR,27.2,6-3 2-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,804,21,250,224
@@ -10035,14 +10035,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C25-AUS-12A-2011,Mount Gambier 25K,Hard,32,25,20111031,16,201538,2,,Isabella Holland,R,,AUS,19.8,204298,,WC,Viktorija Rajicic,R,170,AUS,17.5,3-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,193,316,843,18
 2011-W-C25-AUS-12A-2011,Mount Gambier 25K,Hard,32,25,20111031,17,202454,1,,Erika Sema,R,163,JPN,22.9,202687,,Q,Ran Tian,R,,CHN,17.8,6-4 0-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,120,548,666,33
 2011-W-C25-AUS-12A-2011,Mount Gambier 25K,Hard,32,25,20111031,18,201607,6,,Sally Peers,R,162,AUS,20.4,203526,,,Tammi Patterson,R,167,AUS,21.8,7-6(4) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,264,210,426,88
-2011-W-C25-AUS-12A-2011,Mount Gambier 25K,Hard,32,25,20111031,19,201613,4,,Arina Rodionova,R,168,RUS,21.8,204412,,Q,Belinda Woolcock,R,173,AUS,16.7,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,243,232,1151,5
+2011-W-C25-AUS-12A-2011,Mount Gambier 25K,Hard,32,25,20111031,19,201613,4,,Arina Rodionova,R,168,AUS,21.8,204412,,Q,Belinda Woolcock,R,173,AUS,16.7,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,243,232,1151,5
 2011-W-C25-AUS-12A-2011,Mount Gambier 25K,Hard,32,25,20111031,20,202386,,,Sung Hee Han,R,,KOR,20.9,201543,,Q,Emelyn Starr,R,,AUS,21.9,5-7 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,384,110,804,21
 2011-W-C25-AUS-12A-2011,Mount Gambier 25K,Hard,32,25,20111031,21,202459,8,,Bojana Bobusic,R,170,AUS,24.0,203293,,,Karolina Wlodarczak,R,178,AUS,24.3,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,331,144,500,69
 2011-W-C25-AUS-12A-2011,Mount Gambier 25K,Hard,32,25,20111031,22,201678,3,,Sacha Jones,R,,AUS,20.9,204216,,,Alenka Hubacek,R,,AUS,20.9,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,218,272,1041,10
 2011-W-C25-AUS-12A-2011,Mount Gambier 25K,Hard,32,25,20111031,23,201469,7,,Melanie South,R,175,GBR,25.4,202425,,,Samantha Murray,R,178,GBR,24.0,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,300,171,471,77
 2011-W-C25-AUS-12A-2011,Mount Gambier 25K,Hard,32,25,20111031,24,201538,2,,Isabella Holland,R,,AUS,19.8,205753,,WC,Daniela Scivetti,R,,AUS,23.4,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,193,316,974,12
 2011-W-C25-AUS-12A-2011,Mount Gambier 25K,Hard,32,25,20111031,25,201607,6,,Sally Peers,R,162,AUS,20.4,202454,1,,Erika Sema,R,163,JPN,22.9,7-6(3) 0-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,264,210,120,548
-2011-W-C25-AUS-12A-2011,Mount Gambier 25K,Hard,32,25,20111031,26,202386,,,Sung Hee Han,R,,KOR,20.9,201613,4,,Arina Rodionova,R,168,RUS,21.8,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,384,110,243,232
+2011-W-C25-AUS-12A-2011,Mount Gambier 25K,Hard,32,25,20111031,26,202386,,,Sung Hee Han,R,,KOR,20.9,201613,4,,Arina Rodionova,R,168,AUS,21.8,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,384,110,243,232
 2011-W-C25-AUS-12A-2011,Mount Gambier 25K,Hard,32,25,20111031,27,202459,8,,Bojana Bobusic,R,170,AUS,24.0,201678,3,,Sacha Jones,R,,AUS,20.9,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,331,144,218,272
 2011-W-C25-AUS-12A-2011,Mount Gambier 25K,Hard,32,25,20111031,28,201538,2,,Isabella Holland,R,,AUS,19.8,201469,7,,Melanie South,R,175,GBR,25.4,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,193,316,300,171
 2011-W-C25-AUS-12A-2011,Mount Gambier 25K,Hard,32,25,20111031,29,202386,,,Sung Hee Han,R,,KOR,20.9,201607,6,,Sally Peers,R,162,AUS,20.4,4-2 RET,3,SF,,,,,,,,,,,,,,,,,,,,384,110,264,210
@@ -10055,7 +10055,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,5,201538,3,,Isabella Holland,R,,AUS,19.8,204299,,Q,Ashling Sumner,R,,AUS,18.8,3-6 6-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,192,322,1105,6
 2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,6,204216,,WC,Alenka Hubacek,R,,AUS,20.9,202634,,,Chen Liang,R,172,CHN,22.7,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,742,26,446,84
 2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,7,202400,,,Anna Fitzpatrick,R,173,GBR,22.6,205790,,WC,Alexandra Nancarrow,R,165,AUS,18.2,6-1 6-7(1) 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,440,85,,
-2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,8,201613,6,,Arina Rodionova,R,168,RUS,21.9,202687,,Q,Ran Tian,R,,CHN,17.8,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,234,245,610,42
+2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,8,201613,6,,Arina Rodionova,R,168,AUS,21.9,202687,,Q,Ran Tian,R,,CHN,17.8,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,234,245,610,42
 2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,9,204411,,WC,Storm Sanders,L,166,AUS,17.2,201399,7,,Emily Webley Smith,R,,GBR,27.3,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,733,26,241,232
 2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,10,204298,,Q,Viktorija Rajicic,R,170,AUS,17.6,202342,,,Daniella Jeflea,R,,AUS,24.8,6-2 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,826,19,451,82
 2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,11,202539,,,Alison Bai,R,170,AUS,21.8,206279,,Q,Stephanie Bengson,R,180,AUS,24.7,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,656,35,784,23
@@ -10067,7 +10067,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,17,201348,1,,Casey Dellacqua,L,165,AUS,26.7,201469,,,Melanie South,R,175,GBR,25.5,6-7(3) 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,157,400,301,171
 2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,18,201410,,,Monique Adamczak,R,170,AUS,28.8,202459,,,Bojana Bobusic,R,170,AUS,24.1,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,286,188,250,226
 2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,19,201538,3,,Isabella Holland,R,,AUS,19.8,204216,,WC,Alenka Hubacek,R,,AUS,20.9,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,192,322,742,26
-2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,20,202400,,,Anna Fitzpatrick,R,173,GBR,22.6,201613,6,,Arina Rodionova,R,168,RUS,21.9,6-2 RET,3,R16,,,,,,,,,,,,,,,,,,,,440,85,234,245
+2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,20,202400,,,Anna Fitzpatrick,R,173,GBR,22.6,201613,6,,Arina Rodionova,R,168,AUS,21.9,6-2 RET,3,R16,,,,,,,,,,,,,,,,,,,,440,85,234,245
 2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,21,204298,,Q,Viktorija Rajicic,R,170,AUS,17.6,204411,,WC,Storm Sanders,L,166,AUS,17.2,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,826,19,733,26
 2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,22,201678,4,,Sacha Jones,R,,AUS,21.0,202539,,,Alison Bai,R,170,AUS,21.8,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,227,262,656,35
 2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,23,202425,,,Samantha Murray,R,178,GBR,24.0,202651,,,Lisa Whybourn,R,,GBR,20.5,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,445,84,423,91
@@ -10087,7 +10087,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C25-AUS-14A-2011,Bendigo 25K,Hard,32,25,20111121,6,201469,,,Melanie South,R,175,GBR,25.5,204411,,WC,Storm Sanders,L,166,AUS,17.2,6-3 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,310,158,732,26
 2011-W-C25-AUS-14A-2011,Bendigo 25K,Hard,32,25,20111121,7,204298,,Q,Viktorija Rajicic,R,170,AUS,17.6,203293,,,Karolina Wlodarczak,R,178,AUS,24.4,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,826,19,469,77
 2011-W-C25-AUS-14A-2011,Bendigo 25K,Hard,32,25,20111121,8,202685,5,,Misa Eguchi,R,173,JPN,19.5,204413,,Q,Azra Hadzic,U,172,AUS,16.9,5-7 6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,233,246,739,26
-2011-W-C25-AUS-14A-2011,Bendigo 25K,Hard,32,25,20111121,9,202425,,,Samantha Murray,R,178,GBR,24.1,201613,6,,Arina Rodionova,R,168,RUS,21.9,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,446,84,238,238
+2011-W-C25-AUS-14A-2011,Bendigo 25K,Hard,32,25,20111121,9,202425,,,Samantha Murray,R,178,GBR,24.1,201613,6,,Arina Rodionova,R,168,AUS,21.9,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,446,84,238,238
 2011-W-C25-AUS-14A-2011,Bendigo 25K,Hard,32,25,20111121,10,202342,,,Daniella Jeflea,R,,AUS,24.8,206270,,WC,Ashley Keir,R,,AUS,17.3,7-6(2) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,452,82,954,13
 2011-W-C25-AUS-14A-2011,Bendigo 25K,Hard,32,25,20111121,11,204412,,WC,Belinda Woolcock,R,173,AUS,16.8,203526,,,Tammi Patterson,R,167,AUS,21.8,5-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,911,15,397,102
 2011-W-C25-AUS-14A-2011,Bendigo 25K,Hard,32,25,20111121,12,201538,3,,Isabella Holland,R,,AUS,19.8,202651,,,Lisa Whybourn,R,,GBR,20.5,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,192,322,449,83
@@ -10557,7 +10557,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C25-CRO-01A-2011,Zagreb 25K,Clay,32,25,20110509,11,202922,,Q,Michaela Honcova,R,,SVK,18.3,201640,,,Maria Teresa Torro Flor,R,173,ESP,19.0,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,349,122,236,231
 2011-W-C25-CRO-01A-2011,Zagreb 25K,Clay,32,25,20110509,12,201377,3,,Yuliya Beygelzimer,R,174,UKR,27.5,202658,,,Audrey Bergot,R,175,FRA,26.2,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,191,310,250,218
 2011-W-C25-CRO-01A-2011,Zagreb 25K,Clay,32,25,20110509,13,202598,8,,Natalie Piquion,R,,FRA,22.6,201617,,,Ana Vrljic,R,,CRO,26.7,2-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,234,238,208,274
-2011-W-C25-CRO-01A-2011,Zagreb 25K,Clay,32,25,20110509,14,201694,,WC,Silvia Njiric,R,163,CRO,17.8,201613,,,Arina Rodionova,R,168,RUS,21.3,1-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,590,46,211,268
+2011-W-C25-CRO-01A-2011,Zagreb 25K,Clay,32,25,20110509,14,201694,,WC,Silvia Njiric,R,163,CRO,17.8,201613,,,Arina Rodionova,R,168,AUS,21.3,1-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,590,46,211,268
 2011-W-C25-CRO-01A-2011,Zagreb 25K,Clay,32,25,20110509,15,201656,,,Tadeja Majeric,R,178,SLO,20.6,203429,,Q,Tamara Curovic,R,,SRB,16.5,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,288,185,734,26
 2011-W-C25-CRO-01A-2011,Zagreb 25K,Clay,32,25,20110509,16,201568,2,,Kristina Kucova,R,163,SVK,20.9,201542,,,Olivia Rogowska,R,175,AUS,19.9,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,175,330,205,277
 2011-W-C25-CRO-01A-2011,Zagreb 25K,Clay,32,25,20110509,17,203488,,Q,Doroteja Eric,L,,SRB,18.7,202659,,WC,Tereza Mrdeza,R,173,CRO,20.4,3-6 7-5 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,482,75,672,33
@@ -12377,7 +12377,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C25-KOR-05A-2011,Seoul 25K,Hard,32,25,20111017,2,202502,,WC,So Ra Lee,L,172,KOR,17.2,204292,,Q,Hyojung Yea,U,,KOR,17.6,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,777,23,1090,7
 2011-W-C25-KOR-05A-2011,Seoul 25K,Hard,32,25,20111017,3,202644,,,Ting Fei Juan,U,,TPE,19.1,206126,,Q,Ju Eun Kim,R,,KOR,20.4,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,537,58,731,27
 2011-W-C25-KOR-05A-2011,Seoul 25K,Hard,32,25,20111017,4,201675,6,,So Jung Kim,R,,KOR,25.5,204289,,WC,Mi Rae Ham,U,,KOR,20.9,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,310,159,,
-2011-W-C25-KOR-05A-2011,Seoul 25K,Hard,32,25,20111017,5,201411,3,,Aiko Nakamura,R,163,JPN,27.8,206294,,Q,Yue Yuan,U,184,CHN,20.3,6-1 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,244,230,,
+2011-W-C25-KOR-05A-2011,Seoul 25K,Hard,32,25,20111017,5,201411,3,,Aiko Nakamura,R,163,JPN,27.8,206294,,Q,Yue Yuan,R,184,CHN,13.0,6-1 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,244,230,,
 2011-W-C25-KOR-05A-2011,Seoul 25K,Hard,32,25,20111017,6,203555,,Q,Mai Minokoshi,U,,JPN,19.5,204286,,,Seung Yeon Hong,U,,KOR,19.4,7-6(3) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,674,33,638,37
 2011-W-C25-KOR-05A-2011,Seoul 25K,Hard,32,25,20111017,7,204294,,,Su Jeong Jang,R,,KOR,16.5,204293,,Q,Seo Kyung Kang,U,,KOR,22.7,7-6(6) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,546,56,747,25
 2011-W-C25-KOR-05A-2011,Seoul 25K,Hard,32,25,20111017,8,204285,,Q,Ji Young Kim,R,,KOR,26.0,201631,5,,Nicha Lertpitaksinchai,R,174,THA,20.1,7-6(3) 1-6 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,704,29,308,161
@@ -12440,7 +12440,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C25-MAR-02A-2011,Casablanca 25K,Clay,32,25,20110411,3,201531,,Q,Mariana Duque Marino,R,169,COL,21.6,202858,,Q,Anne Schaefer,R,,GER,24.1,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,351,123,387,105
 2011-W-C25-MAR-02A-2011,Casablanca 25K,Clay,32,25,20110411,4,202403,,,Leticia Costas,L,165,ESP,21.0,202472,6,,Laura Thorpe,R,,FRA,23.8,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,239,228,177,337
 2011-W-C25-MAR-02A-2011,Casablanca 25K,Clay,32,25,20110411,5,201638,,,Estrella Cabeza Candela,R,173,ESP,24.1,201511,3,,Ekaterina Ivanova,R,,RUS,23.3,2-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,260,205,152,396
-2011-W-C25-MAR-02A-2011,Casablanca 25K,Clay,32,25,20110411,6,201613,,,Arina Rodionova,R,168,RUS,21.3,201697,,,Kristyna Pliskova,L,184,CZE,19.0,6-3 6-7(5) 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,203,291,209,283
+2011-W-C25-MAR-02A-2011,Casablanca 25K,Clay,32,25,20110411,6,201613,,,Arina Rodionova,R,168,AUS,21.3,201697,,,Kristyna Pliskova,L,184,CZE,19.0,6-3 6-7(5) 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,203,291,209,283
 2011-W-C25-MAR-02A-2011,Casablanca 25K,Clay,32,25,20110411,7,201687,,WC,Lina Bennani,R,,MAR,19.7,201293,,,Catalina Castano,R,171,COL,31.7,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,748,24,199,293
 2011-W-C25-MAR-02A-2011,Casablanca 25K,Clay,32,25,20110411,8,201390,,Q,Mervana Jugic Salkic,R,179,BIH,30.9,201662,8,,Karolina Pliskova,R,184,CZE,19.0,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,444,81,187,314
 2011-W-C25-MAR-02A-2011,Casablanca 25K,Clay,32,25,20110411,9,201540,,,Kristina Mladenovic,R,184,FRA,17.9,202663,7,,Magda Linette,R,171,POL,19.1,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,247,217,178,334
@@ -12453,7 +12453,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C25-MAR-02A-2011,Casablanca 25K,Clay,32,25,20110411,16,202467,,,Elitsa Kostova,R,172,BUL,21.0,201491,2,,Olivia Sanchez,R,172,FRA,28.3,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,198,294,141,445
 2011-W-C25-MAR-02A-2011,Casablanca 25K,Clay,32,25,20110411,17,201646,,Q,Maria Joao Koehler,U,174,POR,18.5,201537,1,,Patricia Mayr Achleitner,R,169,AUT,24.4,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,278,194,94,715
 2011-W-C25-MAR-02A-2011,Casablanca 25K,Clay,32,25,20110411,18,201531,,Q,Mariana Duque Marino,R,169,COL,21.6,202403,,,Leticia Costas,L,165,ESP,21.0,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,351,123,239,228
-2011-W-C25-MAR-02A-2011,Casablanca 25K,Clay,32,25,20110411,19,201638,,,Estrella Cabeza Candela,R,173,ESP,24.1,201613,,,Arina Rodionova,R,168,RUS,21.3,6-1 2-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,260,205,203,291
+2011-W-C25-MAR-02A-2011,Casablanca 25K,Clay,32,25,20110411,19,201638,,,Estrella Cabeza Candela,R,173,ESP,24.1,201613,,,Arina Rodionova,R,168,AUS,21.3,6-1 2-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,260,205,203,291
 2011-W-C25-MAR-02A-2011,Casablanca 25K,Clay,32,25,20110411,20,201390,,Q,Mervana Jugic Salkic,R,179,BIH,30.9,201687,,WC,Lina Bennani,R,,MAR,19.7,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,444,81,748,24
 2011-W-C25-MAR-02A-2011,Casablanca 25K,Clay,32,25,20110411,21,201448,,Q,Galina Voskoboeva,R,183,KAZ,26.3,201540,,,Kristina Mladenovic,R,184,FRA,17.9,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,317,144,247,217
 2011-W-C25-MAR-02A-2011,Casablanca 25K,Clay,32,25,20110411,22,202456,,,Alexandra Cadantu Ignatik,R,170,ROU,20.9,202475,,Q,Jasmina Tinjic,R,,BIH,20.1,3-6 7-6(5) 1-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,213,277,282,191
@@ -12845,7 +12845,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C25-RUS-01A-2011,Moscow 25K,Hard,32,25,20110321,5,201583,,Q,Yana Buchina,R,168,RUS,19.1,201511,3,,Ekaterina Ivanova,R,,RUS,23.2,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,646,36,160,380
 2011-W-C25-RUS-01A-2011,Moscow 25K,Hard,32,25,20110321,6,202680,,Q,Maria Zharkova,R,173,RUS,22.8,201704,,,Nadejda Guskova,R,,RUS,19.1,4-6 6-0 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,607,42,304,158
 2011-W-C25-RUS-01A-2011,Moscow 25K,Hard,32,25,20110321,7,203375,,,Daria Kuchmina,R,,RUS,19.1,201699,,,Martina Caregaro,R,165,ITA,18.8,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,290,177,371,113
-2011-W-C25-RUS-01A-2011,Moscow 25K,Hard,32,25,20110321,8,201613,6,,Arina Rodionova,R,168,RUS,21.2,202529,,,Natalia Orlova,R,,RUS,21.9,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,203,283,368,114
+2011-W-C25-RUS-01A-2011,Moscow 25K,Hard,32,25,20110321,8,201613,6,,Arina Rodionova,R,168,AUS,21.2,202529,,,Natalia Orlova,R,,RUS,21.9,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,203,283,368,114
 2011-W-C25-RUS-01A-2011,Moscow 25K,Hard,32,25,20110321,9,202434,,,Aleksandra Krunic,R,163,SRB,18.0,202433,8,,Anna Giulia Remondina,R,,ITA,21.8,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,288,178,244,221
 2011-W-C25-RUS-01A-2011,Moscow 25K,Hard,32,25,20110321,10,202622,,,Lyudmyla Kichenok,R,175,UKR,18.6,203540,,Q,Anastasia Frolova,R,,RUS,16.7,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,301,163,,
 2011-W-C25-RUS-01A-2011,Moscow 25K,Hard,32,25,20110321,11,202672,,WC,Ekaterina Yashina,R,173,RUS,17.6,205942,,WC,Ekaterina Yakovleva,U,,RUS,18.0,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,927,12,936,12
@@ -12857,13 +12857,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C25-RUS-01A-2011,Moscow 25K,Hard,32,25,20110321,17,202620,,,Yuliya Kalabina,R,,RUS,20.9,201690,1,,Nina Bratchikova,R,178,RUS,25.7,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,307,152,132,494
 2011-W-C25-RUS-01A-2011,Moscow 25K,Hard,32,25,20110321,18,201611,,,Daria Saville,R,166,AUS,17.0,204297,,,Anna Arina Marenko,R,170,RUS,19.2,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,489,67,456,78
 2011-W-C25-RUS-01A-2011,Moscow 25K,Hard,32,25,20110321,19,202680,,Q,Maria Zharkova,R,173,RUS,22.8,201583,,Q,Yana Buchina,R,168,RUS,19.1,2-6 6-4 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,607,42,646,36
-2011-W-C25-RUS-01A-2011,Moscow 25K,Hard,32,25,20110321,20,201613,6,,Arina Rodionova,R,168,RUS,21.2,203375,,,Daria Kuchmina,R,,RUS,19.1,7-6(3) 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,203,283,290,177
+2011-W-C25-RUS-01A-2011,Moscow 25K,Hard,32,25,20110321,20,201613,6,,Arina Rodionova,R,168,AUS,21.2,203375,,,Daria Kuchmina,R,,RUS,19.1,7-6(3) 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,203,283,290,177
 2011-W-C25-RUS-01A-2011,Moscow 25K,Hard,32,25,20110321,21,202622,,,Lyudmyla Kichenok,R,175,UKR,18.6,202434,,,Aleksandra Krunic,R,163,SRB,18.0,6-1 6-7(3) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,301,163,288,178
 2011-W-C25-RUS-01A-2011,Moscow 25K,Hard,32,25,20110321,22,202672,,WC,Ekaterina Yashina,R,173,RUS,17.6,201563,4,,Darya Kustova,U,,BLR,24.8,5-7 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,927,12,171,354
 2011-W-C25-RUS-01A-2011,Moscow 25K,Hard,32,25,20110321,23,203442,,Q,Aminat Kushkhova,R,,RUS,17.6,202506,,WC,Margarita Gasparyan,R,183,RUS,16.5,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,532,57,,
 2011-W-C25-RUS-01A-2011,Moscow 25K,Hard,32,25,20110321,24,201668,2,,Alexandra Panova,R,179,RUS,22.0,203441,,Q,Sviatlana Pirazhenka,R,,BLR,18.5,4-6 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,140,468,825,18
 2011-W-C25-RUS-01A-2011,Moscow 25K,Hard,32,25,20110321,25,201611,,,Daria Saville,R,166,AUS,17.0,202620,,,Yuliya Kalabina,R,,RUS,20.9,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,489,67,307,152
-2011-W-C25-RUS-01A-2011,Moscow 25K,Hard,32,25,20110321,26,202680,,Q,Maria Zharkova,R,173,RUS,22.8,201613,6,,Arina Rodionova,R,168,RUS,21.2,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,607,42,203,283
+2011-W-C25-RUS-01A-2011,Moscow 25K,Hard,32,25,20110321,26,202680,,Q,Maria Zharkova,R,173,RUS,22.8,201613,6,,Arina Rodionova,R,168,AUS,21.2,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,607,42,203,283
 2011-W-C25-RUS-01A-2011,Moscow 25K,Hard,32,25,20110321,27,202622,,,Lyudmyla Kichenok,R,175,UKR,18.6,202672,,WC,Ekaterina Yashina,R,173,RUS,17.6,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,301,163,927,12
 2011-W-C25-RUS-01A-2011,Moscow 25K,Hard,32,25,20110321,28,201668,2,,Alexandra Panova,R,179,RUS,22.0,203442,,Q,Aminat Kushkhova,R,,RUS,17.6,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,140,468,532,57
 2011-W-C25-RUS-01A-2011,Moscow 25K,Hard,32,25,20110321,29,201611,,,Daria Saville,R,166,AUS,17.0,202680,,Q,Maria Zharkova,R,173,RUS,22.8,4-6 6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,489,67,607,42
@@ -13560,7 +13560,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C25-USA-06A-2011,Hammond LA 25K,Hard,32,25,20110228,7,202598,,,Natalie Piquion,R,,FRA,22.4,202900,,Q,Maria Fernanda Alvarez Teran,R,174,BOL,21.9,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,212,267,316,145
 2011-W-C25-USA-06A-2011,Hammond LA 25K,Hard,32,25,20110228,8,202498,8,,Julia Glushko,R,171,ISR,21.1,202481,,WC,Chi Chi Scholl,R,,USA,18.6,1-6 7-6(5) 7-6(0),3,R32,,,,,,,,,,,,,,,,,,,,194,296,450,79
 2011-W-C25-USA-06A-2011,Hammond LA 25K,Hard,32,25,20110228,9,202658,,,Audrey Bergot,R,175,FRA,26.0,201585,6,WC,Sloane Stephens,R,170,USA,17.9,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,227,243,180,332
-2011-W-C25-USA-06A-2011,Hammond LA 25K,Hard,32,25,20110228,10,202594,,,Elena Bogdan,L,183,ROU,18.9,202414,,WC,Catherine Harrison,U,,USA,16.8,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,199,291,949,11
+2011-W-C25-USA-06A-2011,Hammond LA 25K,Hard,32,25,20110228,10,202594,,,Elena Bogdan,L,183,ROU,18.9,202414,,WC,Catherine Harrison,R,,USA,16.8,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,199,291,949,11
 2011-W-C25-USA-06A-2011,Hammond LA 25K,Hard,32,25,20110228,11,201659,,,Melanie Klaffner,R,171,AUT,20.7,201688,,,Claire De Gubernatis,L,,FRA,24.6,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,219,251,223,248
 2011-W-C25-USA-06A-2011,Hammond LA 25K,Hard,32,25,20110228,12,201523,,Q,Marina Erakovic,R,174,NZL,22.9,202461,4,,Julia Cohen,R,170,USA,21.9,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,287,174,159,376
 2011-W-C25-USA-06A-2011,Hammond LA 25K,Hard,32,25,20110228,13,201483,5,,Madison Brengle,R,168,USA,20.9,201510,,Q,Julie Ditty,L,168,USA,32.1,6-4 2-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,167,350,270,189
@@ -13587,7 +13587,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C25-USA-07A-2011,Clearwater FL 25K,Hard,32,25,20110307,3,201293,,,Catalina Castano,R,171,COL,31.6,202594,,,Elena Bogdan,L,183,ROU,18.9,1-6 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,204,286,199,291
 2011-W-C25-USA-07A-2011,Clearwater FL 25K,Hard,32,25,20110307,4,201706,,,Eirini Georgatou,R,,GRE,21.0,201476,7,,Lauren Albanese,R,,USA,21.4,6-3 6-7(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,197,296,183,324
 2011-W-C25-USA-07A-2011,Clearwater FL 25K,Hard,32,25,20110307,5,201494,4,,Raluca Olaru,R,173,ROU,22.0,202428,,,Kiki Bertens,R,182,NED,19.2,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,174,344,214,264
-2011-W-C25-USA-07A-2011,Clearwater FL 25K,Hard,32,25,20110307,6,202479,,Q,Grace Min,R,163,USA,16.8,201613,,,Arina Rodionova,R,168,RUS,21.2,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,610,42,200,290
+2011-W-C25-USA-07A-2011,Clearwater FL 25K,Hard,32,25,20110307,6,202479,,Q,Grace Min,R,163,USA,16.8,201613,,,Arina Rodionova,R,168,AUS,21.2,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,610,42,200,290
 2011-W-C25-USA-07A-2011,Clearwater FL 25K,Hard,32,25,20110307,7,202498,,,Julia Glushko,R,171,ISR,21.1,201565,,Q,Katarzyna Piter,R,173,POL,20.0,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,195,296,227,244
 2011-W-C25-USA-07A-2011,Clearwater FL 25K,Hard,32,25,20110307,8,201402,5,,Sesil Karatantcheva,R,171,KAZ,21.5,200083,,WC,Alexandra Stevenson,R,185,USA,30.2,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,173,346,264,199
 2011-W-C25-USA-07A-2011,Clearwater FL 25K,Hard,32,25,20110307,9,201662,8,,Karolina Pliskova,R,184,CZE,18.9,202598,,,Natalie Piquion,R,,FRA,22.4,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,189,308,213,267
@@ -14114,7 +14114,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C50-CZE-01A-2011,Prague 50K,Clay,32,50,20110502,3,201605,,,Mandy Minella,R,180,LUX,25.4,202655,,WC,Gesa Focke,R,,GER,19.0,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,153,394,,
 2011-W-C50-CZE-01A-2011,Prague 50K,Clay,32,50,20110502,4,201513,8,,Sabine Lisicki,R,178,GER,21.6,201568,,,Kristina Kucova,R,163,SVK,20.9,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,132,506,175,330
 2011-W-C50-CZE-01A-2011,Prague 50K,Clay,32,50,20110502,5,201537,4,,Patricia Mayr Achleitner,R,169,AUT,24.4,202450,,Q,Jana Cepelova,R,168,SVK,17.9,6-4 5-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,96,683,438,85
-2011-W-C50-CZE-01A-2011,Prague 50K,Clay,32,50,20110502,6,200124,,,Anne Kremer,R,165,LUX,35.5,201613,,Q,Arina Rodionova,R,168,RUS,21.3,6-4 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,147,424,213,263
+2011-W-C50-CZE-01A-2011,Prague 50K,Clay,32,50,20110502,6,200124,,,Anne Kremer,R,165,LUX,35.5,201613,,Q,Arina Rodionova,R,168,AUS,21.3,6-4 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,147,424,213,263
 2011-W-C50-CZE-01A-2011,Prague 50K,Clay,32,50,20110502,7,201527,,,Stefanie Voegele,R,170,SUI,21.1,201697,,WC,Kristyna Pliskova,L,184,CZE,19.1,7-6(3) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,152,395,205,283
 2011-W-C50-CZE-01A-2011,Prague 50K,Clay,32,50,20110502,8,201423,5,,Yvonne Meusburger,R,175,AUT,27.5,203505,,WC,Tereza Hejlova,R,,CZE,15.9,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,121,550,,
 2011-W-C50-CZE-01A-2011,Prague 50K,Clay,32,50,20110502,9,201483,,,Madison Brengle,R,168,USA,21.0,201615,7,,Lesia Tsurenko,R,174,UKR,21.9,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,158,380,127,530
@@ -15103,7 +15103,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C50-USA-08A-2011,Lexington KY 50K,Hard,32,50,20110718,31,202481,,,Chi Chi Scholl,R,,USA,19.0,202408,,Q,Amanda Fink,U,,USA,24.6,6-1 6-1,3,F,,,,,,,,,,,,,,,,,,,,235,243,401,106
 2011-W-C50-USA-09A-2011,Bronx NY 50K,Hard,32,50,20110808,1,201621,1,,Mona Barthel,R,185,GER,21.0,201509,,,Ashley Weinhold,R,165,USA,22.1,5-7 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,101,664,209,280
 2011-W-C50-USA-09A-2011,Bronx NY 50K,Hard,32,50,20110808,2,201697,,,Kristyna Pliskova,L,184,CZE,19.3,201678,,,Sacha Jones,R,,AUS,20.7,6-7(2) 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,196,297,214,273
-2011-W-C50-USA-09A-2011,Bronx NY 50K,Hard,32,50,20110808,3,201607,,,Sally Peers,R,162,AUS,20.1,201613,,,Arina Rodionova,R,168,RUS,21.6,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,170,338,182,322
+2011-W-C50-USA-09A-2011,Bronx NY 50K,Hard,32,50,20110808,3,201607,,,Sally Peers,R,162,AUS,20.1,201613,,,Arina Rodionova,R,168,AUS,21.6,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,170,338,182,322
 2011-W-C50-USA-09A-2011,Bronx NY 50K,Hard,32,50,20110808,4,201662,,,Karolina Pliskova,R,184,CZE,19.3,201580,7,,Xinyun Han,L,172,CHN,21.1,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,198,296,171,336
 2011-W-C50-USA-09A-2011,Bronx NY 50K,Hard,32,50,20110808,5,202429,,,Camila Giorgi,R,168,ITA,19.6,201456,4,,Olga Savchuk,R,175,UKR,23.8,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,169,346,148,436
 2011-W-C50-USA-09A-2011,Bronx NY 50K,Hard,32,50,20110808,6,201538,,,Isabella Holland,R,,AUS,19.5,202498,,,Julia Glushko,R,171,ISR,21.5,6-7(5) 6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,221,260,175,332
@@ -15676,7 +15676,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-INT-COL-01A-2011,Bogota,Clay,32,I,20110214,1,201557,1,,Corinna Dentoni,R,,ITA,21.5,202445,,,Valeria Solovieva,R,168,RUS,18.2,6-4 6-2,3,Q1,,0,3,66,48,26,7,,4,8,1,5,59,44,19,5,,4,11,154,398,296,165
 2011-W-INT-COL-01A-2011,Bogota,Clay,32,I,20110214,2,202440,,,Paula Ormaechea,R,170,ARG,18.3,202626,,,Stephanie Vogt,R,167,LIE,20.9,6-4 6-1,3,Q1,,1,3,50,33,23,12,,1,1,6,9,55,31,23,6,,4,8,342,127,251,212
 2011-W-INT-COL-01A-2011,Bogota,Clay,32,I,20110214,3,202594,,,Elena Bogdan,L,183,ROU,18.8,202646,,,Ana Clara Duarte,R,163,BRA,21.6,6-4 6-3,3,Q1,,7,9,66,44,29,11,,7,9,2,2,71,46,27,9,,6,10,201,291,232,239
-2011-W-INT-COL-01A-2011,Bogota,Clay,32,I,20110214,4,201640,,,Maria Teresa Torro Flor,R,173,ESP,18.7,201613,6,,Arina Rodionova,R,168,RUS,21.1,6-3 5-7 6-4,3,Q1,,0,10,104,58,35,20,,4,11,3,11,106,62,38,16,,7,15,266,202,198,294
+2011-W-INT-COL-01A-2011,Bogota,Clay,32,I,20110214,4,201640,,,Maria Teresa Torro Flor,R,173,ESP,18.7,201613,6,,Arina Rodionova,R,168,AUS,21.1,6-3 5-7 6-4,3,Q1,,0,10,104,58,35,20,,4,11,3,11,106,62,38,16,,7,15,266,202,198,294
 2011-W-INT-COL-01A-2011,Bogota,Clay,32,I,20110214,5,201482,,,Andreja Klepac,R,,SLO,24.9,202461,2,,Julia Cohen,R,170,USA,21.8,3-6 6-1 6-3,3,Q1,,2,4,86,50,28,16,,4,10,0,9,86,53,32,5,,6,14,298,160,161,376
 2011-W-INT-COL-01A-2011,Bogota,Clay,32,I,20110214,6,202498,,,Julia Glushko,R,171,ISR,21.1,204358,,WC,Angelica Maria Torres,R,,COL,27.4,6-1 6-0,3,Q1,,1,5,42,22,19,10,,3,4,1,3,40,21,7,6,,3,9,203,287,,
 2011-W-INT-COL-01A-2011,Bogota,Clay,32,I,20110214,7,202622,,,Lyudmyla Kichenok,R,175,UKR,18.5,202456,,,Alexandra Cadantu Ignatik,R,170,ROU,20.7,6-0 2-6 7-6(3),3,Q1,,7,14,98,52,37,16,,1,6,1,20,100,52,32,17,,11,17,317,149,209,281
@@ -15733,7 +15733,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-INT-ESP-01A-2011,Marbella,Clay,32,I,20110404,4,201668,7,,Alexandra Panova,R,179,RUS,22.0,202663,,,Magda Linette,R,171,POL,19.1,6-3 6-4,3,Q1,,2,1,68,47,30,12,,2,4,1,6,52,32,22,6,,1,5,141,466,179,334
 2011-W-INT-ESP-01A-2011,Marbella,Clay,32,I,20110404,5,201291,2,,Nuria Llagostera Vives,R,156,ESP,30.8,201571,,,Masa Zec Peskiric,R,,SLO,24.1,6-3 6-4,3,Q1,,1,6,66,34,18,15,,5,9,1,13,67,36,20,9,,7,14,119,574,157,394
 2011-W-INT-ESP-01A-2011,Marbella,Clay,32,I,20110404,6,201489,,,Mariya Koryttseva,R,172,UKR,25.8,201494,,,Raluca Olaru,R,173,ROU,22.0,5-7 6-0 6-3,3,Q1,,4,8,105,72,43,16,,10,15,2,5,70,43,25,9,,3,11,196,301,175,343
-2011-W-INT-ESP-01A-2011,Marbella,Clay,32,I,20110404,7,202498,,,Julia Glushko,R,171,ISR,21.2,201613,,,Arina Rodionova,R,168,RUS,21.3,7-5 7-5,3,Q1,,3,4,85,50,31,18,,7,10,3,6,70,40,23,12,,8,13,189,310,197,296
+2011-W-INT-ESP-01A-2011,Marbella,Clay,32,I,20110404,7,202498,,,Julia Glushko,R,171,ISR,21.2,201613,,,Arina Rodionova,R,168,AUS,21.3,7-5 7-5,3,Q1,,3,4,85,50,31,18,,7,10,3,6,70,40,23,12,,8,13,189,310,197,296
 2011-W-INT-ESP-01A-2011,Marbella,Clay,32,I,20110404,8,201593,6,,Irina Camelia Begu,R,181,ROU,20.6,202472,,,Laura Thorpe,R,,FRA,23.8,6-1 6-0,3,Q1,,0,1,33,28,20,3,,3,4,0,5,38,21,8,1,,3,10,138,476,178,337
 2011-W-INT-ESP-01A-2011,Marbella,Clay,32,I,20110404,9,201423,3,,Yvonne Meusburger,R,175,AUT,27.5,202357,,,Madalina Gojnea,R,,ROU,23.6,6-4 2-6 7-6(1),3,Q1,,0,5,105,81,43,10,,9,17,0,9,104,68,39,11,,3,10,120,571,161,375
 2011-W-INT-ESP-01A-2011,Marbella,Clay,32,I,20110404,10,201640,,WC,Maria Teresa Torro Flor,R,173,ESP,18.9,201293,,,Catalina Castano,R,171,COL,31.7,6-0 6-2,3,Q1,,0,2,41,25,19,9,,1,2,1,2,42,27,10,3,,0,6,286,180,199,293
@@ -15804,7 +15804,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-INT-GBR-01A-2011,Birmingham,Grass,56,I,20110606,9,202424,14,,Conny Perrin,R,174,SUI,20.4,201402,4,,Sesil Karatantcheva,R,171,KAZ,21.8,7-5 6-7(4) 6-3,3,Q2,,1,7,115,81,58,14,,3,6,1,4,123,98,57,13,,9,14,289,177,159,383
 2011-W-INT-GBR-01A-2011,Birmingham,Grass,56,I,20110606,10,201548,5,,Ajla Tomljanovic,R,180,AUS,18.0,201401,15,WC,Abigail Spears,R,175,USA,29.9,6-7(4) 6-3 6-4,3,Q2,,9,8,122,77,53,21,,10,13,11,5,86,50,36,15,,1,6,166,364,308,163
 2011-W-INT-GBR-01A-2011,Birmingham,Grass,56,I,20110606,11,200083,11,,Alexandra Stevenson,R,185,USA,30.4,202498,6,,Julia Glushko,R,171,ISR,21.4,6-1 6-2,3,Q2,,5,3,49,28,23,12,,1,1,2,5,39,13,8,10,,2,6,240,225,191,302
-2011-W-INT-GBR-01A-2011,Birmingham,Grass,56,I,20110606,12,201613,7,,Arina Rodionova,R,168,RUS,21.4,201530,10,,Gail Brodsky,R,165,USA,20.0,7-6(5) 4-6 7-6(5),3,Q2,,8,6,129,86,55,17,,8,14,5,7,113,62,42,23,,5,10,233,230,237,226
+2011-W-INT-GBR-01A-2011,Birmingham,Grass,56,I,20110606,12,201613,7,,Arina Rodionova,R,168,AUS,21.4,201530,10,,Gail Brodsky,R,165,USA,20.0,7-6(5) 4-6 7-6(5),3,Q2,,8,6,129,86,55,17,,8,14,5,7,113,62,42,23,,5,10,233,230,237,226
 2011-W-INT-GBR-01A-2011,Birmingham,Grass,56,I,20110606,13,202422,16,,Shuko Aoyama,R,154,JPN,23.4,200729,8,,Lindsay Lee Waters,R,,USA,33.9,6-7(3) 6-3 7-6(4),3,Q2,,8,5,122,86,55,19,,1,5,7,5,120,69,44,22,,5,10,354,120,230,235
 2011-W-INT-HUN-01A-2011,Budapest,Clay,32,I,20110704,1,201479,,,Olga Puchkova,R,180,RUS,23.7,201489,1,,Mariya Koryttseva,R,172,UKR,26.1,6-3 5-7 6-2,3,Q1,,0,6,89,46,24,24,,3,9,0,6,99,64,33,16,,11,19,292,180,170,357
 2011-W-INT-HUN-01A-2011,Budapest,Clay,32,I,20110704,2,201632,,,Ryoko Fuda,R,,JPN,24.6,203297,,,Nadiya Kichenok,R,172,UKR,18.9,6-4 6-4,3,Q1,,0,3,68,41,23,16,,3,6,1,5,63,40,23,9,,5,10,309,162,421,94
@@ -15955,7 +15955,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-INT-MAR-01A-2011,Fes,Clay,32,I,20110418,13,201562,4,,Silvia Soler Espinosa,R,169,ESP,23.4,202427,,,Johanna Konta,R,180,GBR,19.9,4-6 6-3 6-3,3,Q1,,2,3,89,45,28,27,,1,5,0,4,90,55,35,13,,9,15,167,358,239,228
 2011-W-INT-MAR-01A-2011,Fes,Clay,32,I,20110418,14,201475,,,Ahsha Rolle,R,172,USA,26.0,202270,,WC,Habiba Ifrakh,U,,MAR,33.1,6-2 6-0,3,Q1,,3,2,41,24,20,10,,1,1,0,10,66,36,18,11,,14,19,252,207,,
 2011-W-INT-MAR-01A-2011,Fes,Clay,32,I,20110418,15,201565,,,Katarzyna Piter,R,173,POL,20.1,201487,,,Jessica Moore,R,167,AUS,20.6,7-6(5) 6-1,3,Q1,,4,7,93,59,41,16,,11,11,4,6,81,48,30,13,,4,7,233,237,254,206
-2011-W-INT-MAR-01A-2011,Fes,Clay,32,I,20110418,16,201305,5,,Eleni Daniilidou,R,182,GRE,28.5,201613,,,Arina Rodionova,R,168,RUS,21.3,4-6 6-3 6-4,3,Q1,,1,11,92,65,48,9,,5,9,3,4,92,67,38,13,,4,9,168,353,202,291
+2011-W-INT-MAR-01A-2011,Fes,Clay,32,I,20110418,16,201305,5,,Eleni Daniilidou,R,182,GRE,28.5,201613,,,Arina Rodionova,R,168,AUS,21.3,4-6 6-3 6-4,3,Q1,,1,11,92,65,48,9,,5,9,3,4,92,67,38,13,,4,9,168,353,202,291
 2011-W-INT-MAR-01A-2011,Fes,Clay,32,I,20110418,17,201593,1,,Irina Camelia Begu,R,181,ROU,20.6,201683,,,Bianca Botto,L,178,PER,19.8,6-1 6-3,3,Q2,,0,6,66,42,30,10,,6,7,0,4,66,37,19,12,,6,11,102,658,242,220
 2011-W-INT-MAR-01A-2011,Fes,Clay,32,I,20110418,18,201585,6,,Sloane Stephens,R,170,USA,18.0,201531,,,Mariana Duque Marino,R,169,COL,21.6,7-5 3-6 7-6(10),3,Q2,,0,2,106,67,41,18,,6,13,0,7,109,71,39,17,,0,6,170,343,351,123
 2011-W-INT-MAR-01A-2011,Fes,Clay,32,I,20110418,19,201392,,,Severine Beltrame,R,171,FRA,31.6,201668,2,,Alexandra Panova,R,179,RUS,22.1,6-3 5-7 6-3,3,Q2,,2,3,81,42,27,24,,4,8,2,5,90,59,38,9,,7,13,231,239,136,466
@@ -15999,7 +15999,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-INT-MEX-01A-2011,Acapulco,Clay,32,I,20110221,1,201588,1,,Anna Tatishvili,R,171,GEO,21.0,201305,,,Eleni Daniilidou,R,182,GRE,28.4,7-6(5) 4-6 6-2,3,Q1,,4,8,100,58,38,18,,7,12,4,6,112,77,42,17,,7,13,127,540,169,342
 2011-W-INT-MEX-01A-2011,Acapulco,Clay,32,I,20110221,2,201456,,,Olga Savchuk,R,175,UKR,23.4,204359,,WC,Giovanna Manifacio,R,,MEX,16.4,6-2 6-0,3,Q1,,0,3,37,22,19,7,,0,1,0,9,45,21,10,6,,5,11,146,424,,
 2011-W-INT-MEX-01A-2011,Acapulco,Clay,32,I,20110221,3,201640,,WC,Maria Teresa Torro Flor,R,173,ESP,18.8,202466,,WC,Nadia Abdala,U,,MEX,22.5,6-3 6-1,3,Q1,,1,2,40,31,24,5,,0,1,1,0,67,43,23,8,,9,14,255,207,,
-2011-W-INT-MEX-01A-2011,Acapulco,Clay,32,I,20110221,4,201508,7,,Petra Cetkovska,R,172,CZE,26.0,201613,,,Arina Rodionova,R,168,RUS,21.1,5-7 6-1 6-1,3,Q1,,2,13,98,54,37,15,,14,19,3,8,87,41,21,17,,10,19,143,451,198,294
+2011-W-INT-MEX-01A-2011,Acapulco,Clay,32,I,20110221,4,201508,7,,Petra Cetkovska,R,172,CZE,26.0,201613,,,Arina Rodionova,R,168,AUS,21.1,5-7 6-1 6-1,3,Q1,,2,13,98,54,37,15,,14,19,3,8,87,41,21,17,,10,19,143,451,198,294
 2011-W-INT-MEX-01A-2011,Acapulco,Clay,32,I,20110221,5,201615,2,,Lesia Tsurenko,R,174,UKR,21.7,201668,,,Alexandra Panova,R,179,RUS,21.9,6-4 4-6 7-5,3,Q1,,0,8,112,71,41,20,,4,10,1,5,125,75,45,22,,6,13,132,503,140,468
 2011-W-INT-MEX-01A-2011,Acapulco,Clay,32,I,20110221,6,201571,,,Masa Zec Peskiric,R,,SLO,24.0,201489,,,Mariya Koryttseva,R,172,UKR,25.7,6-2 6-2,3,Q1,,1,9,44,23,17,8,,1,4,0,6,47,34,12,2,,1,8,156,390,149,409
 2011-W-INT-MEX-01A-2011,Acapulco,Clay,32,I,20110221,7,202395,,,Maria Irigoyen,L,171,ARG,23.6,201451,,,Kathrin Woerle,R,175,GER,27.0,6-2 3-6 7-5,3,Q1,,0,2,81,63,37,11,,5,9,4,0,92,66,37,13,,6,12,173,338,148,416
@@ -16026,7 +16026,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-INT-MEX-01A-2011,Acapulco,Clay,32,I,20110221,28,202357,,,Madalina Gojnea,R,,ROU,23.4,200773,,,Stephanie Foretz Gacon,R,166,FRA,29.8,6-1 6-2,3,Q3,,0,3,45,24,19,13,,2,2,1,3,47,32,18,3,,1,6,172,338,153,405
 2011-W-INT-MEX-02A-2011,Monterrey,Hard,32,I,20110228,1,201478,1,,Varvara Lepchenko,L,180,USA,24.7,204363,,WC,Camila Fuentes,R,,USA,15.4,6-3 6-0,3,Q1,,0,7,55,25,17,15,,4,6,0,3,45,21,8,8,,5,11,76,847,,
 2011-W-INT-MEX-02A-2011,Monterrey,Hard,32,I,20110228,2,201486,,,Aleksandra Wozniak,R,175,CAN,23.4,201693,,WC,Timea Babos,R,179,HUN,17.8,6-4 7-5,3,Q1,,1,5,62,38,25,14,,4,8,3,10,82,48,29,11,,10,16,138,480,275,188
-2011-W-INT-MEX-02A-2011,Monterrey,Hard,32,I,20110228,3,202472,,,Laura Thorpe,R,,FRA,23.7,201613,,,Arina Rodionova,R,168,RUS,21.2,5-7 6-1 7-5,3,Q1,,4,4,100,68,45,15,,6,11,0,6,100,66,32,19,,7,14,177,337,200,290
+2011-W-INT-MEX-02A-2011,Monterrey,Hard,32,I,20110228,3,202472,,,Laura Thorpe,R,,FRA,23.7,201613,,,Arina Rodionova,R,168,AUS,21.2,5-7 6-1 7-5,3,Q1,,4,4,100,68,45,15,,6,11,0,6,100,66,32,19,,7,14,177,337,200,290
 2011-W-INT-MEX-02A-2011,Monterrey,Hard,32,I,20110228,4,201412,,,Anastasia Yakimova,R,165,BLR,24.3,201537,5,,Patricia Mayr Achleitner,R,169,AUT,24.3,1-6 7-6(5) 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,118,572,101,675
 2011-W-INT-MEX-02A-2011,Monterrey,Hard,32,I,20110228,5,201556,2,,Lucie Hradecka,R,177,CZE,25.7,201532,,,Anastasia Pivovarova,R,181,RUS,20.7,6-4 3-6 6-1,3,Q1,,6,11,87,43,37,15,,1,4,1,11,87,49,32,15,,6,11,83,776,120,561
 2011-W-INT-MEX-02A-2011,Monterrey,Hard,32,I,20110228,6,201586,,,Heather Watson,R,170,GBR,18.7,201293,,A,Catalina Castano,R,171,COL,31.6,2-6 7-6(5) 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,130,524,203,286
@@ -16107,7 +16107,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-INT-POR-01A-2011,Estoril,Clay,32,I,20110425,13,201483,,,Madison Brengle,R,168,USA,21.0,201570,4,,Vesna Dolonc,R,170,SRB,21.7,6-2 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,154,392,112,613
 2011-W-INT-POR-01A-2011,Estoril,Clay,32,I,20110425,14,201585,,,Sloane Stephens,R,170,USA,18.0,202646,,,Ana Clara Duarte,R,163,BRA,21.8,6-3 6-2,3,Q1,,1,2,53,37,28,9,,1,2,1,2,56,38,22,6,,6,10,170,352,232,241
 2011-W-INT-POR-01A-2011,Estoril,Clay,32,I,20110425,15,202443,,,Valeria Savinykh,R,167,RUS,20.1,204314,,WC,Rita Vilaca,L,,POR,17.6,6-0 6-1,3,Q1,,1,1,30,22,20,4,,0,0,1,7,46,24,9,7,,3,9,144,437,,
-2011-W-INT-POR-01A-2011,Estoril,Clay,32,I,20110425,16,201613,,,Arina Rodionova,R,168,RUS,21.3,201549,5,,Petra Martic,R,181,CRO,20.2,6-1 6-1,3,Q1,,0,1,48,33,21,8,,1,2,0,7,46,26,10,7,,6,12,205,289,114,608
+2011-W-INT-POR-01A-2011,Estoril,Clay,32,I,20110425,16,201613,,,Arina Rodionova,R,168,AUS,21.3,201549,5,,Petra Martic,R,181,CRO,20.2,6-1 6-1,3,Q1,,0,1,48,33,21,8,,1,2,0,7,46,26,10,7,,6,12,205,289,114,608
 2011-W-INT-POR-01A-2011,Estoril,Clay,32,I,20110425,17,201481,1,,Tamira Paszek,R,165,AUT,20.3,201696,,,Laura Siegemund,R,168,GER,23.1,7-5 6-4,3,Q2,,1,3,66,46,28,8,,1,5,0,5,67,47,24,9,,6,12,87,778,198,304
 2011-W-INT-POR-01A-2011,Estoril,Clay,32,I,20110425,18,201586,6,,Heather Watson,R,170,GBR,18.9,201565,,,Katarzyna Piter,R,173,POL,20.1,6-4 6-4,3,Q2,,8,0,77,49,30,10,,9,13,0,6,63,41,24,5,,5,11,127,531,230,242
 2011-W-INT-POR-01A-2011,Estoril,Clay,32,I,20110425,19,201412,2,,Anastasia Yakimova,R,165,BLR,24.4,200729,,,Lindsay Lee Waters,R,,USA,33.8,6-1 6-1,3,Q2,,2,2,52,42,29,3,,5,6,1,9,62,46,23,2,,8,14,110,625,183,324
@@ -16115,7 +16115,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-INT-POR-01A-2011,Estoril,Clay,32,I,20110425,21,201402,,,Sesil Karatantcheva,R,171,KAZ,21.7,201551,3,,Arantxa Rus,L,180,NED,20.3,5-7 6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,167,362,99,663
 2011-W-INT-POR-01A-2011,Estoril,Clay,32,I,20110425,22,201592,,,Beatriz Garcia Vidagany,U,,ESP,22.4,202357,,,Madalina Gojnea,R,,ROU,23.6,1-6 7-6(2) 6-3,3,Q2,,0,3,80,59,35,7,,4,10,0,6,108,74,41,13,,6,12,177,334,163,372
 2011-W-INT-POR-01A-2011,Estoril,Clay,32,I,20110425,23,201585,,,Sloane Stephens,R,170,USA,18.0,201483,,,Madison Brengle,R,168,USA,21.0,6-2 6-3,3,Q2,,0,1,53,35,22,11,,2,4,0,1,57,41,17,5,,4,10,170,352,154,392
-2011-W-INT-POR-01A-2011,Estoril,Clay,32,I,20110425,24,202443,,,Valeria Savinykh,R,167,RUS,20.1,201613,,,Arina Rodionova,R,168,RUS,21.3,6-3 6-4,3,Q2,,3,3,68,40,24,13,,5,8,0,3,59,38,21,9,,6,11,144,437,205,289
+2011-W-INT-POR-01A-2011,Estoril,Clay,32,I,20110425,24,202443,,,Valeria Savinykh,R,167,RUS,20.1,201613,,,Arina Rodionova,R,168,AUS,21.3,6-3 6-4,3,Q2,,3,3,68,40,24,13,,5,8,0,3,59,38,21,9,,6,11,144,437,205,289
 2011-W-INT-POR-01A-2011,Estoril,Clay,32,I,20110425,25,201481,1,,Tamira Paszek,R,165,AUT,20.3,201586,6,,Heather Watson,R,170,GBR,18.9,6-0 6-3,3,Q3,,2,3,58,39,28,6,,8,9,2,2,54,28,13,8,,3,9,87,778,127,531
 2011-W-INT-POR-01A-2011,Estoril,Clay,32,I,20110425,26,201412,2,,Anastasia Yakimova,R,165,BLR,24.4,201305,,,Eleni Daniilidou,R,182,GRE,28.5,6-3 6-1,3,Q3,,0,0,49,28,18,13,,4,6,0,5,46,27,13,4,,1,7,110,625,158,382
 2011-W-INT-POR-01A-2011,Estoril,Clay,32,I,20110425,27,201592,,,Beatriz Garcia Vidagany,U,,ESP,22.4,201402,,,Sesil Karatantcheva,R,171,KAZ,21.7,4-6 6-4 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,177,334,167,362
@@ -16808,7 +16808,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-SL-AUS-01A-2011,Australian Open,Hard,128,G,20110117,12,201513,,,Sabine Lisicki,R,178,GER,21.3,201414,22,,Michaella Krajicek,R,177,NED,22.0,7-6(2) 6-3,3,Q1,,8,2,62,34,29,20,,2,3,3,3,69,37,27,17,,5,7,156,380,143,454
 2011-W-SL-AUS-01A-2011,Australian Open,Hard,128,G,20110117,13,201389,4,,Zuzana Kucova,R,,SVK,28.5,202575,,,Kumiko Iijima,R,162,JPN,28.2,6-2 6-3,3,Q1,,1,4,62,34,21,14,,8,10,1,4,60,39,21,4,,5,11,120,575,222,262
 2011-W-SL-AUS-01A-2011,Australian Open,Hard,128,G,20110117,14,201377,,,Yuliya Beygelzimer,R,174,UKR,27.2,202395,,,Maria Irigoyen,L,171,ARG,23.5,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,210,282,172,342
-2011-W-SL-AUS-01A-2011,Australian Open,Hard,128,G,20110117,15,201613,,,Arina Rodionova,R,168,RUS,21.0,201706,,,Eirini Georgatou,R,,GRE,20.9,6-4 6-1,3,Q1,,3,1,78,57,35,11,,6,8,2,4,77,39,20,16,,8,13,185,318,193,302
+2011-W-SL-AUS-01A-2011,Australian Open,Hard,128,G,20110117,15,201613,,,Arina Rodionova,R,168,AUS,21.0,201706,,,Eirini Georgatou,R,,GRE,20.9,6-4 6-1,3,Q1,,3,1,78,57,35,11,,6,8,2,4,77,39,20,16,,8,13,185,318,193,302
 2011-W-SL-AUS-01A-2011,Australian Open,Hard,128,G,20110117,16,201605,16,,Mandy Minella,R,180,LUX,25.1,201396,,,Katie Obrien,R,167,GBR,24.7,3-6 7-5 6-3,3,Q1,,6,4,110,68,44,18,,10,15,1,7,91,63,40,11,,4,10,135,497,173,340
 2011-W-SL-AUS-01A-2011,Australian Open,Hard,128,G,20110117,17,201477,,,Stephanie Dubois,R,162,CAN,24.2,201412,5,,Anastasia Yakimova,R,165,BLR,24.2,6-4 6-2,3,Q1,,1,2,51,34,20,9,,3,7,1,5,49,27,13,5,,2,9,163,372,121,575
 2011-W-SL-AUS-01A-2011,Australian Open,Hard,128,G,20110117,18,203496,,WC,Sophie Letcher,R,165,AUS,18.1,201392,,,Severine Beltrame,R,171,FRA,31.4,6-3 3-6 8-6,3,Q1,,3,2,99,57,39,19,,3,7,3,3,94,50,30,25,,0,5,329,137,213,277
@@ -16849,7 +16849,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-SL-AUS-01A-2011,Australian Open,Hard,128,G,20110117,53,201442,3,,Yung Jan Chan,R,170,TPE,21.4,202454,,,Erika Sema,R,163,JPN,22.1,6-3 6-2,3,Q2,,4,2,53,34,24,9,,0,3,0,4,60,43,22,4,,2,8,119,576,204,289
 2011-W-SL-AUS-01A-2011,Australian Open,Hard,128,G,20110117,54,201570,,,Vesna Dolonc,R,170,SRB,21.4,201513,,,Sabine Lisicki,R,178,GER,21.3,7-6(5) 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,146,437,156,380
 2011-W-SL-AUS-01A-2011,Australian Open,Hard,128,G,20110117,55,201389,4,,Zuzana Kucova,R,,SVK,28.5,201377,,,Yuliya Beygelzimer,R,174,UKR,27.2,6-1 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,120,575,210,282
-2011-W-SL-AUS-01A-2011,Australian Open,Hard,128,G,20110117,56,201613,,,Arina Rodionova,R,168,RUS,21.0,201605,16,,Mandy Minella,R,180,LUX,25.1,6-1 6-1,3,Q2,,4,1,43,27,19,10,,1,2,0,7,53,33,15,4,,10,16,185,318,135,497
+2011-W-SL-AUS-01A-2011,Australian Open,Hard,128,G,20110117,56,201613,,,Arina Rodionova,R,168,AUS,21.0,201605,16,,Mandy Minella,R,180,LUX,25.1,6-1 6-1,3,Q2,,4,1,43,27,19,10,,1,2,0,7,53,33,15,4,,10,16,185,318,135,497
 2011-W-SL-AUS-01A-2011,Australian Open,Hard,128,G,20110117,57,201477,,,Stephanie Dubois,R,162,CAN,24.2,203496,,WC,Sophie Letcher,R,165,AUS,18.1,6-1 6-4,3,Q2,,6,1,50,34,26,12,,1,1,2,4,47,24,14,13,,4,7,163,372,329,137
 2011-W-SL-AUS-01A-2011,Australian Open,Hard,128,G,20110117,58,201420,24,,Sania Mirza,R,153,IND,24.1,201554,,,Vitalia Diatchenko,R,170,RUS,20.4,6-4 6-7(7) 6-3,3,Q2,,1,8,130,75,36,28,,17,24,0,9,103,61,28,16,,8,18,145,445,170,343
 2011-W-SL-AUS-01A-2011,Australian Open,Hard,128,G,20110117,59,201610,,,Zarina Diyas,R,172,KAZ,17.2,201655,,,Anna Floris,L,,ITA,28.6,6-2 6-3,3,Q2,,5,2,86,56,36,15,,6,7,0,6,40,21,13,8,,2,6,174,339,165,366
@@ -16869,7 +16869,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-SL-AUS-01A-2011,Australian Open,Hard,128,G,20110117,73,201535,1,,Coco Vandeweghe,R,185,USA,19.1,201402,,,Sesil Karatantcheva,R,171,KAZ,21.4,6-4 6-2,3,Q3,,5,1,47,30,23,9,,0,1,7,6,72,48,31,7,,7,11,116,600,148,421
 2011-W-SL-AUS-01A-2011,Australian Open,Hard,128,G,20110117,74,201303,2,,Anne Keothavong,R,175,GBR,27.3,201593,,,Irina Camelia Begu,R,181,ROU,20.3,6-3 6-4,3,Q3,,1,1,46,28,21,12,,3,4,2,3,73,48,26,13,,3,7,118,577,198,296
 2011-W-SL-AUS-01A-2011,Australian Open,Hard,128,G,20110117,75,201570,,,Vesna Dolonc,R,170,SRB,21.4,201442,3,,Yung Jan Chan,R,170,TPE,21.4,6-0 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,146,437,119,576
-2011-W-SL-AUS-01A-2011,Australian Open,Hard,128,G,20110117,76,201613,,,Arina Rodionova,R,168,RUS,21.0,201389,4,,Zuzana Kucova,R,,SVK,28.5,6-3 4-6 6-4,3,Q3,,2,2,90,60,36,8,,7,14,1,6,93,64,35,10,,12,21,185,318,120,575
+2011-W-SL-AUS-01A-2011,Australian Open,Hard,128,G,20110117,76,201613,,,Arina Rodionova,R,168,AUS,21.0,201389,4,,Zuzana Kucova,R,,SVK,28.5,6-3 4-6 6-4,3,Q3,,2,2,90,60,36,8,,7,14,1,6,93,64,35,10,,12,21,185,318,120,575
 2011-W-SL-AUS-01A-2011,Australian Open,Hard,128,G,20110117,77,201420,24,,Sania Mirza,R,153,IND,24.1,201477,,,Stephanie Dubois,R,162,CAN,24.2,6-2 6-3,3,Q3,,,,,,,,,,,,,,,,,,,,145,445,163,372
 2011-W-SL-AUS-01A-2011,Australian Open,Hard,128,G,20110117,78,201604,,,Irina Falconi,R,163,USA,20.7,201610,,,Zarina Diyas,R,172,KAZ,17.2,7-6(6) 6-3,3,Q3,,1,4,77,51,32,8,,5,11,0,6,77,50,28,6,,6,13,184,319,174,339
 2011-W-SL-AUS-01A-2011,Australian Open,Hard,128,G,20110117,79,200124,,,Anne Kremer,R,165,LUX,35.2,201532,7,,Anastasia Pivovarova,R,181,RUS,20.5,7-6(3) 6-3,3,Q3,,3,2,72,47,27,14,,5,9,1,9,76,49,29,7,,5,10,196,297,124,559
@@ -16882,7 +16882,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-SL-FRA-01A-2011,Roland Garros,Clay,128,G,20110523,2,202456,,,Alexandra Cadantu Ignatik,R,170,ROU,21.0,202357,,,Madalina Gojnea,R,,ROU,23.7,6-2 1-6 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,192,291,156,380
 2011-W-SL-FRA-01A-2011,Roland Garros,Clay,128,G,20110523,3,202461,,,Julia Cohen,R,170,USA,22.1,201362,,WC,Anais Laurendon,R,,FRA,26.1,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,165,348,217,262
 2011-W-SL-FRA-01A-2011,Roland Garros,Clay,128,G,20110523,4,201585,21,,Sloane Stephens,R,170,USA,18.1,201392,,WC,Severine Beltrame,R,171,FRA,31.7,6-1 6-3,3,Q1,,3,0,48,28,20,13,,1,2,0,4,63,33,20,11,,6,11,143,433,220,255
-2011-W-SL-FRA-01A-2011,Roland Garros,Clay,128,G,20110523,5,201508,2,,Petra Cetkovska,R,172,CZE,26.2,201613,,,Arina Rodionova,R,168,RUS,21.4,6-1 7-5,3,Q1,,5,5,66,40,29,9,,4,6,0,3,50,27,13,9,,1,7,98,692,212,268
+2011-W-SL-FRA-01A-2011,Roland Garros,Clay,128,G,20110523,5,201508,2,,Petra Cetkovska,R,172,CZE,26.2,201613,,,Arina Rodionova,R,168,AUS,21.4,6-1 7-5,3,Q1,,5,5,66,40,29,9,,4,6,0,3,50,27,13,9,,1,7,98,692,212,268
 2011-W-SL-FRA-01A-2011,Roland Garros,Clay,128,G,20110523,6,201561,,WC,Claire Feuerstein,L,178,FRA,25.2,201690,,,Nina Bratchikova,R,178,RUS,25.9,6-3 5-7 6-2,3,Q1,,5,5,110,62,42,25,,5,8,1,0,91,59,40,14,,4,9,231,239,151,398
 2011-W-SL-FRA-01A-2011,Roland Garros,Clay,128,G,20110523,7,201523,,,Marina Erakovic,R,174,NZL,23.2,201548,,,Ajla Tomljanovic,R,180,AUS,18.0,6-4 7-5,3,Q1,,5,1,57,35,30,13,,0,1,4,1,74,40,24,21,,9,12,167,342,182,315
 2011-W-SL-FRA-01A-2011,Roland Garros,Clay,128,G,20110523,8,201597,15,,Kurumi Nara,R,155,JPN,19.3,202417,,,Tetiana Luzhanska,R,,USA,26.7,6-3 2-6 8-6,3,Q1,,2,9,114,67,36,18,,12,20,0,5,116,71,43,15,,9,17,132,492,190,294
@@ -16996,7 +16996,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-SL-GBR-01A-2011,Wimbledon,Grass,128,G,20110620,32,201595,17,,Misaki Doi,L,159,JPN,20.1,201483,,,Madison Brengle,R,168,USA,21.2,3-6 6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,133,501,170,348
 2011-W-SL-GBR-01A-2011,Wimbledon,Grass,128,G,20110620,33,201356,9,,Eva Birnerova,R,170,CZE,26.8,200124,,,Anne Kremer,R,165,LUX,35.6,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,127,527,148,426
 2011-W-SL-GBR-01A-2011,Wimbledon,Grass,128,G,20110620,34,201697,,WC,Kristyna Pliskova,L,184,CZE,19.2,202472,,,Laura Thorpe,R,,FRA,24.0,6-3 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,229,240,172,346
-2011-W-SL-GBR-01A-2011,Wimbledon,Grass,128,G,20110620,35,201613,,,Arina Rodionova,R,168,RUS,21.5,201402,,,Sesil Karatantcheva,R,171,KAZ,21.8,6-3 5-7 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,212,262,190,304
+2011-W-SL-GBR-01A-2011,Wimbledon,Grass,128,G,20110620,35,201613,,,Arina Rodionova,R,168,AUS,21.5,201402,,,Sesil Karatantcheva,R,171,KAZ,21.8,6-3 5-7 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,212,262,190,304
 2011-W-SL-GBR-01A-2011,Wimbledon,Grass,128,G,20110620,36,201597,18,,Kurumi Nara,R,155,JPN,19.4,201649,,,Lenka Jurikova,R,,SVK,20.8,6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,135,489,221,251
 2011-W-SL-GBR-01A-2011,Wimbledon,Grass,128,G,20110620,37,201655,,,Anna Floris,L,,ITA,29.0,201622,10,,Iryna Bremond,R,,FRA,26.7,3-6 6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,157,388,129,516
 2011-W-SL-GBR-01A-2011,Wimbledon,Grass,128,G,20110620,38,201638,,,Estrella Cabeza Candela,R,173,ESP,24.3,201557,,,Corinna Dentoni,R,,ITA,21.8,6-2 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,231,235,145,440
@@ -17027,7 +17027,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-SL-GBR-01A-2011,Wimbledon,Grass,128,G,20110620,63,201511,,,Ekaterina Ivanova,R,,RUS,23.5,201521,8,,Carla Suarez Navarro,R,162,ESP,22.7,6-2 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,162,376,119,571
 2011-W-SL-GBR-01A-2011,Wimbledon,Grass,128,G,20110620,64,201595,17,,Misaki Doi,L,159,JPN,20.1,201469,,WC,Melanie South,R,175,GBR,25.1,7-5 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,133,501,308,166
 2011-W-SL-GBR-01A-2011,Wimbledon,Grass,128,G,20110620,65,201697,,WC,Kristyna Pliskova,L,184,CZE,19.2,201356,9,,Eva Birnerova,R,170,CZE,26.8,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,229,240,127,527
-2011-W-SL-GBR-01A-2011,Wimbledon,Grass,128,G,20110620,66,201613,,,Arina Rodionova,R,168,RUS,21.5,201597,18,,Kurumi Nara,R,155,JPN,19.4,6-3 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,212,262,135,489
+2011-W-SL-GBR-01A-2011,Wimbledon,Grass,128,G,20110620,66,201613,,,Arina Rodionova,R,168,AUS,21.5,201597,18,,Kurumi Nara,R,155,JPN,19.4,6-3 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,212,262,135,489
 2011-W-SL-GBR-01A-2011,Wimbledon,Grass,128,G,20110620,67,201638,,,Estrella Cabeza Candela,R,173,ESP,24.3,201655,,,Anna Floris,L,,ITA,29.0,6-4 7-6(5),3,Q2,,,,,,,,,,,,,,,,,,,,231,235,157,388
 2011-W-SL-GBR-01A-2011,Wimbledon,Grass,128,G,20110620,68,201621,,,Mona Barthel,R,185,GER,20.9,202443,24,,Valeria Savinykh,R,167,RUS,20.3,6-1 7-6(3),3,Q2,,4,4,68,38,27,17,,3,6,3,6,89,46,25,24,,8,12,114,600,137,484
 2011-W-SL-GBR-01A-2011,Wimbledon,Grass,128,G,20110620,69,201443,,,Alexa Glatch,R,183,USA,21.7,201614,,,Caroline Garcia,R,177,FRA,17.6,6-1 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,173,344,161,379
@@ -17042,7 +17042,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-SL-GBR-01A-2011,Wimbledon,Grass,128,G,20110620,78,201615,15,,Lesia Tsurenko,R,174,UKR,22.0,202417,,,Tetiana Luzhanska,R,,USA,26.7,6-4 7-5,3,Q3,,,,,,,,,,,,,,,,,,,,141,470,192,302
 2011-W-SL-GBR-01A-2011,Wimbledon,Grass,128,G,20110620,79,201554,,,Vitalia Diatchenko,R,170,RUS,20.8,201477,23,,Stephanie Dubois,R,162,CAN,24.6,6-3 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,168,357,122,553
 2011-W-SL-GBR-01A-2011,Wimbledon,Grass,128,G,20110620,80,201595,17,,Misaki Doi,L,159,JPN,20.1,201511,,,Ekaterina Ivanova,R,,RUS,23.5,7-5 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,133,501,162,376
-2011-W-SL-GBR-01A-2011,Wimbledon,Grass,128,G,20110620,81,201697,,WC,Kristyna Pliskova,L,184,CZE,19.2,201613,,,Arina Rodionova,R,168,RUS,21.5,4-6 6-3 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,229,240,212,262
+2011-W-SL-GBR-01A-2011,Wimbledon,Grass,128,G,20110620,81,201697,,WC,Kristyna Pliskova,L,184,CZE,19.2,201613,,,Arina Rodionova,R,168,AUS,21.5,4-6 6-3 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,229,240,212,262
 2011-W-SL-GBR-01A-2011,Wimbledon,Grass,128,G,20110620,82,201621,,,Mona Barthel,R,185,GER,20.9,201638,,,Estrella Cabeza Candela,R,173,ESP,24.3,6-2 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,114,600,231,235
 2011-W-SL-GBR-01A-2011,Wimbledon,Grass,128,G,20110620,83,201443,,,Alexa Glatch,R,183,USA,21.7,201448,,,Galina Voskoboeva,R,183,KAZ,26.5,3-6 7-6(2) 12-10,3,Q3,,,,,,,,,,,,,,,,,,,,173,344,182,314
 2011-W-SL-GBR-01A-2011,Wimbledon,Grass,128,G,20110620,84,201486,,,Aleksandra Wozniak,R,175,CAN,23.7,201690,,,Nina Bratchikova,R,178,RUS,25.9,3-6 6-4 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,174,334,147,434
@@ -17095,7 +17095,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-SL-USA-01A-2011,US Open,Hard,128,G,20110829,47,201402,,,Sesil Karatantcheva,R,171,KAZ,22.0,201612,,,Junri Namigata,R,170,JPN,29.1,2-6 6-4 6-4,3,Q1,,0,5,86,53,30,17,,7,13,1,6,84,51,27,16,,5,10,199,284,159,382
 2011-W-SL-USA-01A-2011,US Open,Hard,128,G,20110829,48,201554,24,,Vitalia Diatchenko,R,170,RUS,21.0,201696,,,Laura Siegemund,R,168,GER,23.4,6-3 7-5,3,Q1,,2,9,70,39,25,15,,3,8,1,11,70,36,22,10,,6,12,139,468,207,276
 2011-W-SL-USA-01A-2011,US Open,Hard,128,G,20110829,49,201442,13,,Yung Jan Chan,R,170,TPE,22.0,201511,,,Ekaterina Ivanova,R,,RUS,23.6,6-1 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,126,552,168,338
-2011-W-SL-USA-01A-2011,US Open,Hard,128,G,20110829,50,201649,,,Lenka Jurikova,R,,SVK,21.0,201613,,,Arina Rodionova,R,168,RUS,21.7,6-2 3-6 6-2,3,Q1,,5,9,78,45,30,17,,6,9,0,3,78,57,35,6,,2,8,273,206,189,300
+2011-W-SL-USA-01A-2011,US Open,Hard,128,G,20110829,50,201649,,,Lenka Jurikova,R,,SVK,21.0,201613,,,Arina Rodionova,R,168,AUS,21.7,6-2 3-6 6-2,3,Q1,,5,9,78,45,30,17,,6,9,0,3,78,57,35,6,,2,8,273,206,189,300
 2011-W-SL-USA-01A-2011,US Open,Hard,128,G,20110829,51,201610,,,Zarina Diyas,R,172,KAZ,17.8,201362,,,Anais Laurendon,R,,FRA,26.3,7-5 6-1,3,Q1,,4,2,73,46,31,14,,6,8,1,6,58,35,24,5,,7,12,182,314,258,216
 2011-W-SL-USA-01A-2011,US Open,Hard,128,G,20110829,52,201572,,,Regina Kulikova,R,183,RUS,22.5,201614,23,,Caroline Garcia,R,177,FRA,17.8,2-6 6-4 6-2,3,Q1,,1,4,84,58,35,11,,2,7,7,5,89,48,32,13,,8,14,191,296,138,479
 2011-W-SL-USA-01A-2011,US Open,Hard,128,G,20110829,53,201605,14,,Mandy Minella,R,180,LUX,25.7,201662,,,Karolina Pliskova,R,184,CZE,19.4,6-1 6-3,3,Q1,,4,5,72,38,27,17,,5,6,1,5,47,24,15,6,,2,7,127,546,185,306
