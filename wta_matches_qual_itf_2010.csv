@@ -1921,7 +1921,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C10-CHN-01A-2010,Nanjing 10K,Hard,32,10,20100329,12,204275,3,,Zi Jun Yang,U,,HKG,20.1,204407,,WC,Yang Pang,R,,CHN,16.9,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,521,54,,
 2010-W-C10-CHN-01A-2010,Nanjing 10K,Hard,32,10,20100329,13,205616,,Q,Xin Wen,R,,CHN,17.7,203517,6,,Chihiro Takayama,R,,JPN,19.1,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,656,34
 2010-W-C10-CHN-01A-2010,Nanjing 10K,Hard,32,10,20100329,14,202452,,WC,Yi Jing Zhao,U,,CHN,21.1,205780,,,Tegan Edwards,U,,RSA,21.2,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,896,12
-2010-W-C10-CHN-01A-2010,Nanjing 10K,Hard,32,10,20100329,15,206294,,Q,Yue Yuan,U,184,CHN,18.7,204342,,,Nan Nan Zhang,R,,CHN,18.2,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,930,11
+2010-W-C10-CHN-01A-2010,Nanjing 10K,Hard,32,10,20100329,15,206294,,Q,Yue Yuan,R,184,CHN,11.5,204342,,,Nan Nan Zhang,R,,CHN,18.2,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,930,11
 2010-W-C10-CHN-01A-2010,Nanjing 10K,Hard,32,10,20100329,16,202504,2,,Ying Ying Duan,R,186,CHN,20.7,201418,,,Ting Li,R,,CHN,30.2,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,430,77,,
 2010-W-C10-CHN-01A-2010,Nanjing 10K,Hard,32,10,20100329,17,205525,,,Lu Guo,U,,CHN,21.3,201667,1,,Ling Zhang,R,178,HKG,20.4,2-6 7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,916,11,330,119
 2010-W-C10-CHN-01A-2010,Nanjing 10K,Hard,32,10,20100329,18,202576,5,,Shaozhuo Liu,L,,CHN,19.4,202455,,Q,Yue Yue Hu,U,,CHN,20.0,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,610,40,,
@@ -1930,7 +1930,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C10-CHN-01A-2010,Nanjing 10K,Hard,32,10,20100329,21,205454,,Q,Ya Qi Deng,U,,CHN,18.4,205615,7,,Julia Moriarty,R,,IRL,21.3,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,695,29
 2010-W-C10-CHN-01A-2010,Nanjing 10K,Hard,32,10,20100329,22,203576,,,Kai Lin Zhang,R,173,CHN,20.1,204275,3,,Zi Jun Yang,U,,HKG,20.1,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1024,6,521,54
 2010-W-C10-CHN-01A-2010,Nanjing 10K,Hard,32,10,20100329,23,202452,,WC,Yi Jing Zhao,U,,CHN,21.1,205616,,Q,Xin Wen,R,,CHN,17.7,2-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
-2010-W-C10-CHN-01A-2010,Nanjing 10K,Hard,32,10,20100329,24,202504,2,,Ying Ying Duan,R,186,CHN,20.7,206294,,Q,Yue Yuan,U,184,CHN,18.7,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,430,77,,
+2010-W-C10-CHN-01A-2010,Nanjing 10K,Hard,32,10,20100329,24,202504,2,,Ying Ying Duan,R,186,CHN,20.7,206294,,Q,Yue Yuan,R,184,CHN,11.5,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,430,77,,
 2010-W-C10-CHN-01A-2010,Nanjing 10K,Hard,32,10,20100329,25,202576,5,,Shaozhuo Liu,L,,CHN,19.4,205525,,,Lu Guo,U,,CHN,21.3,6-3 3-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,610,40,916,11
 2010-W-C10-CHN-01A-2010,Nanjing 10K,Hard,32,10,20100329,26,202683,,WC,Wan Ting Liu,R,,CHN,21.1,205943,4,,Elodie Rogge Dietrich,U,,FRA,26.5,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,,,609,41
 2010-W-C10-CHN-01A-2010,Nanjing 10K,Hard,32,10,20100329,27,203576,,,Kai Lin Zhang,R,173,CHN,20.1,205454,,Q,Ya Qi Deng,U,,CHN,18.4,6-7(5) 6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,1024,6,,
@@ -8086,7 +8086,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C10-USA-01A-2010,Landisville PA 10K,Hard,32,10,20100517,4,203290,6,,Piia Suomalainen,R,172,FIN,25.8,202630,,Q,Eleanor Peters,U,,USA,21.8,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,542,49,,
 2010-W-C10-USA-01A-2010,Landisville PA 10K,Hard,32,10,20100517,5,203513,,WC,Robin Anderson,R,160,USA,17.0,202614,3,,Jacqueline Cako,R,178,USA,18.7,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,490,63
 2010-W-C10-USA-01A-2010,Landisville PA 10K,Hard,32,10,20100517,6,205601,,Q,Magda Okruashvili,R,,GEO,19.9,205886,,Q,Kassandra Dunser,R,,AUS,15.0,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2010-W-C10-USA-01A-2010,Landisville PA 10K,Hard,32,10,20100517,7,203236,,,Angelina Gabueva,U,,RUS,21.4,202414,,Q,Catherine Harrison,U,,USA,16.1,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,677,30,,
+2010-W-C10-USA-01A-2010,Landisville PA 10K,Hard,32,10,20100517,7,203236,,,Angelina Gabueva,U,,RUS,21.4,202414,,Q,Catherine Harrison,R,,USA,16.1,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,677,30,,
 2010-W-C10-USA-01A-2010,Landisville PA 10K,Hard,32,10,20100517,8,202591,5,,Katie Ruckert,R,,USA,27.0,203498,,Q,Elizabeth Ferris,U,,USA,23.7,6-2 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,521,55,,
 2010-W-C10-USA-01A-2010,Landisville PA 10K,Hard,32,10,20100517,9,203454,8,,Elizabeth Lumpkin,R,175,USA,23.9,203483,,WC,Jan Abaza,U,,USA,15.2,3-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,601,40,,
 2010-W-C10-USA-01A-2010,Landisville PA 10K,Hard,32,10,20100517,10,204220,,,Dianne Hollands,R,,NZL,27.0,210630,,WC,Julia Casselbury,U,,USA,16.4,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,657,32,,
@@ -8121,7 +8121,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C10-USA-02A-2010,Sumter SC 10K,Hard,32,10,20100524,8,203290,5,,Piia Suomalainen,R,172,FIN,25.8,204279,,,Dominique Harmath,U,,CAN,18.3,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,544,49,953,9
 2010-W-C10-USA-02A-2010,Sumter SC 10K,Hard,32,10,20100524,9,202650,6,,Gally De Wael,R,,BEL,18.6,209279,,Q,Connor Vogel,U,,USA,22.6,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,621,37,,
 2010-W-C10-USA-02A-2010,Sumter SC 10K,Hard,32,10,20100524,10,202405,,Q,Alexis King,L,157,USA,27.1,204231,,,Samantha Powers,U,,USA,21.0,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,991,7
-2010-W-C10-USA-02A-2010,Sumter SC 10K,Hard,32,10,20100524,11,202414,,Q,Catherine Harrison,U,,USA,16.1,206302,,Q,Gaia Sanesi,L,170,ITA,18.1,6-7(4) 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2010-W-C10-USA-02A-2010,Sumter SC 10K,Hard,32,10,20100524,11,202414,,Q,Catherine Harrison,R,,USA,16.1,206302,,Q,Gaia Sanesi,L,170,ITA,18.1,6-7(4) 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2010-W-C10-USA-02A-2010,Sumter SC 10K,Hard,32,10,20100524,12,202447,4,,Alexandra Mueller,R,180,USA,22.2,202327,,Q,Megan Falcon,R,,USA,24.8,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,515,56,,
 2010-W-C10-USA-02A-2010,Sumter SC 10K,Hard,32,10,20100524,13,204220,8,,Dianne Hollands,R,,NZL,27.0,205961,,,Ivana King,U,,USA,23.5,6-4 3-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,654,32,821,16
 2010-W-C10-USA-02A-2010,Sumter SC 10K,Hard,32,10,20100524,14,203414,,Q,Nicole Melichar,R,,USA,16.8,203360,,,Lauren Herring,R,170,USA,16.8,6-7(5) 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1096,3,923,11
@@ -8132,7 +8132,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C10-USA-02A-2010,Sumter SC 10K,Hard,32,10,20100524,19,203528,,,Nicola Slater,U,173,GBR,25.7,201509,3,,Ashley Weinhold,R,165,USA,20.9,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1037,6,498,60
 2010-W-C10-USA-02A-2010,Sumter SC 10K,Hard,32,10,20100524,20,203290,5,,Piia Suomalainen,R,172,FIN,25.8,205917,,,Kyle Mcphillips,R,,USA,16.1,3-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,544,49,,
 2010-W-C10-USA-02A-2010,Sumter SC 10K,Hard,32,10,20100524,21,202405,,Q,Alexis King,L,157,USA,27.1,202650,6,,Gally De Wael,R,,BEL,18.6,6-7(6) 7-6(3) 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,,,621,37
-2010-W-C10-USA-02A-2010,Sumter SC 10K,Hard,32,10,20100524,22,202447,4,,Alexandra Mueller,R,180,USA,22.2,202414,,Q,Catherine Harrison,U,,USA,16.1,7-6(4) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,515,56,,
+2010-W-C10-USA-02A-2010,Sumter SC 10K,Hard,32,10,20100524,22,202447,4,,Alexandra Mueller,R,180,USA,22.2,202414,,Q,Catherine Harrison,R,,USA,16.1,7-6(4) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,515,56,,
 2010-W-C10-USA-02A-2010,Sumter SC 10K,Hard,32,10,20100524,23,203414,,Q,Nicole Melichar,R,,USA,16.8,204220,8,,Dianne Hollands,R,,NZL,27.0,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1096,3,654,32
 2010-W-C10-USA-02A-2010,Sumter SC 10K,Hard,32,10,20100524,24,205962,,,Gira Schofield,U,,USA,23.7,202614,2,,Jacqueline Cako,R,178,USA,18.7,6-2 3-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,780,19,482,63
 2010-W-C10-USA-02A-2010,Sumter SC 10K,Hard,32,10,20100524,25,201522,,Q,Jelena Pandzic,R,170,CRO,27.1,203450,1,,Yana Koroleva,R,,RUS,17.4,5-7 6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,449,69
@@ -8149,7 +8149,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C10-USA-03A-2010,Hilton Head Island SC 10K,Hard,32,10,20100531,5,203450,3,,Yana Koroleva,R,,RUS,17.4,204220,,,Dianne Hollands,R,,NZL,27.0,3-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,449,69,654,32
 2010-W-C10-USA-03A-2010,Hilton Head Island SC 10K,Hard,32,10,20100531,6,203528,,WC,Nicola Slater,U,173,GBR,25.7,203360,,,Lauren Herring,R,170,USA,16.8,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1037,6,923,11
 2010-W-C10-USA-03A-2010,Hilton Head Island SC 10K,Hard,32,10,20100531,7,202448,,WC,Zoe Gwen Scandalis,R,,USA,16.6,202630,,Q,Eleanor Peters,U,,USA,21.9,6-4 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2010-W-C10-USA-03A-2010,Hilton Head Island SC 10K,Hard,32,10,20100531,8,202650,8,,Gally De Wael,R,,BEL,18.6,202414,,Q,Catherine Harrison,U,,USA,16.1,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,621,37,,
+2010-W-C10-USA-03A-2010,Hilton Head Island SC 10K,Hard,32,10,20100531,8,202650,8,,Gally De Wael,R,,BEL,18.6,202414,,Q,Catherine Harrison,R,,USA,16.1,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,621,37,,
 2010-W-C10-USA-03A-2010,Hilton Head Island SC 10K,Hard,32,10,20100531,9,201415,,,Tiffany Welford,R,168,AUS,25.1,203454,7,,Elizabeth Lumpkin,R,175,USA,24.0,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,655,32,604,40
 2010-W-C10-USA-03A-2010,Hilton Head Island SC 10K,Hard,32,10,20100531,10,202327,,Q,Megan Falcon,R,,USA,24.8,202834,,,Story Tweedie Yates,U,,USA,27.0,7-6(7) 2-6 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,,,687,28
 2010-W-C10-USA-03A-2010,Hilton Head Island SC 10K,Hard,32,10,20100531,11,205086,,,Moe Kawatoko,R,,JPN,24.5,205961,,,Ivana King,U,,USA,23.5,1-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,647,33,821,16
@@ -8298,7 +8298,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C10-USA-07A-2010,Evansville IN 10K,Hard,32,10,20100719,30,202629,4,,Gabriela Paz,R,165,VEN,18.8,201619,,,Madison Keys,R,178,USA,15.4,W/O,3,SF,,,,,,,,,,,,,,,,,,,,707,24,,
 2010-W-C10-USA-07A-2010,Evansville IN 10K,Hard,32,10,20100719,31,202629,4,,Gabriela Paz,R,165,VEN,18.8,202481,,,Chi Chi Scholl,R,,USA,18.0,6-4 6-0,3,F,,,,,,,,,,,,,,,,,,,,707,24,901,10
 2010-W-C10-USA-08A-2010,St Joseph MO 10K,Hard,32,10,20100726,1,201598,1,,Noppawan Lertcheewakarn,R,167,THA,18.6,210719,,Q,Rachel Janssen,R,,USA,26.3,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,296,152,,
-2010-W-C10-USA-08A-2010,St Joseph MO 10K,Hard,32,10,20100726,2,202414,,WC,Catherine Harrison,U,,USA,16.2,206379,,,Nicole Robinson,R,,USA,15.5,6-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,1026,4
+2010-W-C10-USA-08A-2010,St Joseph MO 10K,Hard,32,10,20100726,2,202414,,WC,Catherine Harrison,R,,USA,16.2,206379,,,Nicole Robinson,R,,USA,15.5,6-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,1026,4
 2010-W-C10-USA-08A-2010,St Joseph MO 10K,Hard,32,10,20100726,3,203498,,Q,Elizabeth Ferris,U,,USA,23.9,209215,,Q,Dina Bajramovic,R,,USA,22.7,6-2 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2010-W-C10-USA-08A-2010,St Joseph MO 10K,Hard,32,10,20100726,4,203399,8,,Ellen Tsay,U,,USA,16.7,203372,,Q,Gabrielle Desimone,R,,USA,17.4,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,720,23,,
 2010-W-C10-USA-08A-2010,St Joseph MO 10K,Hard,32,10,20100726,5,202408,4,,Amanda Fink,U,,USA,23.6,203398,,WC,Danielle Lao,R,160,USA,19.1,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,563,46,,
@@ -8313,7 +8313,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C10-USA-08A-2010,St Joseph MO 10K,Hard,32,10,20100726,14,210517,,,Kayla Rizzolo,U,,USA,17.8,209650,,,Maria Christensen,R,,DEN,20.9,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,910,10,,
 2010-W-C10-USA-08A-2010,St Joseph MO 10K,Hard,32,10,20100726,15,205917,,,Kyle Mcphillips,R,,USA,16.3,208847,,,Joanne Schickerling,R,,RSA,24.6,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,762,19,,
 2010-W-C10-USA-08A-2010,St Joseph MO 10K,Hard,32,10,20100726,16,203454,2,,Elizabeth Lumpkin,R,175,USA,24.1,210382,,,Sabrina Santamaria,R,157,USA,17.4,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,452,71,889,11
-2010-W-C10-USA-08A-2010,St Joseph MO 10K,Hard,32,10,20100726,17,201598,1,,Noppawan Lertcheewakarn,R,167,THA,18.6,202414,,WC,Catherine Harrison,U,,USA,16.2,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,296,152,,
+2010-W-C10-USA-08A-2010,St Joseph MO 10K,Hard,32,10,20100726,17,201598,1,,Noppawan Lertcheewakarn,R,167,THA,18.6,202414,,WC,Catherine Harrison,R,,USA,16.2,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,296,152,,
 2010-W-C10-USA-08A-2010,St Joseph MO 10K,Hard,32,10,20100726,18,203399,8,,Ellen Tsay,U,,USA,16.7,203498,,Q,Elizabeth Ferris,U,,USA,23.9,1-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,720,23,,
 2010-W-C10-USA-08A-2010,St Joseph MO 10K,Hard,32,10,20100726,19,203341,,Q,Sanaz Marand,L,,USA,22.0,202408,4,,Amanda Fink,U,,USA,23.6,3-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,563,46
 2010-W-C10-USA-08A-2010,St Joseph MO 10K,Hard,32,10,20100726,20,203560,,LL,Whitney Jones,U,,USA,23.9,202923,,WC,Amanda Mcdowell,U,,USA,22.8,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1053,3,,
@@ -8335,7 +8335,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C10-USA-09A-2010,Amelia Island FL 10K,Clay,32,10,20100927,5,202924,3,,Anastasia Kharchenko,R,,UKR,20.7,205796,,,Chun Yan He,L,,CHN,27.4,0-6 6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,562,48,1035,6
 2010-W-C10-USA-09A-2010,Amelia Island FL 10K,Clay,32,10,20100927,6,210281,,,Olivia Janowicz,U,,USA,19.2,209864,,LL,Erica Krisan,U,,USA,20.2,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1014,6
 2010-W-C10-USA-09A-2010,Amelia Island FL 10K,Clay,32,10,20100927,7,206346,,Q,Denise Starr,R,,USA,15.4,206240,,Q,Patricia Ku Flores,R,,PER,16.7,3-6 6-3 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2010-W-C10-USA-09A-2010,Amelia Island FL 10K,Clay,32,10,20100927,8,202414,,,Catherine Harrison,U,,USA,16.4,202405,6,,Alexis King,L,157,USA,27.4,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1081,3,705,26
+2010-W-C10-USA-09A-2010,Amelia Island FL 10K,Clay,32,10,20100927,8,202414,,,Catherine Harrison,R,,USA,16.4,202405,6,,Alexis King,L,157,USA,27.4,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1081,3,705,26
 2010-W-C10-USA-09A-2010,Amelia Island FL 10K,Clay,32,10,20100927,9,205823,,,Anna Mamalat,U,,USA,16.5,205922,8,,Chanelle Van Nguyen,U,,USA,16.6,3-6 7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,969,8,826,15
 2010-W-C10-USA-09A-2010,Amelia Island FL 10K,Clay,32,10,20100927,10,202697,,Q,Anne Liz Jeukeng,U,,USA,14.3,210841,,WC,Courtney Spafford,U,,USA,20.9,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2010-W-C10-USA-09A-2010,Amelia Island FL 10K,Clay,32,10,20100927,11,210842,,,Molly Okoniewski,U,,USA,17.1,210670,,Q,Paulina Bigos,U,,POL,23.5,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -8347,18 +8347,18 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C10-USA-09A-2010,Amelia Island FL 10K,Clay,32,10,20100927,17,201479,1,,Olga Puchkova,R,180,RUS,23.0,203501,,Q,Taylor Townsend,L,170,USA,14.4,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,357,117,,
 2010-W-C10-USA-09A-2010,Amelia Island FL 10K,Clay,32,10,20100927,18,203372,,,Gabrielle Desimone,R,,USA,17.5,210840,,WC,Kate Vialle,L,,USA,16.6,6-1 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2010-W-C10-USA-09A-2010,Amelia Island FL 10K,Clay,32,10,20100927,19,202924,3,,Anastasia Kharchenko,R,,UKR,20.7,210281,,,Olivia Janowicz,U,,USA,19.2,2-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,562,48,,
-2010-W-C10-USA-09A-2010,Amelia Island FL 10K,Clay,32,10,20100927,20,202414,,,Catherine Harrison,U,,USA,16.4,206346,,Q,Denise Starr,R,,USA,15.4,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1081,3,,
+2010-W-C10-USA-09A-2010,Amelia Island FL 10K,Clay,32,10,20100927,20,202414,,,Catherine Harrison,R,,USA,16.4,206346,,Q,Denise Starr,R,,USA,15.4,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1081,3,,
 2010-W-C10-USA-09A-2010,Amelia Island FL 10K,Clay,32,10,20100927,21,205823,,,Anna Mamalat,U,,USA,16.5,202697,,Q,Anne Liz Jeukeng,U,,USA,14.3,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,969,8,,
 2010-W-C10-USA-09A-2010,Amelia Island FL 10K,Clay,32,10,20100927,22,203360,,,Lauren Herring,R,170,USA,17.1,210842,,,Molly Okoniewski,U,,USA,17.1,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2010-W-C10-USA-09A-2010,Amelia Island FL 10K,Clay,32,10,20100927,23,201619,5,,Madison Keys,R,178,USA,15.6,210844,,Q,Alexandra M Haney,U,,USA,23.1,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,641,34,,
 2010-W-C10-USA-09A-2010,Amelia Island FL 10K,Clay,32,10,20100927,24,203483,,,Jan Abaza,U,,USA,15.5,209215,,WC,Dina Bajramovic,R,,USA,22.9,6-1 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2010-W-C10-USA-09A-2010,Amelia Island FL 10K,Clay,32,10,20100927,25,201479,1,,Olga Puchkova,R,180,RUS,23.0,203372,,,Gabrielle Desimone,R,,USA,17.5,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,357,117,,
-2010-W-C10-USA-09A-2010,Amelia Island FL 10K,Clay,32,10,20100927,26,202414,,,Catherine Harrison,U,,USA,16.4,202924,3,,Anastasia Kharchenko,R,,UKR,20.7,7-6(3) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,1081,3,562,48
+2010-W-C10-USA-09A-2010,Amelia Island FL 10K,Clay,32,10,20100927,26,202414,,,Catherine Harrison,R,,USA,16.4,202924,3,,Anastasia Kharchenko,R,,UKR,20.7,7-6(3) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,1081,3,562,48
 2010-W-C10-USA-09A-2010,Amelia Island FL 10K,Clay,32,10,20100927,27,203360,,,Lauren Herring,R,170,USA,17.1,205823,,,Anna Mamalat,U,,USA,16.5,7-6(5) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,969,8
 2010-W-C10-USA-09A-2010,Amelia Island FL 10K,Clay,32,10,20100927,28,201619,5,,Madison Keys,R,178,USA,15.6,203483,,,Jan Abaza,U,,USA,15.5,6-3 3-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,641,34,,
-2010-W-C10-USA-09A-2010,Amelia Island FL 10K,Clay,32,10,20100927,29,202414,,,Catherine Harrison,U,,USA,16.4,201479,1,,Olga Puchkova,R,180,RUS,23.0,4-6 6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,1081,3,357,117
+2010-W-C10-USA-09A-2010,Amelia Island FL 10K,Clay,32,10,20100927,29,202414,,,Catherine Harrison,R,,USA,16.4,201479,1,,Olga Puchkova,R,180,RUS,23.0,4-6 6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,1081,3,357,117
 2010-W-C10-USA-09A-2010,Amelia Island FL 10K,Clay,32,10,20100927,30,203360,,,Lauren Herring,R,170,USA,17.1,201619,5,,Madison Keys,R,178,USA,15.6,7-5 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,641,34
-2010-W-C10-USA-09A-2010,Amelia Island FL 10K,Clay,32,10,20100927,31,203360,,,Lauren Herring,R,170,USA,17.1,202414,,,Catherine Harrison,U,,USA,16.4,6-2 6-3,3,F,,,,,,,,,,,,,,,,,,,,,,1081,3
+2010-W-C10-USA-09A-2010,Amelia Island FL 10K,Clay,32,10,20100927,31,203360,,,Lauren Herring,R,170,USA,17.1,202414,,,Catherine Harrison,R,,USA,16.4,6-2 6-3,3,F,,,,,,,,,,,,,,,,,,,,,,1081,3
 2010-W-C10-USA-10A-2010,Williamsburg VA 10K,Clay,32,10,20101004,1,202377,1,,Brittany Augustine,R,,USA,19.0,204400,,,Natella Nabieva,R,,UZB,15.4,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,511,59,,
 2010-W-C10-USA-10A-2010,Williamsburg VA 10K,Clay,32,10,20101004,2,206262,,Q,Veronica M Corning,R,,USA,18.8,200744,,,Svetlana Krivencheva,R,180,BUL,36.7,2-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,835,15
 2010-W-C10-USA-10A-2010,Williamsburg VA 10K,Clay,32,10,20101004,3,210259,,Q,Amanda Rales,U,,USA,23.5,202630,,Q,Eleanor Peters,U,,USA,22.2,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1067,4
@@ -8454,7 +8454,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C25-AUS-01A-2010,Burnie 25K,Hard,32,25,20100201,13,201459,,,Zi Yan,R,171,CHN,25.2,202903,5,,Shannon Golds,R,165,AUS,23.3,4-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,362,102,227,227
 2010-W-C25-AUS-01A-2010,Burnie 25K,Hard,32,25,20100201,14,201693,,,Timea Babos,R,179,HUN,16.7,201536,,,Monika Wejnert,U,,AUS,17.8,7-5 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,545,49,384,93
 2010-W-C25-AUS-01A-2010,Burnie 25K,Hard,32,25,20100201,15,204216,,,Alenka Hubacek,R,,AUS,19.1,204272,,WC,Jade Hopper,R,,AUS,18.5,6-0 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,462,70,895,12
-2010-W-C25-AUS-01A-2010,Burnie 25K,Hard,32,25,20100201,16,201613,2,,Arina Rodionova,R,168,RUS,20.1,205753,,,Daniela Scivetti,R,,AUS,21.7,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,198,287,561,47
+2010-W-C25-AUS-01A-2010,Burnie 25K,Hard,32,25,20100201,16,201613,2,,Arina Rodionova,R,168,AUS,20.1,205753,,,Daniela Scivetti,R,,AUS,21.7,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,198,287,561,47
 2010-W-C25-AUS-01A-2010,Burnie 25K,Hard,32,25,20100201,17,201457,1,,Jarmila Gajdosova,R,174,AUS,22.7,201607,,,Sally Peers,R,162,AUS,18.6,4-6 7-6(3) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,125,501,302,136
 2010-W-C25-AUS-01A-2010,Burnie 25K,Hard,32,25,20100201,18,202539,,Q,Alison Bai,R,170,AUS,20.0,202454,6,,Erika Sema,R,163,JPN,21.1,2-6 7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,571,46,250,195
 2010-W-C25-AUS-01A-2010,Burnie 25K,Hard,32,25,20100201,19,202572,,,I Hsuan Hwang,R,,TPE,21.3,202574,,,Remi Tezuka,R,,JPN,29.6,7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,407,86,371,98
@@ -8462,14 +8462,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C25-AUS-01A-2010,Burnie 25K,Hard,32,25,20100201,21,201666,7,,Cagla Buyukakcay,R,172,TUR,20.3,203429,,Q,Tamara Curovic,R,,SRB,15.2,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,275,164,663,33
 2010-W-C25-AUS-01A-2010,Burnie 25K,Hard,32,25,20100201,22,201487,3,,Jessica Moore,R,167,AUS,19.4,201697,,,Kristyna Pliskova,L,184,CZE,17.8,6-3 4-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,299,140,471,67
 2010-W-C25-AUS-01A-2010,Burnie 25K,Hard,32,25,20100201,23,201459,,,Zi Yan,R,171,CHN,25.2,201693,,,Timea Babos,R,179,HUN,16.7,6-0 1-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,362,102,545,49
-2010-W-C25-AUS-01A-2010,Burnie 25K,Hard,32,25,20100201,24,201613,2,,Arina Rodionova,R,168,RUS,20.1,204216,,,Alenka Hubacek,R,,AUS,19.1,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,198,287,462,70
+2010-W-C25-AUS-01A-2010,Burnie 25K,Hard,32,25,20100201,24,201613,2,,Arina Rodionova,R,168,AUS,20.1,204216,,,Alenka Hubacek,R,,AUS,19.1,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,198,287,462,70
 2010-W-C25-AUS-01A-2010,Burnie 25K,Hard,32,25,20100201,25,201457,1,,Jarmila Gajdosova,R,174,AUS,22.7,202539,,Q,Alison Bai,R,170,AUS,20.0,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,125,501,571,46
 2010-W-C25-AUS-01A-2010,Burnie 25K,Hard,32,25,20100201,26,202638,8,,Chiaki Okadaue,U,,JPN,23.2,202572,,,I Hsuan Hwang,R,,TPE,21.3,5-7 6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,285,158,407,86
 2010-W-C25-AUS-01A-2010,Burnie 25K,Hard,32,25,20100201,27,201487,3,,Jessica Moore,R,167,AUS,19.4,201666,7,,Cagla Buyukakcay,R,172,TUR,20.3,6-1 4-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,299,140,275,164
-2010-W-C25-AUS-01A-2010,Burnie 25K,Hard,32,25,20100201,28,201613,2,,Arina Rodionova,R,168,RUS,20.1,201459,,,Zi Yan,R,171,CHN,25.2,4-6 6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,198,287,362,102
+2010-W-C25-AUS-01A-2010,Burnie 25K,Hard,32,25,20100201,28,201613,2,,Arina Rodionova,R,168,AUS,20.1,201459,,,Zi Yan,R,171,CHN,25.2,4-6 6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,198,287,362,102
 2010-W-C25-AUS-01A-2010,Burnie 25K,Hard,32,25,20100201,29,201457,1,,Jarmila Gajdosova,R,174,AUS,22.7,202638,8,,Chiaki Okadaue,U,,JPN,23.2,6-1 2-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,125,501,285,158
-2010-W-C25-AUS-01A-2010,Burnie 25K,Hard,32,25,20100201,30,201613,2,,Arina Rodionova,R,168,RUS,20.1,201487,3,,Jessica Moore,R,167,AUS,19.4,6-1 6-1,3,SF,,,,,,,,,,,,,,,,,,,,198,287,299,140
-2010-W-C25-AUS-01A-2010,Burnie 25K,Hard,32,25,20100201,31,201613,2,,Arina Rodionova,R,168,RUS,20.1,201457,1,,Jarmila Gajdosova,R,174,AUS,22.7,6-1 6-0,3,F,,,,,,,,,,,,,,,,,,,,198,287,125,501
+2010-W-C25-AUS-01A-2010,Burnie 25K,Hard,32,25,20100201,30,201613,2,,Arina Rodionova,R,168,AUS,20.1,201487,3,,Jessica Moore,R,167,AUS,19.4,6-1 6-1,3,SF,,,,,,,,,,,,,,,,,,,,198,287,299,140
+2010-W-C25-AUS-01A-2010,Burnie 25K,Hard,32,25,20100201,31,201613,2,,Arina Rodionova,R,168,AUS,20.1,201457,1,,Jarmila Gajdosova,R,174,AUS,22.7,6-1 6-0,3,F,,,,,,,,,,,,,,,,,,,,198,287,125,501
 2010-W-C25-AUS-02A-2010,Sydney 25K,Hard,32,25,20100301,1,201457,1,,Jarmila Gajdosova,R,174,AUS,22.8,204687,,LL,Lejla Husic,U,,BIH,28.3,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,119,516,1063,5
 2010-W-C25-AUS-02A-2010,Sydney 25K,Hard,32,25,20100301,2,202495,,,Jennifer Elie,R,,USA,23.4,201679,,Q,Varatchaya Wongteanchai,R,169,THA,20.4,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,361,102,402,86
 2010-W-C25-AUS-02A-2010,Sydney 25K,Hard,32,25,20100301,3,205905,,Q,Erin Liefeld,R,,AUS,21.9,201543,,Q,Emelyn Starr,R,,AUS,20.3,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,776,20,541,50
@@ -8568,7 +8568,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C25-AUS-05A-2010,Bundaberg 25K,Clay,32,25,20100503,3,205906,,WC,Karen Filippou,U,,AUS,19.7,205935,,Q,Stefani Stojic,R,,AUS,15.2,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2010-W-C25-AUS-05A-2010,Bundaberg 25K,Clay,32,25,20100503,4,201487,5,,Jessica Moore,R,167,AUS,19.7,205928,,WC,Harriet Sheahan,R,,AUS,17.8,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,269,177,,
 2010-W-C25-AUS-05A-2010,Bundaberg 25K,Clay,32,25,20100503,5,204298,,,Viktorija Rajicic,R,170,AUS,16.0,201476,3,,Lauren Albanese,R,,USA,20.5,6-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,634,35,183,293
-2010-W-C25-AUS-05A-2010,Bundaberg 25K,Clay,32,25,20100503,6,203339,,,Mari Inoue,R,,JPN,25.3,204411,,WC,Storm Sanders,L,166,AUS,15.7,3-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,571,44,,
+2010-W-C25-AUS-05A-2010,Bundaberg 25K,Clay,32,25,20100503,6,203339,,,Mari Inoue,R,,JPN,25.3,204411,,WC,Storm Hunter,L,166,AUS,15.7,3-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,571,44,,
 2010-W-C25-AUS-05A-2010,Bundaberg 25K,Clay,32,25,20100503,7,204272,,Q,Jade Hopper,R,,AUS,18.8,205772,,Q,Deeon Mladin,U,,AUS,18.9,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,821,16,,
 2010-W-C25-AUS-05A-2010,Bundaberg 25K,Clay,32,25,20100503,8,202863,6,,Natsumi Hamamura,R,,JPN,25.8,205671,,Q,Renee Binnie,U,,AUS,20.4,7-5 1-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,369,98,1026,6
 2010-W-C25-AUS-05A-2010,Bundaberg 25K,Clay,32,25,20100503,9,203526,,WC,Tammi Patterson,R,167,AUS,20.3,201536,7,,Monika Wejnert,U,,AUS,18.0,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,699,27,381,94
@@ -8604,7 +8604,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C25-AUS-06A-2010,Cairns 25K,Hard,32,25,20100906,8,202638,6,,Chiaki Okadaue,U,,JPN,23.8,205906,,Q,Karen Filippou,U,,AUS,20.1,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,274,184,784,18
 2010-W-C25-AUS-06A-2010,Cairns 25K,Hard,32,25,20100906,9,201469,5,,Melanie South,R,175,GBR,24.3,202459,,,Bojana Bobusic,R,170,AUS,22.9,3-6 6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,246,207,382,99
 2010-W-C25-AUS-06A-2010,Cairns 25K,Hard,32,25,20100906,10,203496,,WC,Sophie Letcher,R,165,AUS,17.7,203277,,,Sakiko Shimizu,U,155,JPN,25.9,6-3 5-7 6-0,3,R32,,,,,,,,,,,,,,,,,,,,528,53,411,85
-2010-W-C25-AUS-06A-2010,Cairns 25K,Hard,32,25,20100906,11,205943,,Q,Elodie Rogge Dietrich,U,,FRA,27.0,204411,,WC,Storm Sanders,L,166,AUS,16.0,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,547,51,,
+2010-W-C25-AUS-06A-2010,Cairns 25K,Hard,32,25,20100906,11,205943,,Q,Elodie Rogge Dietrich,U,,FRA,27.0,204411,,WC,Storm Hunter,L,166,AUS,16.0,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,547,51,,
 2010-W-C25-AUS-06A-2010,Cairns 25K,Hard,32,25,20100906,12,201542,4,,Olivia Rogowska,R,175,AUS,19.2,204272,,Q,Jade Hopper,R,,AUS,19.1,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,222,238,614,39
 2010-W-C25-AUS-06A-2010,Cairns 25K,Hard,32,25,20100906,13,201598,7,,Noppawan Lertcheewakarn,R,167,THA,18.8,202351,,WC,Shayna Mcdowell,R,,AUS,21.3,6-1 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,331,131,654,32
 2010-W-C25-AUS-06A-2010,Cairns 25K,Hard,32,25,20100906,14,201543,,Q,Emelyn Starr,R,,AUS,20.8,205752,,Q,Hayley Ericksen,R,,AUS,20.4,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,569,48,612,39
@@ -8687,7 +8687,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C25-AUS-08A-2010,Darwin 25K,Hard,32,25,20100913,29,201471,3,,Naomi Cavaday,L,170,GBR,21.3,201487,6,,Jessica Moore,R,167,AUS,20.0,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,220,242,246,200
 2010-W-C25-AUS-08A-2010,Darwin 25K,Hard,32,25,20100913,30,201542,4,,Olivia Rogowska,R,175,AUS,19.2,203526,,,Tammi Patterson,R,167,AUS,20.6,4-6 6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,223,235,450,70
 2010-W-C25-AUS-08A-2010,Darwin 25K,Hard,32,25,20100913,31,201542,4,,Olivia Rogowska,R,175,AUS,19.2,201471,3,,Naomi Cavaday,L,170,GBR,21.3,6-2 2-6 6-0,3,F,,,,,,,,,,,,,,,,,,,,223,235,220,242
-2010-W-C25-AUS-09A-2010,Port Pirie 25K,Hard,32,25,20101004,1,201613,1,,Arina Rodionova,R,168,RUS,20.8,201538,,,Isabella Holland,R,,AUS,18.7,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,187,308,495,62
+2010-W-C25-AUS-09A-2010,Port Pirie 25K,Hard,32,25,20101004,1,201613,1,,Arina Rodionova,R,168,AUS,20.8,201538,,,Isabella Holland,R,,AUS,18.7,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,187,308,495,62
 2010-W-C25-AUS-09A-2010,Port Pirie 25K,Hard,32,25,20101004,2,204216,,,Alenka Hubacek,R,,AUS,19.8,204412,,Q,Belinda Woolcock,R,173,AUS,15.6,7-5 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,619,37,,
 2010-W-C25-AUS-09A-2010,Port Pirie 25K,Hard,32,25,20101004,3,204413,,WC,Azra Hadzic,U,172,AUS,15.8,205615,,Q,Julia Moriarty,R,,IRL,21.8,6-2 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,810,17,682,30
 2010-W-C25-AUS-09A-2010,Port Pirie 25K,Hard,32,25,20101004,4,202902,7,,Marija Mirkovic,R,,AUS,20.6,206072,,Q,Nina Catovic,U,,AUS,16.3,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,367,108,,
@@ -8703,7 +8703,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C25-AUS-09A-2010,Port Pirie 25K,Hard,32,25,20101004,14,202539,,,Alison Bai,R,170,AUS,20.7,204272,,WC,Jade Hopper,R,,AUS,19.2,7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,441,73,584,44
 2010-W-C25-AUS-09A-2010,Port Pirie 25K,Hard,32,25,20101004,15,202449,,,Victoria Larriere,R,,FRA,19.4,205752,,LL,Hayley Ericksen,R,,AUS,20.4,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,399,93,612,39
 2010-W-C25-AUS-09A-2010,Port Pirie 25K,Hard,32,25,20101004,16,201471,2,,Naomi Cavaday,L,170,GBR,21.4,206074,,Q,Ebony Panoho,R,,AUS,15.6,7-6(7) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,208,270,,
-2010-W-C25-AUS-09A-2010,Port Pirie 25K,Hard,32,25,20101004,17,201613,1,,Arina Rodionova,R,168,RUS,20.8,204216,,,Alenka Hubacek,R,,AUS,19.8,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,187,308,619,37
+2010-W-C25-AUS-09A-2010,Port Pirie 25K,Hard,32,25,20101004,17,201613,1,,Arina Rodionova,R,168,AUS,20.8,204216,,,Alenka Hubacek,R,,AUS,19.8,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,187,308,619,37
 2010-W-C25-AUS-09A-2010,Port Pirie 25K,Hard,32,25,20101004,18,202902,7,,Marija Mirkovic,R,,AUS,20.6,204413,,WC,Azra Hadzic,U,172,AUS,15.8,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,367,108,810,17
 2010-W-C25-AUS-09A-2010,Port Pirie 25K,Hard,32,25,20101004,19,202454,,,Erika Sema,R,163,JPN,21.8,203293,,,Karolina Wlodarczak,R,178,AUS,23.2,5-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,383,99,473,65
 2010-W-C25-AUS-09A-2010,Port Pirie 25K,Hard,32,25,20101004,20,203496,,,Sophie Letcher,R,165,AUS,17.8,202342,,Q,Daniella Jeflea,R,,AUS,23.7,6-3 7-6(7),3,R16,,,,,,,,,,,,,,,,,,,,462,68,,
@@ -8711,14 +8711,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C25-AUS-09A-2010,Port Pirie 25K,Hard,32,25,20101004,22,201469,3,,Melanie South,R,175,GBR,24.4,205886,,WC,Kassandra Dunser,R,,AUS,15.4,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,259,198,,
 2010-W-C25-AUS-09A-2010,Port Pirie 25K,Hard,32,25,20101004,23,202574,5,,Remi Tezuka,R,,JPN,30.3,202539,,,Alison Bai,R,170,AUS,20.7,1-6 7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,302,154,441,73
 2010-W-C25-AUS-09A-2010,Port Pirie 25K,Hard,32,25,20101004,24,202449,,,Victoria Larriere,R,,FRA,19.4,201471,2,,Naomi Cavaday,L,170,GBR,21.4,3-6 7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,399,93,208,270
-2010-W-C25-AUS-09A-2010,Port Pirie 25K,Hard,32,25,20101004,25,202902,7,,Marija Mirkovic,R,,AUS,20.6,201613,1,,Arina Rodionova,R,168,RUS,20.8,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,367,108,187,308
+2010-W-C25-AUS-09A-2010,Port Pirie 25K,Hard,32,25,20101004,25,202902,7,,Marija Mirkovic,R,,AUS,20.6,201613,1,,Arina Rodionova,R,168,AUS,20.8,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,367,108,187,308
 2010-W-C25-AUS-09A-2010,Port Pirie 25K,Hard,32,25,20101004,26,202454,,,Erika Sema,R,163,JPN,21.8,203496,,,Sophie Letcher,R,165,AUS,17.8,5-7 7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,383,99,462,68
 2010-W-C25-AUS-09A-2010,Port Pirie 25K,Hard,32,25,20101004,27,201469,3,,Melanie South,R,175,GBR,24.4,201664,,,Pemra Ozgen,R,170,TUR,24.4,6-4 2-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,259,198,373,104
 2010-W-C25-AUS-09A-2010,Port Pirie 25K,Hard,32,25,20101004,28,202449,,,Victoria Larriere,R,,FRA,19.4,202574,5,,Remi Tezuka,R,,JPN,30.3,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,399,93,302,154
 2010-W-C25-AUS-09A-2010,Port Pirie 25K,Hard,32,25,20101004,29,202454,,,Erika Sema,R,163,JPN,21.8,202902,7,,Marija Mirkovic,R,,AUS,20.6,6-0 6-4,3,SF,,,,,,,,,,,,,,,,,,,,383,99,367,108
 2010-W-C25-AUS-09A-2010,Port Pirie 25K,Hard,32,25,20101004,30,202449,,,Victoria Larriere,R,,FRA,19.4,201469,3,,Melanie South,R,175,GBR,24.4,4-6 6-1 7-6(3),3,SF,,,,,,,,,,,,,,,,,,,,399,93,259,198
 2010-W-C25-AUS-09A-2010,Port Pirie 25K,Hard,32,25,20101004,31,202454,,,Erika Sema,R,163,JPN,21.8,202449,,,Victoria Larriere,R,,FRA,19.4,6-1 4-6 6-3,3,F,,,,,,,,,,,,,,,,,,,,383,99,399,93
-2010-W-C25-AUS-10A-2010,Mount Gambier 25K,Hard,32,25,20101011,1,201613,1,,Arina Rodionova,R,168,RUS,20.8,206093,,Q,Brooke Taylor,R,,AUS,16.7,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,184,308,,
+2010-W-C25-AUS-10A-2010,Mount Gambier 25K,Hard,32,25,20101011,1,201613,1,,Arina Rodionova,R,168,AUS,20.8,206093,,Q,Brooke Taylor,R,,AUS,16.7,6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,184,308,,
 2010-W-C25-AUS-10A-2010,Mount Gambier 25K,Hard,32,25,20101011,2,202458,,WC,Ashleigh Barty,R,166,AUS,14.4,202339,,,Ayu Fani Damayanti,R,162,INA,21.8,6-7(3) 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,482,65
 2010-W-C25-AUS-10A-2010,Mount Gambier 25K,Hard,32,25,20101011,3,203496,,,Sophie Letcher,R,165,AUS,17.8,201543,,Q,Emelyn Starr,R,,AUS,20.9,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,472,68,522,56
 2010-W-C25-AUS-10A-2010,Mount Gambier 25K,Hard,32,25,20101011,4,202574,6,,Remi Tezuka,R,,JPN,30.3,202539,,,Alison Bai,R,170,AUS,20.7,3-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,309,151,448,73
@@ -8734,7 +8734,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C25-AUS-10A-2010,Mount Gambier 25K,Hard,32,25,20101011,14,204216,,LL,Alenka Hubacek,R,,AUS,19.8,205753,,,Daniela Scivetti,R,,AUS,22.4,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,622,37,537,53
 2010-W-C25-AUS-10A-2010,Mount Gambier 25K,Hard,32,25,20101011,15,202454,,,Erika Sema,R,163,JPN,21.8,202459,,,Bojana Bobusic,R,170,AUS,23.0,3-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,337,132,453,72
 2010-W-C25-AUS-10A-2010,Mount Gambier 25K,Hard,32,25,20101011,16,202645,,,Jessy Rompies,R,160,INA,20.4,201542,2,,Olivia Rogowska,R,175,AUS,19.3,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,447,73,190,295
-2010-W-C25-AUS-10A-2010,Mount Gambier 25K,Hard,32,25,20101011,17,202458,,WC,Ashleigh Barty,R,166,AUS,14.4,201613,1,,Arina Rodionova,R,168,RUS,20.8,0-6 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,184,308
+2010-W-C25-AUS-10A-2010,Mount Gambier 25K,Hard,32,25,20101011,17,202458,,WC,Ashleigh Barty,R,166,AUS,14.4,201613,1,,Arina Rodionova,R,168,AUS,20.8,0-6 6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,184,308
 2010-W-C25-AUS-10A-2010,Mount Gambier 25K,Hard,32,25,20101011,18,203496,,,Sophie Letcher,R,165,AUS,17.8,202574,6,,Remi Tezuka,R,,JPN,30.3,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,472,68,309,151
 2010-W-C25-AUS-10A-2010,Mount Gambier 25K,Hard,32,25,20101011,19,202646,4,,Ana Clara Duarte,R,163,BRA,21.3,202342,,WC,Daniella Jeflea,R,,AUS,23.7,3-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,255,206,,
 2010-W-C25-AUS-10A-2010,Mount Gambier 25K,Hard,32,25,20101011,20,201664,,,Pemra Ozgen,R,170,TUR,24.4,203293,,,Karolina Wlodarczak,R,178,AUS,23.2,3-6 5-4 RET,3,R16,,,,,,,,,,,,,,,,,,,,394,97,478,65
@@ -8749,10 +8749,10 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C25-AUS-10A-2010,Mount Gambier 25K,Hard,32,25,20101011,29,202646,4,,Ana Clara Duarte,R,163,BRA,21.3,202458,,WC,Ashleigh Barty,R,166,AUS,14.4,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,255,206,,
 2010-W-C25-AUS-10A-2010,Mount Gambier 25K,Hard,32,25,20101011,30,202454,,,Erika Sema,R,163,JPN,21.8,204272,,Q,Jade Hopper,R,,AUS,19.2,6-1 6-0,3,SF,,,,,,,,,,,,,,,,,,,,337,132,586,44
 2010-W-C25-AUS-10A-2010,Mount Gambier 25K,Hard,32,25,20101011,31,202454,,,Erika Sema,R,163,JPN,21.8,202646,4,,Ana Clara Duarte,R,163,BRA,21.3,6-2 6-3,3,F,,,,,,,,,,,,,,,,,,,,337,132,255,206
-2010-W-C25-AUS-11A-2010,Kalgoorlie 25K,Hard,32,25,20101101,1,202498,,,Julia Glushko,R,171,ISR,20.8,201613,1,,Arina Rodionova,R,168,RUS,20.8,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,327,135,180,320
+2010-W-C25-AUS-11A-2010,Kalgoorlie 25K,Hard,32,25,20101101,1,202498,,,Julia Glushko,R,171,ISR,20.8,201613,1,,Arina Rodionova,R,168,AUS,20.8,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,327,135,180,320
 2010-W-C25-AUS-11A-2010,Kalgoorlie 25K,Hard,32,25,20101101,2,201530,,,Gail Brodsky,R,165,USA,19.4,202902,,,Marija Mirkovic,R,,AUS,20.6,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,400,93,361,118
 2010-W-C25-AUS-11A-2010,Kalgoorlie 25K,Hard,32,25,20101101,3,204299,,Q,Ashling Sumner,R,,AUS,17.8,201536,,,Monika Wejnert,U,,AUS,18.5,6-4 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,668,31,458,70
-2010-W-C25-AUS-11A-2010,Kalgoorlie 25K,Hard,32,25,20101101,4,201469,6,,Melanie South,R,175,GBR,24.4,204411,,WC,Storm Sanders,L,166,AUS,16.2,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,280,181,,
+2010-W-C25-AUS-11A-2010,Kalgoorlie 25K,Hard,32,25,20101101,4,201469,6,,Melanie South,R,175,GBR,24.4,204411,,WC,Storm Hunter,L,166,AUS,16.2,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,280,181,,
 2010-W-C25-AUS-11A-2010,Kalgoorlie 25K,Hard,32,25,20101101,5,201593,4,,Irina Camelia Begu,R,181,ROU,20.1,205615,,Q,Julia Moriarty,R,,IRL,21.9,6-3 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,205,276,762,22
 2010-W-C25-AUS-11A-2010,Kalgoorlie 25K,Hard,32,25,20101101,6,202342,,Q,Daniella Jeflea,R,,AUS,23.8,202651,,,Lisa Whybourn,R,,GBR,19.4,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,653,33,328,133
 2010-W-C25-AUS-11A-2010,Kalgoorlie 25K,Hard,32,25,20101101,7,202596,,,Mihaela Buzarnescu,L,175,ROU,22.4,206097,,Q,Erin Billett,R,,AUS,21.8,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,401,93,,
@@ -8791,7 +8791,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C25-AUS-12A-2010,Esperance 25K,Hard,32,25,20101108,9,201593,6,,Irina Camelia Begu,R,181,ROU,20.2,201538,,SE,Isabella Holland,R,,AUS,18.8,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,214,276,564,48
 2010-W-C25-AUS-12A-2010,Esperance 25K,Hard,32,25,20101108,10,202651,,Q,Lisa Whybourn,R,,GBR,19.4,202575,,,Kumiko Iijima,R,162,JPN,28.0,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,333,133,262,205
 2010-W-C25-AUS-12A-2010,Esperance 25K,Hard,32,25,20101108,11,201678,,,Sacha Jones,R,,AUS,20.0,204216,,Q,Alenka Hubacek,R,,AUS,19.9,4-6 6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,269,195,583,44
-2010-W-C25-AUS-12A-2010,Esperance 25K,Hard,32,25,20101108,12,201613,3,,Arina Rodionova,R,168,RUS,20.8,202495,,Q,Jennifer Elie,R,,USA,24.1,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,185,320,334,132
+2010-W-C25-AUS-12A-2010,Esperance 25K,Hard,32,25,20101108,12,201613,3,,Arina Rodionova,R,168,AUS,20.8,202495,,Q,Jennifer Elie,R,,USA,24.1,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,185,320,334,132
 2010-W-C25-AUS-12A-2010,Esperance 25K,Hard,32,25,20101108,13,202594,7,,Elena Bogdan,L,183,ROU,18.6,201487,,,Jessica Moore,R,167,AUS,20.2,7-6(3) 5-7 6-0,3,R32,,,,,,,,,,,,,,,,,,,,201,290,250,220
 2010-W-C25-AUS-12A-2010,Esperance 25K,Hard,32,25,20101108,14,201469,,,Melanie South,R,175,GBR,24.5,202498,,SE,Julia Glushko,R,171,ISR,20.8,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,292,170,331,135
 2010-W-C25-AUS-12A-2010,Esperance 25K,Hard,32,25,20101108,15,203496,,WC,Sophie Letcher,R,165,AUS,17.9,204299,,WC,Ashling Sumner,R,,AUS,17.8,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,401,96,674,31
@@ -8801,7 +8801,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C25-AUS-12A-2010,Esperance 25K,Hard,32,25,20101108,19,201666,4,,Cagla Buyukakcay,R,172,TUR,21.1,201683,,,Bianca Botto,L,178,PER,19.4,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,192,302,275,184
 2010-W-C25-AUS-12A-2010,Esperance 25K,Hard,32,25,20101108,20,202921,,,Shiho Akita,R,155,JPN,20.8,202596,,Q,Mihaela Buzarnescu,L,175,ROU,22.5,6-2 3-6 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,281,181,407,93
 2010-W-C25-AUS-12A-2010,Esperance 25K,Hard,32,25,20101108,21,201593,6,,Irina Camelia Begu,R,181,ROU,20.2,202651,,Q,Lisa Whybourn,R,,GBR,19.4,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,214,276,333,133
-2010-W-C25-AUS-12A-2010,Esperance 25K,Hard,32,25,20101108,22,201678,,,Sacha Jones,R,,AUS,20.0,201613,3,,Arina Rodionova,R,168,RUS,20.8,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,269,195,185,320
+2010-W-C25-AUS-12A-2010,Esperance 25K,Hard,32,25,20101108,22,201678,,,Sacha Jones,R,,AUS,20.0,201613,3,,Arina Rodionova,R,168,AUS,20.8,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,269,195,185,320
 2010-W-C25-AUS-12A-2010,Esperance 25K,Hard,32,25,20101108,23,201469,,,Melanie South,R,175,GBR,24.5,202594,7,,Elena Bogdan,L,183,ROU,18.6,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,292,170,201,290
 2010-W-C25-AUS-12A-2010,Esperance 25K,Hard,32,25,20101108,24,203496,,WC,Sophie Letcher,R,165,AUS,17.9,201612,2,,Junri Namigata,R,170,JPN,28.3,1-6 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,401,96,129,537
 2010-W-C25-AUS-12A-2010,Esperance 25K,Hard,32,25,20101108,25,202666,,Q,Nicola Geuer,R,167,GER,22.6,202357,,,Madalina Gojnea,R,,ROU,23.2,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,353,124,215,271
@@ -8815,7 +8815,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C25-AUS-13A-2010,Traralgon 25K,Hard,32,25,20101122,2,202467,,,Elitsa Kostova,R,172,BUL,20.6,203431,,Q,Keren Shlomo,R,167,ISR,22.8,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,258,208,528,56
 2010-W-C25-AUS-13A-2010,Traralgon 25K,Hard,32,25,20101122,3,203526,,,Tammi Patterson,R,167,AUS,20.8,204412,,WC,Belinda Woolcock,R,173,AUS,15.8,6-7(1) 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,342,126,,
 2010-W-C25-AUS-13A-2010,Traralgon 25K,Hard,32,25,20101122,4,201693,,JE,Timea Babos,R,179,HUN,17.5,202454,8,,Erika Sema,R,163,JPN,21.9,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,346,124,241,230
-2010-W-C25-AUS-13A-2010,Traralgon 25K,Hard,32,25,20101122,5,202498,,,Julia Glushko,R,171,ISR,20.8,201613,4,,Arina Rodionova,R,168,RUS,20.9,4-6 7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,282,177,186,318
+2010-W-C25-AUS-13A-2010,Traralgon 25K,Hard,32,25,20101122,5,202498,,,Julia Glushko,R,171,ISR,20.8,201613,4,,Arina Rodionova,R,168,AUS,20.9,4-6 7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,282,177,186,318
 2010-W-C25-AUS-13A-2010,Traralgon 25K,Hard,32,25,20101122,6,203496,,,Sophie Letcher,R,165,AUS,17.9,202651,,,Lisa Whybourn,R,,GBR,19.5,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,351,121,325,141
 2010-W-C25-AUS-13A-2010,Traralgon 25K,Hard,32,25,20101122,7,204298,,Q,Viktorija Rajicic,R,170,AUS,16.6,202495,,,Jennifer Elie,R,,USA,24.1,6-2 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,541,53,331,133
 2010-W-C25-AUS-13A-2010,Traralgon 25K,Hard,32,25,20101122,8,202408,,Q,Amanda Fink,U,,USA,23.9,201487,7,,Jessica Moore,R,167,AUS,20.2,7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,477,69,236,236
@@ -8846,7 +8846,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C25-AUS-14A-2010,Bendigo 25K,Hard,32,25,20101129,2,201693,,,Timea Babos,R,179,HUN,17.5,201538,,WC,Isabella Holland,R,,AUS,18.9,6-7(4) 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,332,132,401,96
 2010-W-C25-AUS-14A-2010,Bendigo 25K,Hard,32,25,20101129,3,201469,,,Melanie South,R,175,GBR,24.5,204356,,Q,Emily Fanning,U,,NZL,15.4,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,263,203,,
 2010-W-C25-AUS-14A-2010,Bendigo 25K,Hard,32,25,20101129,4,202454,8,,Erika Sema,R,163,JPN,22.0,203496,,WC,Sophie Letcher,R,165,AUS,17.9,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,215,279,354,121
-2010-W-C25-AUS-14A-2010,Bendigo 25K,Hard,32,25,20101129,5,202651,,,Lisa Whybourn,R,,GBR,19.5,201613,3,,Arina Rodionova,R,168,RUS,20.9,6-1 4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,323,141,185,326
+2010-W-C25-AUS-14A-2010,Bendigo 25K,Hard,32,25,20101129,5,202651,,,Lisa Whybourn,R,,GBR,19.5,201613,3,,Arina Rodionova,R,168,AUS,20.9,6-1 4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,323,141,185,326
 2010-W-C25-AUS-14A-2010,Bendigo 25K,Hard,32,25,20101129,6,202465,,Q,Maria Abramovic,R,,CRO,23.2,206081,,Q,Caitlin Whoriskey,R,,USA,22.7,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,699,30,705,29
 2010-W-C25-AUS-14A-2010,Bendigo 25K,Hard,32,25,20101129,7,203526,,,Tammi Patterson,R,167,AUS,20.9,204216,,WC,Alenka Hubacek,R,,AUS,20.0,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,331,133,575,45
 2010-W-C25-AUS-14A-2010,Bendigo 25K,Hard,32,25,20101129,8,202666,,,Nicola Geuer,R,167,GER,22.7,201632,5,,Ryoko Fuda,R,,JPN,24.0,4-6 7-5 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,299,159,210,286
@@ -11388,7 +11388,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C25-NZL-01A-2010,Wellington 25K,Hard,32,25,20101115,2,202666,,,Nicola Geuer,R,167,GER,22.7,202902,,,Marija Mirkovic,R,,AUS,20.7,4-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,336,131,357,118
 2010-W-C25-NZL-01A-2010,Wellington 25K,Hard,32,25,20101115,3,201538,,Q,Isabella Holland,R,,AUS,18.8,202386,,,Sung Hee Han,R,,KOR,20.0,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,430,82,386,106
 2010-W-C25-NZL-01A-2010,Wellington 25K,Hard,32,25,20101115,4,203526,,,Tammi Patterson,R,167,AUS,20.8,201678,8,,Sacha Jones,R,,AUS,20.0,6-4 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,346,126,354,119
-2010-W-C25-NZL-01A-2010,Wellington 25K,Hard,32,25,20101115,5,201613,3,,Arina Rodionova,R,168,RUS,20.9,202921,,,Shiho Akita,R,155,JPN,20.8,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,185,320,279,181
+2010-W-C25-NZL-01A-2010,Wellington 25K,Hard,32,25,20101115,5,201613,3,,Arina Rodionova,R,168,AUS,20.9,202921,,,Shiho Akita,R,155,JPN,20.8,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,185,320,279,181
 2010-W-C25-NZL-01A-2010,Wellington 25K,Hard,32,25,20101115,6,205723,,Q,Anna Zaja,R,183,GER,19.3,202451,,Q,Nicole Rottmann,U,,AUT,21.3,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,557,50,506,62
 2010-W-C25-NZL-01A-2010,Wellington 25K,Hard,32,25,20101115,7,201683,,,Bianca Botto,L,178,PER,19.4,201530,,,Gail Brodsky,R,165,USA,19.4,2-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,273,184,377,109
 2010-W-C25-NZL-01A-2010,Wellington 25K,Hard,32,25,20101115,8,202467,6,,Elitsa Kostova,R,172,BUL,20.5,204354,,WC,Leela Beattie,U,,NZL,16.7,6-4 6-7(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,254,216,,
@@ -11402,14 +11402,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C25-NZL-01A-2010,Wellington 25K,Hard,32,25,20101115,16,201536,,Q,Monika Wejnert,U,,AUS,18.6,201607,2,,Sally Peers,R,162,AUS,19.4,2-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,475,70,155,385
 2010-W-C25-NZL-01A-2010,Wellington 25K,Hard,32,25,20101115,17,201457,1,,Jarmila Gajdosova,R,174,AUS,23.5,202666,,,Nicola Geuer,R,167,GER,22.7,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,42,1473,336,131
 2010-W-C25-NZL-01A-2010,Wellington 25K,Hard,32,25,20101115,18,201538,,Q,Isabella Holland,R,,AUS,18.8,203526,,,Tammi Patterson,R,167,AUS,20.8,5-7 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,430,82,346,126
-2010-W-C25-NZL-01A-2010,Wellington 25K,Hard,32,25,20101115,19,201613,3,,Arina Rodionova,R,168,RUS,20.9,205723,,Q,Anna Zaja,R,183,GER,19.3,2-6 6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,185,320,557,50
+2010-W-C25-NZL-01A-2010,Wellington 25K,Hard,32,25,20101115,19,201613,3,,Arina Rodionova,R,168,AUS,20.9,205723,,Q,Anna Zaja,R,183,GER,19.3,2-6 6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,185,320,557,50
 2010-W-C25-NZL-01A-2010,Wellington 25K,Hard,32,25,20101115,20,202467,6,,Elitsa Kostova,R,172,BUL,20.5,201683,,,Bianca Botto,L,178,PER,19.4,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,254,216,273,184
 2010-W-C25-NZL-01A-2010,Wellington 25K,Hard,32,25,20101115,21,202454,5,,Erika Sema,R,163,JPN,21.9,201693,,,Timea Babos,R,179,HUN,17.5,4-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,241,230,334,132
 2010-W-C25-NZL-01A-2010,Wellington 25K,Hard,32,25,20101115,22,201706,4,,Eirini Georgatou,R,,GRE,20.7,201469,,,Melanie South,R,175,GBR,24.5,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,227,253,274,183
 2010-W-C25-NZL-01A-2010,Wellington 25K,Hard,32,25,20101115,23,202575,7,,Kumiko Iijima,R,162,JPN,28.0,204355,,WC,Katherine Westbury,R,177,THA,17.6,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,261,205,744,24
 2010-W-C25-NZL-01A-2010,Wellington 25K,Hard,32,25,20101115,24,201536,,Q,Monika Wejnert,U,,AUS,18.6,204272,,Q,Jade Hopper,R,,AUS,19.3,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,475,70,485,68
 2010-W-C25-NZL-01A-2010,Wellington 25K,Hard,32,25,20101115,25,201457,1,,Jarmila Gajdosova,R,174,AUS,23.5,201538,,Q,Isabella Holland,R,,AUS,18.8,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,42,1473,430,82
-2010-W-C25-NZL-01A-2010,Wellington 25K,Hard,32,25,20101115,26,202467,6,,Elitsa Kostova,R,172,BUL,20.5,201613,3,,Arina Rodionova,R,168,RUS,20.9,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,254,216,185,320
+2010-W-C25-NZL-01A-2010,Wellington 25K,Hard,32,25,20101115,26,202467,6,,Elitsa Kostova,R,172,BUL,20.5,201613,3,,Arina Rodionova,R,168,AUS,20.9,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,254,216,185,320
 2010-W-C25-NZL-01A-2010,Wellington 25K,Hard,32,25,20101115,27,202454,5,,Erika Sema,R,163,JPN,21.9,201706,4,,Eirini Georgatou,R,,GRE,20.7,7-6(5) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,241,230,227,253
 2010-W-C25-NZL-01A-2010,Wellington 25K,Hard,32,25,20101115,28,202575,7,,Kumiko Iijima,R,162,JPN,28.0,201536,,Q,Monika Wejnert,U,,AUS,18.6,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,261,205,475,70
 2010-W-C25-NZL-01A-2010,Wellington 25K,Hard,32,25,20101115,29,202467,6,,Elitsa Kostova,R,172,BUL,20.5,201457,1,,Jarmila Gajdosova,R,174,AUS,23.5,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,254,216,42,1473
@@ -11674,7 +11674,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C25-RUS-03A-2010,Moscow 25K,Clay,32,25,20100802,9,202620,5,,Yuliya Kalabina,R,,RUS,20.3,203438,,,Karina Pimkina,R,,RUS,19.3,7-6(2) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,343,126,497,60
 2010-W-C25-RUS-03A-2010,Moscow 25K,Clay,32,25,20100802,10,202667,,Q,Natela Dzalamidze,R,,RUS,17.4,205681,,Q,Karina Isayan,R,,RUS,18.4,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,918,10,885,12
 2010-W-C25-RUS-03A-2010,Moscow 25K,Clay,32,25,20100802,11,203492,,,Alyona Sotnikova,R,170,UKR,18.2,205805,,WC,Karolina Chernaya,R,,UZB,17.5,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,515,56,,
-2010-W-C25-RUS-03A-2010,Moscow 25K,Clay,32,25,20100802,12,201613,3,,Arina Rodionova,R,168,RUS,20.6,202872,,,Varvara Galanina,R,,RUS,24.2,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,188,296,781,17
+2010-W-C25-RUS-03A-2010,Moscow 25K,Clay,32,25,20100802,12,201613,3,,Arina Rodionova,R,168,AUS,20.6,202872,,,Varvara Galanina,R,,RUS,24.2,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,188,296,781,17
 2010-W-C25-RUS-03A-2010,Moscow 25K,Clay,32,25,20100802,13,203573,,WC,Ekaterina Semenova,U,,RUS,16.4,202902,6,,Marija Mirkovic,R,,AUS,20.4,7-6(5) 2-6 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,,,369,101
 2010-W-C25-RUS-03A-2010,Moscow 25K,Clay,32,25,20100802,14,204297,,Q,Anna Arina Marenko,R,170,RUS,18.5,202850,,WC,Ekaterina Dranets,R,,RUS,23.0,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,595,40,882,12
 2010-W-C25-RUS-03A-2010,Moscow 25K,Clay,32,25,20100802,15,203437,,,Anastasia Mukhametova,R,,RUS,18.1,202672,,Q,Ekaterina Yashina,R,173,RUS,16.9,6-4 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,610,38,,
@@ -11684,12 +11684,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C25-RUS-03A-2010,Moscow 25K,Clay,32,25,20100802,19,201544,4,,Oxana Lyubtsova,R,157,UKR,24.8,203319,,,Viktoria Yemialyanava,U,,BLR,19.0,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,277,176,642,34
 2010-W-C25-RUS-03A-2010,Moscow 25K,Clay,32,25,20100802,20,203450,8,,Yana Koroleva,R,,RUS,17.6,203410,,,Anna Livadaru,U,,GER,17.6,6-4 2-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,448,71,636,34
 2010-W-C25-RUS-03A-2010,Moscow 25K,Clay,32,25,20100802,21,202620,5,,Yuliya Kalabina,R,,RUS,20.3,202667,,Q,Natela Dzalamidze,R,,RUS,17.4,3-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,343,126,918,10
-2010-W-C25-RUS-03A-2010,Moscow 25K,Clay,32,25,20100802,22,201613,3,,Arina Rodionova,R,168,RUS,20.6,203492,,,Alyona Sotnikova,R,170,UKR,18.2,6-2 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,188,296,515,56
+2010-W-C25-RUS-03A-2010,Moscow 25K,Clay,32,25,20100802,22,201613,3,,Arina Rodionova,R,168,AUS,20.6,203492,,,Alyona Sotnikova,R,170,UKR,18.2,6-2 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,188,296,515,56
 2010-W-C25-RUS-03A-2010,Moscow 25K,Clay,32,25,20100802,23,204297,,Q,Anna Arina Marenko,R,170,RUS,18.5,203573,,WC,Ekaterina Semenova,U,,RUS,16.4,7-6(3) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,595,40,,
 2010-W-C25-RUS-03A-2010,Moscow 25K,Clay,32,25,20100802,24,201563,2,,Darya Kustova,U,,BLR,24.1,203437,,,Anastasia Mukhametova,R,,RUS,18.1,6-4 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,159,382,610,38
 2010-W-C25-RUS-03A-2010,Moscow 25K,Clay,32,25,20100802,25,201438,1,,Ekaterina Bychkova,R,171,RUS,25.1,202445,,,Valeria Solovieva,R,168,RUS,17.7,7-6(6) 4-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,151,406,590,42
 2010-W-C25-RUS-03A-2010,Moscow 25K,Clay,32,25,20100802,26,203450,8,,Yana Koroleva,R,,RUS,17.6,201544,4,,Oxana Lyubtsova,R,157,UKR,24.8,3-6 6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,448,71,277,176
-2010-W-C25-RUS-03A-2010,Moscow 25K,Clay,32,25,20100802,27,202620,5,,Yuliya Kalabina,R,,RUS,20.3,201613,3,,Arina Rodionova,R,168,RUS,20.6,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,343,126,188,296
+2010-W-C25-RUS-03A-2010,Moscow 25K,Clay,32,25,20100802,27,202620,5,,Yuliya Kalabina,R,,RUS,20.3,201613,3,,Arina Rodionova,R,168,AUS,20.6,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,343,126,188,296
 2010-W-C25-RUS-03A-2010,Moscow 25K,Clay,32,25,20100802,28,201563,2,,Darya Kustova,U,,BLR,24.1,204297,,Q,Anna Arina Marenko,R,170,RUS,18.5,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,159,382,595,40
 2010-W-C25-RUS-03A-2010,Moscow 25K,Clay,32,25,20100802,29,201438,1,,Ekaterina Bychkova,R,171,RUS,25.1,203450,8,,Yana Koroleva,R,,RUS,17.6,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,151,406,448,71
 2010-W-C25-RUS-03A-2010,Moscow 25K,Clay,32,25,20100802,30,201563,2,,Darya Kustova,U,,BLR,24.1,202620,5,,Yuliya Kalabina,R,,RUS,20.3,6-3 6-7(2) 7-5,3,SF,,,,,,,,,,,,,,,,,,,,159,382,343,126
@@ -12262,7 +12262,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C25-USA-05A-2010,Clearwater FL 25K,Hard,32,25,20100308,8,201582,,Q,Jing Jing Lu,R,170,CHN,20.8,201376,8,,Angela Haynes,L,173,USA,25.4,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,232,221,158,362
 2010-W-C25-USA-05A-2010,Clearwater FL 25K,Hard,32,25,20100308,9,201600,,SE,Jamie Hampton,R,173,USA,20.1,201655,7,,Anna Floris,L,,ITA,27.8,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,486,62,155,370
 2010-W-C25-USA-05A-2010,Clearwater FL 25K,Hard,32,25,20100308,10,201580,,,Xinyun Han,L,172,CHN,19.7,202617,,WC,Ester Goldfeld,R,,USA,16.6,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,171,338,591,43
-2010-W-C25-USA-05A-2010,Clearwater FL 25K,Hard,32,25,20100308,11,201613,,,Arina Rodionova,R,168,RUS,20.2,201557,,,Corinna Dentoni,R,,ITA,20.6,1-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,173,333,180,320
+2010-W-C25-USA-05A-2010,Clearwater FL 25K,Hard,32,25,20100308,11,201613,,,Arina Rodionova,R,168,AUS,20.2,201557,,,Corinna Dentoni,R,,ITA,20.6,1-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,173,333,180,320
 2010-W-C25-USA-05A-2010,Clearwater FL 25K,Hard,32,25,20100308,12,201533,4,,Shuai Zhang,R,177,CHN,21.1,201648,,Q,Naomi Broady,R,189,GBR,20.0,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,146,401,296,145
 2010-W-C25-USA-05A-2010,Clearwater FL 25K,Hard,32,25,20100308,13,201598,,Q,Noppawan Lertcheewakarn,R,167,THA,18.3,201410,5,,Monique Adamczak,R,170,AUS,27.1,6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,340,114,149,392
 2010-W-C25-USA-05A-2010,Clearwater FL 25K,Hard,32,25,20100308,14,201569,,Q,Georgie Gent,R,165,GBR,22.1,201510,,WC,Julie Ditty,L,168,USA,31.1,6-2 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,273,170,397,89
@@ -12273,7 +12273,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C25-USA-05A-2010,Clearwater FL 25K,Hard,32,25,20100308,19,201638,,Q,Estrella Cabeza Candela,R,173,ESP,23.0,201402,3,,Sesil Karatantcheva,R,171,KAZ,20.5,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,233,220,141,421
 2010-W-C25-USA-05A-2010,Clearwater FL 25K,Hard,32,25,20100308,20,201582,,Q,Jing Jing Lu,R,170,CHN,20.8,201534,,Q,Asia Muhammad,R,178,USA,18.9,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,232,221,383,94
 2010-W-C25-USA-05A-2010,Clearwater FL 25K,Hard,32,25,20100308,21,201580,,,Xinyun Han,L,172,CHN,19.7,201600,,SE,Jamie Hampton,R,173,USA,20.1,5-7 7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,171,338,486,62
-2010-W-C25-USA-05A-2010,Clearwater FL 25K,Hard,32,25,20100308,22,201533,4,,Shuai Zhang,R,177,CHN,21.1,201613,,,Arina Rodionova,R,168,RUS,20.2,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,146,401,173,333
+2010-W-C25-USA-05A-2010,Clearwater FL 25K,Hard,32,25,20100308,22,201533,4,,Shuai Zhang,R,177,CHN,21.1,201613,,,Arina Rodionova,R,168,AUS,20.2,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,146,401,173,333
 2010-W-C25-USA-05A-2010,Clearwater FL 25K,Hard,32,25,20100308,23,201569,,Q,Georgie Gent,R,165,GBR,22.1,201598,,Q,Noppawan Lertcheewakarn,R,167,THA,18.3,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,273,170,340,114
 2010-W-C25-USA-05A-2010,Clearwater FL 25K,Hard,32,25,20100308,24,201388,,,Sophie Ferguson,R,177,AUS,23.9,202598,,Q,Natalie Piquion,R,,FRA,21.4,6-7(2) 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,159,361,280,165
 2010-W-C25-USA-05A-2010,Clearwater FL 25K,Hard,32,25,20100308,25,201596,1,,Johanna Larsson,R,174,SWE,21.5,201609,,,Yi Miao Zhou,R,,CHN,19.0,4-6 6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,132,457,202,278
@@ -12287,7 +12287,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C25-USA-06A-2010,Fort Walton Beach FL 25K,Hard,32,25,20100315,2,201588,,,Anna Tatishvili,R,171,GEO,20.1,201550,,WC,Tamaryn Hendler,L,,BEL,17.5,6-1 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,168,342,550,48
 2010-W-C25-USA-06A-2010,Fort Walton Beach FL 25K,Hard,32,25,20100315,3,201603,,Q,Shelby Rogers,R,175,USA,17.4,201815,,Q,Petra Rampre,R,170,SLO,30.1,6-2 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,925,11,389,94
 2010-W-C25-USA-06A-2010,Fort Walton Beach FL 25K,Hard,32,25,20100315,4,201412,5,,Anastasia Yakimova,R,165,BLR,23.3,202614,,Q,Jacqueline Cako,R,178,USA,18.5,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,117,521,497,61
-2010-W-C25-USA-06A-2010,Fort Walton Beach FL 25K,Hard,32,25,20100315,5,201477,3,,Stephanie Dubois,R,162,CAN,23.3,201613,,,Arina Rodionova,R,168,RUS,20.2,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,112,544,173,333
+2010-W-C25-USA-06A-2010,Fort Walton Beach FL 25K,Hard,32,25,20100315,5,201477,3,,Stephanie Dubois,R,162,CAN,23.3,201613,,,Arina Rodionova,R,168,AUS,20.2,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,112,544,173,333
 2010-W-C25-USA-06A-2010,Fort Walton Beach FL 25K,Hard,32,25,20100315,6,201600,,WC,Jamie Hampton,R,173,USA,20.1,200124,,Q,Anne Kremer,R,165,LUX,34.4,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,486,62,295,146
 2010-W-C25-USA-06A-2010,Fort Walton Beach FL 25K,Hard,32,25,20100315,7,201533,,,Shuai Zhang,R,177,CHN,21.1,201510,,Q,Julie Ditty,L,168,USA,31.1,6-3 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,146,401,397,89
 2010-W-C25-USA-06A-2010,Fort Walton Beach FL 25K,Hard,32,25,20100315,8,201450,6,,Tsvetana Pironkova,R,180,BUL,22.5,201402,,,Sesil Karatantcheva,R,171,KAZ,20.5,7-6(8) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,127,506,141,421
@@ -13071,7 +13071,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C50-GBR-01A-2010,Nottingham 50K,Grass,32,50,20100531,11,201369,,,Carly Gullickson,R,178,USA,23.5,202651,,WC,Lisa Whybourn,R,,GBR,19.0,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,242,211,438,72
 2010-W-C50-GBR-01A-2010,Nottingham 50K,Grass,32,50,20100531,12,201396,3,WC,Katie Obrien,R,167,GBR,24.0,201700,,,Nikola Hofmanova,R,178,AUT,19.3,6-4 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,123,532,170,324
 2010-W-C50-GBR-01A-2010,Nottingham 50K,Grass,32,50,20100531,13,201303,7,WC,Anne Keothavong,R,175,GBR,26.7,202443,,,Valeria Savinykh,R,167,RUS,19.2,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,154,367,266,187
-2010-W-C50-GBR-01A-2010,Nottingham 50K,Grass,32,50,20100531,14,201648,,,Naomi Broady,R,189,GBR,20.2,201613,,,Arina Rodionova,R,168,RUS,20.4,7-6(4) 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,281,168,157,361
+2010-W-C50-GBR-01A-2010,Nottingham 50K,Grass,32,50,20100531,14,201648,,,Naomi Broady,R,189,GBR,20.2,201613,,,Arina Rodionova,R,168,AUS,20.4,7-6(4) 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,281,168,157,361
 2010-W-C50-GBR-01A-2010,Nottingham 50K,Grass,32,50,20100531,15,201536,,,Monika Wejnert,U,,AUS,18.1,201605,,,Mandy Minella,R,180,LUX,24.5,6-3 1-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,413,81,178,306
 2010-W-C50-GBR-01A-2010,Nottingham 50K,Grass,32,50,20100531,16,201484,2,,Sandra Zahlavova,U,,CZE,24.6,202564,,,Anna Smith,R,,GBR,21.7,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,80,778,270,181
 2010-W-C50-GBR-01A-2010,Nottingham 50K,Grass,32,50,20100531,17,201304,1,,Elena Baltacha,R,175,GBR,26.7,202400,,WC,Anna Fitzpatrick,R,173,GBR,21.1,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,62,1086,716,25
@@ -13436,7 +13436,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C50-RUS-02A-2010,Kazan 50K,Hard,32,50,20100809,4,201668,5,,Alexandra Panova,R,179,RUS,21.4,202902,,,Marija Mirkovic,R,,AUS,20.4,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,134,482,368,101
 2010-W-C50-RUS-02A-2010,Kazan 50K,Hard,32,50,20100809,5,201690,4,,Nina Bratchikova,R,178,RUS,25.1,201583,,WC,Yana Buchina,R,168,RUS,18.5,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,142,450,1058,3
 2010-W-C50-RUS-02A-2010,Kazan 50K,Hard,32,50,20100809,6,203462,,Q,Kateryna Baindl,R,175,UKR,16.4,203470,,WC,Anna Smolina,U,,RUS,15.9,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,455,69,,
-2010-W-C50-RUS-02A-2010,Kazan 50K,Hard,32,50,20100809,7,201613,,,Arina Rodionova,R,168,RUS,20.6,202932,,,Marta Sirotkina,R,170,RUS,19.3,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,185,296,375,99
+2010-W-C50-RUS-02A-2010,Kazan 50K,Hard,32,50,20100809,7,201613,,,Arina Rodionova,R,168,AUS,20.6,202932,,,Marta Sirotkina,R,170,RUS,19.3,4-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,185,296,375,99
 2010-W-C50-RUS-02A-2010,Kazan 50K,Hard,32,50,20100809,8,201438,7,,Ekaterina Bychkova,R,171,RUS,25.1,203381,,,Ganna Piven,R,,UKR,18.5,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,151,406,308,150
 2010-W-C50-RUS-02A-2010,Kazan 50K,Hard,32,50,20100809,9,201615,8,,Lesia Tsurenko,R,174,UKR,21.1,203419,,,Nanuli Pipiya,R,,RUS,18.5,7-6(5) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,173,324,340,129
 2010-W-C50-RUS-02A-2010,Kazan 50K,Hard,32,50,20100809,10,202884,,,Elena Kulikova,U,,RUS,19.2,202641,,,Natalia Ryzhonkova,R,,RUS,19.3,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,327,139,290,168
@@ -13449,7 +13449,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C50-RUS-02A-2010,Kazan 50K,Hard,32,50,20100809,17,201554,,,Vitalia Diatchenko,R,170,RUS,20.0,201663,,,Ekaterina Dzehalevich,R,168,BLR,24.2,7-6(3) 6-7(3) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,191,281,225,231
 2010-W-C50-RUS-02A-2010,Kazan 50K,Hard,32,50,20100809,18,201668,5,,Alexandra Panova,R,179,RUS,21.4,203469,,Q,Albina Khabibulina,R,162,UZB,18.2,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,134,482,635,35
 2010-W-C50-RUS-02A-2010,Kazan 50K,Hard,32,50,20100809,19,203462,,Q,Kateryna Baindl,R,175,UKR,16.4,201690,4,,Nina Bratchikova,R,178,RUS,25.1,7-5 0-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,455,69,142,450
-2010-W-C50-RUS-02A-2010,Kazan 50K,Hard,32,50,20100809,20,201438,7,,Ekaterina Bychkova,R,171,RUS,25.1,201613,,,Arina Rodionova,R,168,RUS,20.6,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,151,406,185,296
+2010-W-C50-RUS-02A-2010,Kazan 50K,Hard,32,50,20100809,20,201438,7,,Ekaterina Bychkova,R,171,RUS,25.1,201613,,,Arina Rodionova,R,168,AUS,20.6,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,151,406,185,296
 2010-W-C50-RUS-02A-2010,Kazan 50K,Hard,32,50,20100809,21,201615,8,,Lesia Tsurenko,R,174,UKR,21.1,202884,,,Elena Kulikova,U,,RUS,19.2,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,173,324,327,139
 2010-W-C50-RUS-02A-2010,Kazan 50K,Hard,32,50,20100809,22,201652,,,Ksenia Palkina,R,174,KGZ,20.6,202620,,,Yuliya Kalabina,R,,RUS,20.3,W/O,3,R16,,,,,,,,,,,,,,,,,,,,314,145,345,126
 2010-W-C50-RUS-02A-2010,Kazan 50K,Hard,32,50,20100809,23,201704,,Q,Nadejda Guskova,R,,RUS,18.5,203376,,,Eugeniya Pashkova,R,,RUS,21.4,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,487,62,490,62
@@ -13505,7 +13505,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C50-USA-01A-2010,Dothan AL 50K,Clay,32,50,20100419,11,201600,,WC,Jamie Hampton,R,173,USA,20.2,200083,,,Alexandra Stevenson,R,185,USA,29.3,6-0 3-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,290,149,250,198
 2010-W-C50-USA-01A-2010,Dothan AL 50K,Clay,32,50,20100419,12,200068,4,,Lilia Osterloh,R,170,USA,32.0,201369,,,Carly Gullickson,R,178,USA,23.3,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,124,517,180,302
 2010-W-C50-USA-01A-2010,Dothan AL 50K,Clay,32,50,20100419,13,201412,6,,Anastasia Yakimova,R,165,BLR,23.4,202395,,,Maria Irigoyen,L,171,ARG,22.8,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,156,377,215,249
-2010-W-C50-USA-01A-2010,Dothan AL 50K,Clay,32,50,20100419,14,201613,,,Arina Rodionova,R,168,RUS,20.3,202903,,,Shannon Golds,R,165,AUS,23.5,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,170,335,214,249
+2010-W-C50-USA-01A-2010,Dothan AL 50K,Clay,32,50,20100419,14,201613,,,Arina Rodionova,R,168,AUS,20.3,202903,,,Shannon Golds,R,165,AUS,23.5,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,170,335,214,249
 2010-W-C50-USA-01A-2010,Dothan AL 50K,Clay,32,50,20100419,15,201535,,WC,Coco Vandeweghe,R,185,USA,18.3,201590,,,Alison Riske Amritraj,R,173,USA,19.7,3-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,299,146,191,284
 2010-W-C50-USA-01A-2010,Dothan AL 50K,Clay,32,50,20100419,16,201478,2,,Varvara Lepchenko,L,180,USA,23.9,201376,,,Angela Haynes,L,173,USA,25.5,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,106,597,207,251
 2010-W-C50-USA-01A-2010,Dothan AL 50K,Clay,32,50,20100419,17,201573,,Q,Laura Robson,L,180,GBR,16.2,201483,,,Madison Brengle,R,168,USA,20.0,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,315,128,179,308
@@ -13514,7 +13514,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C50-USA-01A-2010,Dothan AL 50K,Clay,32,50,20100419,20,201365,5,,Edina Gallovits Hall,R,165,ROU,25.3,202624,,,Elena Chalova,R,171,RUS,22.9,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,119,544,160,368
 2010-W-C50-USA-01A-2010,Dothan AL 50K,Clay,32,50,20100419,21,201401,,,Abigail Spears,R,175,USA,28.7,201414,7,,Michaella Krajicek,R,177,NED,21.2,2-6 7-6(5) 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,256,191,141,448
 2010-W-C50-USA-01A-2010,Dothan AL 50K,Clay,32,50,20100419,22,201600,,WC,Jamie Hampton,R,173,USA,20.2,200068,4,,Lilia Osterloh,R,170,USA,32.0,6-2 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,290,149,124,517
-2010-W-C50-USA-01A-2010,Dothan AL 50K,Clay,32,50,20100419,23,201412,6,,Anastasia Yakimova,R,165,BLR,23.4,201613,,,Arina Rodionova,R,168,RUS,20.3,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,156,377,170,335
+2010-W-C50-USA-01A-2010,Dothan AL 50K,Clay,32,50,20100419,23,201412,6,,Anastasia Yakimova,R,165,BLR,23.4,201613,,,Arina Rodionova,R,168,AUS,20.3,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,156,377,170,335
 2010-W-C50-USA-01A-2010,Dothan AL 50K,Clay,32,50,20100419,24,201478,2,,Varvara Lepchenko,L,180,USA,23.9,201535,,WC,Coco Vandeweghe,R,185,USA,18.3,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,106,597,299,146
 2010-W-C50-USA-01A-2010,Dothan AL 50K,Clay,32,50,20100419,25,201573,,Q,Laura Robson,L,180,GBR,16.2,201388,,,Sophie Ferguson,R,177,AUS,24.0,4-6 6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,315,128,144,418
 2010-W-C50-USA-01A-2010,Dothan AL 50K,Clay,32,50,20100419,26,201365,5,,Edina Gallovits Hall,R,165,ROU,25.3,201516,3,,Evgeniya Rodina,R,170,RUS,21.2,7-5 6-0,3,QF,,,,,,,,,,,,,,,,,,,,119,544,112,569
@@ -13536,7 +13536,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C50-USA-02A-2010,Charlottesville VA 50K,Clay,32,50,20100426,11,200083,,,Alexandra Stevenson,R,185,USA,29.3,201406,,LL,Shikha Uberoi,R,173,IND,27.0,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,253,198,633,36
 2010-W-C50-USA-02A-2010,Charlottesville VA 50K,Clay,32,50,20100426,12,200068,3,,Lilia Osterloh,R,170,USA,32.0,201376,,,Angela Haynes,L,173,USA,25.5,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,123,517,227,222
 2010-W-C50-USA-02A-2010,Charlottesville VA 50K,Clay,32,50,20100426,13,201448,7,,Galina Voskoboeva,R,183,KAZ,25.3,202379,,Q,Chieh Yu Hsu,L,170,USA,18.2,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,149,406,460,70
-2010-W-C50-USA-02A-2010,Charlottesville VA 50K,Clay,32,50,20100426,14,201613,,,Arina Rodionova,R,168,RUS,20.3,202613,,,Kimberly Couts,R,170,USA,20.9,6-3 0-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,170,339,287,156
+2010-W-C50-USA-02A-2010,Charlottesville VA 50K,Clay,32,50,20100426,14,201613,,,Arina Rodionova,R,168,AUS,20.3,202613,,,Kimberly Couts,R,170,USA,20.9,6-3 0-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,170,339,287,156
 2010-W-C50-USA-02A-2010,Charlottesville VA 50K,Clay,32,50,20100426,15,200729,,,Lindsay Lee Waters,R,,USA,32.8,201529,,LL,Kristie Ahn,R,165,USA,17.8,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,197,267,497,62
 2010-W-C50-USA-02A-2010,Charlottesville VA 50K,Clay,32,50,20100426,16,201516,2,,Evgeniya Rodina,R,170,RUS,21.2,201525,,,Eva Hrdinova,R,,CZE,25.8,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,118,537,193,274
 2010-W-C50-USA-02A-2010,Charlottesville VA 50K,Clay,32,50,20100426,17,201483,,,Madison Brengle,R,168,USA,20.0,200709,1,,Rossana De Los Rios,R,170,PAR,34.6,6-4 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,179,308,101,621
@@ -13545,14 +13545,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-C50-USA-02A-2010,Charlottesville VA 50K,Clay,32,50,20100426,20,201412,8,,Anastasia Yakimova,R,165,BLR,23.4,201510,,WC,Julie Ditty,L,168,USA,31.3,6-1 2-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,143,428,469,67
 2010-W-C50-USA-02A-2010,Charlottesville VA 50K,Clay,32,50,20100426,21,201414,5,,Michaella Krajicek,R,177,NED,21.2,201550,,LL,Tamaryn Hendler,L,,BEL,17.7,6-3 3-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,140,448,465,68
 2010-W-C50-USA-02A-2010,Charlottesville VA 50K,Clay,32,50,20100426,22,200068,3,,Lilia Osterloh,R,170,USA,32.0,200083,,,Alexandra Stevenson,R,185,USA,29.3,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,123,517,253,198
-2010-W-C50-USA-02A-2010,Charlottesville VA 50K,Clay,32,50,20100426,23,201613,,,Arina Rodionova,R,168,RUS,20.3,201448,7,,Galina Voskoboeva,R,183,KAZ,25.3,6-2 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,170,339,149,406
+2010-W-C50-USA-02A-2010,Charlottesville VA 50K,Clay,32,50,20100426,23,201613,,,Arina Rodionova,R,168,AUS,20.3,201448,7,,Galina Voskoboeva,R,183,KAZ,25.3,6-2 2-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,170,339,149,406
 2010-W-C50-USA-02A-2010,Charlottesville VA 50K,Clay,32,50,20100426,24,200729,,,Lindsay Lee Waters,R,,USA,32.8,201516,2,,Evgeniya Rodina,R,170,RUS,21.2,2-6 6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,197,267,118,537
 2010-W-C50-USA-02A-2010,Charlottesville VA 50K,Clay,32,50,20100426,25,201696,,,Laura Siegemund,R,168,GER,22.1,201483,,,Madison Brengle,R,168,USA,20.0,6-3 3-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,293,151,179,308
 2010-W-C50-USA-02A-2010,Charlottesville VA 50K,Clay,32,50,20100426,26,201412,8,,Anastasia Yakimova,R,165,BLR,23.4,201573,,,Laura Robson,L,180,GBR,16.2,2-6 7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,143,428,269,174
 2010-W-C50-USA-02A-2010,Charlottesville VA 50K,Clay,32,50,20100426,27,201414,5,,Michaella Krajicek,R,177,NED,21.2,200068,3,,Lilia Osterloh,R,170,USA,32.0,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,140,448,123,517
-2010-W-C50-USA-02A-2010,Charlottesville VA 50K,Clay,32,50,20100426,28,201613,,,Arina Rodionova,R,168,RUS,20.3,200729,,,Lindsay Lee Waters,R,,USA,32.8,6-1 5-7 6-3,3,QF,,,,,,,,,,,,,,,,,,,,170,339,197,267
+2010-W-C50-USA-02A-2010,Charlottesville VA 50K,Clay,32,50,20100426,28,201613,,,Arina Rodionova,R,168,AUS,20.3,200729,,,Lindsay Lee Waters,R,,USA,32.8,6-1 5-7 6-3,3,QF,,,,,,,,,,,,,,,,,,,,170,339,197,267
 2010-W-C50-USA-02A-2010,Charlottesville VA 50K,Clay,32,50,20100426,29,201696,,,Laura Siegemund,R,168,GER,22.1,201412,8,,Anastasia Yakimova,R,165,BLR,23.4,7-5 6-4,3,SF,,,,,,,,,,,,,,,,,,,,293,151,143,428
-2010-W-C50-USA-02A-2010,Charlottesville VA 50K,Clay,32,50,20100426,30,201414,5,,Michaella Krajicek,R,177,NED,21.2,201613,,,Arina Rodionova,R,168,RUS,20.3,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,140,448,170,339
+2010-W-C50-USA-02A-2010,Charlottesville VA 50K,Clay,32,50,20100426,30,201414,5,,Michaella Krajicek,R,177,NED,21.2,201613,,,Arina Rodionova,R,168,AUS,20.3,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,140,448,170,339
 2010-W-C50-USA-02A-2010,Charlottesville VA 50K,Clay,32,50,20100426,31,201414,5,,Michaella Krajicek,R,177,NED,21.2,201696,,,Laura Siegemund,R,168,GER,22.1,6-2 6-4,3,F,,,,,,,,,,,,,,,,,,,,140,448,293,151
 2010-W-C50-USA-03A-2010,Indian Harbour Beach FL 50K,Clay,32,50,20100503,1,201365,1,,Edina Gallovits Hall,R,165,ROU,25.3,201586,,JE,Heather Watson,R,170,GBR,17.9,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,107,602,335,119
 2010-W-C50-USA-03A-2010,Indian Harbour Beach FL 50K,Clay,32,50,20100503,2,202445,,LL,Valeria Solovieva,R,168,RUS,17.4,201369,,,Carly Gullickson,R,178,USA,23.4,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1080,4,252,194
@@ -14409,7 +14409,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-INT-CZE-01A-2010,Prague,Clay,32,I,20100712,9,201692,,,Michaela Pochabova,U,,SVK,20.7,201305,3,,Eleni Daniilidou,R,182,GRE,27.8,6-1 1-6 7-5,3,Q1,,5,6,94,51,31,17,,8,14,2,13,90,55,35,9,,9,16,260,186,172,322
 2010-W-INT-CZE-01A-2010,Prague,Clay,32,I,20100712,10,201293,,,Catalina Castano,R,171,COL,31.0,203293,,,Karolina Wlodarczak,R,178,AUS,23.0,6-3 0-6 7-5,3,Q1,,1,3,97,63,38,14,,6,12,5,6,92,47,26,23,,3,8,210,251,457,67
 2010-W-INT-CZE-01A-2010,Prague,Clay,32,I,20100712,11,201615,,,Lesia Tsurenko,R,174,UKR,21.1,201660,,,Tereza Hladikova,R,,CZE,22.2,6-0 6-2,3,Q1,,1,1,47,31,21,10,,1,1,0,4,42,23,12,6,,3,8,194,275,398,89
-2010-W-INT-CZE-01A-2010,Prague,Clay,32,I,20100712,12,202431,,,Tetyana Arefyeva,R,,UKR,19.3,201613,5,,Arina Rodionova,R,168,RUS,20.5,6-3 6-4,3,Q1,,0,3,48,32,17,10,,3,7,0,6,74,44,21,12,,2,9,305,146,184,301
+2010-W-INT-CZE-01A-2010,Prague,Clay,32,I,20100712,12,202431,,,Tetyana Arefyeva,R,,UKR,19.3,201613,5,,Arina Rodionova,R,168,AUS,20.5,6-3 6-4,3,Q1,,0,3,48,32,17,10,,3,7,0,6,74,44,21,12,,2,9,305,146,184,301
 2010-W-INT-CZE-01A-2010,Prague,Clay,32,I,20100712,13,223079,,WC,Katerina Bohmova,L,,CZE,23.6,201663,4,,Ekaterina Dzehalevich,R,168,BLR,24.1,6-4 3-6 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,,,234,222
 2010-W-INT-CZE-01A-2010,Prague,Clay,32,I,20100712,14,202641,,,Natalia Ryzhonkova,R,,RUS,19.2,203381,,,Ganna Piven,R,,UKR,18.4,6-1 6-2,3,Q1,,4,1,59,41,28,9,,7,8,2,5,48,26,12,8,,5,10,311,142,283,166
 2010-W-INT-CZE-01A-2010,Prague,Clay,32,I,20100712,15,201691,,,Dia Evtimova,R,168,BUL,23.2,202832,,WC,Katerina Kramperova,R,,CZE,21.5,6-3 6-0,3,Q1,,0,1,57,38,20,12,,5,8,0,11,48,23,9,6,,4,11,209,252,583,43
@@ -14549,7 +14549,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-INT-GBR-01A-2010,Birmingham,Grass,56,I,20100607,13,201590,,,Alison Riske Amritraj,R,173,USA,19.9,201456,7,,Olga Savchuk,R,175,UKR,22.7,6-4 7-5,3,Q1,,1,5,68,50,36,9,,3,5,2,3,83,57,34,11,,6,10,185,286,150,400
 2010-W-INT-GBR-01A-2010,Birmingham,Grass,56,I,20100607,14,201548,,,Ajla Tomljanovic,R,180,AUS,17.0,201580,11,,Xinyun Han,L,172,CHN,20.0,6-1 6-2,3,Q1,,5,1,40,32,26,4,,1,1,1,1,46,36,18,4,,5,10,179,306,161,364
 2010-W-INT-GBR-01A-2010,Birmingham,Grass,56,I,20100607,15,200002,,,Mirjana Lucic,R,181,CRO,28.2,201599,8,,Andrea Hlavackova,R,174,CZE,23.8,7-6(4) 3-6 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,195,259,137,454
-2010-W-INT-GBR-01A-2010,Birmingham,Grass,56,I,20100607,16,201305,,,Eleni Daniilidou,R,182,GRE,27.7,201613,14,,Arina Rodionova,R,168,RUS,20.4,6-1 6-0,3,Q1,,4,6,43,20,16,16,,3,3,0,2,37,28,12,2,,4,9,189,280,164,351
+2010-W-INT-GBR-01A-2010,Birmingham,Grass,56,I,20100607,16,201305,,,Eleni Daniilidou,R,182,GRE,27.7,201613,14,,Arina Rodionova,R,168,AUS,20.4,6-1 6-0,3,Q1,,4,6,43,20,16,16,,3,3,0,2,37,28,12,2,,4,9,189,280,164,351
 2010-W-INT-GBR-01A-2010,Birmingham,Grass,56,I,20100607,17,201466,1,,Kaia Kanepi,R,181,EST,24.9,201388,9,,Sophie Ferguson,R,177,AUS,24.2,6-2 6-4,3,Q2,,3,2,52,36,28,7,,3,4,3,4,59,43,25,6,,5,9,93,701,119,536
 2010-W-INT-GBR-01A-2010,Birmingham,Grass,56,I,20100607,18,201663,,,Ekaterina Dzehalevich,R,168,BLR,24.0,201700,17,,Nikola Hofmanova,R,178,AUT,19.3,7-6(3) 4-6 6-1,3,Q2,,7,2,85,48,39,22,,3,5,3,8,95,58,37,19,,2,5,174,313,183,292
 2010-W-INT-GBR-01A-2010,Birmingham,Grass,56,I,20100607,19,201414,3,,Michaella Krajicek,R,177,NED,21.4,201606,13,,Rebecca Marino,R,183,CAN,19.4,6-3 6-4,3,Q2,,4,2,55,31,22,14,,2,3,12,1,54,31,22,9,,0,4,123,518,159,374
@@ -14724,7 +14724,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-INT-MAR-01A-2010,Fes,Clay,32,I,20100426,24,201688,,,Claire De Gubernatis,L,,FRA,23.7,201592,6,,Beatriz Garcia Vidagany,U,,ESP,21.4,7-5 6-3,3,Q3,,1,7,79,52,30,13,,8,12,0,9,62,39,25,3,,5,11,296,149,196,273
 2010-W-INT-MAR-01A-2010,Fes,Clay,32,I,20100426,25,201086,8,,Greta Arn,R,180,HUN,31.0,201557,3,,Corinna Dentoni,R,,ITA,20.7,6-4 6-2,3,Q3,,1,2,55,44,31,6,,2,3,1,3,61,41,23,8,,4,8,241,212,182,296
 2010-W-INT-MAR-01A-2010,Fes,Clay,32,I,20100426,26,201440,5,,Laura Pous Tio,U,173,ESP,25.5,201562,4,,Silvia Soler Espinosa,R,169,ESP,22.4,7-6(5) 7-6(3),3,Q3,,1,8,97,71,44,12,,3,7,1,3,97,65,36,17,,8,12,192,275,183,291
-2010-W-INT-MAS-01A-2010,Kuala Lumpur,Hard,32,I,20100222,1,201613,,,Arina Rodionova,R,168,RUS,20.1,200765,,,Katalin Marosi,R,178,HUN,30.2,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,173,333,189,304
+2010-W-INT-MAS-01A-2010,Kuala Lumpur,Hard,32,I,20100222,1,201613,,,Arina Rodionova,R,168,AUS,20.1,200765,,,Katalin Marosi,R,178,HUN,30.2,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,173,333,189,304
 2010-W-INT-MAS-01A-2010,Kuala Lumpur,Hard,32,I,20100222,2,201652,,,Ksenia Palkina,R,174,KGZ,20.1,204304,,,Jawairiah Noordin,R,,MAS,19.3,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,283,154,1009,7
 2010-W-INT-MAS-01A-2010,Kuala Lumpur,Hard,32,I,20100222,3,201663,8,,Ekaterina Dzehalevich,R,168,BLR,23.8,201633,,,Tomoko Yonemura,U,,JPN,27.6,7-5 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,153,373,196,293
 2010-W-INT-MAS-01A-2010,Kuala Lumpur,Hard,32,I,20100222,4,201680,,,Anna Gerasimou,R,,GRE,22.3,201385,9,,Yuliana Fedak,R,166,UKR,26.7,2-6 6-3 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,218,241,166,347
@@ -14738,7 +14738,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-INT-MAS-01A-2010,Kuala Lumpur,Hard,32,I,20100222,12,201708,,,Natalie Grandin,L,175,RSA,28.9,202607,,,Yi Chen,R,,TPE,23.2,6-2 7-6(3),3,Q1,,,,,,,,,,,,,,,,,,,,426,78,609,40
 2010-W-INT-MAS-01A-2010,Kuala Lumpur,Hard,32,I,20100222,13,202349,,,Rushmi Chakravarthi,R,170,IND,32.3,204307,,WC,Neesha Thirumalaichelvam,R,,MAS,18.1,6-0 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,627,38,,
 2010-W-INT-MAS-01A-2010,Kuala Lumpur,Hard,32,I,20100222,14,200764,,,Elena Bovina,R,189,RUS,26.9,202624,7,,Elena Chalova,R,171,RUS,22.7,6-1 6-7(4) 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,171,335,152,376
-2010-W-INT-MAS-01A-2010,Kuala Lumpur,Hard,32,I,20100222,15,201584,1,,Ksenia Pervak,L,170,KAZ,18.7,201613,,,Arina Rodionova,R,168,RUS,20.1,6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,127,500,173,333
+2010-W-INT-MAS-01A-2010,Kuala Lumpur,Hard,32,I,20100222,15,201584,1,,Ksenia Pervak,L,170,KAZ,18.7,201613,,,Arina Rodionova,R,168,AUS,20.1,6-3 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,127,500,173,333
 2010-W-INT-MAS-01A-2010,Kuala Lumpur,Hard,32,I,20100222,16,201652,,,Ksenia Palkina,R,174,KGZ,20.1,201663,8,,Ekaterina Dzehalevich,R,168,BLR,23.8,6-4 6-7(6) 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,283,154,153,373
 2010-W-INT-MAS-01A-2010,Kuala Lumpur,Hard,32,I,20100222,17,201680,,,Anna Gerasimou,R,,GRE,22.3,201580,,,Xinyun Han,L,172,CHN,19.7,6-1 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,218,241,168,338
 2010-W-INT-MAS-01A-2010,Kuala Lumpur,Hard,32,I,20100222,18,201533,5,,Shuai Zhang,R,177,CHN,21.0,202638,,,Chiaki Okadaue,U,,JPN,23.3,6-4 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,143,395,263,181
@@ -14916,7 +14916,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-INT-SWE-01A-2010,Bastad,Clay,32,I,20100705,13,202641,,,Natalia Ryzhonkova,R,,RUS,19.2,202611,4,,Oksana Kalashnikova,L,184,GEO,19.8,6-2 6-7(2) 6-2,3,Q1,,1,2,89,60,36,16,,1,4,3,8,87,55,29,14,,5,12,318,136,156,368
 2010-W-INT-SWE-01A-2010,Bastad,Clay,32,I,20100705,14,201696,,,Laura Siegemund,R,168,GER,22.3,202894,,,Justine Ozga,R,,GER,22.4,6-4 6-3,3,Q1,,0,7,68,34,25,13,,6,8,1,3,66,45,24,7,,4,9,258,192,350,112
 2010-W-INT-SWE-01A-2010,Bastad,Clay,32,I,20100705,15,202431,,,Tetyana Arefyeva,R,,UKR,19.3,203362,,,Vivian Segnini,R,165,BRA,21.5,6-1 6-0,3,Q1,,0,2,51,34,20,9,,5,6,0,5,34,19,4,2,,1,8,316,137,391,91
-2010-W-INT-SWE-01A-2010,Bastad,Clay,32,I,20100705,16,201613,7,,Arina Rodionova,R,168,RUS,20.5,201643,,,Eva Fernandez Brugues,R,,ESP,24.1,7-6(4) 4-6 6-4,3,Q1,,0,5,122,81,38,16,,11,23,0,15,112,73,36,13,,10,22,186,301,353,109
+2010-W-INT-SWE-01A-2010,Bastad,Clay,32,I,20100705,16,201613,7,,Arina Rodionova,R,168,AUS,20.5,201643,,,Eva Fernandez Brugues,R,,ESP,24.1,7-6(4) 4-6 6-4,3,Q1,,0,5,122,81,38,16,,11,23,0,15,112,73,36,13,,10,22,186,301,353,109
 2010-W-INT-SWE-01A-2010,Bastad,Clay,32,I,20100705,17,201451,1,,Kathrin Woerle,R,175,GER,26.3,200124,,,Anne Kremer,R,165,LUX,34.7,6-2 5-7 6-2,3,Q2,,2,3,86,64,35,10,,6,13,0,4,84,59,27,9,,7,17,141,436,253,199
 2010-W-INT-SWE-01A-2010,Bastad,Clay,32,I,20100705,18,202556,,,Ana Jovanovic,R,,SRB,25.5,200002,8,,Mirjana Lucic,R,181,CRO,28.3,7-5 4-6 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,243,208,164,354
 2010-W-INT-SWE-01A-2010,Bastad,Clay,32,I,20100705,19,202347,,,Karolina Kosinska,R,,POL,24.0,203381,,,Ganna Piven,R,,UKR,18.4,6-4 6-2,3,Q2,,4,2,50,39,26,5,,0,2,1,1,56,28,13,12,,3,8,334,126,287,161
@@ -14924,7 +14924,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-INT-SWE-01A-2010,Bastad,Clay,32,I,20100705,21,201617,,,Ana Vrljic,R,,CRO,25.9,201577,3,,Heidi El Tabakh,R,180,CAN,23.7,5-7 6-3 6-4,3,Q2,,1,6,115,70,44,21,,17,23,1,5,98,61,35,14,,3,11,270,182,168,343
 2010-W-INT-SWE-01A-2010,Bastad,Clay,32,I,20100705,22,200764,5,,Elena Bovina,R,189,RUS,27.3,202313,,,Darija Jurak,R,180,CRO,26.2,6-3 6-1,3,Q2,,0,1,47,34,25,7,,2,3,0,7,67,43,24,7,,11,16,157,366,331,128
 2010-W-INT-SWE-01A-2010,Bastad,Clay,32,I,20100705,23,201696,,,Laura Siegemund,R,168,GER,22.3,202641,,,Natalia Ryzhonkova,R,,RUS,19.2,7-5 6-1,3,Q2,,2,1,47,33,23,10,,1,2,0,2,63,37,18,12,,1,6,258,192,318,136
-2010-W-INT-SWE-01A-2010,Bastad,Clay,32,I,20100705,24,202431,,,Tetyana Arefyeva,R,,UKR,19.3,201613,7,,Arina Rodionova,R,168,RUS,20.5,6-2 3-6 7-6(3),3,Q2,,2,1,101,71,40,12,,8,16,0,5,105,72,39,12,,8,16,316,137,186,301
+2010-W-INT-SWE-01A-2010,Bastad,Clay,32,I,20100705,24,202431,,,Tetyana Arefyeva,R,,UKR,19.3,201613,7,,Arina Rodionova,R,168,AUS,20.5,6-2 3-6 7-6(3),3,Q2,,2,1,101,71,40,12,,8,16,0,5,105,72,39,12,,8,16,316,137,186,301
 2010-W-INT-SWE-01A-2010,Bastad,Clay,32,I,20100705,25,201451,1,,Kathrin Woerle,R,175,GER,26.3,202556,,,Ana Jovanovic,R,,SRB,25.5,6-7(5) 6-4 6-0,3,Q3,,2,1,87,62,39,13,,3,8,1,2,94,66,35,10,,10,19,141,436,243,208
 2010-W-INT-SWE-01A-2010,Bastad,Clay,32,I,20100705,26,201291,6,,Nuria Llagostera Vives,R,156,ESP,30.1,202347,,,Karolina Kosinska,R,,POL,24.0,7-5 6-3,3,Q3,,3,6,62,31,20,19,,2,4,1,3,80,57,30,11,,7,11,161,360,334,126
 2010-W-INT-SWE-01A-2010,Bastad,Clay,32,I,20100705,27,201617,,,Ana Vrljic,R,,CRO,25.9,200764,5,,Elena Bovina,R,189,RUS,27.3,6-2 7-6(6),3,Q3,,,,,,,,,,,,,,,,,,,,270,182,157,366
@@ -14970,7 +14970,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-INT-TUR-01A-2010,Istanbul,Hard,32,I,20100726,27,201417,,,Marta Domachowska,R,176,POL,24.5,201570,6,,Vesna Dolonc,R,170,SRB,21.0,6-4 4-6 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,175,321,149,397
 2010-W-INT-TUR-01A-2010,Istanbul,Hard,32,I,20100726,28,201361,,,Julia Schruff,R,166,GER,27.9,201697,,,Kristyna Pliskova,L,184,CZE,18.3,6-1 6-1,3,Q3,,2,3,42,28,21,6,,2,3,1,1,54,29,13,9,,5,11,235,217,243,209
 2010-W-INT-USA-01A-2010,Memphis,Hard,32,I,20100215,1,201387,1,,Sofia Arvidsson,R,176,SWE,25.9,204302,,WC,Ashley Murdock,R,,USA,22.2,6-2 6-1,3,Q1,,2,0,32,21,18,8,,1,2,0,1,46,25,12,5,,0,6,102,625,,
-2010-W-INT-USA-01A-2010,Memphis,Hard,32,I,20100215,2,201376,5,,Angela Haynes,L,173,USA,25.3,202414,,WC,Catherine Harrison,U,,USA,15.8,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,164,357,,
+2010-W-INT-USA-01A-2010,Memphis,Hard,32,I,20100215,2,201376,5,,Angela Haynes,L,173,USA,25.3,202414,,WC,Catherine Harrison,R,,USA,15.8,6-3 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,164,357,,
 2010-W-INT-USA-01A-2010,Memphis,Hard,32,I,20100215,3,201576,2,,Valerie Tetreault,R,170,CAN,22.0,201392,,,Severine Beltrame,R,171,FRA,30.5,6-4 4-6 6-2,3,Q1,,3,1,94,59,41,19,,3,5,2,6,86,48,31,21,,3,7,122,510,189,303
 2010-W-INT-USA-01A-2010,Memphis,Hard,32,I,20100215,4,201606,6,,Rebecca Marino,R,183,CAN,19.1,202497,,WC,Victoria Duval,R,178,USA,14.2,6-0 6-1,3,Q1,,5,0,32,20,18,10,,0,0,0,4,44,27,14,4,,4,9,160,363,,
 2010-W-INT-USA-01A-2010,Memphis,Hard,32,I,20100215,5,201443,3,,Alexa Glatch,R,183,USA,20.4,200729,,,Lindsay Lee Waters,R,,USA,32.6,3-6 6-3 6-3,3,Q1,,14,13,84,38,31,16,,1,6,5,8,79,43,29,11,,6,12,149,387,195,294
@@ -14991,7 +14991,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-INT-USA-02A-2010,Ponte Vedra Beach,Clay,32,I,20100405,8,200068,5,,Lilia Osterloh,R,170,USA,31.9,201385,,,Yuliana Fedak,R,166,UKR,26.8,6-3 6-2,3,Q1,,0,5,53,32,24,5,,2,5,0,5,57,31,15,8,,3,10,125,517,161,347
 2010-W-INT-USA-02A-2010,Ponte Vedra Beach,Clay,32,I,20100405,9,201402,,,Sesil Karatantcheva,R,171,KAZ,20.6,201589,3,,Sharon Fichman,R,163,CAN,19.3,3-6 6-2 6-4,3,Q1,,0,4,87,62,40,6,,5,12,0,1,86,67,32,6,,4,13,142,428,121,531
 2010-W-INT-USA-02A-2010,Ponte Vedra Beach,Clay,32,I,20100405,10,201401,,,Abigail Spears,R,175,USA,28.7,201590,,,Alison Riske Amritraj,R,173,USA,19.7,6-2 7-5,3,Q1,,4,1,61,37,29,12,,1,2,1,6,67,46,28,8,,6,10,243,202,192,277
-2010-W-INT-USA-02A-2010,Ponte Vedra Beach,Clay,32,I,20100405,11,201613,,,Arina Rodionova,R,168,RUS,20.3,201702,,WC,Malou Ejdesgaard,R,,DEN,19.0,6-3 7-6(2),3,Q1,,1,2,69,40,29,14,,1,4,0,6,81,43,18,21,,5,10,165,335,1019,7
+2010-W-INT-USA-02A-2010,Ponte Vedra Beach,Clay,32,I,20100405,11,201613,,,Arina Rodionova,R,168,AUS,20.3,201702,,WC,Malou Ejdesgaard,R,,DEN,19.0,6-3 7-6(2),3,Q1,,1,2,69,40,29,14,,1,4,0,6,81,43,18,21,,5,10,165,335,1019,7
 2010-W-INT-USA-02A-2010,Ponte Vedra Beach,Clay,32,I,20100405,12,201570,6,,Vesna Dolonc,R,170,SRB,20.7,201511,,,Ekaterina Ivanova,R,,RUS,22.2,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,129,492,140,444
 2010-W-INT-USA-02A-2010,Ponte Vedra Beach,Clay,32,I,20100405,13,201588,,,Anna Tatishvili,R,171,GEO,20.1,201547,4,,Michelle Larcher De Brito,R,165,POR,17.1,0-6 7-5 6-4,3,Q1,,4,8,109,61,34,21,,12,18,3,8,107,67,45,13,,4,9,163,342,122,529
 2010-W-INT-USA-02A-2010,Ponte Vedra Beach,Clay,32,I,20100405,14,201410,,,Monique Adamczak,R,170,AUS,27.2,200083,,,Alexandra Stevenson,R,185,USA,29.3,6-3 6-1,3,Q1,,7,4,44,24,21,10,,1,2,0,5,52,34,15,8,,4,9,141,430,241,203
@@ -15002,7 +15002,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-INT-USA-02A-2010,Ponte Vedra Beach,Clay,32,I,20100405,19,201388,,,Sophie Ferguson,R,177,AUS,24.0,201516,2,,Evgeniya Rodina,R,170,RUS,21.1,2-6 6-3 6-4,3,Q2,,0,5,92,70,41,9,,8,14,1,1,81,45,27,17,,2,8,154,374,124,517
 2010-W-INT-USA-02A-2010,Ponte Vedra Beach,Clay,32,I,20100405,20,201376,,,Angela Haynes,L,173,USA,25.5,200068,5,,Lilia Osterloh,R,170,USA,31.9,7-5 6-2,3,Q2,,1,0,61,40,32,8,,4,6,1,1,61,44,24,6,,2,7,207,253,125,517
 2010-W-INT-USA-02A-2010,Ponte Vedra Beach,Clay,32,I,20100405,21,201402,,,Sesil Karatantcheva,R,171,KAZ,20.6,201401,,,Abigail Spears,R,175,USA,28.7,6-1 6-4,3,Q2,,1,2,51,37,27,7,,2,4,1,4,48,24,11,9,,2,7,142,428,243,202
-2010-W-INT-USA-02A-2010,Ponte Vedra Beach,Clay,32,I,20100405,22,201570,6,,Vesna Dolonc,R,170,SRB,20.7,201613,,,Arina Rodionova,R,168,RUS,20.3,6-3 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,129,492,165,335
+2010-W-INT-USA-02A-2010,Ponte Vedra Beach,Clay,32,I,20100405,22,201570,6,,Vesna Dolonc,R,170,SRB,20.7,201613,,,Arina Rodionova,R,168,AUS,20.3,6-3 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,129,492,165,335
 2010-W-INT-USA-02A-2010,Ponte Vedra Beach,Clay,32,I,20100405,23,201588,,,Anna Tatishvili,R,171,GEO,20.1,201410,,,Monique Adamczak,R,170,AUS,27.2,6-4 6-3,3,Q2,,1,6,64,31,22,12,,5,9,7,4,57,36,18,6,,4,10,163,342,141,430
 2010-W-INT-USA-02A-2010,Ponte Vedra Beach,Clay,32,I,20100405,24,201414,7,,Michaella Krajicek,R,177,NED,21.2,201663,,,Ekaterina Dzehalevich,R,168,BLR,23.9,6-4 6-3,3,Q2,,4,2,52,37,30,7,,3,4,3,1,76,50,30,10,,5,9,143,426,172,315
 2010-W-INT-USA-02A-2010,Ponte Vedra Beach,Clay,32,I,20100405,25,201318,8,,Bethanie Mattek Sands,R,168,USA,25.0,201478,1,,Varvara Lepchenko,L,180,USA,23.8,6-4 6-1,3,Q3,,0,2,58,32,23,15,,3,5,1,3,47,28,16,5,,4,9,132,479,107,599
@@ -15284,7 +15284,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-PR-FRA-01A-2010,Paris,Carpet,30,P,20100208,27,201494,3,,Raluca Olaru,R,173,ROU,20.9,201563,,WC,Darya Kustova,U,,BLR,23.6,6-3 7-6(3),3,Q3,,2,6,70,42,26,12,,5,9,0,1,84,60,32,11,,5,11,71,893,119,523
 2010-W-PR-FRA-01A-2010,Paris,Carpet,30,P,20100208,28,201368,4,,Karolina Sprem,R,174,CRO,25.2,201339,8,,Renata Voracova,R,,CZE,26.3,6-1 6-3,3,Q3,,4,2,49,31,21,11,,2,3,0,1,54,35,18,6,,10,15,88,713,114,548
 2010-W-PR-GBR-01A-2010,Eastbourne,Grass,32,P,20100614,1,201486,1,,Aleksandra Wozniak,R,175,CAN,22.7,200008,,,Alicia Molik,R,182,AUS,29.3,6-3 6-4,3,Q1,,3,6,69,44,33,7,,2,5,3,4,61,42,25,4,,6,11,48,1245,96,666
-2010-W-PR-GBR-01A-2010,Eastbourne,Grass,32,P,20100614,2,201613,,,Arina Rodionova,R,168,RUS,20.4,201503,,,Ayumi Morita,R,163,JPN,20.2,2-6 6-2 6-1,3,Q1,,3,2,70,47,34,10,,2,4,0,2,72,53,29,11,,6,10,176,307,102,642
+2010-W-PR-GBR-01A-2010,Eastbourne,Grass,32,P,20100614,2,201613,,,Arina Rodionova,R,168,AUS,20.4,201503,,,Ayumi Morita,R,163,JPN,20.2,2-6 6-2 6-1,3,Q1,,3,2,70,47,34,10,,2,4,0,2,72,53,29,11,,6,10,176,307,102,642
 2010-W-PR-GBR-01A-2010,Eastbourne,Grass,32,P,20100614,3,201512,,,Monica Niculescu,R,168,ROU,22.7,201593,,,Irina Camelia Begu,R,181,ROU,19.8,6-1 6-3,3,Q1,,0,0,40,30,20,9,,0,1,0,3,51,33,16,6,,2,7,139,439,221,229
 2010-W-PR-GBR-01A-2010,Eastbourne,Grass,32,P,20100614,4,200754,,,Jill Craybas,R,160,USA,35.9,201454,7,,Akgul Amanmuradova,R,190,UZB,25.9,6-1 6-4,3,Q1,,1,2,50,33,25,11,,3,3,5,1,48,32,21,6,,1,5,101,644,93,706
 2010-W-PR-GBR-01A-2010,Eastbourne,Grass,32,P,20100614,5,201401,,,Abigail Spears,R,175,USA,28.9,201339,2,,Renata Voracova,R,,CZE,26.6,7-6(6) 6-4,3,Q1,,10,5,72,47,33,12,,3,5,4,2,83,55,35,13,,4,7,229,223,80,778
@@ -15299,7 +15299,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-PR-GBR-01A-2010,Eastbourne,Grass,32,P,20100614,14,201505,,,Kate Makarova,L,178,RUS,22.0,201516,,,Evgeniya Rodina,R,170,RUS,21.3,6-4 6-1,3,Q1,,3,0,60,38,26,11,,4,6,0,2,54,34,18,8,,1,6,100,659,118,545
 2010-W-PR-GBR-01A-2010,Eastbourne,Grass,32,P,20100614,15,202904,,WC,Jocelyn Rae,R,188,GBR,19.3,201690,,,Nina Bratchikova,R,178,RUS,24.9,7-6(4) 6-2,3,Q1,,8,4,63,33,25,13,,4,7,4,6,78,52,27,9,,7,12,494,59,144,422
 2010-W-PR-GBR-01A-2010,Eastbourne,Grass,32,P,20100614,16,201420,8,,Sania Mirza,R,153,IND,23.5,201531,,,Mariana Duque Marino,R,169,COL,20.8,6-4 6-4,3,Q1,,1,2,59,35,21,14,,4,7,0,6,66,35,21,12,,1,6,113,581,116,558
-2010-W-PR-GBR-01A-2010,Eastbourne,Grass,32,P,20100614,17,201486,1,,Aleksandra Wozniak,R,175,CAN,22.7,201613,,,Arina Rodionova,R,168,RUS,20.4,6-2 6-1,3,Q2,,0,3,44,28,23,8,,1,2,0,6,41,27,12,5,,0,5,48,1245,176,307
+2010-W-PR-GBR-01A-2010,Eastbourne,Grass,32,P,20100614,17,201486,1,,Aleksandra Wozniak,R,175,CAN,22.7,201613,,,Arina Rodionova,R,168,AUS,20.4,6-2 6-1,3,Q2,,0,3,44,28,23,8,,1,2,0,6,41,27,12,5,,0,5,48,1245,176,307
 2010-W-PR-GBR-01A-2010,Eastbourne,Grass,32,P,20100614,18,200754,,,Jill Craybas,R,160,USA,35.9,201512,,,Monica Niculescu,R,168,ROU,22.7,6-2 6-7(4) 6-4,3,Q2,,2,3,113,83,54,16,,5,7,2,3,125,94,54,18,,15,20,101,644,139,439
 2010-W-PR-GBR-01A-2010,Eastbourne,Grass,32,P,20100614,19,201368,,,Karolina Sprem,R,174,CRO,25.6,201401,,,Abigail Spears,R,175,USA,28.9,6-4 3-6 7-5,3,Q2,,5,3,89,53,37,23,,5,7,13,3,117,79,54,18,,10,13,107,621,229,223
 2010-W-PR-GBR-01A-2010,Eastbourne,Grass,32,P,20100614,20,201457,6,,Jarmila Gajdosova,R,174,AUS,23.1,201403,,,Anna Chakvetadze,R,172,RUS,23.2,7-5 4-6 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,90,717,111,594
@@ -15477,7 +15477,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-PR-USA-01A-2010,Charleston,Clay,56,P,20100412,8,201448,5,,Galina Voskoboeva,R,183,KAZ,25.3,201401,,,Abigail Spears,R,175,USA,28.7,6-2 6-2,3,Q1,,6,5,63,40,33,6,,6,7,1,3,78,48,25,12,,6,11,148,399,246,202
 2010-W-PR-USA-01A-2010,Charleston,Clay,56,P,20100412,9,201539,14,,Christina Mchale,R,170,USA,17.9,201603,,WC,Shelby Rogers,R,175,USA,17.4,6-4 3-6 6-1,3,Q1,,6,3,91,55,41,14,,13,16,3,1,83,42,26,21,,5,10,192,275,771,20
 2010-W-PR-USA-01A-2010,Charleston,Clay,56,P,20100412,10,201383,,WC,Marie Eve Pelletier,R,172,CAN,27.9,201456,6,,Olga Savchuk,R,175,UKR,22.5,6-3 6-4,3,Q1,,3,1,63,47,29,8,,1,3,1,2,72,38,21,16,,3,8,374,95,151,381
-2010-W-PR-USA-01A-2010,Charleston,Clay,56,P,20100412,11,201087,,,Mashona Washington,R,168,USA,33.8,201613,11,,Arina Rodionova,R,168,RUS,20.3,7-6(5) 7-6(6),3,Q1,,6,6,97,62,40,18,,5,8,4,5,98,59,32,25,,5,8,276,163,166,335
+2010-W-PR-USA-01A-2010,Charleston,Clay,56,P,20100412,11,201087,,,Mashona Washington,R,168,USA,33.8,201613,11,,Arina Rodionova,R,168,AUS,20.3,7-6(5) 7-6(6),3,Q1,,6,6,97,62,40,18,,5,8,4,5,98,59,32,25,,5,8,276,163,166,335
 2010-W-PR-USA-01A-2010,Charleston,Clay,56,P,20100412,12,201388,7,,Sophie Ferguson,R,177,AUS,24.0,201443,,,Alexa Glatch,R,183,USA,20.5,6-4 6-1,3,Q1,,0,2,54,43,27,8,,4,5,4,4,87,53,33,9,,9,14,153,380,212,249
 2010-W-PR-USA-01A-2010,Charleston,Clay,56,P,20100412,13,200729,16,,Lindsay Lee Waters,R,,USA,32.7,201459,,,Zi Yan,R,171,CHN,25.4,W/O,3,Q1,,,,,,,,,,,,,,,,,,,,197,270,341,113
 2010-W-PR-USA-01A-2010,Charleston,Clay,56,P,20100412,14,202624,8,,Elena Chalova,R,171,RUS,22.9,202426,,WC,Julia Boserup,R,181,USA,18.5,2-6 6-2 6-4,3,Q1,,3,5,93,59,34,17,,5,9,3,10,103,59,32,23,,12,17,159,368,560,45
@@ -15612,7 +15612,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-PR-USA-05A-2010,New Haven,Hard,30,P,20100823,28,201318,,,Bethanie Mattek Sands,R,168,USA,25.4,201371,8,,Vera Dushevina,R,180,RUS,23.8,6-3 6-2,3,Q3,,1,1,56,31,21,15,,3,5,0,1,47,22,14,8,,3,8,83,807,68,1010
 2010-W-SL-AUS-01A-2010,Australian Open,Hard,128,G,20100118,1,201518,1,,Yanina Wickmayer,R,182,BEL,20.2,201579,,,Yurika Sema,L,168,JPN,23.0,4-6 6-0 7-5,3,Q1,,0,3,80,64,40,9,,0,4,2,3,87,60,35,9,,7,14,16,2605,149,391
 2010-W-SL-AUS-01A-2010,Australian Open,Hard,128,G,20100118,2,201471,,,Naomi Cavaday,L,170,GBR,20.7,201668,,,Alexandra Panova,R,179,RUS,20.8,3-6 7-6(3) 6-3,3,Q1,,2,6,108,60,38,24,,7,13,2,2,84,50,29,17,,1,6,203,263,142,418
-2010-W-SL-AUS-01A-2010,Australian Open,Hard,128,G,20100118,3,201613,,,Arina Rodionova,R,168,RUS,20.0,202902,,WC,Marija Mirkovic,R,,AUS,19.9,6-4 6-3,3,Q1,,0,2,65,45,25,8,,8,12,1,2,53,36,18,2,,0,7,210,248,310,134
+2010-W-SL-AUS-01A-2010,Australian Open,Hard,128,G,20100118,3,201613,,,Arina Rodionova,R,168,AUS,20.0,202902,,WC,Marija Mirkovic,R,,AUS,19.9,6-4 6-3,3,Q1,,0,2,65,45,25,8,,8,12,1,2,53,36,18,2,,0,7,210,248,310,134
 2010-W-SL-AUS-01A-2010,Australian Open,Hard,128,G,20100118,4,201452,22,,Lourdes Dominguez Lino,R,163,ESP,28.8,201525,,,Eva Hrdinova,R,,CZE,25.5,5-7 6-1 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,136,445,202,263
 2010-W-SL-AUS-01A-2010,Australian Open,Hard,128,G,20100118,5,201572,2,,Regina Kulikova,R,183,RUS,20.9,200729,,,Lindsay Lee Waters,R,,USA,32.5,6-1 6-1,3,Q1,,3,2,40,22,18,11,,2,2,1,10,57,29,15,11,,4,9,104,597,185,306
 2010-W-SL-AUS-01A-2010,Australian Open,Hard,128,G,20100118,6,201632,,,Ryoko Fuda,R,,JPN,23.2,201652,,,Ksenia Palkina,R,174,KGZ,20.0,6-4 6-3,3,Q1,,0,1,53,35,24,12,,0,2,2,4,53,20,10,17,,3,7,215,244,208,248
@@ -15659,7 +15659,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-SL-AUS-01A-2010,Australian Open,Hard,128,G,20100118,47,201587,,,Bojana Jovanovski,R,175,SRB,18.0,201536,,WC,Monika Wejnert,U,,AUS,17.7,6-3 4-6 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,143,418,379,96
 2010-W-SL-AUS-01A-2010,Australian Open,Hard,128,G,20100118,48,200068,23,,Lilia Osterloh,R,170,USA,31.7,201476,,,Lauren Albanese,R,,USA,20.2,6-1 6-4,3,Q1,,2,1,43,24,18,14,,0,1,2,2,43,24,14,5,,0,4,135,449,166,346
 2010-W-SL-AUS-01A-2010,Australian Open,Hard,128,G,20100118,49,201518,1,,Yanina Wickmayer,R,182,BEL,20.2,201471,,,Naomi Cavaday,L,170,GBR,20.7,6-0 6-1,3,Q2,,1,0,29,19,15,9,,0,0,1,2,51,30,12,9,,5,11,16,2605,203,263
-2010-W-SL-AUS-01A-2010,Australian Open,Hard,128,G,20100118,50,201452,22,,Lourdes Dominguez Lino,R,163,ESP,28.8,201613,,,Arina Rodionova,R,168,RUS,20.0,6-3 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,136,445,210,248
+2010-W-SL-AUS-01A-2010,Australian Open,Hard,128,G,20100118,50,201452,22,,Lourdes Dominguez Lino,R,163,ESP,28.8,201613,,,Arina Rodionova,R,168,AUS,20.0,6-3 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,136,445,210,248
 2010-W-SL-AUS-01A-2010,Australian Open,Hard,128,G,20100118,51,201572,2,,Regina Kulikova,R,183,RUS,20.9,201632,,,Ryoko Fuda,R,,JPN,23.2,6-3 1-6 6-1,3,Q2,,4,5,72,43,33,9,,2,7,0,9,80,46,27,12,,8,14,104,597,215,244
 2010-W-SL-AUS-01A-2010,Australian Open,Hard,128,G,20100118,52,201584,17,,Ksenia Pervak,L,170,KAZ,18.6,201597,,,Kurumi Nara,R,155,JPN,18.0,6-4 6-3,3,Q2,,1,7,62,40,28,7,,4,7,0,4,69,50,27,5,,4,10,127,480,182,313
 2010-W-SL-AUS-01A-2010,Australian Open,Hard,128,G,20100118,53,201375,3,,Shenay Perry,R,170,USA,25.5,201437,,,Ivana Lisjak,R,180,CRO,22.8,6-4 7-5,3,Q2,,7,0,54,35,29,13,,2,3,1,6,58,35,26,11,,1,4,107,576,213,245
@@ -15724,7 +15724,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-SL-FRA-01A-2010,Roland Garros,Clay,128,G,20100524,28,201516,13,,Evgeniya Rodina,R,170,RUS,21.2,201655,,,Anna Floris,L,,ITA,28.0,7-5 6-0,3,Q1,,3,0,51,34,25,8,,2,4,0,3,65,45,24,6,,5,11,121,537,146,404
 2010-W-SL-FRA-01A-2010,Roland Garros,Clay,128,G,20100524,29,201547,8,,Michelle Larcher De Brito,R,165,POR,17.3,201542,,,Olivia Rogowska,R,175,AUS,18.9,6-3 6-2,3,Q1,,0,7,64,37,25,10,,3,6,2,4,50,32,14,5,,3,9,111,569,162,355
 2010-W-SL-FRA-01A-2010,Roland Garros,Clay,128,G,20100524,30,201595,,,Misaki Doi,L,159,JPN,19.0,201605,,,Mandy Minella,R,180,LUX,24.5,6-2 6-4,3,Q1,,0,1,47,29,20,11,,0,2,1,2,53,34,18,10,,2,7,179,305,178,306
-2010-W-SL-FRA-01A-2010,Roland Garros,Clay,128,G,20100524,31,201613,,,Arina Rodionova,R,168,RUS,20.4,201668,,,Alexandra Panova,R,179,RUS,21.2,3-6 6-4 6-1,3,Q1,,6,5,86,46,36,16,,4,8,4,5,90,47,29,17,,8,14,157,361,143,408
+2010-W-SL-FRA-01A-2010,Roland Garros,Clay,128,G,20100524,31,201613,,,Arina Rodionova,R,168,AUS,20.4,201668,,,Alexandra Panova,R,179,RUS,21.2,3-6 6-4 6-1,3,Q1,,6,5,86,46,36,16,,4,8,4,5,90,47,29,17,,8,14,157,361,143,408
 2010-W-SL-FRA-01A-2010,Roland Garros,Clay,128,G,20100524,32,201554,,,Vitalia Diatchenko,R,170,RUS,19.8,201537,15,,Patricia Mayr Achleitner,R,169,AUT,23.5,4-6 6-3 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,169,325,125,531
 2010-W-SL-FRA-01A-2010,Roland Garros,Clay,128,G,20100524,33,201594,9,,Simona Halep,R,168,ROU,18.6,201563,,,Darya Kustova,U,,BLR,23.9,6-0 7-6(2),3,Q1,,2,4,78,43,29,13,,10,14,1,0,65,54,19,4,,6,13,114,557,151,382
 2010-W-SL-FRA-01A-2010,Roland Garros,Clay,128,G,20100524,34,201483,,,Madison Brengle,R,168,USA,20.1,201305,,,Eleni Daniilidou,R,182,GRE,27.6,6-2 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,174,316,189,282
@@ -15757,7 +15757,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-SL-FRA-01A-2010,Roland Garros,Clay,128,G,20100524,61,201584,7,,Ksenia Pervak,L,170,KAZ,18.9,201599,,,Andrea Hlavackova,R,174,CZE,23.7,2-6 6-4 7-5,3,Q2,,1,4,86,62,37,15,,5,10,2,3,83,49,33,18,,4,9,110,574,141,415
 2010-W-SL-FRA-01A-2010,Roland Garros,Clay,128,G,20100524,62,201516,13,,Evgeniya Rodina,R,170,RUS,21.2,202555,,WC,Stephanie Vongsouthi,R,,FRA,21.6,6-1 6-4,3,Q2,,0,4,47,28,21,9,,2,4,1,6,48,28,10,9,,0,6,121,537,250,205
 2010-W-SL-FRA-01A-2010,Roland Garros,Clay,128,G,20100524,63,201595,,,Misaki Doi,L,159,JPN,19.0,201547,8,,Michelle Larcher De Brito,R,165,POR,17.3,4-6 6-4 6-4,3,Q2,,1,4,94,62,33,17,,4,11,1,13,109,70,39,15,,11,19,179,305,111,569
-2010-W-SL-FRA-01A-2010,Roland Garros,Clay,128,G,20100524,64,201554,,,Vitalia Diatchenko,R,170,RUS,19.8,201613,,,Arina Rodionova,R,168,RUS,20.4,6-0 2-6 11-9,3,Q2,,,,,,,,,,,,,,,,,,,,169,325,157,361
+2010-W-SL-FRA-01A-2010,Roland Garros,Clay,128,G,20100524,64,201554,,,Vitalia Diatchenko,R,170,RUS,19.8,201613,,,Arina Rodionova,R,168,AUS,20.4,6-0 2-6 11-9,3,Q2,,,,,,,,,,,,,,,,,,,,169,325,157,361
 2010-W-SL-FRA-01A-2010,Roland Garros,Clay,128,G,20100524,65,201594,9,,Simona Halep,R,168,ROU,18.6,201483,,,Madison Brengle,R,168,USA,20.1,6-3 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,114,557,174,316
 2010-W-SL-FRA-01A-2010,Roland Garros,Clay,128,G,20100524,66,201318,14,,Bethanie Mattek Sands,R,168,USA,25.1,200764,,,Elena Bovina,R,189,RUS,27.2,6-3 3-6 6-4,3,Q2,,2,2,92,58,38,13,,9,14,0,3,82,56,35,10,,4,10,124,531,190,282
 2010-W-SL-FRA-01A-2010,Roland Garros,Clay,128,G,20100524,67,201466,10,,Kaia Kanepi,R,181,EST,24.9,201610,,,Zarina Diyas,R,172,KAZ,16.5,6-1 6-0,3,Q2,,5,4,69,43,31,12,,6,6,0,3,35,21,10,3,,1,6,118,546,256,201
@@ -15780,7 +15780,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-SL-FRA-01A-2010,Roland Garros,Clay,128,G,20100524,84,201541,20,,Chanelle Scheepers,R,176,RSA,26.1,201334,,,Zuzana Ondraskova,R,174,CZE,30.0,4-6 7-6(5) 6-0,3,Q3,,,,,,,,,,,,,,,,,,,,131,473,163,348
 2010-W-SL-GBR-01A-2010,Wimbledon,Grass,128,G,20100621,1,201466,1,,Kaia Kanepi,R,181,EST,25.0,201456,,,Olga Savchuk,R,175,UKR,22.7,6-1 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,80,780,152,400
 2010-W-SL-GBR-01A-2010,Wimbledon,Grass,128,G,20100621,2,200764,,,Elena Bovina,R,189,RUS,27.2,201605,,,Mandy Minella,R,180,LUX,24.5,4-6 6-4 11-9,3,Q1,,,,,,,,,,,,,,,,,,,,169,332,176,307
-2010-W-SL-GBR-01A-2010,Wimbledon,Grass,128,G,20100621,3,201663,,,Ekaterina Dzehalevich,R,168,BLR,24.1,201613,,,Arina Rodionova,R,168,RUS,20.5,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,187,283,180,301
+2010-W-SL-GBR-01A-2010,Wimbledon,Grass,128,G,20100621,3,201663,,,Ekaterina Dzehalevich,R,168,BLR,24.1,201613,,,Arina Rodionova,R,168,AUS,20.5,6-0 6-0,3,Q1,,,,,,,,,,,,,,,,,,,,187,283,180,301
 2010-W-SL-GBR-01A-2010,Wimbledon,Grass,128,G,20100621,4,201548,,,Ajla Tomljanovic,R,180,AUS,17.1,201568,24,,Kristina Kucova,R,163,SVK,20.0,1-6 6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,175,312,134,461
 2010-W-SL-GBR-01A-2010,Wimbledon,Grass,128,G,20100621,5,201402,,,Sesil Karatantcheva,R,171,KAZ,20.8,201596,2,,Johanna Larsson,R,174,SWE,21.8,4-6 6-3 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,126,503,85,746
 2010-W-SL-GBR-01A-2010,Wimbledon,Grass,128,G,20100621,6,201291,,,Nuria Llagostera Vives,R,156,ESP,30.0,201563,,,Darya Kustova,U,,BLR,24.0,6-2 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,177,305,157,380
@@ -15888,7 +15888,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-SL-USA-01A-2010,US Open,Hard,128,G,20100830,24,201481,,,Tamira Paszek,R,165,AUT,19.7,201414,24,,Michaella Krajicek,R,177,NED,21.6,6-4 6-3,3,Q1,,2,4,55,34,25,12,,3,5,3,3,53,27,18,12,,4,8,196,273,133,488
 2010-W-SL-USA-01A-2010,US Open,Hard,128,G,20100830,25,201605,,,Mandy Minella,R,180,LUX,24.7,201375,7,,Shenay Perry,R,170,USA,26.1,6-2 2-6 6-0,3,Q1,,2,4,66,36,25,17,,2,5,0,10,66,29,18,15,,0,6,185,300,113,608
 2010-W-SL-USA-01A-2010,US Open,Hard,128,G,20100830,26,201688,,,Claire De Gubernatis,L,,FRA,24.1,201483,,,Madison Brengle,R,168,USA,20.4,3-6 6-2 7-5,3,Q1,,1,5,86,52,31,12,,5,11,1,3,96,56,29,19,,6,14,224,235,169,344
-2010-W-SL-USA-01A-2010,US Open,Hard,128,G,20100830,27,201613,,,Arina Rodionova,R,168,RUS,20.7,202438,,,Ani Mijacika,R,,CRO,23.2,6-4 6-1,3,Q1,,1,1,50,32,24,9,,0,1,2,6,54,27,14,11,,4,9,191,282,240,214
+2010-W-SL-USA-01A-2010,US Open,Hard,128,G,20100830,27,201613,,,Arina Rodionova,R,168,AUS,20.7,202438,,,Ani Mijacika,R,,CRO,23.2,6-4 6-1,3,Q1,,1,1,50,32,24,9,,0,1,2,6,54,27,14,11,,4,9,191,282,240,214
 2010-W-SL-USA-01A-2010,US Open,Hard,128,G,20100830,28,200770,,,Stephanie Cohen Aloro,R,175,FRA,27.4,200068,28,,Lilia Osterloh,R,170,USA,32.3,6-7(5) 6-4 6-3,3,Q1,,10,4,109,66,47,21,,6,9,3,5,113,57,40,24,,7,12,144,431,136,470
 2010-W-SL-USA-01A-2010,US Open,Hard,128,G,20100830,29,202426,,WC,Julia Boserup,R,181,USA,18.9,201599,8,,Andrea Hlavackova,R,174,CZE,24.0,6-3 6-4,3,Q1,,5,9,70,32,26,15,,3,5,6,7,67,32,22,14,,8,12,379,100,115,597
 2010-W-SL-USA-01A-2010,US Open,Hard,128,G,20100830,30,201452,,,Lourdes Dominguez Lino,R,163,ESP,29.4,201586,,,Heather Watson,R,170,GBR,18.2,2-6 6-4 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,148,418,215,244
@@ -15939,7 +15939,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-SL-USA-01A-2010,US Open,Hard,128,G,20100830,75,201516,6,,Evgeniya Rodina,R,170,RUS,21.5,201577,,,Heidi El Tabakh,R,180,CAN,23.9,6-4 6-3,3,Q2,,1,4,77,58,40,7,,6,8,3,1,66,40,25,11,,10,14,111,623,211,251
 2010-W-SL-USA-01A-2010,US Open,Hard,128,G,20100830,76,201481,,,Tamira Paszek,R,165,AUT,19.7,201675,,,So Jung Kim,R,,KOR,24.4,6-3 6-1,3,Q2,,1,2,55,32,18,15,,2,4,0,4,47,27,12,5,,1,7,196,273,237,220
 2010-W-SL-USA-01A-2010,US Open,Hard,128,G,20100830,77,201605,,,Mandy Minella,R,180,LUX,24.7,201688,,,Claire De Gubernatis,L,,FRA,24.1,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,185,300,224,235
-2010-W-SL-USA-01A-2010,US Open,Hard,128,G,20100830,78,201613,,,Arina Rodionova,R,168,RUS,20.7,200770,,,Stephanie Cohen Aloro,R,175,FRA,27.4,6-3 6-2,3,Q2,,4,2,54,30,23,16,,3,3,3,2,58,36,22,10,,8,11,191,282,144,431
+2010-W-SL-USA-01A-2010,US Open,Hard,128,G,20100830,78,201613,,,Arina Rodionova,R,168,AUS,20.7,200770,,,Stephanie Cohen Aloro,R,175,FRA,27.4,6-3 6-2,3,Q2,,4,2,54,30,23,16,,3,3,3,2,58,36,22,10,,8,11,191,282,144,431
 2010-W-SL-USA-01A-2010,US Open,Hard,128,G,20100830,79,201452,,,Lourdes Dominguez Lino,R,163,ESP,29.4,202426,,WC,Julia Boserup,R,181,USA,18.9,6-3 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,148,418,379,100
 2010-W-SL-USA-01A-2010,US Open,Hard,128,G,20100830,80,201697,,A,Kristyna Pliskova,L,184,CZE,18.4,201551,18,,Arantxa Rus,L,180,NED,19.7,6-7(5) 7-6(4) 6-2,3,Q2,,5,4,102,61,45,18,,3,7,4,4,109,69,45,18,,5,11,236,220,126,503
 2010-W-SL-USA-01A-2010,US Open,Hard,128,G,20100830,81,201589,,,Sharon Fichman,R,163,CAN,19.7,202484,,WC,Nicole Gibbs,R,168,USA,17.4,4-6 6-4 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,165,367,439,75
@@ -15964,7 +15964,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2010-W-SL-USA-01A-2010,US Open,Hard,128,G,20100830,100,200002,,,Mirjana Lucic,R,181,CRO,28.4,201402,29,,Sesil Karatantcheva,R,171,KAZ,21.0,6-1 6-4,3,Q3,,,,,,,,,,,,,,,,,,,,150,412,137,469
 2010-W-SL-USA-01A-2010,US Open,Hard,128,G,20100830,101,201607,,,Sally Peers,R,162,AUS,19.2,201612,,,Junri Namigata,R,170,JPN,28.1,7-6(3) 4-6 6-4,3,Q3,,2,7,122,89,54,15,,10,15,0,5,99,61,33,19,,6,12,201,263,152,406
 2010-W-SL-USA-01A-2010,US Open,Hard,128,G,20100830,102,201481,,,Tamira Paszek,R,165,AUT,19.7,201516,6,,Evgeniya Rodina,R,170,RUS,21.5,2-6 6-3 6-0,3,Q3,,2,2,74,47,31,9,,4,9,0,2,71,54,22,8,,6,13,196,273,111,623
-2010-W-SL-USA-01A-2010,US Open,Hard,128,G,20100830,103,201605,,,Mandy Minella,R,180,LUX,24.7,201613,,,Arina Rodionova,R,168,RUS,20.7,7-5 7-6(6),3,Q3,,3,1,80,53,38,14,,2,5,1,2,75,56,34,11,,7,10,185,300,191,282
+2010-W-SL-USA-01A-2010,US Open,Hard,128,G,20100830,103,201605,,,Mandy Minella,R,180,LUX,24.7,201613,,,Arina Rodionova,R,168,AUS,20.7,7-5 7-6(6),3,Q3,,3,1,80,53,38,14,,2,5,1,2,75,56,34,11,,7,10,185,300,191,282
 2010-W-SL-USA-01A-2010,US Open,Hard,128,G,20100830,104,201452,,,Lourdes Dominguez Lino,R,163,ESP,29.4,201697,,A,Kristyna Pliskova,L,184,CZE,18.4,6-3 3-6 6-0,3,Q3,,,,,,,,,,,,,,,,,,,,148,418,236,220
 2010-W-SL-USA-01A-2010,US Open,Hard,128,G,20100830,105,201606,,,Rebecca Marino,R,183,CAN,19.7,201589,,,Sharon Fichman,R,163,CAN,19.7,6-2 6-1,3,Q3,,5,3,57,24,17,18,,2,3,0,4,54,32,17,6,,6,11,179,312,165,367
 2010-W-SL-USA-01A-2010,US Open,Hard,128,G,20100830,106,201604,,WC,Irina Falconi,R,163,USA,20.3,201477,25,,Stephanie Dubois,R,162,CAN,23.8,6-3 6-1,3,Q3,,1,0,58,37,20,13,,5,7,1,5,50,26,9,10,,2,7,387,96,134,484

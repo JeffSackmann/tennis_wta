@@ -9158,7 +9158,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C10-USA-02A-2011,Sumter SC 10K,Hard,32,10,20110523,7,204424,,Q,Hayley Carter,R,180,USA,16.0,203513,,WC,Robin Anderson,R,160,USA,18.1,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2011-W-C10-USA-02A-2011,Sumter SC 10K,Hard,32,10,20110523,8,202686,7,,Di Zhao,U,,CHN,18.3,210860,,Q,Jessica Wacnik,U,,USA,18.0,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,831,18,,
 2011-W-C10-USA-02A-2011,Sumter SC 10K,Hard,32,10,20110523,9,205917,8,,Kyle Mcphillips,R,,USA,17.1,206091,,,Yolande Leacock,R,,TTO,20.3,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,873,16,917,14
-2011-W-C10-USA-02A-2011,Sumter SC 10K,Hard,32,10,20110523,10,205922,,,Chanelle Van Nguyen,U,,USA,17.3,204411,,,Storm Sanders,L,166,AUS,16.7,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,913,14,,
+2011-W-C10-USA-02A-2011,Sumter SC 10K,Hard,32,10,20110523,10,205922,,,Chanelle Van Nguyen,U,,USA,17.3,204411,,,Storm Hunter,L,166,AUS,16.7,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,913,14,,
 2011-W-C10-USA-02A-2011,Sumter SC 10K,Hard,32,10,20110523,11,204395,,SE,Brooke Austin,R,168,USA,15.2,204302,,Q,Ashley Murdock,R,,USA,23.5,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2011-W-C10-USA-02A-2011,Sumter SC 10K,Hard,32,10,20110523,12,205616,,,Xin Wen,R,,CHN,18.8,203410,3,,Anna Livadaru,U,,GER,18.4,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1019,9,740,26
 2011-W-C10-USA-02A-2011,Sumter SC 10K,Hard,32,10,20110523,13,203528,6,,Nicola Slater,U,173,GBR,26.7,210567,,,Martina Frantova,R,,SVK,18.6,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,817,19,,
@@ -9837,7 +9837,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C25-AUS-06A-2011,Alice Springs 25K,Hard,32,25,20110905,4,202644,,Q,Ting Fei Juan,U,,TPE,19.0,202339,5,,Ayu Fani Damayanti,R,162,INA,22.7,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,674,35,286,194
 2011-W-C25-AUS-06A-2011,Alice Springs 25K,Hard,32,25,20110905,5,201538,3,,Isabella Holland,R,,AUS,19.6,204412,,Q,Belinda Woolcock,R,173,AUS,16.6,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,217,269,1156,5
 2011-W-C25-AUS-06A-2011,Alice Springs 25K,Hard,32,25,20110905,6,202590,,,Lena Litvak,R,,USA,22.8,202645,,,Jessy Rompies,R,160,INA,21.3,5-7 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,453,81,490,70
-2011-W-C25-AUS-06A-2011,Alice Springs 25K,Hard,32,25,20110905,7,204411,,Q,Storm Sanders,L,166,AUS,17.0,202365,,Q,Lavinia Tananta,R,,INA,23.8,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1030,10,500,68
+2011-W-C25-AUS-06A-2011,Alice Springs 25K,Hard,32,25,20110905,7,204411,,Q,Storm Hunter,L,166,AUS,17.0,202365,,Q,Lavinia Tananta,R,,INA,23.8,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1030,10,500,68
 2011-W-C25-AUS-06A-2011,Alice Springs 25K,Hard,32,25,20110905,8,201664,6,,Pemra Ozgen,R,170,TUR,25.3,206097,,WC,Erin Billett,R,,AUS,22.6,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,301,176,,
 2011-W-C25-AUS-06A-2011,Alice Springs 25K,Hard,32,25,20110905,9,202639,7,,Akiko Omae,R,162,JPN,18.5,201543,,Q,Emelyn Starr,R,,AUS,21.8,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,335,146,797,22
 2011-W-C25-AUS-06A-2011,Alice Springs 25K,Hard,32,25,20110905,10,202425,,,Samantha Murray,R,178,GBR,23.9,204222,,Q,Tyra Calderwood,R,,AUS,20.9,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,495,69,,
@@ -9850,13 +9850,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C25-AUS-06A-2011,Alice Springs 25K,Hard,32,25,20110905,17,201607,1,,Sally Peers,R,162,AUS,20.2,202386,,,Sung Hee Han,R,,KOR,20.8,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,166,347,415,97
 2011-W-C25-AUS-06A-2011,Alice Springs 25K,Hard,32,25,20110905,18,203431,,,Keren Shlomo,R,167,ISR,23.6,202644,,Q,Ting Fei Juan,U,,TPE,19.0,7-6(4) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,459,78,674,35
 2011-W-C25-AUS-06A-2011,Alice Springs 25K,Hard,32,25,20110905,19,201538,3,,Isabella Holland,R,,AUS,19.6,202590,,,Lena Litvak,R,,USA,22.8,6-3 3-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,217,269,453,81
-2011-W-C25-AUS-06A-2011,Alice Springs 25K,Hard,32,25,20110905,20,204411,,Q,Storm Sanders,L,166,AUS,17.0,201664,6,,Pemra Ozgen,R,170,TUR,25.3,7-6(4) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1030,10,301,176
+2011-W-C25-AUS-06A-2011,Alice Springs 25K,Hard,32,25,20110905,20,204411,,Q,Storm Hunter,L,166,AUS,17.0,201664,6,,Pemra Ozgen,R,170,TUR,25.3,7-6(4) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1030,10,301,176
 2011-W-C25-AUS-06A-2011,Alice Springs 25K,Hard,32,25,20110905,21,202639,7,,Akiko Omae,R,162,JPN,18.5,202425,,,Samantha Murray,R,178,GBR,23.9,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,335,146,495,69
 2011-W-C25-AUS-06A-2011,Alice Springs 25K,Hard,32,25,20110905,22,201469,4,,Melanie South,R,175,GBR,25.3,202483,,,Sandra Zaniewska,R,172,POL,19.6,1-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,244,227,382,113
 2011-W-C25-AUS-06A-2011,Alice Springs 25K,Hard,32,25,20110905,23,203526,8,,Tammi Patterson,R,167,AUS,21.6,202302,,,Maria Fernanda Alves,L,174,BRA,28.3,7-6(4) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,367,120,431,90
 2011-W-C25-AUS-06A-2011,Alice Springs 25K,Hard,32,25,20110905,24,201542,2,,Olivia Rogowska,R,175,AUS,20.2,202539,,WC,Alison Bai,R,170,AUS,21.6,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,196,289,539,57
 2011-W-C25-AUS-06A-2011,Alice Springs 25K,Hard,32,25,20110905,25,201607,1,,Sally Peers,R,162,AUS,20.2,203431,,,Keren Shlomo,R,167,ISR,23.6,6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,166,347,459,78
-2011-W-C25-AUS-06A-2011,Alice Springs 25K,Hard,32,25,20110905,26,201538,3,,Isabella Holland,R,,AUS,19.6,204411,,Q,Storm Sanders,L,166,AUS,17.0,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,217,269,1030,10
+2011-W-C25-AUS-06A-2011,Alice Springs 25K,Hard,32,25,20110905,26,201538,3,,Isabella Holland,R,,AUS,19.6,204411,,Q,Storm Hunter,L,166,AUS,17.0,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,217,269,1030,10
 2011-W-C25-AUS-06A-2011,Alice Springs 25K,Hard,32,25,20110905,27,202639,7,,Akiko Omae,R,162,JPN,18.5,201469,4,,Melanie South,R,175,GBR,25.3,6-4 3-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,335,146,244,227
 2011-W-C25-AUS-06A-2011,Alice Springs 25K,Hard,32,25,20110905,28,201542,2,,Olivia Rogowska,R,175,AUS,20.2,203526,8,,Tammi Patterson,R,167,AUS,21.6,7-5 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,196,289,367,120
 2011-W-C25-AUS-06A-2011,Alice Springs 25K,Hard,32,25,20110905,29,201538,3,,Isabella Holland,R,,AUS,19.6,201607,1,,Sally Peers,R,162,AUS,20.2,6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,217,269,166,347
@@ -9901,7 +9901,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C25-AUS-08A-2011,Darwin 25K,Hard,32,25,20110919,6,203576,,Q,Kai Lin Zhang,R,173,CHN,21.6,202342,,,Daniella Jeflea,R,,AUS,24.6,6-1 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,851,18,396,106
 2011-W-C25-AUS-08A-2011,Darwin 25K,Hard,32,25,20110919,7,204355,,,Katherine Westbury,R,177,THA,18.5,206074,,Q,Ebony Panoho,R,,AUS,16.6,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,628,42,1204,4
 2011-W-C25-AUS-08A-2011,Darwin 25K,Hard,32,25,20110919,8,201664,6,,Pemra Ozgen,R,170,TUR,25.3,203431,,,Keren Shlomo,R,167,ISR,23.6,6-7(6) 7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,295,183,454,83
-2011-W-C25-AUS-08A-2011,Darwin 25K,Hard,32,25,20110919,9,201399,5,,Emily Webley Smith,R,,GBR,27.1,204411,,Q,Storm Sanders,L,166,AUS,17.1,6-4 7-6(8),3,R32,,,,,,,,,,,,,,,,,,,,282,196,766,24
+2011-W-C25-AUS-08A-2011,Darwin 25K,Hard,32,25,20110919,9,201399,5,,Emily Webley Smith,R,,GBR,27.1,204411,,Q,Storm Hunter,L,166,AUS,17.1,6-4 7-6(8),3,R32,,,,,,,,,,,,,,,,,,,,282,196,766,24
 2011-W-C25-AUS-08A-2011,Darwin 25K,Hard,32,25,20110919,10,202459,,,Bojana Bobusic,R,170,AUS,23.9,204298,,Q,Viktorija Rajicic,R,170,AUS,17.4,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,429,91,748,25
 2011-W-C25-AUS-08A-2011,Darwin 25K,Hard,32,25,20110919,11,206107,,Q,Zhaoxuan Yang,R,,CHN,16.6,202302,,,Maria Fernanda Alves,L,174,BRA,28.4,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,805,22,389,108
 2011-W-C25-AUS-08A-2011,Darwin 25K,Hard,32,25,20110919,12,202590,,,Lena Litvak,R,,USA,22.8,201469,3,,Melanie South,R,175,GBR,25.3,6-2 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,423,93,259,217
@@ -9926,7 +9926,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C25-AUS-08A-2011,Darwin 25K,Hard,32,25,20110919,31,201348,4,,Casey Dellacqua,L,165,AUS,26.6,202639,7,,Akiko Omae,R,162,JPN,18.6,6-1 6-2,3,F,,,,,,,,,,,,,,,,,,,,275,202,307,169
 2011-W-C25-AUS-09A-2011,Esperance 25K,Hard,32,25,20111003,1,201678,1,,Sacha Jones,R,,AUS,20.9,206279,,WC,Stephanie Bengson,R,180,AUS,24.6,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,228,249,1099,7
 2011-W-C25-AUS-09A-2011,Esperance 25K,Hard,32,25,20111003,2,206283,,Q,Ziyue Sun,U,,CHN,15.2,202568,,,Yumi Nakano,R,,JPN,23.7,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,596,47
-2011-W-C25-AUS-09A-2011,Esperance 25K,Hard,32,25,20111003,3,202651,,,Lisa Whybourn,R,,GBR,20.3,204411,,Q,Storm Sanders,L,166,AUS,17.1,2-6 7-6(8) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,432,90,752,25
+2011-W-C25-AUS-09A-2011,Esperance 25K,Hard,32,25,20111003,3,202651,,,Lisa Whybourn,R,,GBR,20.3,204411,,Q,Storm Hunter,L,166,AUS,17.1,2-6 7-6(8) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,432,90,752,25
 2011-W-C25-AUS-09A-2011,Esperance 25K,Hard,32,25,20111003,4,201399,5,,Emily Webley Smith,R,,GBR,27.2,206097,,Q,Erin Billett,R,,AUS,22.7,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,266,210,,
 2011-W-C25-AUS-09A-2011,Esperance 25K,Hard,32,25,20111003,5,201348,3,,Casey Dellacqua,L,165,AUS,26.6,203489,,Q,Hao Chen Tang,R,,CHN,17.6,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,207,302,1189,4
 2011-W-C25-AUS-09A-2011,Esperance 25K,Hard,32,25,20111003,6,201543,,,Emelyn Starr,R,,AUS,21.8,223076,,WC,Elizabeth James,R,,AUS,17.4,7-6(6) 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,939,14,,
@@ -9955,7 +9955,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C25-AUS-09A-2011,Esperance 25K,Hard,32,25,20111003,29,201348,3,,Casey Dellacqua,L,165,AUS,26.6,201678,1,,Sacha Jones,R,,AUS,20.9,2-6 6-4 6-2,3,SF,,,,,,,,,,,,,,,,,,,,207,302,228,249
 2011-W-C25-AUS-09A-2011,Esperance 25K,Hard,32,25,20111003,30,201542,2,WC,Olivia Rogowska,R,175,AUS,20.3,202590,,,Lena Litvak,R,,USA,22.8,6-0 6-1,3,SF,,,,,,,,,,,,,,,,,,,,217,283,396,106
 2011-W-C25-AUS-09A-2011,Esperance 25K,Hard,32,25,20111003,31,201348,3,,Casey Dellacqua,L,165,AUS,26.6,201542,2,WC,Olivia Rogowska,R,175,AUS,20.3,6-2 6-1,3,F,,,,,,,,,,,,,,,,,,,,207,302,217,283
-2011-W-C25-AUS-10A-2011,Kalgoorlie 25K,Hard,32,25,20111010,1,201348,1,,Casey Dellacqua,L,165,AUS,26.6,204411,,,Storm Sanders,L,166,AUS,17.1,7-6(1) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,205,302,746,25
+2011-W-C25-AUS-10A-2011,Kalgoorlie 25K,Hard,32,25,20111010,1,201348,1,,Casey Dellacqua,L,165,AUS,26.6,204411,,,Storm Hunter,L,166,AUS,17.1,7-6(1) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,205,302,746,25
 2011-W-C25-AUS-10A-2011,Kalgoorlie 25K,Hard,32,25,20111010,2,203526,,,Tammi Patterson,R,167,AUS,21.7,203404,,Q,Svenja Weidemann,R,,GER,31.0,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,411,94,,
 2011-W-C25-AUS-10A-2011,Kalgoorlie 25K,Hard,32,25,20111010,3,203431,,,Keren Shlomo,R,167,ISR,23.7,206283,,Q,Ziyue Sun,U,,CHN,15.2,3-6 6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,509,66,,
 2011-W-C25-AUS-10A-2011,Kalgoorlie 25K,Hard,32,25,20111010,4,201469,5,,Melanie South,R,175,GBR,25.4,204216,,,Alenka Hubacek,R,,AUS,20.8,6-3 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,291,181,765,24
@@ -10056,7 +10056,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,6,204216,,WC,Alenka Hubacek,R,,AUS,20.9,202634,,,Chen Liang,R,172,CHN,22.7,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,742,26,446,84
 2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,7,202400,,,Anna Fitzpatrick,R,173,GBR,22.6,205790,,WC,Alexandra Nancarrow,R,165,AUS,18.2,6-1 6-7(1) 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,440,85,,
 2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,8,201613,6,,Arina Rodionova,R,168,AUS,21.9,202687,,Q,Ran Tian,R,,CHN,17.8,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,234,245,610,42
-2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,9,204411,,WC,Storm Sanders,L,166,AUS,17.2,201399,7,,Emily Webley Smith,R,,GBR,27.3,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,733,26,241,232
+2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,9,204411,,WC,Storm Hunter,L,166,AUS,17.2,201399,7,,Emily Webley Smith,R,,GBR,27.3,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,733,26,241,232
 2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,10,204298,,Q,Viktorija Rajicic,R,170,AUS,17.6,202342,,,Daniella Jeflea,R,,AUS,24.8,6-2 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,826,19,451,82
 2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,11,202539,,,Alison Bai,R,170,AUS,21.8,206279,,Q,Stephanie Bengson,R,180,AUS,24.7,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,656,35,784,23
 2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,12,201678,4,,Sacha Jones,R,,AUS,21.0,202638,,,Chiaki Okadaue,U,,JPN,25.0,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,227,262,413,93
@@ -10068,7 +10068,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,18,201410,,,Monique Adamczak,R,170,AUS,28.8,202459,,,Bojana Bobusic,R,170,AUS,24.1,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,286,188,250,226
 2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,19,201538,3,,Isabella Holland,R,,AUS,19.8,204216,,WC,Alenka Hubacek,R,,AUS,20.9,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,192,322,742,26
 2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,20,202400,,,Anna Fitzpatrick,R,173,GBR,22.6,201613,6,,Arina Rodionova,R,168,AUS,21.9,6-2 RET,3,R16,,,,,,,,,,,,,,,,,,,,440,85,234,245
-2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,21,204298,,Q,Viktorija Rajicic,R,170,AUS,17.6,204411,,WC,Storm Sanders,L,166,AUS,17.2,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,826,19,733,26
+2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,21,204298,,Q,Viktorija Rajicic,R,170,AUS,17.6,204411,,WC,Storm Hunter,L,166,AUS,17.2,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,826,19,733,26
 2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,22,201678,4,,Sacha Jones,R,,AUS,21.0,202539,,,Alison Bai,R,170,AUS,21.8,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,227,262,656,35
 2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,23,202425,,,Samantha Murray,R,178,GBR,24.0,202651,,,Lisa Whybourn,R,,GBR,20.5,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,445,84,423,91
 2011-W-C25-AUS-13A-2011,Traralgon 25K,Hard,32,25,20111114,24,201542,2,,Olivia Rogowska,R,175,AUS,20.4,204413,,WC,Azra Hadzic,U,172,AUS,16.9,4-6 6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,182,351,741,26
@@ -10084,7 +10084,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C25-AUS-14A-2011,Bendigo 25K,Hard,32,25,20111121,3,206279,,Q,Stephanie Bengson,R,180,AUS,24.8,202459,,,Bojana Bobusic,R,170,AUS,24.1,6-7(7) 7-5 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,783,23,250,226
 2011-W-C25-AUS-14A-2011,Bendigo 25K,Hard,32,25,20111121,4,202686,,Q,Di Zhao,U,,CHN,18.8,201399,8,,Emily Webley Smith,R,,GBR,27.3,7-6(4) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,660,35,242,232
 2011-W-C25-AUS-14A-2011,Bendigo 25K,Hard,32,25,20111121,5,201678,4,,Sacha Jones,R,,AUS,21.0,206278,,WC,Lyann Hoang,R,,AUS,15.7,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,261,213,,
-2011-W-C25-AUS-14A-2011,Bendigo 25K,Hard,32,25,20111121,6,201469,,,Melanie South,R,175,GBR,25.5,204411,,WC,Storm Sanders,L,166,AUS,17.2,6-3 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,310,158,732,26
+2011-W-C25-AUS-14A-2011,Bendigo 25K,Hard,32,25,20111121,6,201469,,,Melanie South,R,175,GBR,25.5,204411,,WC,Storm Hunter,L,166,AUS,17.2,6-3 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,310,158,732,26
 2011-W-C25-AUS-14A-2011,Bendigo 25K,Hard,32,25,20111121,7,204298,,Q,Viktorija Rajicic,R,170,AUS,17.6,203293,,,Karolina Wlodarczak,R,178,AUS,24.4,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,826,19,469,77
 2011-W-C25-AUS-14A-2011,Bendigo 25K,Hard,32,25,20111121,8,202685,5,,Misa Eguchi,R,173,JPN,19.5,204413,,Q,Azra Hadzic,U,172,AUS,16.9,5-7 6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,233,246,739,26
 2011-W-C25-AUS-14A-2011,Bendigo 25K,Hard,32,25,20111121,9,202425,,,Samantha Murray,R,178,GBR,24.1,201613,6,,Arina Rodionova,R,168,AUS,21.9,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,446,84,238,238
@@ -13712,7 +13712,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C25-USA-11A-2011,El Paso TX 25K,Hard,32,25,20110606,4,201383,,,Marie Eve Pelletier,R,172,CAN,29.0,202935,5,,Krista Hardebeck,R,,USA,16.7,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,398,102,360,118
 2011-W-C25-USA-11A-2011,El Paso TX 25K,Hard,32,25,20110606,5,202900,4,,Maria Fernanda Alvarez Teran,R,174,BOL,22.2,204395,,WC,Brooke Austin,R,168,USA,15.3,7-5 6-7(6) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,255,212,917,14
 2011-W-C25-USA-11A-2011,El Paso TX 25K,Hard,32,25,20110606,6,203411,,,Macall Harkins,L,,USA,25.3,202923,,,Amanda Mcdowell,U,,USA,23.7,6-2 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,497,71,495,71
-2011-W-C25-USA-11A-2011,El Paso TX 25K,Hard,32,25,20110606,7,204411,,WC,Storm Sanders,L,166,AUS,16.8,202496,,WC,Samantha Crawford,R,188,USA,16.2,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,990,10
+2011-W-C25-USA-11A-2011,El Paso TX 25K,Hard,32,25,20110606,7,204411,,WC,Storm Hunter,L,166,AUS,16.8,202496,,WC,Samantha Crawford,R,188,USA,16.2,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,990,10
 2011-W-C25-USA-11A-2011,El Paso TX 25K,Hard,32,25,20110606,8,202481,6,,Chi Chi Scholl,R,,USA,18.9,203451,,Q,Marina Giral Lores,R,,VEN,20.7,6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,324,146,876,16
 2011-W-C25-USA-11A-2011,El Paso TX 25K,Hard,32,25,20110606,9,202408,7,,Amanda Fink,U,,USA,24.5,202302,,,Maria Fernanda Alves,L,174,BRA,28.1,7-6(5) 2-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,382,107,498,70
 2011-W-C25-USA-11A-2011,El Paso TX 25K,Hard,32,25,20110606,10,202590,,,Lena Litvak,R,,USA,22.5,202686,,Q,Di Zhao,U,,CHN,18.4,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,508,66,822,19
@@ -13725,7 +13725,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2011-W-C25-USA-11A-2011,El Paso TX 25K,Hard,32,25,20110606,17,203492,,,Alyona Sotnikova,R,170,UKR,19.0,202459,,,Bojana Bobusic,R,170,AUS,23.6,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,445,83,516,63
 2011-W-C25-USA-11A-2011,El Paso TX 25K,Hard,32,25,20110606,18,201383,,,Marie Eve Pelletier,R,172,CAN,29.0,201087,,,Mashona Washington,R,168,USA,35.0,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,398,102,399,102
 2011-W-C25-USA-11A-2011,El Paso TX 25K,Hard,32,25,20110606,19,202900,4,,Maria Fernanda Alvarez Teran,R,174,BOL,22.2,203411,,,Macall Harkins,L,,USA,25.3,3-6 6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,255,212,497,71
-2011-W-C25-USA-11A-2011,El Paso TX 25K,Hard,32,25,20110606,20,202481,6,,Chi Chi Scholl,R,,USA,18.9,204411,,WC,Storm Sanders,L,166,AUS,16.8,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,324,146,,
+2011-W-C25-USA-11A-2011,El Paso TX 25K,Hard,32,25,20110606,20,202481,6,,Chi Chi Scholl,R,,USA,18.9,204411,,WC,Storm Hunter,L,166,AUS,16.8,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,324,146,,
 2011-W-C25-USA-11A-2011,El Paso TX 25K,Hard,32,25,20110606,21,202408,7,,Amanda Fink,U,,USA,24.5,202590,,,Lena Litvak,R,,USA,22.5,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,382,107,508,66
 2011-W-C25-USA-11A-2011,El Paso TX 25K,Hard,32,25,20110606,22,201815,3,,Petra Rampre,R,170,SLO,31.3,202643,,,Yasmin Schnack,R,178,USA,23.0,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,320,153,409,96
 2011-W-C25-USA-11A-2011,El Paso TX 25K,Hard,32,25,20110606,23,202447,,,Alexandra Mueller,R,180,USA,23.3,206157,,Q,Natalie Pluskota,R,178,USA,21.5,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,430,89,,
