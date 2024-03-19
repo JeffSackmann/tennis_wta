@@ -174,7 +174,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-1072,Limoges,Hard,32,C,20161114,261,202488,6,,Valentyna Ivakhnenko,R,163,UKR,23.3,206136,2,,Deniz Khazaniuk,R,175,ISR,22.0,7-6(2) 4-6 6-4,3,Q2,198,1,4,114,78,43,18,16,6,13,0,2,125,100,51,14,16,15,22,327,130,252,189
 2016-1072,Limoges,Hard,32,C,20161114,262,201448,8,,Galina Voskoboeva,R,183,KAZ,31.9,211227,1,,Lina Gjorcheska,R,180,MKD,22.2,6-2 6-4,3,Q2,67,2,1,51,26,19,11,9,0,3,1,4,55,25,15,8,9,2,8,372,99,205,267
 2016-1083,Dalian,Hard,32,C,20160905,258,201631,7,,Nicha Lertpitaksinchai,R,174,THA,25.0,201487,,,Jessica Moore,R,167,AUS,26.0,6-2 6-3,3,Q1,81,2,5,43,21,19,11,8,0,1,2,7,72,38,22,12,9,8,13,318,127,370,100
-2016-1083,Dalian,Hard,32,C,20160905,259,201582,4,,Jing Jing Lu,R,170,CHN,27.3,206294,,WC,Yue Yuan,U,184,CHN,25.1,6-4 6-2,3,Q1,76,2,8,63,38,27,10,9,6,8,2,3,59,33,16,12,9,5,10,218,240,1134,5
+2016-1083,Dalian,Hard,32,C,20160905,259,201582,4,,Jing Jing Lu,R,170,CHN,27.3,206294,,WC,Yue Yuan,R,184,CHN,17.9,6-4 6-2,3,Q1,76,2,8,63,38,27,10,9,6,8,2,3,59,33,16,12,9,5,10,218,240,1134,5
 2016-1083,Dalian,Hard,32,C,20160905,260,202695,5,,Aleksandrina Naydenova,R,170,BUL,24.5,201399,,,Emily Webley Smith,R,,GBR,32.1,6-2 6-1,3,Q1,54,2,3,47,28,15,11,8,1,4,0,7,46,15,8,7,7,4,11,252,187,485,61
 2016-1083,Dalian,Hard,32,C,20160905,261,214646,,,Xiaodi You,U,,CHN,20.3,202693,3,,Ya Hsuan Lee,R,165,TPE,21.1,6-3 6-4,3,Q1,77,3,6,63,37,23,11,10,4,8,0,3,54,34,17,6,9,1,7,424,82,203,258
 2016-1083,Dalian,Hard,32,C,20160905,262,206102,6,,Ankita Raina,R,163,IND,23.6,214181,,,Anastasia Gasanova,R,,RUS,17.3,6-4 7-6(3),3,Q1,123,2,5,73,47,22,9,11,5,12,0,3,83,64,29,6,11,9,17,289,144,412,87
@@ -1567,7 +1567,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-CHN-02A-2016,Nanjing $10K,Hard,32,10,20160307,11,213636,,Q,Yukun Zhang,R,,CHN,20.1,213947,,Q,Ying Zhang,U,,CHN,19.8,6-1 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,694,27,1000,9
 2016-W-C10-CHN-02A-2016,Nanjing $10K,Hard,32,10,20160307,12,206151,4,,Kamonwan Buayam,R,,THA,20.0,205789,,,Na Ri Kim,U,,KOR,25.9,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,365,100,591,39
 2016-W-C10-CHN-02A-2016,Nanjing $10K,Hard,32,10,20160307,13,214386,6,,Xinyu Gao,U,,CHN,18.2,213799,,,Yuanyi Yu,U,,CHN,21.1,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,421,79,671,29
-2016-W-C10-CHN-02A-2016,Nanjing $10K,Hard,32,10,20160307,14,212019,,,Yan Wang,U,,CHN,20.1,206294,,Q,Yue Yuan,U,184,CHN,24.6,3-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,673,29,,
+2016-W-C10-CHN-02A-2016,Nanjing $10K,Hard,32,10,20160307,14,212019,,,Yan Wang,U,,CHN,20.1,206294,,Q,Yue Yuan,R,184,CHN,17.4,3-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,673,29,,
 2016-W-C10-CHN-02A-2016,Nanjing $10K,Hard,32,10,20160307,15,214724,,,Jiaxi Lu,U,,CHN,19.0,214675,,Q,Midori Yamamoto,U,,JPN,23.1,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,601,37,,
 2016-W-C10-CHN-02A-2016,Nanjing $10K,Hard,32,10,20160307,16,201667,2,,Ling Zhang,R,178,HKG,26.3,213558,,,Ao Gai,U,,CHN,21.1,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,279,151,518,52
 2016-W-C10-CHN-02A-2016,Nanjing $10K,Hard,32,10,20160307,17,203578,1,,Fangzhou Liu,R,180,CHN,20.2,210926,,,Pei Chi Lee,U,,TPE,21.3,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,221,223,524,51
@@ -1587,7 +1587,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-CHN-02A-2016,Nanjing $10K,Hard,32,10,20160307,31,203578,1,,Fangzhou Liu,R,180,CHN,20.2,202687,5,,Ran Tian,R,,CHN,22.1,6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,221,223,386,95
 2016-W-C10-CHN-03A-2016,Nanjing $10K,Hard,32,10,20160314,1,202919,1,,Chang Liu,R,160,CHN,25.6,215055,,Q,Zhima Du,R,,CHN,16.5,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,206,244,,
 2016-W-C10-CHN-03A-2016,Nanjing $10K,Hard,32,10,20160314,2,211884,,Q,Chiara Frapolli,R,,SUI,19.5,205944,,,Lidziya Marozava,R,183,BLR,23.4,6-3 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1108,6,619,35
-2016-W-C10-CHN-03A-2016,Nanjing $10K,Hard,32,10,20160314,3,213636,,WC,Yukun Zhang,R,,CHN,20.2,206294,,Q,Yue Yuan,U,184,CHN,24.7,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,694,27,,
+2016-W-C10-CHN-03A-2016,Nanjing $10K,Hard,32,10,20160314,3,213636,,WC,Yukun Zhang,R,,CHN,20.2,206294,,Q,Yue Yuan,R,184,CHN,17.4,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,694,27,,
 2016-W-C10-CHN-03A-2016,Nanjing $10K,Hard,32,10,20160314,4,202686,,,Di Zhao,U,,CHN,23.1,204288,6,,Ji Hee Choi,R,,KOR,21.0,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,438,72,407,85
 2016-W-C10-CHN-03A-2016,Nanjing $10K,Hard,32,10,20160314,5,203489,,Q,Hao Chen Tang,R,,CHN,22.0,201667,3,,Ling Zhang,R,178,HKG,26.3,6-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,279,151
 2016-W-C10-CHN-03A-2016,Nanjing $10K,Hard,32,10,20160314,6,214288,,WC,Jiahui Chen,U,,CHN,20.8,215134,,Q,Chengyiyi Yuan,U,,CHN,15.5,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,782,20,,
@@ -1661,7 +1661,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-CHN-05A-2016,Anning $10K,Clay,32,10,20160613,12,202686,4,,Di Zhao,U,,CHN,23.4,215045,,Q,Xinyu Jiang,U,,CHN,17.2,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,501,55,917,12
 2016-W-C10-CHN-05A-2016,Anning $10K,Clay,32,10,20160613,13,214608,6,,Jia Qi Kang,R,,CHN,18.9,211234,,Q,Deria Nur Haliza,R,,INA,19.0,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,551,45,1185,4
 2016-W-C10-CHN-05A-2016,Anning $10K,Clay,32,10,20160613,14,215250,,,Hanyu Guo,R,,CHN,18.0,213799,,,Yuanyi Yu,U,,CHN,21.4,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,669,29,732,22
-2016-W-C10-CHN-05A-2016,Anning $10K,Clay,32,10,20160613,15,206294,,Q,Yue Yuan,U,184,CHN,24.9,206360,,WC,Yihong Li,U,,CHN,19.9,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2016-W-C10-CHN-05A-2016,Anning $10K,Clay,32,10,20160613,15,206294,,Q,Yue Yuan,R,184,CHN,17.7,206360,,WC,Yihong Li,U,,CHN,19.9,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2016-W-C10-CHN-05A-2016,Anning $10K,Clay,32,10,20160613,16,214328,2,,Xu Liu Sun,U,,CHN,22.2,211544,,,Nagi Hanatani,R,,JPN,21.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,444,71,923,12
 2016-W-C10-CHN-05A-2016,Anning $10K,Clay,32,10,20160613,17,216016,,Q,Xiyu Wang,L,,CHN,15.2,214288,,,Jiahui Chen,U,,CHN,21.0,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,639,33
 2016-W-C10-CHN-05A-2016,Anning $10K,Clay,32,10,20160613,18,210370,,,Sowjanya Bavisetti,L,,IND,22.5,214674,,,Yuqi Sheng,U,,CHN,20.4,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,686,27,1066,7
@@ -1670,7 +1670,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-CHN-05A-2016,Anning $10K,Clay,32,10,20160613,21,213750,,,Zhanlan Wei,U,,CHN,18.4,210537,8,,Michika Ozeki,U,,JPN,24.2,6-0 7-5,3,R16,,,,,,,,,,,,,,,,,,,,803,18,590,39
 2016-W-C10-CHN-05A-2016,Anning $10K,Clay,32,10,20160613,22,202686,4,,Di Zhao,U,,CHN,23.4,203489,,,Hao Chen Tang,R,,CHN,22.3,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,501,55,942,11
 2016-W-C10-CHN-05A-2016,Anning $10K,Clay,32,10,20160613,23,214608,6,,Jia Qi Kang,R,,CHN,18.9,215250,,,Hanyu Guo,R,,CHN,18.0,2-6 6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,551,45,669,29
-2016-W-C10-CHN-05A-2016,Anning $10K,Clay,32,10,20160613,24,214328,2,,Xu Liu Sun,U,,CHN,22.2,206294,,Q,Yue Yuan,U,184,CHN,24.9,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,444,71,,
+2016-W-C10-CHN-05A-2016,Anning $10K,Clay,32,10,20160613,24,214328,2,,Xu Liu Sun,U,,CHN,22.2,206294,,Q,Yue Yuan,R,184,CHN,17.7,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,444,71,,
 2016-W-C10-CHN-05A-2016,Anning $10K,Clay,32,10,20160613,25,216016,,Q,Xiyu Wang,L,,CHN,15.2,210370,,,Sowjanya Bavisetti,L,,IND,22.5,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,686,27
 2016-W-C10-CHN-05A-2016,Anning $10K,Clay,32,10,20160613,26,212034,3,,Fang Ying Xun,U,,CHN,21.4,215937,,WC,Shuo Feng,U,,CHN,18.4,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,468,64,,
 2016-W-C10-CHN-05A-2016,Anning $10K,Clay,32,10,20160613,27,213750,,,Zhanlan Wei,U,,CHN,18.4,202686,4,,Di Zhao,U,,CHN,23.4,6-4 1-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,803,18,501,55
@@ -1683,7 +1683,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-CHN-06A-2016,Anning $10K,Clay,32,10,20160620,3,216062,,Q,Meiling Wang,U,,CHN,16.3,205796,,,Chun Yan He,L,,CHN,33.1,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1153,5
 2016-W-C10-CHN-06A-2016,Anning $10K,Clay,32,10,20160620,4,210537,6,,Michika Ozeki,U,,JPN,24.2,215056,,Q,Yi Wang,U,,CHN,17.3,3-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,626,34,,
 2016-W-C10-CHN-06A-2016,Anning $10K,Clay,32,10,20160620,5,215045,,WC,Xinyu Jiang,U,,CHN,17.3,203433,3,,Rishika Sunkara,R,,IND,23.1,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,885,13,548,46
-2016-W-C10-CHN-06A-2016,Anning $10K,Clay,32,10,20160620,6,206294,,Q,Yue Yuan,U,184,CHN,24.9,216063,,WC,Tingting Pei,U,,CHN,16.4,6-4 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2016-W-C10-CHN-06A-2016,Anning $10K,Clay,32,10,20160620,6,206294,,Q,Yue Yuan,R,184,CHN,17.7,216063,,WC,Tingting Pei,U,,CHN,16.4,6-4 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2016-W-C10-CHN-06A-2016,Anning $10K,Clay,32,10,20160620,7,211544,,,Nagi Hanatani,R,,JPN,21.2,214385,,,Yixuan Li,U,,CHN,19.1,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,923,12,855,14
 2016-W-C10-CHN-06A-2016,Anning $10K,Clay,32,10,20160620,8,214724,5,,Jiaxi Lu,U,,CHN,19.2,212021,,,Yuenu Li,U,,CHN,17.9,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,571,42,911,12
 2016-W-C10-CHN-06A-2016,Anning $10K,Clay,32,10,20160620,9,210860,7,,Jessica Wacnik,U,,USA,23.1,215819,,Q,Ruoyu Chen,U,,CHN,15.9,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,615,35,,
@@ -1696,14 +1696,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-CHN-06A-2016,Anning $10K,Clay,32,10,20160620,16,212034,2,,Fang Ying Xun,U,,CHN,21.4,214674,,,Yuqi Sheng,U,,CHN,20.4,3-6 7-6(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,495,56,1055,7
 2016-W-C10-CHN-06A-2016,Anning $10K,Clay,32,10,20160620,17,215250,,,Hanyu Guo,R,,CHN,18.0,214328,1,,Xu Liu Sun,U,,CHN,22.2,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,659,30,431,74
 2016-W-C10-CHN-06A-2016,Anning $10K,Clay,32,10,20160620,18,216062,,Q,Meiling Wang,U,,CHN,16.3,210537,6,,Michika Ozeki,U,,JPN,24.2,4-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,626,34
-2016-W-C10-CHN-06A-2016,Anning $10K,Clay,32,10,20160620,19,206294,,Q,Yue Yuan,U,184,CHN,24.9,215045,,WC,Xinyu Jiang,U,,CHN,17.3,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,885,13
+2016-W-C10-CHN-06A-2016,Anning $10K,Clay,32,10,20160620,19,206294,,Q,Yue Yuan,R,184,CHN,17.7,215045,,WC,Xinyu Jiang,U,,CHN,17.3,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,885,13
 2016-W-C10-CHN-06A-2016,Anning $10K,Clay,32,10,20160620,20,214724,5,,Jiaxi Lu,U,,CHN,19.2,211544,,,Nagi Hanatani,R,,JPN,21.2,7-6(4) 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,571,42,923,12
 2016-W-C10-CHN-06A-2016,Anning $10K,Clay,32,10,20160620,21,210860,7,,Jessica Wacnik,U,,USA,23.1,210370,,,Sowjanya Bavisetti,L,,IND,22.5,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,615,35,704,25
 2016-W-C10-CHN-06A-2016,Anning $10K,Clay,32,10,20160620,22,210604,,Q,Yujia Wang,U,,CHN,22.4,211234,,,Deria Nur Haliza,R,,INA,19.0,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,1175,4
 2016-W-C10-CHN-06A-2016,Anning $10K,Clay,32,10,20160620,23,203489,,,Hao Chen Tang,R,,CHN,22.3,215189,,,Alana Parnaby,R,,AUS,21.7,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,938,11,,
 2016-W-C10-CHN-06A-2016,Anning $10K,Clay,32,10,20160620,24,212034,2,,Fang Ying Xun,U,,CHN,21.4,213750,,,Zhanlan Wei,U,,CHN,18.4,6-2 6-7(4) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,495,56,796,18
 2016-W-C10-CHN-06A-2016,Anning $10K,Clay,32,10,20160620,25,216062,,Q,Meiling Wang,U,,CHN,16.3,215250,,,Hanyu Guo,R,,CHN,18.0,6-3 2-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,659,30
-2016-W-C10-CHN-06A-2016,Anning $10K,Clay,32,10,20160620,26,214724,5,,Jiaxi Lu,U,,CHN,19.2,206294,,Q,Yue Yuan,U,184,CHN,24.9,6-4 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,571,42,,
+2016-W-C10-CHN-06A-2016,Anning $10K,Clay,32,10,20160620,26,214724,5,,Jiaxi Lu,U,,CHN,19.2,206294,,Q,Yue Yuan,R,184,CHN,17.7,6-4 7-6(4),3,QF,,,,,,,,,,,,,,,,,,,,571,42,,
 2016-W-C10-CHN-06A-2016,Anning $10K,Clay,32,10,20160620,27,210604,,Q,Yujia Wang,U,,CHN,22.4,210860,7,,Jessica Wacnik,U,,USA,23.1,7-6(6) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,615,35
 2016-W-C10-CHN-06A-2016,Anning $10K,Clay,32,10,20160620,28,203489,,,Hao Chen Tang,R,,CHN,22.3,212034,2,,Fang Ying Xun,U,,CHN,21.4,7-6(6) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,938,11,495,56
 2016-W-C10-CHN-06A-2016,Anning $10K,Clay,32,10,20160620,29,214724,5,,Jiaxi Lu,U,,CHN,19.2,216062,,Q,Meiling Wang,U,,CHN,16.3,6-3 7-5,3,SF,,,,,,,,,,,,,,,,,,,,571,42,,
@@ -1721,7 +1721,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-COL-01A-2016,Medellin $10K,Clay,32,10,20160815,10,213753,,Q,Thaisa Grana Pedretti,U,,BRA,17.2,211179,,,Amanda Rodgers,L,,USA,23.4,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2016-W-C10-COL-01A-2016,Medellin $10K,Clay,32,10,20160815,11,206433,,Q,Nadia Echeverria Alam,R,,USA,21.5,214887,,,Stephanie Nemtsova,R,,USA,18.3,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1142,5
 2016-W-C10-COL-01A-2016,Medellin $10K,Clay,32,10,20160815,12,211552,3,,Harmony Tan,R,,FRA,18.9,216152,,Q,Nia Rose,U,,JAM,20.0,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,494,58,,
-2016-W-C10-COL-01A-2016,Medellin $10K,Clay,32,10,20160815,13,215431,6,,Emily Appleton,U,,GBR,16.9,214710,,,Valerie Quiceno,U,,USA,18.7,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,729,23,,
+2016-W-C10-COL-01A-2016,Medellin $10K,Clay,32,10,20160815,13,215431,6,,Emily Appleton,R,,GBR,16.9,214710,,,Valerie Quiceno,U,,USA,18.7,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,729,23,,
 2016-W-C10-COL-01A-2016,Medellin $10K,Clay,32,10,20160815,14,214968,,,Laura Sofia Rico Garcia,U,,COL,16.2,212202,,,Mariaryeni Gutierrez,U,,VEN,27.2,2-6 7-6(2) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1187,4,,
 2016-W-C10-COL-01A-2016,Medellin $10K,Clay,32,10,20160815,15,214060,,,Yuliana Monroy,U,,COL,17.9,211457,,Q,Arantxa Sanchez,L,,COL,22.3,7-6(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2016-W-C10-COL-01A-2016,Medellin $10K,Clay,32,10,20160815,16,215785,,WC,Camila Osorio,R,162,COL,14.6,211464,2,,Naomi Totka,L,,HUN,20.8,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,458,67
@@ -1731,14 +1731,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-COL-01A-2016,Medellin $10K,Clay,32,10,20160815,20,205842,7,,Carla Lucero,R,,ARG,25.8,211848,,,Rafaela Rodrigues Dos Santos,U,,BRA,18.3,7-5 6-3,3,R16,,,,,,,,,,,,,,,,,,,,818,17,1254,3
 2016-W-C10-COL-01A-2016,Medellin $10K,Clay,32,10,20160815,21,206332,5,,Camila Giangreco Campiz,R,,PAR,19.9,213753,,Q,Thaisa Grana Pedretti,U,,BRA,17.2,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,747,22,,
 2016-W-C10-COL-01A-2016,Medellin $10K,Clay,32,10,20160815,22,211552,3,,Harmony Tan,R,,FRA,18.9,206433,,Q,Nadia Echeverria Alam,R,,USA,21.5,6-2 1-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,494,58,,
-2016-W-C10-COL-01A-2016,Medellin $10K,Clay,32,10,20160815,23,215431,6,,Emily Appleton,U,,GBR,16.9,214968,,,Laura Sofia Rico Garcia,U,,COL,16.2,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,729,23,1187,4
+2016-W-C10-COL-01A-2016,Medellin $10K,Clay,32,10,20160815,23,215431,6,,Emily Appleton,R,,GBR,16.9,214968,,,Laura Sofia Rico Garcia,U,,COL,16.2,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,729,23,1187,4
 2016-W-C10-COL-01A-2016,Medellin $10K,Clay,32,10,20160815,24,214060,,,Yuliana Monroy,U,,COL,17.9,215785,,WC,Camila Osorio,R,162,COL,14.6,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2016-W-C10-COL-01A-2016,Medellin $10K,Clay,32,10,20160815,25,206344,1,,Fernanda Brito,R,172,CHI,24.5,215306,,WC,Emiliana Arango,R,,COL,15.7,7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,479,62,,
 2016-W-C10-COL-01A-2016,Medellin $10K,Clay,32,10,20160815,26,205842,7,,Carla Lucero,R,,ARG,25.8,211864,4,,Maria Fernanda Herazo Gonzalez,L,166,COL,19.4,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,818,17,717,24
 2016-W-C10-COL-01A-2016,Medellin $10K,Clay,32,10,20160815,27,211552,3,,Harmony Tan,R,,FRA,18.9,206332,5,,Camila Giangreco Campiz,R,,PAR,19.9,6-3 6-0,3,QF,,,,,,,,,,,,,,,,,,,,494,58,747,22
-2016-W-C10-COL-01A-2016,Medellin $10K,Clay,32,10,20160815,28,215431,6,,Emily Appleton,U,,GBR,16.9,214060,,,Yuliana Monroy,U,,COL,17.9,5-7 6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,729,23,,
+2016-W-C10-COL-01A-2016,Medellin $10K,Clay,32,10,20160815,28,215431,6,,Emily Appleton,R,,GBR,16.9,214060,,,Yuliana Monroy,U,,COL,17.9,5-7 6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,729,23,,
 2016-W-C10-COL-01A-2016,Medellin $10K,Clay,32,10,20160815,29,206344,1,,Fernanda Brito,R,172,CHI,24.5,205842,7,,Carla Lucero,R,,ARG,25.8,6-3 6-0,3,SF,,,,,,,,,,,,,,,,,,,,479,62,818,17
-2016-W-C10-COL-01A-2016,Medellin $10K,Clay,32,10,20160815,30,211552,3,,Harmony Tan,R,,FRA,18.9,215431,6,,Emily Appleton,U,,GBR,16.9,6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,494,58,729,23
+2016-W-C10-COL-01A-2016,Medellin $10K,Clay,32,10,20160815,30,211552,3,,Harmony Tan,R,,FRA,18.9,215431,6,,Emily Appleton,R,,GBR,16.9,6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,494,58,729,23
 2016-W-C10-COL-01A-2016,Medellin $10K,Clay,32,10,20160815,31,211552,3,,Harmony Tan,R,,FRA,18.9,206344,1,,Fernanda Brito,R,172,CHI,24.5,6-2 7-5,3,F,,,,,,,,,,,,,,,,,,,,494,58,479,62
 2016-W-C10-COL-02A-2016,Cali $10K,Clay,32,10,20160822,1,213753,,Q,Thaisa Grana Pedretti,U,,BRA,17.2,211464,1,,Naomi Totka,L,,HUN,20.8,6-7(3) 6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,460,67
 2016-W-C10-COL-02A-2016,Cali $10K,Clay,32,10,20160822,2,214887,,,Stephanie Nemtsova,R,,USA,18.3,211202,,,Sara Gimenez,U,,PAR,19.9,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1136,5,1200,4
@@ -1747,7 +1747,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-COL-02A-2016,Cali $10K,Clay,32,10,20160822,5,211552,3,,Harmony Tan,R,,FRA,18.9,214968,,,Laura Sofia Rico Garcia,U,,COL,16.2,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,495,58,1175,4
 2016-W-C10-COL-02A-2016,Cali $10K,Clay,32,10,20160822,6,211848,,Q,Rafaela Rodrigues Dos Santos,U,,BRA,18.3,211457,,,Arantxa Sanchez,L,,COL,22.3,5-7 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1245,3,,
 2016-W-C10-COL-02A-2016,Cali $10K,Clay,32,10,20160822,7,210138,,,Noelia Zeballos,R,168,BOL,22.3,212202,,Q,Mariaryeni Gutierrez,U,,VEN,27.2,7-6(4) 1-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1050,8,,
-2016-W-C10-COL-02A-2016,Cali $10K,Clay,32,10,20160822,8,215431,6,,Emily Appleton,U,,GBR,16.9,214710,,,Valerie Quiceno,U,,USA,18.7,6-3 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,739,22,,
+2016-W-C10-COL-02A-2016,Cali $10K,Clay,32,10,20160822,8,215431,6,,Emily Appleton,R,,GBR,16.9,214710,,,Valerie Quiceno,U,,USA,18.7,6-3 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,739,22,,
 2016-W-C10-COL-02A-2016,Cali $10K,Clay,32,10,20160822,9,205842,8,,Carla Lucero,R,,ARG,25.8,214059,,,Ana M Becerra,U,,COL,17.8,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,825,17,,
 2016-W-C10-COL-02A-2016,Cali $10K,Clay,32,10,20160822,10,215375,,,Dominique Schaefer,R,,PER,17.6,216218,,Q,Juliana Castellanos Fernandez,U,,COL,16.6,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2016-W-C10-COL-02A-2016,Cali $10K,Clay,32,10,20160822,11,215785,,WC,Camila Osorio,R,162,COL,14.6,215835,,,Pamela Wu,U,,BRA,19.5,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -1759,7 +1759,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-COL-02A-2016,Cali $10K,Clay,32,10,20160822,17,214887,,,Stephanie Nemtsova,R,,USA,18.3,213753,,Q,Thaisa Grana Pedretti,U,,BRA,17.2,7-6(0) 3-6 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,1136,5,,
 2016-W-C10-COL-02A-2016,Cali $10K,Clay,32,10,20160822,18,215306,,WC,Emiliana Arango,R,,COL,15.7,211864,5,,Maria Fernanda Herazo Gonzalez,L,166,COL,19.4,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,719,24
 2016-W-C10-COL-02A-2016,Cali $10K,Clay,32,10,20160822,19,211552,3,,Harmony Tan,R,,FRA,18.9,211848,,Q,Rafaela Rodrigues Dos Santos,U,,BRA,18.3,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,495,58,1245,3
-2016-W-C10-COL-02A-2016,Cali $10K,Clay,32,10,20160822,20,210138,,,Noelia Zeballos,R,168,BOL,22.3,215431,6,,Emily Appleton,U,,GBR,16.9,7-5 4-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1050,8,739,22
+2016-W-C10-COL-02A-2016,Cali $10K,Clay,32,10,20160822,20,210138,,,Noelia Zeballos,R,168,BOL,22.3,215431,6,,Emily Appleton,R,,GBR,16.9,7-5 4-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1050,8,739,22
 2016-W-C10-COL-02A-2016,Cali $10K,Clay,32,10,20160822,21,215375,,,Dominique Schaefer,R,,PER,17.6,205842,8,,Carla Lucero,R,,ARG,25.8,7-5 6-7(4) 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,,,825,17
 2016-W-C10-COL-02A-2016,Cali $10K,Clay,32,10,20160822,22,214863,4,,Sofya Zhuk,R,176,RUS,16.7,215785,,WC,Camila Osorio,R,162,COL,14.6,6-2 3-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,588,40,,
 2016-W-C10-COL-02A-2016,Cali $10K,Clay,32,10,20160822,23,206332,7,,Camila Giangreco Campiz,R,,PAR,19.9,214060,,WC,Yuliana Monroy,U,,COL,17.9,6-3 2-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,750,22,,
@@ -1810,7 +1810,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-COL-04A-2016,Cucuta $10K,Clay,32,10,20161031,6,211043,,,Maria Paulina Perez Garcia,R,170,COL,20.8,216150,,Q,Lara Escauriza,R,,PAR,18.0,6-3 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,1136,5,,
 2016-W-C10-COL-04A-2016,Cucuta $10K,Clay,32,10,20161031,7,213753,,,Thaisa Grana Pedretti,U,,BRA,17.4,205462,,,Melisa Morales,R,,GUA,25.9,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1040,8,971,10
 2016-W-C10-COL-04A-2016,Cucuta $10K,Clay,32,10,20161031,8,208531,,,Kirsten Andrea Weedon,U,,GUA,27.6,215306,7,,Emiliana Arango,R,,COL,15.9,4-6 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1054,8,997,9
-2016-W-C10-COL-04A-2016,Cucuta $10K,Clay,32,10,20161031,9,215431,5,,Emily Appleton,U,,GBR,17.1,211039,,WC,Daniela Carrillo,R,,COL,20.7,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,721,24,,
+2016-W-C10-COL-04A-2016,Cucuta $10K,Clay,32,10,20161031,9,215431,5,,Emily Appleton,R,,GBR,17.1,211039,,WC,Daniela Carrillo,R,,COL,20.7,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,721,24,,
 2016-W-C10-COL-04A-2016,Cucuta $10K,Clay,32,10,20161031,10,216391,,Q,Helen Abigail Altick,U,,USA,18.4,211462,,Q,Claudia Marcela Silva Aragon,U,,COL,26.3,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2016-W-C10-COL-04A-2016,Cucuta $10K,Clay,32,10,20161031,11,214059,,WC,Ana M Becerra,U,,COL,18.0,216392,,Q,Nicole Bueno Sandoval,U,,COL,15.5,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2016-W-C10-COL-04A-2016,Cucuta $10K,Clay,32,10,20161031,12,211864,4,,Maria Fernanda Herazo Gonzalez,L,166,COL,19.6,216393,,Q,Mariana Vargas Carrascal,R,,COL,15.7,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,699,26,,
@@ -1822,13 +1822,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-COL-04A-2016,Cucuta $10K,Clay,32,10,20161031,18,206332,6,,Camila Giangreco Campiz,R,,PAR,20.1,206387,,,Aymet Uzcategui,U,,VEN,20.9,6-2 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,836,16,969,10
 2016-W-C10-COL-04A-2016,Cucuta $10K,Clay,32,10,20161031,19,202413,3,,Florencia Molinero,R,170,ARG,27.9,211043,,,Maria Paulina Perez Garcia,R,170,COL,20.8,7-6(3) 1-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,605,38,1136,5
 2016-W-C10-COL-04A-2016,Cucuta $10K,Clay,32,10,20161031,20,213753,,,Thaisa Grana Pedretti,U,,BRA,17.4,208531,,,Kirsten Andrea Weedon,U,,GUA,27.6,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1040,8,1054,8
-2016-W-C10-COL-04A-2016,Cucuta $10K,Clay,32,10,20161031,21,215431,5,,Emily Appleton,U,,GBR,17.1,216391,,Q,Helen Abigail Altick,U,,USA,18.4,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,721,24,,
+2016-W-C10-COL-04A-2016,Cucuta $10K,Clay,32,10,20161031,21,215431,5,,Emily Appleton,R,,GBR,17.1,216391,,Q,Helen Abigail Altick,U,,USA,18.4,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,721,24,,
 2016-W-C10-COL-04A-2016,Cucuta $10K,Clay,32,10,20161031,22,211864,4,,Maria Fernanda Herazo Gonzalez,L,166,COL,19.6,214059,,WC,Ana M Becerra,U,,COL,18.0,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,699,26,,
 2016-W-C10-COL-04A-2016,Cucuta $10K,Clay,32,10,20161031,23,211903,,,Barbara Gatica,U,,CHI,20.2,214710,,,Valerie Quiceno,U,,USA,18.9,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,920,12,,
 2016-W-C10-COL-04A-2016,Cucuta $10K,Clay,32,10,20161031,24,204419,2,,Ana Sofia Sanchez,L,,MEX,22.5,214182,,,Veronica Miroshnichenko,L,,RUS,18.9,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,432,79,988,10
 2016-W-C10-COL-04A-2016,Cucuta $10K,Clay,32,10,20161031,25,206344,1,,Fernanda Brito,R,172,CHI,24.7,206332,6,,Camila Giangreco Campiz,R,,PAR,20.1,6-0 6-1,3,QF,,,,,,,,,,,,,,,,,,,,414,85,836,16
 2016-W-C10-COL-04A-2016,Cucuta $10K,Clay,32,10,20161031,26,213753,,,Thaisa Grana Pedretti,U,,BRA,17.4,202413,3,,Florencia Molinero,R,170,ARG,27.9,4-6 6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,1040,8,605,38
-2016-W-C10-COL-04A-2016,Cucuta $10K,Clay,32,10,20161031,27,211864,4,,Maria Fernanda Herazo Gonzalez,L,166,COL,19.6,215431,5,,Emily Appleton,U,,GBR,17.1,7-6(5) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,699,26,721,24
+2016-W-C10-COL-04A-2016,Cucuta $10K,Clay,32,10,20161031,27,211864,4,,Maria Fernanda Herazo Gonzalez,L,166,COL,19.6,215431,5,,Emily Appleton,R,,GBR,17.1,7-6(5) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,699,26,721,24
 2016-W-C10-COL-04A-2016,Cucuta $10K,Clay,32,10,20161031,28,211903,,,Barbara Gatica,U,,CHI,20.2,204419,2,,Ana Sofia Sanchez,L,,MEX,22.5,7-6(3) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,920,12,432,79
 2016-W-C10-COL-04A-2016,Cucuta $10K,Clay,32,10,20161031,29,206344,1,,Fernanda Brito,R,172,CHI,24.7,213753,,,Thaisa Grana Pedretti,U,,BRA,17.4,6-4 6-0,3,SF,,,,,,,,,,,,,,,,,,,,414,85,1040,8
 2016-W-C10-COL-04A-2016,Cucuta $10K,Clay,32,10,20161031,30,211864,4,,Maria Fernanda Herazo Gonzalez,L,166,COL,19.6,211903,,,Barbara Gatica,U,,CHI,20.2,7-5 6-2,3,SF,,,,,,,,,,,,,,,,,,,,699,26,920,12
@@ -3633,7 +3633,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-EGY-45A-2016,Sharm El Sheikh $10K,Hard,30,10,20161121,27,203449,7,,Sarah Rebecca Sekulic,L,,GER,24.3,201664,1,,Pemra Ozgen,R,170,TUR,30.5,6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,715,24,402,88
 2016-W-C10-EGY-45A-2016,Sharm El Sheikh $10K,Hard,30,10,20161121,28,204379,6,,Brenda Njuki,R,,SWE,22.7,204301,,,Barbara Bonic,R,,SRB,24.4,7-6(3) 6-1,3,SF,,,,,,,,,,,,,,,,,,,,605,38,865,14
 2016-W-C10-EGY-45A-2016,Sharm El Sheikh $10K,Hard,30,10,20161121,29,203449,7,,Sarah Rebecca Sekulic,L,,GER,24.3,204379,6,,Brenda Njuki,R,,SWE,22.7,6-1 6-1,3,F,,,,,,,,,,,,,,,,,,,,715,24,605,38
-2016-W-C10-EGY-46A-2016,Cairo $10K,Clay,30,10,20161128,1,216273,,Q,Yulia Starodubtsewa,U,,UKR,16.7,215585,,,Anastasiia Gevel,U,,UKR,17.8,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2016-W-C10-EGY-46A-2016,Cairo $10K,Clay,30,10,20161128,1,263857,,Q,Yuliia Starodubtseva,R,,UKR,16.7,215585,,,Anastasiia Gevel,U,,UKR,17.8,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2016-W-C10-EGY-46A-2016,Cairo $10K,Clay,30,10,20161128,2,213648,,WC,Ahlam Shawkat,U,,EGY,18.5,211584,,,Diana Shevchenko,U,,RUS,21.8,1-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1255,3,1141,6
 2016-W-C10-EGY-46A-2016,Cairo $10K,Clay,30,10,20161128,3,215962,7,,Suzy Larkin,R,,GBR,24.4,213974,,,Lamis Alhussein Abdel Aziz,U,,EGY,18.5,4-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,729,23,1049,8
 2016-W-C10-EGY-46A-2016,Cairo $10K,Clay,30,10,20161128,4,213599,,,Jelena Stojanovic,R,,AUS,19.6,213721,4,,Ines Murta,U,,POR,19.4,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1141,6,556,47
@@ -3647,7 +3647,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-EGY-46A-2016,Cairo $10K,Clay,30,10,20161128,12,216564,,,Viktoriya Gogol,U,,UKR,19.1,204301,8,Q,Barbara Bonic,R,,SRB,24.4,1-6 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,840,16
 2016-W-C10-EGY-46A-2016,Cairo $10K,Clay,30,10,20161128,13,211638,,,Madison Bourguignon,U,,USA,19.1,214840,,,Xiangruyi Ji,U,,CHN,17.7,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1108,6,,
 2016-W-C10-EGY-46A-2016,Cairo $10K,Clay,30,10,20161128,14,214565,,Q,Farah Yasser Abd El Wahab,U,,EGY,18.8,215774,,Q,Salma Abdel Rahim,R,,EGY,16.3,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2016-W-C10-EGY-46A-2016,Cairo $10K,Clay,30,10,20161128,15,205873,1,,Anna Morgina,R,170,RUS,25.2,216273,,Q,Yulia Starodubtsewa,U,,UKR,16.7,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,350,112,,
+2016-W-C10-EGY-46A-2016,Cairo $10K,Clay,30,10,20161128,15,205873,1,,Anna Morgina,R,170,RUS,25.2,263857,,Q,Yuliia Starodubtseva,R,,UKR,16.7,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,350,112,,
 2016-W-C10-EGY-46A-2016,Cairo $10K,Clay,30,10,20161128,16,215962,7,,Suzy Larkin,R,,GBR,24.4,213648,,WC,Ahlam Shawkat,U,,EGY,18.5,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,729,23,1255,3
 2016-W-C10-EGY-46A-2016,Cairo $10K,Clay,30,10,20161128,17,213599,,,Jelena Stojanovic,R,,AUS,19.6,211408,,,Kerstin Peckl,U,,AUT,27.2,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1141,6,985,10
 2016-W-C10-EGY-46A-2016,Cairo $10K,Clay,30,10,20161128,18,211721,,,Akiho Kakuya,U,,JPN,21.6,211437,,,Bhuvana Kalva,R,,IND,21.8,3-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
@@ -3675,7 +3675,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-EGY-47A-2016,Cairo $10K,Clay,32,10,20161205,11,213974,,,Lamis Alhussein Abdel Aziz,U,,EGY,18.6,213669,,,Aleah Marrow,U,,USA,25.2,6-1 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1049,8,,
 2016-W-C10-EGY-47A-2016,Cairo $10K,Clay,32,10,20161205,12,210584,4,,Fiona Codino,R,,FRA,21.2,216564,,,Viktoriya Gogol,U,,UKR,19.2,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,712,24,,
 2016-W-C10-EGY-47A-2016,Cairo $10K,Clay,32,10,20161205,13,215962,5,,Suzy Larkin,R,,GBR,24.4,214840,,,Xiangruyi Ji,U,,CHN,17.7,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,734,23,,
-2016-W-C10-EGY-47A-2016,Cairo $10K,Clay,32,10,20161205,14,216273,,LL,Yulia Starodubtsewa,U,,UKR,16.8,220240,,Q,Farah Khalil,U,,EGY,,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2016-W-C10-EGY-47A-2016,Cairo $10K,Clay,32,10,20161205,14,263857,,LL,Yuliia Starodubtseva,R,,UKR,16.7,220240,,Q,Farah Khalil,U,,EGY,,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2016-W-C10-EGY-47A-2016,Cairo $10K,Clay,32,10,20161205,15,214182,,Q,Veronica Miroshnichenko,L,,RUS,19.0,215751,,,Mayar Eltony,U,,EGY,19.1,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,923,12,1222,4
 2016-W-C10-EGY-47A-2016,Cairo $10K,Clay,32,10,20161205,16,215239,,WC,Diana Maria Mihail,R,,ROU,16.3,215774,,LL,Salma Abdel Rahim,R,,EGY,16.4,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2016-W-C10-EGY-47A-2016,Cairo $10K,Clay,32,10,20161205,17,210926,1,,Pei Chi Lee,U,,TPE,22.1,211408,,,Kerstin Peckl,U,,AUT,27.2,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,477,64,987,10
@@ -3684,7 +3684,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-EGY-47A-2016,Cairo $10K,Clay,32,10,20161205,20,204301,8,Q,Barbara Bonic,R,,SRB,24.5,213599,,Q,Jelena Stojanovic,R,,AUS,19.6,6-3 6-7(3) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,774,20,1098,7
 2016-W-C10-EGY-47A-2016,Cairo $10K,Clay,32,10,20161205,21,211412,7,,Bojana Marinkovic,U,,SRB,20.0,214565,,WC,Farah Yasser Abd El Wahab,U,,EGY,18.8,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,776,20,,
 2016-W-C10-EGY-47A-2016,Cairo $10K,Clay,32,10,20161205,22,213974,,,Lamis Alhussein Abdel Aziz,U,,EGY,18.6,210584,4,,Fiona Codino,R,,FRA,21.2,6-4 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,1049,8,712,24
-2016-W-C10-EGY-47A-2016,Cairo $10K,Clay,32,10,20161205,23,215962,5,,Suzy Larkin,R,,GBR,24.4,216273,,LL,Yulia Starodubtsewa,U,,UKR,16.8,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,734,23,,
+2016-W-C10-EGY-47A-2016,Cairo $10K,Clay,32,10,20161205,23,215962,5,,Suzy Larkin,R,,GBR,24.4,263857,,LL,Yuliia Starodubtseva,R,,UKR,16.7,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,734,23,,
 2016-W-C10-EGY-47A-2016,Cairo $10K,Clay,32,10,20161205,24,214182,,Q,Veronica Miroshnichenko,L,,RUS,19.0,215239,,WC,Diana Maria Mihail,R,,ROU,16.3,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,923,12,,
 2016-W-C10-EGY-47A-2016,Cairo $10K,Clay,32,10,20161205,25,210926,1,,Pei Chi Lee,U,,TPE,22.1,211638,,,Madison Bourguignon,U,,USA,19.2,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,477,64,,
 2016-W-C10-EGY-47A-2016,Cairo $10K,Clay,32,10,20161205,26,213721,3,,Ines Murta,U,,POR,19.5,204301,8,Q,Barbara Bonic,R,,SRB,24.5,4-6 6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,551,48,774,20
@@ -3701,7 +3701,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-EGY-48A-2016,Cairo $10K,Clay,28,10,20161212,6,211412,5,,Bojana Marinkovic,U,,SRB,20.1,211721,,,Akiho Kakuya,U,,JPN,21.6,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,663,32,,
 2016-W-C10-EGY-48A-2016,Cairo $10K,Clay,28,10,20161212,7,214565,,WC,Farah Yasser Abd El Wahab,U,,EGY,18.8,213974,8,,Lamis Alhussein Abdel Aziz,U,,EGY,18.6,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1051,8
 2016-W-C10-EGY-48A-2016,Cairo $10K,Clay,28,10,20161212,8,209418,,,Diana Popescu,U,,ROU,28.4,214840,,,Xiangruyi Ji,U,,CHN,17.7,6-4 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2016-W-C10-EGY-48A-2016,Cairo $10K,Clay,28,10,20161212,9,216273,,,Yulia Starodubtsewa,U,,UKR,16.8,211437,,,Bhuvana Kalva,R,,IND,21.8,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2016-W-C10-EGY-48A-2016,Cairo $10K,Clay,28,10,20161212,9,263857,,,Yuliia Starodubtseva,R,,UKR,16.8,211437,,,Bhuvana Kalva,R,,IND,21.8,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2016-W-C10-EGY-48A-2016,Cairo $10K,Clay,28,10,20161212,10,214182,6,,Veronica Miroshnichenko,L,,RUS,19.0,215751,,,Mayar Eltony,U,,EGY,19.1,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,878,14,1221,4
 2016-W-C10-EGY-48A-2016,Cairo $10K,Clay,28,10,20161212,11,215774,,Q,Salma Abdel Rahim,R,,EGY,16.4,220257,,Q,Nour Dib,U,,LIB,,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2016-W-C10-EGY-48A-2016,Cairo $10K,Clay,28,10,20161212,12,214455,,,Andrina Peer,R,,SUI,18.6,216396,,WC,Isabella Nunez,L,,GBR,14.7,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -3710,7 +3710,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-EGY-48A-2016,Cairo $10K,Clay,28,10,20161212,15,215962,3,Q,Suzy Larkin,R,,GBR,24.4,213648,,WC,Ahlam Shawkat,U,,EGY,18.5,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,712,25,,
 2016-W-C10-EGY-48A-2016,Cairo $10K,Clay,28,10,20161212,16,211412,5,,Bojana Marinkovic,U,,SRB,20.1,213599,,,Jelena Stojanovic,R,,AUS,19.6,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,663,32,873,14
 2016-W-C10-EGY-48A-2016,Cairo $10K,Clay,28,10,20161212,17,214565,,WC,Farah Yasser Abd El Wahab,U,,EGY,18.8,209418,,,Diana Popescu,U,,ROU,28.4,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,,,,
-2016-W-C10-EGY-48A-2016,Cairo $10K,Clay,28,10,20161212,18,206032,4,,Lisa Marie Maetschke,R,,GER,21.6,216273,,,Yulia Starodubtsewa,U,,UKR,16.8,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,780,20,,
+2016-W-C10-EGY-48A-2016,Cairo $10K,Clay,28,10,20161212,18,206032,4,,Lisa Marie Maetschke,R,,GER,21.6,263857,,,Yuliia Starodubtseva,R,,UKR,16.8,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,780,20,,
 2016-W-C10-EGY-48A-2016,Cairo $10K,Clay,28,10,20161212,19,214182,6,,Veronica Miroshnichenko,L,,RUS,19.0,215774,,Q,Salma Abdel Rahim,R,,EGY,16.4,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,878,14,,
 2016-W-C10-EGY-48A-2016,Cairo $10K,Clay,28,10,20161212,20,213714,2,,Fanny Ostlund,R,,SWE,19.6,214455,,,Andrina Peer,R,,SUI,18.6,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,595,41,,
 2016-W-C10-EGY-48A-2016,Cairo $10K,Clay,28,10,20161212,21,204366,1,,Victoria Muntean,R,,FRA,19.8,215242,7,,Nermeen Shawky,R,,EGY,17.8,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,585,43,1036,8
@@ -4777,7 +4777,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-GBR-01A-2016,Glasgow $10K,Hard,32,10,20160201,7,214860,,Q,Karola Patricia Bejenaru,R,,ROU,18.5,213555,,Q,Theo Gravouil,U,,FRA,17.5,7-6(6) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,971,10,846,16
 2016-W-C10-GBR-01A-2016,Glasgow $10K,Hard,32,10,20160201,8,214026,8,,Natalija Sipek,U,,SLO,19.1,212054,,Q,Amelie Intert,U,,GER,19.5,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,592,40,815,18
 2016-W-C10-GBR-01A-2016,Glasgow $10K,Hard,32,10,20160201,9,211321,5,,Klaartje Liebens,R,,BEL,21.0,215791,,WC,Eden Richardson,R,,GBR,17.4,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,463,65,,
-2016-W-C10-GBR-01A-2016,Glasgow $10K,Hard,32,10,20160201,10,215431,,WC,Emily Appleton,U,,GBR,16.4,206211,,,Anna Klasen,U,,GER,22.2,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,970,10,625,35
+2016-W-C10-GBR-01A-2016,Glasgow $10K,Hard,32,10,20160201,10,215431,,WC,Emily Appleton,R,,GBR,16.4,206211,,,Anna Klasen,U,,GER,22.2,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,970,10,625,35
 2016-W-C10-GBR-01A-2016,Glasgow $10K,Hard,32,10,20160201,11,211813,,,Luisa Marie Huber,U,,GER,20.6,206251,,,Kimberley Zimmermann,R,,BEL,20.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,636,33,733,24
 2016-W-C10-GBR-01A-2016,Glasgow $10K,Hard,32,10,20160201,12,211107,,WC,Katie Boulter,R,180,GBR,19.5,211279,4,,Harriet Dart,R,175,GBR,19.5,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,446,68
 2016-W-C10-GBR-01A-2016,Glasgow $10K,Hard,32,10,20160201,13,205723,6,,Anna Zaja,R,183,GER,24.6,211557,,,Nina Stadler,U,,SUI,20.3,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,501,56,783,20
@@ -4788,7 +4788,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-GBR-01A-2016,Glasgow $10K,Hard,32,10,20160201,18,205714,,,Julie Gervais,U,,FRA,24.5,211288,,Q,Mia Nicole Eklund,L,176,FIN,21.2,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,756,21,917,13
 2016-W-C10-GBR-01A-2016,Glasgow $10K,Hard,32,10,20160201,19,214385,,LL,Yixuan Li,U,,CHN,18.7,206424,3,,Katharina Lehnert,R,,GER,21.9,7-6(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,947,11,438,70
 2016-W-C10-GBR-01A-2016,Glasgow $10K,Hard,32,10,20160201,20,214860,,Q,Karola Patricia Bejenaru,R,,ROU,18.5,214026,8,,Natalija Sipek,U,,SLO,19.1,6-3 5-7 7-5,3,R16,,,,,,,,,,,,,,,,,,,,971,10,592,40
-2016-W-C10-GBR-01A-2016,Glasgow $10K,Hard,32,10,20160201,21,211321,5,,Klaartje Liebens,R,,BEL,21.0,215431,,WC,Emily Appleton,U,,GBR,16.4,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,463,65,970,10
+2016-W-C10-GBR-01A-2016,Glasgow $10K,Hard,32,10,20160201,21,211321,5,,Klaartje Liebens,R,,BEL,21.0,215431,,WC,Emily Appleton,R,,GBR,16.4,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,463,65,970,10
 2016-W-C10-GBR-01A-2016,Glasgow $10K,Hard,32,10,20160201,22,211107,,WC,Katie Boulter,R,180,GBR,19.5,211813,,,Luisa Marie Huber,U,,GER,20.6,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,636,33
 2016-W-C10-GBR-01A-2016,Glasgow $10K,Hard,32,10,20160201,23,205723,6,,Anna Zaja,R,183,GER,24.6,211159,,Q,Nikki Luttikhuis,R,,NED,20.3,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,501,56,1089,7
 2016-W-C10-GBR-01A-2016,Glasgow $10K,Hard,32,10,20160201,24,210303,2,,Kathinka Von Deichmann,R,176,LIE,21.7,211334,,Q,Charlotte Klasen,U,,GER,20.3,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,406,84,978,10
@@ -4813,7 +4813,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-GBR-02A-2016,Sunderland $10K,Hard,32,10,20160208,12,205855,3,,Elyne Boeykens,R,,BEL,24.8,205700,,,Emma Flood,U,,NOR,25.3,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,360,106,627,34
 2016-W-C10-GBR-02A-2016,Sunderland $10K,Hard,32,10,20160208,13,201694,5,,Silvia Njiric,R,163,CRO,22.5,206207,,Q,Francesca Palmigiano,U,,ITA,21.2,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,435,72,853,16
 2016-W-C10-GBR-02A-2016,Sunderland $10K,Hard,32,10,20160208,14,214860,,Q,Karola Patricia Bejenaru,R,,ROU,18.6,214026,,,Natalija Sipek,U,,SLO,19.1,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,971,10,590,40
-2016-W-C10-GBR-02A-2016,Sunderland $10K,Hard,32,10,20160208,15,215431,,Q,Emily Appleton,U,,GBR,16.4,206251,,Q,Kimberley Zimmermann,R,,BEL,20.2,7-6(4) 5-7 6-0,3,R32,,,,,,,,,,,,,,,,,,,,970,10,731,24
+2016-W-C10-GBR-02A-2016,Sunderland $10K,Hard,32,10,20160208,15,215431,,Q,Emily Appleton,R,,GBR,16.4,206251,,Q,Kimberley Zimmermann,R,,BEL,20.2,7-6(4) 5-7 6-0,3,R32,,,,,,,,,,,,,,,,,,,,970,10,731,24
 2016-W-C10-GBR-02A-2016,Sunderland $10K,Hard,32,10,20160208,16,202706,2,,Manon Arcangioli,R,162,FRA,21.4,210593,,Q,Jazzamay Drew,U,,GBR,21.5,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,352,110,867,15
 2016-W-C10-GBR-02A-2016,Sunderland $10K,Hard,32,10,20160208,17,203591,1,,Katy Dunne,R,167,GBR,20.9,211107,,WC,Katie Boulter,R,180,GBR,19.5,Â,3,R16,,,,,,,,,,,,,,,,,,,,329,122,,
 2016-W-C10-GBR-02A-2016,Sunderland $10K,Hard,32,10,20160208,18,206175,,,Tess Sugnaux,R,,SUI,20.9,202471,,,Karen Barbat,R,,DEN,23.6,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,622,35,536,49
@@ -4822,7 +4822,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-GBR-02A-2016,Sunderland $10K,Hard,32,10,20160208,21,211887,,WC,Maia Lumsden,R,,GBR,18.0,214770,,Q,Emilie Francati,R,,DEN,18.6,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1039,8,792,19
 2016-W-C10-GBR-02A-2016,Sunderland $10K,Hard,32,10,20160208,22,205855,3,,Elyne Boeykens,R,,BEL,24.8,206277,,,Marine Partaud,R,,FRA,21.2,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,360,106,709,26
 2016-W-C10-GBR-02A-2016,Sunderland $10K,Hard,32,10,20160208,23,201694,5,,Silvia Njiric,R,163,CRO,22.5,214860,,Q,Karola Patricia Bejenaru,R,,ROU,18.6,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,435,72,971,10
-2016-W-C10-GBR-02A-2016,Sunderland $10K,Hard,32,10,20160208,24,202706,2,,Manon Arcangioli,R,162,FRA,21.4,215431,,Q,Emily Appleton,U,,GBR,16.4,1-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,352,110,970,10
+2016-W-C10-GBR-02A-2016,Sunderland $10K,Hard,32,10,20160208,24,202706,2,,Manon Arcangioli,R,162,FRA,21.4,215431,,Q,Emily Appleton,R,,GBR,16.4,1-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,352,110,970,10
 2016-W-C10-GBR-02A-2016,Sunderland $10K,Hard,32,10,20160208,25,203591,1,,Katy Dunne,R,167,GBR,20.9,206175,,,Tess Sugnaux,R,,SUI,20.9,7-6(5) 7-6(7),3,QF,,,,,,,,,,,,,,,,,,,,329,122,622,35
 2016-W-C10-GBR-02A-2016,Sunderland $10K,Hard,32,10,20160208,26,210303,4,,Kathinka Von Deichmann,R,176,LIE,21.7,211321,8,,Klaartje Liebens,R,,BEL,21.0,6-4 3-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,408,84,466,64
 2016-W-C10-GBR-02A-2016,Sunderland $10K,Hard,32,10,20160208,27,211887,,WC,Maia Lumsden,R,,GBR,18.0,205855,3,,Elyne Boeykens,R,,BEL,24.8,6-0 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1039,8,360,106
@@ -4869,7 +4869,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-GBR-04A-2016,Nottingham $10K,Hard,32,10,20160919,6,216248,,Q,Hannah Mccolgan,U,,GBR,16.6,209945,,,Almudena Sanz Llaneza Fernandez,U,,ESP,25.5,6-4 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1121,6
 2016-W-C10-GBR-04A-2016,Nottingham $10K,Hard,32,10,20160919,7,215795,,WC,Lauryn John Baptiste,U,,GBR,17.1,216249,,LL,Anna Popescu,U,,GBR,19.1,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2016-W-C10-GBR-04A-2016,Nottingham $10K,Hard,32,10,20160919,8,211031,7,,Sarah Beth Grey,L,,GBR,21.1,204438,,,Sabrina Bamburac,R,,GBR,23.3,1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,872,14,,
-2016-W-C10-GBR-04A-2016,Nottingham $10K,Hard,32,10,20160919,9,215431,5,,Emily Appleton,U,,GBR,17.0,216250,,,Bronte Murgett,U,,GBR,17.4,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,742,22,,
+2016-W-C10-GBR-04A-2016,Nottingham $10K,Hard,32,10,20160919,9,215431,5,,Emily Appleton,R,,GBR,17.0,216250,,,Bronte Murgett,U,,GBR,17.4,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,742,22,,
 2016-W-C10-GBR-04A-2016,Nottingham $10K,Hard,32,10,20160919,10,211432,,,Eden Silva,R,,GBR,20.5,215912,,Q,Katarzyna Pitak,U,,GBR,17.9,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1023,8,,
 2016-W-C10-GBR-04A-2016,Nottingham $10K,Hard,32,10,20160919,11,216251,,Q,Megan Davies,R,,GBR,17.5,209074,,Q,Natasha Hillyer,R,,GBR,28.0,6-3 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2016-W-C10-GBR-04A-2016,Nottingham $10K,Hard,32,10,20160919,12,215432,,,Olivia Nicholls,R,,GBR,21.9,214007,4,,Dasha Ivanova,R,,USA,19.9,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,684,28
@@ -4881,7 +4881,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-GBR-04A-2016,Nottingham $10K,Hard,32,10,20160919,18,206230,,WC,Alicia Barnett,R,,GBR,22.9,215098,,,Emma Hurst,U,,GBR,20.2,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,1009,9
 2016-W-C10-GBR-04A-2016,Nottingham $10K,Hard,32,10,20160919,19,211813,3,,Luisa Marie Huber,U,,GER,21.2,216248,,Q,Hannah Mccolgan,U,,GBR,16.6,6-4 6-7(4) 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,705,26,,
 2016-W-C10-GBR-04A-2016,Nottingham $10K,Hard,32,10,20160919,20,215795,,WC,Lauryn John Baptiste,U,,GBR,17.1,211031,7,,Sarah Beth Grey,L,,GBR,21.1,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,872,14
-2016-W-C10-GBR-04A-2016,Nottingham $10K,Hard,32,10,20160919,21,211432,,,Eden Silva,R,,GBR,20.5,215431,5,,Emily Appleton,U,,GBR,17.0,7-6(5) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1023,8,742,22
+2016-W-C10-GBR-04A-2016,Nottingham $10K,Hard,32,10,20160919,21,211432,,,Eden Silva,R,,GBR,20.5,215431,5,,Emily Appleton,R,,GBR,17.0,7-6(5) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,1023,8,742,22
 2016-W-C10-GBR-04A-2016,Nottingham $10K,Hard,32,10,20160919,22,215432,,,Olivia Nicholls,R,,GBR,21.9,216251,,Q,Megan Davies,R,,GBR,17.5,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2016-W-C10-GBR-04A-2016,Nottingham $10K,Hard,32,10,20160919,23,216253,,Q,Victoria Allen,U,,GBR,15.5,211775,6,,Erika Vogelsang,R,,NED,21.5,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,764,20
 2016-W-C10-GBR-04A-2016,Nottingham $10K,Hard,32,10,20160919,24,216254,,WC,Gemma Heath,R,,GBR,15.1,211321,2,,Klaartje Liebens,R,,BEL,21.6,2-6 6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,558,47
@@ -4904,7 +4904,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-GBR-04B-2016,Roehampton $10K,Hard,32,10,20160926,10,214860,,,Karola Patricia Bejenaru,R,,ROU,19.2,211432,,,Eden Silva,R,,GBR,20.5,1-6 6-4 4-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,776,20,1029,8
 2016-W-C10-GBR-04B-2016,Roehampton $10K,Hard,32,10,20160926,11,211346,,,Jil Nora Engelmann,R,,GER,22.8,214928,,Q,Louise Holtum,U,,GBR,21.9,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,983,10,,
 2016-W-C10-GBR-04B-2016,Roehampton $10K,Hard,32,10,20160926,12,213734,3,,Mariam Bolkvadze,L,,GEO,18.7,214520,,,Andrea Raaholdt,R,,NOR,20.4,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,465,68,845,15
-2016-W-C10-GBR-04B-2016,Roehampton $10K,Hard,32,10,20160926,13,211321,5,,Klaartje Liebens,R,,BEL,21.7,215431,,,Emily Appleton,U,,GBR,17.0,6-4 6-7(7) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,589,40,745,22
+2016-W-C10-GBR-04B-2016,Roehampton $10K,Hard,32,10,20160926,13,211321,5,,Klaartje Liebens,R,,BEL,21.7,215431,,,Emily Appleton,R,,GBR,17.0,6-4 6-7(7) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,589,40,745,22
 2016-W-C10-GBR-04B-2016,Roehampton $10K,Hard,32,10,20160926,14,206230,,Q,Alicia Barnett,R,,GBR,22.9,203357,,,Libby Muma,U,,USA,22.6,6-1 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2016-W-C10-GBR-04B-2016,Roehampton $10K,Hard,32,10,20160926,15,215791,,WC,Eden Richardson,R,,GBR,18.0,215433,,Q,Francesca Wilkes,U,,GBR,19.7,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2016-W-C10-GBR-04B-2016,Roehampton $10K,Hard,32,10,20160926,16,214220,2,,Margot Yerolymos,R,178,FRA,19.4,216250,,Q,Bronte Murgett,U,,GBR,17.4,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,406,85,,
@@ -5671,7 +5671,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-INA-02A-2016,Jakarta $10K,Hard,32,10,20161010,9,213661,,,Yukina Saigo,R,,JPN,20.4,215010,8,,Yijia Shao,U,,CHN,19.7,7-5 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,1021,9,993,9
 2016-W-C10-INA-02A-2016,Jakarta $10K,Hard,32,10,20161010,10,206320,,WC,Vita Taher,R,,INA,21.1,202231,,WC,Shiho Hisamatsu,R,,JPN,37.2,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2016-W-C10-INA-02A-2016,Jakarta $10K,Hard,32,10,20161010,11,202645,,,Jessy Rompies,R,160,INA,26.4,215213,,Q,Waka Kirihata,U,,JPN,22.5,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1237,3,,
-2016-W-C10-INA-02A-2016,Jakarta $10K,Hard,32,10,20161010,12,215431,4,,Emily Appleton,U,,GBR,17.1,215318,,,Nagisa Morimoto,U,,JPN,19.5,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,732,23,,
+2016-W-C10-INA-02A-2016,Jakarta $10K,Hard,32,10,20161010,12,215431,4,,Emily Appleton,R,,GBR,17.1,215318,,,Nagisa Morimoto,U,,JPN,19.5,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,732,23,,
 2016-W-C10-INA-02A-2016,Jakarta $10K,Hard,32,10,20161010,13,211844,5,,Haruka Kaji,R,,JPN,22.0,215458,,Q,Julia Fisch,R,,USA,18.8,5-4 RET,3,R32,,,,,,,,,,,,,,,,,,,,697,26,,
 2016-W-C10-INA-02A-2016,Jakarta $10K,Hard,32,10,20161010,14,205492,,,Ashmitha Easwaramurthi,R,,IND,27.2,213997,,LL,Shivani Manchanda,R,,IND,21.7,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2016-W-C10-INA-02A-2016,Jakarta $10K,Hard,32,10,20161010,15,204304,,,Jawairiah Noordin,R,,MAS,26.0,215091,,,Sarah Pang,U,,SGP,31.5,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1091,6,,
@@ -5681,7 +5681,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-INA-02A-2016,Jakarta $10K,Hard,32,10,20161010,19,202365,,WC,Lavinia Tananta,R,,INA,28.9,203433,3,,Rishika Sunkara,R,,IND,23.4,6-2 1-6 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,696,26
 2016-W-C10-INA-02A-2016,Jakarta $10K,Hard,32,10,20161010,20,211234,,,Deria Nur Haliza,R,,INA,19.3,215579,,,Hsin Yuan Shih,U,,TPE,16.7,2-6 6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,1133,5
 2016-W-C10-INA-02A-2016,Jakarta $10K,Hard,32,10,20161010,21,213661,,,Yukina Saigo,R,,JPN,20.4,206320,,WC,Vita Taher,R,,INA,21.1,6-0 4-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,1021,9,,
-2016-W-C10-INA-02A-2016,Jakarta $10K,Hard,32,10,20161010,22,202645,,,Jessy Rompies,R,160,INA,26.4,215431,4,,Emily Appleton,U,,GBR,17.1,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1237,3,732,23
+2016-W-C10-INA-02A-2016,Jakarta $10K,Hard,32,10,20161010,22,202645,,,Jessy Rompies,R,160,INA,26.4,215431,4,,Emily Appleton,R,,GBR,17.1,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1237,3,732,23
 2016-W-C10-INA-02A-2016,Jakarta $10K,Hard,32,10,20161010,23,211844,5,,Haruka Kaji,R,,JPN,22.0,205492,,,Ashmitha Easwaramurthi,R,,IND,27.2,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,697,26,,
 2016-W-C10-INA-02A-2016,Jakarta $10K,Hard,32,10,20161010,24,205344,2,,Beatrice Gumulya,R,161,INA,25.7,204304,,,Jawairiah Noordin,R,,MAS,26.0,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,687,27,1091,6
 2016-W-C10-INA-02A-2016,Jakarta $10K,Hard,32,10,20161010,25,210740,1,,Stefanie Tan,R,,SGP,24.0,212022,,WC,Rifanty Kahfiani,R,,INA,18.6,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,549,48,,
@@ -6352,7 +6352,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-ITA-10A-2016,Tarvisio $10K,Clay,32,10,20160801,10,215435,,Q,Alessia Dario,U,,ITA,18.3,216085,,Q,Elisa Visentin,R,,ITA,16.9,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2016-W-C10-ITA-10A-2016,Tarvisio $10K,Clay,32,10,20160801,11,206399,,Q,Francesca Sella,R,,ITA,22.3,203457,,,Polona Rebersak,U,,SLO,29.4,7-6(4) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1259,3,857,15
 2016-W-C10-ITA-10A-2016,Tarvisio $10K,Clay,32,10,20160801,12,214238,,WC,Verena Meliss,U,,ITA,19.0,213690,3,,Camilla Scala,U,,ITA,22.0,2-6 6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,1145,5,506,57
-2016-W-C10-ITA-10A-2016,Tarvisio $10K,Clay,32,10,20160801,13,215431,,,Emily Appleton,U,,GBR,16.9,205123,5,,Alice Balducci,R,,ITA,29.8,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,754,21,593,40
+2016-W-C10-ITA-10A-2016,Tarvisio $10K,Clay,32,10,20160801,13,215431,,,Emily Appleton,R,,GBR,16.9,205123,5,,Alice Balducci,R,,ITA,29.8,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,754,21,593,40
 2016-W-C10-ITA-10A-2016,Tarvisio $10K,Clay,32,10,20160801,14,213822,,,Verena Hofer,U,,ITA,18.9,215436,,Q,Emma Lioi,U,,ITA,17.8,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1212,4,,
 2016-W-C10-ITA-10A-2016,Tarvisio $10K,Clay,32,10,20160801,15,213849,,Q,Nicole Fossa Huergo,U,,ITA,21.1,214459,,,Lucia Bronzetti,R,,ITA,17.6,2-6 7-6(4) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,926,12
 2016-W-C10-ITA-10A-2016,Tarvisio $10K,Clay,32,10,20160801,16,214460,,,Manca Pislak,L,,SLO,18.8,206336,2,,Julia Stamatova,L,,BUL,23.1,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,684,28,465,66
@@ -6362,12 +6362,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-ITA-10A-2016,Tarvisio $10K,Clay,32,10,20160801,20,211821,8,,Chiara Grimm,R,,SUI,19.5,214643,,WC,Liudmila Samsonova,R,180,RUS,17.7,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,665,31,1259,3
 2016-W-C10-ITA-10A-2016,Tarvisio $10K,Clay,32,10,20160801,21,211328,7,,Deborah Chiesa,R,170,ITA,20.1,215435,,Q,Alessia Dario,U,,ITA,18.3,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,592,40,,
 2016-W-C10-ITA-10A-2016,Tarvisio $10K,Clay,32,10,20160801,22,206399,,Q,Francesca Sella,R,,ITA,22.3,214238,,WC,Verena Meliss,U,,ITA,19.0,6-4 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1259,3,1145,5
-2016-W-C10-ITA-10A-2016,Tarvisio $10K,Clay,32,10,20160801,23,215431,,,Emily Appleton,U,,GBR,16.9,213822,,,Verena Hofer,U,,ITA,18.9,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,754,21,1212,4
+2016-W-C10-ITA-10A-2016,Tarvisio $10K,Clay,32,10,20160801,23,215431,,,Emily Appleton,R,,GBR,16.9,213822,,,Verena Hofer,U,,ITA,18.9,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,754,21,1212,4
 2016-W-C10-ITA-10A-2016,Tarvisio $10K,Clay,32,10,20160801,24,214460,,,Manca Pislak,L,,SLO,18.8,213849,,Q,Nicole Fossa Huergo,U,,ITA,21.1,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,684,28,,
 2016-W-C10-ITA-10A-2016,Tarvisio $10K,Clay,32,10,20160801,25,214746,,WC,Federica Bilardo,U,,ITA,17.0,204268,,,Natalie Proese,R,,GER,25.8,6-2 5-7 6-2,3,QF,,,,,,,,,,,,,,,,,,,,1101,6,825,17
 2016-W-C10-ITA-10A-2016,Tarvisio $10K,Clay,32,10,20160801,26,203284,4,,Katerina Vankova,L,,CZE,26.5,211821,8,,Chiara Grimm,R,,SUI,19.5,6-7(5) 6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,621,35,665,31
 2016-W-C10-ITA-10A-2016,Tarvisio $10K,Clay,32,10,20160801,27,211328,7,,Deborah Chiesa,R,170,ITA,20.1,206399,,Q,Francesca Sella,R,,ITA,22.3,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,592,40,1259,3
-2016-W-C10-ITA-10A-2016,Tarvisio $10K,Clay,32,10,20160801,28,214460,,,Manca Pislak,L,,SLO,18.8,215431,,,Emily Appleton,U,,GBR,16.9,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,684,28,754,21
+2016-W-C10-ITA-10A-2016,Tarvisio $10K,Clay,32,10,20160801,28,214460,,,Manca Pislak,L,,SLO,18.8,215431,,,Emily Appleton,R,,GBR,16.9,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,684,28,754,21
 2016-W-C10-ITA-10A-2016,Tarvisio $10K,Clay,32,10,20160801,29,214746,,WC,Federica Bilardo,U,,ITA,17.0,203284,4,,Katerina Vankova,L,,CZE,26.5,4-0 RET,3,SF,,,,,,,,,,,,,,,,,,,,1101,6,621,35
 2016-W-C10-ITA-10A-2016,Tarvisio $10K,Clay,32,10,20160801,30,214460,,,Manca Pislak,L,,SLO,18.8,211328,7,,Deborah Chiesa,R,170,ITA,20.1,6-3 1-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,684,28,592,40
 2016-W-C10-ITA-10A-2016,Tarvisio $10K,Clay,32,10,20160801,31,214460,,,Manca Pislak,L,,SLO,18.8,214746,,WC,Federica Bilardo,U,,ITA,17.0,6-1 6-0,3,F,,,,,,,,,,,,,,,,,,,,684,28,1101,6
@@ -7378,7 +7378,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-MDA-01A-2016,Chisinau $10K,Clay,32,10,20160926,13,201479,7,,Olga Puchkova,R,180,RUS,28.9,216272,,Q,Nadezhda Sedysheva,U,,RUS,17.6,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,662,31,,
 2016-W-C10-MDA-01A-2016,Chisinau $10K,Clay,32,10,20160926,14,214658,,,Lusine Avanesyan,U,,RUS,18.9,211495,,,Helen Ploskina,R,,UKR,19.4,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,974,10,866,14
 2016-W-C10-MDA-01A-2016,Chisinau $10K,Clay,32,10,20160926,15,203516,,,Nadiya Kolb,R,,UKR,23.6,214953,,WC,Vlada Medvedcova,R,,MDA,17.1,6-1 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1074,7,,
-2016-W-C10-MDA-01A-2016,Chisinau $10K,Clay,32,10,20160926,16,202656,2,,Estelle Cascino,R,,FRA,20.5,216273,,Q,Yulia Starodubtsewa,U,,UKR,16.6,7-5 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,535,51,,
+2016-W-C10-MDA-01A-2016,Chisinau $10K,Clay,32,10,20160926,16,202656,2,,Estelle Cascino,R,,FRA,20.5,263857,,Q,Yuliia Starodubtseva,R,,UKR,16.6,7-5 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,535,51,,
 2016-W-C10-MDA-01A-2016,Chisinau $10K,Clay,32,10,20160926,17,215765,,,Oleksandra Andrieieva,U,,UKR,15.8,210958,1,,Alexandra Perper,R,,MDA,25.1,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,1108,6,416,84
 2016-W-C10-MDA-01A-2016,Chisinau $10K,Clay,32,10,20160926,18,214600,,Q,Georgia Andreea Craciun,U,,ROU,17.2,202384,5,,Kyra Shroff,R,,IND,23.9,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1240,3,664,31
 2016-W-C10-MDA-01A-2016,Chisinau $10K,Clay,32,10,20160926,19,214691,,Q,Ylona Georgiana Ghioroaie,U,,ROU,18.4,211098,3,,Cristina Ene,R,,ROU,20.7,6-3 3-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,839,16,497,60
@@ -7396,7 +7396,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-MDA-01A-2016,Chisinau $10K,Clay,32,10,20160926,31,214691,,Q,Ylona Georgiana Ghioroaie,U,,ROU,18.4,202558,4,,Veronika Kapshay,U,175,UKR,29.8,6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,839,16,610,38
 2016-W-C10-MDA-02A-2016,Chisinau $10K,Clay,32,10,20161003,1,210958,1,,Alexandra Perper,R,,MDA,25.1,210262,,Q,Anastasia Koroliova,U,,UKR,24.6,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,415,84,,
 2016-W-C10-MDA-02A-2016,Chisinau $10K,Clay,32,10,20161003,2,203516,,,Nadiya Kolb,R,,UKR,23.7,215199,,WC,Valentina Dancenco,R,,MDA,17.8,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1078,7,,
-2016-W-C10-MDA-02A-2016,Chisinau $10K,Clay,32,10,20161003,3,216273,,Q,Yulia Starodubtsewa,U,,UKR,16.6,214624,,,Anastasia Detiuc,U,,MDA,17.8,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,992,9
+2016-W-C10-MDA-02A-2016,Chisinau $10K,Clay,32,10,20161003,3,263857,,Q,Yuliia Starodubtseva,R,,UKR,16.6,214624,,,Anastasia Detiuc,U,,MDA,17.8,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,992,9
 2016-W-C10-MDA-02A-2016,Chisinau $10K,Clay,32,10,20161003,4,216299,,Q,Ekaterina Vishnevskaya,R,,RUS,16.8,211898,7,,Andreea Ghitescu,R,,ROU,19.5,5-7 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,788,19
 2016-W-C10-MDA-02A-2016,Chisinau $10K,Clay,32,10,20161003,5,214014,,,Adriana Sosnovschi,R,,MDA,18.7,201479,4,,Olga Puchkova,R,180,RUS,29.0,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,656,31
 2016-W-C10-MDA-02A-2016,Chisinau $10K,Clay,32,10,20161003,6,211930,,,Teodora Stinga,R,,ROU,21.5,215585,,Q,Anastasiia Gevel,U,,UKR,17.6,6-3 6-7(5) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,978,10,1240,3
@@ -7411,14 +7411,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-MDA-02A-2016,Chisinau $10K,Clay,32,10,20161003,15,213896,,Q,Elina Nepliy,R,,RUS,18.9,213596,,,Maryna Kolb,R,,UKR,19.5,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2016-W-C10-MDA-02A-2016,Chisinau $10K,Clay,32,10,20161003,16,202656,2,,Estelle Cascino,R,,FRA,20.5,214744,,,Angelina Shakhraychuk,R,,UKR,16.9,3-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,532,51,945,11
 2016-W-C10-MDA-02A-2016,Chisinau $10K,Clay,32,10,20161003,17,210958,1,,Alexandra Perper,R,,MDA,25.1,203516,,,Nadiya Kolb,R,,UKR,23.7,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,415,84,1078,7
-2016-W-C10-MDA-02A-2016,Chisinau $10K,Clay,32,10,20161003,18,216273,,Q,Yulia Starodubtsewa,U,,UKR,16.6,216299,,Q,Ekaterina Vishnevskaya,R,,RUS,16.8,2-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2016-W-C10-MDA-02A-2016,Chisinau $10K,Clay,32,10,20161003,18,263857,,Q,Yuliia Starodubtseva,R,,UKR,16.6,216299,,Q,Ekaterina Vishnevskaya,R,,RUS,16.8,2-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2016-W-C10-MDA-02A-2016,Chisinau $10K,Clay,32,10,20161003,19,214014,,,Adriana Sosnovschi,R,,MDA,18.7,211930,,,Teodora Stinga,R,,ROU,21.5,2-6 6-0 4-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,,,978,10
 2016-W-C10-MDA-02A-2016,Chisinau $10K,Clay,32,10,20161003,20,211495,,,Helen Ploskina,R,,UKR,19.4,214600,,,Georgia Andreea Craciun,U,,ROU,17.2,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,868,14,1240,3
 2016-W-C10-MDA-02A-2016,Chisinau $10K,Clay,32,10,20161003,21,214691,8,,Ylona Georgiana Ghioroaie,U,,ROU,18.5,214953,,WC,Vlada Medvedcova,R,,MDA,17.1,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,837,16,,
 2016-W-C10-MDA-02A-2016,Chisinau $10K,Clay,32,10,20161003,22,202558,3,,Veronika Kapshay,U,175,UKR,29.8,216270,,Q,Diana Belalova,U,,UKR,17.7,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,618,37,,
 2016-W-C10-MDA-02A-2016,Chisinau $10K,Clay,32,10,20161003,23,203429,6,,Tamara Curovic,R,,SRB,21.9,215553,,Q,Viktoriia Dema,U,,UKR,15.9,7-6(1) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,704,26,,
 2016-W-C10-MDA-02A-2016,Chisinau $10K,Clay,32,10,20161003,24,202656,2,,Estelle Cascino,R,,FRA,20.5,213896,,Q,Elina Nepliy,R,,RUS,18.9,6-1 7-5,3,R16,,,,,,,,,,,,,,,,,,,,532,51,,
-2016-W-C10-MDA-02A-2016,Chisinau $10K,Clay,32,10,20161003,25,210958,1,,Alexandra Perper,R,,MDA,25.1,216273,,Q,Yulia Starodubtsewa,U,,UKR,16.6,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,415,84,,
+2016-W-C10-MDA-02A-2016,Chisinau $10K,Clay,32,10,20161003,25,210958,1,,Alexandra Perper,R,,MDA,25.1,263857,,Q,Yuliia Starodubtseva,R,,UKR,16.6,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,415,84,,
 2016-W-C10-MDA-02A-2016,Chisinau $10K,Clay,32,10,20161003,26,214014,,,Adriana Sosnovschi,R,,MDA,18.7,211495,,,Helen Ploskina,R,,UKR,19.4,7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,,,868,14
 2016-W-C10-MDA-02A-2016,Chisinau $10K,Clay,32,10,20161003,27,214691,8,,Ylona Georgiana Ghioroaie,U,,ROU,18.5,202558,3,,Veronika Kapshay,U,175,UKR,29.8,6-1 2-0 RET,3,QF,,,,,,,,,,,,,,,,,,,,837,16,618,37
 2016-W-C10-MDA-02A-2016,Chisinau $10K,Clay,32,10,20161003,28,203429,6,,Tamara Curovic,R,,SRB,21.9,202656,2,,Estelle Cascino,R,,FRA,20.5,6-2 2-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,704,26,532,51
@@ -8910,7 +8910,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-SRB-05A-2016,Vrnjacka Banja $10K,Clay,32,10,20160829,31,214995,,,Sofya Golubovskaya,R,,RUS,16.3,215905,,Q,Bojana Markovic,R,,SRB,17.5,6-3 6-2,3,F,,,,,,,,,,,,,,,,,,,,1153,5,,
 2016-W-C10-SUI-01A-2016,Caslano $10K,Clay,32,10,20160822,1,211216,1,,Cristiana Ferrando,R,,ITA,21.0,215259,,,Leonie Kung,R,176,SUI,15.8,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,319,126,1136,5
 2016-W-C10-SUI-01A-2016,Caslano $10K,Clay,32,10,20160822,2,214238,,,Verena Meliss,U,,ITA,19.0,209901,,,Marianna Natali,L,,ITA,25.1,6-2 4-6 4-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,1103,6,1008,9
-2016-W-C10-SUI-01A-2016,Caslano $10K,Clay,32,10,20160822,3,211732,,,Alessia Piran,U,,ITA,24.2,215138,,Q,Lulu Sun,U,,SUI,15.3,3-6 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2016-W-C10-SUI-01A-2016,Caslano $10K,Clay,32,10,20160822,3,211732,,,Alessia Piran,U,,ITA,24.2,215138,,Q,Lulu Sun,U,,NZL,15.3,3-6 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2016-W-C10-SUI-01A-2016,Caslano $10K,Clay,32,10,20160822,4,211557,,,Nina Stadler,U,,SUI,20.8,210056,6,,Priscilla Heise,R,,FRA,26.1,6-1 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,804,18,681,29
 2016-W-C10-SUI-01A-2016,Caslano $10K,Clay,32,10,20160822,5,213600,4,,Emily Arbuthnott,U,,GBR,18.8,213836,,Q,Federica Joe Gardella,U,,ITA,19.4,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,645,33,,
 2016-W-C10-SUI-01A-2016,Caslano $10K,Clay,32,10,20160822,6,216045,,Q,Svenja Ochsner,R,,SUI,16.5,214152,,,Federica Prati,U,,ITA,20.6,6-2 5-7 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,885,14
@@ -9200,7 +9200,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-THA-02A-2016,Hua Hin $10K,Hard,32,10,20161010,11,216291,,WC,Dolavee Tumthong,U,,THA,14.9,213842,,WC,Jaipet Anontaweesil,U,,THA,18.2,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2016-W-C10-THA-02A-2016,Hua Hin $10K,Hard,32,10,20161010,12,215250,3,,Hanyu Guo,R,,CHN,18.3,212021,,,Yuenu Li,U,,CHN,18.2,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,498,59,872,14
 2016-W-C10-THA-02A-2016,Hua Hin $10K,Hard,32,10,20161010,13,210337,8,,Natalija Stevanovic,R,,SRB,22.2,215489,,,Ramu Ueda,U,,JPN,18.5,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,617,37,1044,8
-2016-W-C10-THA-02A-2016,Hua Hin $10K,Hard,32,10,20161010,14,215138,,Q,Lulu Sun,U,,SUI,15.4,213636,,,Yukun Zhang,R,,CHN,20.7,0-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,703,26
+2016-W-C10-THA-02A-2016,Hua Hin $10K,Hard,32,10,20161010,14,215138,,Q,Lulu Sun,U,,NZL,15.4,213636,,,Yukun Zhang,R,,CHN,20.7,0-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,703,26
 2016-W-C10-THA-02A-2016,Hua Hin $10K,Hard,32,10,20161010,15,214644,,Q,Arina Taluenko,U,,KAZ,17.7,215309,,Q,Sasha Alexander,R,,AUS,19.2,4-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1197,4,,
 2016-W-C10-THA-02A-2016,Hua Hin $10K,Hard,32,10,20161010,16,206424,2,WC,Katharina Lehnert,R,,GER,22.6,215470,,Q,Lorraine M Guillermo,R,,USA,23.3,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,515,56,,
 2016-W-C10-THA-02A-2016,Hua Hin $10K,Hard,32,10,20161010,17,215077,,WC,Viktoria Morvayova,U,,SVK,15.5,214276,,,Yuan Xin,U,,CHN,21.6,W/O,3,R16,,,,,,,,,,,,,,,,,,,,,,995,9
@@ -9209,7 +9209,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-THA-02A-2016,Hua Hin $10K,Hard,32,10,20161010,20,214277,5,,Bunyawi Thamchaiwat,R,,THA,18.2,215812,,Q,Shuyue Ma,R,,CHN,17.2,6-4 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,539,50,1023,8
 2016-W-C10-THA-02A-2016,Hua Hin $10K,Hard,32,10,20161010,21,202610,,,Aki Yamasoto,R,,JPN,25.0,206154,7,,Varunya Wongteanchai,R,,THA,23.7,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,711,25,733,23
 2016-W-C10-THA-02A-2016,Hua Hin $10K,Hard,32,10,20161010,22,215250,3,,Hanyu Guo,R,,CHN,18.3,216291,,WC,Dolavee Tumthong,U,,THA,14.9,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,498,59,,
-2016-W-C10-THA-02A-2016,Hua Hin $10K,Hard,32,10,20161010,23,210337,8,,Natalija Stevanovic,R,,SRB,22.2,215138,,Q,Lulu Sun,U,,SUI,15.4,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,617,37,,
+2016-W-C10-THA-02A-2016,Hua Hin $10K,Hard,32,10,20161010,23,210337,8,,Natalija Stevanovic,R,,SRB,22.2,215138,,Q,Lulu Sun,U,,NZL,15.4,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,617,37,,
 2016-W-C10-THA-02A-2016,Hua Hin $10K,Hard,32,10,20161010,24,206424,2,WC,Katharina Lehnert,R,,GER,22.6,214644,,Q,Arina Taluenko,U,,KAZ,17.7,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,515,56,1197,4
 2016-W-C10-THA-02A-2016,Hua Hin $10K,Hard,32,10,20161010,25,201682,6,,Nudnida Luangnam,R,167,THA,29.6,215077,,WC,Viktoria Morvayova,U,,SVK,15.5,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,566,44,,
 2016-W-C10-THA-02A-2016,Hua Hin $10K,Hard,32,10,20161010,26,214385,,,Yixuan Li,U,,CHN,19.4,214277,5,,Bunyawi Thamchaiwat,R,,THA,18.2,1-6 6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,992,9,539,50
@@ -9875,7 +9875,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-TUN-18A-2016,Hammamet $10K,Clay,32,10,20160516,8,211341,,Q,Sarah Finck,R,,FRA,20.7,211283,8,,Karoline Kurz,U,,AUT,19.9,6-3 0-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,981,9,816,18
 2016-W-C10-TUN-18A-2016,Hammamet $10K,Clay,32,10,20160516,9,211019,5,,Audrey Albie,R,,FRA,21.5,215725,,WC,Sihem Bellahouel,U,,FRA,16.1,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,584,39,,
 2016-W-C10-TUN-18A-2016,Hammamet $10K,Clay,32,10,20160516,10,215936,,Q,Francesca Jones,R,,GBR,15.6,210658,,,Michele Alexandra Zmau,U,,ROU,19.9,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,1093,6
-2016-W-C10-TUN-18A-2016,Hammamet $10K,Clay,32,10,20160516,11,210337,,Q,Natalija Stevanovic,R,,SRB,21.8,215138,,WC,Lulu Sun,U,,SUI,15.0,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1042,7,1224,4
+2016-W-C10-TUN-18A-2016,Hammamet $10K,Clay,32,10,20160516,11,210337,,Q,Natalija Stevanovic,R,,SRB,21.8,215138,,WC,Lulu Sun,U,,NZL,15.0,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1042,7,1224,4
 2016-W-C10-TUN-18A-2016,Hammamet $10K,Clay,32,10,20160516,12,210370,4,,Sowjanya Bavisetti,L,,IND,22.4,213827,,Q,Magdalena Stoilkovska,R,,MKD,20.0,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,609,36,,
 2016-W-C10-TUN-18A-2016,Hammamet $10K,Clay,32,10,20160516,13,213796,7,,Petra Januskova,R,,CAN,25.2,211772,,,Ina Kaufinger,U,,GER,22.5,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,772,21,1100,6
 2016-W-C10-TUN-18A-2016,Hammamet $10K,Clay,32,10,20160516,14,210847,,,Miriana Tona,U,,ITA,21.3,214810,,,Julyette Maria Josephine Steur,U,,GER,20.8,0-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,829,17,889,13
@@ -9902,7 +9902,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-TUN-19A-2016,Hammamet $10K,Clay,32,10,20160523,4,215936,,Q,Francesca Jones,R,,GBR,15.6,211961,7,,Emmanuelle Salas,U,,FRA,18.0,3-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,774,20
 2016-W-C10-TUN-19A-2016,Hammamet $10K,Clay,32,10,20160523,5,202491,3,Q,Varvara Flink,R,175,RUS,19.4,209712,,Q,Elaine Genovese,R,,MLT,25.3,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,527,50,,
 2016-W-C10-TUN-19A-2016,Hammamet $10K,Clay,32,10,20160523,6,214180,,,Anna Makhorkina,U,,RUS,18.8,215735,,Q,Sara Lanca,U,,POR,19.2,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,970,10,,
-2016-W-C10-TUN-19A-2016,Hammamet $10K,Clay,32,10,20160523,7,206166,,,Jade Suvrijn,R,,FRA,21.0,215138,,,Lulu Sun,U,,SUI,15.1,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,824,17,1221,4
+2016-W-C10-TUN-19A-2016,Hammamet $10K,Clay,32,10,20160523,7,206166,,,Jade Suvrijn,R,,FRA,21.0,215138,,,Lulu Sun,U,,NZL,15.1,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,824,17,1221,4
 2016-W-C10-TUN-19A-2016,Hammamet $10K,Clay,32,10,20160523,8,213888,5,,Britt Geukens,R,,BEL,20.2,209901,,WC,Marianna Natali,L,,ITA,24.9,6-1 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,674,29,1095,6
 2016-W-C10-TUN-19A-2016,Hammamet $10K,Clay,32,10,20160523,9,211283,8,,Karoline Kurz,U,,AUT,20.0,215952,,LL,Kristina Kostic,U,,SRB,19.2,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,801,19,,
 2016-W-C10-TUN-19A-2016,Hammamet $10K,Clay,32,10,20160523,10,215935,,Q,Zoe Bourbotte,U,,FRA,14.9,214190,,Q,Nicole Baloescu,U,,CAN,18.5,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -9941,7 +9941,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-TUN-20A-2016,Hammamet $10K,Clay,32,10,20160530,12,215328,,WC,Margaux Bovy,U,,BEL,18.6,213796,4,,Petra Januskova,R,,CAN,25.2,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,701,26
 2016-W-C10-TUN-20A-2016,Hammamet $10K,Clay,32,10,20160530,13,214810,8,,Julyette Maria Josephine Steur,U,,GER,20.8,211535,,,Camille Cheli,R,,FRA,22.8,2-6 6-0 7-5,3,R32,,,,,,,,,,,,,,,,,,,,884,13,1141,5
 2016-W-C10-TUN-20A-2016,Hammamet $10K,Clay,32,10,20160530,14,209712,,,Elaine Genovese,R,,MLT,25.3,215953,,Q,Aza Petrova,U,,UKR,17.2,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2016-W-C10-TUN-20A-2016,Hammamet $10K,Clay,32,10,20160530,15,211266,,WC,Yulia Kulikova,U,,RUS,26.7,215138,,,Lulu Sun,U,,SUI,15.1,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1221,4
+2016-W-C10-TUN-20A-2016,Hammamet $10K,Clay,32,10,20160530,15,211266,,WC,Yulia Kulikova,U,,RUS,26.7,215138,,,Lulu Sun,U,,NZL,15.1,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1221,4
 2016-W-C10-TUN-20A-2016,Hammamet $10K,Clay,32,10,20160530,16,213714,2,,Fanny Ostlund,R,,SWE,19.0,214180,,,Anna Makhorkina,U,,RUS,18.9,7-6(8) 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,618,35,970,10
 2016-W-C10-TUN-20A-2016,Hammamet $10K,Clay,32,10,20160530,17,213879,,Q,Barbara Kotelesova,U,,SVK,20.0,203326,1,,Lisa Sabino,U,,SUI,29.8,4-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,1064,7,421,79
 2016-W-C10-TUN-20A-2016,Hammamet $10K,Clay,32,10,20160530,18,210337,,,Natalija Stevanovic,R,,SRB,21.8,215416,5,,Kassandra Davesne,U,,FRA,17.3,6-7(6) 6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1044,7,823,17
@@ -11785,7 +11785,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C10-USA-05A-2016,Charleston SC $10K,Clay,32,10,20160926,29,211594,,,Ingrid Gamarra Martins,R,,BRA,20.0,211137,,Q,Yukako Noi,R,,JPN,23.0,6-1 7-5,3,SF,,,,,,,,,,,,,,,,,,,,879,13,,
 2016-W-C10-USA-05A-2016,Charleston SC $10K,Clay,32,10,20160926,30,214080,2,,Nicole Coopersmith,R,,USA,17.3,201558,3,,Lauren Embree,R,,USA,25.7,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,584,41,625,35
 2016-W-C10-USA-05A-2016,Charleston SC $10K,Clay,32,10,20160926,31,214080,2,,Nicole Coopersmith,R,,USA,17.3,211594,,,Ingrid Gamarra Martins,R,,BRA,20.0,6-3 6-4,3,F,,,,,,,,,,,,,,,,,,,,584,41,879,13
-2016-W-C25-AUS-01A-2016,Perth $25K,Hard,32,25,20160208,1,201580,1,,Xinyun Han,L,172,CHN,25.6,201613,,,Arina Rodionova,R,168,RUS,26.1,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,121,511,275,151
+2016-W-C25-AUS-01A-2016,Perth $25K,Hard,32,25,20160208,1,201580,1,,Xinyun Han,L,172,CHN,25.6,201613,,,Arina Rodionova,R,168,AUS,26.1,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,121,511,275,151
 2016-W-C25-AUS-01A-2016,Perth $25K,Hard,32,25,20160208,2,213666,,WC,Maddison Inglis,R,171,AUS,18.0,211771,,Q,Julia Jones,U,,USA,21.8,6-4 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,688,27,485,60
 2016-W-C25-AUS-01A-2016,Perth $25K,Hard,32,25,20160208,3,202379,,Q,Chieh Yu Hsu,L,170,USA,24.0,202651,,Q,Lisa Whybourn,R,,GBR,24.7,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,380,97,751,22
 2016-W-C25-AUS-01A-2016,Perth $25K,Hard,32,25,20160208,4,201532,,Q,Anastasia Pivovarova,R,181,RUS,25.6,201565,8,,Katarzyna Piter,R,173,POL,24.9,1-6 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,353,110,249,182
@@ -11830,7 +11830,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C25-AUS-02A-2016,Perth $25K,Hard,32,25,20160215,12,204294,3,,Su Jeong Jang,R,,KOR,20.9,214386,,Q,Xinyu Gao,U,,CHN,18.2,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,192,262,424,78
 2016-W-C25-AUS-02A-2016,Perth $25K,Hard,32,25,20160215,13,202482,6,,Barbara Haas,R,165,AUT,19.9,202539,,WC,Alison Bai,R,170,AUS,26.0,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,227,220,339,116
 2016-W-C25-AUS-02A-2016,Perth $25K,Hard,32,25,20160215,14,202502,,,So Ra Lee,L,172,KOR,21.5,205344,,LL,Beatrice Gumulya,R,161,INA,25.1,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,250,180,701,26
-2016-W-C25-AUS-02A-2016,Perth $25K,Hard,32,25,20160215,15,201613,,,Arina Rodionova,R,168,RUS,26.1,213666,,WC,Maddison Inglis,R,171,AUS,18.0,6-7(3) 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,276,150,684,27
+2016-W-C25-AUS-02A-2016,Perth $25K,Hard,32,25,20160215,15,201613,,,Arina Rodionova,R,168,AUS,26.1,213666,,WC,Maddison Inglis,R,171,AUS,18.0,6-7(3) 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,276,150,684,27
 2016-W-C25-AUS-02A-2016,Perth $25K,Hard,32,25,20160215,16,212043,,Q,Freya Christie,R,180,GBR,18.2,202684,2,,Lin Zhu,R,173,CHN,22.0,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,403,84,194,260
 2016-W-C25-AUS-02A-2016,Perth $25K,Hard,32,25,20160215,17,214544,,,Aryna Sabalenka,R,182,BLR,17.7,206107,1,,Zhaoxuan Yang,R,,CHN,21.0,6-3 7-6(0),3,R16,,,,,,,,,,,,,,,,,,,,295,142,172,303
 2016-W-C25-AUS-02A-2016,Perth $25K,Hard,32,25,20160215,18,204291,8,,Na Lae Han,L,,KOR,23.6,214219,,Q,Tessah Andrianjafitrimo,R,169,FRA,17.3,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,243,192,341,115
@@ -11839,14 +11839,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C25-AUS-02A-2016,Perth $25K,Hard,32,25,20160215,21,201565,,,Katarzyna Piter,R,173,POL,24.9,201672,5,,Nigina Abduraimova,R,184,UZB,21.6,3-6 6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,248,182,220,226
 2016-W-C25-AUS-02A-2016,Perth $25K,Hard,32,25,20160215,22,202687,,Q,Ran Tian,R,,CHN,22.1,204294,3,,Su Jeong Jang,R,,KOR,20.9,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,427,76,192,262
 2016-W-C25-AUS-02A-2016,Perth $25K,Hard,32,25,20160215,23,202482,6,,Barbara Haas,R,165,AUT,19.9,202502,,,So Ra Lee,L,172,KOR,21.5,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,227,220,250,180
-2016-W-C25-AUS-02A-2016,Perth $25K,Hard,32,25,20160215,24,201613,,,Arina Rodionova,R,168,RUS,26.1,212043,,Q,Freya Christie,R,180,GBR,18.2,6-1 1-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,276,150,403,84
+2016-W-C25-AUS-02A-2016,Perth $25K,Hard,32,25,20160215,24,201613,,,Arina Rodionova,R,168,AUS,26.1,212043,,Q,Freya Christie,R,180,GBR,18.2,6-1 1-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,276,150,403,84
 2016-W-C25-AUS-02A-2016,Perth $25K,Hard,32,25,20160215,25,214544,,,Aryna Sabalenka,R,182,BLR,17.7,204291,8,,Na Lae Han,L,,KOR,23.6,7-5 3-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,295,142,243,192
 2016-W-C25-AUS-02A-2016,Perth $25K,Hard,32,25,20160215,26,204411,,Q,Storm Sanders,L,166,AUS,21.5,211700,,,Barbora Stefkova,R,,CZE,20.8,7-5 6-4,3,QF,,,,,,,,,,,,,,,,,,,,357,105,283,148
 2016-W-C25-AUS-02A-2016,Perth $25K,Hard,32,25,20160215,27,202687,,Q,Ran Tian,R,,CHN,22.1,201565,,,Katarzyna Piter,R,173,POL,24.9,0-6 7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,427,76,248,182
-2016-W-C25-AUS-02A-2016,Perth $25K,Hard,32,25,20160215,28,201613,,,Arina Rodionova,R,168,RUS,26.1,202482,6,,Barbara Haas,R,165,AUT,19.9,7-6(2) 7-5,3,QF,,,,,,,,,,,,,,,,,,,,276,150,227,220
+2016-W-C25-AUS-02A-2016,Perth $25K,Hard,32,25,20160215,28,201613,,,Arina Rodionova,R,168,AUS,26.1,202482,6,,Barbara Haas,R,165,AUT,19.9,7-6(2) 7-5,3,QF,,,,,,,,,,,,,,,,,,,,276,150,227,220
 2016-W-C25-AUS-02A-2016,Perth $25K,Hard,32,25,20160215,29,214544,,,Aryna Sabalenka,R,182,BLR,17.7,204411,,Q,Storm Sanders,L,166,AUS,21.5,6-3 4-6 6-2,3,SF,,,,,,,,,,,,,,,,,,,,295,142,357,105
-2016-W-C25-AUS-02A-2016,Perth $25K,Hard,32,25,20160215,30,201613,,,Arina Rodionova,R,168,RUS,26.1,202687,,Q,Ran Tian,R,,CHN,22.1,6-0 7-5,3,SF,,,,,,,,,,,,,,,,,,,,276,150,427,76
-2016-W-C25-AUS-02A-2016,Perth $25K,Hard,32,25,20160215,31,201613,,,Arina Rodionova,R,168,RUS,26.1,214544,,,Aryna Sabalenka,R,182,BLR,17.7,6-1 6-1,3,F,,,,,,,,,,,,,,,,,,,,276,150,295,142
+2016-W-C25-AUS-02A-2016,Perth $25K,Hard,32,25,20160215,30,201613,,,Arina Rodionova,R,168,AUS,26.1,202687,,Q,Ran Tian,R,,CHN,22.1,6-0 7-5,3,SF,,,,,,,,,,,,,,,,,,,,276,150,427,76
+2016-W-C25-AUS-02A-2016,Perth $25K,Hard,32,25,20160215,31,201613,,,Arina Rodionova,R,168,AUS,26.1,214544,,,Aryna Sabalenka,R,182,BLR,17.7,6-1 6-1,3,F,,,,,,,,,,,,,,,,,,,,276,150,295,142
 2016-W-C25-AUS-03A-2016,Port Pirie $25K,Hard,32,25,20160222,1,202539,,,Alison Bai,R,170,AUS,26.0,204294,1,,Su Jeong Jang,R,,KOR,20.9,5-7 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,339,116,179,290
 2016-W-C25-AUS-03A-2016,Port Pirie $25K,Hard,32,25,20160222,2,202581,,,Chanel Simmonds,L,165,RSA,23.5,204390,,Q,Pia Konig,R,,AUT,22.7,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,314,126,405,83
 2016-W-C25-AUS-03A-2016,Port Pirie $25K,Hard,32,25,20160222,3,211771,,Q,Julia Jones,U,,USA,21.8,214040,,,Kimberly Birrell,R,170,AUS,17.8,6-2 1-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,479,61,275,150
@@ -11856,7 +11856,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C25-AUS-03A-2016,Port Pirie $25K,Hard,32,25,20160222,7,214219,,,Tessah Andrianjafitrimo,R,169,FRA,17.3,214045,,Q,Masa Jovanovic,R,,AUS,21.2,4-6 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,320,124,1009,9
 2016-W-C25-AUS-03A-2016,Port Pirie $25K,Hard,32,25,20160222,8,202454,8,,Erika Sema,R,163,JPN,27.2,202908,,,Miyabi Inoue,R,,JPN,24.2,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,245,192,281,148
 2016-W-C25-AUS-03A-2016,Port Pirie $25K,Hard,32,25,20160222,9,211700,,,Barbora Stefkova,R,,CZE,20.8,204291,7,,Na Lae Han,L,,KOR,23.6,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,282,148,243,196
-2016-W-C25-AUS-03A-2016,Port Pirie $25K,Hard,32,25,20160222,10,201613,,,Arina Rodionova,R,168,RUS,26.1,214535,,WC,Petra Hule,U,,AUS,16.9,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,324,121,,
+2016-W-C25-AUS-03A-2016,Port Pirie $25K,Hard,32,25,20160222,10,201613,,,Arina Rodionova,R,168,AUS,26.1,214535,,WC,Petra Hule,U,,AUS,16.9,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,324,121,,
 2016-W-C25-AUS-03A-2016,Port Pirie $25K,Hard,32,25,20160222,11,212043,,Q,Freya Christie,R,180,GBR,18.2,206362,,WC,Naiktha Bains,R,174,GBR,18.1,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,401,85,569,43
 2016-W-C25-AUS-03A-2016,Port Pirie $25K,Hard,32,25,20160222,12,202693,3,,Ya Hsuan Lee,R,165,TPE,20.5,215804,,WC,Kaylah Mcphee,U,,AUS,18.0,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,218,229,,
 2016-W-C25-AUS-03A-2016,Port Pirie $25K,Hard,32,25,20160222,13,202636,,Q,Zuzana Zlochova,R,,SVK,26.0,214312,6,,Sherazad Reix,L,,FRA,26.8,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,544,47,242,200
@@ -11867,17 +11867,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C25-AUS-03A-2016,Port Pirie $25K,Hard,32,25,20160222,18,202482,5,,Barbara Haas,R,165,AUT,19.9,211771,,Q,Julia Jones,U,,USA,21.8,6-3 1-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,220,224,479,61
 2016-W-C25-AUS-03A-2016,Port Pirie $25K,Hard,32,25,20160222,19,201487,,WC,Jessica Moore,R,167,AUS,25.5,201672,4,,Nigina Abduraimova,R,184,UZB,21.6,6-4 7-6(0),3,R16,,,,,,,,,,,,,,,,,,,,298,137,216,230
 2016-W-C25-AUS-03A-2016,Port Pirie $25K,Hard,32,25,20160222,20,214219,,,Tessah Andrianjafitrimo,R,169,FRA,17.3,202454,8,,Erika Sema,R,163,JPN,27.2,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,320,124,245,192
-2016-W-C25-AUS-03A-2016,Port Pirie $25K,Hard,32,25,20160222,21,201613,,,Arina Rodionova,R,168,RUS,26.1,211700,,,Barbora Stefkova,R,,CZE,20.8,6-4 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,324,121,282,148
+2016-W-C25-AUS-03A-2016,Port Pirie $25K,Hard,32,25,20160222,21,201613,,,Arina Rodionova,R,168,AUS,26.1,211700,,,Barbora Stefkova,R,,CZE,20.8,6-4 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,324,121,282,148
 2016-W-C25-AUS-03A-2016,Port Pirie $25K,Hard,32,25,20160222,22,202693,3,,Ya Hsuan Lee,R,165,TPE,20.5,212043,,Q,Freya Christie,R,180,GBR,18.2,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,218,229,401,85
 2016-W-C25-AUS-03A-2016,Port Pirie $25K,Hard,32,25,20160222,23,202636,,Q,Zuzana Zlochova,R,,SVK,26.0,211846,,,Kyoka Okamura,R,,JPN,20.3,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,544,47,341,114
 2016-W-C25-AUS-03A-2016,Port Pirie $25K,Hard,32,25,20160222,24,203553,2,,Riko Sawayanagi,R,163,JPN,21.3,201532,,Q,Anastasia Pivovarova,R,181,RUS,25.6,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,205,247,346,111
 2016-W-C25-AUS-03A-2016,Port Pirie $25K,Hard,32,25,20160222,25,202482,5,,Barbara Haas,R,165,AUT,19.9,202539,,,Alison Bai,R,170,AUS,26.0,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,220,224,339,116
 2016-W-C25-AUS-03A-2016,Port Pirie $25K,Hard,32,25,20160222,26,201487,,WC,Jessica Moore,R,167,AUS,25.5,214219,,,Tessah Andrianjafitrimo,R,169,FRA,17.3,6-1 6-4,3,QF,,,,,,,,,,,,,,,,,,,,298,137,320,124
-2016-W-C25-AUS-03A-2016,Port Pirie $25K,Hard,32,25,20160222,27,201613,,,Arina Rodionova,R,168,RUS,26.1,202693,3,,Ya Hsuan Lee,R,165,TPE,20.5,7-6(4) 6-0,3,QF,,,,,,,,,,,,,,,,,,,,324,121,218,229
+2016-W-C25-AUS-03A-2016,Port Pirie $25K,Hard,32,25,20160222,27,201613,,,Arina Rodionova,R,168,AUS,26.1,202693,3,,Ya Hsuan Lee,R,165,TPE,20.5,7-6(4) 6-0,3,QF,,,,,,,,,,,,,,,,,,,,324,121,218,229
 2016-W-C25-AUS-03A-2016,Port Pirie $25K,Hard,32,25,20160222,28,203553,2,,Riko Sawayanagi,R,163,JPN,21.3,202636,,Q,Zuzana Zlochova,R,,SVK,26.0,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,205,247,544,47
 2016-W-C25-AUS-03A-2016,Port Pirie $25K,Hard,32,25,20160222,29,202482,5,,Barbara Haas,R,165,AUT,19.9,201487,,WC,Jessica Moore,R,167,AUS,25.5,6-1 7-5,3,SF,,,,,,,,,,,,,,,,,,,,220,224,298,137
-2016-W-C25-AUS-03A-2016,Port Pirie $25K,Hard,32,25,20160222,30,201613,,,Arina Rodionova,R,168,RUS,26.1,203553,2,,Riko Sawayanagi,R,163,JPN,21.3,2-6 6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,324,121,205,247
-2016-W-C25-AUS-03A-2016,Port Pirie $25K,Hard,32,25,20160222,31,202482,5,,Barbara Haas,R,165,AUT,19.9,201613,,,Arina Rodionova,R,168,RUS,26.1,6-4 5-7 6-4,3,F,,,,,,,,,,,,,,,,,,,,220,224,324,121
+2016-W-C25-AUS-03A-2016,Port Pirie $25K,Hard,32,25,20160222,30,201613,,,Arina Rodionova,R,168,AUS,26.1,203553,2,,Riko Sawayanagi,R,163,JPN,21.3,2-6 6-2 6-2,3,SF,,,,,,,,,,,,,,,,,,,,324,121,205,247
+2016-W-C25-AUS-03A-2016,Port Pirie $25K,Hard,32,25,20160222,31,202482,5,,Barbara Haas,R,165,AUT,19.9,201613,,,Arina Rodionova,R,168,AUS,26.1,6-4 5-7 6-4,3,F,,,,,,,,,,,,,,,,,,,,220,224,324,121
 2016-W-C25-AUS-04A-2016,Mildura $25K,Grass,32,25,20160229,1,211846,,,Kyoka Okamura,R,,JPN,20.3,203553,1,,Riko Sawayanagi,R,163,JPN,21.3,3-6 6-3 4-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,337,114,216,230
 2016-W-C25-AUS-04A-2016,Mildura $25K,Grass,32,25,20160229,2,202651,,Q,Lisa Whybourn,R,,GBR,24.8,206362,,Q,Naiktha Bains,R,174,GBR,18.2,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,745,22,562,43
 2016-W-C25-AUS-04A-2016,Mildura $25K,Grass,32,25,20160229,3,203370,,Q,Tori Kinard,U,,USA,28.2,215811,,WC,Alexandra Bozovic,R,,AUS,17.0,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,469,64,,
@@ -11886,7 +11886,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C25-AUS-04A-2016,Mildura $25K,Grass,32,25,20160229,6,201664,,,Pemra Ozgen,R,170,TUR,29.8,203557,,Q,Mana Ayukawa,R,,JPN,21.4,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,324,124,471,63
 2016-W-C25-AUS-04A-2016,Mildura $25K,Grass,32,25,20160229,7,202539,,,Alison Bai,R,170,AUS,26.1,215804,,Q,Kaylah Mcphee,U,,AUS,18.0,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,335,116,,
 2016-W-C25-AUS-04A-2016,Mildura $25K,Grass,32,25,20160229,8,211700,7,,Barbora Stefkova,R,,CZE,20.9,203556,,,Yuuki Tanaka,L,160,JPN,25.9,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,286,148,398,90
-2016-W-C25-AUS-04A-2016,Mildura $25K,Grass,32,25,20160229,9,201613,,,Arina Rodionova,R,168,RUS,26.2,201487,8,,Jessica Moore,R,167,AUS,25.5,7-6(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,260,171,299,137
+2016-W-C25-AUS-04A-2016,Mildura $25K,Grass,32,25,20160229,9,201613,,,Arina Rodionova,R,168,AUS,26.2,201487,8,,Jessica Moore,R,167,AUS,25.5,7-6(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,260,171,299,137
 2016-W-C25-AUS-04A-2016,Mildura $25K,Grass,32,25,20160229,10,215096,,WC,Jaimee Fourlis,R,168,AUS,16.4,204390,,,Pia Konig,R,,AUT,22.7,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,472,63,405,83
 2016-W-C25-AUS-04A-2016,Mildura $25K,Grass,32,25,20160229,11,214239,,Q,Sara Tomic,R,,AUS,18.0,213666,,Q,Maddison Inglis,R,171,AUS,18.1,4-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,463,66,600,37
 2016-W-C25-AUS-04A-2016,Mildura $25K,Grass,32,25,20160229,12,202495,,,Jennifer Elie,R,,USA,29.4,202454,4,,Erika Sema,R,163,JPN,27.2,6-3 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,371,99,244,192
@@ -11898,7 +11898,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C25-AUS-04A-2016,Mildura $25K,Grass,32,25,20160229,18,201617,5,,Ana Vrljic,R,,CRO,31.5,203370,,Q,Tori Kinard,U,,USA,28.2,6-4 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,292,142,469,64
 2016-W-C25-AUS-04A-2016,Mildura $25K,Grass,32,25,20160229,19,203591,,,Katy Dunne,R,167,GBR,21.0,201664,,,Pemra Ozgen,R,170,TUR,29.8,6-4 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,347,109,324,124
 2016-W-C25-AUS-04A-2016,Mildura $25K,Grass,32,25,20160229,20,211700,7,,Barbora Stefkova,R,,CZE,20.9,202539,,,Alison Bai,R,170,AUS,26.1,6-3 1-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,286,148,335,116
-2016-W-C25-AUS-04A-2016,Mildura $25K,Grass,32,25,20160229,21,215096,,WC,Jaimee Fourlis,R,168,AUS,16.4,201613,,,Arina Rodionova,R,168,RUS,26.2,6-1 5-7 6-2,3,R16,,,,,,,,,,,,,,,,,,,,472,63,260,171
+2016-W-C25-AUS-04A-2016,Mildura $25K,Grass,32,25,20160229,21,215096,,WC,Jaimee Fourlis,R,168,AUS,16.4,201613,,,Arina Rodionova,R,168,AUS,26.2,6-1 5-7 6-2,3,R16,,,,,,,,,,,,,,,,,,,,472,63,260,171
 2016-W-C25-AUS-04A-2016,Mildura $25K,Grass,32,25,20160229,22,214239,,Q,Sara Tomic,R,,AUS,18.0,202495,,,Jennifer Elie,R,,USA,29.4,2-6 7-6(2) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,463,66,371,99
 2016-W-C25-AUS-04A-2016,Mildura $25K,Grass,32,25,20160229,23,204411,,,Storm Sanders,L,166,AUS,21.5,203526,,WC,Tammi Patterson,R,167,AUS,26.1,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,309,131,416,79
 2016-W-C25-AUS-04A-2016,Mildura $25K,Grass,32,25,20160229,24,201532,,,Anastasia Pivovarova,R,181,RUS,25.7,212043,,,Freya Christie,R,180,GBR,18.3,6-4 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,354,106,396,91
@@ -11912,7 +11912,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C25-AUS-05A-2016,Canberra $25K,Clay,32,25,20160314,1,203504,1,,Miyu Kato,R,156,JPN,21.3,202539,,,Alison Bai,R,170,AUS,26.1,2-6 6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,166,336,322,124
 2016-W-C25-AUS-05A-2016,Canberra $25K,Clay,32,25,20160314,2,211881,,WC,Olivia Tjandramulia,R,167,AUS,18.8,201487,,,Jessica Moore,R,167,AUS,25.5,7-6(6) 6-0,3,R32,,,,,,,,,,,,,,,,,,,,487,57,282,150
 2016-W-C25-AUS-05A-2016,Canberra $25K,Clay,32,25,20160314,3,204390,,Q,Pia Konig,R,,AUT,22.8,215096,,WC,Jaimee Fourlis,R,168,AUS,16.4,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,448,69,468,63
-2016-W-C25-AUS-05A-2016,Canberra $25K,Clay,32,25,20160314,4,201613,7,,Arina Rodionova,R,168,RUS,26.2,211700,,,Barbora Stefkova,R,,CZE,20.9,6-7(8) 7-6(6) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,247,187,277,152
+2016-W-C25-AUS-05A-2016,Canberra $25K,Clay,32,25,20160314,4,201613,7,,Arina Rodionova,R,168,AUS,26.2,211700,,,Barbora Stefkova,R,,CZE,20.9,6-7(8) 7-6(6) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,247,187,277,152
 2016-W-C25-AUS-05A-2016,Canberra $25K,Clay,32,25,20160314,5,202693,3,,Ya Hsuan Lee,R,165,TPE,20.6,201532,,,Anastasia Pivovarova,R,181,RUS,25.7,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,214,237,340,112
 2016-W-C25-AUS-05A-2016,Canberra $25K,Clay,32,25,20160314,6,215018,,Q,Destanee Aiava,R,175,AUS,15.8,206270,,WC,Ashley Keir,R,,AUS,21.6,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,718,24,,
 2016-W-C25-AUS-05A-2016,Canberra $25K,Clay,32,25,20160314,7,206362,,WC,Naiktha Bains,R,174,GBR,18.2,202379,,,Chieh Yu Hsu,L,170,USA,24.1,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,557,44,363,101
@@ -11926,7 +11926,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C25-AUS-05A-2016,Canberra $25K,Clay,32,25,20160314,15,210860,,Q,Jessica Wacnik,U,,USA,22.8,211329,,,Tena Lukas,R,,CRO,20.8,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,709,25,266,165
 2016-W-C25-AUS-05A-2016,Canberra $25K,Clay,32,25,20160314,16,203288,2,,Jia Jing Lu,R,173,CHN,26.3,214388,,,Anna Bondar,R,,HUN,18.7,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,207,243,356,104
 2016-W-C25-AUS-05A-2016,Canberra $25K,Clay,32,25,20160314,17,211881,,WC,Olivia Tjandramulia,R,167,AUS,18.8,203504,1,,Miyu Kato,R,156,JPN,21.3,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,487,57,166,336
-2016-W-C25-AUS-05A-2016,Canberra $25K,Clay,32,25,20160314,18,204390,,Q,Pia Konig,R,,AUT,22.8,201613,7,,Arina Rodionova,R,168,RUS,26.2,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,448,69,247,187
+2016-W-C25-AUS-05A-2016,Canberra $25K,Clay,32,25,20160314,18,204390,,Q,Pia Konig,R,,AUT,22.8,201613,7,,Arina Rodionova,R,168,AUS,26.2,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,448,69,247,187
 2016-W-C25-AUS-05A-2016,Canberra $25K,Clay,32,25,20160314,19,215018,,Q,Destanee Aiava,R,175,AUS,15.8,202693,3,,Ya Hsuan Lee,R,165,TPE,20.6,6-1 1-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,718,24,214,237
 2016-W-C25-AUS-05A-2016,Canberra $25K,Clay,32,25,20160314,20,206362,,WC,Naiktha Bains,R,174,GBR,18.2,210754,,Q,Vivian Heisen,R,,GER,22.2,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,557,44,603,37
 2016-W-C25-AUS-05A-2016,Canberra $25K,Clay,32,25,20160314,21,203591,,,Katy Dunne,R,167,GBR,21.0,202454,6,,Erika Sema,R,163,JPN,27.3,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,353,105,243,192
@@ -11943,7 +11943,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C25-AUS-06A-2016,Canberra $25K,Clay,32,25,20160321,1,203504,1,,Miyu Kato,R,156,JPN,21.3,202936,,Q,Kanae Hisami,R,,JPN,29.1,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,165,336,554,45
 2016-W-C25-AUS-06A-2016,Canberra $25K,Clay,32,25,20160321,2,201664,,,Pemra Ozgen,R,170,TUR,29.8,215096,,WC,Jaimee Fourlis,R,168,AUS,16.5,7-6(7) 7-6(11),3,R32,,,,,,,,,,,,,,,,,,,,314,128,442,72
 2016-W-C25-AUS-06A-2016,Canberra $25K,Clay,32,25,20160321,3,215018,,SE,Destanee Aiava,R,175,AUS,15.8,202651,,Q,Lisa Whybourn,R,,GBR,24.8,6-3 5-7 7-5,3,R32,,,,,,,,,,,,,,,,,,,,722,24,653,32
-2016-W-C25-AUS-06A-2016,Canberra $25K,Clay,32,25,20160321,4,201613,7,,Arina Rodionova,R,168,RUS,26.2,202539,,,Alison Bai,R,170,AUS,26.1,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,245,190,358,104
+2016-W-C25-AUS-06A-2016,Canberra $25K,Clay,32,25,20160321,4,201613,7,,Arina Rodionova,R,168,AUS,26.2,202539,,,Alison Bai,R,170,AUS,26.1,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,245,190,358,104
 2016-W-C25-AUS-06A-2016,Canberra $25K,Clay,32,25,20160321,5,202693,3,,Ya Hsuan Lee,R,165,TPE,20.6,202379,,,Chieh Yu Hsu,L,170,USA,24.1,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,212,237,365,101
 2016-W-C25-AUS-06A-2016,Canberra $25K,Clay,32,25,20160321,6,201487,,,Jessica Moore,R,167,AUS,25.5,211351,,,Ayaka Okuno,R,170,JPN,20.7,7-6(6) 5-7 7-5,3,R32,,,,,,,,,,,,,,,,,,,,291,142,265,168
 2016-W-C25-AUS-06A-2016,Canberra $25K,Clay,32,25,20160321,7,211700,,,Barbora Stefkova,R,,CZE,20.9,214539,,Q,Yuki Kristina Chiang,U,,USA,20.5,7-6(4) 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,253,180,641,33
@@ -11957,14 +11957,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C25-AUS-06A-2016,Canberra $25K,Clay,32,25,20160321,15,211881,,SE,Olivia Tjandramulia,R,167,AUS,18.8,215811,,WC,Alexandra Bozovic,R,,AUS,17.0,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,484,58,,
 2016-W-C25-AUS-06A-2016,Canberra $25K,Clay,32,25,20160321,16,203288,2,,Jia Jing Lu,R,173,CHN,26.3,211538,,Q,Carla Touly,U,,FRA,19.5,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,205,243,600,38
 2016-W-C25-AUS-06A-2016,Canberra $25K,Clay,32,25,20160321,17,203504,1,,Miyu Kato,R,156,JPN,21.3,201664,,,Pemra Ozgen,R,170,TUR,29.8,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,165,336,314,128
-2016-W-C25-AUS-06A-2016,Canberra $25K,Clay,32,25,20160321,18,201613,7,,Arina Rodionova,R,168,RUS,26.2,215018,,SE,Destanee Aiava,R,175,AUS,15.8,4-6 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,245,190,722,24
+2016-W-C25-AUS-06A-2016,Canberra $25K,Clay,32,25,20160321,18,201613,7,,Arina Rodionova,R,168,AUS,26.2,215018,,SE,Destanee Aiava,R,175,AUS,15.8,4-6 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,245,190,722,24
 2016-W-C25-AUS-06A-2016,Canberra $25K,Clay,32,25,20160321,19,202693,3,,Ya Hsuan Lee,R,165,TPE,20.6,201487,,,Jessica Moore,R,167,AUS,25.5,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,212,237,291,142
 2016-W-C25-AUS-06A-2016,Canberra $25K,Clay,32,25,20160321,20,211700,,,Barbora Stefkova,R,,CZE,20.9,211878,,WC,Lizette Cabrera,R,167,AUS,18.2,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,253,180,911,13
 2016-W-C25-AUS-06A-2016,Canberra $25K,Clay,32,25,20160321,21,201679,8,,Varatchaya Wongteanchai,R,169,THA,26.5,204411,,,Storm Sanders,L,166,AUS,21.6,3-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,269,165,297,139
 2016-W-C25-AUS-06A-2016,Canberra $25K,Clay,32,25,20160321,22,210754,,Q,Vivian Heisen,R,,GER,22.2,201617,,,Ana Vrljic,R,,CRO,31.6,6-2 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,603,37,276,159
 2016-W-C25-AUS-06A-2016,Canberra $25K,Clay,32,25,20160321,23,214388,,Q,Anna Bondar,R,,HUN,18.8,211329,,,Tena Lukas,R,,CRO,20.8,7-6(5) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,359,104,271,165
 2016-W-C25-AUS-06A-2016,Canberra $25K,Clay,32,25,20160321,24,203288,2,,Jia Jing Lu,R,173,CHN,26.3,211881,,SE,Olivia Tjandramulia,R,167,AUS,18.8,3-6 7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,205,243,484,58
-2016-W-C25-AUS-06A-2016,Canberra $25K,Clay,32,25,20160321,25,203504,1,,Miyu Kato,R,156,JPN,21.3,201613,7,,Arina Rodionova,R,168,RUS,26.2,6-3 6-7(1) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,165,336,245,190
+2016-W-C25-AUS-06A-2016,Canberra $25K,Clay,32,25,20160321,25,203504,1,,Miyu Kato,R,156,JPN,21.3,201613,7,,Arina Rodionova,R,168,AUS,26.2,6-3 6-7(1) 6-4,3,QF,,,,,,,,,,,,,,,,,,,,165,336,245,190
 2016-W-C25-AUS-06A-2016,Canberra $25K,Clay,32,25,20160321,26,202693,3,,Ya Hsuan Lee,R,165,TPE,20.6,211700,,,Barbora Stefkova,R,,CZE,20.9,1-6 6-3 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,212,237,253,180
 2016-W-C25-AUS-06A-2016,Canberra $25K,Clay,32,25,20160321,27,201679,8,,Varatchaya Wongteanchai,R,169,THA,26.5,210754,,Q,Vivian Heisen,R,,GER,22.2,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,269,165,603,37
 2016-W-C25-AUS-06A-2016,Canberra $25K,Clay,32,25,20160321,28,214388,,Q,Anna Bondar,R,,HUN,18.8,203288,2,,Jia Jing Lu,R,173,CHN,26.3,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,359,104,205,243
@@ -12036,7 +12036,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C25-AUS-09A-2016,Toowoomba $25K,Hard,32,25,20161003,1,205923,,Q,Abbie Myers,R,175,AUS,22.2,203578,1,,Fangzhou Liu,R,180,CHN,20.8,6-1 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,622,36,159,360
 2016-W-C25-AUS-09A-2016,Toowoomba $25K,Hard,32,25,20161003,2,203591,,,Katy Dunne,R,167,GBR,21.6,214191,,Q,Seone Mendez,R,,AUS,17.3,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,347,112,1050,8
 2016-W-C25-AUS-09A-2016,Toowoomba $25K,Hard,32,25,20161003,3,203526,,,Tammi Patterson,R,167,AUS,26.7,202539,,,Alison Bai,R,170,AUS,26.7,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,393,90,355,106
-2016-W-C25-AUS-09A-2016,Toowoomba $25K,Hard,32,25,20161003,4,201613,5,,Arina Rodionova,R,168,RUS,26.8,215832,,WC,Gabriella Da Silva Fick,R,,AUS,16.1,6-3 7-6(8),3,R32,,,,,,,,,,,,,,,,,,,,186,294,,
+2016-W-C25-AUS-09A-2016,Toowoomba $25K,Hard,32,25,20161003,4,201613,5,,Arina Rodionova,R,168,AUS,26.8,215832,,WC,Gabriella Da Silva Fick,R,,AUS,16.1,6-3 7-6(8),3,R32,,,,,,,,,,,,,,,,,,,,186,294,,
 2016-W-C25-AUS-09A-2016,Toowoomba $25K,Hard,32,25,20161003,5,202498,3,,Julia Glushko,R,171,ISR,26.7,214539,,Q,Yuki Kristina Chiang,U,,USA,21.1,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,178,317,560,45
 2016-W-C25-AUS-09A-2016,Toowoomba $25K,Hard,32,25,20161003,6,214239,,WC,Sara Tomic,R,,AUS,18.6,215018,,Q,Destanee Aiava,R,175,AUS,16.3,2-6 6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,511,56,408,85
 2016-W-C25-AUS-09A-2016,Toowoomba $25K,Hard,32,25,20161003,7,204298,,WC,Viktorija Rajicic,R,170,AUS,22.4,205918,,,Ulrikke Eikeri,R,,NOR,23.7,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,962,10,341,115
@@ -12050,14 +12050,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C25-AUS-09A-2016,Toowoomba $25K,Hard,32,25,20161003,15,201542,,,Olivia Rogowska,R,175,AUS,25.3,215096,,,Jaimee Fourlis,R,168,AUS,17.0,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,360,102,460,69
 2016-W-C25-AUS-09A-2016,Toowoomba $25K,Hard,32,25,20161003,16,201534,2,Q,Asia Muhammad,R,178,USA,25.5,211333,,Q,Georgia Brescia,R,,ITA,20.6,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,175,330,489,61
 2016-W-C25-AUS-09A-2016,Toowoomba $25K,Hard,32,25,20161003,17,203591,,,Katy Dunne,R,167,GBR,21.6,205923,,Q,Abbie Myers,R,175,AUS,22.2,4-6 6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,347,112,622,36
-2016-W-C25-AUS-09A-2016,Toowoomba $25K,Hard,32,25,20161003,18,201613,5,,Arina Rodionova,R,168,RUS,26.8,203526,,,Tammi Patterson,R,167,AUS,26.7,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,186,294,393,90
+2016-W-C25-AUS-09A-2016,Toowoomba $25K,Hard,32,25,20161003,18,201613,5,,Arina Rodionova,R,168,AUS,26.8,203526,,,Tammi Patterson,R,167,AUS,26.7,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,186,294,393,90
 2016-W-C25-AUS-09A-2016,Toowoomba $25K,Hard,32,25,20161003,19,202498,3,,Julia Glushko,R,171,ISR,26.7,214239,,WC,Sara Tomic,R,,AUS,18.6,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,178,317,511,56
 2016-W-C25-AUS-09A-2016,Toowoomba $25K,Hard,32,25,20161003,20,214149,8,,Viktoria Kuzmova,R,,SVK,18.3,204298,,WC,Viktorija Rajicic,R,170,AUS,22.4,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,265,177,962,10
 2016-W-C25-AUS-09A-2016,Toowoomba $25K,Hard,32,25,20161003,21,213646,7,,Dalma Galfi,U,,HUN,18.1,204411,,,Storm Sanders,L,166,AUS,22.1,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,251,191,279,167
 2016-W-C25-AUS-09A-2016,Toowoomba $25K,Hard,32,25,20161003,22,203504,4,,Miyu Kato,R,156,JPN,21.8,215889,,Q,Kaitlin Staines,U,,AUS,16.7,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,185,300,,
 2016-W-C25-AUS-09A-2016,Toowoomba $25K,Hard,32,25,20161003,23,202495,,,Jennifer Elie,R,,USA,30.0,205815,6,,Eri Hozumi,R,168,JPN,22.6,7-5 6-1,3,R16,,,,,,,,,,,,,,,,,,,,288,160,191,283
 2016-W-C25-AUS-09A-2016,Toowoomba $25K,Hard,32,25,20161003,24,201534,2,Q,Asia Muhammad,R,178,USA,25.5,201542,,,Olivia Rogowska,R,175,AUS,25.3,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,175,330,360,102
-2016-W-C25-AUS-09A-2016,Toowoomba $25K,Hard,32,25,20161003,25,203591,,,Katy Dunne,R,167,GBR,21.6,201613,5,,Arina Rodionova,R,168,RUS,26.8,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,347,112,186,294
+2016-W-C25-AUS-09A-2016,Toowoomba $25K,Hard,32,25,20161003,25,203591,,,Katy Dunne,R,167,GBR,21.6,201613,5,,Arina Rodionova,R,168,AUS,26.8,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,347,112,186,294
 2016-W-C25-AUS-09A-2016,Toowoomba $25K,Hard,32,25,20161003,26,202498,3,,Julia Glushko,R,171,ISR,26.7,214149,8,,Viktoria Kuzmova,R,,SVK,18.3,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,178,317,265,177
 2016-W-C25-AUS-09A-2016,Toowoomba $25K,Hard,32,25,20161003,27,213646,7,,Dalma Galfi,U,,HUN,18.1,203504,4,,Miyu Kato,R,156,JPN,21.8,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,251,191,185,300
 2016-W-C25-AUS-09A-2016,Toowoomba $25K,Hard,32,25,20161003,28,201534,2,Q,Asia Muhammad,R,178,USA,25.5,202495,,,Jennifer Elie,R,,USA,30.0,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,175,330,288,160
@@ -12075,7 +12075,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C25-AUS-10A-2016,Cairns $25K,Hard,32,25,20161010,9,214191,,WC,Seone Mendez,R,,AUS,17.4,202495,8,,Jennifer Elie,R,,USA,30.0,6-2 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1046,8,264,177
 2016-W-C25-AUS-10A-2016,Cairns $25K,Hard,32,25,20161010,10,213666,,Q,Maddison Inglis,R,171,AUS,18.7,206069,,Q,Marianna Zakarlyuk,R,,UKR,20.0,5-7 6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,559,46,667,30
 2016-W-C25-AUS-10A-2016,Cairns $25K,Hard,32,25,20161010,11,214905,,Q,Abigail Tere Apisah,U,,PNG,24.2,203514,,,Katarzyna Kawa,R,178,POL,23.8,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,664,30,299,151
-2016-W-C25-AUS-10A-2016,Cairns $25K,Hard,32,25,20161010,12,211333,,Q,Georgia Brescia,R,,ITA,20.6,201613,4,,Arina Rodionova,R,168,RUS,26.8,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,459,70,184,294
+2016-W-C25-AUS-10A-2016,Cairns $25K,Hard,32,25,20161010,12,211333,,Q,Georgia Brescia,R,,ITA,20.6,201613,4,,Arina Rodionova,R,168,AUS,26.8,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,459,70,184,294
 2016-W-C25-AUS-10A-2016,Cairns $25K,Hard,32,25,20161010,13,206362,,,Naiktha Bains,R,174,GBR,18.8,213646,5,,Dalma Galfi,U,,HUN,18.1,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,470,67,274,171
 2016-W-C25-AUS-10A-2016,Cairns $25K,Hard,32,25,20161010,14,201542,,,Olivia Rogowska,R,175,AUS,25.3,203526,,,Tammi Patterson,R,167,AUS,26.7,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,357,106,395,90
 2016-W-C25-AUS-10A-2016,Cairns $25K,Hard,32,25,20161010,15,202539,,,Alison Bai,R,170,AUS,26.7,215189,,LL,Alana Parnaby,R,,AUS,22.0,6-4 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,352,110,977,10
@@ -12752,7 +12752,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C25-CHN-05A-2016,Chenzhou $25K,Hard,32,25,20161031,4,202695,6,,Aleksandrina Naydenova,R,170,BUL,24.6,213636,,WC,Yukun Zhang,R,,CHN,20.8,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,243,200,708,25
 2016-W-C25-CHN-05A-2016,Chenzhou $25K,Hard,32,25,20161031,5,206368,3,,Veronika Kudermetova,R,175,RUS,19.5,202614,,,Jacqueline Cako,R,178,USA,25.1,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,211,249,351,112
 2016-W-C25-CHN-05A-2016,Chenzhou $25K,Hard,32,25,20161031,6,214812,,Q,Aleksandra Pospelova,U,,RUS,18.5,202645,,Q,Jessy Rompies,R,160,INA,26.5,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,572,44,937,11
-2016-W-C25-CHN-05A-2016,Chenzhou $25K,Hard,32,25,20161031,7,213646,,,Dalma Galfi,U,,HUN,18.2,206294,,Q,Yue Yuan,U,184,CHN,25.3,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,273,171,929,11
+2016-W-C25-CHN-05A-2016,Chenzhou $25K,Hard,32,25,20161031,7,213646,,,Dalma Galfi,U,,HUN,18.2,206294,,Q,Yue Yuan,R,184,CHN,18.0,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,273,171,929,11
 2016-W-C25-CHN-05A-2016,Chenzhou $25K,Hard,32,25,20161031,8,202639,7,,Akiko Omae,R,162,JPN,23.7,216389,,WC,Rui Jie Jiang,U,,CHN,19.4,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,244,200,,
 2016-W-C25-CHN-05A-2016,Chenzhou $25K,Hard,32,25,20161031,9,201565,5,,Katarzyna Piter,R,173,POL,25.7,210926,,,Pei Chi Lee,U,,TPE,22.0,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,238,209,497,59
 2016-W-C25-CHN-05A-2016,Chenzhou $25K,Hard,32,25,20161031,10,202693,,,Ya Hsuan Lee,R,165,TPE,21.2,206151,,,Kamonwan Buayam,R,,THA,20.7,7-6(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,324,132,516,55
@@ -14334,7 +14334,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C25-KOR-01A-2016,Changwon $25K,Hard,32,25,20160404,6,210931,,,Ching Wen Hsu,R,,TPE,19.6,203435,,,Dalila Jakupovic,R,178,SLO,25.0,7-6(5) 4-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,329,117,289,144
 2016-W-C25-KOR-01A-2016,Changwon $25K,Hard,32,25,20160404,7,204288,,,Ji Hee Choi,R,,KOR,21.1,215849,,WC,Sinhee Kim,U,,KOR,22.1,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,407,85,,
 2016-W-C25-KOR-01A-2016,Changwon $25K,Hard,32,25,20160404,8,202921,,Q,Shiho Akita,R,155,JPN,26.2,203288,5,,Jia Jing Lu,R,173,CHN,26.3,6-1 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,515,54,198,254
-2016-W-C25-KOR-01A-2016,Changwon $25K,Hard,32,25,20160404,9,201613,8,,Arina Rodionova,R,168,RUS,26.3,202908,,,Miyabi Inoue,R,,JPN,24.3,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,231,203,301,134
+2016-W-C25-KOR-01A-2016,Changwon $25K,Hard,32,25,20160404,9,201613,8,,Arina Rodionova,R,168,AUS,26.3,202908,,,Miyabi Inoue,R,,JPN,24.3,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,231,203,301,134
 2016-W-C25-KOR-01A-2016,Changwon $25K,Hard,32,25,20160404,10,205344,,Q,Beatrice Gumulya,R,161,INA,25.2,213821,,Q,Wushuang Zheng,U,,CHN,17.3,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,700,26,1201,4
 2016-W-C25-KOR-01A-2016,Changwon $25K,Hard,32,25,20160404,11,204223,,,Peangtarn Plipuech,R,169,THA,23.3,204290,,WC,Min Hwa Yu,U,,KOR,28.0,6-2 3-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,352,107,1280,3
 2016-W-C25-KOR-01A-2016,Changwon $25K,Hard,32,25,20160404,12,202919,4,,Chang Liu,R,160,CHN,25.6,211838,,WC,You Na Sul,U,,KOR,23.0,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,205,251,1206,4
@@ -14346,16 +14346,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C25-KOR-01A-2016,Changwon $25K,Hard,32,25,20160404,18,201631,,,Nicha Lertpitaksinchai,R,174,THA,24.6,202379,,,Chieh Yu Hsu,L,170,USA,24.2,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,427,78,374,98
 2016-W-C25-KOR-01A-2016,Changwon $25K,Hard,32,25,20160404,19,201529,3,,Kristie Ahn,R,165,USA,23.8,210931,,,Ching Wen Hsu,R,,TPE,19.6,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,194,259,329,117
 2016-W-C25-KOR-01A-2016,Changwon $25K,Hard,32,25,20160404,20,202921,,Q,Shiho Akita,R,155,JPN,26.2,204288,,,Ji Hee Choi,R,,KOR,21.1,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,515,54,407,85
-2016-W-C25-KOR-01A-2016,Changwon $25K,Hard,32,25,20160404,21,201613,8,,Arina Rodionova,R,168,RUS,26.3,205344,,Q,Beatrice Gumulya,R,161,INA,25.2,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,231,203,700,26
+2016-W-C25-KOR-01A-2016,Changwon $25K,Hard,32,25,20160404,21,201613,8,,Arina Rodionova,R,168,AUS,26.3,205344,,Q,Beatrice Gumulya,R,161,INA,25.2,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,231,203,700,26
 2016-W-C25-KOR-01A-2016,Changwon $25K,Hard,32,25,20160404,22,202919,4,,Chang Liu,R,160,CHN,25.6,204223,,,Peangtarn Plipuech,R,169,THA,23.3,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,205,251,352,107
 2016-W-C25-KOR-01A-2016,Changwon $25K,Hard,32,25,20160404,23,204291,,,Na Lae Han,L,,KOR,23.7,201656,,,Tadeja Majeric,R,178,SLO,25.5,4-6 6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,254,176,242,189
 2016-W-C25-KOR-01A-2016,Changwon $25K,Hard,32,25,20160404,24,206178,,,Susanne Celik,R,,SWE,21.3,202386,,Q,Sung Hee Han,R,,KOR,25.3,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,309,131,547,48
 2016-W-C25-KOR-01A-2016,Changwon $25K,Hard,32,25,20160404,25,210722,1,,Elise Mertens,R,179,BEL,20.3,201631,,,Nicha Lertpitaksinchai,R,174,THA,24.6,6-0 6-2,3,QF,,,,,,,,,,,,,,,,,,,,163,339,427,78
 2016-W-C25-KOR-01A-2016,Changwon $25K,Hard,32,25,20160404,26,201529,3,,Kristie Ahn,R,165,USA,23.8,202921,,Q,Shiho Akita,R,155,JPN,26.2,3-6 6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,194,259,515,54
-2016-W-C25-KOR-01A-2016,Changwon $25K,Hard,32,25,20160404,27,201613,8,,Arina Rodionova,R,168,RUS,26.3,202919,4,,Chang Liu,R,160,CHN,25.6,6-0 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,231,203,205,251
+2016-W-C25-KOR-01A-2016,Changwon $25K,Hard,32,25,20160404,27,201613,8,,Arina Rodionova,R,168,AUS,26.3,202919,4,,Chang Liu,R,160,CHN,25.6,6-0 7-6(6),3,QF,,,,,,,,,,,,,,,,,,,,231,203,205,251
 2016-W-C25-KOR-01A-2016,Changwon $25K,Hard,32,25,20160404,28,206178,,,Susanne Celik,R,,SWE,21.3,204291,,,Na Lae Han,L,,KOR,23.7,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,309,131,254,176
 2016-W-C25-KOR-01A-2016,Changwon $25K,Hard,32,25,20160404,29,201529,3,,Kristie Ahn,R,165,USA,23.8,210722,1,,Elise Mertens,R,179,BEL,20.3,6-7(5) 6-1 7-6(5),3,SF,,,,,,,,,,,,,,,,,,,,194,259,163,339
-2016-W-C25-KOR-01A-2016,Changwon $25K,Hard,32,25,20160404,30,206178,,,Susanne Celik,R,,SWE,21.3,201613,8,,Arina Rodionova,R,168,RUS,26.3,6-1 3-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,309,131,231,203
+2016-W-C25-KOR-01A-2016,Changwon $25K,Hard,32,25,20160404,30,206178,,,Susanne Celik,R,,SWE,21.3,201613,8,,Arina Rodionova,R,168,AUS,26.3,6-1 3-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,309,131,231,203
 2016-W-C25-KOR-01A-2016,Changwon $25K,Hard,32,25,20160404,31,206178,,,Susanne Celik,R,,SWE,21.3,201529,3,,Kristie Ahn,R,165,USA,23.8,6-2 6-0,3,F,,,,,,,,,,,,,,,,,,,,309,131,194,259
 2016-W-C25-KOR-02A-2016,Goyang $25K,Hard,32,25,20160516,1,204291,1,,Na Lae Han,L,,KOR,23.8,211390,,,Mari Osaka,R,,JPN,20.1,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,240,201,472,63
 2016-W-C25-KOR-02A-2016,Goyang $25K,Hard,32,25,20160516,2,213666,,,Maddison Inglis,R,171,AUS,18.3,204293,,Q,Seo Kyung Kang,U,,KOR,27.2,6-3 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,589,38,890,13
@@ -15008,7 +15008,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C25-THA-02A-2016,Hua Hin $25K,Hard,32,25,20160919,29,202921,1,,Shiho Akita,R,155,JPN,26.6,201598,,,Noppawan Lertcheewakarn,R,167,THA,24.8,6-4 6-1,3,SF,,,,,,,,,,,,,,,,,,,,301,141,451,70
 2016-W-C25-THA-02A-2016,Hua Hin $25K,Hard,32,25,20160919,30,214386,,,Xinyu Gao,U,,CHN,18.8,203514,3,,Katarzyna Kawa,R,178,POL,23.8,6-1 6-3,3,SF,,,,,,,,,,,,,,,,,,,,462,68,321,130
 2016-W-C25-THA-02A-2016,Hua Hin $25K,Hard,32,25,20160919,31,214386,,,Xinyu Gao,U,,CHN,18.8,202921,1,,Shiho Akita,R,155,JPN,26.6,6-2 1-6 7-5,3,F,,,,,,,,,,,,,,,,,,,,462,68,301,141
-2016-W-C25-THA-03A-2016,Hua Hin $25K,Hard,32,25,20160926,1,201613,1,,Arina Rodionova,R,168,RUS,26.7,213750,,Q,Zhanlan Wei,U,,CHN,18.7,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,186,294,506,57
+2016-W-C25-THA-03A-2016,Hua Hin $25K,Hard,32,25,20160926,1,201613,1,,Arina Rodionova,R,168,AUS,26.7,213750,,Q,Zhanlan Wei,U,,CHN,18.7,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,186,294,506,57
 2016-W-C25-THA-03A-2016,Hua Hin $25K,Hard,32,25,20160926,2,214386,,SE,Xinyu Gao,U,,CHN,18.8,201682,,WC,Nudnida Luangnam,R,167,THA,29.5,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,463,68,549,47
 2016-W-C25-THA-03A-2016,Hua Hin $25K,Hard,32,25,20160926,3,205789,,Q,Na Ri Kim,U,,KOR,26.4,206424,,,Katharina Lehnert,R,,GER,22.6,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,502,58,529,52
 2016-W-C25-THA-03A-2016,Hua Hin $25K,Hard,32,25,20160926,4,202921,6,,Shiho Akita,R,155,JPN,26.6,213944,,Q,Pranjala Yadlapalli,R,,IND,17.4,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,310,141,678,28
@@ -15024,7 +15024,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C25-THA-03A-2016,Hua Hin $25K,Hard,32,25,20160926,14,214724,,,Jiaxi Lu,U,,CHN,19.5,202640,,,Irina Ramialison,R,158,FRA,25.3,7-6(0) 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,468,67,336,121
 2016-W-C25-THA-03A-2016,Hua Hin $25K,Hard,32,25,20160926,15,215250,,Q,Hanyu Guo,R,,CHN,18.3,206154,,WC,Varunya Wongteanchai,R,,THA,23.7,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,523,53,647,33
 2016-W-C25-THA-03A-2016,Hua Hin $25K,Hard,32,25,20160926,16,203288,2,,Jia Jing Lu,R,173,CHN,26.8,214277,,WC,Bunyawi Thamchaiwat,R,,THA,18.1,7-6(4) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,247,201,512,55
-2016-W-C25-THA-03A-2016,Hua Hin $25K,Hard,32,25,20160926,17,214386,,SE,Xinyu Gao,U,,CHN,18.8,201613,1,,Arina Rodionova,R,168,RUS,26.7,6-1 2-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,463,68,186,294
+2016-W-C25-THA-03A-2016,Hua Hin $25K,Hard,32,25,20160926,17,214386,,SE,Xinyu Gao,U,,CHN,18.8,201613,1,,Arina Rodionova,R,168,AUS,26.7,6-1 2-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,463,68,186,294
 2016-W-C25-THA-03A-2016,Hua Hin $25K,Hard,32,25,20160926,18,202921,6,,Shiho Akita,R,155,JPN,26.6,205789,,Q,Na Ri Kim,U,,KOR,26.4,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,310,141,502,58
 2016-W-C25-THA-03A-2016,Hua Hin $25K,Hard,32,25,20160926,19,201551,3,,Arantxa Rus,L,180,NED,25.7,214343,,,Marta Paigina,U,,RUS,17.5,6-4 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,237,210,420,82
 2016-W-C25-THA-03A-2016,Hua Hin $25K,Hard,32,25,20160926,20,202687,8,,Ran Tian,R,,CHN,22.7,201598,,WC,Noppawan Lertcheewakarn,R,167,THA,24.8,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,315,136,457,70
@@ -15052,7 +15052,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C25-TUN-01A-2016,La Marsa $25K,Clay,32,25,20160509,11,201448,,Q,Galina Voskoboeva,R,183,KAZ,31.3,206007,,Q,Laura Pigossi,R,164,BRA,21.7,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,688,26,377,93
 2016-W-C25-TUN-01A-2016,La Marsa $25K,Clay,32,25,20160509,12,213796,,Q,Petra Januskova,R,,CAN,25.1,202688,3,,Isabella Shinikova,R,184,BUL,24.5,6-1 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,776,21,193,279
 2016-W-C25-TUN-01A-2016,La Marsa $25K,Clay,32,25,20160509,13,201674,6,,Sabina Sharipova,R,174,UZB,21.6,213533,,,Maria Marfutina,R,175,RUS,18.9,5-7 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,229,216,354,105
-2016-W-C25-TUN-01A-2016,La Marsa $25K,Clay,32,25,20160509,14,211814,,,Julia Grabher,R,170,AUT,19.8,215138,,WC,Lulu Sun,U,,SUI,15.0,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,334,115,1161,5
+2016-W-C25-TUN-01A-2016,La Marsa $25K,Clay,32,25,20160509,14,211814,,,Julia Grabher,R,170,AUT,19.8,215138,,WC,Lulu Sun,U,,NZL,15.0,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,334,115,1161,5
 2016-W-C25-TUN-01A-2016,La Marsa $25K,Clay,32,25,20160509,15,211296,,,Dea Herdzelas,R,,BIH,19.5,215414,,LL,Feriel Mahbouli,U,,TUN,14.8,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,352,106,,
 2016-W-C25-TUN-01A-2016,La Marsa $25K,Clay,32,25,20160509,16,214312,2,,Sherazad Reix,L,,FRA,27.0,203559,,Q,Clothilde De Bernardi,R,,FRA,21.4,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,214,240,481,59
 2016-W-C25-TUN-01A-2016,La Marsa $25K,Clay,32,25,20160509,17,211216,,,Cristiana Ferrando,R,,ITA,20.7,211856,1,,Anastasiya Komardina,L,,RUS,18.8,7-6(4) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,333,116,212,241
@@ -15349,7 +15349,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C25-USA-07A-2016,Naples FL $25K,Clay,32,25,20160509,29,202445,,WC,Valeria Solovieva,R,168,RUS,23.5,214452,,WC,Caroline Dolehide,R,178,USA,17.6,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,,,,
 2016-W-C25-USA-07A-2016,Naples FL $25K,Clay,32,25,20160509,30,215037,,JE,Kayla Day,L,173,USA,16.6,214263,4,,Catherine Cartan Bellis,R,,USA,17.0,6-3 6-0,3,SF,,,,,,,,,,,,,,,,,,,,541,45,257,179
 2016-W-C25-USA-07A-2016,Naples FL $25K,Clay,32,25,20160509,31,202445,,WC,Valeria Solovieva,R,168,RUS,23.5,215037,,JE,Kayla Day,L,173,USA,16.6,6-4 6-0,3,F,,,,,,,,,,,,,,,,,,,,,,541,45
-2016-W-C25-USA-08A-2016,Sumter SC $25K,Hard,32,25,20160613,1,202495,,,Jennifer Elie,R,,USA,29.7,201613,1,,Arina Rodionova,R,168,RUS,26.4,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,390,89,245,205
+2016-W-C25-USA-08A-2016,Sumter SC $25K,Hard,32,25,20160613,1,202495,,,Jennifer Elie,R,,USA,29.7,201613,1,,Arina Rodionova,R,168,AUS,26.4,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,390,89,245,205
 2016-W-C25-USA-08A-2016,Sumter SC $25K,Hard,32,25,20160613,2,214271,,Q,Jaeda Daniel,U,,USA,16.8,213673,,,Ellie Halbauer,U,,USA,18.9,7-6(1) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,623,35,400,87
 2016-W-C25-USA-08A-2016,Sumter SC $25K,Hard,32,25,20160613,3,215371,,WC,Francesca Di Lorenzo,L,170,USA,18.8,216021,,Q,Nicole Mossmer,U,,USA,15.8,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,782,19,,
 2016-W-C25-USA-08A-2016,Sumter SC $25K,Hard,32,25,20160613,4,202614,,,Jacqueline Cako,R,178,USA,24.7,211351,6,,Ayaka Okuno,R,170,JPN,20.9,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,429,76,279,161
@@ -15457,7 +15457,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C25-USA-11A-2016,Baton Rouge LA $25K,Hard,32,25,20160620,13,206194,8,,Gabriela Ce,L,,BRA,23.2,215227,,WC,Abigail Desiatnikov,R,,USA,15.4,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,300,135,,
 2016-W-C25-USA-11A-2016,Baton Rouge LA $25K,Hard,32,25,20160620,14,202495,,,Jennifer Elie,R,,USA,29.7,214728,,WC,Ashley Kratzer,L,180,USA,17.3,4-6 7-6(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,392,90,702,25
 2016-W-C25-USA-11A-2016,Baton Rouge LA $25K,Hard,32,25,20160620,15,214452,,Q,Caroline Dolehide,R,178,USA,17.7,216066,,WC,Ella Taylor,U,,GBR,20.9,3-6 6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,608,36,,
-2016-W-C25-USA-11A-2016,Baton Rouge LA $25K,Hard,32,25,20160620,16,201613,2,,Arina Rodionova,R,168,RUS,26.5,211880,,,Priscilla Hon,R,171,AUS,18.1,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,246,205,349,104
+2016-W-C25-USA-11A-2016,Baton Rouge LA $25K,Hard,32,25,20160620,16,201613,2,,Arina Rodionova,R,168,AUS,26.5,211880,,,Priscilla Hon,R,171,AUS,18.1,6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,246,205,349,104
 2016-W-C25-USA-11A-2016,Baton Rouge LA $25K,Hard,32,25,20160620,17,203553,1,,Riko Sawayanagi,R,163,JPN,21.6,203475,,,Carol Zhao,R,165,CAN,21.0,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,254,188,316,124
 2016-W-C25-USA-11A-2016,Baton Rouge LA $25K,Hard,32,25,20160620,18,211796,7,,Francoise Abanda,R,178,CAN,19.3,215371,,Q,Francesca Di Lorenzo,L,170,USA,18.9,3-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,278,160,781,19
 2016-W-C25-USA-11A-2016,Baton Rouge LA $25K,Hard,32,25,20160620,19,202445,,SE,Valeria Solovieva,R,168,RUS,23.6,214263,3,,Catherine Cartan Bellis,R,,USA,17.2,7-6(5) 6-7(1) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,512,53,250,195
@@ -15465,7 +15465,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C25-USA-11A-2016,Baton Rouge LA $25K,Hard,32,25,20160620,21,214019,,,Raveena Kingsley,U,,USA,17.9,211725,,Q,Nicole Frenkel,L,,USA,18.1,6-0 1-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,312,126,488,58
 2016-W-C25-USA-11A-2016,Baton Rouge LA $25K,Hard,32,25,20160620,22,211222,4,,Jamie Loeb,R,168,USA,21.2,213672,,Q,Usue Maitane Arconada,R,165,USA,17.6,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,257,185,576,41
 2016-W-C25-USA-11A-2016,Baton Rouge LA $25K,Hard,32,25,20160620,23,202495,,,Jennifer Elie,R,,USA,29.7,206194,8,,Gabriela Ce,L,,BRA,23.2,3-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,392,90,300,135
-2016-W-C25-USA-11A-2016,Baton Rouge LA $25K,Hard,32,25,20160620,24,214452,,Q,Caroline Dolehide,R,178,USA,17.7,201613,2,,Arina Rodionova,R,168,RUS,26.5,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,608,36,246,205
+2016-W-C25-USA-11A-2016,Baton Rouge LA $25K,Hard,32,25,20160620,24,214452,,Q,Caroline Dolehide,R,178,USA,17.7,201613,2,,Arina Rodionova,R,168,AUS,26.5,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,608,36,246,205
 2016-W-C25-USA-11A-2016,Baton Rouge LA $25K,Hard,32,25,20160620,25,203553,1,,Riko Sawayanagi,R,163,JPN,21.6,211796,7,,Francoise Abanda,R,178,CAN,19.3,6-4 6-1,3,QF,,,,,,,,,,,,,,,,,,,,254,188,278,160
 2016-W-C25-USA-11A-2016,Baton Rouge LA $25K,Hard,32,25,20160620,26,202445,,SE,Valeria Solovieva,R,168,RUS,23.6,201542,,,Olivia Rogowska,R,175,AUS,25.0,7-5 6-0,3,QF,,,,,,,,,,,,,,,,,,,,512,53,534,48
 2016-W-C25-USA-11A-2016,Baton Rouge LA $25K,Hard,32,25,20160620,27,214019,,,Raveena Kingsley,U,,USA,17.9,211222,4,,Jamie Loeb,R,168,USA,21.2,7-6(4) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,312,126,257,185
@@ -15488,7 +15488,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C25-USA-12A-2016,El Paso TX $25K,Hard,32,25,20160627,13,203341,6,,Sanaz Marand,L,,USA,28.0,214271,,WC,Jaeda Daniel,U,,USA,16.9,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,309,129,646,32
 2016-W-C25-USA-12A-2016,El Paso TX $25K,Hard,32,25,20160627,14,215062,,Q,Carson Branstine,R,180,USA,15.7,210357,,Q,Mara Schmidt,U,,USA,24.3,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,849,15
 2016-W-C25-USA-12A-2016,El Paso TX $25K,Hard,32,25,20160627,15,202379,,,Chieh Yu Hsu,L,170,USA,24.4,214539,,,Yuki Kristina Chiang,U,,USA,20.8,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,431,74,539,49
-2016-W-C25-USA-12A-2016,El Paso TX $25K,Hard,32,25,20160627,16,202581,,,Chanel Simmonds,L,165,RSA,23.8,201613,2,,Arina Rodionova,R,168,RUS,26.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,430,74,246,205
+2016-W-C25-USA-12A-2016,El Paso TX $25K,Hard,32,25,20160627,16,202581,,,Chanel Simmonds,L,165,RSA,23.8,201613,2,,Arina Rodionova,R,168,AUS,26.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,430,74,246,205
 2016-W-C25-USA-12A-2016,El Paso TX $25K,Hard,32,25,20160627,17,202445,,,Valeria Solovieva,R,168,RUS,23.6,201529,1,,Kristie Ahn,R,165,USA,24.0,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,406,84,226,232
 2016-W-C25-USA-12A-2016,El Paso TX $25K,Hard,32,25,20160627,18,203475,8,,Carol Zhao,R,165,CAN,21.0,215227,,WC,Abigail Desiatnikov,R,,USA,15.4,6-3 2-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,334,115,,
 2016-W-C25-USA-12A-2016,El Paso TX $25K,Hard,32,25,20160627,19,206081,,Q,Caitlin Whoriskey,R,,USA,28.3,214684,,Q,Katherine Sebov,R,173,CAN,17.4,2-6 7-5 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,746,22,749,21
@@ -15825,7 +15825,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C50-AUS-01A-2016,Bendigo $50K,Hard,32,50,20161024,9,203591,,,Katy Dunne,R,167,GBR,21.6,213544,6,,Jana Fett,R,168,CRO,19.9,3-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,325,129,198,276
 2016-W-C50-AUS-01A-2016,Bendigo $50K,Hard,32,50,20161024,10,215018,,,Destanee Aiava,R,175,AUS,16.4,201487,,,Jessica Moore,R,167,AUS,26.1,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,397,91,407,88
 2016-W-C50-AUS-01A-2016,Bendigo $50K,Hard,32,50,20161024,11,201679,,,Varatchaya Wongteanchai,R,169,THA,27.1,201410,,WC,Monique Adamczak,R,170,AUS,33.7,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,285,160,,
-2016-W-C50-AUS-01A-2016,Bendigo $50K,Hard,32,50,20161024,12,201613,4,,Arina Rodionova,R,168,RUS,26.8,211881,,,Olivia Tjandramulia,R,167,AUS,19.4,1-6 7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,186,298,462,68
+2016-W-C50-AUS-01A-2016,Bendigo $50K,Hard,32,50,20161024,12,201613,4,,Arina Rodionova,R,168,AUS,26.8,211881,,,Olivia Tjandramulia,R,167,AUS,19.4,1-6 7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,186,298,462,68
 2016-W-C50-AUS-01A-2016,Bendigo $50K,Hard,32,50,20161024,13,203514,,,Katarzyna Kawa,R,178,POL,23.9,202495,8,,Jennifer Elie,R,,USA,30.0,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,365,102,265,176
 2016-W-C50-AUS-01A-2016,Bendigo $50K,Hard,32,50,20161024,14,203526,,,Tammi Patterson,R,167,AUS,26.8,201598,,,Noppawan Lertcheewakarn,R,167,THA,24.9,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,439,76,421,83
 2016-W-C50-AUS-01A-2016,Bendigo $50K,Hard,32,50,20161024,15,202636,,,Zuzana Zlochova,R,,SVK,26.7,205918,,,Ulrikke Eikeri,R,,NOR,23.8,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,436,77,405,89
@@ -15835,7 +15835,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C50-AUS-01A-2016,Bendigo $50K,Hard,32,50,20161024,19,214905,,Q,Abigail Tere Apisah,U,,PNG,24.2,202498,3,,Julia Glushko,R,171,ISR,26.8,1-6 6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,543,49,167,340
 2016-W-C50-AUS-01A-2016,Bendigo $50K,Hard,32,50,20161024,20,206362,,,Naiktha Bains,R,174,GBR,18.8,213666,,WC,Maddison Inglis,R,171,AUS,18.7,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,465,66,507,56
 2016-W-C50-AUS-01A-2016,Bendigo $50K,Hard,32,50,20161024,21,203591,,,Katy Dunne,R,167,GBR,21.6,215018,,,Destanee Aiava,R,175,AUS,16.4,3-6 6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,325,129,397,91
-2016-W-C50-AUS-01A-2016,Bendigo $50K,Hard,32,50,20161024,22,201679,,,Varatchaya Wongteanchai,R,169,THA,27.1,201613,4,,Arina Rodionova,R,168,RUS,26.8,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,285,160,186,298
+2016-W-C50-AUS-01A-2016,Bendigo $50K,Hard,32,50,20161024,22,201679,,,Varatchaya Wongteanchai,R,169,THA,27.1,201613,4,,Arina Rodionova,R,168,AUS,26.8,7-5 7-5,3,R16,,,,,,,,,,,,,,,,,,,,285,160,186,298
 2016-W-C50-AUS-01A-2016,Bendigo $50K,Hard,32,50,20161024,23,203526,,,Tammi Patterson,R,167,AUS,26.8,203514,,,Katarzyna Kawa,R,178,POL,23.9,7-5 2-6 7-5,3,R16,,,,,,,,,,,,,,,,,,,,439,76,365,102
 2016-W-C50-AUS-01A-2016,Bendigo $50K,Hard,32,50,20161024,24,201534,2,,Asia Muhammad,R,178,USA,25.5,202636,,,Zuzana Zlochova,R,,SVK,26.7,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,161,348,436,77
 2016-W-C50-AUS-01A-2016,Bendigo $50K,Hard,32,50,20161024,25,203552,1,,Risa Ozaki,R,163,JPN,22.5,211878,,,Lizette Cabrera,R,167,AUS,18.8,6-2 4-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,117,534,271,171
@@ -15940,7 +15940,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C50-CAN-03A-2016,Saguenay $50K,Hard,32,50,20161017,31,214263,1,,Catherine Cartan Bellis,R,,USA,17.5,215370,,,Bianca Andreescu,R,170,CAN,16.3,6-4 6-2,3,F,,,,,,,,,,,,,,,,,,,,111,560,412,84
 2016-W-C50-CHN-01A-2016,Quanzhou $50K,Hard,32,50,20160321,1,202492,1,,Qiang Wang,R,172,CHN,24.1,202422,,,Shuko Aoyama,R,154,JPN,28.2,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,98,703,304,132
 2016-W-C50-CHN-01A-2016,Quanzhou $50K,Hard,32,50,20160321,2,206075,,,Hiroko Kuwata,R,,JPN,25.2,201674,,,Sabina Sharipova,R,174,UZB,21.5,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,197,253,206,243
-2016-W-C50-CHN-01A-2016,Quanzhou $50K,Hard,32,50,20160321,3,206102,,,Ankita Raina,R,163,IND,23.1,206294,,WC,Yue Yuan,U,184,CHN,24.7,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,281,153,,
+2016-W-C50-CHN-01A-2016,Quanzhou $50K,Hard,32,50,20160321,3,206102,,,Ankita Raina,R,163,IND,23.1,206294,,WC,Yue Yuan,R,184,CHN,17.4,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,281,153,,
 2016-W-C50-CHN-01A-2016,Quanzhou $50K,Hard,32,50,20160321,4,210722,7,,Elise Mertens,R,179,BEL,20.3,204223,,Q,Peangtarn Plipuech,R,169,THA,23.3,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,168,333,361,103
 2016-W-C50-CHN-01A-2016,Quanzhou $50K,Hard,32,50,20160321,5,202503,4,,Luksika Kumkhum,R,167,THA,22.6,202686,,WC,Di Zhao,U,,CHN,23.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,153,371,452,70
 2016-W-C50-CHN-01A-2016,Quanzhou $50K,Hard,32,50,20160321,6,203435,,,Dalila Jakupovic,R,178,SLO,24.9,202640,,,Irina Ramialison,R,158,FRA,24.7,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,292,141,316,125
@@ -16139,7 +16139,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C50-CHN-08A-2016,Suzhou $50K,Hard,32,50,20161017,13,201578,,,Kai Chen Chang,R,167,TPE,25.7,201674,8,,Sabina Sharipova,R,174,UZB,22.1,7-6(6) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,193,280,157,366
 2016-W-C50-CHN-08A-2016,Suzhou $50K,Hard,32,50,20161017,14,202695,,,Aleksandrina Naydenova,R,170,BUL,24.6,202639,,,Akiko Omae,R,162,JPN,23.7,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,247,196,243,200
 2016-W-C50-CHN-08A-2016,Suzhou $50K,Hard,32,50,20161017,15,202687,,,Ran Tian,R,,CHN,22.7,202410,,,Sofia Shapatava,R,170,GEO,27.7,3-6 6-0 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,309,144,192,284
-2016-W-C50-CHN-08A-2016,Suzhou $50K,Hard,32,50,20161017,16,213583,2,,Tatjana Maria,R,172,GER,29.1,206294,,Q,Yue Yuan,U,184,CHN,25.3,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,110,567,1100,6
+2016-W-C50-CHN-08A-2016,Suzhou $50K,Hard,32,50,20161017,16,213583,2,,Tatjana Maria,R,172,GER,29.1,206294,,Q,Yue Yuan,R,184,CHN,18.0,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,110,567,1100,6
 2016-W-C50-CHN-08A-2016,Suzhou $50K,Hard,32,50,20161017,17,206075,,,Hiroko Kuwata,R,,JPN,25.8,202663,1,,Magda Linette,R,171,POL,24.6,4-6 5-3 RET,3,R16,,,,,,,,,,,,,,,,,,,,162,351,96,681
 2016-W-C50-CHN-08A-2016,Suzhou $50K,Hard,32,50,20161017,18,201565,,,Katarzyna Piter,R,173,POL,25.6,211411,,,Nina Stojanovic,R,176,SRB,20.2,6-4 3-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,260,181,179,322
 2016-W-C50-CHN-08A-2016,Suzhou $50K,Hard,32,50,20161017,19,206374,4,,Yafan Wang,R,170,CHN,22.4,214328,,Q,Xu Liu Sun,U,,CHN,22.6,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,127,494,471,66
@@ -16285,7 +16285,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C50-FRA-03A-2016,Saint Gaudens $50K,Clay,32,50,20160509,4,204366,,WC,Victoria Muntean,R,,FRA,19.2,204434,7,,Ysaline Bonaventure,L,178,BEL,21.6,3-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,471,64,156,366
 2016-W-C50-FRA-03A-2016,Saint Gaudens $50K,Clay,32,50,20160509,5,203530,4,,Viktorija Golubic,R,169,SUI,23.5,206242,,Q,Beatriz Haddad Maia,L,185,BRA,19.9,6-3 7-6(7),3,R32,,,,,,,,,,,,,,,,,,,,134,458,336,113
 2016-W-C50-FRA-03A-2016,Saint Gaudens $50K,Clay,32,50,20160509,6,206136,,WC,Deniz Khazaniuk,R,175,ISR,21.5,211539,,,Fiona Ferro,R,170,FRA,19.1,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,307,131,268,165
-2016-W-C50-FRA-03A-2016,Saint Gaudens $50K,Clay,32,50,20160509,7,203465,,Q,Amanda Carreras,R,,GBR,25.9,201613,,,Arina Rodionova,R,168,RUS,26.3,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,350,107,225,220
+2016-W-C50-FRA-03A-2016,Saint Gaudens $50K,Clay,32,50,20160509,7,203465,,Q,Amanda Carreras,R,,GBR,25.9,201613,,,Arina Rodionova,R,168,AUS,26.3,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,350,107,225,220
 2016-W-C50-FRA-03A-2016,Saint Gaudens $50K,Clay,32,50,20160509,8,202706,,LL,Manon Arcangioli,R,162,FRA,21.6,204427,,,Sara Sorribes Tormo,R,176,ESP,19.5,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,392,88,194,278
 2016-W-C50-FRA-03A-2016,Saint Gaudens $50K,Clay,32,50,20160509,9,201528,,SR,Melanie Oudin,R,168,USA,24.6,203504,6,,Miyu Kato,R,156,JPN,21.4,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,349,107,152,373
 2016-W-C50-FRA-03A-2016,Saint Gaudens $50K,Clay,32,50,20160509,10,205591,,,Paula Cristina Goncalves,R,173,BRA,25.7,202707,,,Myrtille Georges,R,174,FRA,25.3,6-2 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,200,271,207,254
@@ -16416,7 +16416,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C50-GBR-02A-2016,Surbiton $50K,Grass,32,50,20160606,11,202539,,,Alison Bai,R,170,AUS,26.3,215098,,LL,Emma Hurst,U,,GBR,19.9,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,412,82,1160,5
 2016-W-C50-GBR-02A-2016,Surbiton $50K,Grass,32,50,20160606,12,211684,,Q,Magdalena Frech,R,171,POL,18.4,202420,4,,An Sophie Mestach,R,170,BEL,22.2,1-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,508,53,165,336
 2016-W-C50-GBR-02A-2016,Surbiton $50K,Grass,32,50,20160606,13,201528,,SR,Melanie Oudin,R,168,USA,24.7,202460,6,,Ons Jabeur,R,167,TUN,21.7,4-6 6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,298,136,188,287
-2016-W-C50-GBR-02A-2016,Surbiton $50K,Grass,32,50,20160606,14,215431,,WC,Emily Appleton,U,,GBR,16.7,200083,,Q,Alexandra Stevenson,R,185,USA,35.4,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,923,12,631,33
+2016-W-C50-GBR-02A-2016,Surbiton $50K,Grass,32,50,20160606,14,215431,,WC,Emily Appleton,R,,GBR,16.7,200083,,Q,Alexandra Stevenson,R,185,USA,35.4,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,923,12,631,33
 2016-W-C50-GBR-02A-2016,Surbiton $50K,Grass,32,50,20160606,15,213602,,WC,Gabriella Taylor,R,,GBR,18.2,213887,,,Renata Zarazua,R,,MEX,18.6,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,445,70,368,98
 2016-W-C50-GBR-02A-2016,Surbiton $50K,Grass,32,50,20160606,16,202425,,WC,Samantha Murray,R,178,GBR,28.6,201578,2,,Kai Chen Chang,R,167,TPE,25.3,6-7(3) 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,862,14,173,323
 2016-W-C50-GBR-02A-2016,Surbiton $50K,Grass,32,50,20160606,17,203379,,,Marina Melnikova,R,173,RUS,27.3,202504,1,,Ying Ying Duan,R,186,CHN,26.9,7-6(7) 7-6(5),3,R16,,,,,,,,,,,,,,,,,,,,238,206,131,458
@@ -16425,7 +16425,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C50-GBR-02A-2016,Surbiton $50K,Grass,32,50,20160606,20,202467,8,,Elitsa Kostova,R,172,BUL,26.1,204411,,,Storm Sanders,L,166,AUS,21.8,5-7 6-4 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,189,286,268,164
 2016-W-C50-GBR-02A-2016,Surbiton $50K,Grass,32,50,20160606,21,200773,,,Stephanie Foretz Gacon,R,166,FRA,35.0,206349,5,,Mayo Hibi,R,165,JPN,20.1,6-7(5) 7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,234,214,179,307
 2016-W-C50-GBR-02A-2016,Surbiton $50K,Grass,32,50,20160606,22,211684,,Q,Magdalena Frech,R,171,POL,18.4,202539,,,Alison Bai,R,170,AUS,26.3,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,508,53,412,82
-2016-W-C50-GBR-02A-2016,Surbiton $50K,Grass,32,50,20160606,23,201528,,SR,Melanie Oudin,R,168,USA,24.7,215431,,WC,Emily Appleton,U,,GBR,16.7,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,298,136,923,12
+2016-W-C50-GBR-02A-2016,Surbiton $50K,Grass,32,50,20160606,23,201528,,SR,Melanie Oudin,R,168,USA,24.7,215431,,WC,Emily Appleton,R,,GBR,16.7,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,298,136,923,12
 2016-W-C50-GBR-02A-2016,Surbiton $50K,Grass,32,50,20160606,24,202425,,WC,Samantha Murray,R,178,GBR,28.6,213602,,WC,Gabriella Taylor,R,,GBR,18.2,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,862,14,445,70
 2016-W-C50-GBR-02A-2016,Surbiton $50K,Grass,32,50,20160606,25,203379,,,Marina Melnikova,R,173,RUS,27.3,203513,7,,Robin Anderson,R,160,USA,23.1,6-4 6-7(5) 6-1,3,QF,,,,,,,,,,,,,,,,,,,,238,206,199,270
 2016-W-C50-GBR-02A-2016,Surbiton $50K,Grass,32,50,20160606,26,206146,,,Catalina Pella,R,,ARG,23.3,202467,8,,Elitsa Kostova,R,172,BUL,26.1,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,210,252,189,286
@@ -16447,7 +16447,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C50-GBR-03A-2016,Ilkley $50K,Grass,32,50,20160613,11,203281,,,Amandine Hesse,R,164,FRA,23.4,215096,,Q,Jaimee Fourlis,R,168,AUS,16.7,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,182,298,464,66
 2016-W-C50-GBR-03A-2016,Ilkley $50K,Grass,32,50,20160613,12,202684,,,Lin Zhu,R,173,CHN,22.3,202701,3,,Irina Khromacheva,L,170,RUS,21.0,0-6 6-4 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,164,342,123,498
 2016-W-C50-GBR-03A-2016,Ilkley $50K,Grass,32,50,20160613,13,202480,6,,Richel Hogenkamp,R,168,NED,24.1,202420,,,An Sophie Mestach,R,170,BEL,22.2,6-1 5-7 6-3,3,R32,,,,,,,,,,,,,,,,,,,,131,442,166,336
-2016-W-C50-GBR-03A-2016,Ilkley $50K,Grass,32,50,20160613,14,206183,,,Cindy Burger,R,,NED,23.5,215431,,WC,Emily Appleton,U,,GBR,16.7,2-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,162,351,767,20
+2016-W-C50-GBR-03A-2016,Ilkley $50K,Grass,32,50,20160613,14,206183,,,Cindy Burger,R,,NED,23.5,215431,,WC,Emily Appleton,R,,GBR,16.7,2-6 6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,162,351,767,20
 2016-W-C50-GBR-03A-2016,Ilkley $50K,Grass,32,50,20160613,15,202425,,WC,Samantha Murray,R,178,GBR,28.6,204246,,,Lesley Pattinama Kerkhove,R,172,NED,24.6,5-7 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,664,29,180,307
 2016-W-C50-GBR-03A-2016,Ilkley $50K,Grass,32,50,20160613,16,201516,2,,Evgeniya Rodina,R,170,RUS,27.3,202539,,LL,Alison Bai,R,170,AUS,26.4,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,113,572,393,89
 2016-W-C50-GBR-03A-2016,Ilkley $50K,Grass,32,50,20160613,17,201547,,SR,Michelle Larcher De Brito,R,165,POR,23.3,203576,1,,Kai Lin Zhang,R,173,CHN,26.3,1-6 6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,231,226,114,564
@@ -16816,7 +16816,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C50-TUN-01A-2016,Tunis $50K,Clay,32,50,20160502,8,202707,8,,Myrtille Georges,R,174,FRA,25.3,211063,,,Valeriya Strakhova,R,,UKR,20.8,6-7(5) 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,203,257,237,210
 2016-W-C50-TUN-01A-2016,Tunis $50K,Clay,32,50,20160502,9,204246,6,,Lesley Pattinama Kerkhove,R,172,NED,24.4,210584,,WC,Fiona Codino,R,,FRA,20.6,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,176,313,776,20
 2016-W-C50-TUN-01A-2016,Tunis $50K,Clay,32,50,20160502,10,203564,,,Chloe Paquet,R,179,FRA,21.8,211529,,WC,Sandra Samir,R,170,EGY,18.4,7-6(7) 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,262,169,428,78
-2016-W-C50-TUN-01A-2016,Tunis $50K,Clay,32,50,20160502,11,214312,,,Sherazad Reix,L,,FRA,27.0,201613,,,Arina Rodionova,R,168,RUS,26.3,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,219,230,226,220
+2016-W-C50-TUN-01A-2016,Tunis $50K,Clay,32,50,20160502,11,214312,,,Sherazad Reix,L,,FRA,27.0,201613,,,Arina Rodionova,R,168,AUS,26.3,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,219,230,226,220
 2016-W-C50-TUN-01A-2016,Tunis $50K,Clay,32,50,20160502,12,204434,3,,Ysaline Bonaventure,L,178,BEL,21.6,215588,,WC,Yasmine Mansouri,R,,FRA,14.9,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,148,377,,
 2016-W-C50-TUN-01A-2016,Tunis $50K,Clay,32,50,20160502,13,201674,,,Sabina Sharipova,R,174,UZB,21.6,203567,7,,Ipek Soylu,R,174,TUR,20.0,5-7 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,228,218,178,309
 2016-W-C50-TUN-01A-2016,Tunis $50K,Clay,32,50,20160502,14,206408,,Q,Nadia Podoroska,R,170,ARG,19.2,213533,,Q,Maria Marfutina,R,175,RUS,18.9,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,332,117,362,101
@@ -17024,7 +17024,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C50-USA-04A-2016,Charlottesville VA $50K,Clay,32,50,20160425,30,202479,,,Grace Min,R,163,USA,21.9,201588,2,,Anna Tatishvili,R,171,GEO,26.2,6-4 6-0,3,SF,,,,,,,,,,,,,,,,,,,,182,289,116,575
 2016-W-C50-USA-04A-2016,Charlottesville VA $50K,Clay,32,50,20160425,31,203501,,WC,Taylor Townsend,L,170,USA,20.0,202479,,,Grace Min,R,163,USA,21.9,7-5 6-1,3,F,,,,,,,,,,,,,,,,,,,,273,163,182,289
 2016-W-C50-USA-05A-2016,Stockton CA $50K,Hard,32,50,20160711,1,202484,1,,Nicole Gibbs,R,168,USA,23.3,201486,,SR,Aleksandra Wozniak,R,175,CAN,28.8,5-7 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,72,906,471,64
-2016-W-C50-USA-05A-2016,Stockton CA $50K,Hard,32,50,20160711,2,201613,,,Arina Rodionova,R,168,RUS,26.5,203537,,,Victoria Kan,R,,RUS,20.9,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,244,209,259,187
+2016-W-C50-USA-05A-2016,Stockton CA $50K,Hard,32,50,20160711,2,201613,,,Arina Rodionova,R,168,AUS,26.5,203537,,,Victoria Kan,R,,RUS,20.9,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,244,209,259,187
 2016-W-C50-USA-05A-2016,Stockton CA $50K,Hard,32,50,20160711,3,214263,,,Catherine Cartan Bellis,R,,USA,17.2,206107,,,Zhaoxuan Yang,R,,CHN,21.4,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,220,248,224,242
 2016-W-C50-USA-05A-2016,Stockton CA $50K,Hard,32,50,20160711,4,203500,8,,Sachia Vickery,R,162,USA,21.1,215305,,Q,Desirae Krawczyk,L,170,USA,22.4,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,205,263,,
 2016-W-C50-USA-05A-2016,Stockton CA $50K,Hard,32,50,20160711,5,202421,3,,Alison Van Uytvanck,R,173,BEL,22.2,201528,,,Melanie Oudin,R,168,USA,24.7,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,125,453,288,145
@@ -17039,7 +17039,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C50-USA-05A-2016,Stockton CA $50K,Hard,32,50,20160711,14,203513,,,Robin Anderson,R,160,USA,23.2,203341,,WC,Sanaz Marand,L,,USA,28.0,6-2 7-6(1),3,R32,,,,,,,,,,,,,,,,,,,,189,287,310,129
 2016-W-C50-USA-05A-2016,Stockton CA $50K,Hard,32,50,20160711,15,201532,,,Anastasia Pivovarova,R,181,RUS,26.0,201534,,,Asia Muhammad,R,178,USA,25.2,6-3 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,213,252,197,277
 2016-W-C50-USA-05A-2016,Stockton CA $50K,Hard,32,50,20160711,16,202581,,Q,Chanel Simmonds,L,165,RSA,23.9,201697,2,,Kristyna Pliskova,L,184,CZE,24.3,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,409,83,116,502
-2016-W-C50-USA-05A-2016,Stockton CA $50K,Hard,32,50,20160711,17,201613,,,Arina Rodionova,R,168,RUS,26.5,202484,1,,Nicole Gibbs,R,168,USA,23.3,7-6(3) 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,244,209,72,906
+2016-W-C50-USA-05A-2016,Stockton CA $50K,Hard,32,50,20160711,17,201613,,,Arina Rodionova,R,168,AUS,26.5,202484,1,,Nicole Gibbs,R,168,USA,23.3,7-6(3) 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,244,209,72,906
 2016-W-C50-USA-05A-2016,Stockton CA $50K,Hard,32,50,20160711,18,214263,,,Catherine Cartan Bellis,R,,USA,17.2,203500,8,,Sachia Vickery,R,162,USA,21.1,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,220,248,205,263
 2016-W-C50-USA-05A-2016,Stockton CA $50K,Hard,32,50,20160711,19,202421,3,,Alison Van Uytvanck,R,173,BEL,22.2,203553,,,Riko Sawayanagi,R,163,JPN,21.7,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,125,453,246,207
 2016-W-C50-USA-05A-2016,Stockton CA $50K,Hard,32,50,20160711,20,211222,,,Jamie Loeb,R,168,USA,21.3,202495,,Q,Jennifer Elie,R,,USA,29.8,6-3 4-6 6-2,3,R16,,,,,,,,,,,,,,,,,,,,257,188,306,132
@@ -17047,7 +17047,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C50-USA-05A-2016,Stockton CA $50K,Hard,32,50,20160711,22,201524,4,,Urszula Radwanska,R,177,POL,25.5,204411,,,Storm Sanders,L,166,AUS,21.9,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,164,345,276,159
 2016-W-C50-USA-05A-2016,Stockton CA $50K,Hard,32,50,20160711,23,203513,,,Robin Anderson,R,160,USA,23.2,206349,,,Mayo Hibi,R,165,JPN,20.2,3-6 6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,189,287,199,276
 2016-W-C50-USA-05A-2016,Stockton CA $50K,Hard,32,50,20160711,24,201532,,,Anastasia Pivovarova,R,181,RUS,26.0,202581,,Q,Chanel Simmonds,L,165,RSA,23.9,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,213,252,409,83
-2016-W-C50-USA-05A-2016,Stockton CA $50K,Hard,32,50,20160711,25,214263,,,Catherine Cartan Bellis,R,,USA,17.2,201613,,,Arina Rodionova,R,168,RUS,26.5,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,220,248,244,209
+2016-W-C50-USA-05A-2016,Stockton CA $50K,Hard,32,50,20160711,25,214263,,,Catherine Cartan Bellis,R,,USA,17.2,201613,,,Arina Rodionova,R,168,AUS,26.5,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,220,248,244,209
 2016-W-C50-USA-05A-2016,Stockton CA $50K,Hard,32,50,20160711,26,202421,3,,Alison Van Uytvanck,R,173,BEL,22.2,211222,,,Jamie Loeb,R,168,USA,21.3,6-4 0-6 6-3,3,QF,,,,,,,,,,,,,,,,,,,,125,453,257,188
 2016-W-C50-USA-05A-2016,Stockton CA $50K,Hard,32,50,20160711,27,201547,,,Michelle Larcher De Brito,R,165,POR,23.4,201524,4,,Urszula Radwanska,R,177,POL,25.5,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,268,175,164,345
 2016-W-C50-USA-05A-2016,Stockton CA $50K,Hard,32,50,20160711,28,201532,,,Anastasia Pivovarova,R,181,RUS,26.0,203513,,,Robin Anderson,R,160,USA,23.2,6-4 7-5,3,QF,,,,,,,,,,,,,,,,,,,,213,252,189,287
@@ -17087,7 +17087,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C50-USA-06A-2016,Sacramento CA $50K,Hard,32,50,20160718,31,213550,,,Sofia Kenin,R,170,USA,17.6,202479,2,,Grace Min,R,163,USA,22.2,4-6 6-1 6-4,3,F,,,,,,,,,,,,,,,,,,,,332,119,158,356
 2016-W-C50-USA-07A-2016,Lexington KY $50K,Hard,32,50,20160725,1,202421,1,,Alison Van Uytvanck,R,173,BEL,22.3,214263,,,Catherine Cartan Bellis,R,,USA,17.2,4-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,117,532,159,361
 2016-W-C50-USA-07A-2016,Lexington KY $50K,Hard,32,50,20160725,2,202539,,Q,Alison Bai,R,170,AUS,26.5,201528,,,Melanie Oudin,R,168,USA,24.8,7-6(2) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,388,95,306,131
-2016-W-C50-USA-07A-2016,Lexington KY $50K,Hard,32,50,20160725,3,201613,,,Arina Rodionova,R,168,RUS,26.6,203341,,WC,Sanaz Marand,L,,USA,28.0,2-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,234,223,344,112
+2016-W-C50-USA-07A-2016,Lexington KY $50K,Hard,32,50,20160725,3,201613,,,Arina Rodionova,R,168,AUS,26.6,203341,,WC,Sanaz Marand,L,,USA,28.0,2-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,234,223,344,112
 2016-W-C50-USA-07A-2016,Lexington KY $50K,Hard,32,50,20160725,4,203553,,,Riko Sawayanagi,R,163,JPN,21.7,203504,7,,Miyu Kato,R,156,JPN,21.6,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,251,196,214,253
 2016-W-C50-USA-07A-2016,Lexington KY $50K,Hard,32,50,20160725,5,202684,4,,Lin Zhu,R,173,CHN,22.4,206349,,,Mayo Hibi,R,165,JPN,20.3,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,152,375,208,262
 2016-W-C50-USA-07A-2016,Lexington KY $50K,Hard,32,50,20160725,6,211222,,,Jamie Loeb,R,168,USA,21.3,211216,,Q,Cristiana Ferrando,R,,ITA,20.9,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,255,188,358,105
@@ -17102,20 +17102,20 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-C50-USA-07A-2016,Lexington KY $50K,Hard,32,50,20160725,15,201414,,,Michaella Krajicek,R,177,NED,27.5,214452,,WC,Caroline Dolehide,R,178,USA,17.8,5-7 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,196,283,473,65
 2016-W-C50-USA-07A-2016,Lexington KY $50K,Hard,32,50,20160725,16,201542,,Q,Olivia Rogowska,R,175,AUS,25.1,201399,,LL,Emily Webley Smith,R,,GBR,32.0,6-4 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,452,69,549,48
 2016-W-C50-USA-07A-2016,Lexington KY $50K,Hard,32,50,20160725,17,202421,1,,Alison Van Uytvanck,R,173,BEL,22.3,202539,,Q,Alison Bai,R,170,AUS,26.5,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,117,532,388,95
-2016-W-C50-USA-07A-2016,Lexington KY $50K,Hard,32,50,20160725,18,201613,,,Arina Rodionova,R,168,RUS,26.6,203553,,,Riko Sawayanagi,R,163,JPN,21.7,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,234,223,251,196
+2016-W-C50-USA-07A-2016,Lexington KY $50K,Hard,32,50,20160725,18,201613,,,Arina Rodionova,R,168,AUS,26.6,203553,,,Riko Sawayanagi,R,163,JPN,21.7,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,234,223,251,196
 2016-W-C50-USA-07A-2016,Lexington KY $50K,Hard,32,50,20160725,19,211222,,,Jamie Loeb,R,168,USA,21.3,202684,4,,Lin Zhu,R,173,CHN,22.4,4-6 6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,255,188,152,375
 2016-W-C50-USA-07A-2016,Lexington KY $50K,Hard,32,50,20160725,20,213889,,Q,Greet Minnen,R,,BEL,18.9,201529,,,Kristie Ahn,R,165,USA,24.1,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,341,115,229,231
 2016-W-C50-USA-07A-2016,Lexington KY $50K,Hard,32,50,20160725,21,206075,5,,Hiroko Kuwata,R,,JPN,25.6,203591,,LL,Katy Dunne,R,167,GBR,21.4,6-4 2-1 RET,3,R16,,,,,,,,,,,,,,,,,,,,154,366,299,137
 2016-W-C50-USA-07A-2016,Lexington KY $50K,Hard,32,50,20160725,22,206049,,,Jovana Jaksic,R,180,SRB,22.8,202420,9,,An Sophie Mestach,R,170,BEL,22.3,7-6(5) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,204,270,211,256
 2016-W-C50-USA-07A-2016,Lexington KY $50K,Hard,32,50,20160725,23,201674,,,Sabina Sharipova,R,174,UZB,21.8,215371,,WC,Francesca Di Lorenzo,L,170,USA,19.0,2-6 7-6(3) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,197,282,376,100
 2016-W-C50-USA-07A-2016,Lexington KY $50K,Hard,32,50,20160725,24,201414,,,Michaella Krajicek,R,177,NED,27.5,201542,,Q,Olivia Rogowska,R,175,AUS,25.1,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,196,283,452,69
-2016-W-C50-USA-07A-2016,Lexington KY $50K,Hard,32,50,20160725,25,201613,,,Arina Rodionova,R,168,RUS,26.6,202421,1,,Alison Van Uytvanck,R,173,BEL,22.3,Â,3,QF,,,,,,,,,,,,,,,,,,,,234,223,117,532
+2016-W-C50-USA-07A-2016,Lexington KY $50K,Hard,32,50,20160725,25,201613,,,Arina Rodionova,R,168,AUS,26.6,202421,1,,Alison Van Uytvanck,R,173,BEL,22.3,Â,3,QF,,,,,,,,,,,,,,,,,,,,234,223,117,532
 2016-W-C50-USA-07A-2016,Lexington KY $50K,Hard,32,50,20160725,26,211222,,,Jamie Loeb,R,168,USA,21.3,213889,,Q,Greet Minnen,R,,BEL,18.9,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,255,188,341,115
 2016-W-C50-USA-07A-2016,Lexington KY $50K,Hard,32,50,20160725,27,206049,,,Jovana Jaksic,R,180,SRB,22.8,206075,5,,Hiroko Kuwata,R,,JPN,25.6,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,204,270,154,366
 2016-W-C50-USA-07A-2016,Lexington KY $50K,Hard,32,50,20160725,28,201414,,,Michaella Krajicek,R,177,NED,27.5,201674,,,Sabina Sharipova,R,174,UZB,21.8,7-6(3) 1-6 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,196,283,197,282
-2016-W-C50-USA-07A-2016,Lexington KY $50K,Hard,32,50,20160725,29,201613,,,Arina Rodionova,R,168,RUS,26.6,211222,,,Jamie Loeb,R,168,USA,21.3,7-6(1) 6-1,3,SF,,,,,,,,,,,,,,,,,,,,234,223,255,188
+2016-W-C50-USA-07A-2016,Lexington KY $50K,Hard,32,50,20160725,29,201613,,,Arina Rodionova,R,168,AUS,26.6,211222,,,Jamie Loeb,R,168,USA,21.3,7-6(1) 6-1,3,SF,,,,,,,,,,,,,,,,,,,,234,223,255,188
 2016-W-C50-USA-07A-2016,Lexington KY $50K,Hard,32,50,20160725,30,201414,,,Michaella Krajicek,R,177,NED,27.5,206049,,,Jovana Jaksic,R,180,SRB,22.8,6-3 7-6(6),3,SF,,,,,,,,,,,,,,,,,,,,196,283,204,270
-2016-W-C50-USA-07A-2016,Lexington KY $50K,Hard,32,50,20160725,31,201414,,,Michaella Krajicek,R,177,NED,27.5,201613,,,Arina Rodionova,R,168,RUS,26.6,6-0 2-6 6-2,3,F,,,,,,,,,,,,,,,,,,,,196,283,234,223
+2016-W-C50-USA-07A-2016,Lexington KY $50K,Hard,32,50,20160725,31,201414,,,Michaella Krajicek,R,177,NED,27.5,201613,,,Arina Rodionova,R,168,AUS,26.6,6-0 2-6 6-2,3,F,,,,,,,,,,,,,,,,,,,,196,283,234,223
 2016-W-C50-USA-08A-2016,Atlanta GA $50K,Hard,32,50,20160912,1,210722,1,,Elise Mertens,R,179,BEL,20.8,203550,,Q,Brianna Morgan,U,,USA,22.5,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,131,448,,
 2016-W-C50-USA-08A-2016,Atlanta GA $50K,Hard,32,50,20160912,2,201476,,,Lauren Albanese,R,,USA,26.9,201441,,,Emma Laine,L,164,FIN,30.4,6-3 5-7 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,251,189,541,51
 2016-W-C50-USA-08A-2016,Atlanta GA $50K,Hard,32,50,20160912,3,201547,,,Michelle Larcher De Brito,R,165,POR,23.6,202445,,,Valeria Solovieva,R,168,RUS,23.8,6-4 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,235,209,239,204
@@ -17429,7 +17429,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-WITF-AUS-13A-2016,Canberra $50K,Hard,28,50,20161031,300,203552,1,,Risa Ozaki,R,163,JPN,22.5,205923,,Q,Abbie Myers,R,175,AUS,22.2,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,103,613,616,37
 2016-W-WITF-AUS-13A-2016,Canberra $50K,Hard,28,50,20161031,299,201542,,,Olivia Rogowska,R,175,AUS,25.4,214905,,WC,Abigail Tere Apisah,U,,PNG,24.3,0-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,289,159,448,73
 2016-W-WITF-AUS-13A-2016,Canberra $50K,Hard,28,50,20161031,298,211881,,,Olivia Tjandramulia,R,167,AUS,19.4,206194,,Q,Gabriela Ce,L,,BRA,23.6,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,464,68,534,51
-2016-W-WITF-AUS-13A-2016,Canberra $50K,Hard,28,50,20161031,297,201613,5,,Arina Rodionova,R,168,RUS,26.8,202539,,,Alison Bai,R,170,AUS,26.7,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,185,300,416,85
+2016-W-WITF-AUS-13A-2016,Canberra $50K,Hard,28,50,20161031,297,201613,5,,Arina Rodionova,R,168,AUS,26.8,202539,,,Alison Bai,R,170,AUS,26.7,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,185,300,416,85
 2016-W-WITF-AUS-13A-2016,Canberra $50K,Hard,28,50,20161031,296,202498,4,,Julia Glushko,R,171,ISR,26.8,214191,,WC,Seone Mendez,R,,AUS,17.4,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,170,330,866,14
 2016-W-WITF-AUS-13A-2016,Canberra $50K,Hard,28,50,20161031,295,202495,,,Jennifer Elie,R,,USA,30.1,211351,,,Ayaka Okuno,R,170,JPN,21.3,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,267,176,357,109
 2016-W-WITF-AUS-13A-2016,Canberra $50K,Hard,28,50,20161031,294,201598,,,Noppawan Lertcheewakarn,R,167,THA,24.9,204298,,Q,Viktorija Rajicic,R,170,AUS,22.5,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,443,75,844,15
@@ -17443,14 +17443,14 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-W-WITF-AUS-13A-2016,Canberra $50K,Hard,28,50,20161031,286,211333,,Q,Georgia Brescia,R,,ITA,20.7,203514,,,Katarzyna Kawa,R,178,POL,23.9,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,433,79,386,92
 2016-W-WITF-AUS-13A-2016,Canberra $50K,Hard,28,50,20161031,285,206075,2,,Hiroko Kuwata,R,,JPN,25.8,201487,,,Jessica Moore,R,167,AUS,26.2,6-7(5) 6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,160,351,405,88
 2016-W-WITF-AUS-13A-2016,Canberra $50K,Hard,28,50,20161031,284,203552,1,,Risa Ozaki,R,163,JPN,22.5,201542,,,Olivia Rogowska,R,175,AUS,25.4,6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,103,613,289,159
-2016-W-WITF-AUS-13A-2016,Canberra $50K,Hard,28,50,20161031,283,201613,5,,Arina Rodionova,R,168,RUS,26.8,211881,,,Olivia Tjandramulia,R,167,AUS,19.4,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,185,300,464,68
+2016-W-WITF-AUS-13A-2016,Canberra $50K,Hard,28,50,20161031,283,201613,5,,Arina Rodionova,R,168,AUS,26.8,211881,,,Olivia Tjandramulia,R,167,AUS,19.4,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,185,300,464,68
 2016-W-WITF-AUS-13A-2016,Canberra $50K,Hard,28,50,20161031,282,202495,,,Jennifer Elie,R,,USA,30.1,202498,4,,Julia Glushko,R,171,ISR,26.8,7-6(3) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,267,176,170,330
 2016-W-WITF-AUS-13A-2016,Canberra $50K,Hard,28,50,20161031,281,205815,6,,Eri Hozumi,R,168,JPN,22.7,201598,,,Noppawan Lertcheewakarn,R,167,THA,24.9,7-6(4) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,199,276,443,75
 2016-W-WITF-AUS-13A-2016,Canberra $50K,Hard,28,50,20161031,280,213544,7,,Jana Fett,R,168,CRO,19.9,215018,,,Destanee Aiava,R,175,AUS,16.4,6-2 4-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,194,282,373,98
 2016-W-WITF-AUS-13A-2016,Canberra $50K,Hard,28,50,20161031,279,203556,,,Yuuki Tanaka,L,160,JPN,26.6,201679,,,Varatchaya Wongteanchai,R,169,THA,27.1,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,356,110,252,188
 2016-W-WITF-AUS-13A-2016,Canberra $50K,Hard,28,50,20161031,278,203526,,,Tammi Patterson,R,167,AUS,26.8,202636,,,Zuzana Zlochova,R,,SVK,26.7,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,391,91,419,84
 2016-W-WITF-AUS-13A-2016,Canberra $50K,Hard,28,50,20161031,277,211333,,Q,Georgia Brescia,R,,ITA,20.7,206075,2,,Hiroko Kuwata,R,,JPN,25.8,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,433,79,160,351
-2016-W-WITF-AUS-13A-2016,Canberra $50K,Hard,28,50,20161031,276,203552,1,,Risa Ozaki,R,163,JPN,22.5,201613,5,,Arina Rodionova,R,168,RUS,26.8,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,103,613,185,300
+2016-W-WITF-AUS-13A-2016,Canberra $50K,Hard,28,50,20161031,276,203552,1,,Risa Ozaki,R,163,JPN,22.5,201613,5,,Arina Rodionova,R,168,AUS,26.8,6-4 6-3,3,QF,,,,,,,,,,,,,,,,,,,,103,613,185,300
 2016-W-WITF-AUS-13A-2016,Canberra $50K,Hard,28,50,20161031,275,202495,,,Jennifer Elie,R,,USA,30.1,205815,6,,Eri Hozumi,R,168,JPN,22.7,7-5 6-3,3,QF,,,,,,,,,,,,,,,,,,,,267,176,199,276
 2016-W-WITF-AUS-13A-2016,Canberra $50K,Hard,28,50,20161031,274,213544,7,,Jana Fett,R,168,CRO,19.9,203556,,,Yuuki Tanaka,L,160,JPN,26.6,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,194,282,356,110
 2016-W-WITF-AUS-13A-2016,Canberra $50K,Hard,28,50,20161031,273,211333,,Q,Georgia Brescia,R,,ITA,20.7,203526,,,Tammi Patterson,R,167,AUS,26.8,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,433,79,391,91
@@ -17730,7 +17730,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-0300,Luxembourg,Hard,32,I,20161017,254,201697,1,,Kristyna Pliskova,L,184,CZE,24.5,202478,,,Tara Moore,R,163,GBR,24.1,7-5 3-6 6-3,3,Q3,126,8,10,103,55,39,24,15,7,10,4,5,96,56,36,22,15,4,8,62,965,174,333
 2016-0405,Japan Open Tokyo,Hard,32,I,20160912,242,201679,,,Varatchaya Wongteanchai,R,169,THA,27.0,202503,6,,Luksika Kumkhum,R,167,THA,23.1,6-3 1-6 6-4,3,Q1,126,2,5,89,50,29,15,13,3,9,3,6,80,39,22,19,13,5,11,334,120,154,368
 2016-0405,Japan Open Tokyo,Hard,32,I,20160912,243,211351,,,Ayaka Okuno,R,170,JPN,21.2,202939,,,Makoto Ninomiya,R,157,JPN,22.2,6-3 6-1,3,Q1,69,0,4,56,26,14,19,8,2,4,1,6,54,34,19,5,8,2,8,312,133,378,96
-2016-0405,Japan Open Tokyo,Hard,32,I,20160912,244,204291,,,Na Lae Han,L,,KOR,24.1,201613,,,Arina Rodionova,R,168,RUS,26.7,4-6 6-4 6-4,3,Q1,165,2,6,124,61,33,30,15,14,21,0,4,109,76,37,16,15,12,20,179,305,190,282
+2016-0405,Japan Open Tokyo,Hard,32,I,20160912,244,204291,,,Na Lae Han,L,,KOR,24.1,201613,,,Arina Rodionova,R,168,AUS,26.7,4-6 6-4 6-4,3,Q1,165,2,6,124,61,33,30,15,14,21,0,4,109,76,37,16,15,12,20,179,305,190,282
 2016-0405,Japan Open Tokyo,Hard,32,I,20160912,245,202490,3,,Rebecca Peterson,R,173,SWE,21.1,203553,,,Riko Sawayanagi,R,163,JPN,21.8,7-6(3) 6-1,3,Q1,103,6,3,59,37,22,17,9,3,4,3,6,72,42,24,12,10,5,9,124,466,234,210
 2016-0405,Japan Open Tokyo,Hard,32,I,20160912,246,202454,,,Erika Sema,R,163,JPN,27.8,206075,7,,Hiroko Kuwata,R,,JPN,25.7,6-3 6-3,3,Q1,95,0,2,51,36,19,8,9,3,7,0,6,73,38,16,15,9,7,14,352,108,151,375
 2016-0405,Japan Open Tokyo,Hard,32,I,20160912,247,201703,,,Yi Fan Xu,L,165,CHN,28.0,201339,,,Renata Voracova,R,,CZE,32.9,6-0 6-2,3,Q1,57,2,2,53,36,26,9,7,6,6,0,4,45,31,12,5,7,2,7,335,119,776,19
@@ -17862,7 +17862,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-0656,Quebec City,Hard,32,I,20160912,268,203281,2,,Amandine Hesse,R,164,FRA,23.6,203518,9,,Paula Kania,R,168,POL,23.8,2-6 6-4 7-5,3,Q2,146,8,5,101,49,36,23,15,6,10,4,6,129,88,53,20,15,10,14,174,321,205,251
 2016-0656,Quebec City,Hard,32,I,20160912,269,201616,1,,Lauren Davis,R,157,USA,22.9,206349,7,,Mayo Hibi,R,165,JPN,20.4,6-1 6-3,3,Q2,73,5,2,45,32,23,7,8,1,2,1,0,51,34,18,5,8,2,7,104,609,217,237
 2016-0703,Stanford,Hard,32,P,20160718,258,203500,,,Sachia Vickery,R,162,USA,21.1,201703,,,Yi Fan Xu,L,165,CHN,27.9,6-3 6-2,3,Q1,65,5,2,56,31,22,17,9,5,6,0,1,58,30,16,13,8,6,10,204,269,330,120
-2016-0703,Stanford,Hard,32,P,20160718,259,203501,4,,Taylor Townsend,L,170,USA,20.2,201613,,,Arina Rodionova,R,168,RUS,26.5,3-6 7-5 6-4,3,Q1,135,1,2,101,63,43,19,15,6,9,1,1,90,68,45,10,16,4,8,148,386,235,223
+2016-0703,Stanford,Hard,32,P,20160718,259,203501,4,,Taylor Townsend,L,170,USA,20.2,201613,,,Arina Rodionova,R,168,AUS,26.5,3-6 7-5 6-4,3,Q1,135,1,2,101,63,43,19,15,6,9,1,1,90,68,45,10,16,4,8,148,386,235,223
 2016-0703,Stanford,Hard,32,P,20160718,260,201377,,,Yuliya Beygelzimer,R,174,UKR,32.7,201456,7,,Olga Savchuk,R,175,UKR,28.8,6-4 6-1,3,Q1,79,2,0,58,43,27,5,8,5,8,0,8,58,26,12,10,9,9,16,555,46,191,287
 2016-0703,Stanford,Hard,32,P,20160718,261,202536,3,,Ana Bogdan,R,171,ROU,23.6,202500,,,Maria Sanchez,R,178,USA,26.6,6-1 6-2,3,Q1,62,0,2,50,33,23,11,8,3,4,2,8,48,29,15,6,7,8,13,135,415,279,157
 2016-0703,Stanford,Hard,32,P,20160718,262,201501,6,,Olga Govortsova,R,182,BLR,27.9,216581,,WC,Melissa Lord,R,170,USA,19.0,6-2 6-3,3,Q1,69,1,3,39,19,16,11,8,0,2,1,7,67,43,19,11,9,4,10,186,291,,
@@ -18043,7 +18043,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-1005,Rabat,Clay,32,I,20160425,251,201370,,,Anastasia Rodionova,R,167,AUS,33.9,206408,,,Nadia Podoroska,R,170,ARG,19.2,3-1 RET,3,Q1,18,1,0,11,8,6,2,2,0,0,2,2,18,12,8,2,2,1,2,391,90,334,117
 2016-1005,Rabat,Clay,32,I,20160425,252,206007,,,Laura Pigossi,R,164,BRA,21.7,216372,,WC,Ikram Rassif,U,,MAR,16.2,6-0 6-0,3,Q1,47,0,4,34,20,16,8,6,0,0,0,3,37,23,9,1,6,3,9,411,84,,
 2016-1005,Rabat,Clay,32,I,20160425,254,201290,7,,Daniela Hantuchova,R,181,SVK,33.0,202707,,,Myrtille Georges,R,174,FRA,25.3,6-3 6-2,3,Q1,90,0,3,56,32,22,12,9,4,6,1,10,73,44,20,13,8,9,14,175,312,202,258
-2016-1005,Rabat,Clay,32,I,20160425,255,204427,,,Sara Sorribes Tormo,R,176,ESP,19.5,201613,,,Arina Rodionova,R,168,RUS,26.3,6-2 7-5,3,Q1,93,0,14,69,40,25,11,10,5,10,0,1,53,40,14,5,10,2,10,208,250,228,220
+2016-1005,Rabat,Clay,32,I,20160425,255,204427,,,Sara Sorribes Tormo,R,176,ESP,19.5,201613,,,Arina Rodionova,R,168,AUS,26.3,6-2 7-5,3,Q1,93,0,14,69,40,25,11,10,5,10,0,1,53,40,14,5,10,2,10,208,250,228,220
 2016-1005,Rabat,Clay,32,I,20160425,256,203379,,,Marina Melnikova,R,173,RUS,27.2,211965,,,Jasmin Jebawy,U,,GER,19.5,6-2 6-0,3,Q1,69,1,9,53,24,16,17,7,4,5,1,3,45,33,14,2,7,3,9,248,193,700,25
 2016-1005,Rabat,Clay,32,I,20160425,258,201466,8,,Kaia Kanepi,R,181,EST,30.8,215417,,WC,Abir El Fahimi,U,,MAR,20.5,6-1 6-1,3,Q2,50,1,3,48,28,16,13,7,5,7,0,8,43,21,8,4,7,5,12,179,298,,
 2016-1005,Rabat,Clay,32,I,20160425,259,202480,4,,Richel Hogenkamp,R,168,NED,24.0,214544,,,Aryna Sabalenka,R,182,BLR,17.9,2-6 6-1 6-2,3,Q2,86,5,9,77,33,25,18,12,3,7,2,10,63,28,19,13,11,5,11,139,403,263,174
@@ -18297,7 +18297,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-1052,Birmingham,Grass,32,P,20160613,268,201450,5,,Tsvetana Pironkova,R,180,BUL,28.7,201435,2,,Kateryna Bondarenko,R,175,UKR,29.8,7-5 6-4,3,Q3,79,0,2,63,40,25,13,11,0,3,3,7,74,51,31,7,11,6,11,72,944,65,993
 2016-1052,Birmingham,Grass,32,P,20160613,269,201481,,,Tamira Paszek,R,165,AUT,25.5,201588,,,Anna Tatishvili,R,171,GEO,26.3,6-3 6-2,3,Q3,86,4,2,81,52,39,11,9,9,10,1,2,48,33,15,8,8,2,6,119,535,105,626
 2016-1056,Tokyo,Hard,32,P,20160919,242,205925,6,,Aliaksandra Sasnovich,R,174,BLR,22.4,202681,,,Gabriela Dabrowski,R,175,CAN,24.4,6-3 6-1,3,Q1,59,1,1,49,25,16,16,8,3,4,3,3,50,28,18,6,8,6,11,107,602,595,39
-2016-1056,Tokyo,Hard,32,P,20160919,243,201613,,,Arina Rodionova,R,168,RUS,26.7,201487,,,Jessica Moore,R,167,AUS,26.0,6-0 6-2,3,Q1,54,0,2,38,23,18,8,7,1,2,1,7,45,26,15,2,7,5,11,194,282,370,100
+2016-1056,Tokyo,Hard,32,P,20160919,243,201613,,,Arina Rodionova,R,168,AUS,26.7,201487,,,Jessica Moore,R,167,AUS,26.0,6-0 6-2,3,Q1,54,0,2,38,23,18,8,7,1,2,1,7,45,26,15,2,7,5,11,194,282,370,100
 2016-1056,Tokyo,Hard,32,P,20160919,244,215988,,WC,Mai Hontama,R,,JPN,17.0,201401,,,Abigail Spears,R,175,USA,35.1,7-5 6-3,3,Q1,84,1,6,83,45,29,21,11,7,9,5,1,59,34,23,9,10,3,7,,,,
 2016-1056,Tokyo,Hard,32,P,20160919,245,203504,,,Miyu Kato,R,156,JPN,21.8,206075,9,,Hiroko Kuwata,R,,JPN,25.7,6-1 5-7 6-4,3,Q1,150,2,1,89,67,46,11,15,2,5,1,4,105,68,38,21,14,12,17,185,297,155,363
 2016-1056,Tokyo,Hard,32,P,20160919,246,202663,5,,Magda Linette,R,171,POL,24.6,214539,,WC,Yuki Kristina Chiang,U,,USA,21.0,6-0 7-5,3,Q1,73,3,1,49,27,24,13,9,2,2,1,6,60,32,19,13,9,2,6,109,583,564,45
@@ -18312,7 +18312,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-1056,Tokyo,Hard,32,P,20160919,255,201290,,,Daniela Hantuchova,R,181,SVK,33.4,216044,,WC,Yuki Naito,R,,JPN,15.5,6-1 6-2,3,Q1,53,1,2,38,20,18,12,8,0,1,3,1,38,20,9,7,7,2,7,251,194,,
 2016-1056,Tokyo,Hard,32,P,20160919,256,206107,,,Zhaoxuan Yang,R,,CHN,21.6,202498,,,Julia Glushko,R,171,ISR,26.7,6-4 6-0,3,Q1,75,0,2,42,24,15,13,8,1,3,1,0,50,27,11,10,8,2,8,277,162,174,327
 2016-1056,Tokyo,Hard,32,P,20160919,257,201435,1,,Kateryna Bondarenko,R,175,UKR,30.1,201482,,,Andreja Klepac,R,,SLO,30.5,6-1 6-1,3,Q1,48,2,1,39,24,17,13,7,2,2,1,3,46,28,13,5,7,0,5,62,965,1233,3
-2016-1056,Tokyo,Hard,32,P,20160919,258,205925,6,,Aliaksandra Sasnovich,R,174,BLR,22.4,201613,,,Arina Rodionova,R,168,RUS,26.7,6-2 6-3,3,Q2,83,1,3,73,43,27,14,9,8,11,1,3,63,43,21,6,8,6,12,107,602,194,282
+2016-1056,Tokyo,Hard,32,P,20160919,258,205925,6,,Aliaksandra Sasnovich,R,174,BLR,22.4,201613,,,Arina Rodionova,R,168,AUS,26.7,6-2 6-3,3,Q2,83,1,3,73,43,27,14,9,8,11,1,3,63,43,21,6,8,6,12,107,602,194,282
 2016-1056,Tokyo,Hard,32,P,20160919,259,203504,,,Miyu Kato,R,156,JPN,21.8,215988,,WC,Mai Hontama,R,,JPN,17.0,6-2 6-1,3,Q2,59,0,1,43,32,22,6,7,4,5,0,6,43,31,11,4,8,4,10,185,297,,
 2016-1056,Tokyo,Hard,32,P,20160919,260,202663,5,,Magda Linette,R,171,POL,24.6,202939,,WC,Makoto Ninomiya,R,157,JPN,22.3,6-4 6-0,3,Q2,73,2,1,51,34,25,9,8,0,1,1,4,76,51,25,11,8,10,15,109,583,403,87
 2016-1056,Tokyo,Hard,32,P,20160919,261,211702,3,,Nao Hibino,R,163,JPN,21.8,202693,,,Ya Hsuan Lee,R,165,TPE,21.1,6-7(2) 6-3 6-4,3,Q2,136,5,5,106,71,35,23,15,7,12,4,6,114,82,47,12,16,15,23,76,864,268,176
@@ -18578,7 +18578,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-1082,Prague,Clay,32,I,20160425,268,201447,,,Vania King,R,165,USA,27.1,202702,,,Tereza Smitkova,R,176,CZE,21.5,6-1 6-3,3,Q3,62,0,0,53,37,25,12,8,1,1,1,2,56,42,22,5,8,3,7,170,321,161,355
 2016-1082,Prague,Clay,32,I,20160425,269,201514,5,,Sorana Cirstea,R,176,ROU,26.0,203281,,,Amandine Hesse,R,164,FRA,23.2,7-6(2) 4-6 6-2,3,Q3,128,2,1,86,55,40,13,15,1,5,4,4,110,57,36,27,15,5,10,131,466,160,358
 2016-1083,Dalian,Hard,32,C,20160905,258,201631,7,,Nicha Lertpitaksinchai,R,174,THA,25.0,201487,,,Jessica Moore,R,167,AUS,26.0,6-2 6-3,3,Q1,81,2,5,43,21,19,11,8,0,1,2,7,72,38,22,12,9,8,13,318,127,370,100
-2016-1083,Dalian,Hard,32,C,20160905,259,201582,4,,Jing Jing Lu,R,170,CHN,27.3,206294,,WC,Yue Yuan,U,184,CHN,25.1,6-4 6-2,3,Q1,76,2,8,63,38,27,10,9,6,8,2,3,59,33,16,12,9,5,10,218,240,1134,5
+2016-1083,Dalian,Hard,32,C,20160905,259,201582,4,,Jing Jing Lu,R,170,CHN,27.3,206294,,WC,Yue Yuan,R,184,CHN,17.9,6-4 6-2,3,Q1,76,2,8,63,38,27,10,9,6,8,2,3,59,33,16,12,9,5,10,218,240,1134,5
 2016-1083,Dalian,Hard,32,C,20160905,260,202695,5,,Aleksandrina Naydenova,R,170,BUL,24.5,201399,,,Emily Webley Smith,R,,GBR,32.1,6-2 6-1,3,Q1,54,2,3,47,28,15,11,8,1,4,0,7,46,15,8,7,7,4,11,252,187,485,61
 2016-1083,Dalian,Hard,32,C,20160905,261,214646,,,Xiaodi You,U,,CHN,20.3,202693,3,,Ya Hsuan Lee,R,165,TPE,21.1,6-3 6-4,3,Q1,77,3,6,63,37,23,11,10,4,8,0,3,54,34,17,6,9,1,7,424,82,203,258
 2016-1083,Dalian,Hard,32,C,20160905,262,206102,6,,Ankita Raina,R,163,IND,23.6,214181,,,Anastasia Gasanova,R,,RUS,17.3,6-4 7-6(3),3,Q1,123,2,5,73,47,22,9,11,5,12,0,3,83,64,29,6,11,9,17,289,144,412,87
@@ -18883,7 +18883,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-560,US Open,Hard,128,G,20160829,127,202479,,,Grace Min,R,163,USA,22.3,202426,21,,Julia Boserup,R,181,USA,24.9,6-4 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,145,399,127,462
 2016-560,US Open,Hard,128,G,20160829,128,206374,,,Yafan Wang,R,170,CHN,22.3,201523,8,,Marina Erakovic,R,174,NZL,28.4,7-6(5) 4-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,163,337,114,531
 2016-560,US Open,Hard,128,G,20160829,129,211063,,,Valeriya Strakhova,R,,UKR,21.2,202477,,,Dinah Pfizenmaier,R,171,GER,24.6,6-2 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,258,182,,
-2016-560,US Open,Hard,128,G,20160829,130,201613,,,Arina Rodionova,R,168,RUS,26.7,205591,,,Paula Cristina Goncalves,R,173,BRA,26.0,7-6(2) 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,199,267,160,350
+2016-560,US Open,Hard,128,G,20160829,130,201613,,,Arina Rodionova,R,168,AUS,26.7,205591,,,Paula Cristina Goncalves,R,173,BRA,26.0,7-6(2) 7-5,3,Q1,,,,,,,,,,,,,,,,,,,,199,267,160,350
 2016-560,US Open,Hard,128,G,20160829,131,201580,19,,Xinyun Han,L,172,CHN,26.2,213525,,,Jil Teichmann,L,170,SUI,19.1,7-6(6) 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,125,480,212,248
 2016-560,US Open,Hard,128,G,20160829,132,203501,,,Taylor Townsend,L,170,USA,20.3,206404,9,,Elizaveta Kulichkova,R,,RUS,20.3,6-4 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,146,398,115,529
 2016-560,US Open,Hard,128,G,20160829,133,201456,,,Olga Savchuk,R,175,UKR,28.9,210672,,,Polina Leykina,R,,RUS,21.9,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,264,173,216,243
@@ -18932,7 +18932,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-560,US Open,Hard,128,G,20160829,176,202421,7,,Alison Van Uytvanck,R,173,BEL,22.4,201556,,,Lucie Hradecka,R,177,CZE,31.2,7-5 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,112,546,174,314
 2016-560,US Open,Hard,128,G,20160829,177,214263,,,Catherine Cartan Bellis,R,,USA,17.3,202479,,,Grace Min,R,163,USA,22.3,6-4 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,158,361,145,399
 2016-560,US Open,Hard,128,G,20160829,178,206374,,,Yafan Wang,R,170,CHN,22.3,211063,,,Valeriya Strakhova,R,,UKR,21.2,6-4 7-6(7),3,Q2,,,,,,,,,,,,,,,,,,,,163,337,258,182
-2016-560,US Open,Hard,128,G,20160829,179,201580,19,,Xinyun Han,L,172,CHN,26.2,201613,,,Arina Rodionova,R,168,RUS,26.7,6-3 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,125,480,199,267
+2016-560,US Open,Hard,128,G,20160829,179,201580,19,,Xinyun Han,L,172,CHN,26.2,201613,,,Arina Rodionova,R,168,AUS,26.7,6-3 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,125,480,199,267
 2016-560,US Open,Hard,128,G,20160829,180,203501,,,Taylor Townsend,L,170,USA,20.3,201456,,,Olga Savchuk,R,175,UKR,28.9,6-0 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,146,398,264,173
 2016-560,US Open,Hard,128,G,20160829,181,206108,18,,Jennifer Brady,R,178,USA,21.3,202498,,,Julia Glushko,R,171,ISR,26.6,6-4 6-0,3,Q2,,,,,,,,,,,,,,,,,,,,124,488,148,393
 2016-560,US Open,Hard,128,G,20160829,182,203552,10,,Risa Ozaki,R,163,JPN,22.3,204291,,,Na Lae Han,L,,KOR,24.1,6-1 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,113,541,194,277
@@ -18994,7 +18994,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-580,Australian Open,Hard,128,G,20160118,126,202450,,,Jana Cepelova,R,168,SVK,22.6,202705,,,Veronica Cepede Royg,R,163,PAR,23.9,6-2 6-4,3,Q1,,,,,,,,,,,,,,,,,,,,140,404,130,427
 2016-580,Australian Open,Hard,128,G,20160118,127,203500,15,,Sachia Vickery,R,162,USA,20.6,206362,,,Naiktha Bains,R,174,GBR,18.0,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,128,435,609,36
 2016-580,Australian Open,Hard,128,G,20160118,128,202504,8,,Ying Ying Duan,R,186,CHN,26.5,201549,,,Petra Martic,R,181,CRO,24.9,6-1 6-2,3,Q1,,,,,,,,,,,,,,,,,,,,117,527,148,377
-2016-580,Australian Open,Hard,128,G,20160118,129,201613,,,Arina Rodionova,R,168,RUS,26.0,202626,,,Stephanie Vogt,R,167,LIE,25.9,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,314,132,197,253
+2016-580,Australian Open,Hard,128,G,20160118,129,201613,,,Arina Rodionova,R,168,AUS,26.0,202626,,,Stephanie Vogt,R,167,LIE,25.9,6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,314,132,197,253
 2016-580,Australian Open,Hard,128,G,20160118,130,203530,,,Viktorija Golubic,R,169,SUI,23.2,201485,,,Alla Kudryavtseva,R,178,RUS,28.2,4-6 6-4 6-1,3,Q1,,,,,,,,,,,,,,,,,,,,149,377,235,200
 2016-580,Australian Open,Hard,128,G,20160118,131,204246,,,Lesley Pattinama Kerkhove,R,172,NED,24.2,202490,20,,Rebecca Peterson,R,173,SWE,20.4,7-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,195,254,135,420
 2016-580,Australian Open,Hard,128,G,20160118,132,201527,9,,Stefanie Voegele,R,170,SUI,25.8,214295,,,Tereza Mihalikova,R,179,SVK,17.6,7-6 6-3,3,Q1,,,,,,,,,,,,,,,,,,,,118,522,563,44
@@ -19027,7 +19027,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-580,Australian Open,Hard,128,G,20160118,159,201533,18,,Shuai Zhang,R,177,CHN,26.9,206124,,,Tereza Martincova,R,178,CZE,21.2,6-1 7-6,3,Q2,,,,,,,,,,,,,,,,,,,,133,423,173,301
 2016-580,Australian Open,Hard,128,G,20160118,160,201697,7,,Kristyna Pliskova,L,184,CZE,23.8,204434,,,Ysaline Bonaventure,L,178,BEL,21.3,7-5 6-1,3,Q2,,,,,,,,,,,,,,,,,,,,114,548,165,336
 2016-580,Australian Open,Hard,128,G,20160118,161,203500,15,,Sachia Vickery,R,162,USA,20.6,202450,,,Jana Cepelova,R,168,SVK,22.6,6-4 7-5,3,Q2,,,,,,,,,,,,,,,,,,,,128,435,140,404
-2016-580,Australian Open,Hard,128,G,20160118,162,201613,,,Arina Rodionova,R,168,RUS,26.0,202504,8,,Ying Ying Duan,R,186,CHN,26.5,2-1 RET,3,Q2,,,,,,,,,,,,,,,,,,,,314,132,117,527
+2016-580,Australian Open,Hard,128,G,20160118,162,201613,,,Arina Rodionova,R,168,AUS,26.0,202504,8,,Ying Ying Duan,R,186,CHN,26.5,2-1 RET,3,Q2,,,,,,,,,,,,,,,,,,,,314,132,117,527
 2016-580,Australian Open,Hard,128,G,20160118,163,203530,,,Viktorija Golubic,R,169,SUI,23.2,204246,,,Lesley Pattinama Kerkhove,R,172,NED,24.2,7-5 6-2,3,Q2,,,,,,,,,,,,,,,,,,,,149,377,195,254
 2016-580,Australian Open,Hard,128,G,20160118,164,202503,,,Luksika Kumkhum,R,167,THA,22.4,201527,9,,Stefanie Voegele,R,170,SUI,25.8,6-3 6-4,3,Q2,,,,,,,,,,,,,,,,,,,,158,349,118,522
 2016-580,Australian Open,Hard,128,G,20160118,165,202498,16,,Julia Glushko,R,171,ISR,26.0,203281,,,Amandine Hesse,R,164,FRA,23.0,6-1 3-6 6-3,3,Q2,,,,,,,,,,,,,,,,,,,,129,430,166,332
@@ -19044,7 +19044,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-580,Australian Open,Hard,128,G,20160118,176,201545,5,,Anastasija Sevastova,R,169,LAT,25.7,202426,,,Julia Boserup,R,181,USA,24.3,4-6 6-3 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,113,551,198,253
 2016-580,Australian Open,Hard,128,G,20160118,177,201533,18,,Shuai Zhang,R,177,CHN,26.9,200043,,,Virginie Razzano,R,173,FRA,32.6,4-6 6-2 8-6,3,Q3,,,,,,,,,,,,,,,,,,,,133,423,210,241
 2016-580,Australian Open,Hard,128,G,20160118,178,201697,7,,Kristyna Pliskova,L,184,CZE,23.8,203500,15,,Sachia Vickery,R,162,USA,20.6,2-6 6-2 7-5,3,Q3,,,,,,,,,,,,,,,,,,,,114,548,128,435
-2016-580,Australian Open,Hard,128,G,20160118,179,203530,,,Viktorija Golubic,R,169,SUI,23.2,201613,,,Arina Rodionova,R,168,RUS,26.0,6-2 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,149,377,314,132
+2016-580,Australian Open,Hard,128,G,20160118,179,203530,,,Viktorija Golubic,R,169,SUI,23.2,201613,,,Arina Rodionova,R,168,AUS,26.0,6-2 6-1,3,Q3,,,,,,,,,,,,,,,,,,,,149,377,314,132
 2016-580,Australian Open,Hard,128,G,20160118,180,202503,,,Luksika Kumkhum,R,167,THA,22.4,202498,16,,Julia Glushko,R,171,ISR,26.0,6-4 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,158,349,129,430
 2016-580,Australian Open,Hard,128,G,20160118,181,202628,,,Maryna Zanevska,R,175,BEL,22.4,201547,,,Michelle Larcher De Brito,R,165,POR,22.9,6-3 7-5,3,Q3,,,,,,,,,,,,,,,,,,,,146,385,221,224
 2016-580,Australian Open,Hard,128,G,20160118,182,206289,,,Maria Sakkari,R,172,GRE,20.4,202684,,,Lin Zhu,R,173,CHN,21.9,6-3 6-2,3,Q3,,,,,,,,,,,,,,,,,,,,170,322,192,261
@@ -19053,7 +19053,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2016-M001,Sydney,Hard,32,P,20160111,244,202418,,,Lara Arruabarrena,R,166,ESP,23.8,211881,,WC,Olivia Tjandramulia,R,167,AUS,18.6,6-3 6-3,3,Q1,87,2,2,74,63,40,4,9,5,6,1,5,63,37,20,15,9,7,11,89,718,491,57
 2016-M001,Sydney,Hard,32,P,20160111,245,201517,,,Magdalena Rybarikova,R,180,SVK,27.2,202499,,,Donna Vekic,R,179,CRO,19.5,6-2 6-0,3,Q1,56,2,0,36,15,13,16,7,2,2,1,4,56,34,18,7,7,6,11,77,794,102,620
 2016-M001,Sydney,Hard,32,P,20160111,246,201402,,,Sesil Karatantcheva,R,171,KAZ,26.4,201468,4,,Yaroslava Shvedova,R,180,KAZ,28.3,4-1 RET,3,Q1,27,0,0,11,9,6,2,2,0,0,2,3,26,18,7,5,3,4,6,113,552,71,839
-2016-M001,Sydney,Hard,32,P,20160111,247,200002,5,,Mirjana Lucic,R,181,CRO,33.8,201613,,WC,Arina Rodionova,R,168,RUS,26.0,6-1 6-4,3,Q1,70,8,5,78,44,36,12,9,8,9,1,3,44,31,18,4,8,0,4,69,860,313,132
+2016-M001,Sydney,Hard,32,P,20160111,247,200002,5,,Mirjana Lucic,R,181,CRO,33.8,201613,,WC,Arina Rodionova,R,168,AUS,26.0,6-1 6-4,3,Q1,70,8,5,78,44,36,12,9,8,9,1,3,44,31,18,4,8,0,4,69,860,313,132
 2016-M001,Sydney,Hard,32,P,20160111,248,204411,,WC,Storm Sanders,L,166,AUS,21.4,206255,,Alt,Patricia Maria Tig,R,,ROU,21.4,4-6 6-2 6-3,3,Q1,111,1,2,73,44,33,14,14,0,4,0,10,83,47,27,15,13,11,17,383,95,123,483
 2016-M001,Sydney,Hard,32,P,20160111,249,201696,,,Laura Siegemund,R,168,GER,27.8,201516,,,Evgeniya Rodina,R,170,RUS,26.9,6-2 4-6 6-2,3,Q1,131,1,7,80,58,31,12,13,5,10,0,1,84,64,34,3,13,9,17,97,646,90,716
 2016-M001,Sydney,Hard,32,P,20160111,250,201556,3,,Lucie Hradecka,R,177,CZE,30.6,202663,,,Magda Linette,R,171,POL,23.9,6-3 6-3,3,Q1,70,1,5,44,20,16,12,9,0,2,2,5,58,36,18,8,9,4,9,57,971,93,699

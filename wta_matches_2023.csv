@@ -2739,9 +2739,9 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-FC-2023-QLS-M-KAZ-POL-01,BJK Cup QLS R1: KAZ vs POL,Clay,4,D,20230414,2,214981,,,Elena Rybakina,R,184,KAZ,23.8,216579,,,Weronika Falkowska,R,,POL,22.8,6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,7,4305,253,264
 2023-W-FC-2023-QLS-M-KAZ-POL-01,BJK Cup QLS R1: KAZ vs POL,Clay,4,D,20230414,3,214981,,,Elena Rybakina,R,184,KAZ,23.8,202663,,,Magda Linette,R,171,POL,31.1,6-4 6-2,3,RR,,,,,,,,,,,,,,,,,,,,7,4305,19,1810
 2023-W-FC-2023-QLS-M-ROU-SLO-01,BJK Cup QLS R1: ROU vs SLO,Clay,4,D,20230414,1,202536,,,Ana Bogdan,R,171,ROU,30.3,215219,,,Kaja Juvan,R,170,SLO,22.3,3-6 6-3 6-4,3,RR,,,,,,,,,,,,,,,,,,,,58,951,121,535
-2023-W-FC-2023-QLS-M-ROU-SLO-01,BJK Cup QLS R1: ROU vs SLO,Clay,4,D,20230414,2,260669,,,Jaqueline Adina Cristian,U,,ROU,,214461,,,Tamara Zidansek,R,168,SLO,25.2,6-1 4-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,,,102,637
+2023-W-FC-2023-QLS-M-ROU-SLO-01,BJK Cup QLS R1: ROU vs SLO,Clay,4,D,20230414,2,211713,,,Jaqueline Cristian,R,180,ROU,24.8,214461,,,Tamara Zidansek,R,168,SLO,25.2,6-1 4-6 6-3,3,RR,,,,,,,,,,,,,,,,,,,,180,375,102,637
 2023-W-FC-2023-QLS-M-ROU-SLO-01,BJK Cup QLS R1: ROU vs SLO,Clay,4,D,20230414,3,214461,,,Tamara Zidansek,R,168,SLO,25.2,202536,,,Ana Bogdan,R,171,ROU,30.3,3-6 7-6(4) 7-5,3,RR,,,,,,,,,,,,,,,,,,,,102,637,58,951
-2023-W-FC-2023-QLS-M-ROU-SLO-01,BJK Cup QLS R1: ROU vs SLO,Clay,4,D,20230414,4,215219,,,Kaja Juvan,R,170,SLO,22.3,260669,,,Jaqueline Adina Cristian,U,,ROU,,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,121,535,,
+2023-W-FC-2023-QLS-M-ROU-SLO-01,BJK Cup QLS R1: ROU vs SLO,Clay,4,D,20230414,4,215219,,,Kaja Juvan,R,170,SLO,22.3,211713,,,Jaqueline Cristian,R,180,ROU,24.8,6-2 6-4,3,RR,,,,,,,,,,,,,,,,,,,,121,535,180,375
 2023-W-FC-2023-QLS-M-SVK-ITA-01,BJK Cup QLS R1: SVK vs ITA,Hard,4,D,20230414,1,202429,,,Camila Giorgi,R,168,ITA,31.2,203533,,,Anna Karolina Schmiedlova,R,176,SVK,28.5,6-2 6-3,3,RR,,,,,,,,,,,,,,,,,,,,43,1214,96,681
 2023-W-FC-2023-QLS-M-SVK-ITA-01,BJK Cup QLS R1: SVK vs ITA,Hard,4,D,20230414,2,203354,,,Martina Trevisan,L,160,ITA,29.4,214149,,,Viktoria Kuzmova,R,,SVK,24.9,7-6(9) 6-3,3,RR,,,,,,,,,,,,,,,,,,,,20,1778,127,522
 2023-W-FC-2023-QLS-M-SVK-ITA-01,BJK Cup QLS R1: SVK vs ITA,Hard,4,D,20230414,3,203533,,,Anna Karolina Schmiedlova,R,176,SVK,28.5,211148,,,Jasmine Paolini,R,160,ITA,27.2,6-1 4-6 6-4,3,RR,,,,,,,,,,,,,,,,,,,,96,681,66,841
@@ -2783,7 +2783,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-FC-2023-POS,BJK Cup Playoffs,Hard,16,D,20231110,102,211702,,,Nao Hibino,R,163,JPN,28.9,202464,,,Yuliana Lizarazo,R,175,COL,30.4,6-2 6-4,3,RR,,3,1,55,34,24,9,9,4,6,2,1,55,26,17,9,9,2,7,90,774,823,31
 2023-W-FC-2023-POS,BJK Cup Playoffs,Hard,16,D,20231110,103,211817,,,Elena Gabriela Ruse,U,,ROU,26.0,239392,,,Mia Ristic,U,,SRB,17.4,7-6(2) 6-3,3,RR,,3,2,69,46,30,8,11,7,12,1,3,66,40,20,8,10,3,9,125,573,353,171
 2023-W-FC-2023-POS,BJK Cup Playoffs,Hard,16,D,20231110,104,220699,,,Julia Riera,U,,ARG,21.4,203533,,,Anna Karolina Schmiedlova,R,176,SVK,29.1,7-5 7-5,3,RR,,3,1,77,53,39,9,12,2,5,2,5,85,46,21,24,12,6,11,158,463,71,930
-2023-W-FC-2023-POS,BJK Cup Playoffs,Hard,16,D,20231110,105,260669,,,Jaqueline Adina Cristian,U,,ROU,,202434,,,Aleksandra Krunic,R,163,SRB,30.6,7-5 6-4,3,RR,,5,6,79,38,32,14,11,4,6,2,4,63,36,25,12,11,4,8,,,689,52
+2023-W-FC-2023-POS,BJK Cup Playoffs,Hard,16,D,20231110,105,211713,,,Jaqueline Cristian,R,180,ROU,25.4,202434,,,Aleksandra Krunic,R,163,SRB,30.6,7-5 6-4,3,RR,,5,6,79,38,32,14,11,4,6,2,4,63,36,25,12,11,4,8,98,735,689,52
 2023-W-FC-2023-POS,BJK Cup Playoffs,Hard,16,D,20231110,106,206007,,,Laura Pigossi,R,164,BRA,29.2,216213,,,Sohyun Park,U,,KOR,21.3,6-1 6-1,3,RR,,1,2,42,32,25,5,7,2,2,0,4,62,32,15,12,7,6,11,134,545,295,221
 2023-W-FC-2023-POS,BJK Cup Playoffs,Hard,16,D,20231110,107,214149,,,Viktoria Kuzmova,R,,SVK,25.5,206408,,,Nadia Podoroska,R,170,ARG,26.7,3-6 6-3 6-3,3,RR,,6,2,78,41,27,19,13,4,7,0,2,72,52,33,9,14,2,7,117,619,78,880
 2023-W-FC-2023-POS,BJK Cup Playoffs,Hard,16,D,20231110,108,206242,,,Beatriz Haddad Maia,L,185,BRA,27.4,220454,,,Yeon Woo Ku,U,,KOR,20.6,6-0 6-4,3,RR,,5,5,54,33,26,10,8,3,4,0,3,60,37,18,10,8,5,10,11,2855,505,101
@@ -2808,4 +2808,4 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2023-W-FC-2023-POS,BJK Cup Playoffs,Hard,16,D,20231110,127,201481,,,Tamira Paszek,R,165,AUT,32.9,205892,,,Giuliana Olmos,R,170,MEX,30.6,7-5 5-7 6-3,3,RR,,3,4,113,85,50,12,17,8,15,0,1,100,74,39,8,16,5,13,388,154,,
 2023-W-FC-2023-POS,BJK Cup Playoffs,Hard,16,D,20231110,128,211279,,,Harriet Dart,R,175,GBR,27.2,216385,,,Caijsa Wilda Hennemann,R,,SWE,22.6,7-5 6-2,3,RR,,1,0,61,32,23,17,10,1,2,0,3,62,38,19,14,10,3,7,138,530,532,91
 2023-W-FC-2023-POS,BJK Cup Playoffs,Hard,16,D,20231110,129,201518,,,Yanina Wickmayer,R,182,BEL,34.0,213646,,,Dalma Galfi,U,,HUN,25.2,6-2 6-7(4) 6-1,3,RR,,6,4,82,63,49,9,14,0,0,13,4,87,59,41,10,13,6,10,74,917,136,532
-2023-W-FC-2023-POS,BJK Cup Playoffs,Hard,16,D,20231110,130,260669,,,Jaqueline Adina Cristian,U,,ROU,,236957,,,Lola Radivojevic,U,,SRB,18.8,7-5 4-6 7-5,3,RR,,,,,,,,,,,,,,,,,,,,,,276,247
+2023-W-FC-2023-POS,BJK Cup Playoffs,Hard,16,D,20231110,130,211713,,,Jaqueline Cristian,R,180,ROU,25.4,236957,,,Lola Radivojevic,U,,SRB,18.8,7-5 4-6 7-5,3,RR,,,,,,,,,,,,,,,,,,,,98,735,276,247
