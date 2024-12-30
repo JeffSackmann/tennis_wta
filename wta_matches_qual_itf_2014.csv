@@ -910,7 +910,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-BEL-02A-2014,Knokke 10K,Clay,32,10,20140714,3,210703,,Q,Steffi Distelmans,U,,BEL,21.1,205983,,,Josepha Adam,R,,FRA,20.6,3-6 7-6(3) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,893,15,620,41
 2014-W-C10-BEL-02A-2014,Knokke 10K,Clay,32,10,20140714,4,210801,,Q,Catherine Chantraine,U,,BEL,21.3,201607,5,,Sally Peers,R,162,AUS,23.1,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,805,21,516,59
 2014-W-C10-BEL-02A-2014,Knokke 10K,Clay,32,10,20140714,5,203443,,Q,Sofie Oyen,R,160,BEL,22.4,206174,3,,Cecilia Costa Melgar,R,160,CHI,21.5,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,990,11,468,72
-2014-W-C10-BEL-02A-2014,Knokke 10K,Clay,32,10,20140714,6,204394,,,Valentini Grammatikopoulou,U,,GRE,17.4,214254,,Q,Alice Rame,U,,FRA,16.6,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,641,38,1062,9
+2014-W-C10-BEL-02A-2014,Knokke 10K,Clay,32,10,20140714,6,204394,,,Valentini Grammatikopoulou,U,,GRE,17.4,214254,,Q,Alice Rame,R,,FRA,16.6,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,641,38,1062,9
 2014-W-C10-BEL-02A-2014,Knokke 10K,Clay,32,10,20140714,7,213854,,WC,Elena Van Der Sypt,U,,BEL,16.9,212054,,Q,Amelie Intert,U,,GER,18.0,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1173,5,1034,10
 2014-W-C10-BEL-02A-2014,Knokke 10K,Clay,32,10,20140714,8,206184,,,Kelly Versteeg,U,,NED,19.6,206175,8,,Tess Sugnaux,R,,SUI,19.3,7-5 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,792,22,573,49
 2014-W-C10-BEL-02A-2014,Knokke 10K,Clay,32,10,20140714,9,211538,,,Carla Touly,U,,FRA,17.8,202894,7,,Justine Ozga,R,,GER,26.4,6-1 2-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,780,23,549,52
@@ -1819,7 +1819,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-CRO-08A-2014,Bol 10K,Clay,32,10,20140602,13,210741,5,Q,Iva Mekovec,R,,CRO,19.2,211759,,Q,Margaux Brabant,U,,BEL,17.7,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,492,69,,
 2014-W-C10-CRO-08A-2014,Bol 10K,Clay,32,10,20140602,14,213879,,Q,Barbara Kotelesova,U,,SVK,18.0,211980,,,Janneke Wikkerink,U,,NED,21.6,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,1049,10
 2014-W-C10-CRO-08A-2014,Bol 10K,Clay,32,10,20140602,15,211423,,Q,Lenka Kuncikova,U,,CZE,18.8,214025,,,Petra Granic,U,,CRO,16.4,7-5 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,1055,9
-2014-W-C10-CRO-08A-2014,Bol 10K,Clay,32,10,20140602,16,201683,2,,Bianca Botto,L,178,PER,22.9,214521,,WC,Lea Boskovic,U,,CRO,14.6,6-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,444,79,,
+2014-W-C10-CRO-08A-2014,Bol 10K,Clay,32,10,20140602,16,201683,2,,Bianca Botto,L,178,PER,22.9,214521,,WC,Lea Boskovic,R,,CRO,14.6,6-3 RET,3,R32,,,,,,,,,,,,,,,,,,,,444,79,,
 2014-W-C10-CRO-08A-2014,Bol 10K,Clay,32,10,20140602,17,203549,1,,Olga Ianchuk,R,,UKR,19.1,204380,,Q,Rebecca Poikajarvi,U,,SWE,21.3,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,380,106,,
 2014-W-C10-CRO-08A-2014,Bol 10K,Clay,32,10,20140602,18,206408,6,,Nadia Podoroska,R,170,ARG,17.3,211472,,,Oleksandra Korashvili,R,,UKR,18.2,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,524,59,633,39
 2014-W-C10-CRO-08A-2014,Bol 10K,Clay,32,10,20140602,19,210742,,Q,Mariana Drazic,R,,CRO,19.3,206034,,Q,Katerina Kaminkova,R,,CZE,20.3,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
@@ -3894,7 +3894,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-ESP-08A-2014,Monzon 10K,Hard,32,10,20140512,7,213703,,WC,Magda Aubets Macia,U,,ESP,17.2,214214,,,Alba Cortina Pou,U,,ESP,16.3,7-6(6) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-ESP-08A-2014,Monzon 10K,Hard,32,10,20140512,8,211956,6,,Ariadna Marti Riembau,R,,ESP,17.8,214444,,WC,Estela Perez Somarriba,U,,ESP,15.7,7-6(3) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,814,21,,
 2014-W-C10-ESP-08A-2014,Monzon 10K,Hard,32,10,20140512,9,203453,7,,Aranza Salut,R,170,ARG,22.8,213860,,,Ana Roman Dominguez,U,,ESP,17.3,6-7(3) 7-5 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,926,15,,
-2014-W-C10-ESP-08A-2014,Monzon 10K,Hard,32,10,20140512,10,213710,,Q,Cristina Bucsa,U,,ESP,16.3,214445,,,Mireia Polo,R,,ESP,16.6,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1257,3,,
+2014-W-C10-ESP-08A-2014,Monzon 10K,Hard,32,10,20140512,10,213710,,Q,Cristina Bucsa,R,,ESP,16.3,214445,,,Mireia Polo,R,,ESP,16.6,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1257,3,,
 2014-W-C10-ESP-08A-2014,Monzon 10K,Hard,32,10,20140512,11,213702,,,Marta Sexmilo Pascual,R,,ESP,17.9,211466,,Q,Anna Sokiran,U,,RUS,17.1,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-ESP-08A-2014,Monzon 10K,Hard,32,10,20140512,12,205963,4,,Giulia Sussarello,R,,ITA,21.9,211143,,,Julie Tringa,U,,FRA,22.1,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,563,53,1257,3
 2014-W-C10-ESP-08A-2014,Monzon 10K,Hard,32,10,20140512,13,204330,5,,Alice Savoretti,R,,ITA,21.9,204320,,,Maria Palhoto,R,,POR,19.8,6-3 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,698,33,1104,7
@@ -3905,13 +3905,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-ESP-08A-2014,Monzon 10K,Hard,32,10,20140512,18,213706,,,Irene Burillo Escorihuela,R,,ESP,16.8,214118,,Q,Luca Nagymihaly,U,,HUN,16.6,1-6 7-5 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-ESP-08A-2014,Monzon 10K,Hard,32,10,20140512,19,204263,3,WC,Janina Toljan,R,,AUT,24.1,203335,,Q,Veronica Saucedo,R,,ARG,28.2,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,521,61,,
 2014-W-C10-ESP-08A-2014,Monzon 10K,Hard,32,10,20140512,20,211956,6,,Ariadna Marti Riembau,R,,ESP,17.8,213703,,WC,Magda Aubets Macia,U,,ESP,17.2,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,814,21,,
-2014-W-C10-ESP-08A-2014,Monzon 10K,Hard,32,10,20140512,21,213710,,Q,Cristina Bucsa,U,,ESP,16.3,203453,7,,Aranza Salut,R,170,ARG,22.8,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1257,3,926,15
+2014-W-C10-ESP-08A-2014,Monzon 10K,Hard,32,10,20140512,21,213710,,Q,Cristina Bucsa,R,,ESP,16.3,203453,7,,Aranza Salut,R,170,ARG,22.8,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1257,3,926,15
 2014-W-C10-ESP-08A-2014,Monzon 10K,Hard,32,10,20140512,22,205963,4,,Giulia Sussarello,R,,ITA,21.9,213702,,,Marta Sexmilo Pascual,R,,ESP,17.9,6-2 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,563,53,,
 2014-W-C10-ESP-08A-2014,Monzon 10K,Hard,32,10,20140512,23,213567,,WC,Maria Jose Luque Moreno,U,,ESP,17.9,204330,5,,Alice Savoretti,R,,ITA,21.9,6-1 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,1257,3,698,33
 2014-W-C10-ESP-08A-2014,Monzon 10K,Hard,32,10,20140512,24,211316,,,Jessika Ponchet,R,,FRA,17.6,203406,2,,Lucia Cervera Vazquez,R,,ESP,23.0,5-7 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,1024,11,472,75
 2014-W-C10-ESP-08A-2014,Monzon 10K,Hard,32,10,20140512,25,206216,1,,Olga Saez Larra,U,,ESP,19.6,213706,,,Irene Burillo Escorihuela,R,,ESP,16.8,6-2 6-2,3,QF,,,,,,,,,,,,,,,,,,,,423,87,,
 2014-W-C10-ESP-08A-2014,Monzon 10K,Hard,32,10,20140512,26,204263,3,WC,Janina Toljan,R,,AUT,24.1,211956,6,,Ariadna Marti Riembau,R,,ESP,17.8,6-4 0-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,521,61,814,21
-2014-W-C10-ESP-08A-2014,Monzon 10K,Hard,32,10,20140512,27,205963,4,,Giulia Sussarello,R,,ITA,21.9,213710,,Q,Cristina Bucsa,U,,ESP,16.3,W/O,3,QF,,,,,,,,,,,,,,,,,,,,563,53,1257,3
+2014-W-C10-ESP-08A-2014,Monzon 10K,Hard,32,10,20140512,27,205963,4,,Giulia Sussarello,R,,ITA,21.9,213710,,Q,Cristina Bucsa,R,,ESP,16.3,W/O,3,QF,,,,,,,,,,,,,,,,,,,,563,53,1257,3
 2014-W-C10-ESP-08A-2014,Monzon 10K,Hard,32,10,20140512,28,213567,,WC,Maria Jose Luque Moreno,U,,ESP,17.9,211316,,,Jessika Ponchet,R,,FRA,17.6,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,1257,3,1024,11
 2014-W-C10-ESP-08A-2014,Monzon 10K,Hard,32,10,20140512,29,204263,3,WC,Janina Toljan,R,,AUT,24.1,206216,1,,Olga Saez Larra,U,,ESP,19.6,7-5 7-6(2),3,SF,,,,,,,,,,,,,,,,,,,,521,61,423,87
 2014-W-C10-ESP-08A-2014,Monzon 10K,Hard,32,10,20140512,30,213567,,WC,Maria Jose Luque Moreno,U,,ESP,17.9,205963,4,,Giulia Sussarello,R,,ITA,21.9,6-2 1-6 6-0,3,SF,,,,,,,,,,,,,,,,,,,,1257,3,563,53
@@ -3990,7 +3990,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-ESP-11A-2014,Madrid 10K,Clay,32,10,20140602,10,214273,,Q,Ksenia Kuznetsova,R,,RUS,16.3,211288,,,Mia Nicole Eklund,L,176,FIN,19.5,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,945,14
 2014-W-C10-ESP-11A-2014,Madrid 10K,Clay,32,10,20140602,11,211508,,,Josephine Boualem,U,,ESP,20.8,213557,,WC,Maria Gutierrez Carrasco,U,,ESP,16.7,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,783,23,,
 2014-W-C10-ESP-11A-2014,Madrid 10K,Clay,32,10,20140602,12,206216,4,,Olga Saez Larra,U,,ESP,19.7,213706,,LL,Irene Burillo Escorihuela,R,,ESP,16.8,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,415,90,1209,4
-2014-W-C10-ESP-11A-2014,Madrid 10K,Clay,32,10,20140602,13,213710,,Q,Cristina Bucsa,U,,ESP,16.4,205393,,,Agni Stefanou,U,,GRE,25.0,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1209,4,727,28
+2014-W-C10-ESP-11A-2014,Madrid 10K,Clay,32,10,20140602,13,213710,,Q,Cristina Bucsa,R,,ESP,16.4,205393,,,Agni Stefanou,U,,GRE,25.0,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1209,4,727,28
 2014-W-C10-ESP-11A-2014,Madrid 10K,Clay,32,10,20140602,14,211316,,,Jessika Ponchet,R,,FRA,17.6,206276,,,Ainhoa Atucha Gomez,L,,ESP,21.0,7-6(2) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,960,13,944,14
 2014-W-C10-ESP-11A-2014,Madrid 10K,Clay,32,10,20140602,15,206253,,,Ivonne Cavalle Reimers,R,,ESP,22.0,211730,,,Aleksandra Zenovka,U,,RUS,18.3,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,745,26,895,17
 2014-W-C10-ESP-11A-2014,Madrid 10K,Clay,32,10,20140602,16,202695,2,,Aleksandrina Naydenova,R,170,BUL,22.2,206189,,Q,Palina Dubavets,U,,BLR,17.4,1-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,340,123,,
@@ -4000,7 +4000,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-ESP-11A-2014,Madrid 10K,Clay,32,10,20140602,20,206418,,,Imane Maelle Kocher,R,,SUI,19.6,210870,8,,Natalia Siedliska,U,,POL,18.4,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,759,25,638,39
 2014-W-C10-ESP-11A-2014,Madrid 10K,Clay,32,10,20140602,21,206289,5,,Maria Sakkari,R,172,GRE,18.8,214273,,Q,Ksenia Kuznetsova,R,,RUS,16.3,6-4 7-5,3,R16,,,,,,,,,,,,,,,,,,,,425,85,,
 2014-W-C10-ESP-11A-2014,Madrid 10K,Clay,32,10,20140602,22,206216,4,,Olga Saez Larra,U,,ESP,19.7,211508,,,Josephine Boualem,U,,ESP,20.8,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,415,90,783,23
-2014-W-C10-ESP-11A-2014,Madrid 10K,Clay,32,10,20140602,23,211316,,,Jessika Ponchet,R,,FRA,17.6,213710,,Q,Cristina Bucsa,U,,ESP,16.4,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,960,13,1209,4
+2014-W-C10-ESP-11A-2014,Madrid 10K,Clay,32,10,20140602,23,211316,,,Jessika Ponchet,R,,FRA,17.6,213710,,Q,Cristina Bucsa,R,,ESP,16.4,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,960,13,1209,4
 2014-W-C10-ESP-11A-2014,Madrid 10K,Clay,32,10,20140602,24,206253,,,Ivonne Cavalle Reimers,R,,ESP,22.0,202695,2,,Aleksandrina Naydenova,R,170,BUL,22.2,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,745,26,340,123
 2014-W-C10-ESP-11A-2014,Madrid 10K,Clay,32,10,20140602,25,203406,6,,Lucia Cervera Vazquez,R,,ESP,23.1,203427,1,,Lena Marie Hofmann,R,,GER,23.3,6-3 3-6 6-1,3,QF,,,,,,,,,,,,,,,,,,,,486,70,316,138
 2014-W-C10-ESP-11A-2014,Madrid 10K,Clay,32,10,20140602,26,206418,,,Imane Maelle Kocher,R,,SUI,19.6,202419,3,,Barbara Luz,R,,POR,21.0,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,759,25,368,110
@@ -4015,7 +4015,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-ESP-12A-2014,Getxo 10K,Clay,32,10,20140707,4,206253,7,,Ivonne Cavalle Reimers,R,,ESP,22.1,213972,,,Ines Ibbou,R,,ALG,15.5,6-1 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,721,29,820,20
 2014-W-C10-ESP-12A-2014,Getxo 10K,Clay,32,10,20140707,5,203520,4,,Arabela Fernandez Rabener,U,,ESP,23.7,211317,,WC,Olaya Inclan Solis,U,,ESP,18.0,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,512,61,1175,5
 2014-W-C10-ESP-12A-2014,Getxo 10K,Clay,32,10,20140707,6,213557,,Q,Maria Gutierrez Carrasco,U,,ESP,16.8,205971,,WC,Leire Martinez Barredo,U,,ESP,23.2,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2014-W-C10-ESP-12A-2014,Getxo 10K,Clay,32,10,20140707,7,213710,,WC,Cristina Bucsa,U,,ESP,16.5,210583,,,Brandy Mina,L,,FRA,19.9,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1175,5,906,15
+2014-W-C10-ESP-12A-2014,Getxo 10K,Clay,32,10,20140707,7,213710,,WC,Cristina Bucsa,R,,ESP,16.5,210583,,,Brandy Mina,L,,FRA,19.9,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1175,5,906,15
 2014-W-C10-ESP-12A-2014,Getxo 10K,Clay,32,10,20140707,8,202656,5,,Estelle Cascino,R,,FRA,18.3,213567,,,Maria Jose Luque Moreno,U,,ESP,18.0,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,542,54,1050,9
 2014-W-C10-ESP-12A-2014,Getxo 10K,Clay,32,10,20140707,9,204330,8,,Alice Savoretti,R,,ITA,22.0,214145,,,Julia Payola,U,,ESP,16.4,6-0 6-4,3,R32,,,,,,,,,,,,,,,,,,,,699,31,845,18
 2014-W-C10-ESP-12A-2014,Getxo 10K,Clay,32,10,20140707,10,213728,,LL,Maria Del Rosario Canero Perez,U,,ESP,17.5,213860,,Q,Ana Roman Dominguez,U,,ESP,17.4,6-2 2-6 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -4028,7 +4028,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-ESP-12A-2014,Getxo 10K,Clay,32,10,20140707,17,206216,1,,Olga Saez Larra,U,,ESP,19.8,205924,,,Malin Ulvefeldt,R,,SWE,20.3,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,366,106,942,13
 2014-W-C10-ESP-12A-2014,Getxo 10K,Clay,32,10,20140707,18,206253,7,,Ivonne Cavalle Reimers,R,,ESP,22.1,213702,,WC,Marta Sexmilo Pascual,R,,ESP,18.0,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,721,29,,
 2014-W-C10-ESP-12A-2014,Getxo 10K,Clay,32,10,20140707,19,203520,4,,Arabela Fernandez Rabener,U,,ESP,23.7,213557,,Q,Maria Gutierrez Carrasco,U,,ESP,16.8,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,512,61,,
-2014-W-C10-ESP-12A-2014,Getxo 10K,Clay,32,10,20140707,20,202656,5,,Estelle Cascino,R,,FRA,18.3,213710,,WC,Cristina Bucsa,U,,ESP,16.5,2-6 6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,542,54,1175,5
+2014-W-C10-ESP-12A-2014,Getxo 10K,Clay,32,10,20140707,20,202656,5,,Estelle Cascino,R,,FRA,18.3,213710,,WC,Cristina Bucsa,R,,ESP,16.5,2-6 6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,542,54,1175,5
 2014-W-C10-ESP-12A-2014,Getxo 10K,Clay,32,10,20140707,21,204330,8,,Alice Savoretti,R,,ITA,22.0,213728,,LL,Maria Del Rosario Canero Perez,U,,ESP,17.5,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,699,31,,
 2014-W-C10-ESP-12A-2014,Getxo 10K,Clay,32,10,20140707,22,203406,3,,Lucia Cervera Vazquez,R,,ESP,23.2,211537,,Q,Mathilde Armitano,R,,FRA,17.0,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,434,80,,
 2014-W-C10-ESP-12A-2014,Getxo 10K,Clay,32,10,20140707,23,205790,6,,Alexandra Nancarrow,R,165,AUS,20.8,211508,,,Josephine Boualem,U,,ESP,20.9,7-6(5) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,525,57,798,22
@@ -4055,7 +4055,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-ESP-13A-2014,Valladolid 10K,Hard,32,10,20140721,13,205998,6,,Manisha Foster,U,,GBR,20.9,214754,,Q,Andrea Garcia Fernandez,U,,ESP,16.1,5-7 7-6(4) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,662,33,,
 2014-W-C10-ESP-13A-2014,Valladolid 10K,Hard,32,10,20140721,14,211508,,,Josephine Boualem,U,,ESP,20.9,213728,,Q,Maria Del Rosario Canero Perez,U,,ESP,17.5,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,772,23,1127,6
 2014-W-C10-ESP-13A-2014,Valladolid 10K,Hard,32,10,20140721,15,211956,,,Ariadna Marti Riembau,R,,ESP,18.0,214273,,Q,Ksenia Kuznetsova,R,,RUS,16.4,7-6(8) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,771,23,,
-2014-W-C10-ESP-13A-2014,Valladolid 10K,Hard,32,10,20140721,16,201440,2,WC,Laura Pous Tio,U,173,ESP,29.8,213710,,,Cristina Bucsa,U,,ESP,16.5,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,386,94,1174,5
+2014-W-C10-ESP-13A-2014,Valladolid 10K,Hard,32,10,20140721,16,201440,2,WC,Laura Pous Tio,U,173,ESP,29.8,213710,,,Cristina Bucsa,R,,ESP,16.5,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,386,94,1174,5
 2014-W-C10-ESP-13A-2014,Valladolid 10K,Hard,32,10,20140721,17,203463,1,,Nuria Parrizas Diaz,R,167,ESP,23.0,214692,,Q,Paula Del Cueto Castillo,U,,ESP,16.9,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,298,136,,
 2014-W-C10-ESP-13A-2014,Valladolid 10K,Hard,32,10,20140721,18,206253,7,,Ivonne Cavalle Reimers,R,,ESP,22.1,213860,,WC,Ana Roman Dominguez,U,,ESP,17.5,6-0 7-5,3,R16,,,,,,,,,,,,,,,,,,,,693,31,,
 2014-W-C10-ESP-13A-2014,Valladolid 10K,Hard,32,10,20140721,19,203520,3,,Arabela Fernandez Rabener,U,,ESP,23.7,211122,,,Charlotte Roemer,R,171,ECU,20.5,6-4 5-7 7-5,3,R16,,,,,,,,,,,,,,,,,,,,501,62,1026,10
@@ -4484,7 +4484,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-FRA-02A-2014,Saint Martin Guadeloupe 10K,Hard,32,10,20140113,8,203431,5,,Keren Shlomo,R,167,ISR,25.9,211452,,Q,Eva Raszkiewicz,U,,USA,21.0,2-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,586,51,,
 2014-W-C10-FRA-02A-2014,Saint Martin Guadeloupe 10K,Hard,32,10,20140113,9,211105,,SE,Akvile Parazinskaite,U,,LTU,17.1,203481,8,,Oceane Adam,R,,FRA,20.5,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,757,26
 2014-W-C10-FRA-02A-2014,Saint Martin Guadeloupe 10K,Hard,32,10,20140113,10,211021,,,Lea Tholey,L,,FRA,18.3,211486,,,Manon Peral,U,,FRA,19.8,4-6 7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,886,16,914,15
-2014-W-C10-FRA-02A-2014,Saint Martin Guadeloupe 10K,Hard,32,10,20140113,11,214254,,Q,Alice Rame,U,,FRA,16.1,211535,,,Camille Cheli,R,,FRA,20.4,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1090,8
+2014-W-C10-FRA-02A-2014,Saint Martin Guadeloupe 10K,Hard,32,10,20140113,11,214254,,Q,Alice Rame,R,,FRA,16.1,211535,,,Camille Cheli,R,,FRA,20.4,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,1090,8
 2014-W-C10-FRA-02A-2014,Saint Martin Guadeloupe 10K,Hard,32,10,20140113,12,210064,3,,Denise Muresan,R,,USA,24.4,213668,,,Alexandra Morozova,R,,USA,18.8,4-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,572,53,1140,6
 2014-W-C10-FRA-02A-2014,Saint Martin Guadeloupe 10K,Hard,32,10,20140113,13,213742,,Q,Maia A Magill,R,,USA,17.3,211019,7,,Audrey Albie,R,,FRA,19.2,7-6(2) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,708,33
 2014-W-C10-FRA-02A-2014,Saint Martin Guadeloupe 10K,Hard,32,10,20140113,14,210140,,Q,Pauline Lollia,R,,FRA,20.5,204415,,,Alexandra Riley,U,,USA,22.7,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,909,15
@@ -4495,7 +4495,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-FRA-02A-2014,Saint Martin Guadeloupe 10K,Hard,32,10,20140113,19,202662,4,,Camilla Rosatello,R,,ITA,18.6,210336,,,Rosalie Van Der Hoek,L,,NED,19.0,6-0 6-3,3,R16,,,,,,,,,,,,,,,,,,,,580,51,991,12
 2014-W-C10-FRA-02A-2014,Saint Martin Guadeloupe 10K,Hard,32,10,20140113,20,210931,,,Ching Wen Hsu,R,,TPE,17.4,203431,5,,Keren Shlomo,R,167,ISR,25.9,6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,843,19,586,51
 2014-W-C10-FRA-02A-2014,Saint Martin Guadeloupe 10K,Hard,32,10,20140113,21,211021,,,Lea Tholey,L,,FRA,18.3,211105,,SE,Akvile Parazinskaite,U,,LTU,17.1,7-5 6-0,3,R16,,,,,,,,,,,,,,,,,,,,886,16,,
-2014-W-C10-FRA-02A-2014,Saint Martin Guadeloupe 10K,Hard,32,10,20140113,22,210064,3,,Denise Muresan,R,,USA,24.4,214254,,Q,Alice Rame,U,,FRA,16.1,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,572,53,,
+2014-W-C10-FRA-02A-2014,Saint Martin Guadeloupe 10K,Hard,32,10,20140113,22,210064,3,,Denise Muresan,R,,USA,24.4,214254,,Q,Alice Rame,R,,FRA,16.1,6-0 6-1,3,R16,,,,,,,,,,,,,,,,,,,,572,53,,
 2014-W-C10-FRA-02A-2014,Saint Martin Guadeloupe 10K,Hard,32,10,20140113,23,213742,,Q,Maia A Magill,R,,USA,17.3,210140,,Q,Pauline Lollia,R,,FRA,20.5,7-6(6) 0-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-FRA-02A-2014,Saint Martin Guadeloupe 10K,Hard,32,10,20140113,24,203529,2,,Sonja Molnar,R,165,CAN,23.7,214008,,Q,Elizabeth Kilborn,U,,USA,22.9,6-1 3-6 7-6(3),3,R16,,,,,,,,,,,,,,,,,,,,527,61,,
 2014-W-C10-FRA-02A-2014,Saint Martin Guadeloupe 10K,Hard,32,10,20140113,25,202886,1,,Sherazad Benamar,L,,FRA,24.7,203212,,,Danielle Mills,L,,USA,22.7,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,455,81,1009,11
@@ -4514,7 +4514,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-FRA-03A-2014,Petit BourgGuadeloupe 10K,Hard,32,10,20140120,7,212029,,LL,Anais Emelie,U,,MRN,17.5,212031,,WC,Marthe Eugenie Sime,U,,GUD,15.1,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-FRA-03A-2014,Petit BourgGuadeloupe 10K,Hard,32,10,20140120,8,202699,,,Ryann Foster,U,,USA,17.4,203481,8,,Oceane Adam,R,,FRA,20.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-FRA-03A-2014,Petit BourgGuadeloupe 10K,Hard,32,10,20140120,9,201694,6,,Silvia Njiric,R,163,CRO,20.5,206071,,,Erin Clark,U,180,USA,25.6,6-3 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2014-W-C10-FRA-03A-2014,Petit BourgGuadeloupe 10K,Hard,32,10,20140120,10,214254,,WC,Alice Rame,U,,FRA,16.1,214253,,Q,Alexandra Champion,U,,USA,15.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2014-W-C10-FRA-03A-2014,Petit BourgGuadeloupe 10K,Hard,32,10,20140120,10,214254,,WC,Alice Rame,R,,FRA,16.1,214253,,Q,Alexandra Champion,U,,USA,15.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-FRA-03A-2014,Petit BourgGuadeloupe 10K,Hard,32,10,20140120,11,210140,,WC,Pauline Lollia,R,,FRA,20.6,211936,,,Parris Todd,U,,USA,15.5,6-2 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-FRA-03A-2014,Petit BourgGuadeloupe 10K,Hard,32,10,20140120,12,203358,,,Khristina Blajkevitch,R,,CAN,21.7,202662,4,,Camilla Rosatello,R,,ITA,18.6,6-0 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-FRA-03A-2014,Petit BourgGuadeloupe 10K,Hard,32,10,20140120,13,211019,7,,Audrey Albie,R,,FRA,19.2,211486,,,Manon Peral,U,,FRA,19.9,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -4525,13 +4525,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-FRA-03A-2014,Petit BourgGuadeloupe 10K,Hard,32,10,20140120,18,203431,5,,Keren Shlomo,R,167,ISR,26.0,210583,,,Brandy Mina,L,,FRA,19.4,7-6(0) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-FRA-03A-2014,Petit BourgGuadeloupe 10K,Hard,32,10,20140120,19,210064,3,,Denise Muresan,R,,USA,24.4,213742,,Q,Maia A Magill,R,,USA,17.3,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-FRA-03A-2014,Petit BourgGuadeloupe 10K,Hard,32,10,20140120,20,202699,,,Ryann Foster,U,,USA,17.4,212029,,LL,Anais Emelie,U,,MRN,17.5,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,,
-2014-W-C10-FRA-03A-2014,Petit BourgGuadeloupe 10K,Hard,32,10,20140120,21,214254,,WC,Alice Rame,U,,FRA,16.1,201694,6,,Silvia Njiric,R,163,CRO,20.5,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2014-W-C10-FRA-03A-2014,Petit BourgGuadeloupe 10K,Hard,32,10,20140120,21,214254,,WC,Alice Rame,R,,FRA,16.1,201694,6,,Silvia Njiric,R,163,CRO,20.5,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-FRA-03A-2014,Petit BourgGuadeloupe 10K,Hard,32,10,20140120,22,203358,,,Khristina Blajkevitch,R,,CAN,21.7,210140,,WC,Pauline Lollia,R,,FRA,20.6,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-FRA-03A-2014,Petit BourgGuadeloupe 10K,Hard,32,10,20140120,23,211019,7,,Audrey Albie,R,,FRA,19.2,213678,,Q,Ivana Horvat,U,,AUT,19.2,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-FRA-03A-2014,Petit BourgGuadeloupe 10K,Hard,32,10,20140120,24,211519,,,Wendy Qi Wen Zhang,U,,CAN,18.7,214008,,Q,Elizabeth Kilborn,U,,USA,22.9,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-FRA-03A-2014,Petit BourgGuadeloupe 10K,Hard,32,10,20140120,25,202886,1,,Sherazad Benamar,L,,FRA,24.7,203431,5,,Keren Shlomo,R,167,ISR,26.0,6-0 7-5,3,QF,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-FRA-03A-2014,Petit BourgGuadeloupe 10K,Hard,32,10,20140120,26,210064,3,,Denise Muresan,R,,USA,24.4,202699,,,Ryann Foster,U,,USA,17.4,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,,
-2014-W-C10-FRA-03A-2014,Petit BourgGuadeloupe 10K,Hard,32,10,20140120,27,203358,,,Khristina Blajkevitch,R,,CAN,21.7,214254,,WC,Alice Rame,U,,FRA,16.1,5-7 6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,,
+2014-W-C10-FRA-03A-2014,Petit BourgGuadeloupe 10K,Hard,32,10,20140120,27,203358,,,Khristina Blajkevitch,R,,CAN,21.7,214254,,WC,Alice Rame,R,,FRA,16.1,5-7 6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-FRA-03A-2014,Petit BourgGuadeloupe 10K,Hard,32,10,20140120,28,211019,7,,Audrey Albie,R,,FRA,19.2,211519,,,Wendy Qi Wen Zhang,U,,CAN,18.7,6-0 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-FRA-03A-2014,Petit BourgGuadeloupe 10K,Hard,32,10,20140120,29,202886,1,,Sherazad Benamar,L,,FRA,24.7,210064,3,,Denise Muresan,R,,USA,24.4,6-1 7-6(3),3,SF,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-FRA-03A-2014,Petit BourgGuadeloupe 10K,Hard,32,10,20140120,30,203358,,,Khristina Blajkevitch,R,,CAN,21.7,211019,7,,Audrey Albie,R,,FRA,19.2,6-2 6-6 RET,3,SF,,,,,,,,,,,,,,,,,,,,,,,
@@ -4548,7 +4548,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-FRA-04A-2014,Macon 10K,Hard,32,10,20140217,10,214163,,WC,Margot Decker,U,,FRA,16.4,213909,,Q,Clemence Fayol,R,,FRA,19.2,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-FRA-04A-2014,Macon 10K,Hard,32,10,20140217,11,203317,,,Amandine Cazeaux,L,,FRA,24.9,206277,,,Marine Partaud,R,,FRA,19.2,W/O,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-FRA-04A-2014,Macon 10K,Hard,32,10,20140217,12,205983,,,Josepha Adam,R,,FRA,20.2,202580,4,,Federica Di Sarra,R,,ITA,23.7,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2014-W-C10-FRA-04A-2014,Macon 10K,Hard,32,10,20140217,13,202662,6,,Camilla Rosatello,R,,ITA,18.7,214254,,Q,Alice Rame,U,,FRA,16.2,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2014-W-C10-FRA-04A-2014,Macon 10K,Hard,32,10,20140217,13,202662,6,,Camilla Rosatello,R,,ITA,18.7,214254,,Q,Alice Rame,R,,FRA,16.2,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-FRA-04A-2014,Macon 10K,Hard,32,10,20140217,14,211552,,WC,Harmony Tan,R,,FRA,16.4,205736,,LL,Carmen Lopez Rueda,R,,ESP,24.1,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-FRA-04A-2014,Macon 10K,Hard,32,10,20140217,15,203358,,Q,Khristina Blajkevitch,R,,CAN,21.7,211485,,Q,Elodie Busson,U,,FRA,19.1,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-FRA-04A-2014,Macon 10K,Hard,32,10,20140217,16,205869,2,,Alix Collombon,R,,FRA,20.9,211508,,,Josephine Boualem,U,,ESP,20.5,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -4608,7 +4608,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-FRA-06A-2014,Amiens 10K,Clay,32,10,20140303,8,205983,,,Josepha Adam,R,,FRA,20.3,202886,7,,Sherazad Benamar,L,,FRA,24.9,6-4 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,688,36,,
 2014-W-C10-FRA-06A-2014,Amiens 10K,Clay,32,10,20140303,9,202433,8,,Anna Giulia Remondina,R,,ITA,24.7,206184,,,Kelly Versteeg,U,,NED,19.2,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,427,88,760,25
 2014-W-C10-FRA-06A-2014,Amiens 10K,Clay,32,10,20140303,10,211328,,Q,Deborah Chiesa,R,170,ITA,17.7,213554,,WC,Louise Lampla,U,,FRA,19.2,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,936,14,,
-2014-W-C10-FRA-06A-2014,Amiens 10K,Clay,32,10,20140303,11,214254,,Q,Alice Rame,U,,FRA,16.3,210993,,,Ivania Martinich,R,,CHI,18.6,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,720,30
+2014-W-C10-FRA-06A-2014,Amiens 10K,Clay,32,10,20140303,11,214254,,Q,Alice Rame,R,,FRA,16.3,210993,,,Ivania Martinich,R,,CHI,18.6,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,720,30
 2014-W-C10-FRA-06A-2014,Amiens 10K,Clay,32,10,20140303,12,204267,,,Petra Krejsova,R,,CZE,23.6,206027,4,,Angelica Moratelli,R,173,ITA,19.5,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,399,101,388,105
 2014-W-C10-FRA-06A-2014,Amiens 10K,Clay,32,10,20140303,13,206166,5,,Jade Suvrijn,R,,FRA,18.8,211338,,Q,Katharina Hering,R,,GER,19.0,0-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,384,107,,
 2014-W-C10-FRA-06A-2014,Amiens 10K,Clay,32,10,20140303,14,213555,,WC,Theo Gravouil,U,,FRA,15.5,210584,,Q,Fiona Codino,R,,FRA,18.5,7-5 6-7(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,894,16
@@ -4619,15 +4619,15 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-FRA-06A-2014,Amiens 10K,Clay,32,10,20140303,19,202688,3,,Isabella Shinikova,R,184,BUL,22.3,206175,,,Tess Sugnaux,R,,SUI,19.0,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,362,113,591,49
 2014-W-C10-FRA-06A-2014,Amiens 10K,Clay,32,10,20140303,20,202894,,,Justine Ozga,R,,GER,26.0,205983,,,Josepha Adam,R,,FRA,20.3,6-4 7-6(8),3,R16,,,,,,,,,,,,,,,,,,,,552,56,688,36
 2014-W-C10-FRA-06A-2014,Amiens 10K,Clay,32,10,20140303,21,211328,,Q,Deborah Chiesa,R,170,ITA,17.7,202433,8,,Anna Giulia Remondina,R,,ITA,24.7,6-2 7-5,3,R16,,,,,,,,,,,,,,,,,,,,936,14,427,88
-2014-W-C10-FRA-06A-2014,Amiens 10K,Clay,32,10,20140303,22,214254,,Q,Alice Rame,U,,FRA,16.3,204267,,,Petra Krejsova,R,,CZE,23.6,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,399,101
+2014-W-C10-FRA-06A-2014,Amiens 10K,Clay,32,10,20140303,22,214254,,Q,Alice Rame,R,,FRA,16.3,204267,,,Petra Krejsova,R,,CZE,23.6,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,399,101
 2014-W-C10-FRA-06A-2014,Amiens 10K,Clay,32,10,20140303,23,206166,5,,Jade Suvrijn,R,,FRA,18.8,213555,,WC,Theo Gravouil,U,,FRA,15.5,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,384,107,,
 2014-W-C10-FRA-06A-2014,Amiens 10K,Clay,32,10,20140303,24,202706,,,Manon Arcangioli,R,162,FRA,19.5,211699,,Q,Karolina Stuchla,U,,CZE,20.0,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,498,68,,
 2014-W-C10-FRA-06A-2014,Amiens 10K,Clay,32,10,20140303,25,211885,,,Alice Matteucci,R,,ITA,18.4,203492,6,,Alyona Sotnikova,R,170,UKR,21.8,6-3 7-5,3,QF,,,,,,,,,,,,,,,,,,,,692,34,404,98
 2014-W-C10-FRA-06A-2014,Amiens 10K,Clay,32,10,20140303,26,202688,3,,Isabella Shinikova,R,184,BUL,22.3,202894,,,Justine Ozga,R,,GER,26.0,6-4 4-6 6-2,3,QF,,,,,,,,,,,,,,,,,,,,362,113,552,56
-2014-W-C10-FRA-06A-2014,Amiens 10K,Clay,32,10,20140303,27,214254,,Q,Alice Rame,U,,FRA,16.3,211328,,Q,Deborah Chiesa,R,170,ITA,17.7,6-0 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,936,14
+2014-W-C10-FRA-06A-2014,Amiens 10K,Clay,32,10,20140303,27,214254,,Q,Alice Rame,R,,FRA,16.3,211328,,Q,Deborah Chiesa,R,170,ITA,17.7,6-0 6-4,3,QF,,,,,,,,,,,,,,,,,,,,,,936,14
 2014-W-C10-FRA-06A-2014,Amiens 10K,Clay,32,10,20140303,28,202706,,,Manon Arcangioli,R,162,FRA,19.5,206166,5,,Jade Suvrijn,R,,FRA,18.8,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,498,68,384,107
 2014-W-C10-FRA-06A-2014,Amiens 10K,Clay,32,10,20140303,29,211885,,,Alice Matteucci,R,,ITA,18.4,202688,3,,Isabella Shinikova,R,184,BUL,22.3,6-0 6-3,3,SF,,,,,,,,,,,,,,,,,,,,692,34,362,113
-2014-W-C10-FRA-06A-2014,Amiens 10K,Clay,32,10,20140303,30,202706,,,Manon Arcangioli,R,162,FRA,19.5,214254,,Q,Alice Rame,U,,FRA,16.3,7-6(2) 5-7 6-1,3,SF,,,,,,,,,,,,,,,,,,,,498,68,,
+2014-W-C10-FRA-06A-2014,Amiens 10K,Clay,32,10,20140303,30,202706,,,Manon Arcangioli,R,162,FRA,19.5,214254,,Q,Alice Rame,R,,FRA,16.3,7-6(2) 5-7 6-1,3,SF,,,,,,,,,,,,,,,,,,,,498,68,,
 2014-W-C10-FRA-06A-2014,Amiens 10K,Clay,32,10,20140303,31,211885,,,Alice Matteucci,R,,ITA,18.4,202706,,,Manon Arcangioli,R,162,FRA,19.5,6-4 6-3,3,F,,,,,,,,,,,,,,,,,,,,692,34,498,68
 2014-W-C10-FRA-07A-2014,Gonesse 10K,Clay,32,10,20140310,1,202858,1,,Anne Schaefer,R,,GER,27.0,211316,,Q,Jessika Ponchet,R,,FRA,17.4,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,236,237,994,12
 2014-W-C10-FRA-07A-2014,Gonesse 10K,Clay,32,10,20140310,2,210702,,Q,Pauline Payet,R,,FRA,19.6,210675,,,Anna Katalina Alzate Esmurzaeva,R,,NED,18.6,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,676,37,636,41
@@ -4642,7 +4642,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-FRA-07A-2014,Gonesse 10K,Clay,32,10,20140310,11,211183,,LL,Jainy Scheepens,U,,NED,21.1,213909,,LL,Clemence Fayol,R,,FRA,19.3,4-6 6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,844,19,1098,8
 2014-W-C10-FRA-07A-2014,Gonesse 10K,Clay,32,10,20140310,12,202433,,,Anna Giulia Remondina,R,,ITA,24.7,211654,,LL,Ana Bianca Mihaila,U,,ROU,17.4,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,427,88,1052,10
 2014-W-C10-FRA-07A-2014,Gonesse 10K,Clay,32,10,20140310,13,202886,8,,Sherazad Benamar,L,,FRA,24.9,205964,,,Laetitia Sarrazin,R,,FRA,21.0,7-6(5) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,466,77
-2014-W-C10-FRA-07A-2014,Gonesse 10K,Clay,32,10,20140310,14,214254,,SE,Alice Rame,U,,FRA,16.3,211020,,WC,Solene Guyomard,U,,FRA,18.8,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2014-W-C10-FRA-07A-2014,Gonesse 10K,Clay,32,10,20140310,14,214254,,SE,Alice Rame,R,,FRA,16.3,211020,,WC,Solene Guyomard,U,,FRA,18.8,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-FRA-07A-2014,Gonesse 10K,Clay,32,10,20140310,15,211160,,Q,Mandy Wagemaker,R,,NED,19.8,210584,,WC,Fiona Codino,R,,FRA,18.5,5-7 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,773,24,894,16
 2014-W-C10-FRA-07A-2014,Gonesse 10K,Clay,32,10,20140310,16,210741,,,Iva Mekovec,R,,CRO,19.0,203427,2,,Lena Marie Hofmann,R,,GER,23.0,6-2 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,589,49,323,141
 2014-W-C10-FRA-07A-2014,Gonesse 10K,Clay,32,10,20140310,17,202858,1,,Anne Schaefer,R,,GER,27.0,210702,,Q,Pauline Payet,R,,FRA,19.6,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,236,237,676,37
@@ -4651,7 +4651,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-FRA-07A-2014,Gonesse 10K,Clay,32,10,20140310,20,205998,,Q,Manisha Foster,U,,GBR,20.5,211486,,LL,Manon Peral,U,,FRA,20.0,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,711,31,867,17
 2014-W-C10-FRA-07A-2014,Gonesse 10K,Clay,32,10,20140310,21,211019,,,Audrey Albie,R,,FRA,19.3,211538,,Q,Carla Touly,U,,FRA,17.5,1-6 6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,706,32,827,20
 2014-W-C10-FRA-07A-2014,Gonesse 10K,Clay,32,10,20140310,22,202433,,,Anna Giulia Remondina,R,,ITA,24.7,211183,,LL,Jainy Scheepens,U,,NED,21.1,6-0 7-5,3,R16,,,,,,,,,,,,,,,,,,,,427,88,844,19
-2014-W-C10-FRA-07A-2014,Gonesse 10K,Clay,32,10,20140310,23,202886,8,,Sherazad Benamar,L,,FRA,24.9,214254,,SE,Alice Rame,U,,FRA,16.3,7-6(5) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2014-W-C10-FRA-07A-2014,Gonesse 10K,Clay,32,10,20140310,23,202886,8,,Sherazad Benamar,L,,FRA,24.9,214254,,SE,Alice Rame,R,,FRA,16.3,7-6(5) 6-1,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-FRA-07A-2014,Gonesse 10K,Clay,32,10,20140310,24,210741,,,Iva Mekovec,R,,CRO,19.0,211160,,Q,Mandy Wagemaker,R,,NED,19.8,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,589,49,773,24
 2014-W-C10-FRA-07A-2014,Gonesse 10K,Clay,32,10,20140310,25,202858,1,,Anne Schaefer,R,,GER,27.0,203492,7,,Alyona Sotnikova,R,170,UKR,21.8,7-5 7-5,3,QF,,,,,,,,,,,,,,,,,,,,236,237,404,98
 2014-W-C10-FRA-07A-2014,Gonesse 10K,Clay,32,10,20140310,26,205738,4,,Karin Morgosova,U,,SVK,22.9,205998,,Q,Manisha Foster,U,,GBR,20.5,6-1 7-6(12),3,QF,,,,,,,,,,,,,,,,,,,,356,117,711,31
@@ -5285,7 +5285,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-GRE-09A-2014,Heraklion 10K,Hard,32,10,20141020,3,214096,,,Karolina Muchova,R,178,CZE,18.1,214004,,,Vendula Zovincova,R,,CZE,17.5,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,789,19,697,26
 2014-W-C10-GRE-09A-2014,Heraklion 10K,Hard,32,10,20141020,4,206104,8,,Sharmada Balu,R,,IND,21.1,213657,,WC,Martha Matoula,R,,GRE,17.4,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,663,30,,
 2014-W-C10-GRE-09A-2014,Heraklion 10K,Hard,32,10,20141020,5,206336,4,,Julia Stamatova,L,,BUL,21.3,205393,,,Agni Stefanou,U,,GRE,25.4,6-2 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,513,54,819,17
-2014-W-C10-GRE-09A-2014,Heraklion 10K,Hard,32,10,20141020,6,213646,,Q,Dalma Galfi,U,,HUN,16.1,211412,,Q,Bojana Marinkovic,U,,SRB,17.9,6-3 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,1076,8
+2014-W-C10-GRE-09A-2014,Heraklion 10K,Hard,32,10,20141020,6,213646,,Q,Dalma Galfi,R,178,HUN,16.1,211412,,Q,Bojana Marinkovic,U,,SRB,17.9,6-3 2-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,,,1076,8
 2014-W-C10-GRE-09A-2014,Heraklion 10K,Hard,32,10,20141020,7,213013,,Q,Anais Van Cauter,U,,FRA,25.7,210870,,,Natalia Siedliska,U,,POL,18.8,6-2 4-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,673,29
 2014-W-C10-GRE-09A-2014,Heraklion 10K,Hard,32,10,20141020,8,205964,6,,Laetitia Sarrazin,R,,FRA,21.6,214709,,WC,Ashley Mackey,R,,USA,22.1,6-0 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,541,47,,
 2014-W-C10-GRE-09A-2014,Heraklion 10K,Hard,32,10,20141020,9,211031,,Q,Sarah Beth Grey,L,,GBR,19.1,211098,7,,Cristina Ene,R,,ROU,18.8,2-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,628,34
@@ -5298,7 +5298,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-GRE-09A-2014,Heraklion 10K,Hard,32,10,20141020,16,202482,2,,Barbara Haas,R,165,AUT,18.5,203286,,Q,Veronika Kolarova,R,,CZE,25.8,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,383,90,841,16
 2014-W-C10-GRE-09A-2014,Heraklion 10K,Hard,32,10,20141020,17,202436,1,,Reka Luca Jani,R,161,HUN,23.2,211423,,,Lenka Kuncikova,U,,CZE,19.2,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,335,111,688,27
 2014-W-C10-GRE-09A-2014,Heraklion 10K,Hard,32,10,20141020,18,214096,,,Karolina Muchova,R,178,CZE,18.1,206104,8,,Sharmada Balu,R,,IND,21.1,6-3 3-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,789,19,663,30
-2014-W-C10-GRE-09A-2014,Heraklion 10K,Hard,32,10,20141020,19,206336,4,,Julia Stamatova,L,,BUL,21.3,213646,,Q,Dalma Galfi,U,,HUN,16.1,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,513,54,,
+2014-W-C10-GRE-09A-2014,Heraklion 10K,Hard,32,10,20141020,19,206336,4,,Julia Stamatova,L,,BUL,21.3,213646,,Q,Dalma Galfi,R,178,HUN,16.1,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,513,54,,
 2014-W-C10-GRE-09A-2014,Heraklion 10K,Hard,32,10,20141020,20,205964,6,,Laetitia Sarrazin,R,,FRA,21.6,213013,,Q,Anais Van Cauter,U,,FRA,25.7,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,541,47,,
 2014-W-C10-GRE-09A-2014,Heraklion 10K,Hard,32,10,20141020,21,202568,,,Yumi Nakano,R,,JPN,26.7,211031,,Q,Sarah Beth Grey,L,,GBR,19.1,6-4 6-7(6) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,781,20,,
 2014-W-C10-GRE-09A-2014,Heraklion 10K,Hard,32,10,20141020,22,211328,,SE,Deborah Chiesa,R,170,ITA,18.3,211814,,Q,Julia Grabher,R,170,AUT,18.2,4-6 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,848,16,1060,8
@@ -5317,7 +5317,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-GRE-10A-2014,Heraklion 10K,Hard,32,10,20141027,4,210870,8,,Natalia Siedliska,U,,POL,18.8,203431,,,Keren Shlomo,R,167,ISR,26.7,2-6 6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,673,29,772,20
 2014-W-C10-GRE-10A-2014,Heraklion 10K,Hard,32,10,20141027,5,214388,,,Anna Bondar,R,,HUN,17.4,205964,4,,Laetitia Sarrazin,R,,FRA,21.6,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,799,18,614,36
 2014-W-C10-GRE-10A-2014,Heraklion 10K,Hard,32,10,20141027,6,211412,,Q,Bojana Marinkovic,U,,SRB,17.9,206339,,,Olga Parres Azcoitia,U,,ESP,21.5,6-2 4-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1077,8,699,26
-2014-W-C10-GRE-10A-2014,Heraklion 10K,Hard,32,10,20141027,7,213646,,Q,Dalma Galfi,U,,HUN,16.2,214193,,Q,Simona Heinova,U,,CZE,17.4,2-6 6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,1201,4
+2014-W-C10-GRE-10A-2014,Heraklion 10K,Hard,32,10,20141027,7,213646,,Q,Dalma Galfi,R,178,HUN,16.2,214193,,Q,Simona Heinova,U,,CZE,17.4,2-6 6-1 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,1201,4
 2014-W-C10-GRE-10A-2014,Heraklion 10K,Hard,32,10,20141027,8,206104,7,,Sharmada Balu,R,,IND,21.2,203286,,,Veronika Kolarova,R,,CZE,25.9,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,667,30,844,16
 2014-W-C10-GRE-10A-2014,Heraklion 10K,Hard,32,10,20141027,9,210337,5,,Natalija Stevanovic,R,,SRB,20.2,202553,,WC,Stamatia Fafaliou,U,,GRE,27.9,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,570,43,1056,9
 2014-W-C10-GRE-10A-2014,Heraklion 10K,Hard,32,10,20141027,10,211814,,Q,Julia Grabher,R,170,AUT,18.3,210703,,,Steffi Distelmans,U,,BEL,21.4,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,997,10,703,25
@@ -5330,20 +5330,20 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-GRE-10A-2014,Heraklion 10K,Hard,32,10,20141027,17,202436,1,,Reka Luca Jani,R,161,HUN,23.2,214004,,,Vendula Zovincova,R,,CZE,17.5,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,334,111,693,26
 2014-W-C10-GRE-10A-2014,Heraklion 10K,Hard,32,10,20141027,18,206030,,,Julia Wachaczyk,L,,GER,20.5,210870,8,,Natalia Siedliska,U,,POL,18.8,7-6(5) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,750,22,673,29
 2014-W-C10-GRE-10A-2014,Heraklion 10K,Hard,32,10,20141027,19,214388,,,Anna Bondar,R,,HUN,17.4,211412,,Q,Bojana Marinkovic,U,,SRB,17.9,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,799,18,1077,8
-2014-W-C10-GRE-10A-2014,Heraklion 10K,Hard,32,10,20141027,20,213646,,Q,Dalma Galfi,U,,HUN,16.2,206104,7,,Sharmada Balu,R,,IND,21.2,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,667,30
+2014-W-C10-GRE-10A-2014,Heraklion 10K,Hard,32,10,20141027,20,213646,,Q,Dalma Galfi,R,178,HUN,16.2,206104,7,,Sharmada Balu,R,,IND,21.2,6-2 6-0,3,R16,,,,,,,,,,,,,,,,,,,,,,667,30
 2014-W-C10-GRE-10A-2014,Heraklion 10K,Hard,32,10,20141027,21,211814,,Q,Julia Grabher,R,170,AUT,18.3,210337,5,,Natalija Stevanovic,R,,SRB,20.2,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,997,10,570,43
 2014-W-C10-GRE-10A-2014,Heraklion 10K,Hard,32,10,20141027,22,211857,,,Dominika Paterova,R,,CZE,19.1,203349,3,,Milana Spremo,R,,SRB,22.9,2-6 7-6(7) [10-8],3,R16,,,,,,,,,,,,,,,,,,,,937,12,506,55
 2014-W-C10-GRE-10A-2014,Heraklion 10K,Hard,32,10,20141027,23,206035,,,Petra Rohanova,R,,CZE,19.2,211646,6,,Oana Georgeta Simion,R,,ROU,18.6,6-3 3-6 [10-6],3,R16,,,,,,,,,,,,,,,,,,,,704,25,632,34
 2014-W-C10-GRE-10A-2014,Heraklion 10K,Hard,32,10,20141027,24,211329,2,,Tena Lukas,R,,CRO,19.4,211565,,WC,Martina Basic,U,,CRO,17.7,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,477,62,,
 2014-W-C10-GRE-10A-2014,Heraklion 10K,Hard,32,10,20141027,25,202436,1,,Reka Luca Jani,R,161,HUN,23.2,206030,,,Julia Wachaczyk,L,,GER,20.5,7-6(5) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,334,111,750,22
-2014-W-C10-GRE-10A-2014,Heraklion 10K,Hard,32,10,20141027,26,213646,,Q,Dalma Galfi,U,,HUN,16.2,214388,,,Anna Bondar,R,,HUN,17.4,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,799,18
+2014-W-C10-GRE-10A-2014,Heraklion 10K,Hard,32,10,20141027,26,213646,,Q,Dalma Galfi,R,178,HUN,16.2,214388,,,Anna Bondar,R,,HUN,17.4,6-2 6-3,3,QF,,,,,,,,,,,,,,,,,,,,,,799,18
 2014-W-C10-GRE-10A-2014,Heraklion 10K,Hard,32,10,20141027,27,211814,,Q,Julia Grabher,R,170,AUT,18.3,211857,,,Dominika Paterova,R,,CZE,19.1,6-0 6-1,3,QF,,,,,,,,,,,,,,,,,,,,997,10,937,12
 2014-W-C10-GRE-10A-2014,Heraklion 10K,Hard,32,10,20141027,28,206035,,,Petra Rohanova,R,,CZE,19.2,211329,2,,Tena Lukas,R,,CRO,19.4,6-1 6-3,3,QF,,,,,,,,,,,,,,,,,,,,704,25,477,62
-2014-W-C10-GRE-10A-2014,Heraklion 10K,Hard,32,10,20141027,29,213646,,Q,Dalma Galfi,U,,HUN,16.2,202436,1,,Reka Luca Jani,R,161,HUN,23.2,6-0 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,334,111
+2014-W-C10-GRE-10A-2014,Heraklion 10K,Hard,32,10,20141027,29,213646,,Q,Dalma Galfi,R,178,HUN,16.2,202436,1,,Reka Luca Jani,R,161,HUN,23.2,6-0 6-3,3,SF,,,,,,,,,,,,,,,,,,,,,,334,111
 2014-W-C10-GRE-10A-2014,Heraklion 10K,Hard,32,10,20141027,30,211814,,Q,Julia Grabher,R,170,AUT,18.3,206035,,,Petra Rohanova,R,,CZE,19.2,6-2 3-6 6-4,3,SF,,,,,,,,,,,,,,,,,,,,997,10,704,25
-2014-W-C10-GRE-10A-2014,Heraklion 10K,Hard,32,10,20141027,31,213646,,Q,Dalma Galfi,U,,HUN,16.2,211814,,Q,Julia Grabher,R,170,AUT,18.3,6-3 6-0,3,F,,,,,,,,,,,,,,,,,,,,,,997,10
+2014-W-C10-GRE-10A-2014,Heraklion 10K,Hard,32,10,20141027,31,213646,,Q,Dalma Galfi,R,178,HUN,16.2,211814,,Q,Julia Grabher,R,170,AUT,18.3,6-3 6-0,3,F,,,,,,,,,,,,,,,,,,,,,,997,10
 2014-W-C10-GRE-11A-2014,Heraklion 10K,Hard,32,10,20141103,1,211329,1,,Tena Lukas,R,,CRO,19.4,214834,,WC,Carolyn Xie,U,,USA,17.4,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,469,62,,
-2014-W-C10-GRE-11A-2014,Heraklion 10K,Hard,32,10,20141103,2,213646,,SE,Dalma Galfi,U,,HUN,16.2,211081,,Q,Mariia Tcakanian,U,,RUS,18.5,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1073,7,1035,9
+2014-W-C10-GRE-11A-2014,Heraklion 10K,Hard,32,10,20141103,2,213646,,SE,Dalma Galfi,R,178,HUN,16.2,211081,,Q,Mariia Tcakanian,U,,RUS,18.5,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1073,7,1035,9
 2014-W-C10-GRE-11A-2014,Heraklion 10K,Hard,32,10,20141103,3,211197,,WC,Angeliki Kairi,R,,GRE,18.6,213882,,,Lena Reichel,U,,AUT,17.4,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1019,10,804,17
 2014-W-C10-GRE-11A-2014,Heraklion 10K,Hard,32,10,20141103,4,206030,,Q,Julia Wachaczyk,L,,GER,20.5,206104,6,,Sharmada Balu,R,,IND,21.2,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,735,22,642,31
 2014-W-C10-GRE-11A-2014,Heraklion 10K,Hard,32,10,20141103,5,211646,4,,Oana Georgeta Simion,R,,ROU,18.6,213653,,WC,Aspasia Avgeri,R,,GRE,16.3,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,620,34,,
@@ -5358,7 +5358,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-GRE-11A-2014,Heraklion 10K,Hard,32,10,20141103,14,214388,,,Anna Bondar,R,,HUN,17.4,206277,,Q,Marine Partaud,R,,FRA,19.9,6-2 2-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,789,18,928,12
 2014-W-C10-GRE-11A-2014,Heraklion 10K,Hard,32,10,20141103,15,210703,,,Steffi Distelmans,U,,BEL,21.4,205393,,,Agni Stefanou,U,,GRE,25.4,4-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,692,25,808,17
 2014-W-C10-GRE-11A-2014,Heraklion 10K,Hard,32,10,20141103,16,203349,2,,Milana Spremo,R,,SRB,22.9,206134,,Q,Valeria Patiuk,R,,ISR,18.4,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,506,55,,
-2014-W-C10-GRE-11A-2014,Heraklion 10K,Hard,32,10,20141103,17,213646,,SE,Dalma Galfi,U,,HUN,16.2,211329,1,,Tena Lukas,R,,CRO,19.4,6-2 6-7(2) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1073,7,469,62
+2014-W-C10-GRE-11A-2014,Heraklion 10K,Hard,32,10,20141103,17,213646,,SE,Dalma Galfi,R,178,HUN,16.2,211329,1,,Tena Lukas,R,,CRO,19.4,6-2 6-7(2) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1073,7,469,62
 2014-W-C10-GRE-11A-2014,Heraklion 10K,Hard,32,10,20141103,18,206030,,Q,Julia Wachaczyk,L,,GER,20.5,211197,,WC,Angeliki Kairi,R,,GRE,18.6,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,735,22,1019,10
 2014-W-C10-GRE-11A-2014,Heraklion 10K,Hard,32,10,20141103,19,211646,4,,Oana Georgeta Simion,R,,ROU,18.6,206035,,,Petra Rohanova,R,,CZE,19.2,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,620,34,694,25
 2014-W-C10-GRE-11A-2014,Heraklion 10K,Hard,32,10,20141103,20,210870,7,,Natalia Siedliska,U,,POL,18.9,213872,,Q,Anna Vrbenska,U,,CZE,17.9,6-4 6-1,3,R16,,,,,,,,,,,,,,,,,,,,656,29,1078,7
@@ -5366,13 +5366,13 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-GRE-11A-2014,Heraklion 10K,Hard,32,10,20141103,22,210337,3,,Natalija Stevanovic,R,,SRB,20.2,210271,,,Anita Husaric,R,,BIH,20.3,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,575,41,699,25
 2014-W-C10-GRE-11A-2014,Heraklion 10K,Hard,32,10,20141103,23,214388,,,Anna Bondar,R,,HUN,17.4,214004,,,Vendula Zovincova,R,,CZE,17.5,7-5 7-6(2),3,R16,,,,,,,,,,,,,,,,,,,,789,18,682,26
 2014-W-C10-GRE-11A-2014,Heraklion 10K,Hard,32,10,20141103,24,210703,,,Steffi Distelmans,U,,BEL,21.4,203349,2,,Milana Spremo,R,,SRB,22.9,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,692,25,506,55
-2014-W-C10-GRE-11A-2014,Heraklion 10K,Hard,32,10,20141103,25,213646,,SE,Dalma Galfi,U,,HUN,16.2,206030,,Q,Julia Wachaczyk,L,,GER,20.5,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,1073,7,735,22
+2014-W-C10-GRE-11A-2014,Heraklion 10K,Hard,32,10,20141103,25,213646,,SE,Dalma Galfi,R,178,HUN,16.2,206030,,Q,Julia Wachaczyk,L,,GER,20.5,6-3 6-1,3,QF,,,,,,,,,,,,,,,,,,,,1073,7,735,22
 2014-W-C10-GRE-11A-2014,Heraklion 10K,Hard,32,10,20141103,26,210870,7,,Natalia Siedliska,U,,POL,18.9,211646,4,,Oana Georgeta Simion,R,,ROU,18.6,7-6(2) 7-6(3),3,QF,,,,,,,,,,,,,,,,,,,,656,29,620,34
 2014-W-C10-GRE-11A-2014,Heraklion 10K,Hard,32,10,20141103,27,204394,5,,Valentini Grammatikopoulou,U,,GRE,17.7,210337,3,,Natalija Stevanovic,R,,SRB,20.2,6-3 6-2,3,QF,,,,,,,,,,,,,,,,,,,,621,34,575,41
 2014-W-C10-GRE-11A-2014,Heraklion 10K,Hard,32,10,20141103,28,210703,,,Steffi Distelmans,U,,BEL,21.4,214388,,,Anna Bondar,R,,HUN,17.4,6-3 6-4,3,QF,,,,,,,,,,,,,,,,,,,,692,25,789,18
-2014-W-C10-GRE-11A-2014,Heraklion 10K,Hard,32,10,20141103,29,213646,,SE,Dalma Galfi,U,,HUN,16.2,210870,7,,Natalia Siedliska,U,,POL,18.9,4-0 RET,3,SF,,,,,,,,,,,,,,,,,,,,1073,7,656,29
+2014-W-C10-GRE-11A-2014,Heraklion 10K,Hard,32,10,20141103,29,213646,,SE,Dalma Galfi,R,178,HUN,16.2,210870,7,,Natalia Siedliska,U,,POL,18.9,4-0 RET,3,SF,,,,,,,,,,,,,,,,,,,,1073,7,656,29
 2014-W-C10-GRE-11A-2014,Heraklion 10K,Hard,32,10,20141103,30,204394,5,,Valentini Grammatikopoulou,U,,GRE,17.7,210703,,,Steffi Distelmans,U,,BEL,21.4,6-0 6-1,3,SF,,,,,,,,,,,,,,,,,,,,621,34,692,25
-2014-W-C10-GRE-11A-2014,Heraklion 10K,Hard,32,10,20141103,31,213646,,SE,Dalma Galfi,U,,HUN,16.2,204394,5,,Valentini Grammatikopoulou,U,,GRE,17.7,6-2 4-6 7-6(4),3,F,,,,,,,,,,,,,,,,,,,,1073,7,621,34
+2014-W-C10-GRE-11A-2014,Heraklion 10K,Hard,32,10,20141103,31,213646,,SE,Dalma Galfi,R,178,HUN,16.2,204394,5,,Valentini Grammatikopoulou,U,,GRE,17.7,6-2 4-6 7-6(4),3,F,,,,,,,,,,,,,,,,,,,,1073,7,621,34
 2014-W-C10-GRE-12A-2014,Heraklion 10K,Hard,32,10,20141110,1,211329,1,,Tena Lukas,R,,CRO,19.5,213875,,,Nina Holanova,L,,CZE,17.3,6-2 3-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,461,63,934,12
 2014-W-C10-GRE-12A-2014,Heraklion 10K,Hard,32,10,20141110,2,211407,,,Dejana Radanovic,U,,SRB,18.4,203543,,,Stefanie Vorih,R,,GER,17.9,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,905,13,827,16
 2014-W-C10-GRE-12A-2014,Heraklion 10K,Hard,32,10,20141110,3,203286,,,Veronika Kolarova,R,,CZE,25.9,203431,,,Keren Shlomo,R,167,ISR,26.8,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1028,9,773,19
@@ -5405,7 +5405,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-GRE-12A-2014,Heraklion 10K,Hard,32,10,20141110,30,210337,2,,Natalija Stevanovic,R,,SRB,20.2,214004,5,,Vendula Zovincova,R,,CZE,17.5,6-3 6-1,3,SF,,,,,,,,,,,,,,,,,,,,589,38,669,27
 2014-W-C10-GRE-12A-2014,Heraklion 10K,Hard,32,10,20141110,31,210337,2,,Natalija Stevanovic,R,,SRB,20.2,211329,1,,Tena Lukas,R,,CRO,19.5,6-0 6-3,3,F,,,,,,,,,,,,,,,,,,,,589,38,461,63
 2014-W-C10-HKG-03A-2014,Hong Kong 10K,Hard,32,10,20141215,1,202508,1,,Yuxuan Zhang,R,179,CHN,20.3,214229,,WC,Man Ying Maggie Ng,R,,HKG,18.7,4-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,387,84,,
-2014-W-C10-HKG-03A-2014,Hong Kong 10K,Hard,32,10,20141215,2,214386,,,Xinyu Gao,U,,CHN,17.0,214972,,Q,Shanshan Guo,U,,CHN,18.3,6-1 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,770,18,,
+2014-W-C10-HKG-03A-2014,Hong Kong 10K,Hard,32,10,20141215,2,214386,,,Xinyu Gao,R,,CHN,17.0,214972,,Q,Shanshan Guo,U,,CHN,18.3,6-1 4-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,770,18,,
 2014-W-C10-HKG-03A-2014,Hong Kong 10K,Hard,32,10,20141215,3,203493,,,Hirono Watanabe,U,,JPN,27.4,213799,,Q,Yuanyi Yu,U,,CHN,19.9,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,818,16,1156,4
 2014-W-C10-HKG-03A-2014,Hong Kong 10K,Hard,32,10,20141215,4,202937,8,,Yuka Higuchi,U,,JPN,27.6,211365,,,Nozomi Fujioka,U,,JPN,21.7,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,631,30,888,13
 2014-W-C10-HKG-03A-2014,Hong Kong 10K,Hard,32,10,20141215,5,214328,,Q,Xu Liu Sun,U,,CHN,20.7,204288,4,,Ji Hee Choi,R,,KOR,19.8,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1061,6,481,57
@@ -5420,7 +5420,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-HKG-03A-2014,Hong Kong 10K,Hard,32,10,20141215,14,202634,,,Chen Liang,R,172,CHN,25.8,213661,,Q,Yukina Saigo,R,,JPN,18.6,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,820,15,,
 2014-W-C10-HKG-03A-2014,Hong Kong 10K,Hard,32,10,20141215,15,214646,,,Xiaodi You,U,,CHN,18.5,204286,,,Seung Yeon Hong,U,,KOR,22.6,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,875,13,651,28
 2014-W-C10-HKG-03A-2014,Hong Kong 10K,Hard,32,10,20141215,16,210537,2,,Michika Ozeki,U,,JPN,22.7,212027,,WC,Lok Sze Leung,U,,HKG,21.5,7-6(2) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,450,64,,
-2014-W-C10-HKG-03A-2014,Hong Kong 10K,Hard,32,10,20141215,17,214386,,,Xinyu Gao,U,,CHN,17.0,202508,1,,Yuxuan Zhang,R,179,CHN,20.3,6-4 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,770,18,387,84
+2014-W-C10-HKG-03A-2014,Hong Kong 10K,Hard,32,10,20141215,17,214386,,,Xinyu Gao,R,,CHN,17.0,202508,1,,Yuxuan Zhang,R,179,CHN,20.3,6-4 4-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,770,18,387,84
 2014-W-C10-HKG-03A-2014,Hong Kong 10K,Hard,32,10,20141215,18,202937,8,,Yuka Higuchi,U,,JPN,27.6,203493,,,Hirono Watanabe,U,,JPN,27.4,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,631,30,818,16
 2014-W-C10-HKG-03A-2014,Hong Kong 10K,Hard,32,10,20141215,19,214328,,Q,Xu Liu Sun,U,,CHN,20.7,204353,,Q,Chihiro Nunome,U,,JPN,22.4,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1061,6,974,10
 2014-W-C10-HKG-03A-2014,Hong Kong 10K,Hard,32,10,20141215,20,205789,,,Na Ri Kim,U,,KOR,24.6,211269,,WC,Eudice Wong Chong,U,,HKG,18.6,6-1 6-0,3,R16,,,,,,,,,,,,,,,,,,,,902,12,1077,6
@@ -5428,7 +5428,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-HKG-03A-2014,Hong Kong 10K,Hard,32,10,20141215,22,213830,,,Qiu Yu Ye,R,,CHN,17.0,211234,,,Deria Nur Haliza,R,,INA,17.5,6-0 6-2,3,R16,,,,,,,,,,,,,,,,,,,,802,16,924,11
 2014-W-C10-HKG-03A-2014,Hong Kong 10K,Hard,32,10,20141215,23,202634,,,Chen Liang,R,172,CHN,25.8,204293,6,,Seo Kyung Kang,U,,KOR,25.8,7-6(5) 6-3,3,R16,,,,,,,,,,,,,,,,,,,,820,15,617,32
 2014-W-C10-HKG-03A-2014,Hong Kong 10K,Hard,32,10,20141215,24,214646,,,Xiaodi You,U,,CHN,18.5,210537,2,,Michika Ozeki,U,,JPN,22.7,7-6(4) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,875,13,450,64
-2014-W-C10-HKG-03A-2014,Hong Kong 10K,Hard,32,10,20141215,25,202937,8,,Yuka Higuchi,U,,JPN,27.6,214386,,,Xinyu Gao,U,,CHN,17.0,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,631,30,770,18
+2014-W-C10-HKG-03A-2014,Hong Kong 10K,Hard,32,10,20141215,25,202937,8,,Yuka Higuchi,U,,JPN,27.6,214386,,,Xinyu Gao,R,,CHN,17.0,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,631,30,770,18
 2014-W-C10-HKG-03A-2014,Hong Kong 10K,Hard,32,10,20141215,26,214328,,Q,Xu Liu Sun,U,,CHN,20.7,205789,,,Na Ri Kim,U,,KOR,24.6,6-3 6-3,3,QF,,,,,,,,,,,,,,,,,,,,1061,6,902,12
 2014-W-C10-HKG-03A-2014,Hong Kong 10K,Hard,32,10,20141215,27,213830,,,Qiu Yu Ye,R,,CHN,17.0,203517,,Q,Chihiro Takayama,R,,JPN,23.8,6-2 RET,3,QF,,,,,,,,,,,,,,,,,,,,802,16,1213,3
 2014-W-C10-HKG-03A-2014,Hong Kong 10K,Hard,32,10,20141215,28,202634,,,Chen Liang,R,172,CHN,25.8,214646,,,Xiaodi You,U,,CHN,18.5,6-2 6-1,3,QF,,,,,,,,,,,,,,,,,,,,820,15,875,13
@@ -5446,7 +5446,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-HKG-04A-2014,Hong Kong 10K,Hard,32,10,20141222,9,212019,5,,Yan Wang,U,,CHN,18.9,213830,,,Qiu Yu Ye,R,,CHN,17.0,6-3 2-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,417,74,800,16
 2014-W-C10-HKG-04A-2014,Hong Kong 10K,Hard,32,10,20141222,10,214328,,SE,Xu Liu Sun,U,,CHN,20.7,214278,,,Mizuno Kijima,U,,JPN,19.0,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1055,6,691,25
 2014-W-C10-HKG-04A-2014,Hong Kong 10K,Hard,32,10,20141222,11,212027,,WC,Lok Sze Leung,U,,HKG,21.5,212025,,WC,Claire Yoonkee Choi Spackman,U,,HKG,17.2,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2014-W-C10-HKG-04A-2014,Hong Kong 10K,Hard,32,10,20141222,12,214386,,,Xinyu Gao,U,,CHN,17.0,202693,3,,Ya Hsuan Lee,R,165,TPE,19.4,1-6 7-5 2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,768,18,390,82
+2014-W-C10-HKG-04A-2014,Hong Kong 10K,Hard,32,10,20141222,12,214386,,,Xinyu Gao,R,,CHN,17.0,202693,3,,Ya Hsuan Lee,R,165,TPE,19.4,1-6 7-5 2-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,768,18,390,82
 2014-W-C10-HKG-04A-2014,Hong Kong 10K,Hard,32,10,20141222,13,211846,,,Kyoka Okamura,R,,JPN,19.2,210537,6,,Michika Ozeki,U,,JPN,22.7,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,568,39,445,64
 2014-W-C10-HKG-04A-2014,Hong Kong 10K,Hard,32,10,20141222,14,205789,,Q,Na Ri Kim,U,,KOR,24.7,211269,,WC,Eudice Wong Chong,U,,HKG,18.6,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,899,12,1105,5
 2014-W-C10-HKG-04A-2014,Hong Kong 10K,Hard,32,10,20141222,15,203487,,Q,Andrea Ka,R,,FRA,22.6,213636,,Q,Yukun Zhang,R,,CHN,18.9,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,953,10
@@ -5456,12 +5456,12 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-HKG-04A-2014,Hong Kong 10K,Hard,32,10,20141222,19,202508,4,,Yuxuan Zhang,R,179,CHN,20.3,204286,,,Seung Yeon Hong,U,,KOR,22.6,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,383,84,662,27
 2014-W-C10-HKG-04A-2014,Hong Kong 10K,Hard,32,10,20141222,20,204288,8,,Ji Hee Choi,R,,KOR,19.8,202634,,SE,Chen Liang,R,172,CHN,25.8,6-7(4) 6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,494,53,817,15
 2014-W-C10-HKG-04A-2014,Hong Kong 10K,Hard,32,10,20141222,21,212019,5,,Yan Wang,U,,CHN,18.9,214328,,SE,Xu Liu Sun,U,,CHN,20.7,7-5 6-2,3,R16,,,,,,,,,,,,,,,,,,,,417,74,1055,6
-2014-W-C10-HKG-04A-2014,Hong Kong 10K,Hard,32,10,20141222,22,214386,,,Xinyu Gao,U,,CHN,17.0,212027,,WC,Lok Sze Leung,U,,HKG,21.5,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,768,18,,
+2014-W-C10-HKG-04A-2014,Hong Kong 10K,Hard,32,10,20141222,22,214386,,,Xinyu Gao,R,,CHN,17.0,212027,,WC,Lok Sze Leung,U,,HKG,21.5,6-2 6-4,3,R16,,,,,,,,,,,,,,,,,,,,768,18,,
 2014-W-C10-HKG-04A-2014,Hong Kong 10K,Hard,32,10,20141222,23,205789,,Q,Na Ri Kim,U,,KOR,24.7,211846,,,Kyoka Okamura,R,,JPN,19.2,7-6(4) 7-5,3,R16,,,,,,,,,,,,,,,,,,,,899,12,568,39
 2014-W-C10-HKG-04A-2014,Hong Kong 10K,Hard,32,10,20141222,24,206107,2,,Zhaoxuan Yang,R,,CHN,19.8,203487,,Q,Andrea Ka,R,,FRA,22.6,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,249,183,,
 2014-W-C10-HKG-04A-2014,Hong Kong 10K,Hard,32,10,20141222,25,202684,1,,Lin Zhu,R,173,CHN,20.8,212034,7,,Fang Ying Xun,U,,CHN,19.9,6-1 2-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,134,417,459,61
 2014-W-C10-HKG-04A-2014,Hong Kong 10K,Hard,32,10,20141222,26,202508,4,,Yuxuan Zhang,R,179,CHN,20.3,204288,8,,Ji Hee Choi,R,,KOR,19.8,7-5 6-2,3,QF,,,,,,,,,,,,,,,,,,,,383,84,494,53
-2014-W-C10-HKG-04A-2014,Hong Kong 10K,Hard,32,10,20141222,27,212019,5,,Yan Wang,U,,CHN,18.9,214386,,,Xinyu Gao,U,,CHN,17.0,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,417,74,768,18
+2014-W-C10-HKG-04A-2014,Hong Kong 10K,Hard,32,10,20141222,27,212019,5,,Yan Wang,U,,CHN,18.9,214386,,,Xinyu Gao,R,,CHN,17.0,6-4 6-4,3,QF,,,,,,,,,,,,,,,,,,,,417,74,768,18
 2014-W-C10-HKG-04A-2014,Hong Kong 10K,Hard,32,10,20141222,28,206107,2,,Zhaoxuan Yang,R,,CHN,19.8,205789,,Q,Na Ri Kim,U,,KOR,24.7,6-4 5-7 6-2,3,QF,,,,,,,,,,,,,,,,,,,,249,183,899,12
 2014-W-C10-HKG-04A-2014,Hong Kong 10K,Hard,32,10,20141222,29,202684,1,,Lin Zhu,R,173,CHN,20.8,202508,4,,Yuxuan Zhang,R,179,CHN,20.3,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,134,417,383,84
 2014-W-C10-HKG-04A-2014,Hong Kong 10K,Hard,32,10,20141222,30,206107,2,,Zhaoxuan Yang,R,,CHN,19.8,212019,5,,Yan Wang,U,,CHN,18.9,6-2 6-3,3,SF,,,,,,,,,,,,,,,,,,,,249,183,417,74
@@ -5470,7 +5470,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-HUN-01A-2014,Budapest 10K,Clay,32,10,20140602,2,206335,,,Jesika Maleckova,R,,CZE,19.7,201566,,Q,Agnes Szatmari,R,,ROU,26.9,2-6 6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,603,44,,
 2014-W-C10-HUN-01A-2014,Budapest 10K,Clay,32,10,20140602,3,213875,,Q,Nina Holanova,L,,CZE,16.8,211960,,WC,Lilla Barzo,U,,HUN,17.7,7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-HUN-01A-2014,Budapest 10K,Clay,32,10,20140602,4,204390,7,,Pia Konig,R,,AUT,21.0,204249,,,Csilla Argyelan,R,,HUN,23.5,4-6 6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,502,66,672,35
-2014-W-C10-HUN-01A-2014,Budapest 10K,Clay,32,10,20140602,5,203376,3,,Eugeniya Pashkova,R,,RUS,25.2,213646,,WC,Dalma Galfi,U,,HUN,15.8,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,410,93,,
+2014-W-C10-HUN-01A-2014,Budapest 10K,Clay,32,10,20140602,5,203376,3,,Eugeniya Pashkova,R,,RUS,25.2,213646,,WC,Dalma Galfi,R,178,HUN,15.8,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,410,93,,
 2014-W-C10-HUN-01A-2014,Budapest 10K,Clay,32,10,20140602,6,210776,,SE,Gabriela Duca,U,,ROU,19.6,214524,,Q,Claudia Papi,U,,HUN,16.6,3-6 6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-HUN-01A-2014,Budapest 10K,Clay,32,10,20140602,7,211722,,,Szabina Szlavikovics,R,,HUN,18.7,214041,,WC,Bianka Bekefi,R,,HUN,17.2,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,597,45,,
 2014-W-C10-HUN-01A-2014,Budapest 10K,Clay,32,10,20140602,8,201649,,,Lenka Jurikova,R,,SVK,23.8,210337,8,,Natalija Stevanovic,R,,SRB,19.8,7-6(7) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,545,55,515,63
@@ -5497,7 +5497,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-HUN-01A-2014,Budapest 10K,Clay,32,10,20140602,29,206405,,,Sofia Blanco,U,,ARG,18.5,203376,3,,Eugeniya Pashkova,R,,RUS,25.2,7-6(4) 5-7 6-3,3,SF,,,,,,,,,,,,,,,,,,,,538,57,410,93
 2014-W-C10-HUN-01A-2014,Budapest 10K,Clay,32,10,20140602,30,211698,4,,Pernilla Mendesova,R,,CZE,19.9,211099,,,Nicoleta Catalina Dascalu,R,,ROU,18.4,2-6 6-3 6-4,3,SF,,,,,,,,,,,,,,,,,,,,450,78,680,34
 2014-W-C10-HUN-01A-2014,Budapest 10K,Clay,32,10,20140602,31,211698,4,,Pernilla Mendesova,R,,CZE,19.9,206405,,,Sofia Blanco,U,,ARG,18.5,6-0 2-6 6-2,3,F,,,,,,,,,,,,,,,,,,,,450,78,538,57
-2014-W-C10-INA-01A-2014,Tarakan 10K,Hard,32,10,20140602,1,202684,1,,Lin Zhu,R,173,CHN,20.3,214386,,Q,Xinyu Gao,U,,CHN,16.5,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,462,74,,
+2014-W-C10-INA-01A-2014,Tarakan 10K,Hard,32,10,20140602,1,202684,1,,Lin Zhu,R,173,CHN,20.3,214386,,Q,Xinyu Gao,R,,CHN,16.5,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,462,74,,
 2014-W-C10-INA-01A-2014,Tarakan 10K,Hard,32,10,20140602,2,213799,,Q,Yuanyi Yu,U,,CHN,19.4,211234,,WC,Deria Nur Haliza,R,,INA,16.9,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-INA-01A-2014,Tarakan 10K,Hard,32,10,20140602,3,202645,,,Jessy Rompies,R,160,INA,24.1,213826,,Q,Plobrung Plipuech,R,,THA,16.5,3-6 6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1129,6,1263,3
 2014-W-C10-INA-01A-2014,Tarakan 10K,Hard,32,10,20140602,4,201538,6,,Isabella Holland,R,,AUS,22.4,206320,,WC,Vita Taher,R,,INA,18.7,6-2 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,532,57,,
@@ -5531,7 +5531,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-INA-02A-2014,Solo 10K,Hard,32,10,20140609,1,202684,1,,Lin Zhu,R,173,CHN,20.3,210421,,Q,Nadia Ravita,U,,INA,19.9,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,306,146,,
 2014-W-C10-INA-02A-2014,Solo 10K,Hard,32,10,20140609,2,211326,,,Katherine Ip,R,,HKG,18.7,205797,,Q,Cynthia Melita,R,,INA,20.9,6-3 6-7(10) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,713,29,,
 2014-W-C10-INA-02A-2014,Solo 10K,Hard,32,10,20140609,3,206107,,,Zhaoxuan Yang,R,,CHN,19.3,213799,,Q,Yuanyi Yu,U,,CHN,19.4,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,591,45,,
-2014-W-C10-INA-02A-2014,Solo 10K,Hard,32,10,20140609,4,214386,,Q,Xinyu Gao,U,,CHN,16.5,206321,8,,Boyan Wang,U,,CHN,22.3,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,879,17
+2014-W-C10-INA-02A-2014,Solo 10K,Hard,32,10,20140609,4,214386,,Q,Xinyu Gao,R,,CHN,16.5,206321,8,,Boyan Wang,U,,CHN,22.3,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,879,17
 2014-W-C10-INA-02A-2014,Solo 10K,Hard,32,10,20140609,5,206154,,,Varunya Wongteanchai,R,,THA,21.4,202416,3,,Nungnadda Wannasuk,R,165,THA,24.5,6-2 1-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,840,19,633,39
 2014-W-C10-INA-02A-2014,Solo 10K,Hard,32,10,20140609,6,213826,,,Plobrung Plipuech,R,,THA,16.5,206025,,,Yuka Mori,U,,JPN,27.9,1-6 7-6(7) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1262,3,1168,5
 2014-W-C10-INA-02A-2014,Solo 10K,Hard,32,10,20140609,7,205796,,,Chun Yan He,L,,CHN,31.1,206320,,Q,Vita Taher,R,,INA,18.7,6-0 0-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1149,6,,
@@ -5545,7 +5545,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-INA-02A-2014,Solo 10K,Hard,32,10,20140609,15,211365,,,Nozomi Fujioka,U,,JPN,21.2,206323,,,Leah Daw,U,,AUS,22.4,6-3 3-6 7-5,3,R32,,,,,,,,,,,,,,,,,,,,843,19,1219,4
 2014-W-C10-INA-02A-2014,Solo 10K,Hard,32,10,20140609,16,213558,2,,Ao Gai,U,,CHN,19.4,210738,,WC,Aldila Sutjiadi,R,170,INA,19.1,4-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,510,64,,
 2014-W-C10-INA-02A-2014,Solo 10K,Hard,32,10,20140609,17,202684,1,,Lin Zhu,R,173,CHN,20.3,211326,,,Katherine Ip,R,,HKG,18.7,6-1 1-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,306,146,713,29
-2014-W-C10-INA-02A-2014,Solo 10K,Hard,32,10,20140609,18,206107,,,Zhaoxuan Yang,R,,CHN,19.3,214386,,Q,Xinyu Gao,U,,CHN,16.5,6-1 6-7(1) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,591,45,,
+2014-W-C10-INA-02A-2014,Solo 10K,Hard,32,10,20140609,18,206107,,,Zhaoxuan Yang,R,,CHN,19.3,214386,,Q,Xinyu Gao,R,,CHN,16.5,6-1 6-7(1) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,591,45,,
 2014-W-C10-INA-02A-2014,Solo 10K,Hard,32,10,20140609,19,206154,,,Varunya Wongteanchai,R,,THA,21.4,213826,,,Plobrung Plipuech,R,,THA,16.5,6-1 7-6(8),3,R16,,,,,,,,,,,,,,,,,,,,840,19,1262,3
 2014-W-C10-INA-02A-2014,Solo 10K,Hard,32,10,20140609,20,212019,6,,Yan Wang,U,,CHN,18.4,205796,,,Chun Yan He,L,,CHN,31.1,2-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,714,29,1149,6
 2014-W-C10-INA-02A-2014,Solo 10K,Hard,32,10,20140609,21,211234,,WC,Deria Nur Haliza,R,,INA,17.0,210428,,Q,Qianqian Zhao,U,,CHN,20.2,3-6 6-1 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
@@ -6184,7 +6184,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-ITA-08A-2014,Santa Margherita Di Pula 10K,Clay,32,10,20140428,3,211419,,Q,Giulia Guidetti,U,,ITA,19.8,210644,,Q,Jasmin Ladurner,R,,ITA,22.8,7-6(7) 6-7(4) 6-3,3,R32,,,,,,,,,,,,,,,,,,,,1223,4,1033,11
 2014-W-C10-ITA-08A-2014,Santa Margherita Di Pula 10K,Clay,32,10,20140428,4,201699,5,,Martina Caregaro,R,165,ITA,21.9,211183,,Q,Jainy Scheepens,U,,NED,21.2,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,406,95,805,22
 2014-W-C10-ITA-08A-2014,Santa Margherita Di Pula 10K,Clay,32,10,20140428,5,211328,,WC,Deborah Chiesa,R,170,ITA,17.8,203363,3,,Vanesa Furlanetto,U,,ARG,27.1,6-1 4-6 6-1,3,R32,,,,,,,,,,,,,,,,,,,,912,16,334,129
-2014-W-C10-ITA-08A-2014,Santa Margherita Di Pula 10K,Clay,32,10,20140428,6,211820,,WC,Martina Colmegna,R,,ITA,17.3,214254,,Q,Alice Rame,U,,FRA,16.4,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,868,18,1109,8
+2014-W-C10-ITA-08A-2014,Santa Margherita Di Pula 10K,Clay,32,10,20140428,6,211820,,WC,Martina Colmegna,R,,ITA,17.3,214254,,Q,Alice Rame,R,,FRA,16.4,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,868,18,1109,8
 2014-W-C10-ITA-08A-2014,Santa Margherita Di Pula 10K,Clay,32,10,20140428,7,211533,,,Jelena Ostapenko,R,177,LAT,16.8,210646,,,Stefanie Stemmer,U,,GER,20.7,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,635,41,855,19
 2014-W-C10-ITA-08A-2014,Santa Margherita Di Pula 10K,Clay,32,10,20140428,8,205963,8,,Giulia Sussarello,R,,ITA,21.9,211980,,,Janneke Wikkerink,U,,NED,21.5,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,524,64,1089,9
 2014-W-C10-ITA-08A-2014,Santa Margherita Di Pula 10K,Clay,32,10,20140428,9,202662,6,,Camilla Rosatello,R,,ITA,18.9,211538,,,Carla Touly,U,,FRA,17.6,6-0 6-3,3,R32,,,,,,,,,,,,,,,,,,,,470,76,787,23
@@ -6492,7 +6492,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-ITA-20A-2014,Santa Margherita Di Pula 10K,Clay,32,10,20140915,1,205790,1,,Alexandra Nancarrow,R,165,AUS,21.0,211216,,,Cristiana Ferrando,R,,ITA,19.0,2-6 6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,426,78,934,13
 2014-W-C10-ITA-20A-2014,Santa Margherita Di Pula 10K,Clay,32,10,20140915,2,206338,,,Stefania Rubini,U,,ITA,21.7,214301,,,Tatiana Pieri,U,,ITA,15.4,1-6 7-5 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,991,11,870,15
 2014-W-C10-ITA-20A-2014,Santa Margherita Di Pula 10K,Clay,32,10,20140915,3,211647,,Q,Elke Tiel,R,,NED,18.9,214853,,WC,Federica Mordegan,U,,ITA,16.8,4-6 7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2014-W-C10-ITA-20A-2014,Santa Margherita Di Pula 10K,Clay,32,10,20140915,4,206251,8,,Kimberley Zimmermann,R,,BEL,18.8,214254,,,Alice Rame,U,,FRA,16.8,5-7 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,736,24,1038,9
+2014-W-C10-ITA-20A-2014,Santa Margherita Di Pula 10K,Clay,32,10,20140915,4,206251,8,,Kimberley Zimmermann,R,,BEL,18.8,214254,,,Alice Rame,R,,FRA,16.8,5-7 7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,736,24,1038,9
 2014-W-C10-ITA-20A-2014,Santa Margherita Di Pula 10K,Clay,32,10,20140915,5,211260,3,,Marie Benoit,L,,BEL,19.5,211537,,Q,Mathilde Armitano,R,,FRA,17.2,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,457,68,1266,3
 2014-W-C10-ITA-20A-2014,Santa Margherita Di Pula 10K,Clay,32,10,20140915,6,214392,,Q,Maria Smith,R,,USA,17.3,211538,,,Carla Touly,U,,FRA,18.0,7-6(2) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1009,10,735,24
 2014-W-C10-ITA-20A-2014,Santa Margherita Di Pula 10K,Clay,32,10,20140915,7,213926,,WC,Bianca Turati,R,173,ITA,17.2,209869,,,Bianca Hincu,R,,ROU,22.1,6-4 3-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,864,15,921,13
@@ -6528,7 +6528,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-ITA-21A-2014,Santa Margherita Di Pula 10K,Clay,32,10,20140922,6,214152,,WC,Federica Prati,U,,ITA,18.7,211338,,Q,Katharina Hering,R,,GER,19.5,7-5 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-ITA-21A-2014,Santa Margherita Di Pula 10K,Clay,32,10,20140922,7,213926,,Q,Bianca Turati,R,173,ITA,17.2,211964,,,Ilka Csoregi,R,,ROU,18.4,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,866,15,942,12
 2014-W-C10-ITA-21A-2014,Santa Margherita Di Pula 10K,Clay,32,10,20140922,8,206251,7,,Kimberley Zimmermann,R,,BEL,18.8,211811,,Q,Deborah Cruciani,U,,ITA,18.8,3-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,791,20,,
-2014-W-C10-ITA-21A-2014,Santa Margherita Di Pula 10K,Clay,32,10,20140922,9,206175,5,,Tess Sugnaux,R,,SUI,19.5,214254,,,Alice Rame,U,,FRA,16.8,6-4 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,556,49,1038,9
+2014-W-C10-ITA-21A-2014,Santa Margherita Di Pula 10K,Clay,32,10,20140922,9,206175,5,,Tess Sugnaux,R,,SUI,19.5,214254,,,Alice Rame,R,,FRA,16.8,6-4 3-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,556,49,1038,9
 2014-W-C10-ITA-21A-2014,Santa Margherita Di Pula 10K,Clay,32,10,20140922,10,211216,,,Cristiana Ferrando,R,,ITA,19.1,203507,,,Giorgia Marchetti,R,,ITA,19.6,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,804,19,1081,8
 2014-W-C10-ITA-21A-2014,Santa Margherita Di Pula 10K,Clay,32,10,20140922,11,214654,,WC,Anna Turati,U,,ITA,17.2,206400,,,Martina Spigarelli,U,,ITA,22.3,6-3 6-7(0) 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,783,20
 2014-W-C10-ITA-21A-2014,Santa Margherita Di Pula 10K,Clay,32,10,20140922,12,213822,,,Verena Hofer,U,,ITA,17.0,204330,4,,Alice Savoretti,R,,ITA,22.2,6-7(4) 6-2 3-1 RET,3,R32,,,,,,,,,,,,,,,,,,,,1058,8,525,54
@@ -7335,7 +7335,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-KOR-02A-2014,Gimcheon 10K,Hard,32,10,20140616,7,205947,,Q,Ji Sun Kim,R,,KOR,27.9,213774,,WC,Suyeon Choi,U,,KOR,16.5,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-KOR-02A-2014,Gimcheon 10K,Hard,32,10,20140616,8,204286,7,,Seung Yeon Hong,U,,KOR,22.1,211232,,,Xi Wei Cai,U,,CHN,19.6,7-6(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,653,36,1107,7
 2014-W-C10-KOR-02A-2014,Gimcheon 10K,Hard,32,10,20140616,9,201675,6,,So Jung Kim,R,,KOR,28.2,205930,,,Hye Min Lee,U,,KOR,27.9,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,587,46,894,16
-2014-W-C10-KOR-02A-2014,Gimcheon 10K,Hard,32,10,20140616,10,213949,,Q,Hanna Chang,U,,USA,16.3,205401,,WC,Sun Jung Kim,R,,KOR,29.2,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,802,21
+2014-W-C10-KOR-02A-2014,Gimcheon 10K,Hard,32,10,20140616,10,213949,,Q,Hanna Chang,R,,USA,16.3,205401,,WC,Sun Jung Kim,R,,KOR,29.2,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,802,21
 2014-W-C10-KOR-02A-2014,Gimcheon 10K,Hard,32,10,20140616,11,206126,,Q,Ju Eun Kim,R,,KOR,23.1,214607,,WC,Sang Hee Park,U,,KOR,18.6,6-4 2-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-KOR-02A-2014,Gimcheon 10K,Hard,32,10,20140616,12,201676,3,,Ye Ra Lee,R,,KOR,26.7,213820,,,Gun Hee Kim,U,,KOR,20.7,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,366,108,,
 2014-W-C10-KOR-02A-2014,Gimcheon 10K,Hard,32,10,20140616,13,202501,5,,Hyun Hui Hong,U,,KOR,22.4,204292,,,Hyojung Yea,U,,KOR,20.3,1-6 6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,536,57,,
@@ -7346,7 +7346,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-KOR-02A-2014,Gimcheon 10K,Hard,32,10,20140616,18,204293,8,,Seo Kyung Kang,U,,KOR,25.3,213775,,WC,Yu Jin Ahn,U,,KOR,17.2,6-0 4-6 6-3,3,R16,,,,,,,,,,,,,,,,,,,,659,36,,
 2014-W-C10-KOR-02A-2014,Gimcheon 10K,Hard,32,10,20140616,19,204288,4,,Ji Hee Choi,R,,KOR,19.3,211363,,Q,Sol Hee Sim,R,,KOR,17.1,6-2 6-3,3,R16,,,,,,,,,,,,,,,,,,,,525,59,,
 2014-W-C10-KOR-02A-2014,Gimcheon 10K,Hard,32,10,20140616,20,204286,7,,Seung Yeon Hong,U,,KOR,22.1,205947,,Q,Ji Sun Kim,R,,KOR,27.9,6-1 6-1,3,R16,,,,,,,,,,,,,,,,,,,,653,36,,
-2014-W-C10-KOR-02A-2014,Gimcheon 10K,Hard,32,10,20140616,21,201675,6,,So Jung Kim,R,,KOR,28.2,213949,,Q,Hanna Chang,U,,USA,16.3,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,587,46,,
+2014-W-C10-KOR-02A-2014,Gimcheon 10K,Hard,32,10,20140616,21,201675,6,,So Jung Kim,R,,KOR,28.2,213949,,Q,Hanna Chang,R,,USA,16.3,6-3 7-5,3,R16,,,,,,,,,,,,,,,,,,,,587,46,,
 2014-W-C10-KOR-02A-2014,Gimcheon 10K,Hard,32,10,20140616,22,201676,3,,Ye Ra Lee,R,,KOR,26.7,206126,,Q,Ju Eun Kim,R,,KOR,23.1,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,366,108,,
 2014-W-C10-KOR-02A-2014,Gimcheon 10K,Hard,32,10,20140616,23,211846,,,Kyoka Okamura,R,,JPN,18.6,202501,5,,Hyun Hui Hong,U,,KOR,22.4,0-6 6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,975,12,536,57
 2014-W-C10-KOR-02A-2014,Gimcheon 10K,Hard,32,10,20140616,24,203288,2,,Jia Jing Lu,R,173,CHN,24.5,204290,,,Min Hwa Yu,U,,KOR,26.2,6-0 6-4,3,R16,,,,,,,,,,,,,,,,,,,,341,122,829,19
@@ -7368,7 +7368,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-KOR-03A-2014,Gimcheon 10K,Hard,32,10,20140623,9,204286,7,,Seung Yeon Hong,U,,KOR,22.1,210404,,,Mami Hasegawa,U,,JPN,22.2,6-4 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,658,35,,
 2014-W-C10-KOR-03A-2014,Gimcheon 10K,Hard,32,10,20140623,10,213599,,,Jelena Stojanovic,R,,AUS,17.1,214676,,Q,Ayumi Mori,U,,JPN,18.3,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1163,6,,
 2014-W-C10-KOR-03A-2014,Gimcheon 10K,Hard,32,10,20140623,11,206397,,Q,Ji Hee Lee,U,,KOR,25.0,214677,,WC,Sujin Yoon,U,,KOR,18.9,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2014-W-C10-KOR-03A-2014,Gimcheon 10K,Hard,32,10,20140623,12,204288,3,,Ji Hee Choi,R,,KOR,19.3,213949,,Q,Hanna Chang,U,,USA,16.3,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,530,59,,
+2014-W-C10-KOR-03A-2014,Gimcheon 10K,Hard,32,10,20140623,12,204288,3,,Ji Hee Choi,R,,KOR,19.3,213949,,Q,Hanna Chang,R,,USA,16.3,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,530,59,,
 2014-W-C10-KOR-03A-2014,Gimcheon 10K,Hard,32,10,20140623,13,205401,,,Sun Jung Kim,R,,KOR,29.2,204293,8,,Seo Kyung Kang,U,,KOR,25.3,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,865,17,655,36
 2014-W-C10-KOR-03A-2014,Gimcheon 10K,Hard,32,10,20140623,14,202386,,,Sung Hee Han,R,,KOR,23.6,214607,,Q,Sang Hee Park,U,,KOR,18.6,7-6(4) 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,1056,9,,
 2014-W-C10-KOR-03A-2014,Gimcheon 10K,Hard,32,10,20140623,15,214679,,Q,Sunam Jeong,U,,KOR,18.0,214678,,Q,Eunji Lim,U,,KOR,16.6,6-0 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -8417,7 +8417,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-ROU-04A-2014,Iasi 10K,Clay,32,10,20140707,8,211646,,WC,Oana Georgeta Simion,R,,ROU,18.3,204366,7,,Victoria Muntean,R,,FRA,17.4,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,971,12,691,31
 2014-W-C10-ROU-04A-2014,Iasi 10K,Clay,32,10,20140707,9,210786,5,,Anastasia Vdovenco,R,,MDA,20.2,211182,,,Patricia Lancranjan,U,,ROU,18.7,6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,652,36,1000,11
 2014-W-C10-ROU-04A-2014,Iasi 10K,Clay,32,10,20140707,10,210776,,,Gabriela Duca,U,,ROU,19.7,214466,,Q,Sarlota Cesnekova,R,,SVK,17.5,2-6 7-6(5) 6-4,3,R32,,,,,,,,,,,,,,,,,,,,1134,6,,
-2014-W-C10-ROU-04A-2014,Iasi 10K,Clay,32,10,20140707,11,211817,,WC,Elena Gabriela Ruse,U,,ROU,16.6,211731,,,Ekaterina Lavrikova,R,,RUS,20.2,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1231,4
+2014-W-C10-ROU-04A-2014,Iasi 10K,Clay,32,10,20140707,11,211817,,WC,Elena Gabriela Ruse,R,,ROU,16.6,211731,,,Ekaterina Lavrikova,R,,RUS,20.2,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,,,1231,4
 2014-W-C10-ROU-04A-2014,Iasi 10K,Clay,32,10,20140707,12,203458,,WC,Cristina Madalina Stancu,R,,ROU,24.3,211099,4,,Nicoleta Catalina Dascalu,R,,ROU,18.5,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,,,623,41
 2014-W-C10-ROU-04A-2014,Iasi 10K,Clay,32,10,20140707,13,206207,6,,Francesca Palmigiano,U,,ITA,19.6,211267,,Q,Daniela Ciobanu,R,,MDA,19.3,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,690,31,,
 2014-W-C10-ROU-04A-2014,Iasi 10K,Clay,32,10,20140707,14,206057,,Q,Simona Ionescu,U,,ROU,20.4,213808,,,Alisa Martinov,U,,MDA,16.6,6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1104,7,1276,3
@@ -8428,7 +8428,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-ROU-04A-2014,Iasi 10K,Clay,32,10,20140707,19,202917,3,,Raluca Elena Platon,R,,ROU,21.0,214653,,WC,Andreea Prisacariu,U,,ROU,14.4,6-3 6-0,3,R16,,,,,,,,,,,,,,,,,,,,568,50,,
 2014-W-C10-ROU-04A-2014,Iasi 10K,Clay,32,10,20140707,20,211646,,WC,Oana Georgeta Simion,R,,ROU,18.3,213807,,,Cristina Moroi,R,,ROU,17.5,7-5 6-4,3,R16,,,,,,,,,,,,,,,,,,,,971,12,1109,7
 2014-W-C10-ROU-04A-2014,Iasi 10K,Clay,32,10,20140707,21,210786,5,,Anastasia Vdovenco,R,,MDA,20.2,210776,,,Gabriela Duca,U,,ROU,19.7,6-3 6-4,3,R16,,,,,,,,,,,,,,,,,,,,652,36,1134,6
-2014-W-C10-ROU-04A-2014,Iasi 10K,Clay,32,10,20140707,22,203458,,WC,Cristina Madalina Stancu,R,,ROU,24.3,211817,,WC,Elena Gabriela Ruse,U,,ROU,16.6,7-6(3) 1-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
+2014-W-C10-ROU-04A-2014,Iasi 10K,Clay,32,10,20140707,22,203458,,WC,Cristina Madalina Stancu,R,,ROU,24.3,211817,,WC,Elena Gabriela Ruse,R,,ROU,16.6,7-6(3) 1-6 6-4,3,R16,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-ROU-04A-2014,Iasi 10K,Clay,32,10,20140707,23,206057,,Q,Simona Ionescu,U,,ROU,20.4,206207,6,,Francesca Palmigiano,U,,ITA,19.6,6-2 6-2,3,R16,,,,,,,,,,,,,,,,,,,,1104,7,690,31
 2014-W-C10-ROU-04A-2014,Iasi 10K,Clay,32,10,20140707,24,211535,,,Camille Cheli,R,,FRA,20.9,202662,2,,Camilla Rosatello,R,,ITA,19.1,2-6 6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,926,14,500,64
 2014-W-C10-ROU-04A-2014,Iasi 10K,Clay,32,10,20140707,25,211898,,Q,Andreea Ghitescu,R,,ROU,17.3,211342,,,Gabriela Lee,L,,ROU,18.8,7-5 6-1,3,QF,,,,,,,,,,,,,,,,,,,,1276,3,954,13
@@ -9846,7 +9846,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-TUN-09A-2014,Sousse 10K,Hard,32,10,20141208,11,206424,,,Katharina Lehnert,R,,GER,20.8,212030,,WC,Alize Boccard,R,,SUI,18.7,6-0 6-0,3,R32,,,,,,,,,,,,,,,,,,,,712,23,,
 2014-W-C10-TUN-09A-2014,Sousse 10K,Hard,32,10,20141208,12,201699,4,,Martina Caregaro,R,165,ITA,22.5,211884,,Q,Chiara Frapolli,R,,SUI,18.2,6-1 6-3,3,R32,,,,,,,,,,,,,,,,,,,,437,69,,
 2014-W-C10-TUN-09A-2014,Sousse 10K,Hard,32,10,20141208,13,213526,8,Q,Sara Ottomano,R,,SUI,18.7,213953,,,Margaux Deagostini,R,,SUI,18.0,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,684,26,1002,9
-2014-W-C10-TUN-09A-2014,Sousse 10K,Hard,32,10,20141208,14,214254,,,Alice Rame,U,,FRA,17.0,203317,,,Amandine Cazeaux,L,,FRA,25.7,5-7 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,857,14,725,22
+2014-W-C10-TUN-09A-2014,Sousse 10K,Hard,32,10,20141208,14,214254,,,Alice Rame,R,,FRA,17.0,203317,,,Amandine Cazeaux,L,,FRA,25.7,5-7 6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,857,14,725,22
 2014-W-C10-TUN-09A-2014,Sousse 10K,Hard,32,10,20141208,15,206184,,,Kelly Versteeg,U,,NED,20.0,205927,,Q,Alina Wessel,R,,GER,24.0,6-4 6-7(5) 6-2,3,R32,,,,,,,,,,,,,,,,,,,,705,24,,
 2014-W-C10-TUN-09A-2014,Sousse 10K,Hard,32,10,20141208,16,203463,2,,Nuria Parrizas Diaz,R,167,ESP,23.4,211452,,WC,Eva Raszkiewicz,U,,USA,21.9,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,318,117,1090,6
 2014-W-C10-TUN-09A-2014,Sousse 10K,Hard,32,10,20141208,17,202642,1,Q,Gioia Barbieri,R,170,ITA,23.4,213744,,,Eva Zagorac,U,,SLO,19.0,2-6 6-1 [14-12],3,R16,,,,,,,,,,,,,,,,,,,,206,246,1090,6
@@ -9855,7 +9855,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-TUN-09A-2014,Sousse 10K,Hard,32,10,20141208,20,204376,6,,Demi Schuurs,R,170,NED,21.3,206034,,,Katerina Kaminkova,R,,CZE,20.8,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,546,44,1024,8
 2014-W-C10-TUN-09A-2014,Sousse 10K,Hard,32,10,20141208,21,212010,,,Vanja Klaric,R,,SRB,17.6,203456,,,Jelena Simic,U,,BIH,22.8,5-7 7-6(6) [10-4],3,R16,,,,,,,,,,,,,,,,,,,,1002,9,726,22
 2014-W-C10-TUN-09A-2014,Sousse 10K,Hard,32,10,20141208,22,201699,4,,Martina Caregaro,R,165,ITA,22.5,206424,,,Katharina Lehnert,R,,GER,20.8,7-6(2) 6-4,3,R16,,,,,,,,,,,,,,,,,,,,437,69,712,23
-2014-W-C10-TUN-09A-2014,Sousse 10K,Hard,32,10,20141208,23,213526,8,Q,Sara Ottomano,R,,SUI,18.7,214254,,,Alice Rame,U,,FRA,17.0,0-6 6-4 [10-4],3,R16,,,,,,,,,,,,,,,,,,,,684,26,857,14
+2014-W-C10-TUN-09A-2014,Sousse 10K,Hard,32,10,20141208,23,213526,8,Q,Sara Ottomano,R,,SUI,18.7,214254,,,Alice Rame,R,,FRA,17.0,0-6 6-4 [10-4],3,R16,,,,,,,,,,,,,,,,,,,,684,26,857,14
 2014-W-C10-TUN-09A-2014,Sousse 10K,Hard,32,10,20141208,24,206184,,,Kelly Versteeg,U,,NED,20.0,203463,2,,Nuria Parrizas Diaz,R,167,ESP,23.4,6-0 1-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,705,24,318,117
 2014-W-C10-TUN-09A-2014,Sousse 10K,Hard,32,10,20141208,25,202642,1,Q,Gioia Barbieri,R,170,ITA,23.4,202656,5,,Estelle Cascino,R,,FRA,18.7,6-7(7) 7-5 [10-3],3,QF,,,,,,,,,,,,,,,,,,,,206,246,512,49
 2014-W-C10-TUN-09A-2014,Sousse 10K,Hard,32,10,20141208,26,205647,,,Tereza Malikova,R,,CZE,23.4,204376,6,,Demi Schuurs,R,170,NED,21.3,7-6(4) 6-2,3,QF,,,,,,,,,,,,,,,,,,,,755,20,546,44
@@ -9967,7 +9967,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-TUR-04A-2014,Antalya 10K,Clay,32,10,20140217,8,201553,6,,Lenka Wienerova,R,,SVK,25.8,210801,,,Catherine Chantraine,U,,BEL,20.9,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-TUR-04A-2014,Antalya 10K,Clay,32,10,20140217,9,202684,5,,Lin Zhu,R,173,CHN,20.0,213807,,WC,Cristina Moroi,R,,ROU,17.1,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-TUR-04A-2014,Antalya 10K,Clay,32,10,20140217,10,213831,,Q,Teodora Radosavljevic,R,,SRB,18.1,211811,,,Deborah Cruciani,U,,ITA,18.2,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,,
-2014-W-C10-TUR-04A-2014,Antalya 10K,Clay,32,10,20140217,11,206107,,,Zhaoxuan Yang,R,,CHN,19.0,211817,,Q,Elena Gabriela Ruse,U,,ROU,16.2,3-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
+2014-W-C10-TUR-04A-2014,Antalya 10K,Clay,32,10,20140217,11,206107,,,Zhaoxuan Yang,R,,CHN,19.0,211817,,Q,Elena Gabriela Ruse,R,,ROU,16.2,3-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-TUR-04A-2014,Antalya 10K,Clay,32,10,20140217,12,204391,,,Sofia Kvatsabaia,U,,GEO,25.5,206336,4,,Julia Stamatova,L,,BUL,20.7,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-TUR-04A-2014,Antalya 10K,Clay,32,10,20140217,13,211495,,,Helen Ploskina,R,,UKR,16.8,204220,7,,Dianne Hollands,R,,NZL,30.7,6-3 7-6(6),3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-TUR-04A-2014,Antalya 10K,Clay,32,10,20140217,14,211099,,,Nicoleta Catalina Dascalu,R,,ROU,18.1,205878,,,Ekaterina Tsiklauri,U,,RUS,24.8,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,,
@@ -10614,7 +10614,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-TUR-25A-2014,Istanbul 10K,Hard,32,10,20140721,11,213909,,,Clemence Fayol,R,,FRA,19.7,206032,,Q,Lisa Marie Maetschke,R,,GER,19.2,6-2 7-5,3,R32,,,,,,,,,,,,,,,,,,,,1059,9,,
 2014-W-C10-TUR-25A-2014,Istanbul 10K,Hard,32,10,20140721,12,211382,4,,Caroline Romeo,U,,FRA,20.0,213817,,WC,Muazzez Demirci,U,,TUR,15.5,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,540,53,,
 2014-W-C10-TUR-25A-2014,Istanbul 10K,Hard,32,10,20140721,13,212019,6,,Yan Wang,U,,CHN,18.5,206228,,,Anette Munozova,R,,SWE,22.9,7-5 6-0,3,R32,,,,,,,,,,,,,,,,,,,,632,38,887,15
-2014-W-C10-TUR-25A-2014,Istanbul 10K,Hard,32,10,20140721,14,214386,,Q,Xinyu Gao,U,,CHN,16.6,210263,,Q,Violetta Degtiareva,U,,RUS,23.0,4-6 6-2 7-6(0),3,R32,,,,,,,,,,,,,,,,,,,,1230,4,966,12
+2014-W-C10-TUR-25A-2014,Istanbul 10K,Hard,32,10,20140721,14,214386,,Q,Xinyu Gao,R,,CHN,16.6,210263,,Q,Violetta Degtiareva,U,,RUS,23.0,4-6 6-2 7-6(0),3,R32,,,,,,,,,,,,,,,,,,,,1230,4,966,12
 2014-W-C10-TUR-25A-2014,Istanbul 10K,Hard,32,10,20140721,15,205393,,,Agni Stefanou,U,,GRE,25.1,203588,,,Cristina Adamescu,R,,ROU,18.7,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,670,33,685,32
 2014-W-C10-TUR-25A-2014,Istanbul 10K,Hard,32,10,20140721,16,202688,2,,Isabella Shinikova,R,184,BUL,22.7,202553,,,Stamatia Fafaliou,U,,GRE,27.7,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,379,98,1036,10
 2014-W-C10-TUR-25A-2014,Istanbul 10K,Hard,32,10,20140721,17,201701,1,WC,Basak Eraydin,R,,TUR,20.0,211476,,Q,Victoria Vorontsova,R,,RUS,19.1,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,340,112,,
@@ -10623,16 +10623,16 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-TUR-25A-2014,Istanbul 10K,Hard,32,10,20140721,20,210848,5,,Valeria Prosperi,U,,ITA,19.2,210706,,,Stefana Andrei,R,,ROU,20.7,6-3 6-2,3,R16,,,,,,,,,,,,,,,,,,,,598,44,854,17
 2014-W-C10-TUR-25A-2014,Istanbul 10K,Hard,32,10,20140721,21,205700,,,Emma Flood,U,,NOR,23.7,203555,8,,Mai Minokoshi,U,,JPN,22.2,6-0 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,746,25,663,33
 2014-W-C10-TUR-25A-2014,Istanbul 10K,Hard,32,10,20140721,22,211382,4,,Caroline Romeo,U,,FRA,20.0,213909,,,Clemence Fayol,R,,FRA,19.7,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,540,53,1059,9
-2014-W-C10-TUR-25A-2014,Istanbul 10K,Hard,32,10,20140721,23,214386,,Q,Xinyu Gao,U,,CHN,16.6,212019,6,,Yan Wang,U,,CHN,18.5,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1230,4,632,38
+2014-W-C10-TUR-25A-2014,Istanbul 10K,Hard,32,10,20140721,23,214386,,Q,Xinyu Gao,R,,CHN,16.6,212019,6,,Yan Wang,U,,CHN,18.5,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,1230,4,632,38
 2014-W-C10-TUR-25A-2014,Istanbul 10K,Hard,32,10,20140721,24,202688,2,,Isabella Shinikova,R,184,BUL,22.7,205393,,,Agni Stefanou,U,,GRE,25.1,6-3 6-7(2) 6-2,3,R16,,,,,,,,,,,,,,,,,,,,379,98,670,33
 2014-W-C10-TUR-25A-2014,Istanbul 10K,Hard,32,10,20140721,25,203558,,,Lou Brouleau,R,,FRA,19.1,201701,1,WC,Basak Eraydin,R,,TUR,20.0,6-2 6-0,3,QF,,,,,,,,,,,,,,,,,,,,792,21,340,112
 2014-W-C10-TUR-25A-2014,Istanbul 10K,Hard,32,10,20140721,26,211825,3,,Anastasiya Saitova,U,,RUS,19.4,210848,5,,Valeria Prosperi,U,,ITA,19.2,6-4 6-2,3,QF,,,,,,,,,,,,,,,,,,,,528,55,598,44
 2014-W-C10-TUR-25A-2014,Istanbul 10K,Hard,32,10,20140721,27,211382,4,,Caroline Romeo,U,,FRA,20.0,205700,,,Emma Flood,U,,NOR,23.7,6-1 6-2,3,QF,,,,,,,,,,,,,,,,,,,,540,53,746,25
-2014-W-C10-TUR-25A-2014,Istanbul 10K,Hard,32,10,20140721,28,214386,,Q,Xinyu Gao,U,,CHN,16.6,202688,2,,Isabella Shinikova,R,184,BUL,22.7,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1230,4,379,98
+2014-W-C10-TUR-25A-2014,Istanbul 10K,Hard,32,10,20140721,28,214386,,Q,Xinyu Gao,R,,CHN,16.6,202688,2,,Isabella Shinikova,R,184,BUL,22.7,6-2 6-4,3,QF,,,,,,,,,,,,,,,,,,,,1230,4,379,98
 2014-W-C10-TUR-25A-2014,Istanbul 10K,Hard,32,10,20140721,29,203558,,,Lou Brouleau,R,,FRA,19.1,211825,3,,Anastasiya Saitova,U,,RUS,19.4,6-4 6-4,3,SF,,,,,,,,,,,,,,,,,,,,792,21,528,55
-2014-W-C10-TUR-25A-2014,Istanbul 10K,Hard,32,10,20140721,30,211382,4,,Caroline Romeo,U,,FRA,20.0,214386,,Q,Xinyu Gao,U,,CHN,16.6,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,540,53,1230,4
+2014-W-C10-TUR-25A-2014,Istanbul 10K,Hard,32,10,20140721,30,211382,4,,Caroline Romeo,U,,FRA,20.0,214386,,Q,Xinyu Gao,R,,CHN,16.6,6-3 6-3,3,SF,,,,,,,,,,,,,,,,,,,,540,53,1230,4
 2014-W-C10-TUR-25A-2014,Istanbul 10K,Hard,32,10,20140721,31,203558,,,Lou Brouleau,R,,FRA,19.1,211382,4,,Caroline Romeo,U,,FRA,20.0,6-3 6-1,3,F,,,,,,,,,,,,,,,,,,,,792,21,540,53
-2014-W-C10-TUR-26A-2014,Istanbul 10K,Hard,32,10,20140728,1,201701,1,,Basak Eraydin,R,,TUR,20.1,214386,,SE,Xinyu Gao,U,,CHN,16.6,4-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,355,107,1221,4
+2014-W-C10-TUR-26A-2014,Istanbul 10K,Hard,32,10,20140728,1,201701,1,,Basak Eraydin,R,,TUR,20.1,214386,,SE,Xinyu Gao,R,,CHN,16.6,4-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,355,107,1221,4
 2014-W-C10-TUR-26A-2014,Istanbul 10K,Hard,32,10,20140728,2,202691,,,Ani Vangelova,U,,BUL,21.0,213817,,WC,Muazzez Demirci,U,,TUR,15.5,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,934,13,,
 2014-W-C10-TUR-26A-2014,Istanbul 10K,Hard,32,10,20140728,3,203532,,,Michaela Frlicka,R,,GER,21.6,211963,,WC,Ege Tomey,U,,TUR,17.1,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,681,32,1221,4
 2014-W-C10-TUR-26A-2014,Istanbul 10K,Hard,32,10,20140728,4,212019,7,,Yan Wang,U,,CHN,18.5,214759,,Q,Viktoria Bardarova,U,,BUL,15.7,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,626,38,,
@@ -10729,7 +10729,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-TUR-29A-2014,Istanbul 10K,Hard,32,10,20140811,2,213893,,WC,Irem Kaftan,U,,TUR,15.1,213018,,WC,Ceylin Gunay,U,,TUR,16.2,2-6 6-4 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,,,,
 2014-W-C10-TUR-29A-2014,Istanbul 10K,Hard,32,10,20140811,3,204394,,,Valentini Grammatikopoulou,U,,GRE,17.5,206273,,,Claudia Coppola,R,,ITA,19.6,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,629,38,1066,8
 2014-W-C10-TUR-29A-2014,Istanbul 10K,Hard,32,10,20140811,4,201652,6,,Ksenia Palkina,R,174,KGZ,24.6,214302,,Q,Barbara Choon,U,,POR,17.1,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,533,52,,
-2014-W-C10-TUR-29A-2014,Istanbul 10K,Hard,32,10,20140811,5,214386,,,Xinyu Gao,U,,CHN,16.7,202578,3,,Laura Ioana Andrei,R,173,ROU,26.1,6-2 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1071,8,424,79
+2014-W-C10-TUR-29A-2014,Istanbul 10K,Hard,32,10,20140811,5,214386,,,Xinyu Gao,R,,CHN,16.7,202578,3,,Laura Ioana Andrei,R,173,ROU,26.1,6-2 4-6 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1071,8,424,79
 2014-W-C10-TUR-29A-2014,Istanbul 10K,Hard,32,10,20140811,6,214012,,Q,Viktoriya Zheleva,U,,BUL,16.4,213578,,,Oyku Boz,R,,TUR,16.6,6-0 6-1,3,R32,,,,,,,,,,,,,,,,,,,,,,782,21
 2014-W-C10-TUR-29A-2014,Istanbul 10K,Hard,32,10,20140811,7,211405,,Q,Ena Kajevic,R,,CRO,18.1,213767,,,Ayla Aksu,R,170,USA,18.0,7-5 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1228,4,1111,6
 2014-W-C10-TUR-29A-2014,Istanbul 10K,Hard,32,10,20140811,8,204390,5,,Pia Konig,R,,AUT,21.2,204410,,,Kanami Tsuji,U,,JPN,18.5,4-6 7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,490,63,897,14
@@ -10743,17 +10743,17 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C10-TUR-29A-2014,Istanbul 10K,Hard,32,10,20140811,16,203534,2,,Melis Sezer,R,168,TUR,21.1,206318,,Q,Gulben Guldas,U,,TUR,18.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,412,86,,
 2014-W-C10-TUR-29A-2014,Istanbul 10K,Hard,32,10,20140811,17,203567,1,,Ipek Soylu,R,174,TUR,18.3,213893,,WC,Irem Kaftan,U,,TUR,15.1,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,313,129,,
 2014-W-C10-TUR-29A-2014,Istanbul 10K,Hard,32,10,20140811,18,201652,6,,Ksenia Palkina,R,174,KGZ,24.6,204394,,,Valentini Grammatikopoulou,U,,GRE,17.5,3-6 7-5 7-6(6),3,R16,,,,,,,,,,,,,,,,,,,,533,52,629,38
-2014-W-C10-TUR-29A-2014,Istanbul 10K,Hard,32,10,20140811,19,214386,,,Xinyu Gao,U,,CHN,16.7,214012,,Q,Viktoriya Zheleva,U,,BUL,16.4,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1071,8,,
+2014-W-C10-TUR-29A-2014,Istanbul 10K,Hard,32,10,20140811,19,214386,,,Xinyu Gao,R,,CHN,16.7,214012,,Q,Viktoriya Zheleva,U,,BUL,16.4,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,1071,8,,
 2014-W-C10-TUR-29A-2014,Istanbul 10K,Hard,32,10,20140811,20,204390,5,,Pia Konig,R,,AUT,21.2,211405,,Q,Ena Kajevic,R,,CRO,18.1,6-7(4) 6-4 6-2,3,R16,,,,,,,,,,,,,,,,,,,,490,63,1228,4
 2014-W-C10-TUR-29A-2014,Istanbul 10K,Hard,32,10,20140811,21,212019,8,,Yan Wang,U,,CHN,18.6,211962,,,Muge Topsel,U,,TUR,17.4,6-2 7-6(9),3,R16,,,,,,,,,,,,,,,,,,,,596,43,1192,5
 2014-W-C10-TUR-29A-2014,Istanbul 10K,Hard,32,10,20140811,22,206107,4,,Zhaoxuan Yang,R,,CHN,19.4,206323,,Q,Leah Daw,U,,AUS,22.6,6-0 6-0,3,R16,,,,,,,,,,,,,,,,,,,,481,64,1269,3
 2014-W-C10-TUR-29A-2014,Istanbul 10K,Hard,32,10,20140811,23,205984,7,,Linda Prenkovic,R,,GER,21.6,211386,,,Melis Bayraktaroglu,U,,TUR,17.5,6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,601,42,1173,5
 2014-W-C10-TUR-29A-2014,Istanbul 10K,Hard,32,10,20140811,24,203534,2,,Melis Sezer,R,168,TUR,21.1,206227,,,Cemre Anil,R,,TUR,20.7,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,412,86,1083,8
 2014-W-C10-TUR-29A-2014,Istanbul 10K,Hard,32,10,20140811,25,203567,1,,Ipek Soylu,R,174,TUR,18.3,201652,6,,Ksenia Palkina,R,174,KGZ,24.6,6-1 6-1,3,QF,,,,,,,,,,,,,,,,,,,,313,129,533,52
-2014-W-C10-TUR-29A-2014,Istanbul 10K,Hard,32,10,20140811,26,214386,,,Xinyu Gao,U,,CHN,16.7,204390,5,,Pia Konig,R,,AUT,21.2,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,1071,8,490,63
+2014-W-C10-TUR-29A-2014,Istanbul 10K,Hard,32,10,20140811,26,214386,,,Xinyu Gao,R,,CHN,16.7,204390,5,,Pia Konig,R,,AUT,21.2,6-4 6-0,3,QF,,,,,,,,,,,,,,,,,,,,1071,8,490,63
 2014-W-C10-TUR-29A-2014,Istanbul 10K,Hard,32,10,20140811,27,206107,4,,Zhaoxuan Yang,R,,CHN,19.4,212019,8,,Yan Wang,U,,CHN,18.6,6-2 5-7 7-6(2),3,QF,,,,,,,,,,,,,,,,,,,,481,64,596,43
 2014-W-C10-TUR-29A-2014,Istanbul 10K,Hard,32,10,20140811,28,205984,7,,Linda Prenkovic,R,,GER,21.6,203534,2,,Melis Sezer,R,168,TUR,21.1,7-5 3-6 6-4,3,QF,,,,,,,,,,,,,,,,,,,,601,42,412,86
-2014-W-C10-TUR-29A-2014,Istanbul 10K,Hard,32,10,20140811,29,203567,1,,Ipek Soylu,R,174,TUR,18.3,214386,,,Xinyu Gao,U,,CHN,16.7,5-1 RET,3,SF,,,,,,,,,,,,,,,,,,,,313,129,1071,8
+2014-W-C10-TUR-29A-2014,Istanbul 10K,Hard,32,10,20140811,29,203567,1,,Ipek Soylu,R,174,TUR,18.3,214386,,,Xinyu Gao,R,,CHN,16.7,5-1 RET,3,SF,,,,,,,,,,,,,,,,,,,,313,129,1071,8
 2014-W-C10-TUR-29A-2014,Istanbul 10K,Hard,32,10,20140811,30,206107,4,,Zhaoxuan Yang,R,,CHN,19.4,205984,7,,Linda Prenkovic,R,,GER,21.6,6-4 2-6 6-0,3,SF,,,,,,,,,,,,,,,,,,,,481,64,601,42
 2014-W-C10-TUR-29A-2014,Istanbul 10K,Hard,32,10,20140811,31,206107,4,,Zhaoxuan Yang,R,,CHN,19.4,203567,1,,Ipek Soylu,R,174,TUR,18.3,7-6(4) 6-1,3,F,,,,,,,,,,,,,,,,,,,,481,64,313,129
 2014-W-C10-TUR-30A-2014,Antalya 10K,Hard,32,10,20140901,1,211432,,,Eden Silva,R,,GBR,18.4,210931,1,,Ching Wen Hsu,R,,TPE,18.0,6-4 6-3,3,R32,,,,,,,,,,,,,,,,,,,,840,17,491,62
@@ -12099,7 +12099,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C25-CHN-02A-2014,Nanning 25K,Hard,32,25,20140421,8,201442,8,,Yung Jan Chan,R,170,TPE,24.6,202939,,Q,Makoto Ninomiya,R,157,JPN,19.8,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,299,157,581,52
 2014-W-C25-CHN-02A-2014,Nanning 25K,Hard,32,25,20140421,9,211702,6,,Nao Hibino,R,163,JPN,19.3,201399,,,Emily Webley Smith,R,,GBR,29.7,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,269,188,401,96
 2014-W-C25-CHN-02A-2014,Nanning 25K,Hard,32,25,20140421,10,203288,,,Jia Jing Lu,R,173,CHN,24.4,203504,,,Miyu Kato,R,156,JPN,19.4,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,349,121,378,109
-2014-W-C25-CHN-02A-2014,Nanning 25K,Hard,32,25,20140421,11,206107,,WC,Zhaoxuan Yang,R,,CHN,19.1,214386,,Q,Xinyu Gao,U,,CHN,16.4,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,962,13,,
+2014-W-C25-CHN-02A-2014,Nanning 25K,Hard,32,25,20140421,11,206107,,WC,Zhaoxuan Yang,R,,CHN,19.1,214386,,Q,Xinyu Gao,R,,CHN,16.4,6-1 6-0,3,R32,,,,,,,,,,,,,,,,,,,,962,13,,
 2014-W-C25-CHN-02A-2014,Nanning 25K,Hard,32,25,20140421,12,201703,,,Yi Fan Xu,L,165,CHN,25.7,206183,4,,Cindy Burger,R,,NED,21.4,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,364,112,255,211
 2014-W-C25-CHN-02A-2014,Nanning 25K,Hard,32,25,20140421,13,206075,5,,Hiroko Kuwata,R,,JPN,23.3,202573,,Q,Wen Hsin Hsu,R,,TPE,25.8,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,259,202,508,67
 2014-W-C25-CHN-02A-2014,Nanning 25K,Hard,32,25,20140421,14,209205,,Q,Emma Hayman,R,,NZL,26.1,202908,,,Miyabi Inoue,R,,JPN,22.4,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,828,20,340,127
@@ -12439,7 +12439,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C25-FRA-06A-2014,Denain 25K,Clay,32,25,20140630,7,206171,,Q,Alice Bacquie,U,,FRA,18.9,214668,,WC,Marine Fontaine,U,,FRA,19.0,6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,1081,9,,
 2014-W-C25-FRA-06A-2014,Denain 25K,Clay,32,25,20140630,8,202671,5,,Cristina Andreea Mitu,R,175,ROU,22.7,205983,,Q,Josepha Adam,R,,FRA,20.6,6-7(4) 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,213,265,629,40
 2014-W-C25-FRA-06A-2014,Denain 25K,Clay,32,25,20140630,9,201664,6,,Pemra Ozgen,R,170,TUR,28.1,202461,,,Julia Cohen,R,170,USA,25.2,6-4 6-4,3,R32,,,,,,,,,,,,,,,,,,,,220,248,255,204
-2014-W-C25-FRA-06A-2014,Denain 25K,Clay,32,25,20140630,10,202656,,Q,Estelle Cascino,R,,FRA,18.2,214254,,WC,Alice Rame,U,,FRA,16.6,4-6 6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,556,53,1092,8
+2014-W-C25-FRA-06A-2014,Denain 25K,Clay,32,25,20140630,10,202656,,Q,Estelle Cascino,R,,FRA,18.2,214254,,WC,Alice Rame,R,,FRA,16.6,4-6 6-3 6-0,3,R32,,,,,,,,,,,,,,,,,,,,556,53,1092,8
 2014-W-C25-FRA-06A-2014,Denain 25K,Clay,32,25,20140630,11,202433,,Q,Anna Giulia Remondina,R,,ITA,25.0,203558,,Q,Lou Brouleau,R,,FRA,19.1,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,465,74,943,13
 2014-W-C25-FRA-06A-2014,Denain 25K,Clay,32,25,20140630,12,201526,4,,Julie Coin,R,172,FRA,31.5,201691,,,Dia Evtimova,R,168,BUL,27.1,4-0 RET,3,R32,,,,,,,,,,,,,,,,,,,,209,270,267,185
 2014-W-C25-FRA-06A-2014,Denain 25K,Clay,32,25,20140630,13,211539,,,Fiona Ferro,R,170,FRA,17.3,202379,8,,Chieh Yu Hsu,L,170,USA,22.4,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,389,100,231,238
@@ -12497,7 +12497,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C25-FRA-08A-2014,Equerdreville 25K,Hard,32,25,20141103,3,203558,,WC,Lou Brouleau,R,,FRA,19.4,202594,,,Elena Bogdan,L,183,ROU,22.6,6-2 7-6(4),3,R32,,,,,,,,,,,,,,,,,,,,568,42,545,46
 2014-W-C25-FRA-08A-2014,Equerdreville 25K,Hard,32,25,20141103,4,201526,7,,Julie Coin,R,172,FRA,31.9,211303,,Q,Deborah Kerfs,R,,BEL,19.6,6-3 6-3,3,R32,,,,,,,,,,,,,,,,,,,,247,184,685,26
 2014-W-C25-FRA-08A-2014,Equerdreville 25K,Hard,32,25,20141103,5,211843,4,,Anhelina Kalinina,R,179,UKR,17.7,202529,,,Natalia Orlova,R,,RUS,25.6,6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,268,167,514,54
-2014-W-C25-FRA-08A-2014,Equerdreville 25K,Hard,32,25,20141103,6,214254,,WC,Alice Rame,U,,FRA,16.9,214317,,Q,Mallaurie Noel,U,,FRA,19.9,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1035,9,,
+2014-W-C25-FRA-08A-2014,Equerdreville 25K,Hard,32,25,20141103,6,214254,,WC,Alice Rame,R,,FRA,16.9,214317,,Q,Mallaurie Noel,U,,FRA,19.9,6-2 6-0,3,R32,,,,,,,,,,,,,,,,,,,,1035,9,,
 2014-W-C25-FRA-08A-2014,Equerdreville 25K,Hard,32,25,20141103,7,202916,,Q,Georgina Garcia Perez,U,187,ESP,22.4,206216,,,Olga Saez Larra,U,,ESP,20.1,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,821,16,338,110
 2014-W-C25-FRA-08A-2014,Equerdreville 25K,Hard,32,25,20141103,8,202703,6,,Constance Sibille,R,,FRA,23.9,205941,,,Ganna Poznikhirenko,R,,UKR,20.5,4-2 RET,3,R32,,,,,,,,,,,,,,,,,,,,297,138,471,62
 2014-W-C25-FRA-08A-2014,Equerdreville 25K,Hard,32,25,20141103,9,202706,,,Manon Arcangioli,R,162,FRA,20.1,206045,5,,Quirine Lemoine,L,,NED,22.8,3-6 6-4 6-2,3,R32,,,,,,,,,,,,,,,,,,,,334,112,296,141
@@ -12510,7 +12510,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C25-FRA-08A-2014,Equerdreville 25K,Hard,32,25,20141103,16,200773,2,,Stephanie Foretz Gacon,R,166,FRA,33.5,211019,,WC,Audrey Albie,R,,FRA,20.0,6-3 6-1,3,R32,,,,,,,,,,,,,,,,,,,,232,200,659,29
 2014-W-C25-FRA-08A-2014,Equerdreville 25K,Hard,32,25,20141103,17,211337,,Q,Tamara Korpatsch,R,170,GER,19.4,202477,1,,Dinah Pfizenmaier,R,171,GER,22.8,5-7 6-3 7-6(4),3,R16,,,,,,,,,,,,,,,,,,,,794,18,125,460
 2014-W-C25-FRA-08A-2014,Equerdreville 25K,Hard,32,25,20141103,18,201526,7,,Julie Coin,R,172,FRA,31.9,203558,,WC,Lou Brouleau,R,,FRA,19.4,6-3 6-3,3,R16,,,,,,,,,,,,,,,,,,,,247,184,568,42
-2014-W-C25-FRA-08A-2014,Equerdreville 25K,Hard,32,25,20141103,19,211843,4,,Anhelina Kalinina,R,179,UKR,17.7,214254,,WC,Alice Rame,U,,FRA,16.9,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,268,167,1035,9
+2014-W-C25-FRA-08A-2014,Equerdreville 25K,Hard,32,25,20141103,19,211843,4,,Anhelina Kalinina,R,179,UKR,17.7,214254,,WC,Alice Rame,R,,FRA,16.9,6-1 6-2,3,R16,,,,,,,,,,,,,,,,,,,,268,167,1035,9
 2014-W-C25-FRA-08A-2014,Equerdreville 25K,Hard,32,25,20141103,20,202703,6,,Constance Sibille,R,,FRA,23.9,202916,,Q,Georgina Garcia Perez,U,187,ESP,22.4,6-3 1-0 RET,3,R16,,,,,,,,,,,,,,,,,,,,297,138,821,16
 2014-W-C25-FRA-08A-2014,Equerdreville 25K,Hard,32,25,20141103,21,202706,,,Manon Arcangioli,R,162,FRA,20.1,202464,,,Yuliana Lizarazo,R,175,COL,21.4,6-4 6-3,3,R16,,,,,,,,,,,,,,,,,,,,334,112,356,101
 2014-W-C25-FRA-08A-2014,Equerdreville 25K,Hard,32,25,20141103,22,206183,3,,Cindy Burger,R,,NED,21.9,211539,,,Fiona Ferro,R,170,FRA,17.6,6-1 6-3,3,R16,,,,,,,,,,,,,,,,,,,,224,210,367,94
@@ -13091,7 +13091,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C25-HUN-01A-2014,Budapest 25K,Clay,32,25,20140609,8,203415,6,,Ilona Kremen,R,,BLR,20.3,202832,,,Katerina Kramperova,R,,CZE,25.4,7-5 6-4,3,R32,,,,,,,,,,,,,,,,,,,,227,245,329,130
 2014-W-C25-HUN-01A-2014,Budapest 25K,Clay,32,25,20140609,9,204384,,,Agnes Bukta,R,,HUN,20.6,201617,8,,Ana Vrljic,R,,CRO,29.8,6-1 6-4,3,R32,,,,,,,,,,,,,,,,,,,,337,125,243,227
 2014-W-C25-HUN-01A-2014,Budapest 25K,Clay,32,25,20140609,10,201691,,,Dia Evtimova,R,168,BUL,27.1,201435,,Q,Kateryna Bondarenko,R,175,UKR,27.8,1-6 6-2 7-6(3),3,R32,,,,,,,,,,,,,,,,,,,,284,168,1159,5
-2014-W-C25-HUN-01A-2014,Budapest 25K,Clay,32,25,20140609,11,213646,,WC,Dalma Galfi,U,,HUN,15.8,211685,,Q,Rebecca Sramkova,R,,SVK,17.6,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,476,71
+2014-W-C25-HUN-01A-2014,Budapest 25K,Clay,32,25,20140609,11,213646,,WC,Dalma Galfi,R,178,HUN,15.8,211685,,Q,Rebecca Sramkova,R,,SVK,17.6,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,,,476,71
 2014-W-C25-HUN-01A-2014,Budapest 25K,Clay,32,25,20140609,12,202436,,,Reka Luca Jani,R,161,HUN,22.8,201526,4,,Julie Coin,R,172,FRA,31.5,6-2 6-2,3,R32,,,,,,,,,,,,,,,,,,,,257,204,211,270
 2014-W-C25-HUN-01A-2014,Budapest 25K,Clay,32,25,20140609,13,203349,,Q,Milana Spremo,R,,SRB,22.5,202579,5,,Giulia Gatto Monticone,R,177,ITA,26.5,6-4 1-6 6-3,3,R32,,,,,,,,,,,,,,,,,,,,430,83,230,244
 2014-W-C25-HUN-01A-2014,Budapest 25K,Clay,32,25,20140609,14,211977,,Q,Adrijana Lekaj,R,170,CRO,18.9,205941,,,Ganna Poznikhirenko,R,,UKR,20.1,6-4 6-0,3,R32,,,,,,,,,,,,,,,,,,,,656,36,323,134
@@ -13102,7 +13102,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C25-HUN-01A-2014,Budapest 25K,Clay,32,25,20140609,19,202653,,,Denisa Allertova,R,180,CZE,21.2,203414,,Q,Nicole Melichar,R,,USA,20.8,7-6(7) 6-0,3,R16,,,,,,,,,,,,,,,,,,,,255,208,579,47
 2014-W-C25-HUN-01A-2014,Budapest 25K,Clay,32,25,20140609,20,206335,,Q,Jesika Maleckova,R,,CZE,19.8,203415,6,,Ilona Kremen,R,,BLR,20.3,6-2 6-1,3,R16,,,,,,,,,,,,,,,,,,,,599,44,227,245
 2014-W-C25-HUN-01A-2014,Budapest 25K,Clay,32,25,20140609,21,201691,,,Dia Evtimova,R,168,BUL,27.1,204384,,,Agnes Bukta,R,,HUN,20.6,6-4 6-4,3,R16,,,,,,,,,,,,,,,,,,,,284,168,337,125
-2014-W-C25-HUN-01A-2014,Budapest 25K,Clay,32,25,20140609,22,202436,,,Reka Luca Jani,R,161,HUN,22.8,213646,,WC,Dalma Galfi,U,,HUN,15.8,2-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,257,204,,
+2014-W-C25-HUN-01A-2014,Budapest 25K,Clay,32,25,20140609,22,202436,,,Reka Luca Jani,R,161,HUN,22.8,213646,,WC,Dalma Galfi,R,178,HUN,15.8,2-6 6-3 6-1,3,R16,,,,,,,,,,,,,,,,,,,,257,204,,
 2014-W-C25-HUN-01A-2014,Budapest 25K,Clay,32,25,20140609,23,211977,,Q,Adrijana Lekaj,R,170,CRO,18.9,203349,,Q,Milana Spremo,R,,SRB,22.5,6-2 2-6 6-1,3,R16,,,,,,,,,,,,,,,,,,,,656,36,430,83
 2014-W-C25-HUN-01A-2014,Budapest 25K,Clay,32,25,20140609,24,202873,,SR,Ana Savic,U,,CRO,24.6,214388,,WC,Anna Bondar,R,,HUN,17.0,6-4 6-0,3,R16,,,,,,,,,,,,,,,,,,,,521,60,958,12
 2014-W-C25-HUN-01A-2014,Budapest 25K,Clay,32,25,20140609,25,201683,,SR,Bianca Botto,L,178,PER,23.0,203376,,LL,Eugeniya Pashkova,R,,RUS,25.3,7-5 6-0,3,QF,,,,,,,,,,,,,,,,,,,,422,86,403,94
@@ -14701,7 +14701,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C25-USA-05A-2014,Rancho Santa Fe CA 25K,Hard,32,25,20140210,6,206350,,WC,Christina Makarova,R,,USA,17.7,214008,,LL,Elizabeth Kilborn,U,,USA,22.9,7-5 6-1,3,R32,,,,,,,,,,,,,,,,,,,,630,44,1242,3
 2014-W-C25-USA-05A-2014,Rancho Santa Fe CA 25K,Hard,32,25,20140210,7,213631,,Q,Marie Bouzkova,R,180,CZE,15.5,205723,,,Anna Zaja,R,183,GER,22.6,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,1233,3,404,100
 2014-W-C25-USA-05A-2014,Rancho Santa Fe CA 25K,Hard,32,25,20140210,8,201481,5,,Tamira Paszek,R,165,AUT,23.1,204388,,,Lisa Maria Moser,R,,AUT,22.8,6-1 6-1,3,R32,,,,,,,,,,,,,,,,,,,,217,275,328,140
-2014-W-C25-USA-05A-2014,Rancho Santa Fe CA 25K,Hard,32,25,20140210,9,202681,6,,Gabriela Dabrowski,R,175,CAN,21.8,214262,,WC,Ena Shibahara,R,170,USA,15.9,6-3 1-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,223,269,,
+2014-W-C25-USA-05A-2014,Rancho Santa Fe CA 25K,Hard,32,25,20140210,9,202681,6,,Gabriela Dabrowski,R,175,CAN,21.8,214262,,WC,Ena Shibahara,R,170,JPN,15.9,6-3 1-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,223,269,,
 2014-W-C25-USA-05A-2014,Rancho Santa Fe CA 25K,Hard,32,25,20140210,10,202426,,SR,Julia Boserup,R,181,USA,22.4,214263,,Q,Catherine Cartan Bellis,R,,USA,14.8,3-6 6-2 6-1,3,R32,,,,,,,,,,,,,,,,,,,,345,125,,
 2014-W-C25-USA-05A-2014,Rancho Santa Fe CA 25K,Hard,32,25,20140210,11,201509,,,Ashley Weinhold,R,165,USA,24.6,201607,,,Sally Peers,R,162,AUS,22.6,6-4 6-1,3,R32,,,,,,,,,,,,,,,,,,,,400,101,434,87
 2014-W-C25-USA-05A-2014,Rancho Santa Fe CA 25K,Hard,32,25,20140210,12,203398,,WC,Danielle Lao,R,160,USA,22.7,201477,4,,Stephanie Dubois,R,162,CAN,27.2,7-6(9) 1-6 6-2,3,R32,,,,,,,,,,,,,,,,,,,,595,48,216,276
@@ -15286,7 +15286,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C50-AUS-04A-2014,Bendigo 50K,Hard,32,50,20141110,2,201691,,,Dia Evtimova,R,168,BUL,27.5,201598,,,Noppawan Lertcheewakarn,R,167,THA,22.9,6-3 6-4,3,R32,,,,,,,,,,,,,,,,,,,,307,127,273,162
 2014-W-C50-AUS-04A-2014,Bendigo 50K,Hard,32,50,20141110,3,203578,,,Fangzhou Liu,R,180,CHN,18.9,201613,,,Arina Rodionova,R,168,AUS,24.9,6-2 6-4,3,R32,,,,,,,,,,,,,,,,,,,,238,198,259,175
 2014-W-C50-AUS-04A-2014,Bendigo 50K,Hard,32,50,20141110,4,201611,7,,Daria Saville,R,166,AUS,20.6,205923,,Q,Abbie Myers,R,175,AUS,20.3,6-3 7-6(2),3,R32,,,,,,,,,,,,,,,,,,,,244,193,603,35
-2014-W-C50-AUS-04A-2014,Bendigo 50K,Hard,32,50,20141110,5,211702,4,,Nao Hibino,R,163,JPN,19.9,214386,,Q,Xinyu Gao,U,,CHN,16.9,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,214,232,904,13
+2014-W-C50-AUS-04A-2014,Bendigo 50K,Hard,32,50,20141110,5,211702,4,,Nao Hibino,R,163,JPN,19.9,214386,,Q,Xinyu Gao,R,,CHN,16.9,6-3 6-2,3,R32,,,,,,,,,,,,,,,,,,,,214,232,904,13
 2014-W-C50-AUS-04A-2014,Bendigo 50K,Hard,32,50,20141110,6,206107,,,Zhaoxuan Yang,R,,CHN,19.7,210537,,Q,Michika Ozeki,U,,JPN,22.6,7-5 3-6 6-4,3,R32,,,,,,,,,,,,,,,,,,,,279,158,478,60
 2014-W-C50-AUS-04A-2014,Bendigo 50K,Hard,32,50,20141110,7,202636,,,Zuzana Zlochova,R,,SVK,24.7,214040,,WC,Kimberly Birrell,R,170,AUS,16.5,6-1 6-2,3,R32,,,,,,,,,,,,,,,,,,,,298,133,,
 2014-W-C50-AUS-04A-2014,Bendigo 50K,Hard,32,50,20141110,8,202430,8,,Alize Lim,R,173,FRA,24.3,202908,,,Miyabi Inoue,R,,JPN,22.9,6-4 5-7 6-1,3,R32,,,,,,,,,,,,,,,,,,,,224,212,358,101
@@ -16523,7 +16523,7 @@ tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,w
 2014-W-C75-JPN-02A-2014,Toyota 75K,Carpet,32,75,20141117,30,202420,4,,An Sophie Mestach,R,170,BEL,20.6,200617,2,,Kimiko Date Krumm,R,163,JPN,44.1,6-2 RET,3,SF,,,,,,,,,,,,,,,,,,,,123,463,101,574
 2014-W-C75-JPN-02A-2014,Toyota 75K,Carpet,32,75,20141117,31,202420,4,,An Sophie Mestach,R,170,BEL,20.6,202422,,,Shuko Aoyama,R,154,JPN,26.9,6-1 6-1,3,F,,,,,,,,,,,,,,,,,,,,123,463,230,206
 2014-W-C75-SVK-01A-2014,Trnava 75K,Clay,32,75,20140505,1,201366,1,,Barbora Strycova,R,164,CZE,28.1,201666,,,Cagla Buyukakcay,R,172,TUR,24.5,4-6 6-4 7-5,3,R32,,,,,,,,,,,,,,,,,,,,55,1002,149,451
-2014-W-C75-SVK-01A-2014,Trnava 75K,Clay,32,75,20140505,2,201556,,,Lucie Hradecka,R,177,CZE,28.9,213646,,WC,Dalma Galfi,U,,HUN,15.7,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,138,483,,
+2014-W-C75-SVK-01A-2014,Trnava 75K,Clay,32,75,20140505,2,201556,,,Lucie Hradecka,R,177,CZE,28.9,213646,,WC,Dalma Galfi,R,178,HUN,15.7,6-2 6-3,3,R32,,,,,,,,,,,,,,,,,,,,138,483,,
 2014-W-C75-SVK-01A-2014,Trnava 75K,Clay,32,75,20140505,3,201483,,,Madison Brengle,R,168,USA,24.0,203530,,,Viktorija Golubic,R,169,SUI,21.5,6-3 7-5,3,R32,,,,,,,,,,,,,,,,,,,,162,391,177,361
 2014-W-C75-SVK-01A-2014,Trnava 75K,Clay,32,75,20140505,4,202671,,Q,Cristina Andreea Mitu,R,175,ROU,22.6,206252,,LL,Barbora Krejcikova,R,178,CZE,18.3,7-6(4) 5-7 7-6(5),3,R32,,,,,,,,,,,,,,,,,,,,198,298,340,126
 2014-W-C75-SVK-01A-2014,Trnava 75K,Clay,32,75,20140505,5,201656,,,Tadeja Majeric,R,178,SLO,23.6,202498,3,,Julia Glushko,R,171,ISR,24.3,7-6(3) 6-1,3,R32,,,,,,,,,,,,,,,,,,,,121,531,96,653
